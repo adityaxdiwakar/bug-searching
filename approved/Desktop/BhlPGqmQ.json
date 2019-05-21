@@ -1,0 +1,17 @@
+{
+ "id": "59b3cd23cdc5f2a8d850b42b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1103,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/BhlPGqmQ",
+ "data": {
+  "system_settings": "Windows 10 Home (Version 1703)",
+  "client_settings": "Discord Canary (Build 4053, 0.0.163)",
+  "actual_result": "It does not, with the right side having no padding at all",
+  "expected_result": "The name of the category has adequate padding on either side",
+  "short_description": "When you delete a category with a long name, it will go to the exact end of the delete box.",
+  "steps_to_repro": "- Create a category with a long name (without any spaces) - Try to delete the category"
+ }
+}

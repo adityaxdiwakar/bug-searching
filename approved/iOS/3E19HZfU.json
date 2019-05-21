@@ -1,0 +1,30 @@
+{
+ "id": "5a70f84c048301294ba0cb3f",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 551,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3E19HZfU",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.5 & iPad Air 2, iOS 11.3 PB 1",
+  "client_settings": "TestFlight 2.2.2 (2352)",
+  "actual_result": "It is shown below the message.",
+  "expected_result": "Edit info or timestamp should be shown next to the message and not below like it used to be.",
+  "short_description": "Timestamps for system messages and edit info below the message displayed",
+  "steps_to_repro": "- Send any message - Edit it - Observe the edit info - Same can be reproduced with the timestamp for a system message like a join message"
+ }
+}

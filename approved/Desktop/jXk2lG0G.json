@@ -1,0 +1,30 @@
+{
+ "id": "5bef28672a333358025b9419",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3397,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jXk2lG0G",
+ "data": {
+  "system_settings": "FireFox 63.0.3 Windows 10 Home x64 1803",
+  "client_settings": "Stable Build 28105",
+  "actual_result": "Reaction modal scales improperly, showing all the users, and stretches off screen, not allowing you to view other reactions",
+  "expected_result": "Reaction modal scales properly and allows you to scroll",
+  "short_description": "Reactions modal scales improperly on Firefox",
+  "steps_to_repro": "- Get a bunch of people to add reactions to a message (Make sure that one reaction has at least 25 reactions on it) - View the reactions and make sure you're viewing one with a small number of reactions - Click on the reaction with at least 25 reactions - Observe the reactions modal"
+ }
+}

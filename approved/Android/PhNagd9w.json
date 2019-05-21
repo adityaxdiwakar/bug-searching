@@ -1,0 +1,30 @@
+{
+ "id": "5ba7f90d87a3e24c085036e6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2001,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PhNagd9w",
+ "data": {
+  "system_settings": "Samsung Galaxy J1 Ace, Android 4.4.4",
+  "client_settings": "alpha 754",
+  "actual_result": "no toast appears",
+  "expected_result": "toast message should appear",
+  "short_description": "No toast when sending a friend request after making a call",
+  "steps_to_repro": "- attempt to call the bot/user - click the \"send friend request\" button - observe how there is no toast message"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "id": "5861d57b4ac800ef406f4e29",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 141,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rwVmwDi3",
+ "data": {
+  "actual_result": "Status bar vanishes",
+  "expected_result": "Theme switches and status bar doesn't vanish",
+  "short_description": "Switching from dark to light mode (and vice-versa) makes the iOS statusbar disappear",
+  "steps_to_repro": "- Open Settings > Appearance - Switch themes "
+ }
+}

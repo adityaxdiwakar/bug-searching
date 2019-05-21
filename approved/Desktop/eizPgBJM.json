@@ -1,0 +1,36 @@
+{
+ "id": "5992817e53954757c29310e4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 992,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eizPgBJM",
+ "data": {
+  "system_settings": "Windows 8.1 x64",
+  "client_settings": "Stable 0.0.298",
+  "actual_result": "screen is replaced by screen saver / falls asleep and you can no longer see your friend :(",
+  "expected_result": "screen stays awake",
+  "short_description": "Screen sleeps even when video call is in fullscreen",
+  "steps_to_repro": "- join a video call - full screen your friend's video - wait until your computer normally falls asleep / your screen saver pops up"
+ }
+}

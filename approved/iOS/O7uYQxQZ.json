@@ -1,0 +1,30 @@
+{
+ "id": "5a74c5f6c9793f1cec391ad4",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 559,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/O7uYQxQZ",
+ "data": {
+  "system_settings": "iPhone 6 iOS 10.3.2",
+  "client_settings": "TestFlight Build 2.2.2 (2352)",
+  "actual_result": "The app crashes",
+  "expected_result": "The theme should change without crashing",
+  "short_description": "App crashes when you got search open and you switch theme",
+  "steps_to_repro": "- Enable Sync across clients in the Appearance tab if you haven't - Go to any server and tap on the magnifying bar. Search for something if you want - Go to your computer and switch your theme"
+ }
+}

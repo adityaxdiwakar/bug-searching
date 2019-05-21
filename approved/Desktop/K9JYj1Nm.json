@@ -1,0 +1,30 @@
+{
+ "id": "5ad50a2e3151b25539f098c3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1856,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/K9JYj1Nm",
+ "data": {
+  "system_settings": "Windows 7 Ultimate x64",
+  "client_settings": "Stable Build Number: 13537",
+  "actual_result": "Discord crashes and a new role is made",
+  "expected_result": "New role doesn't get added and is stopped by the save dialog",
+  "short_description": "Adding new role while new changes are being saved crashes Discord",
+  "steps_to_repro": "- Go to roles menu in server settings - Make changes, preferrably a lot of new roles - Hit save button - While it's still saving, try to add a new role"
+ }
+}

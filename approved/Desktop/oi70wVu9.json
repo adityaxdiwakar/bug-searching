@@ -1,0 +1,17 @@
+{
+ "id": "5b96b66fef6ddd43cd0ab59d",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2957,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/oi70wVu9",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 23321",
+  "actual_result": "Some areas are highlighted, see attachments",
+  "expected_result": "Areas should not be highlightable if the mention is not visible",
+  "short_description": "Inconsistency with how channel topics show that there is more content",
+  "steps_to_repro": "- Write a long channel description and mention a channel or role in it - Resize your client/edit the length of the message so it gets cut off, with the \"...\" indicating that there is more content - Have the mention be just after the ... and hover over the \"...\" or directly behind them"
+ }
+}

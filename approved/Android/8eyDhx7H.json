@@ -1,0 +1,17 @@
+{
+ "id": "59d9704e53cbba10ffa229c7",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 798,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8eyDhx7H",
+ "data": {
+  "system_settings": "Android 7.0",
+  "client_settings": "Discord Android 5.2.6",
+  "actual_result": "Everyone who's in the group gets called, even those in the call",
+  "expected_result": "You would join the call without anyone extra being bothered",
+  "short_description": "Joining group DM calls on mobile calls entire group",
+  "steps_to_repro": "- Join a group DM"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5c008ac73a397b0e2b68a586",
+ "closed": false,
+ "idList": "5b2c2c15607b8393dd858ccb",
+ "idShort": 1191,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AKEYfMTx",
+ "data": {
+  "system_settings": "iPad 2018 Model running iOS 12.1 and iPhone XS Max running iOS 12.1.1 Dev Beta 3",
+  "client_settings": "iOS TestFlight 2.4.0 (9370)",
+  "actual_result": "When typing fast, it comes up as meowbunce, as the o letter is missed.",
+  "expected_result": "If you typed in meowbounce, it should look like : meowbounce :",
+  "short_description": "When typing fast, a letter goes missing as the autocomplete pops up while you type.",
+  "steps_to_repro": "- Go to a channel of your choice - Input : and prepare yourself to type fast. - Type in an emoji name as fast that you can without making typos, this will take at probably 10 to 15 attempts if you don't get it for the first time. Longer emojis are easier to reproduce. - Observe what you typed."
+ }
+}

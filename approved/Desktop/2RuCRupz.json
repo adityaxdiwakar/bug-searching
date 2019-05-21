@@ -1,0 +1,30 @@
+{
+ "id": "599f104a69ef511798d08fb7",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1037,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2RuCRupz",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Discord PTB",
+  "actual_result": "Couldn't find them",
+  "expected_result": "To be able to find them in the search bar",
+  "short_description": "the User that are invited by other users in a group don't show up in the search bar",
+  "steps_to_repro": "- Create a group with couple of users in it-  make one of the users invite other user to the- try to search for posts from the user that is invited by another user"
+ }
+}

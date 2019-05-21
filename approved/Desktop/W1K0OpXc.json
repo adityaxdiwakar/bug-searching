@@ -1,0 +1,30 @@
+{
+ "id": "5b56f808540b208b5164a166",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2414,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/W1K0OpXc",
+ "data": {
+  "system_settings": "Windows 7 64-bit",
+  "client_settings": "Release Channel: canary, Build Number: 19322, Version Hash: f271b728347df4ecf9f576003ff998f0e58c8226",
+  "actual_result": "An uncaught exception \"Failed to set the 'currentTime' property\" causes Discord to crash.",
+  "expected_result": "Since the audio file is 0:00 long, it should skip to the beginning.",
+  "short_description": "Uncaught exception seeking specially \"short\"  file",
+  "steps_to_repro": "- Download the following \"smallest possible\" wav file: github com/mathiasbynens/small/blob/master/wav wav- Send it to a Discord server, so that the sound embed shows up - Click anywhere on the seek bar (it should say 0:00 anywhere on the bar)."
+ }
+}

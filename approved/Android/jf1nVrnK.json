@@ -1,0 +1,16 @@
+{
+ "id": "58b0c8d7c46755dc381ec887",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 254,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/jf1nVrnK",
+ "data": {
+  "system_settings": " Android 5.1 Discord 3.3.8",
+  "actual_result": "it shows them all",
+  "expected_result": "it displays only the rooms you can see",
+  "short_description": "search in channel shows all the channels in the server when you don't have access to see them",
+  "steps_to_repro": "- click in channel "
+ }
+}

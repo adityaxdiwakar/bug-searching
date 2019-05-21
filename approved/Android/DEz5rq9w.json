@@ -1,0 +1,24 @@
+{
+ "id": "5a0c1fb9111c0b511b66f646",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 901,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DEz5rq9w",
+ "data": {
+  "system_settings": "tecno c9 Android 6.0",
+  "client_settings": "Discord alpha 5.6.8",
+  "actual_result": "the send button hides the option the change the camera.",
+  "expected_result": "you should be able to.",
+  "short_description": "Can't change between front and rear camera when trying to take a second pic in a one message",
+  "steps_to_repro": "-go to the inapp camera option-take a pic.-open the inapp camera again before sending the first pic you took before.-try to switch the camera to rear/front."
+ }
+}

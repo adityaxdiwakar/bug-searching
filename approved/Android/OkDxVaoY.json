@@ -1,0 +1,29 @@
+{
+ "id": "590a5e0554bf74fe297cbcab",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 426,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OkDxVaoY",
+ "data": {
+  "system_settings": " Latest Discord android alpha, Android Lollipop, Samsung Galaxy S6",
+  "actual_result": "You can type in the unauthorised to send messages box",
+  "expected_result": "You can't type in the unauthorised to send messages box",
+  "short_description": "Ability to type in unauthorised to send messages text box",
+  "steps_to_repro": "- Have someone type a invite link such as \"discord.gg/discord-testers\"- Click on the invite so the invite modal pops up- Click \"Join Discord Testers\" so it puts you in the default channel that's locked (#rules in this case)- Type in the message bar "
+ }
+}

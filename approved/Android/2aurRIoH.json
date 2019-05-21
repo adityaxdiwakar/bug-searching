@@ -1,0 +1,30 @@
+{
+ "id": "5a9204e2fe6bdbf8b54a2260",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1139,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2aurRIoH",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.8",
+  "actual_result": "The focus on the textfield is lost, but keyboard is still open for some reason",
+  "expected_result": "Not sure whether multiple lines are supported in notes, if not then it should just close the keyboard I guess",
+  "short_description": "In user note field, tapping on the Enter key loses the focus of field but the keyboard is still open",
+  "steps_to_repro": "- Open any user profile - Tap on the \"Note\" text field - Tap the Enter key of your keyboard"
+ }
+}

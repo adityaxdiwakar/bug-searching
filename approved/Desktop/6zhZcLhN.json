@@ -1,0 +1,24 @@
+{
+ "id": "59be4273aab6404923f128b8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1151,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6zhZcLhN",
+ "data": {
+  "system_settings": "macOS Sierra, 10.12.6",
+  "client_settings": "Mac Discord Canary, 0.0.154 (0.0.154)",
+  "actual_result": "The option shows the \"Select...\" filler text:",
+  "expected_result": "The option you clicked on should show up as selected in the box.",
+  "short_description": "Selecting options to customize an invite's duration or number of usages cannot be selected.",
+  "steps_to_repro": "- Have permission to create an invite for the server (either through administrator or create invite permission). - Click the gear to customize options. - Select an option from \"expire after\" or \"max number of uses\". - Observe that the options render the box with faded-out (deselected) gray filler text that says \"Select...\", as if nothing was selected."
+ }
+}

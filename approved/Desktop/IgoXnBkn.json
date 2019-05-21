@@ -1,0 +1,17 @@
+{
+ "id": "5bfb3eb6070e0069b3baca45",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 3436,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IgoXnBkn",
+ "data": {
+  "system_settings": "Windows 10 64x 1809.",
+  "client_settings": "Canary 28325",
+  "actual_result": "Notification is shown.",
+  "expected_result": "No Notification is shown.",
+  "short_description": "[Overlay] Overlay still provides you with Notifications even when \"Disable Notification\" is true for Streamer Mode",
+  "steps_to_repro": "- Enable Streamer Mode - Enable the \"Disable Notifications\" for Streamer mode (Note all the other settings work correctly in overlay) - Open a game with lovely overlay enabled. - Get a Notification from someone, and notice the notification show in game."
+ }
+}

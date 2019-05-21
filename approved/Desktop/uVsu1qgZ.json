@@ -1,0 +1,22 @@
+{
+ "id": "5880ffb9a44412281f580f71",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 340,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uVsu1qgZ",
+ "data": {
+  "actual_result": "Nothing (System Message in the way?)",
+  "expected_result": "Editing your last message",
+  "short_description": "UpArrow doesn't edit last message after pinning it",
+  "steps_to_repro": "- Send a message - Pin it - Use UpArrow to edit your last message "
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59d9fa3fe0f1e68265cc1679",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1238,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DY8QGZ8C",
+ "data": {
+  "system_settings": "Dell Latitude E5540 (Intel Core i7 vPro) with Windows 10 Pro, x64 bit... Version 1703, OS Build 15063.674",
+  "client_settings": "Discord Stable: 0.0.298, Discord Canary: 0.0.165",
+  "actual_result": "NSFW feature turns off automatically, there is nothing about it in the aduit log and I am the only admin. This happens after some extended period of time, as it is not a right away result.",
+  "expected_result": "NSFW content is turned on for the channel, and stays that way unless settings are changed",
+  "short_description": "NSFW Feature Automatically Unticks in Server after a Period of Time.",
+  "steps_to_repro": "-Use a server, or create a new one.-Create a channel, or use one.-Go to Channel Settings, then turn on NSFW content.-Supervise the server for a few hours to a few days (maybe switch between desktop and phone, but it's optional.)"
+ }
+}

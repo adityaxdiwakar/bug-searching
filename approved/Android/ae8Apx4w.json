@@ -1,0 +1,17 @@
+{
+ "id": "5a3ce6326cd7f7ec8d242719",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 993,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ae8Apx4w",
+ "data": {
+  "system_settings": "OnePlus 5, Android 7.1.1",
+  "client_settings": "Android alpha 5.9.4",
+  "actual_result": "Nothing happens",
+  "expected_result": "An @ followed by the person's name and discrim should appear (to mention)",
+  "short_description": "Can mention while in landscape mode. Problem persists on switching back to portrait mode",
+  "steps_to_repro": "- Open a text channel - Switch to landscape mode - Tap on someone's username"
+ }
+}

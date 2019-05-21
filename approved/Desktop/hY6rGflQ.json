@@ -1,0 +1,24 @@
+{
+ "id": "59ad6f1614a0c7189ca76e64",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1085,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hY6rGflQ",
+ "data": {
+  "system_settings": "MacBook Pro 2017 13-inch, macOS Sierra 10.12.6",
+  "client_settings": "Canary 0.0.154",
+  "actual_result": "The default cursor is shown for the top half of the button, and the hand cursor for the bottom half",
+  "expected_result": "The default cursor is shown for both halves of each button (standard macOS behavior)",
+  "short_description": "macOS close buttons have inconsistent cursors",
+  "steps_to_repro": "- Open Discord for Mac - Mouse over both the top and bottom halves of the close, minimize, or full screen buttons"
+ }
+}

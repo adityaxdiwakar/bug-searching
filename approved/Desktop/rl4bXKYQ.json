@@ -1,0 +1,17 @@
+{
+ "id": "59bd46edd0de286ac9404039",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1142,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rl4bXKYQ",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, Build 4358",
+  "actual_result": "The channel will only move if you do it twice.",
+  "expected_result": "The channel to move where you positioned it",
+  "short_description": "Moving channels inside of categories often takes 2 attempts before it moves",
+  "steps_to_repro": "- Create new channel in category - Move channel above another channel"
+ }
+}

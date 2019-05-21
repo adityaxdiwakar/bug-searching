@@ -1,0 +1,17 @@
+{
+ "id": "59782aeb8483093f546127a6",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 579,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9k5taYVy",
+ "data": {
+  "system_settings": "Android 7.0 Nougat",
+  "client_settings": "Beta 4.0.2",
+  "actual_result": "Channel list will be displayed from the top, middle or even bottom \\*\\*Note:\\*\\* This can also be reproduced by switching between servers.",
+  "expected_result": "Channel list will always display the channel list from the very top",
+  "short_description": "Channel list doesn't always display from the top",
+  "steps_to_repro": "- Hide several channels (7+) - Have at least 4 channels visible - Close app and reopen it"
+ }
+}

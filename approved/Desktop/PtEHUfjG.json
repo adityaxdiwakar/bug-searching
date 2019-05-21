@@ -1,0 +1,24 @@
+{
+ "id": "5b51c39415fffa0c811bc790",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2360,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PtEHUfjG",
+ "data": {
+  "system_settings": "iOS 10.2.1 (iPhone)",
+  "client_settings": "Safari on mobile iOS 10.2.1",
+  "actual_result": "Can only scroll down a small amount of the page (not even past the first paragraph on my iPhone).",
+  "expected_result": "Able to scroll down and read the entire page.",
+  "short_description": "[Website Bug] Cannot fully scroll down pages on the Developer Portal of the Discord website.",
+  "steps_to_repro": "- Open one of the pages seen on the sidebar of the Developer Portal, i.e. <> - Scroll to the bottom of the page."
+ }
+}

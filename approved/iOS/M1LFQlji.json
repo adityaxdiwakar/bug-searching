@@ -1,0 +1,30 @@
+{
+ "id": "5b05ac60b7b6313ec0fbb0d3",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 765,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/M1LFQlji",
+ "data": {
+  "system_settings": "iOS 9.0.2, iPad 4",
+  "client_settings": "Discord Stable, 2.3.1",
+  "actual_result": "Load",
+  "expected_result": "Load  in the Safari popover",
+  "short_description": "`%` in a URL becomes `%25` when clicked on iOS",
+  "steps_to_repro": "- Click on a link with a URL-encoded character like `%20` in it"
+ }
+}

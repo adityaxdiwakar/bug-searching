@@ -1,0 +1,30 @@
+{
+ "id": "5b199e00fcbea81788a4c779",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1508,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/53RRwcCh",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.8",
+  "actual_result": "Inline codeblocks height/padding will vary depending on whether the message is single line or multi line, whether it's in the first line or last line of the message, whether there is text near the codeblock or if the line is entirely made of codeblock... In a nutshell, very inconsistent.",
+  "expected_result": "All inline codeblocks should have same height/padding (unless there is an emoji near the codeblock, which is the subject of another report)",
+  "short_description": "Having single line codeblocks in messages containing linebreaks makes the height of the codeblocks very inconsistent",
+  "steps_to_repro": "- First, send a message with just one line of text including a piece of inline codeblock. Take note of the upper and lower paddings in the codeblock - Now write a second message with multiple lines, the first line being an inline codeblock, the second line being normal text, and the third line being another inline codeblock - Compare the height/paddings between all codeblocks"
+ }
+}

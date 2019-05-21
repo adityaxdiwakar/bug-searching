@@ -1,0 +1,30 @@
+{
+ "id": "5a265ddd469432d9bc185b87",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1427,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VJLZEXDa",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "stable Build 7889,",
+  "actual_result": "unscrollable",
+  "expected_result": "a nice scrolling list",
+  "short_description": "User Profile borked on desktop with firefox 57.0.1 64-bit",
+  "steps_to_repro": "- Click on your user profile - select mutual friends"
+ }
+}

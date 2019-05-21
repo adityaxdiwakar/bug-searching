@@ -1,0 +1,30 @@
+{
+ "id": "5bb7d7f4094e4d52321bc77b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2112,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4xuWKNSw",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.6.3",
+  "actual_result": "Everything between the protocol and the @ is gone. In this example, `testbug@` will vanish, leaving only `http:// dabbit` in the message view",
+  "expected_result": "It should show the link as you typed it",
+  "short_description": "If you put an @ symbol inside a link, everything between the http:// and the @ disappears",
+  "steps_to_repro": "- Send a message containing a link with an @ symbol inside, e.g `http:// testbug @ dabbit`(make sure to remove spaces) - Observe the message in Android client"
+ }
+}

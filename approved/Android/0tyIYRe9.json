@@ -1,0 +1,30 @@
+{
+ "id": "5b851a6a4e226c5659541a6a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1892,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0tyIYRe9",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 741",
+  "actual_result": "It's colour almost completely matches to it's surroundings on dark theme whereas it can be easily seen on light theme.",
+  "expected_result": "It's in a colour that can be seen on dark theme.",
+  "short_description": "The magifying glass in the share screen is almost completely invisible on dark theme.",
+  "steps_to_repro": "- Switch to dark theme. - Share something from your gallery to Discord. - Observe the magnifying glass in the share screen."
+ }
+}

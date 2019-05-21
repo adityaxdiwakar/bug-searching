@@ -1,0 +1,17 @@
+{
+ "id": "59d3f5bb265837ec80740b80",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1219,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/S87RbAsY",
+ "data": {
+  "system_settings": "Windows 10.0.14393 Build 14393 x64",
+  "client_settings": "0.0.164",
+  "actual_result": "no embed shows up",
+  "expected_result": "the channel should show the twitch user's profile picture, embedded with a play button",
+  "short_description": "twitch channel embeds do not work",
+  "steps_to_repro": "- find a twitch channel - copy/paste it into a discord channel where you have embed permissions"
+ }
+}

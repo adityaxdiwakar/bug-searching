@@ -1,0 +1,24 @@
+{
+ "id": "59fa00e15da87a20299e2ea2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 863,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Qvw9jtNR",
+ "data": {
+  "system_settings": "Android 7.0 Samsung Galaxy J7 2016",
+  "client_settings": "Discord Alpha 5.5.4",
+  "actual_result": "it displayed incorrectly eg 419320:30:11",
+  "expected_result": "duration displayed correctly eg 0:30",
+  "short_description": "Voice chat duration not showed correctly",
+  "steps_to_repro": "- DM call with someone - Close that DM - Open that DM again"
+ }
+}

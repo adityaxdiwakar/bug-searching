@@ -1,0 +1,36 @@
+{
+ "id": "59fe4896e850b2d5c7744a01",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 871,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/i8vfnWKX",
+ "data": {
+  "system_settings": "lg xpower 6.0.1",
+  "client_settings": "alpha 5.5.6",
+  "actual_result": "channel name is invisible",
+  "expected_result": "i should see channel name",
+  "short_description": "voice channels name don't show",
+  "steps_to_repro": "- tap voice channel in channel bar - look at top of tab"
+ }
+}

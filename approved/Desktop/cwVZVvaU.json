@@ -1,0 +1,30 @@
+{
+ "id": "5b0348bc3f5b44d0423a3a5b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2038,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cwVZVvaU",
+ "data": {
+  "system_settings": "OS X 10.13.3 MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 15733, Version Hash: 7869156e4cec507895f18d23fb028e4f44b3c381",
+  "actual_result": "It doesn't show an embed of the contents, example:",
+  "expected_result": "It should create a preview of the tweets contents, example:",
+  "short_description": "When you post a twitter link it now longer shows the embed preview of the tweets text.",
+  "steps_to_repro": ""
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58cc3833ead9ab93b76a42b4",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 435,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Pi9Mv4KY",
+ "data": {
+  "system_settings": " Windows 8, windows 10, all builds seem to have the same issue.",
+  "actual_result": "File gets converted to a .c extension",
+  "expected_result": "The .schematic file should stay as a .schematic extension",
+  "short_description": "Files with a long extension are being truncated",
+  "steps_to_repro": "- Upload a .schematic file to discord  "
+ }
+}

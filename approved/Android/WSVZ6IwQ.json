@@ -1,0 +1,17 @@
+{
+ "id": "5baae854a5328d743252234e",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2037,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WSVZ6IwQ",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 755",
+  "actual_result": "The hyphens don't line up.",
+  "expected_result": "Like on desktop, enough space is given beside each number so that the hyphens line up.",
+  "short_description": "The width of the numbers in the expanded view of an Audit log message pushes the hyphen a bit to the right.",
+  "steps_to_repro": "- Create an invite (or do anything that gives you multiple lines/numbers in the expanded view of that Audit message). - Open Audit log. - Expand the message that talks about you creating the invite. - Compare the position of the hyphen beside 01 and 02."
+ }
+}

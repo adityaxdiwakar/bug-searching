@@ -1,0 +1,22 @@
+{
+ "id": "5909f13bfbbbba5e3c65d9e9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 588,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yZSMRvtF",
+ "data": {
+  "actual_result": "You can hover over items, server icons and general responsive areas of the application but it won't do anything when you click on it. Dark Theme // Compact // Win10 // Using downloaded discordapp for win10",
+  "expected_result": "Client freezes after the file is uploaded to the conversation you are kicked from, requires a soft-reboot in order to begin working again.",
+  "short_description": "Client freezes after an upload is made  to a conversation you are kicked from",
+  "steps_to_repro": "- Go into a group chat with a few friends.- Click the file upload button and wait to be kicked from the group.- Upload the file and your client will freeze until you soft-relog Discord. "
+ }
+}

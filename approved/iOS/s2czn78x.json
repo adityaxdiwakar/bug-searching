@@ -1,0 +1,30 @@
+{
+ "id": "5aef138ae4bc466c8a2f37f8",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 722,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/s2czn78x",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 9.1 (13B143)",
+  "client_settings": "Discord TestFlight 2.3.1 (4051)",
+  "actual_result": "The text goes outside of the embed.",
+  "expected_result": "The text stays in the embed",
+  "short_description": "Text escapes embed when text wraps around",
+  "steps_to_repro": "- Use a bot to send an embed with a footer that contains a long string of text and an icon. - Observe the embed."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b1efdc8c1d6f17d94410234",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2124,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WD5FyVBu",
+ "data": {
+  "system_settings": "Ubuntu 18.04, DE: KDE plasma, can also repro on Win7",
+  "client_settings": "Linux Desktop client, latest stable",
+  "actual_result": "browser opens, which then jumps to the message",
+  "expected_result": "clicking the masked link should still jump",
+  "short_description": "jump urls dont work if masked",
+  "steps_to_repro": "- Have a bot format a message jump url to provide context to a quote"
+ }
+}

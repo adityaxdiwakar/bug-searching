@@ -1,0 +1,17 @@
+{
+ "id": "5c04db558fb5de5ca4897375",
+ "closed": false,
+ "idList": "5c082c6e851e73786a479414",
+ "idShort": 1204,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DnBvNIvv",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9477)",
+  "actual_result": "Tapping the channel mention only takes you to the channel when you switch to that server",
+  "expected_result": "Tapping the channel mention should take you directly to the channel",
+  "short_description": "Tapping a channel mention in an in-app notification doesn\u2019t take you directly to the channel",
+  "steps_to_repro": "- Make sure you are on Online mode - Have someone mention you in a server with a channel mention for another channel in the server - Make sure you\u2019re in a different server than the one you\u2019re getting mentioned in - Tap the channel mention in the in-app notification - After the notification disappears, switch back to the server you were mentioned in - Observe the channel you\u2019re in"
+ }
+}

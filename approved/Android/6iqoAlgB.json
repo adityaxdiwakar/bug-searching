@@ -1,0 +1,23 @@
+{
+ "id": "58d0cf9e111913c80bf2d9c9",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 311,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6iqoAlgB",
+ "data": {
+  "system_settings": " Android 5.0.1, Galaxy S4, Discord 3.5.2",
+  "actual_result": "Message disappears.",
+  "expected_result": "Message remains in the textbox.",
+  "short_description": "When writing down a message in a textbox, then switching to a channel you don't have permission to and then coming back to said textbox, your message will disappear from it.",
+  "steps_to_repro": "- 1. Write down a message in a textbox (DO NOT SEND IT!) - 2. Go to a channel you don't have perms to chat in. - 3. Switch back to the channel you typed the message in. "
+ }
+}

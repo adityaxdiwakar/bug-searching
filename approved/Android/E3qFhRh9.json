@@ -1,0 +1,30 @@
+{
+ "id": "5ac3564a4c8888a30f59d7c5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1241,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/E3qFhRh9",
+ "data": {
+  "system_settings": "Redmi Note 4X Android 7.0 NRD90M",
+  "client_settings": "Discord Version 6.4.3",
+  "actual_result": "The message showing up in the search results.",
+  "expected_result": "The first message \"\u3042\" not showing up in the search results as \"\u3042\" does not contain \"\u3042a\"",
+  "short_description": "Discord search function misbehaving with Chinese/Japanese characters",
+  "steps_to_repro": "- Type a Chinese/Japanese character (Eg. \u3042) - Open Discord's search bar and search for the character with an English character after it. (Eg. \u3042a)"
+ }
+}

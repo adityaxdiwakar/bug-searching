@@ -1,0 +1,24 @@
+{
+ "id": "5bd1e310151d9f2c7e600c79",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1118,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sagXJb2q",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.9 (8441)",
+  "actual_result": "Search parameters will flash each time the suggested channels change",
+  "expected_result": "Suggested channels change depending on what you have typed",
+  "short_description": "Deleting text in search flashes the search options each time the suggestions changes",
+  "steps_to_repro": "- Go into a server with multiple channels - Open search and tap the \"in\" parameter - Type some text that will suggest channels, and then type some text so you have no suggested channels - Delete text until suggested channels pop up, and observe the suggestions - Delete more text until you delete everything except the \"in\" parameter - Observe the suggested channels each time you delete a letter"
+ }
+}

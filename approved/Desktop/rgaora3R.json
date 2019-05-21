@@ -1,0 +1,23 @@
+{
+ "id": "58d2b3b9bd61c8d3761b6083",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 456,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rgaora3R",
+ "data": {
+  "system_settings": " Windows 10 x64, Discord Canary",
+  "actual_result": "It is show and is interactive",
+  "expected_result": "The current selection isn't shown",
+  "short_description": "If you use the emoji picker and click on an emoji from another server when you don't have nitro, you can still see the selection tab and can interact with it",
+  "steps_to_repro": "- Go to a random server when you don't have Nitro - Open the emoji picker and click on an emoji from another server - Notice that the selection bar is still there - Click near the bottom of where the other buttons are - Notice that the selection moves "
+ }
+}

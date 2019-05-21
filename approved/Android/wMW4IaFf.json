@@ -1,0 +1,30 @@
+{
+ "id": "5a9b04f66ae35b6fdabf55d4",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1163,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wMW4IaFf",
+ "data": {
+  "system_settings": "Lenovo Moto G5 Plus, 7.0",
+  "client_settings": "Discord 6.3.1",
+  "actual_result": "The switch bugs and starts to move without you click on it",
+  "expected_result": "It should (de)activate it normally",
+  "short_description": "After clicking twice the button to (de)activate \"Show in Profile\" (Connections), when you click one time normally, the sprite don't acts correctly",
+  "steps_to_repro": "- Go to Connections - Click twice in a row in any connection to don't show in your profile - Click normally one time in the button (it might take a time to the bug happens)"
+ }
+}

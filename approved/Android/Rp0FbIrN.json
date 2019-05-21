@@ -1,0 +1,30 @@
+{
+ "id": "5a776971cbe5a5d4ac1c75ae",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1096,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Rp0FbIrN",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.1.9",
+  "actual_result": "it says \"Purger expulsera 1 membre\". **The string is correctly translated through i18n and this doesn't happen on Desktop!**",
+  "expected_result": "Should say \"Purger expulsera 0 membre\" (literally \"Pruning will kick 0 members\")",
+  "short_description": "In French language, when there are no members to prune, the message on the modal will say \"Pruning will kick 1 member [...]\" instead of 0.",
+  "steps_to_repro": "- Switch language to French - Create a new server (simpler than looking for one where there are no members to prune) - Go to Server Settings > Members > 3dots > Prune - Observe the small message on the modal"
+ }
+}

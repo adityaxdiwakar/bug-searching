@@ -1,0 +1,24 @@
+{
+ "id": "59f37be30b6a61517c1f5a9c",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 856,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ht4MvjLF",
+ "data": {
+  "system_settings": "Samsung Galaxy s2 sgh-t989, Android 7.1.2",
+  "client_settings": "alpha 5.5.1 (551)",
+  "actual_result": "overlap",
+  "expected_result": "no overlap",
+  "short_description": "role name and menu button overlap",
+  "steps_to_repro": "- create up-to 10 roles or more - add them all to a user - observe, it may take a while to repro"
+ }
+}

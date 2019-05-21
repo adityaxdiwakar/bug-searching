@@ -1,0 +1,28 @@
+{
+ "id": "5863fe9bd98999f1ccb520f9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 293,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FdLQgsah",
+ "data": {
+  "actual_result": "Field text continues on and overflows past the width of the chat",
+  "expected_result": "Field text is wrapped",
+  "short_description": "Embed fields can run on longer than the message size",
+  "steps_to_repro": "- Create an embed with inline fields - Set a field to something longer than your client's max line length "
+ }
+}

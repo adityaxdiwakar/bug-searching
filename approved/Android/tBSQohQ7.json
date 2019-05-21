@@ -1,0 +1,30 @@
+{
+ "id": "5a2ae69359a3ea127869999a",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 939,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tBSQohQ7",
+ "data": {
+  "system_settings": "Android 7.0 - Moto G5 Plus",
+  "client_settings": "Android Beta, 5.8.3",
+  "actual_result": "It doesn't let you select those options, but you can select 1 minute and 5 minutes",
+  "expected_result": "You should be able to select 15 minutes, 30 minutes or 1 hour",
+  "short_description": "You're not able to select AFK timeout above 5 minutes on Android",
+  "steps_to_repro": "- go to server settings - go to overview - go to afk settings - try to select 15 minutes, 30 minutes or 1 hour"
+ }
+}

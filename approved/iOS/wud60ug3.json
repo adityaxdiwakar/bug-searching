@@ -1,0 +1,30 @@
+{
+ "id": "5b143658c3ab64364b82de44",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 781,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wud60ug3",
+ "data": {
+  "system_settings": "iPhone 6s - iOS 11.4, iPad Air 2 - iOS 11.4.1 PB",
+  "client_settings": "Stable 2.3.3",
+  "actual_result": "All voice channels work when you have the move member role permission.",
+  "expected_result": "Only voice channels where you have move member options should be shown and work for moving members.",
+  "short_description": "You can move members to voice channels without permissions for it",
+  "steps_to_repro": "- Create a role with the voice permission `Move members` - Have or create at least 2 voice channels - Create permission overrides for one of this voice channel and deny the permission for everyone to move members - Assigns the role you have created before to any account that is not an admin - Join a voice channel and don't leave it - Open your second account (the one with the role you have assigned) - Click on the voice channel your first account has joined - Click on the 3 dots - Observe the channels for the move member option and try to move it to a voice channel where you don't have the permission for it"
+ }
+}

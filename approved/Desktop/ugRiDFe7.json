@@ -1,0 +1,23 @@
+{
+ "id": "590a6f026cf34b3c9b40e996",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 592,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ugRiDFe7",
+ "data": {
+  "system_settings": " Windows 7 x32, Discord Canary",
+  "actual_result": "2 of them will be stuck on loading until next restart as can be seen in the attachment.",
+  "expected_result": "All of the pictures should be sent.",
+  "short_description": "When you upload too many images to someone's DM's the last 2 get stuck permanently and are never really uploaded.",
+  "steps_to_repro": "- Download the desktop version of Discord - Go to someone's DM's - Click the upload button on the left side of the chat box - Browse a folder and select some images (I selected 15) - Spam the button send button/enter key on your keyboard until all of the pictures are \"sent\" "
+ }
+}

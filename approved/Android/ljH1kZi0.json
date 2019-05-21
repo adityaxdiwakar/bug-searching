@@ -1,0 +1,30 @@
+{
+ "id": "598cef124e8fbdfe27d47ec3",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 614,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e9",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can still reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ljH1kZi0",
+ "data": {
+  "system_settings": "GT-19195 Android 4.4.2",
+  "client_settings": "Discord 4.0.4. (404)",
+  "actual_result": "nothing happens (probably because of the NSFW modal using the legacy logic of serverID = defaultchannelID)",
+  "expected_result": "you are taken to a safe channel",
+  "short_description": "Pressing \"Nope\" on NSFW channels of newly created servers doesn't do anything",
+  "steps_to_repro": "- create a new server (do NOT use an already existing one) - create a new channel - make it NSFW - when prompted with the NSFW message press \"Nope\""
+ }
+}

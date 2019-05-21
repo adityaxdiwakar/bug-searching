@@ -1,0 +1,30 @@
+{
+ "id": "5936e3a130dd3bb257f97de5",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 723,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bj8nCENo",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Anniversary Update",
+  "client_settings": "Canary 0.0.155",
+  "actual_result": "You go to: <https://support.discordapp.com/hc/es/articles/115000070311> (Broken Link)",
+  "expected_result": "You go to a help web about Quick Switcher",
+  "short_description": "Broken link to Discord support web in every language but english and spanish",
+  "steps_to_repro": "- Type Ctrl + T -  Write random things until nothing appears - Click Learn more about Quick Switcher"
+ }
+}

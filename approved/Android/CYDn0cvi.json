@@ -1,0 +1,29 @@
+{
+ "id": "58a0bdcf2d60a22fe693fa1c",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 220,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CYDn0cvi",
+ "data": {
+  "system_settings": " Discord Alpha 3.3.3 on Android 7.1.1",
+  "actual_result": "Plain text with no styling",
+  "expected_result": "Styled code block within the embed",
+  "short_description": "code blocks do not display in embeded messages",
+  "steps_to_repro": "- Send an embeded message with a code block in a field's value - View the embeded message on Android "
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5949247680669a7d114af39a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 779,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eZFKQvFK",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Creators Update (1703)",
+  "client_settings": "Canary 0.0.157 (build 1700)",
+  "actual_result": "Context menu doesn't open, an error returns in the console and now you get an error if you right click on ANYTHING (as seen in the attached GIF) :\u00adblobsad\u00ad:",
+  "expected_result": "It opens up the context menu on the user",
+  "short_description": "Right clicking in the new dark mode Reactions menu returns error & breaks every further click in the client",
+  "steps_to_repro": "- Find a message with reactions - Open the reactions menu (surely you know how to get there) - Right click a user"
+ }
+}

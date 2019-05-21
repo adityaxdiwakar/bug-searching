@@ -1,0 +1,24 @@
+{
+ "id": "59c163dc07efdf6c1df8ac17",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 749,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7NQLMVZW",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0 and Windows 10 Home 64-bit v1703",
+  "client_settings": "Discord Alpha 5.1.9 (519) and Discord Canary 0.0.163 (Build 4429)",
+  "actual_result": "The user's avatar flashes, not an instance of lazy loading because the information was already on screen",
+  "expected_result": "The user's animated avatar should not flash and the user details should just be updated with the user's new role",
+  "short_description": "The animated avatar of a user with Nitro flashes when they receive a role",
+  "steps_to_repro": "- Go to a server you have the Manage Roles permission for - Open the profile of a Nitro user with an animated avatar on mobile - Wait for the user's profile to fully load - Give the user a role on desktop"
+ }
+}

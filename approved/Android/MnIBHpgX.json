@@ -1,0 +1,30 @@
+{
+ "id": "5b31eb2f069e9762037a92ae",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1603,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MnIBHpgX",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.9",
+  "actual_result": "Rotating screen clears the results",
+  "expected_result": "Search results should stay unless you start typing soemthing else or if you exit and go back again",
+  "short_description": "When you come back in Search after jumping to a message, rotating the screen clears the search results",
+  "steps_to_repro": "- Go to Search - Input something and jump to a message - Go back to Search. You should be seeing the previous search results  - Rotate screen"
+ }
+}

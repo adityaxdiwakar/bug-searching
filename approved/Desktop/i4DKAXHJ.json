@@ -1,0 +1,17 @@
+{
+ "id": "5b71ba94e4e61c0cc6ec30c1",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2698,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/i4DKAXHJ",
+ "data": {
+  "system_settings": "Windows 7",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 21705, Version Hash: 4abb1fa9bd2d52460caa1d0de85702ab7775a726",
+  "actual_result": "Pings a role @he instead of @here, it is not checking if it's @here",
+  "expected_result": "Supposed to ping @here when you type @here",
+  "short_description": "Can't do @here with a hole that is @he",
+  "steps_to_repro": "- Try to ping @here - It pings @he"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b659cfab408f57bf7590c5d",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1782,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XkmMFXBZ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.6",
+  "actual_result": "It won't update in the current server you're in, but if you switch to a different server and open member list, the correct status will show. I fail to reproduce this issue sometimes, make sure to give it a few tries (success rate is around 75% for me)",
+  "expected_result": "Presence should uniformly update in all servers",
+  "short_description": "Sometimes when changing your presence (online, idle, dnd, etc), it doesn't update in the member list of the server you were viewing at this moment, but updates fine in others. It's a bit inconsistent so try several times please",
+  "steps_to_repro": "- Go to any server, preferably one where you are high placed in member list - Close Discord completely by removing it from recent apps and reopen - Open member list of the server (just to check your current status) and close it - Now switch your presence to a different status (idle, dnd, etc) - Reopen member list of same server"
+ }
+}

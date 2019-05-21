@@ -1,0 +1,17 @@
+{
+ "id": "5aac9a1ddd5beae255b25b25",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1208,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0KJsoTbu",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 638",
+  "actual_result": "Different icons shown",
+  "expected_result": "Same icon should be used everywhere, to ensure a certain consistency",
+  "short_description": "\"Copy ID\" option on channels and \"Copy ID\" option on users don't have the same icon",
+  "steps_to_repro": "- Enable Developer mode - Long press on a channel and look at the icon of the \"Copy ID\" option - Compare it to the icon shown for users (tap on someone in member list)"
+ }
+}

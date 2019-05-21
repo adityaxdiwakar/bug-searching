@@ -1,0 +1,24 @@
+{
+ "id": "5b75bfda11bc3405dd291837",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 919,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZqTr3BHT",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 6",
+  "client_settings": "TestFlight 2.3.7 (6784)",
+  "actual_result": "Background is white",
+  "expected_result": "Background shows the colour of your theme",
+  "short_description": "Images with a transparent background show a white background in the inline image uploader",
+  "steps_to_repro": "- Find an image with a transparent background - Upload the image to Discord, but don\u2019t send - Observe the background of the image in the inline image box"
+ }
+}

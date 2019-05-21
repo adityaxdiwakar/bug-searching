@@ -1,0 +1,24 @@
+{
+ "id": "594e0ee6dbbb1eb35a328c71",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 521,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iMeQaWVw",
+ "data": {
+  "system_settings": "ZTE All-star, Android 5.1",
+  "client_settings": "3.9",
+  "actual_result": "It opens.",
+  "expected_result": "Drop down menu doesn't open",
+  "short_description": "Hitting the Members button and drop down menu next to it causes menu to open over sidebar",
+  "steps_to_repro": "- Hit the Members button (the button with the 2 people) and the drop down menu (the one next to the Members button) at the same time - Observation."
+ }
+}

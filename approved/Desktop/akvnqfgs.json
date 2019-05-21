@@ -1,0 +1,30 @@
+{
+ "id": "5ae9e2b416dd469c0d59af17",
+ "closed": false,
+ "idList": "5ae9076e854dae760b97993a",
+ "idShort": 1921,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/akvnqfgs",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.207, Build 14432",
+  "actual_result": "Very faintly coloured background text on the fields",
+  "expected_result": "Brighter text as seen on the actual Profile of the user or on Stable",
+  "short_description": "Background text colour on Mini User Profile Cards Note & Message User is very faint",
+  "steps_to_repro": "- Open a user's Mini Profile Card - Observe the background text of the Note or Message User fields"
+ }
+}

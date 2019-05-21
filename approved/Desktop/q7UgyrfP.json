@@ -1,0 +1,16 @@
+{
+ "id": "5914aea0f339f16678a67931",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 627,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/q7UgyrfP",
+ "data": {
+  "system_settings": " W10  x64 Latest Canary",
+  "actual_result": "Your client reloads **Like I said before, TIME SENSITIVE AF**",
+  "expected_result": "You leave",
+  "short_description": "Joining a voice channel and leaving before you load into the channel forces your client to reload **TIME SENSITIVE**",
+  "steps_to_repro": "- Join a Voice channel - Leave the voice channel before you load into it "
+ }
+}

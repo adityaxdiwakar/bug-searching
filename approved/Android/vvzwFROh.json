@@ -1,0 +1,17 @@
+{
+ "id": "5a4b9d185ab335d2a08a7ecf",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1013,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vvzwFROh",
+ "data": {
+  "system_settings": "LG G60 X135 @ Android 4.4.2",
+  "client_settings": "Discord Alpha 6.0.2",
+  "actual_result": "Chat jumps to the New Message Separator, which does not disappear after several minutes of activity.",
+  "expected_result": "After a user stays in a channel for a couple of minutes the New Messages separator disappears and does not jump to the place it was, leaving at the spot where user was at the time or screen rotation.",
+  "short_description": "New Messages separator does not remove after couple of minutes of activity in the channel, which moves the chat to the separator when changing screen orientation.",
+  "steps_to_repro": "- Warning: this is an actual bug, it is not intended behaviour, confirmed by Dabbit. Do not deny this bug because of NAB. - Go to the channel with new messages - Scroll up to the point where New Messages separator appears. - Scroll down/up, hiding New Messages separator from the viewport (screen). - Turn the scrern orientation. - Observe."
+ }
+}

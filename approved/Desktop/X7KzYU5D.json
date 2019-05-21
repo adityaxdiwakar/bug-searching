@@ -1,0 +1,30 @@
+{
+ "id": "5ac36fbec169b070a222a181",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1785,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/X7KzYU5D",
+ "data": {
+  "system_settings": "Windows 10 Pro (64-bit), Creators Update (v1709, Build 16299.248)",
+  "client_settings": "Canary 0.0.204 (Build 13034)",
+  "actual_result": "Nothing happens, only the typing indicator under chatbox appears.",
+  "expected_result": "The status icon changes to a typing indicator.",
+  "short_description": "Typing indicators in the online users list no longer work",
+  "steps_to_repro": "- Ask a user to start typing in a channel. - Observe the typing indicator below chat and in online list."
+ }
+}

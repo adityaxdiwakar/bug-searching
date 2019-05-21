@@ -1,0 +1,30 @@
+{
+ "id": "59414f72f78b81355cfdecf4",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 263,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hStm5Xkz",
+ "data": {
+  "system_settings": "iOS 10.3.2, iPhone 6",
+  "client_settings": "Discord 1.8.7",
+  "actual_result": "At the time of writing this report and only having the iOSTestflight role, the following pages that don't load are: 3, 8, 19, 32, 34, 36, 45, 55, 68, 75, 78, 79, 93, 95, 101. Additionally, if you close the search through \"cancel\" instead of the x button and try to search again, the \"in:\" option is missing.",
+  "expected_result": "The search results load properly.",
+  "short_description": "Some search result pages while searching for the word \"emoji\" do not load on Discord Testers.",
+  "steps_to_repro": "- Go to DiscordTester Server- Click on Search- Search for the word **Emoji**- Browse at least the first 50 pages, notice how some pages doesn't load and how some pages loads."
+ }
+}

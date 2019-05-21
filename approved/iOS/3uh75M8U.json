@@ -1,0 +1,17 @@
+{
+ "id": "5b9392d5b2fb5476b7b25da2",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 981,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3uh75M8U",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 12",
+  "client_settings": "TestFlight 2.3.8 (7106)",
+  "actual_result": "Emoji picker doesn't reopen",
+  "expected_result": "Emoji picker reopens",
+  "short_description": "Closing out of search in emoji picker doesn't reopen emoji picker",
+  "steps_to_repro": "- Open the emoji picker - Tap on the search feature - Close out of the search - Observe the keyboard"
+ }
+}

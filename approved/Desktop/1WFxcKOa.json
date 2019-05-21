@@ -1,0 +1,30 @@
+{
+ "id": "5a0488a7f13dba209a4e3e66",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1362,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1WFxcKOa",
+ "data": {
+  "system_settings": "Microsoft Windows 10 Pro (Build 15063) x64",
+  "client_settings": "Release Channel: canary, Build Number: 7041",
+  "actual_result": "The Invite Link Embed [x online] counter still takes into account members set to 'invisible'",
+  "expected_result": "The Invite Link Embed [x online] counter should not take into account 'invisible' members",
+  "short_description": "Invite Link Embeds [x online] counter takes into account people set to 'invisible'",
+  "steps_to_repro": "- Example: A server of 2 people. One person online and one offline - The counter shows [1 online] - The offline person logs in with the status 'Invisible' - The counter shows [2 online]"
+ }
+}

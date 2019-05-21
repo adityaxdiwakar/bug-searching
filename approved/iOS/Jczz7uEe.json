@@ -1,0 +1,30 @@
+{
+ "id": "5a677a322616cf5b5a1d0464",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 542,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Jczz7uEe",
+ "data": {
+  "system_settings": "iPhone 6 (Model A1549), iOS 11",
+  "client_settings": "Discord TestFlight 2.2.1 (2236)",
+  "actual_result": "Reaction is removed/added like normal, however the image flickers.",
+  "expected_result": "Reaction is removed/added like normal, image stays visible",
+  "short_description": "Images flicker when reactions are added/removed",
+  "steps_to_repro": "- Find an image, or post one yourself - Ping a group of people (Like the Updates role in Ghoul's testing server) and tell them to react to the image.- Observe.Extension to this bug:- You can also post a comment, then ping the group of people to react to your message with gif emotes and you can see them flickering."
+ }
+}

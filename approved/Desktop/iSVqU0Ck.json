@@ -1,0 +1,29 @@
+{
+ "id": "5919dd1849bd80978b873e20",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 652,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iSVqU0Ck",
+ "data": {
+  "system_settings": " Windows 10 Creators Edition With latest update to prevent that Warcry ransomware thing, Discord Canary Latest(tm)",
+  "actual_result": "It's not greyed out and it allows you to open the upload dialogue",
+  "expected_result": "The \"Server Invite Background\" is greyed out because you aren't allowed to change it",
+  "short_description": "Server Splash upload not properly greyed out with Audit Log permission",
+  "steps_to_repro": "- Be on a parner server - Have no admin permissions - Have \"read audit logs\" permission - Go to server settings - Scroll down "
+ }
+}

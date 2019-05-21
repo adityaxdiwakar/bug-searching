@@ -1,0 +1,34 @@
+{
+ "id": "586d23c817f36f2d79756009",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 152,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/caPXDR6h",
+ "data": {
+  "actual_result": "App crashes System Settings: iPhone 7, iOS 10.2, 1.8.1",
+  "expected_result": "Server Settings closes",
+  "short_description": "Quickly closing out of Server Settings crashes app",
+  "steps_to_repro": "- Go to your server that you are an owner, or have the role permission. - Go to your server's Server Settings- Go to Members - Aim your finger at close/back button. Hit that as fast that you can, as many times that you can. - Watch your Discord App to crash"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5accedb31ba834c8c411d455",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 666,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4UIC4pti",
+ "data": {
+  "system_settings": "iPod Touch 6th generation, iOS 11.2.6",
+  "client_settings": "Stable 2.2.9",
+  "actual_result": "A random server name appears",
+  "expected_result": "The category should appear without you seeing another server name appearing before the category loads",
+  "short_description": "A random server name  appress when click on a category in the reaction menu",
+  "steps_to_repro": "- Force close and restart Discord.- Go to a message you want to add a reaction to.- Hit add reaction- One by one, tap on the categories on the bottom.- At least one of them will show a server name before any emoji loads."
+ }
+}

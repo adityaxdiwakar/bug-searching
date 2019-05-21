@@ -1,0 +1,30 @@
+{
+ "id": "5c346e4ba955dc132a38b31a",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3589,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1zwyxqrJ",
+ "data": {
+  "system_settings": "Microsoft Windows 10 Home (64-bit), Version 1803, OS Build 17134.472",
+  "client_settings": "Release Channel: canary, Build Number: 30566, Version Hash: a6ae4626f56fe71fa3d9ddfbf3ffa72094bee66c",
+  "actual_result": "Nothing happens and the channel refuses to move.",
+  "expected_result": "It should move the channel to a different category/order/location.",
+  "short_description": "Moving channels doesn't work while pressing Shift.",
+  "steps_to_repro": "- Hold down the Shift key - Drag a channel through the list"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b7f087cf1ad220b263b0cfa",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2778,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XjSSZWmO",
+ "data": {
+  "system_settings": "MacBook Pro (13\"), macOS 10.13.6",
+  "client_settings": "Canary 22364",
+  "actual_result": "Both of the modals are open at the same time",
+  "expected_result": "The Recent Mentions modal should close upon opening the Help modal",
+  "short_description": "The Recent Mentions modal and the Help modal can be displayed at the same time if you change settings in Recent Mentions",
+  "steps_to_repro": "- Open your Recent Mentions (the @ at the top right of the app) - Click the \"Display:\" dropdown - Change one of the settings - Click to open the Help modal (the ? at the top right of the app)"
+ }
+}

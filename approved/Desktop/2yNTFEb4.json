@@ -1,0 +1,15 @@
+{
+ "id": "5848acfb075082053c4fa76a",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 225,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2yNTFEb4",
+ "data": {
+  "actual_result": "Moves voice channel",
+  "expected_result": "Absolutely no reaction",
+  "short_description": "Moving member without permission moves voice channel instead",
+  "steps_to_repro": "- Have \"Move members\" and \"Manage channel\" permissions and try to move user - Remove \"Move members\" permission and try to move user again "
+ }
+}

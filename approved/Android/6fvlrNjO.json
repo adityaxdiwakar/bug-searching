@@ -1,0 +1,24 @@
+{
+ "id": "59d88269d3ac560d7e959a08",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 791,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6fvlrNjO",
+ "data": {
+  "system_settings": "Android 7.0",
+  "client_settings": "Discord beta 5.3.1",
+  "actual_result": "Says \"Hm, double check that capitalization etc.\"",
+  "expected_result": "Friend Request gets sent",
+  "short_description": "Friend Request Issue",
+  "steps_to_repro": "- Open someones profile - send then a friend request - See the popup at the bottom saying you didnt spell it correctly"
+ }
+}

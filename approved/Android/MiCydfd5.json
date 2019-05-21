@@ -1,0 +1,17 @@
+{
+ "id": "5b650492141fc80f6ff09b2a",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1778,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/MiCydfd5",
+ "data": {
+  "system_settings": "Moto G5 Plus Android 8.1",
+  "client_settings": "Discord Alpha 7.2.4",
+  "actual_result": "The toggle attempts to work.",
+  "expected_result": "The toggle should be grayed out and disabled if detection is not enabled.",
+  "short_description": "\"Display currently running game as a status message.\" works if the detection toggle is off.",
+  "steps_to_repro": "- Press the toggle for showing the status message. - Observe the toggle flash back to off - Press it again."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ab82c6d569e30373220f060",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 647,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kSkulXdP",
+ "data": {
+  "system_settings": "iPhone 6s Plus, Lastest iOS",
+  "client_settings": "TestFlight 2.2.6 (3440)",
+  "actual_result": "image goes outside of box",
+  "expected_result": "image would stay within the \u201cblocked message\u201d box",
+  "short_description": "blocked user images hang out of section",
+  "steps_to_repro": "- have a blocked user send an image  - observe as the image will hang out"
+ }
+}

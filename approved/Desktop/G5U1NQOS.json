@@ -1,0 +1,17 @@
+{
+ "id": "5ab2a4b4f653d71ded0df084",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1747,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/G5U1NQOS",
+ "data": {
+  "system_settings": "Win 10 x64 1x4k monitor 1x1080p monitor",
+  "client_settings": "stable, Build Number: 12336",
+  "actual_result": "switching between monitors causes the text channels to scroll upwards",
+  "expected_result": "Text channels should retain scrolling location",
+  "short_description": "Switching discord between multiple monitors with window scaling on causes chat to scroll up",
+  "steps_to_repro": "- Two monitors (possibly different resolution) Windows screen scaling turned on - Move discord window between screens - etc"
+ }
+}

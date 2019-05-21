@@ -1,0 +1,24 @@
+{
+ "id": "5a6531884828b2b953c5e403",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 538,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HAoNeqpu",
+ "data": {
+  "system_settings": "iPhone 8 +, iOS 11.2.5 (PB7)",
+  "client_settings": "Discord TestFlight 2.2.1 (2224)",
+  "actual_result": "Nothing happens, and you are unable to see the video.",
+  "expected_result": "Browser should open with the video that you can see.",
+  "short_description": "Video does not open when clicking on bold blue link after uploading from Camera Roll",
+  "steps_to_repro": "- Click on the paperclip - Go to your Camera Roll, find a video.  - Upload a video. - Try to click on the video. For example \u201c\u201d or \u201c\u201d"
+ }
+}

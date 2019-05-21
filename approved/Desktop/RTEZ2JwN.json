@@ -1,0 +1,30 @@
+{
+ "id": "5b2e139074e44c63ce3ba1a8",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2239,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RTEZ2JwN",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.9",
+  "actual_result": "It's using the other \"JOINED\" string, which is used in the context of joined voice channels, causing weird translations like \"Connect\u00e9\" in French meaning  \"Connected [to voice channel]\".",
+  "expected_result": "I checked Crowdin and there are two strings that say \"JOINED\". It should be using the one adapted to server invite context.",
+  "short_description": "When looking at an invite embed to a server you're already in, the wrong string is used for the \"JOINED\" text",
+  "steps_to_repro": "- Find an invite embed to a server you're already in - If your language is set to English, you should be seeing \"JOINED\" inside the button - Now switch to a different language, in my case French"
+ }
+}

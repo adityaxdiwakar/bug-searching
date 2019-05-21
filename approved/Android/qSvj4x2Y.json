@@ -1,0 +1,24 @@
+{
+ "id": "598c3de351ec2b37e8987553",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 609,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qSvj4x2Y",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 edge (SM-G935F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.0.4 (404)",
+  "actual_result": "The app only loads 100 users.",
+  "expected_result": "The app should load more users as you scroll down like desktop version.",
+  "short_description": "App doesn't load more than 100 reactions",
+  "steps_to_repro": "- Find a message more than 100 people reacted with the same emoji to. It's better to choose a message with thousands of the same reaction because it will be easier to observe the issue. - Press hold on the message and select \"Reactions\" - Scroll all the way down to the bottom and notice that the app only loaded 100 users and unlike desktop version, it doesn't load more users as your scroll down."
+ }
+}

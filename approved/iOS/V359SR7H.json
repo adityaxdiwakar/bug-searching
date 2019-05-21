@@ -1,0 +1,17 @@
+{
+ "id": "5bb2830324b7c9600b77d41d",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1042,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/V359SR7H",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta",
+  "client_settings": "TestFight 2.3.9 (7731)",
+  "actual_result": "You see the option to copy ID",
+  "expected_result": "You shouldn\u2019t see the option to copy ID",
+  "short_description": "Able to copy user ID when Developer Mode is off",
+  "steps_to_repro": "- Turn off Developer Mode - Open a random user profile - Tap on the three dots at the top and observe the options"
+ }
+}

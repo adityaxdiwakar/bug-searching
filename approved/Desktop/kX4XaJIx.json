@@ -1,0 +1,30 @@
+{
+ "id": "5b1be5738cff65821ef6b636",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2115,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kX4XaJIx",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.5",
+  "client_settings": "Canary Build 16727",
+  "actual_result": "It always uses the format MDY (e.g. for German `Juni 23. 2018`)",
+  "expected_result": "It should use the correct date format for the respective language. E.g. for German `23. Juni 2018` (DMY).",
+  "short_description": "Wrong date format used for some languages for \"Request all of my Data\" text",
+  "steps_to_repro": "- Prerequisite: Make sure you have already requested a copy of all your data - Go to your User Settings by clicking on the cog - Change your language to any language with the date format DMY (for example German) - Open \"Privacy & Safety\" - Scroll down to \"Request all of my Data\" - Observe the date format there"
+ }
+}

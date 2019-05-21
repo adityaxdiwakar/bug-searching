@@ -1,0 +1,17 @@
+{
+ "id": "5a9207ac9757cc90485e959f",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1142,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9vKLtmcd",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.8",
+  "actual_result": "The cross is stick to the right",
+  "expected_result": "There should be a correct padding around the cross to erase field",
+  "short_description": "Where there is text in the search bar, the cross that appears to the right lacks of a padding",
+  "steps_to_repro": "- Go to any channel - Tap Search - Write some random text in the bar"
+ }
+}

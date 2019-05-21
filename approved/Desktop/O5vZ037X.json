@@ -1,0 +1,30 @@
+{
+ "id": "5b45fa47a312b78618a7b71b",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2257,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/O5vZ037X",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.5",
+  "client_settings": "Canary Build 18317",
+  "actual_result": "It gets lost after the logout.",
+  "expected_result": "The draft shouldn't disappear and always be saved.",
+  "short_description": "Drafts get lost after logging out and logging in again",
+  "steps_to_repro": "- Go to any text channel and write a message - Don't send the message - Open the user settings and click the logout button - Login in again with your credentials - Go back to the channel with the draft"
+ }
+}

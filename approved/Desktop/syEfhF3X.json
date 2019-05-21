@@ -1,0 +1,29 @@
+{
+ "id": "58c5ec12c5590091ab44a959",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 416,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/syEfhF3X",
+ "data": {
+  "system_settings": " Windows 8.1 PRO, Latest Canary",
+  "actual_result": "Client has fun trying to figure out exactly what happened",
+  "expected_result": "It just doesn't link, or changes the hyperlink to #deleted-channel like it normally would",
+  "short_description": "Clicking on a deleted text channel that was linked via a post sends the client into confusion",
+  "steps_to_repro": "- Open a server and post a link to another channel - Delete said other channel - Return to post and attempt to visit now nonexistent channel - Listen to https://www.youtube.com/watch?v=PGNiXGX2nLU as the client sits forever trying to load channel. "
+ }
+}

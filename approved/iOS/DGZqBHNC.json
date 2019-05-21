@@ -1,0 +1,17 @@
+{
+ "id": "59e6c5261be679063fe89ea0",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 372,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DGZqBHNC",
+ "data": {
+  "system_settings": "iOS 9.3.5, iPhone 6S",
+  "client_settings": "TF 1.9.3 (1165)",
+  "actual_result": "The full number displays, overflowing under the \"#\" symbol in the channel name.",
+  "expected_result": "There should be ellipses after the first digit, like before.",
+  "short_description": "The notification icon overflows in the button on the top left that opens the channel list.",
+  "steps_to_repro": "- Get >9999 mentions. - Notice the mention count in the channel list button overflow."
+ }
+}

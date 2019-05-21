@@ -1,0 +1,23 @@
+{
+ "id": "5916d4f4c13278a2d6d99635",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 638,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JE30URsg",
+ "data": {
+  "system_settings": " macos 10.12.4 Discord Canary",
+  "actual_result": "button is 90% off screen and virtually unclickable",
+  "expected_result": "exit user settings button is on screen and useable",
+  "short_description": "exit button off screen in 200x zoom",
+  "steps_to_repro": "- on newest discord canary go to user settings --> appearence- do 200 zoom - observe  "
+ }
+}

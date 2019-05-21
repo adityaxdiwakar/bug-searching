@@ -1,0 +1,23 @@
+{
+ "id": "58adef2edf85ed56dc2c57f2",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 190,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hRY1oYLk",
+ "data": {
+  "system_settings": " iPhone 5s, IOS 10, latest Discord TestFlight",
+  "actual_result": "Crashes",
+  "expected_result": "The okay confirmation window closes and Discord does not crash.",
+  "short_description": "Discord often crashes when clicking a server that's out due to an outage.",
+  "steps_to_repro": "- Find a server that has the warning sign on it indicating the server is out due to an outage - Tap the server - Press the \"okay\" button "
+ }
+}

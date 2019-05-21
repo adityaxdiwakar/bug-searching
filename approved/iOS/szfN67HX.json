@@ -1,0 +1,24 @@
+{
+ "id": "5c13d755f4eb195324618485",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1234,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/szfN67HX",
+ "data": {
+  "system_settings": "iPhone X; iOS 12.1.2 Dev Beta",
+  "client_settings": "TestFlight 4.2.1 (9907)",
+  "actual_result": "The app crashes completely.",
+  "expected_result": "The menu should close and show the original server channel you were in before opening settings.",
+  "short_description": "Server Settings Causes Crash",
+  "steps_to_repro": "- Tap the three dots on a sever you have admin perms to. - Select \u201cServer Settings\u201d. - Navigate to \u201cChannels\u201d. - Open the settings to an existing channel. - Proceed to quickly close the menu via, Close \u2014> Back \u2014> Close.  - Must be executed in quick fashion."
+ }
+}

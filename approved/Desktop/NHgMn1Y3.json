@@ -1,0 +1,23 @@
+{
+ "id": "58a49f9afaefc7a8dee41b08",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 383,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NHgMn1Y3",
+ "data": {
+  "system_settings": " Windows 7 x64, Canary 0.0.153",
+  "actual_result": "Search ignores code blocks FeelsBadMan",
+  "expected_result": "Search should highlight any words matching the search",
+  "short_description": "Search does not highlight text in code blocks",
+  "steps_to_repro": "- Write out a code block - Attempt to search for it - etc "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b22e5c4f93b9dde06795f1c",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2139,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/y6JhaV0Y",
+ "data": {
+  "system_settings": "Windows 10 x64 (1803)",
+  "client_settings": "Latest Release Build (sorry, i really can't find a version number anywhere)",
+  "actual_result": "The time for the call updates while the time for chat messages is not updating properly",
+  "expected_result": "Time on both Items (Chat and Call) should update automatically when it hit's 0:01am.",
+  "short_description": "Time on Chat-Text not updating automatically (Call Time is updating) after a new day started.",
+  "steps_to_repro": "- write a message - start a call with someone - leave the chat open while the next day arrives - watch the times in the chaat"
+ }
+}

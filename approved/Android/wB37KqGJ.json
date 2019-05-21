@@ -1,0 +1,30 @@
+{
+ "id": "5a974f7faaa72c0a180f9496",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1151,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wB37KqGJ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Alpha 6.2.9",
+  "actual_result": "The scrollbar does not reach the bottom of the screen",
+  "expected_result": "Scrollbar should be at the bottom as well as the results",
+  "short_description": "When reaching the bottom of the search results, the scrollbar is stuck mid-air",
+  "steps_to_repro": "- Get update 6.2.9. It contains a fix for the bug where padding is missing at bottom of search results. - Search for something in a server, enough so you can scroll through results but not too many results either - Scroll down, and when you reach the bottom of the results, look at the scrollbar"
+ }
+}

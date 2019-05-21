@@ -1,0 +1,30 @@
+{
+ "id": "5befcede661be03670e9070e",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3400,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/R8RwCrmR",
+ "data": {
+  "system_settings": "Windows 10 1809 x64",
+  "client_settings": "Discord Canary 28176",
+  "actual_result": "The green circle is still there",
+  "expected_result": "The green circle disappears after you leave the voice channel",
+  "short_description": "(Probably desktop app specific) The green circle from another user is still shown even when you leave the voice channel",
+  "steps_to_repro": "- Make someone that can constantly transmit voice join a voice channel (like a user or a music bot) - Join that voice channel and observe the green circle from that other user - Leave that voice channel"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58c6f2dd6b5b804b5dbda559",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 420,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pAqpQPiB",
+ "data": {
+  "system_settings": " win 7 64 bit canary 0.0.153",
+  "actual_result": "the menu is there and my reaction gets deleted instantly",
+  "expected_result": "the menu is not there",
+  "short_description": "right click menu seems to allow adding reactions in verification time",
+  "steps_to_repro": "- notice the reaction icon is missing from the right on the message, but the right click menu allows you to add one "
+ }
+}

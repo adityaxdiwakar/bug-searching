@@ -1,0 +1,16 @@
+{
+ "id": "58e361a404f3d1fc5366a8b4",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 478,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/e5ZAZKZR",
+ "data": {
+  "system_settings": " Canary latest (But this has been known for a while).",
+  "actual_result": "A user with no role will not see any text channels (even the default one). They get a 403 error in the console. They can see Administrator users but no one else (not even themselves) in the user list.",
+  "expected_result": "This is not possible (option greyed out and checked)",
+  "short_description": "Can remove \"Read Message\" rights from everyone role and hide default channel",
+  "steps_to_repro": "- Go to Server Settings, Roles - Uncheck \"Read Messages\" from the @\u0081everyone role "
+ }
+}

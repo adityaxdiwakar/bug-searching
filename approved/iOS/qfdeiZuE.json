@@ -1,0 +1,24 @@
+{
+ "id": "59b495badd412096447527a2",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 322,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qfdeiZuE",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.0 Beta 10",
+  "client_settings": "Testflight 1.9.1",
+  "actual_result": "The app pauses, and then crashes.",
+  "expected_result": "The app should tell you that you can't create an instant invite when there is not a text channel, as it says on PC.",
+  "short_description": "App crashes when creating an instant invite to the server when no text channels exist",
+  "steps_to_repro": "- Create server - Delete auto generated #general text channel - Create second voice channel so that you have two - Tap invite members - Under instant invite, tap channel"
+ }
+}

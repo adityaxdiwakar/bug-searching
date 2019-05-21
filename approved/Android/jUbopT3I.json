@@ -1,0 +1,30 @@
+{
+ "id": "5aa92e0f6a091d36f17e3e94",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1195,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jUbopT3I",
+ "data": {
+  "system_settings": "Samsung Galaxy Pocket NEO 4.1.2",
+  "client_settings": "Discord Alpha 6.3.4",
+  "actual_result": "For some reason, the message pops up when you try to attach a file.",
+  "expected_result": "The message shouldn't pop up when you try to attach a file.",
+  "short_description": "(On devices without flash) \"Flash off\" bubble appears when trying to attach files",
+  "steps_to_repro": "- This bug is only reproducible on devices without flash. If you don't have a device without flash, you can try to set up an android emulator using Bluestacks or similar programs. (I tested with bluestacks first) - Open up discord, and find a server where you can attach files. - Open up the \"Add content\" menu using the plus button next to the chat. - Try to attach a file using the paper icon. - Now the \"Flash off\" message comes up, despite you not clicked on the camera icon."
+ }
+}

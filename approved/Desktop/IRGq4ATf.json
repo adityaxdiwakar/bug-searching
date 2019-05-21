@@ -1,0 +1,24 @@
+{
+ "id": "5b5f012a6d0189f877400703",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2506,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IRGq4ATf",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Chrome 67.0.3396.87",
+  "actual_result": "It should the desktop screen before showing the Android/iOS screen.",
+  "expected_result": "It shows the Android/iOS screen from the start.",
+  "short_description": "[Website bug, Mobile only] https(colon)//discordapp(dot)com/download flashes the desktop screen before showing the Android/iOS screen.",
+  "steps_to_repro": "- Open https(colon)//discordapp(dot)com/download - Scroll a bit down."
+ }
+}

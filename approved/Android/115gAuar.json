@@ -1,0 +1,30 @@
+{
+ "id": "5b13fdb4d97896737db33b5a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1491,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/115gAuar",
+ "data": {
+  "system_settings": "Nokia 5 android 8.0.0",
+  "client_settings": "Discord alpha 6.8.7",
+  "actual_result": "You are able to click play on spotify which restarts your song",
+  "expected_result": "The button should be greyed out like desktop",
+  "short_description": "Able to play own song",
+  "steps_to_repro": "- Listen to song on spotify - Look at playing status - You are able to click play on spotify"
+ }
+}

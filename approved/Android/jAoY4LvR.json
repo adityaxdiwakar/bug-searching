@@ -1,0 +1,29 @@
+{
+ "id": "5841fd933fe26d39ba15b536",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 118,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e9",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can still reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jAoY4LvR",
+ "data": {
+  "system_settings": " Android 6.0.1 ",
+  "actual_result": "Doesn't highlight the server, channel or text System Settings: Android 6.0.1",
+  "expected_result": "Highlight the server, channel and text to show that you've gotten a notification/mention",
+  "short_description": "Role mentions doesn't highlight or mention",
+  "steps_to_repro": "- Add yourself to a mentionable role - Get someone to mention the role you're in - Observe "
+ }
+}

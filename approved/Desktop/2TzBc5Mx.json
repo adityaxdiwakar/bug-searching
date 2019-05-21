@@ -1,0 +1,17 @@
+{
+ "id": "5a668985959ff4297f9aa649",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1576,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2TzBc5Mx",
+ "data": {
+  "system_settings": "Windows 10 Pro (64-bit), Anniversary Update (Build 1607)",
+  "client_settings": "Canary 0.0.198 (Build 9778)",
+  "actual_result": "It says \"Disabled for at-everyone\"",
+  "expected_result": "The tooltip rightfully says that you cannot edit because its above your highest role.",
+  "short_description": "The tooltip text when hovering over role colours for roles above your own (non-server owner) has the wrong text.",
+  "steps_to_repro": "- Go to a server where you are NOT server owner and have Manage Roles. - Go to the role options in Server Settings > Roles. - Click a role above your own that you cannot edit. - Hover over the colours and observe."
+ }
+}

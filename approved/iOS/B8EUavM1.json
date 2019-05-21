@@ -1,0 +1,17 @@
+{
+ "id": "5b749c5a1ce5c53c0b9ad934",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 915,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/B8EUavM1",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 6",
+  "client_settings": "TestFlight 2.3.7 (6784)",
+  "actual_result": "Discord scrolls from the top",
+  "expected_result": "Discord starts scrolling from your current position",
+  "short_description": "Tapping on any section in the emoji picker scrolls you from the top",
+  "steps_to_repro": "- Open the emoji picker via the \"Add Reaction\" option - Tap on any section to scroll to that section - After Discord finished scrolling, tap on another section - Observe the starting position of the scroll the second time you tap a section"
+ }
+}

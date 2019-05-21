@@ -1,0 +1,30 @@
+{
+ "id": "5b855b47ce89cf879ad9e70f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2822,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xTZlzWWT",
+ "data": {
+  "system_settings": "Windows (1709 Home and 1803 Pro)",
+  "client_settings": "Stable 22658",
+  "actual_result": "Discord fails to turn off the webcam, leaving it and the activity light on.",
+  "expected_result": "Discord should recognize that you're no longer in the call on that device and turn off the webcam appropriately.",
+  "short_description": "After connecting to a call from another location, Discord doesn't turn off webcam properly.",
+  "steps_to_repro": "- Start up a call - Open Discord on another device or in another window - Connect to the same call"
+ }
+}

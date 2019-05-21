@@ -1,0 +1,30 @@
+{
+ "id": "5bade922ae4c923b16413e39",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2059,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/y0aOAQPx",
+ "data": {
+  "system_settings": "Oneplus 3, Android 8",
+  "client_settings": "Alpha 7.5.7",
+  "actual_result": "The Slowmode slider goes back to \"Slowmode is off\"",
+  "expected_result": "The slider should stay in the position it used to be before rotating your device",
+  "short_description": "\"Slowmode Cooldown\" slider resets when rotating the device",
+  "steps_to_repro": "- Open channel settings - Scroll down and move the Slowmode Cooldown slider (don't save) - Rotate the device"
+ }
+}

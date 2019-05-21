@@ -1,0 +1,23 @@
+{
+ "id": "5913cf359d1510ef7c5deee8",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 625,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Sqh4rHoX",
+ "data": {
+  "system_settings": " Win10x64, Latest Canary",
+  "actual_result": "spaces in the front of line are disapeared and spaces between words transformed into single spaces",
+  "expected_result": "Good formatted embed",
+  "short_description": "Embeds ignore some spaces",
+  "steps_to_repro": "- Post link to tweet or embed with a bunch of spaces in the front and/or between words "
+ }
+}

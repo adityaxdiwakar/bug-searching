@@ -1,0 +1,17 @@
+{
+ "id": "5b5f813e9896fb902d97f4b0",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1731,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7KpuFsZK",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.1.0",
+  "client_settings": "Android Alpha 7.2.0",
+  "actual_result": "The emoji is converted to the internal name-id representation upon sending but since it's inside a code block it's not rendered as an emoji but as raw text, resulting in it appearing as \\<:test:395628907224629248\\> for everyone",
+  "expected_result": "Just like in the Desktop app the content inside a code block should be sent as it is and not modified, meaning the emoji should appear as :test: inside the code block",
+  "short_description": "When putting a valid custom emoji inside a code block it will be converted into the internal <:name:id> representation upon sending",
+  "steps_to_repro": "- Create a code block with backticks (either inline or block) - Put a custom emoji that you have access to inside it (because it's in the same server or you have Nitro), like \\`:test:\\` - Send message and observe"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "5820c76a9720a66efbbe8c12",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 120,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bTD590ie",
+ "data": {
+  "actual_result": "mentions the user with the lower descriminator.",
+  "expected_result": "mentions the user you tab/return completed",
+  "short_description": "Can't choose between users with the same username when mentioning users in streamer mode",
+  "steps_to_repro": "- Enable streamer mode - Try to mention a user that has the same username and a larger descriminator than another user "
+ }
+}

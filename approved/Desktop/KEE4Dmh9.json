@@ -1,0 +1,30 @@
+{
+ "id": "5c35c7401fef0075d2b0ad06",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3603,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KEE4Dmh9",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1803)",
+  "client_settings": "Discord Canary 0.0.226, Build 30620",
+  "actual_result": "The selected gif gets automatically sent and any text previously entered into the text field is removed",
+  "expected_result": "Either the gif should not automatically be being sent and should just place the url at the end of your message or it should not be removing your text from the text field and instead send it alongside with the gif",
+  "short_description": "Selecting a gif from the Gif Picker automatically sends it and removes any text you had in the text field prior",
+  "steps_to_repro": "- Go into a channel you can send messages in - Type a little message - Open the Gif Picker, select a gif and observe"
+ }
+}

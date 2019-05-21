@@ -1,0 +1,30 @@
+{
+ "id": "5b5f68dd1e36b3ae1add9de6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2521,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/M0FADNND",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 (17134)",
+  "client_settings": "Stable 20174, Edge 42.17134.1.0, EdgeHTML 17.17134",
+  "actual_result": "The 'Allow Discord access...' message appears in the middle of the screen pointing to the top",
+  "expected_result": "The 'Allow Discord access...' message should appear and point to the bar at the bottom",
+  "short_description": "[Edge] Microphone permission message is incorrectly placed",
+  "steps_to_repro": "- Open Edge and go to Settings -> Advanced Settings - Click Manage under Website Permissions and remove any existing entries for Discord - Open the Discord webapp and sign in/create an account - Click the Mute button next to your username"
+ }
+}

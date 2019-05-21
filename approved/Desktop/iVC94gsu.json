@@ -1,0 +1,24 @@
+{
+ "id": "599f62a5a4bd8fa4d050f5d4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1040,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iVC94gsu",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Desktop Canary 0.0.163",
+  "actual_result": "A green bar appears under Voice Channels, giving you the option to drop it. When you drop it, it instead brings it up to the top of Text Channels <http://imgur.com/Hdlh6Oe>",
+  "expected_result": "The Voice Channel dims, similar if you tried vice versa",
+  "short_description": "Gives me the option to drag a text channel into Voice Channels",
+  "steps_to_repro": "- Click and drag a text channel - Drag it under Voice Channels"
+ }
+}

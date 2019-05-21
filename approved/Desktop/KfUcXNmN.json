@@ -1,0 +1,30 @@
+{
+ "id": "5aa7a7be23e8c60ccafbd82f",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1734,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KfUcXNmN",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.203, Build 11951",
+  "actual_result": "Mini User Profile follows you into the different server",
+  "expected_result": "Mini User Profile closes upon changing servers",
+  "short_description": "Mini User Profile can follow into other servers & channels if opened along with the Role drop-down menu",
+  "steps_to_repro": "- Have two servers where your Member List placement is the same (ideally at the top for easier reproduction) - Open your Mini User Profile from the Members List & then open the Role Add drop-down menu - Change to a server where your Member List placement is the same as the server you opened your Mini User Profile in"
+ }
+}

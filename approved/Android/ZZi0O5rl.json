@@ -1,0 +1,17 @@
+{
+ "id": "5bc0c86023162c358736c8e2",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2161,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZZi0O5rl",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 768",
+  "actual_result": "It says \"Sort\" which makes no sense because you aren't really rearranging the audit log entries. Also, the same lines in recent mentions when long pressed say \"Filter\".",
+  "expected_result": "It says \"Filter\".",
+  "short_description": "When you long press the three lines on the top right of an Audit log, the information toast says \"Sort\" instead of \"Filter\".",
+  "steps_to_repro": "- Open Audit log. - Long press on the the lines on the top right."
+ }
+}

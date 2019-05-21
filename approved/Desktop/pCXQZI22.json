@@ -1,0 +1,17 @@
+{
+ "id": "5b8810242cb62d20a2ae8d8f",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2836,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pCXQZI22",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.6",
+  "client_settings": "Canary Build 22726",
+  "actual_result": "The user will be unblocked and gets a friend request.",
+  "expected_result": "User should still be blocked and you should get a warning that sending friend request is not possible.",
+  "short_description": "You can send friend requests to users you have blocked",
+  "steps_to_repro": "- Block any user - Open the add friends screen - Send a friend request to the blocked user - Observe the blocked user"
+ }
+}

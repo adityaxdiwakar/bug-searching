@@ -1,0 +1,17 @@
+{
+ "id": "5c2fd7f89bb9f246d17a5051",
+ "closed": false,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 3569,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/6X6V6QGU",
+ "data": {
+  "system_settings": "iphone 5",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 30302, Version Hash: db622561b65eae5128bc8eab9db7679a4527c3fb",
+  "actual_result": "No prompt is shown in a DM call to stream the application osu!",
+  "expected_result": "If followed all the steps previously than you should have a prompt to stream the application (osu!)",
+  "short_description": "Whilst in a discord DM call with a friend, there are some full screen applications, for example osu! which cannot be streamed",
+  "steps_to_repro": "- Select a friend - Start a 'call' with them - Open an application (osu!) - Click share screen - Click stream -"
+ }
+}

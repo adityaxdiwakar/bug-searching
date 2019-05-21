@@ -1,0 +1,16 @@
+{
+ "id": "5854ad9b7b68d344b23c5e06",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 255,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/aZs8b0Qp",
+ "data": {
+  "system_settings": " Win10 x64, Canary",
+  "actual_result": "Pressing enter does nothing and this gets spammed in console http://i.imgur.com/pLWdo7G.png",
+  "expected_result": "Message sends successfully and the command works.",
+  "short_description": "/commands (like /me and /shrug) don't work in private messages",
+  "steps_to_repro": "- Go to a group DM or private message - Try to use a /command (excluding stuff like /giphy) "
+ }
+}

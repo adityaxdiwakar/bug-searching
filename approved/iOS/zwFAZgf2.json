@@ -1,0 +1,17 @@
+{
+ "id": "5a509664fec30193c5ddb749",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 486,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zwFAZgf2",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.1.2",
+  "client_settings": "TestFlight 2.2.0 (2080)",
+  "actual_result": "The keyboard is not minimised and squishes the invite UI above the keyboard.",
+  "expected_result": "The keyboard minimises and the invite menu is fully displayed.",
+  "short_description": "Keyboard does not hide when using a Discord invite link in Safari and opening in the app if you were previously typing",
+  "steps_to_repro": "- Start typing in a channel / have the keyboard up in a channel or DM. - Press the home button / go to the home screen. - Open up Safari. - Enter the URL to a discord server invite such as  - Press enter to load the Discord invite page. - When the pop-up asking to \"Open in Discord\" appears, tap \"Open\"."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ad4cb4ac86994b37224f566",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1286,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4CjxMd0z",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.9",
+  "actual_result": "It's spammed with ` incorrect header check`. Number of times it's spammed may vary",
+  "expected_result": "Nothing special to be seen there",
+  "short_description": "Resuming the session after switching to Discord from another app spams the debug log with ZipExceptions",
+  "steps_to_repro": "- (optional) Kill Discord to clear the debug log, and ensure that no error is shown already - Either minimize Discord using Home button and open another app, or open a link from Discord in order to open YouTube, Trello, etc. Either way, do NOT kill the app, leave it running in background - Go back to Discord and check debug log"
+ }
+}

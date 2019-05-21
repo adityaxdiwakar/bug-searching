@@ -1,0 +1,17 @@
+{
+ "id": "5b5face5e247203438e7b60e",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2527,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/HpRtUhfH",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 20280",
+  "actual_result": "Server list doesn't auto-scroll for servers, only for DMs",
+  "expected_result": "Server list auto-scrolls to the server",
+  "short_description": "\"New\" mentions buttom doesn't scroll to server",
+  "steps_to_repro": "- Get pinged in a server - Make sure the server isn't in view on the server list - Try pressing the \"New\" mentions button"
+ }
+}

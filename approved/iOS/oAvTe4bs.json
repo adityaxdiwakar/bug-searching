@@ -1,0 +1,30 @@
+{
+ "id": "5ae8b8f8ff591ec5313c1b62",
+ "closed": true,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 713,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oAvTe4bs",
+ "data": {
+  "system_settings": "iPod Touch 6th generation, iOS 11.2.6",
+  "client_settings": "TestFlight 2.3.1 (4048)",
+  "actual_result": "It gets cut off as if you where on a server",
+  "expected_result": "Your name should show fully as it did in (4040)",
+  "short_description": "The Box below the channel list which contains your avatar/username/discrim no longer shows the users full name as of TestFlight 2.3.1 (4048)",
+  "steps_to_repro": "- Look at the bottom of you screen by setting and see that your full discord name isn\u2019t displayed  - Close discord  - Go to TestFlight and downgrade to 2.3.1 (4040) -  Launch discord and look down to where settings are - You should see your full discord name"
+ }
+}

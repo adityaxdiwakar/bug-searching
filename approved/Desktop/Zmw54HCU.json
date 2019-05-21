@@ -1,0 +1,24 @@
+{
+ "id": "59d26e256e862eba190a7c4d",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1217,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Zmw54HCU",
+ "data": {
+  "system_settings": "MacOS 10.13, MBP mid 2015",
+  "client_settings": "Discord Canary 0.0.155 - Build 5141",
+  "actual_result": "It appears, but the microphone is the same color as the menu bar background so you only see a red stripe",
+  "expected_result": "The muted icon should appear",
+  "short_description": "Muted and Deafened talking indicator in menu bar showing only red stripe on MacOS Dark theme",
+  "steps_to_repro": "- Set MacOS to dark theme (System Prefs -> General -> Dark Dock and Menu Bar) - Get into a voice channel - Mute yourself - Observe"
+ }
+}

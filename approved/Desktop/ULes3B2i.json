@@ -1,0 +1,17 @@
+{
+ "id": "5b59fe52933270a890ddec4a",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2439,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ULes3B2i",
+ "data": {
+  "system_settings": "Win10 x64",
+  "client_settings": "stable 19861",
+  "actual_result": "info button",
+  "expected_result": "screenshare button",
+  "short_description": "screenshare button is missing",
+  "steps_to_repro": "- open discord - connect to voice channel/s with available screenshare"
+ }
+}

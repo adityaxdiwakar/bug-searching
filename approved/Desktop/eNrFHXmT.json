@@ -1,0 +1,16 @@
+{
+ "id": "58541245c630dd54f01cb0f6",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 251,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/eNrFHXmT",
+ "data": {
+  "system_settings": " Latest Canary, Windows 7",
+  "actual_result": "Resizing cuts off part or all of the dropdown menu",
+  "expected_result": "Recent Message/ Pinned Messages will resize to fit the size of the tab",
+  "short_description": "'Recent Mentions\" and \"Pinned Messages\" dont resize to fit minimal mode",
+  "steps_to_repro": "- Enter minimal mode - Open Recent Mentions or Pinned Messages - Reduce the size of the tab vertically or horizontally so it affects the dropdown menu "
+ }
+}

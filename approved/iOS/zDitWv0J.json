@@ -1,0 +1,24 @@
+{
+ "id": "5bda3c9b0ae5bc72a23c9be3",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1139,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zDitWv0J",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8841)",
+  "actual_result": "Page is blank",
+  "expected_result": "Page shows that no users were found",
+  "short_description": "Filtering audit log by user shows a blank page if no results are found",
+  "steps_to_repro": "- Go to a server where you can view the audit log - Select the filter by user option - Type in something that will bring back no results - Observe the screen"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a9d7a04b8b39c179eac814b",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 621,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nNAZH1ce",
+ "data": {
+  "system_settings": "iPhone 5s, iOS 10.0.1",
+  "client_settings": "TestFlight 2.2.5 (2894)",
+  "actual_result": "Voice settings open, lowering the bitrate and leaving your music really low. (If not using headphones, the audio will switch from main speaker to the one you use in a call with someone)",
+  "expected_result": "Voice settings should open without affecting current audio in background",
+  "short_description": "(Headphones) Audio bitrate and volume lowered when entering voice settings",
+  "steps_to_repro": "- Open preferred music app (Spotify) - Start some music - Open Discord, open settings (gear icon), and open Voice, under App Settings"
+ }
+}

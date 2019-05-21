@@ -1,0 +1,29 @@
+{
+ "id": "5916bbc2087612c75ad8b2f5",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 451,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rMncDqBa",
+ "data": {
+  "system_settings": " Android 5.1 discord 3.8.5",
+  "actual_result": "it removes the 0's until it hits a number that isn't 0",
+  "expected_result": "it has the full descrim",
+  "short_description": "editing mention error",
+  "steps_to_repro": "- Find a user that first descrim is a 0 - tag them - send the mention - edit it "
+ }
+}

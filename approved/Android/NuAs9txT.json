@@ -1,0 +1,30 @@
+{
+ "id": "59bcafa7ce8c47305cfe3674",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 725,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NuAs9txT",
+ "data": {
+  "system_settings": "Samsung Galaxy 5",
+  "client_settings": "Discord 5.1.7 Alpha",
+  "actual_result": "It says \"Channel settings have been updated\" then \"Category settings have been updated\".",
+  "expected_result": "It should only say \"Category settings have been updated\".",
+  "short_description": "Editing category frequency says \"Channel settings have been updated\" then \"Category settings have been updated\".",
+  "steps_to_repro": "- Go to a server where you have perms to edit a category. - Hold a category and click on edit category. - Click/Change on one of the frequency."
+ }
+}

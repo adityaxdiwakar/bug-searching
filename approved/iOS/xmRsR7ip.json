@@ -1,0 +1,24 @@
+{
+ "id": "59efb7d806211c5f2581a56b",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 383,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xmRsR7ip",
+ "data": {
+  "system_settings": "iOS 11.1 PB 5",
+  "client_settings": "1.9.3 (1286)",
+  "actual_result": "Save and cancel do nothing",
+  "expected_result": "The save and cancel buttons should do what they're supposed to do",
+  "short_description": "Save and cancel buttons do not work when editing messages.",
+  "steps_to_repro": "- Send a message  - Long press and hit edit  - Press save or cancel"
+ }
+}

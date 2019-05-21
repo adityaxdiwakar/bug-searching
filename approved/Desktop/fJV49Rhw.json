@@ -1,0 +1,15 @@
+{
+ "id": "5831fbf5a27ead47aa5f1333",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 164,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/fJV49Rhw",
+ "data": {
+  "actual_result": "A million dialogue boxes that take a while to click through",
+  "expected_result": "One \"chill zone\" dialogue or some sort of time-out system",
+  "short_description": "Spamming messages at a ludricous rate causes more than one \"chill zone\" dialog to appear; clickling through all of them can take a while",
+  "steps_to_repro": "- Use an autohotkey script or mouse bind or something to spam a message + enter over 10 times a second - Use it, flood messages into a channel "
+ }
+}

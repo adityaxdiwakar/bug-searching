@@ -1,0 +1,16 @@
+{
+ "id": "58b1df569e1f1e70a9333f8f",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 200,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/v3JwgGUn",
+ "data": {
+  "system_settings": " iOS 10.2, iPhone 5c, latest Discord beta from Testflight.",
+  "actual_result": "The app crashes **Note** This didn't happen before the testflight update",
+  "expected_result": "The permissions will be applied",
+  "short_description": "Edit role crash",
+  "steps_to_repro": "- Go create a role - Edit its permissions "
+ }
+}

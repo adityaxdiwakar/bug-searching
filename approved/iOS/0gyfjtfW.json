@@ -1,0 +1,17 @@
+{
+ "id": "5bb4d7bd3af3275e79936a0b",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1050,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0gyfjtfW",
+ "data": {
+  "system_settings": "iOS 12.0, iPhone 6s",
+  "client_settings": "TestFlight 2.3.9 (7858)",
+  "actual_result": "Animation becomes a up animation",
+  "expected_result": "The animation is still swiping back",
+  "short_description": "Going back into settings can turn into an up animation",
+  "steps_to_repro": "- Go to server settings > channels - Tap sort - Choose any option, make sure it has channels though - Hold one channel and start spam tapping \"Done\" while letting go of it - Tap back - Observe the animation"
+ }
+}

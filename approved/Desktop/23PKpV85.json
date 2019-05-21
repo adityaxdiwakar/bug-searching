@@ -1,0 +1,23 @@
+{
+ "id": "58c6e3293f3d7cd131cf866d",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 419,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/23PKpV85",
+ "data": {
+  "system_settings": " Windows 7 Home Premium, Discord Stable",
+  "actual_result": "Message gose red and dosent send, clyde says the user block you message",
+  "expected_result": "It just has the \"You dont have perms\" thing on message bar and you cant even type anything and Clyde says the correct message",
+  "short_description": "Being active in a channel where you require a role to be in causes Clyde to give the wrong message when you send a message",
+  "steps_to_repro": "- Get a role that has access to a channel that cant be access without it - go into said channel - get role removed - type a message and hit send "
+ }
+}

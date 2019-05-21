@@ -1,0 +1,17 @@
+{
+ "id": "5c07e5d1368ffd3dd3cb93ce",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3464,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/he3HrbZl",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.224 (28942)",
+  "actual_result": "There is big space between \"Play on Spotify\" and the listen along button",
+  "expected_result": "It should not randomly get smaller and have massive padding in between the buttons",
+  "short_description": "On Spotify rich presence, the \"Play on Spotify\" button is smaller compared to stable/ptb",
+  "steps_to_repro": "- Listen to Spotify - Inspect your profile - Observe the button being smaller"
+ }
+}

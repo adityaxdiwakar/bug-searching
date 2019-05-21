@@ -1,0 +1,24 @@
+{
+ "id": "5bac70f7a297e0511ecde94e",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2053,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vjqc91u1",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Android Alpha 7.5.6",
+  "actual_result": "When you rotate your screen back from sideways, all users pop up for a split second.",
+  "expected_result": "Smooth screen rotation.",
+  "short_description": "All users pop up for a split second when you rotate your search results on a search content that doesn't have a result.",
+  "steps_to_repro": "- Go to audit log, and filter users. - Then, search something that shouldn't give a result (example, aeoifjaosejf). - Once you get the result, rotate your screen sideways, then rotate it back."
+ }
+}

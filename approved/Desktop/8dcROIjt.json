@@ -1,0 +1,15 @@
+{
+ "id": "584244acea9fa2a3bac53ee1",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 201,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8dcROIjt",
+ "data": {
+  "actual_result": "not normal",
+  "expected_result": "Normal size",
+  "short_description": "Volume mixer icon is HUGE!",
+  "steps_to_repro": "- Open up volume mixer  "
+ }
+}

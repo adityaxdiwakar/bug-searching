@@ -1,0 +1,24 @@
+{
+ "id": "5a27029ced5b9352889db847",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 936,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/M6zqp9jH",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "583",
+  "actual_result": "There isn't at all",
+  "expected_result": "There's a Discord logo in background on light theme like there is when using Dark theme",
+  "short_description": "There is no image loading background while using light theme",
+  "steps_to_repro": "- switch to light theme - go and try to load an image (it'll be easier to notice if you're on a slower connection) - notice there's no loading image background like there is with dark theme (has two Discord logos and a spinning circle icon infront of them)"
+ }
+}

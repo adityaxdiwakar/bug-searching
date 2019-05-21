@@ -1,0 +1,23 @@
+{
+ "id": "58a2526350cdcc304f91642f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 379,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1XgqgPSB",
+ "data": {
+  "system_settings": " Win10x64 Canary (latest english)",
+  "actual_result": "Channel remains unread and has to be manually marked",
+  "expected_result": "Channel is mark as read as there are no new messages visible",
+  "short_description": "Unable to view channel without history perms to mark it as read",
+  "steps_to_repro": "- Make a channel without read permissions - Log off and have somebody send a message there or reload after the message is received - Observe channel - Switch to another channel "
+ }
+}

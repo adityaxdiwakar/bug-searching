@@ -1,0 +1,30 @@
+{
+ "id": "5bc5b5e74700d7557dc397f9",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2176,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KXRRuNzW",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 771",
+  "actual_result": "The message option sheet doesn't pop up.",
+  "expected_result": "The message action sheet pops up.",
+  "short_description": "There's no message action sheet for uploads just after a message.",
+  "steps_to_repro": "- Upload a file to a channel (make sure that you haven't sent any message in the channel in the last 7 minutes). - Long press on the place above the message (while the modal is still there). - Observe the message action sheet. - Now, go to a channel where you have sent a message in the last 7 minutes. - Upload a file. - Try to long press anywhere on/ around the modal."
+ }
+}

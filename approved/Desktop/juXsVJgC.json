@@ -1,0 +1,22 @@
+{
+ "id": "585ebe35539c4138b07edaba",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 276,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/juXsVJgC",
+ "data": {
+  "actual_result": "custom emoji doesn't show  (NOTE: this bug only occurs with custom server emoji, regular emojis work as expected)",
+  "expected_result": "custom emoji shows right after colon",
+  "short_description": "incorrect parsing of custom emoji",
+  "steps_to_repro": "- type a custom emoji with a colon before (example: ::customemoji:)  "
+ }
+}

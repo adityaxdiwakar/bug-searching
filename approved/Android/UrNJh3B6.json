@@ -1,0 +1,30 @@
+{
+ "id": "5b311c74117101bb56ad15a8",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1601,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UrNJh3B6",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.9",
+  "actual_result": "It immediately creates a new invite as soon as you change the target channel in the dropdown menu, which creates unnecessary invites and you can easily get ratelimited",
+  "expected_result": "Changing channel should not create a new invite until \"Generate link\" button is pressed",
+  "short_description": "New invite is created as soon as you change the target channel in invite settings",
+  "steps_to_repro": "- Go to Create instant invite screen - Tap the settings icon - Select a different channel in the dropdown menu - Select a different channel in the dropdown menu - Select a different channel in the dropdown menu - Select a different channel in the dr... ok I stop - Now go in Server Settings and look at the invite list to notice the results"
+ }
+}

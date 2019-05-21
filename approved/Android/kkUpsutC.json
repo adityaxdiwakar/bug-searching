@@ -1,0 +1,30 @@
+{
+ "id": "5b6201da1f3c1195cde86f71",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1753,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kkUpsutC",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.2.1",
+  "actual_result": "The magnifying glass in the background saying \"no results found\" shows up for a brief second before loading the members",
+  "expected_result": "The member list is shown without any issues",
+  "short_description": "The magnifying glass in the Member List in Server Settings is shown every time I rotate my phone",
+  "steps_to_repro": "- Open Server Settings - Go to Members - Rotate your phone - observe"
+ }
+}

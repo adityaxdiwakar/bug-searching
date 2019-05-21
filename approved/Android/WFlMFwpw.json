@@ -1,0 +1,17 @@
+{
+ "id": "596906f611f1d6f4982cd2ee",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 549,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WFlMFwpw",
+ "data": {
+  "system_settings": "Android 6.0, LG K8.",
+  "client_settings": "Android 3.9.8",
+  "actual_result": "Nothing. Just shows it asif you have no mentions.",
+  "expected_result": "Should show number of Mentions That have happened.",
+  "short_description": "Mentions do not show Up in landscape mode.",
+  "steps_to_repro": "- Have Mentions from Users/Role Mentions - Rotate your Android Device to Landscape - Look where normally mentions Would show."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ac53dd616e4eec3f2e87d7a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1247,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/J6EB9tnC",
+ "data": {
+  "system_settings": "Samsung Galaxy Tab S2; Android Nougat 7.0",
+  "client_settings": "Discord Alpha, 6.4.6",
+  "actual_result": "The \"Add Friend\" box pops up, as if you pressed the \"Invite Your Friends\" button on the All tab (When you have no friends)",
+  "expected_result": "Nothing",
+  "short_description": "The \"Invite Your Friends\" button is avalible on other tabs where it should not be",
+  "steps_to_repro": "- Go to the friends menu - Go to a tab where there are no persons in it (e.g. Suggestions) - Press the empty space (Where the persons are on other tabs)"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58ed1a2dc8da7c49730bb548",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 343,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c33zEtDi",
+ "data": {
+  "system_settings": " Android KitKat,lastest alpha",
+  "actual_result": "The list may be blank or have the list for the last server you spent time in.",
+  "expected_result": ":You should see the list of members for the group.",
+  "short_description": "Group DM Member list bug",
+  "steps_to_repro": "- Go to any server and send a few messages and stay on there for 5 mins - Go to a group dm- Press enter  "
+ }
+}

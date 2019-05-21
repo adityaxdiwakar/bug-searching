@@ -1,0 +1,17 @@
+{
+ "id": "5989ec7f93efd30d8ccfdb64",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 601,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yKao3v71",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 edge (SM-G935F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.0.3 (402)",
+  "actual_result": "The user profile opens without an avatar or username, but with all the connections, then the app quickly returns to the reaction list",
+  "expected_result": "The selected user profile should fully load",
+  "short_description": "User profiles fail to load when accessed from a message's reaction list",
+  "steps_to_repro": "- Find a message that people reacted a lot to - Open up the list of reactions by press holding on the message and then selecting \"Reactions\", scroll down a bit and try opening a profile - Notice how the profile opens, but the app fails to load it and quickly returns to the reaction list."
+ }
+}

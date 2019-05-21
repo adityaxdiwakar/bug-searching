@@ -1,0 +1,30 @@
+{
+ "id": "5a613702210ac3c81dce75f5",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 511,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aovZzrm0",
+ "data": {
+  "system_settings": "iOS 11.2.1, iPhone 7",
+  "client_settings": "TestFlight 2.2.1 (2193)",
+  "actual_result": "Search returns everything that you can see in the server.",
+  "expected_result": "You are not able to search as you did not specify the date for your search.",
+  "short_description": "Able to search using before/after/during without specifying dates.",
+  "steps_to_repro": "- Go to a channel in a server. - Hit search. - Type either before, during, or after. - Do not choose a date. - Hit search."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bec4a6da6669379043a6586",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3383,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gFRUj9xX",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Discord Canary 27841",
+  "actual_result": "New member count doesn't update until you restart Discord.",
+  "expected_result": "The amount of members after pruning should differentiate between how many you had originally by how many you have pruned.",
+  "short_description": "New member count after pruning doesn't update until you restart Discord.",
+  "steps_to_repro": "- First, notice how many members you have in your server by going to server settings > members. - Then, prune some members. - After pruning, notice how many people are in your server now."
+ }
+}

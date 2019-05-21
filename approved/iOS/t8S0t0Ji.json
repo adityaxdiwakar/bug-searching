@@ -1,0 +1,35 @@
+{
+ "id": "589bdc13fe2ab8ff88847926",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 180,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/t8S0t0Ji",
+ "data": {
+  "system_settings": " Latest TestFlight; iPhone 5s running iOS 10.2.1",
+  "actual_result": "No matches.",
+  "expected_result": "It should give a valid list of members that match the query.",
+  "short_description": "While searching members, using capitals returns no matches.",
+  "steps_to_repro": "- Open server settings and go to member list.- Search for a member in your server with uppercase letters in their name (warrants no result).- Search for the same member with all lowercase letters."
+ }
+}

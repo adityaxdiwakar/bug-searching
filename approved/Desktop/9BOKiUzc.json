@@ -1,0 +1,24 @@
+{
+ "id": "59a21535098c10fb03a92289",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1051,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9BOKiUzc",
+ "data": {
+  "system_settings": "Microsoft Windows 10 Pro x64",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "Displays Success Message when adding someone who is already your friend.",
+  "expected_result": "Displays Error Message: Your Already Friends with that Person!",
+  "short_description": "When you try to send a friend request to someone your already friends with it displays the Success message on Desktop and iOS.",
+  "steps_to_repro": "- Go to Friends - Click Add Friend - Type in one of your Friend's Username and Discriminator - Click Send Friend Request - Sucess Message is Displayed but no one is added to the Pending Tab because they were already your friend."
+ }
+}

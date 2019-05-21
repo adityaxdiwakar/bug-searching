@@ -1,0 +1,17 @@
+{
+ "id": "5b12bde45928db258a0f55ff",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2088,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/S4lMJVDw",
+ "data": {
+  "system_settings": "Windows 10 x64 (1709),",
+  "client_settings": "Discord Canary 16354",
+  "actual_result": "Quick Switcher doesn't pop up. There is  no response.",
+  "expected_result": "Quick Switcher should pop up, since it works when typing in other text boxes.",
+  "short_description": "Ctrl+K for Quick Switcher doesn't work while searching.",
+  "steps_to_repro": "- Click on the search bar on the top right corner of Discord. - Press Ctrl+K."
+ }
+}

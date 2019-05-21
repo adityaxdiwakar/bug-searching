@@ -1,0 +1,30 @@
+{
+ "id": "5b97d258be70a555fabde514",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1971,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BFM5UbNE",
+ "data": {
+  "system_settings": "Samsung Galaxy S9, Android 8.0.0",
+  "client_settings": "Android Alpha 7.4.8",
+  "actual_result": "The Ongoing Call bar disappears, but does not properly return after the keyboard is closed until the app is restarted / opening and closing user settings.",
+  "expected_result": "The Ongoing Call bar will disappear temporarily until the keyboard is closed.",
+  "short_description": "When the navigation bar is hidden, the Ongoing Call bar at the bottom of a group DM will disappear and not return after the keyboard is closed.",
+  "steps_to_repro": "- Make sure the navigation bar is in hidden mode - Have members of a group DM you're in start a call without you - Open up the keyboard by clicking on the message bar"
+ }
+}

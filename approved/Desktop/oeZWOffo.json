@@ -1,0 +1,24 @@
+{
+ "id": "59d69699e73636b7c6042ea4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1226,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oeZWOffo",
+ "data": {
+  "system_settings": "Linux x86_64 (4.4.0-96-generic)",
+  "client_settings": "Browser client [Chrome 58.0.3029.81 (64-bit)]",
+  "actual_result": "Avatars are not rendered.",
+  "expected_result": "Avatars should be rendered as normal with correct sizing",
+  "short_description": "Avatars do not render when zoomed in at certain percentages (only tested on browser but may also affect desktop client)",
+  "steps_to_repro": "- Zoom the browser in to an invalid level. For myself on chrome with a 4k display, this was 250%. This may vary. Refresh the page"
+ }
+}

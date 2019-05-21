@@ -1,0 +1,24 @@
+{
+ "id": "5a14bb3a8df634bcbc96ad6b",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 910,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9kN1f7PN",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "574 Alpha",
+  "actual_result": "Discord changes theme but it exists the app upon leaving user settings",
+  "expected_result": "Discord switches theme and doesn't \"soft crash\"",
+  "short_description": "Changing theme causes Discord to auto close",
+  "steps_to_repro": "- Go to Appearance- Change to a different theme (If Light then Dark or if Dark then Light)- Go back to main chat screen"
+ }
+}

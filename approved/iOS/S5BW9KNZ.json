@@ -1,0 +1,17 @@
+{
+ "id": "5bb2906121489b3501843696",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1044,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/S5BW9KNZ",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta",
+  "client_settings": "TestFight 2.3.9 (7731)",
+  "actual_result": "Typing cursor appears before the magnifying glass moves over fully",
+  "expected_result": "Typing cursor appears when the magnifying glass moves overy fully",
+  "short_description": "Typing cursor appears early when searching in members under server settings",
+  "steps_to_repro": "- Go to a server you can manage members - Open server settings, and go to members - Tap on the search feature at the top - Observe the typing cursor as search opens"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b7398be1dec571013fc8d24",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2708,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4epoq1zP",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 21931",
+  "actual_result": "The counter is in a different font than intended",
+  "expected_result": "The counter uses the Discord font used in previous builds",
+  "short_description": "The reaction count has a default font instead of the Discord font from earlier builds",
+  "steps_to_repro": "- make the best post so that people will react to it loads! - observe the reaction counter"
+ }
+}

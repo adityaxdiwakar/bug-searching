@@ -1,0 +1,36 @@
+{
+ "id": "5b2a07b3ac2f58eef85a7253",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1567,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1nXCsgyT",
+ "data": {
+  "system_settings": "Xioami Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "The popup is cut off from the top making \"open in application\" button (\u2197\ufe0f) change it's position and change flash setting button in camera impossible to click.",
+  "expected_result": "The \"add content\" popup should adjust itself according to split screen size of Discord app.",
+  "short_description": "Splitting Discord screen to the minimum size cuts off the \"add content\" popup from the top making some elements unable to click or even see.",
+  "steps_to_repro": "- Go to any server, click on plus button at the bottom left \"add content\"."
+ }
+}

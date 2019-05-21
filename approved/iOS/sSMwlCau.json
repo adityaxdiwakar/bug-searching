@@ -1,0 +1,17 @@
+{
+ "id": "59a6e2b062737c27922a6c1a",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 309,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sSMwlCau",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 10.3.3",
+  "client_settings": "TestFlight 1.9.1",
+  "actual_result": "There is a heading",
+  "expected_result": "There shouldn't be a voice channels heading",
+  "short_description": "Voice channels heading shown even if there are no voice channels",
+  "steps_to_repro": "- Have or create a server with no voice channels - Scroll down to the voice channel heading"
+ }
+}

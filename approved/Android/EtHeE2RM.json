@@ -1,0 +1,30 @@
+{
+ "id": "5b22ca3cf37faff8eb221c37",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1541,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EtHeE2RM",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.1",
+  "actual_result": "You can open the action sheet once again after it has been revoked, and you are given the options to revoke it again (which fails with a toast), to copy it and to share it with your friends",
+  "expected_result": "The link should not be interactable at all after it has been revoked",
+  "short_description": "Can still interact with an invite link after it has been revoked",
+  "steps_to_repro": "- Create an invite link - Go to Server Settings > Invites - Tap the link to open action menu - Press Revoke and then tap immediately on the link again before it vanishes from the list"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58d07057d5d0101da28b76f6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 444,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DxNVhJ12",
+ "data": {
+  "system_settings": " Windows 10, latest Discord Canary (User Options Update)",
+  "actual_result": "Some options seem randomly synced.",
+  "expected_result": "Options are completely separated.",
+  "short_description": "\"Who can add as a friend\" toggles are weirdly synced.",
+  "steps_to_repro": "- Turn on all 3 \"Add as a friend\" options. - Turn off \"Friends of Friends\" (everyone turns off). - Turn everything back on, turn off \"Server Members\" (everyone turns off).  - Turn off Everyone, then turn off \"Friends of Friends\" and turn it back on again. (everyone turns on). "
+ }
+}

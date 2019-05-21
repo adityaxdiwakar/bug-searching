@@ -1,0 +1,23 @@
+{
+ "id": "58f1515c72d314edcb7bb778",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 495,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/x2Bgx2v7",
+ "data": {
+  "system_settings": " Latest canary on Windows 10 x64",
+  "actual_result": "You can't close the reactors screen and you are stuck on it and can't do anything until you perform a reload",
+  "expected_result": "The reactors screen should close automatically or you can click off to close it",
+  "short_description": "Stuck on the reactors modal",
+  "steps_to_repro": "- React to a message or find one with reactions on it - Click the drop down on the message and click `Reactions` - Use an alt or have somebody else delete the message while on the reactors screen - Delete the reaction"
+ }
+}

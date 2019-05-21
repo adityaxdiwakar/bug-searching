@@ -1,0 +1,30 @@
+{
+ "id": "5b2f318d44be65ca541e57da",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1593,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/E7z9z82Y",
+ "data": {
+  "system_settings": "Nokia 7 Plus running Android 8.1.0",
+  "client_settings": "Android Alpha 6.9.9",
+  "actual_result": "The UI components take a few seconds to change, and it quite obvious if moving quickly",
+  "expected_result": "The UI components should change theme immediately",
+  "short_description": "Changing theme when using the back button delays UI theme update.",
+  "steps_to_repro": "- Go to Settings > Appearance - Change the theme to the opposite colour - Press the back button (rather native or in-app) immediately - Observe how some UI components don't update: settings page and message flow take a few seconds."
+ }
+}

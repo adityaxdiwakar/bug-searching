@@ -1,0 +1,30 @@
+{
+ "id": "5bf647d8fb38681c2f8fa2ee",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2345,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/i2Ema93t",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 8.0.0",
+  "actual_result": "There's no warning icon list in the channel.",
+  "expected_result": "The NSFW channel should have the warning icon on the channels list, like the desktop.",
+  "short_description": "NSFW channel signs doesn't appear under \"Channels\" in server settings.",
+  "steps_to_repro": "- Have a NSFW channel in your server. - Go to server settings > channels. - Look for the NSFW channel."
+ }
+}

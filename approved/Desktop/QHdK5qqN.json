@@ -1,0 +1,30 @@
+{
+ "id": "5ad42e629538ed3cc138c14c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1852,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QHdK5qqN",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-Bit (Latest Build)",
+  "client_settings": "Release Channel: ptb, Build Number: 13533, Version Hash: 639d15997e739cac524863c11044e3c8cbf4c0ee",
+  "actual_result": "When you Click on \"Share\" nothing happenes. The \"Screen Share Pop-up\" just closes",
+  "expected_result": "You and your friend should see the screen you've selected in \"Turn on Screen Share\"",
+  "short_description": "The PTB's Screen share is not working for me and a friend on mine",
+  "steps_to_repro": "- Open DiscordPTB -Second Step- Go to the DM's of a friend -Third Step- Click on \"Start Voice Call\" -Fourth Step- Click on \"Turn on Screen Share\" and select a random Screen\""
+ }
+}

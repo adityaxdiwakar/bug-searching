@@ -1,0 +1,30 @@
+{
+ "id": "5ad9a1fa0909bc93d71f6c02",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1298,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IvXoLOhW",
+ "data": {
+  "system_settings": "LineageOS 14.1-20180410-NIGHTLY-bacon",
+  "client_settings": "Discord Stable for Android v6.4.7",
+  "actual_result": "Step 2: \"foo bar\" is displayed (all newlines are visually replaced with spaces)",
+  "expected_result": "Step 2: a two line message is displayed, with foo being the first line, and bar being the second",
+  "short_description": "New lines in the \"notes\" field are not displayed",
+  "steps_to_repro": "- On desktop, add a multi-line note to someone's profile (shift-enter helps). For example: \"foo\\nbar\" - View their profile on Android"
+ }
+}

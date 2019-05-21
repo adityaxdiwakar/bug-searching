@@ -1,0 +1,17 @@
+{
+ "id": "5b62ba5d1e9f88869a9a1487",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2594,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QO8Wij0g",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (20540)",
+  "actual_result": "It's in system language (Swedish in my case)",
+  "expected_result": "The overlay is supposed to be in English",
+  "short_description": "The in game overlay is in system language rather than Discord langauge",
+  "steps_to_repro": "- Use English Discord - Use an another language on your system (I use Swedish)"
+ }
+}

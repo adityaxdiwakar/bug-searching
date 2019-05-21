@@ -1,0 +1,22 @@
+{
+ "id": "58519eb9378ab93549f66f82",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 141,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fCXqhp2d",
+ "data": {
+  "actual_result": "The only way to change your status back is doing it manually",
+  "expected_result": "Your Status gets put back to Online after chat is loaded or you wrote a message somewhere",
+  "short_description": "losing connection puts you into Offline or invisible Status, but there's no way to get out of it automatically",
+  "steps_to_repro": "- Go online on Discord Android - Turn off your WiFi or Internet connection - Wait  until your status is put to Offline - Write a message somewhere "
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "5a92d4d03173147a5ec94017",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1145,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e9",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can still reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cwMJfX52",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.8",
+  "actual_result": "They have a background color that doesn't fit Dark theme at all",
+  "expected_result": "The permission that you can't revoke because \"it would remove it from you\" should be just grayed out",
+  "short_description": "On Dark theme, channel permissions override that you can't revoke because \"it would remove them from you\" have a wrong background color",
+  "steps_to_repro": "- Set your theme to Dark - Be in a role with Manage channels but not Administrator - Have an admin set permissions override in a channel so your role has more perms in it - Go to Channel settings > Permissions > Your role"
+ }
+}

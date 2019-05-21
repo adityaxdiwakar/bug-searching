@@ -1,0 +1,24 @@
+{
+ "id": "596671be169b8ee246a0ad2c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 842,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZXe6VadH",
+ "data": {
+  "system_settings": "Windows 10 Home x64, Creators Update",
+  "client_settings": "Discord Canary, 0.0.158",
+  "actual_result": "It crashes",
+  "expected_result": "Discord Opens",
+  "short_description": "Discord crashes when starting",
+  "steps_to_repro": "- Open Discord Canary - Wait a few seconds"
+ }
+}

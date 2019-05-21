@@ -1,0 +1,30 @@
+{
+ "id": "5c26cd9ddc0bcc300b961b54",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3553,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dPgXt2eL",
+ "data": {
+  "system_settings": "Windows Home 1809",
+  "client_settings": "Release Channel: canary, Build Number: 30302, Version Hash: db622561b65eae5128bc8eab9db7679a4527c3fb",
+  "actual_result": "The \"language\" and \"select a language\" text changed to English first before changing to the new language",
+  "expected_result": "The \"language\" and \"select a language\" text should change between the 2 languages, without going to English first",
+  "short_description": "Changing language will change the \"select a language\" panel text to English quickly",
+  "steps_to_repro": "- Go to the language changer in settings - Change your language to non-English - Get ready to observe the \"language\" and \"select a language\" text at the top of the language changer panel - Change your language to a different non-English language - The \"language\" and \"select a language\" text should be English for a split second"
+ }
+}

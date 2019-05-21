@@ -1,0 +1,30 @@
+{
+ "id": "5ab6f665944ac4544dcf2ffc",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 645,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QU80TBR0",
+ "data": {
+  "system_settings": "iPhone 5s, iOS 10.0.1",
+  "client_settings": "TestFlight 2.2.6 (3440)",
+  "actual_result": "The site 'reloads' going back to the mobile version of the site",
+  "expected_result": "If the site has a Desktop site, it will load the Desktop site",
+  "short_description": "Request Desktop Site button in the in-app browser isn't changing User Agent [Most likely iOS 10 specific]",
+  "steps_to_repro": "- Make sure you have the in-app browser selected - Post a link to a website that has a mobile version and a desktop version (like Discord's website) - Open the website in the in-app browser - When the website loads click the share button - Click the Request Desktop Site button (in bottom bar of icons)"
+ }
+}

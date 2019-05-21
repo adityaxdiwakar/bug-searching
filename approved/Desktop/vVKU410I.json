@@ -1,0 +1,30 @@
+{
+ "id": "5acc5fb77802f1a60810a030",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1823,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vVKU410I",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1709 build 16299.309",
+  "client_settings": "Discord Canary 13212",
+  "actual_result": "Call sound resumes",
+  "expected_result": "Call sound should stay muted",
+  "short_description": "Clicking out of an outgoing ringing call, clicking back in, and muting resumes the call sound",
+  "steps_to_repro": "- Start an outgoing call to a friend - Switch to a different DM or a server - Switch back to DM with friend - Mute your microphone"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bad2758a0c8182e229c6fd0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3047,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SglsA6MD",
+ "data": {
+  "system_settings": "WIN7 Enterprise, Chrome 69.0",
+  "client_settings": "Canary 24781",
+  "actual_result": "The profile picture overlaps the indicator. Sometimes it fixes itself others it sticks until you read the message.",
+  "expected_result": "The unread indicator should appear over the profile picture showing you have an unread message.",
+  "short_description": "New ping/unread message indicator (the number) hides behind profile picture of DM messages when discord isn't focused.",
+  "steps_to_repro": "- click out of discord to another window on your computer - get a DM message"
+ }
+}

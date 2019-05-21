@@ -1,0 +1,24 @@
+{
+ "id": "599c234cee05334be8fb9c5a",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 1028,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AlACTlZH",
+ "data": {
+  "system_settings": "Win 10 Enterprise x64 <https://cdn.discordapp.com/attachments/318585793335787520/349470046344708096/Screenshot_23.png>",
+  "client_settings": "Discord 0.0.298",
+  "actual_result": "gif preview block still there",
+  "expected_result": "the gif preview block will disappear",
+  "short_description": "after delete `/giphy` command or `/tenor` command the preview block still there",
+  "steps_to_repro": "- type \\`/giphy\\` or \\`/tenor\\` command - search anything so you don't get any results shown - delete whole message "
+ }
+}

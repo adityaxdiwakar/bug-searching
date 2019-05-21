@@ -1,0 +1,30 @@
+{
+ "id": "5ba7fd47604305290ba481a6",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 3022,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0EyEbqji",
+ "data": {
+  "system_settings": "MacBook Pro 2017, macOS High Sierra 10.13.6 (17G65)",
+  "client_settings": "Crossplatform, tried with Safari 12.0 (unsupported), Firefox 62.0.2 and Google Chrome Canary for Android 71.0.3557.2",
+  "actual_result": "In the first case the page has a black background and the text is hard to read, also the whole page is messed up (the text and images's position are wrong); in the second case the colours are inverted and the positions are not correct, also the 404 GIF covers part of the text; in the last case the error 404 page is properly shown.",
+  "expected_result": "The page is properly shown in all the cases.",
+  "short_description": "404 error page not properly displayed when added a second slash. [Website bug, crossplatform]",
+  "steps_to_repro": "- Go to the discordapp website and add a second slash (\"/\") at the end of the link. - Obverse the page. - Now try adding a text that should work after the double slash, \"branding\" for example - Observe the page again. - Add a random text after the double slash and observe."
+ }
+}

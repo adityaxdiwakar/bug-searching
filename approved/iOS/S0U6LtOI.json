@@ -1,0 +1,17 @@
+{
+ "id": "5b6f1ef765489e8d9ea056ed",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 895,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/S0U6LtOI",
+ "data": {
+  "system_settings": "iPhone 7 iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.6 (6691)",
+  "actual_result": "Discord switches from landscape to portrait.",
+  "expected_result": "Discord stays in portrait mode the whole time or stays landscape.",
+  "short_description": "Discord opens landscape when iphone is in landscape mode before opening.",
+  "steps_to_repro": "- Make sure discord is closed - Enable rotation on iPhone - Put the phone in landscape mode - Open discord - Observe"
+ }
+}

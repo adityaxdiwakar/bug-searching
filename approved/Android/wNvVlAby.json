@@ -1,0 +1,36 @@
+{
+ "id": "5a33d069ca4501e3596b3a2d",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 955,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wNvVlAby",
+ "data": {
+  "system_settings": "Moto G4 Android 7.0",
+  "client_settings": "Android Alpha 5.8.6",
+  "actual_result": "@mention list starts at the bottom",
+  "expected_result": "@mention list should start at the top",
+  "short_description": "@mention list starts all the way at the bottom",
+  "steps_to_repro": "- Update to 5.8.6 - Open the channel list - Click the @ symbol at the bottom"
+ }
+}

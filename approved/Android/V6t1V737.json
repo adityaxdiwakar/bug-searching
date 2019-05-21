@@ -1,0 +1,24 @@
+{
+ "id": "59bd5189123364f6476b517b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 731,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/V6t1V737",
+ "data": {
+  "system_settings": "Android 7.1 Nougat, OnePlus 3T",
+  "client_settings": "Alpha 5.1.7",
+  "actual_result": "Emotes use the same size as before the display size change",
+  "expected_result": "Emotes should scale correctly after changing display size",
+  "short_description": "Emotes appear in wrong size after changing display size (Android 7+ only)",
+  "steps_to_repro": "- Make sure discord is open in the background - Go to settings and change display size (bigger change is more noticable) - Go back to discord - Look at an emote"
+ }
+}

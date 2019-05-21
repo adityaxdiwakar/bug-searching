@@ -1,0 +1,30 @@
+{
+ "id": "5b6d77186dd6ab33006a4b9a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1808,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RIgDVkYF",
+ "data": {
+  "system_settings": "Pixel 2 XL (9.0)",
+  "client_settings": "Discord Release 718",
+  "actual_result": "Reply marked as coming from \"Discord\"",
+  "expected_result": "User B's name or \"You\" should display as the user name that sent the message.",
+  "short_description": "Direct reply to notification on 9.0 shows \"Discord\" as username",
+  "steps_to_repro": "- Send a DM from User A to User B - User B receives notification on 9.0 Android phone - User B swipes down notification and taps on the action to reply - User B types in a response then press the send button - Note the notification updates with the message that was sent."
+ }
+}

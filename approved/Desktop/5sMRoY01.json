@@ -1,0 +1,30 @@
+{
+ "id": "5a6639a738d6d537971cc789",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1573,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5sMRoY01",
+ "data": {
+  "system_settings": "macOS High Sierra 10.13.2 (17C205)",
+  "client_settings": "stable, Build Number: 9672",
+  "actual_result": "You need to click twice to select an option (1click for focus on Discord, 1 click to actually select)",
+  "expected_result": "You should be able to select a menu option in 1 click",
+  "short_description": "Right clicking on Discord when Discord is not in focus makes the contextmenu unclickable",
+  "steps_to_repro": "- Click on an other app - Right click in Discord - Contextmenu pops up"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "59066997579e13243a412294",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 580,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QnWwy6Wi",
+ "data": {
+  "system_settings": " Win 10 Pro x64 1703, latest Canary",
+  "actual_result": "The context menu stays open and can also overlap the modal",
+  "expected_result": "The context menu closes when you click the option",
+  "short_description": "Context menu stays when clicking the Transfer Ownership button in Server Settings",
+  "steps_to_repro": "- Open the new Server Settings in a server you own - Go to the Members tab - Right click on someone and click the Transfer Ownership button "
+ }
+}

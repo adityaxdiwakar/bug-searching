@@ -1,0 +1,24 @@
+{
+ "id": "5b921f91c25db33cb2ef162c",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 979,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gNCjowsp",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 12",
+  "client_settings": "TestFlight 2.3.8 (7049)",
+  "actual_result": "Nothing happens",
+  "expected_result": "Chat preview of the mention opens",
+  "short_description": "Opening the recent mentions filter and tapping done won't let you preview any mentions",
+  "steps_to_repro": "- Open up the recent mentions page - Tap on the filter option in the top right corner - Without doing anything, tap the done button - Try to tap on one of your recent mentions"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "595b19d41839a260a43368da",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 538,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/O99UMq2z",
+ "data": {
+  "system_settings": "Android 5.1.1, SMT280",
+  "client_settings": "Discord 3.9.7",
+  "actual_result": "It remains at \"Enabled\"",
+  "expected_result": "It should go from Enabled to Disabled.",
+  "short_description": "Under \"Notifications\" in settings, it will always say \"Enabled\" regardless if they really are or not.",
+  "steps_to_repro": "- Go to settings (Gear icon > Notifications) - Change the \"Enable All Notifications\" to disabled"
+ }
+}

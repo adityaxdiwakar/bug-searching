@@ -1,0 +1,30 @@
+{
+ "id": "5b33d9a154d5cea199d32a34",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 819,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/y3G57wvb",
+ "data": {
+  "system_settings": "iOS 11.2.3 iPhone 6",
+  "client_settings": "TestFlight 2.3.4 (5425)",
+  "actual_result": "it\u2019s duplicated",
+  "expected_result": "it gets sent/ a space is put in the next message",
+  "short_description": "you can duplicate messages in your text bar",
+  "steps_to_repro": "- type anything - press space and send at the same time - results"
+ }
+}

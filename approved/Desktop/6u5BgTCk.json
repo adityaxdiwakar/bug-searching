@@ -1,0 +1,17 @@
+{
+ "id": "599325bc00eb68528fe6ed82",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 994,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/6u5BgTCk",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord Canary Desktop 0.0.163",
+  "actual_result": "just shows an empty loading window with the share button grayed out",
+  "expected_result": "It is supposed to allow desktop screen sharing",
+  "short_description": "When I use video chat, I attempt to screenshare but it refuses to load the \"all windows and desktop\" option",
+  "steps_to_repro": "- Open a video call - attempt to screen share all -"
+ }
+}

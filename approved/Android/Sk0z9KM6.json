@@ -1,0 +1,17 @@
+{
+ "id": "5a92225b45c69eed4641487f",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1144,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Sk0z9KM6",
+ "data": {
+  "system_settings": "lg Xpower 6.0.1",
+  "client_settings": "alpha 6.2.8",
+  "actual_result": "there is no padding causing bottom of line blend into Virtual nav buttons/phone",
+  "expected_result": "There should be padding to allow comfortable reading of last line of message",
+  "short_description": "missing padding on search results",
+  "steps_to_repro": "- search for something (end of last message need to require scrolling) - scroll to bottom of results"
+ }
+}

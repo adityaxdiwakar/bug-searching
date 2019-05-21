@@ -1,0 +1,30 @@
+{
+ "id": "5bc9ee7433e8912cb48628a8",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3228,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GLxOdI3P",
+ "data": {
+  "system_settings": "Windows 7 Professional, Service Pack 1",
+  "client_settings": "Release Channel: canary, Build Number: 26468",
+  "actual_result": "The Song continues to be shown in my profile until I close the Application on my phone.",
+  "expected_result": "The Song disappears from my Profile. Like it does when using the Spotify Desktop Client.",
+  "short_description": "Playing a Song on Spotify on Phone and Pausing it still shows song in profile",
+  "steps_to_repro": "- Play a song on Spotify on your phone - Pause the song"
+ }
+}

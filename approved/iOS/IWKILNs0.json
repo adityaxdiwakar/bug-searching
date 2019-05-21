@@ -1,0 +1,17 @@
+{
+ "id": "5b9b3babec3640864ac0b251",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 1010,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IWKILNs0",
+ "data": {
+  "system_settings": "iPhone X, iOS 12 Developer Beta 12",
+  "client_settings": "TestFlight 2.3.8 (7167)",
+  "actual_result": "The images shown will only update when you close and reopen the image selector",
+  "expected_result": "The images shown in the Discord selector should update while your camera roll does",
+  "short_description": "When you open the camera roll image selector and then take/save a new image to your camera roll, the new image will not display until you close and reopen the selector",
+  "steps_to_repro": "- Tap the button to import from camera roll (middle button) - Take or save a new image to your camera roll"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a5b50cc7fee40b71041c28f",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1544,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Nh8TGHW1",
+ "data": {
+  "system_settings": "Desktop Windows 10 Home",
+  "client_settings": "Desktop Release Channel: ptb, Build Number: 9535",
+  "actual_result": "The animated emojis lags and sometimes stop until you don't scroll anymore",
+  "expected_result": "The animated emojis should just continue to move without \"lag\" or stopping movements",
+  "short_description": "Scrolling channels list causes animated emojis to \"lag\"",
+  "steps_to_repro": "- Be able to send animated emojis - Go to a server where you can scroll channels - Send animated emojis - Scroll the channels list, or point mouse to a channel name and try to scroll"
+ }
+}

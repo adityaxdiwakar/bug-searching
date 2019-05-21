@@ -1,0 +1,15 @@
+{
+ "id": "586079a4eb62c0261f6915de",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 283,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/imeuJioN",
+ "data": {
+  "actual_result": "It shows the different servers",
+  "expected_result": "It shows the different categories",
+  "short_description": "When scrolling through the emoji list (with Discord Nitro?) on servers that disallow external emojis, the name of the servers still show while scrolling (see gif)",
+  "steps_to_repro": "- Open emoji picker and scroll "
+ }
+}

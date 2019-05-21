@@ -1,0 +1,17 @@
+{
+ "id": "5bc419a4efe1420b1c3ddc28",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1089,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nVYfZEzC",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12",
+  "client_settings": "TestFlight 2.3.9 (7731)",
+  "actual_result": "'User Info' and 'Close' are too close together",
+  "expected_result": "There should be more space",
+  "short_description": "[iPhone XS Max] Header incorrectly spaced on bot accounts and users you are friends with while typing notes to profile",
+  "steps_to_repro": "- Open a user profile - Tap the note text box - Observe the spacing between 'User Info' and 'Close'"
+ }
+}

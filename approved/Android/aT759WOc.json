@@ -1,0 +1,17 @@
+{
+ "id": "5bfdb1a84593fa3f05be9623",
+ "closed": false,
+ "idList": "5bce5ef037eb6904d727c502",
+ "idShort": 2364,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/aT759WOc",
+ "data": {
+  "system_settings": "Android 8.1, Honor 8X",
+  "client_settings": "Discord Alpha 8.0.1",
+  "actual_result": "It's the same color as the dark theme",
+  "expected_result": "The PNG image background color should be #99AAB5 to match",
+  "short_description": "The PNG image background color in white theme is the same as the dark theme while receiving an in-app notification",
+  "steps_to_repro": "- Put sunglasses on your beautiful face - Select the white theme - Get someone to send a PNG picture - Observe"
+ }
+}

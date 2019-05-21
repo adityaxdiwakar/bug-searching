@@ -1,0 +1,30 @@
+{
+ "id": "5b11bf4118de775a3e9bd5b2",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2086,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/U2rAbGQa",
+ "data": {
+  "system_settings": "Windows 10 x64 (1709)",
+  "client_settings": "Discord Canary 16354",
+  "actual_result": "Bob sees the group name has changed to \"Unnamed\". Green button still works. This works on two computers, two accounts. It should be supported.",
+  "expected_result": "Bob sees the same name he sees before joining and getting kicked and a green join button.",
+  "short_description": "Removing someone from a group DM causes the removed user's link title to become \"Unnamed\".",
+  "steps_to_repro": "- Get a invite to DM link. - Send the link to a friend (Bob). - Bob joins with the link. Tell Bob to keep looking at the chat room. - After Bob has joined, remove him from group."
+ }
+}

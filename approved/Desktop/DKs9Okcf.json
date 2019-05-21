@@ -1,0 +1,30 @@
+{
+ "id": "5b9d6eeaf6515634d9225497",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2987,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DKs9Okcf",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Discord Canary 23836",
+  "actual_result": "The in-game overlay crashes and needs to be rebooted",
+  "expected_result": "The users name should update in the overlay",
+  "short_description": "In-game overlay crashes when changing nicknames of people in call",
+  "steps_to_repro": "- Play a game with in game overlay switched on (I tested in Dota 2) - Join a call with friends - Rename one people in call from Discord Client - The overlay should crash"
+ }
+}

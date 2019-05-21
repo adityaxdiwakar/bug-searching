@@ -1,0 +1,30 @@
+{
+ "id": "59ad9e79ac52d9cb4092df1e",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 320,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jF358mvq",
+ "data": {
+  "system_settings": "iPhone 5S 10.3.3",
+  "client_settings": "Testflight 1.9.1",
+  "actual_result": "The keyboard is pushed to the very bottom of the screen and there's a huge gap between the auth code box and keypad",
+  "expected_result": "It looks good",
+  "short_description": "Auth code keypad is cutoff by screen-smaller phones only ( 5S and under )",
+  "steps_to_repro": "- Turn on 2FA in your discord account - Logout and click login - Enter your credentials"
+ }
+}

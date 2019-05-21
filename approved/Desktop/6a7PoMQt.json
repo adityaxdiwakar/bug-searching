@@ -1,0 +1,30 @@
+{
+ "id": "5c32cd14a8e13344d15c5d1f",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3576,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6a7PoMQt",
+ "data": {
+  "system_settings": "Windows 10 Home (64-bit) Version 1803 (OS Build 17134.472)",
+  "client_settings": "Release Channel: canary, Build Number: 30441, Version Hash: 5cef09fafbb46c3d0b505fcc3a1864a062681741",
+  "actual_result": "The list of members/mention menu becomes partially transparent and freezes.",
+  "expected_result": "The list of members/mention menu disappears.",
+  "short_description": "If one types \"@\" in the message bar while one loses Send Messages permissions, the mention menu freeezes.",
+  "steps_to_repro": "- Get a friend. - Type \"@\" in the message bar (the list of members should appear). - Force your friend to remove Send Messages permissions from you."
+ }
+}

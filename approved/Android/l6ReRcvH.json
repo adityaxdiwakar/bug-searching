@@ -1,0 +1,30 @@
+{
+ "id": "5b684f54ca4626019b3c457d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1790,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/l6ReRcvH",
+ "data": {
+  "system_settings": "OnePlus 6 (Version 8.1.0)",
+  "client_settings": "Discord Alpha 7.2.6",
+  "actual_result": "The name gets cut off way earlier",
+  "expected_result": "The name is supposed to cut off at just the right size to have the date in line",
+  "short_description": "Long names get cut off in chat too early (Better viewable on devices with bigger screens)",
+  "steps_to_repro": "- Have someone with a long username or nickname type in chat - observe"
+ }
+}

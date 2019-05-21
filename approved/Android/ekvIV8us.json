@@ -1,0 +1,30 @@
+{
+ "id": "5b9819a88714763fb0df153f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1975,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ekvIV8us",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0.0",
+  "client_settings": "7.4.8",
+  "actual_result": "The warning is not relevance with the thing",
+  "expected_result": "That \"You are viewing older messages warning should not be\"",
+  "short_description": "Deleting message which one is shared by link, clicking link causes \"You are viewing older messages\"",
+  "steps_to_repro": "- Send a message to someone on DM - Hold the message and select share button - Share it same with the person you wrote for - Delete your message - Click the link and you will see \"You are viewing older messages\" for 5 secs."
+ }
+}

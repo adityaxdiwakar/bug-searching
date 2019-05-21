@@ -1,0 +1,30 @@
+{
+ "id": "5bd92f4b8906fb1955c4be95",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3319,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/y1EjTH8I",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1803)",
+  "client_settings": "Discord Canary 0.0.216, Build 27227",
+  "actual_result": "The information is much too close to the line separator",
+  "expected_result": "There should be more spacing between the information and the line separator",
+  "short_description": "Invite information (Inviter, Invite Code, Uses, Expires) in Server Settings is too close to the line separator",
+  "steps_to_repro": "- Go to a server that you have Manage Server & Invite Creation permission in - Create an invite - Go into the server's Server Settings -> Invites - Observe the information at the top under the line separator"
+ }
+}

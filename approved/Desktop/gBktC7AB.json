@@ -1,0 +1,24 @@
+{
+ "id": "5b512b3f6643182843296c21",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2339,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gBktC7AB",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (19266)",
+  "actual_result": "Only highlights username",
+  "expected_result": "It should highlight both username and discrim as before",
+  "short_description": "If you double click on a username in the user popup it no longer highlights the discrim with it like before",
+  "steps_to_repro": "- Open someones profile - Double click on their username"
+ }
+}

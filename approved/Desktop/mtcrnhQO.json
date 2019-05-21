@@ -1,0 +1,17 @@
+{
+ "id": "5bc2201435f6cf4420ec657d",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3171,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mtcrnhQO",
+ "data": {
+  "system_settings": "Windows 10 64x 1809",
+  "client_settings": "Canary 26143 (0.0.215)",
+  "actual_result": "Time is made extremely transparent",
+  "expected_result": "Time should be readable",
+  "short_description": "[Overlay] Messages that mention you, cause time to go extremely transparent",
+  "steps_to_repro": "- Open a game with overlay - Get mentioned (Even works if you mention yourself) - Pin chat & Set transparency to full! - Toggle overlay"
+ }
+}

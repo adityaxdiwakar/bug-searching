@@ -1,0 +1,30 @@
+{
+ "id": "59c68c85f060dd8024ac6a03",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 761,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YNOQe2W6",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Beta 5.2.6",
+  "actual_result": "Empty space where the navigation bar would be located",
+  "expected_result": "No empty space where the navigation bar would be like when you are long pressing on a user or filtering recent mentions",
+  "short_description": "Empty space for long press menus, S8/Note 8 only",
+  "steps_to_repro": "- Open Discord and double tap to hide the navigation bar (if you have hide button disabled then go to Settings > Display > Navigation bar) - Long press on a server icon, channel, category or message"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5beaebb1f0240a83b587c6eb",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2322,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Creq2B2v",
+ "data": {
+  "system_settings": "Android 8.1.0",
+  "client_settings": "android version: 7.8.6",
+  "actual_result": "the android app user is disconnected from the target voicechannel or he is moved back to the start_vch",
+  "expected_result": "the user should not be disconnected or moved",
+  "short_description": "move an android discord user from a voice channel to a second one problem",
+  "steps_to_repro": "- android app user: connect to a voice channel(start_vch) - Admin user: move the android user from start_vch to a different one(voiceChannel) possibility 1: - Admin user: lock the start_vch, start_vch -> Edit Channel -> Permissions -> @everyone:Connect disabled - the android app user is unjustly disconnected from the new voice channel(as if for discord he was in start_vch) possibility 2: - the android app user mute himself - the android app user automatically returns to the starting channel"
+ }
+}

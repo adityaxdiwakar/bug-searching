@@ -1,0 +1,30 @@
+{
+ "id": "5a3680a54bd9e1b45ce73a3e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 970,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/506jYyn3",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 5.8.7",
+  "actual_result": "beginning of channel is elsewhere",
+  "expected_result": "beginning should be at the beginning of the channel",
+  "short_description": "welcome to beginning of channel comes with you",
+  "steps_to_repro": "- jump to the beginning of the channel using search or pins (so you need to load messages) - start scrolling down very quickly - after a few seconds scroll back up - observe the beginning is now elsewhere"
+ }
+}

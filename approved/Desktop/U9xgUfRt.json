@@ -1,0 +1,17 @@
+{
+ "id": "5b57b70cd833571c9867b4eb",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2423,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/U9xgUfRt",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1803",
+  "client_settings": "Discord Canary 19623",
+  "actual_result": "It returns all messages sent on the server.",
+  "expected_result": "It should return messages sent by that user.",
+  "short_description": "Searching from:Deleted User#0000 will return all messages sent on a server",
+  "steps_to_repro": "- Search \"Welcome danny\" on DTesters - Then search from:Deleted User#0000"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "58c961057efe0ca1a88a920d",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 289,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tB5XI16Y",
+ "data": {
+  "actual_result": "the \"*\" will show at either end of the message and the font will be normal/bold",
+  "expected_result": "message will be in italics/bold italics",
+  "short_description": "Italics/bold italics won't work when there is a single number/special character at the end of the message after one or more spaces",
+  "steps_to_repro": "- type a message formatted for italics/bold italics - add a space/spaces and a single number/special character at the end of the message "
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "58191b0430f9f7dfb766742e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 101,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Te4WPrHv",
+ "data": {
+  "actual_result": "The message says \"Noahkiq changed the channel name:\"",
+  "expected_result": "The message saying the name was changed says something like \"Noahkiq reset the channel name.\"",
+  "short_description": "Changing the name of a group DM to the default name shows the group DM name change message, but without the new name",
+  "steps_to_repro": "- Go to a group DM - Change the name (but leave it blank to make it the defaut name "
+ }
+}

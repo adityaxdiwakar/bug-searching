@@ -1,0 +1,30 @@
+{
+ "id": "5a988eba0de63e7577dbc22c",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 617,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zKRyDFsR",
+ "data": {
+  "system_settings": "iPad Mini 2 - iOS 11.3 PB3",
+  "client_settings": "TestFlight 2.2.5 (2894)",
+  "actual_result": "The pane jumps to the middle of the screen waits and completes the animation.",
+  "expected_result": "The account page should load smoothly.",
+  "short_description": "Animation when opening the account settings page freezes briefly.",
+  "steps_to_repro": "- Click the settings icon - Tap Account"
+ }
+}

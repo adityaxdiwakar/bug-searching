@@ -1,0 +1,36 @@
+{
+ "id": "5b2b884db23376cb5bf080e9",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1572,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SZk6l6Pu",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.6",
+  "actual_result": "Username in Kick/Ban options are replaced by a weird string of symbols, and the lock icon will appear next to Nickname field regardless of your actual permsissions. In addition to that there are also things disappearing like the role list, but that's a known bug with split screen.",
+  "expected_result": "Kick/Ban options should display correctly, and nickname field should not appear locked unless you actually don't have perms to edit them",
+  "short_description": "When you toggle split screen in user management screen, the usernames are messed up in Kick/Ban options, and a lock icon will appear next to the Nickname field even if you have permissions to edit it",
+  "steps_to_repro": "- Go to a server where you have the following permissions: Kick, Ban, Manage nicknames - Select a user in member list and enter Manage User - Toggle split screen (Android 7+ only)"
+ }
+}

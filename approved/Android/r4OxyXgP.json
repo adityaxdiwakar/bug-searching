@@ -1,0 +1,17 @@
+{
+ "id": "5af38264eaada4530c0b3f03",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1395,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/r4OxyXgP",
+ "data": {
+  "system_settings": "Wiko Pulp Fab 4G; Android 5.1",
+  "client_settings": "Discord Alpha 6.5.9",
+  "actual_result": "Still can log in, can even post reactions.",
+  "expected_result": "The user should not even be able to connect to discord.",
+  "short_description": "Users banned from discord; that were already logged in the app before can still see the chat and post reactions.",
+  "steps_to_repro": "- Get an account banned from Discord. - After being banned, launch the app. - It will log you in, and you will be able to see message. You will be even able to post reactions, even if they take a few hours to get posted for some reasons."
+ }
+}

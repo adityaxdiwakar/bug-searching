@@ -1,0 +1,24 @@
+{
+ "id": "5bfc46cea57ed588f45b4a26",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1170,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qmd4m4tM",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 12.1(16B92)",
+  "client_settings": "2.4.0 (8921)",
+  "actual_result": "When you type any emojis, there is another emoji layered below.",
+  "expected_result": "When you type any emojis, there shouldn\u2019t be another emoji layered below.",
+  "short_description": "Any emoji characters gets doubled layered when you type them in \u201cAdd Friend\u201d box.",
+  "steps_to_repro": "- Go to your Friends list. - Click on the add friend icon. (White icon at the very top right.) - Type any emoji character in the box."
+ }
+}

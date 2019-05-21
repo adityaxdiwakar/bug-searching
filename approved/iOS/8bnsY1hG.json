@@ -1,0 +1,17 @@
+{
+ "id": "5bd1ed70f2d5cb72de2ebfbc",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1119,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8bnsY1hG",
+ "data": {
+  "system_settings": "iPhone 8 Plus - iOS 12.0.1 & iPad Air 2 - 12.1 (PB 4)",
+  "client_settings": "TestFlight 2.4.0 (8616)",
+  "actual_result": "These specific detailed info don't have a white font color.",
+  "expected_result": "White font color for specific info in audit log entry details should be shown (e.g. the new nickname when changing the nickname).",
+  "short_description": "Missing white font color for some info in Audit Log entry details",
+  "steps_to_repro": "- Make sure you have the permission to view the Audit Log - Do any action that causes an Audit Log entry with a bold white detailed info (such as adding a role or changing nickname) - Open Server Settings -> Audit Log - Search for this Audit Log entry and expand it - Observe the detailed info of it"
+ }
+}

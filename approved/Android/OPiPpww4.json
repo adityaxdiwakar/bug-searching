@@ -1,0 +1,24 @@
+{
+ "id": "59c075424d5144731b82f921",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 740,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OPiPpww4",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 5.1.8",
+  "actual_result": "nothing but a colored box",
+  "expected_result": "should say the role name",
+  "short_description": "roles don't show their name, just color",
+  "steps_to_repro": "- open the member list - click on a user who has roles - observe the color boxes"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58ab40a152e2af29174df3ce",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 389,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HSd5hccP",
+ "data": {
+  "system_settings": " Windows 10 x64 (RU), Discord Canary",
+  "actual_result": "text appears in Windows Language",
+  "expected_result": "'Change avatar' appears in Discord Language",
+  "short_description": "[Blocked] 'Change avatar' text not in Discord language",
+  "steps_to_repro": "- Open User Settings - Hover on the avatar icon "
+ }
+}

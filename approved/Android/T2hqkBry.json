@@ -1,0 +1,30 @@
+{
+ "id": "5bc027497e3f4b68d5d9639b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2152,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/T2hqkBry",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.6.7",
+  "actual_result": "It is mashed up together.",
+  "expected_result": "Claim account and the content is separated.",
+  "short_description": "Claim Account is mashed up with the screen content.",
+  "steps_to_repro": "- Get to the Claimed Accounts screen. - Open keyboard, which will enable you to actually scroll. Observe."
+ }
+}

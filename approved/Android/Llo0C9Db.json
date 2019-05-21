@@ -1,0 +1,16 @@
+{
+ "id": "5855ee0811c12a027f3b96b4",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 146,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Llo0C9Db",
+ "data": {
+  "system_settings": " Android 5.1.1, LG K7",
+  "actual_result": "Link is clickable and crashes Discord if clicked",
+  "expected_result": "Link shows as [asdf](asdf)",
+  "short_description": "Embeds that have fields with invalid links crash on click",
+  "steps_to_repro": "- Send an embed with a field that has an invalid link like [asdf](asdf) - Click link "
+ }
+}

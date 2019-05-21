@@ -1,0 +1,24 @@
+{
+ "id": "591eeeb8d1d1d0435b5dc239",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 663,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TRyybrIT",
+ "data": {
+  "system_settings": "Mac 64-bit",
+  "client_settings": "Zoomed in two times with ctrl + (+)",
+  "actual_result": "Still there, as if you opened it whilst zoomed",
+  "expected_result": "Should be moved over to right.",
+  "short_description": "Pinned Message Dialog not in correct position",
+  "steps_to_repro": "- Zoom out a bit. - Open Pinned Messages - Zoom back to normal view"
+ }
+}

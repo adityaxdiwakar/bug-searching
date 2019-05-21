@@ -1,0 +1,30 @@
+{
+ "id": "5aebb1f318b19d399e88b269",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1932,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UDDr9vVr",
+ "data": {
+  "system_settings": "windows 10 x64 home build 1709",
+  "client_settings": "Discord canary 14558",
+  "actual_result": "half of login screen is in system locale other in language set in client",
+  "expected_result": "login screen should be in one language",
+  "short_description": "after fresh install login screen use 2 languages (System and one set in client [probably need to be synced from mobile])",
+  "steps_to_repro": "- reinstall client - open app to login screen"
+ }
+}

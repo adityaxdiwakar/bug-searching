@@ -1,0 +1,28 @@
+{
+ "id": "58127882587ba498cacf9cc4",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 48,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FbeX8F4z",
+ "data": {
+  "actual_result": "Selected words to be formatted are only in bold",
+  "expected_result": "Following message or sentence would be bolded and italics",
+  "short_description": "Using triple stars to format a message doesnt work as intended.",
+  "steps_to_repro": "- Type out a message on the latest iOS Discord TestFlight - Use three stars to format and close it "
+ }
+}

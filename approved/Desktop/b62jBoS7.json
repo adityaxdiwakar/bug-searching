@@ -1,0 +1,30 @@
+{
+ "id": "5bc4dc4c356c104179c0601b",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 3186,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/b62jBoS7",
+ "data": {
+  "system_settings": "Windows 10 64x 1809",
+  "client_settings": "Canary 26049 (0.0.215)",
+  "actual_result": "Game opens up with Generic 100% zoom level",
+  "expected_result": "Game should open up with correct zoom level",
+  "short_description": "[Overlay] Overlay is always starts @ 100% zoom level when opening overlay",
+  "steps_to_repro": "-  Set discord zoom to something other than 100%  - Open a game with overlay  - Open overlay and observe the size of things.  - Tab back into discord and change zoom size (CTRL +/-)  - Tab back into game and notice that it's updated it's size - Image 1 = 100% (Just started overlay) - Image 2 = 90% (my normal zoom)"
+ }
+}

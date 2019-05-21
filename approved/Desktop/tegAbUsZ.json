@@ -1,0 +1,15 @@
+{
+ "id": "583897c7798dd300937da52e",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 174,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tegAbUsZ",
+ "data": {
+  "actual_result": "Glitching up and down scrollbar (Reported for <@112732946774962176>)",
+  "expected_result": "Scroll to bottom without jumping around.",
+  "short_description": "Scrolling on members bar will glitch out when getting to bottom",
+  "steps_to_repro": "- Scroll the scrollbar to the bottom of the members tab (right bar). "
+ }
+}

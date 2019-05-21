@@ -1,0 +1,30 @@
+{
+ "id": "5a7b5d82509186924eadf4f5",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 570,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/T9Xh1dt1",
+ "data": {
+  "system_settings": "iPad Air 1st Generation, iOS 11.2.5",
+  "client_settings": "Discord TestFlight 2.2.2 (2352)",
+  "actual_result": "Some portion of the window gets cut off as shown below.",
+  "expected_result": "You can see their window in the screen-share fully.",
+  "short_description": "Screensharing gets cut off in landscape mode. [iPad Only]",
+  "steps_to_repro": "- Call someone. - Have them to share their screen. - Make sure your iPad isn\u2019t rotation-locked. - Rotate your iPad to the landscape mode."
+ }
+}

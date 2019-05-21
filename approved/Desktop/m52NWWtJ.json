@@ -1,0 +1,16 @@
+{
+ "id": "58f4d69e5f9161ed4959a9ae",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 497,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/m52NWWtJ",
+ "data": {
+  "system_settings": " Lastest Canary, Windows 10",
+  "actual_result": "The time for the bottom message posted isnt updated",
+  "expected_result": "Everything should update,the text, time posted,etc.",
+  "short_description": "Themes preview time doesnt update",
+  "steps_to_repro": "- Go into the appearance settings screen - Wait for a minute to pass by -  Look at the little chat preview, the message previewed are the same as your current time - Switch themes "
+ }
+}

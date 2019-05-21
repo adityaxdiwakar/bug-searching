@@ -1,0 +1,17 @@
+{
+ "id": "5a80dd2b69fdba81c68a0955",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 577,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/OUoRbtRH",
+ "data": {
+  "system_settings": "iPhone 8 + , iOS 11.3 (PB2)",
+  "client_settings": "Discord TestFlight 2.2.2 (2352)",
+  "actual_result": "Gif frame overlaps from behind.",
+  "expected_result": "Gif shows correctly, nothing overlapping.",
+  "short_description": "Gif frames overlap itself when viewing the preview from link.",
+  "steps_to_repro": "- Get the link from the attachment. - Paste it anywhere in text channels - Click on the gif (might have to switch channel then back cause gif preview doesn\u2019t show easily.) - Observe."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a5871acf2638a8ab917feb9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1535,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7224",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P0: Need an immediate fix",
+   "color": "red"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/E97kHM2e",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, v 9510",
+  "actual_result": "Discord crashed",
+  "expected_result": "The friends list is displayed",
+  "short_description": "Friends list button crash",
+  "steps_to_repro": "- Go on any of your current servers  - Go back to your friends list  -"
+ }
+}

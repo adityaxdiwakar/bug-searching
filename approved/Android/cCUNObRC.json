@@ -1,0 +1,23 @@
+{
+ "id": "589891b061f5c8b9d3fe33c4",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 213,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cCUNObRC",
+ "data": {
+  "system_settings": " 3.3.3, Android 4.4.4 (neato)",
+  "actual_result": "App goes unresponsive for approx 10 seconds or a minute, depending on which message in the p.teknik.io link is used",
+  "expected_result": "Shows message without any problem",
+  "short_description": "Particular long messages cause Discord app to go unresponsive",
+  "steps_to_repro": "- On desktop, directly paste one of the snippets in https://p.teknik.io/1B8Wp as a message - Access the channel you posted the message into, using Android app (you may need to wait a second or two for app to go unresponsive) "
+ }
+}

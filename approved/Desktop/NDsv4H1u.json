@@ -1,0 +1,24 @@
+{
+ "id": "59a778f3825ff8ee415332af",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1070,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NDsv4H1u",
+ "data": {
+  "system_settings": "Windows 10 Home x64 (CU)",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "leaves you with a blank screen",
+  "expected_result": "Brings you back to default debug page",
+  "short_description": "Blank screen with new debug on canary",
+  "steps_to_repro": "- Have someone join a call - go to debug - click on their username in the inbound section - ask the to leave (speaking is the easy way) - observe"
+ }
+}

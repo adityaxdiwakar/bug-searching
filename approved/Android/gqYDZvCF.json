@@ -1,0 +1,23 @@
+{
+ "id": "58a78d7b65d3469a67431368",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 226,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gqYDZvCF",
+ "data": {
+  "system_settings": " android 3.3.3, android n",
+  "actual_result": "They are hotlinked",
+  "expected_result": "links within embeds aren't hot linked",
+  "short_description": "Certain links are embeding there preview text wrong, by not sanitising the link embeds",
+  "steps_to_repro": "- Paste this link on android https://www.reddit.com/r/discordapp/comments/5u7tim/bots_any_opensource_alternative_to_tatsumaki/dds69th/ "
+ }
+}

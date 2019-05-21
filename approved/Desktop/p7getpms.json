@@ -1,0 +1,24 @@
+{
+ "id": "599f0bd6c87833b8f9be6aa2",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1036,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/p7getpms",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit Build 1607",
+  "client_settings": "Discord Canary 0.0.163 (Build 3571)",
+  "actual_result": "Puts the user popup above the name",
+  "expected_result": "The user pop up should pop up to the side of the name instead of above it",
+  "short_description": "Clicking on a username in the chat puts the user popup above the name instead to the side of it (Like last build 3466)",
+  "steps_to_repro": "- Click on a name"
+ }
+}

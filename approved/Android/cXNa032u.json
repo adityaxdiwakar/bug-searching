@@ -1,0 +1,17 @@
+{
+ "id": "5ba98df9420f87626db74686",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2024,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cXNa032u",
+ "data": {
+  "system_settings": "Google Pixel 2 ; Android 9",
+  "client_settings": "Android Alpha 7.5.5",
+  "actual_result": "the influenced user appears in filter and clicking doesnt show the action influenced",
+  "expected_result": "a. the influenced user doesn't appear or b. tapping influenced user shows the audit",
+  "short_description": "audit logs user filter shows users influenced by actions but shows no content for them",
+  "steps_to_repro": "- create an influence on a user, such as changing their roles - open audit log and click filter - notice the influenced user appearing, and click"
+ }
+}

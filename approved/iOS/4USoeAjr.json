@@ -1,0 +1,24 @@
+{
+ "id": "59efad788dd50e80b694ca45",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 382,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4USoeAjr",
+ "data": {
+  "system_settings": "iPhone 6, iOS, 11.0.0",
+  "client_settings": "TF 1.9.3(1268)",
+  "actual_result": "Keyboard blocks some of the image",
+  "expected_result": "Keyboard would go down",
+  "short_description": "keyboard doesn\u2019t go down when opening an image",
+  "steps_to_repro": "- Have someone send an image- tap on the chatbox- tap on the image- Observe, tapping again while in the image will remove the keyboard"
+ }
+}

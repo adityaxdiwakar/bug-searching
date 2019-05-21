@@ -1,0 +1,24 @@
+{
+ "id": "59961e5c9f65d14f3c12edd5",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 632,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7jQxA0Vu",
+ "data": {
+  "system_settings": "Moto G3 Android 6.0.1",
+  "client_settings": "Android, 4.0.7",
+  "actual_result": "The default background shows",
+  "expected_result": "The custom background should show",
+  "short_description": "A custom background for partner invites does not appear on Android",
+  "steps_to_repro": "- Use the desktop client (both app and web) to create a custom invite background - Create a new invite or use a vanity invite - Move to your Android device and join the server on an alt account"
+ }
+}

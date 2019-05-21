@@ -1,0 +1,24 @@
+{
+ "id": "599913fa25b36e24b3265fe2",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1021,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/L7HvEtFk",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "This works on any platform. (Discord Canary 0.0.163, Discord Stable)",
+  "actual_result": "It does work",
+  "expected_result": "It should not work.",
+  "short_description": "If you can't use an emoji, get the ID of it and follow the GIF from there and it will work.",
+  "steps_to_repro": "- Get an emoji that you can't use because it's not global - get the ID of it - put in chat what I did in the GIF - it should work"
+ }
+}

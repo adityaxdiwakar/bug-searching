@@ -1,0 +1,30 @@
+{
+ "id": "5a32b9dedf6ec558c3e7123a",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 455,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jhW0NC8I",
+ "data": {
+  "system_settings": "iPhone X iOS 11.2.1",
+  "client_settings": "TestFlight 2.2.0",
+  "actual_result": "User role clashes under the homebar",
+  "expected_result": "UI shouldn't clash, more padding and visability",
+  "short_description": "Profile UI clash with iPhone X Homebar",
+  "steps_to_repro": "- Click your name on the member list within any server - Role clashes with the iPhone X homebar"
+ }
+}

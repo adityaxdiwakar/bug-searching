@@ -1,0 +1,30 @@
+{
+ "id": "5bc9a644e5e9be7f5a557111",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3224,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/llFycAsE",
+ "data": {
+  "system_settings": "Windows 10 Pro, Version 1803",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 26151, Version Hash: 7703492d8438d217c4f7a907b2e7e33bf6137d95",
+  "actual_result": "The nickname window disappears off Discord and gets stuck on the ROBLOX window instead.",
+  "expected_result": "The nickname window should disappear after you click the screen.",
+  "short_description": "The nickname window gets stuck on a ROBLOX window after trying to close it.",
+  "steps_to_repro": "- Join a ROBLOX game - Go into any Discord server and change nickname - Put in any nickname that will exceed 32 characters/ max limit. - Hit Enter - After you see the error saying the nickname is too long click anywhere on the screen. - The nickname window disappears off Discord and is now stuck on ROBLOX."
+ }
+}

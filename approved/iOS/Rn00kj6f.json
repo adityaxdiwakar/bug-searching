@@ -1,0 +1,17 @@
+{
+ "id": "5c16f8be9eb140113669a86d",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1235,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Rn00kj6f",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.2 Dev Beta",
+  "client_settings": "TestFlight 2.4.1 (9907)",
+  "actual_result": "Empty space gets highlighted",
+  "expected_result": "Empty space does not get highlighted",
+  "short_description": "Mentions in in-app notifications that split across a line break highlights the extra space",
+  "steps_to_repro": "- Make sure you have either a username or nickname that contains 3-4 words - Make sure that you are able to receive in-app notifications - Have someone ping you, and make sure that the mention is broken across a line break in the notification - Observe the spacing after the last word in your name before the line break"
+ }
+}

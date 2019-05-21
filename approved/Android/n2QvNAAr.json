@@ -1,0 +1,17 @@
+{
+ "id": "5b1976b992c66f85bd4e6a0b",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1507,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/n2QvNAAr",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.8",
+  "actual_result": "There is only one for the bottom",
+  "expected_result": "There should be two unread buttons, one at the top and the other at the bottom, since both are offscreen",
+  "short_description": "Having no unread channel in sight but having unread channels at the top and at the bottom will only show the unread button at the bottom",
+  "steps_to_repro": "- Have a server with a lot of channels, with all channels marked as read except the very first and the very last one - Scroll to the exact middle of the channel list so you don't see the top nor the bottom unread channel"
+ }
+}

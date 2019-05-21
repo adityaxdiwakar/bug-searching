@@ -1,0 +1,17 @@
+{
+ "id": "5b9e97cca7c0972dcb287697",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 1019,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/m8RHytXI",
+ "data": {
+  "system_settings": "iPad 5th Generation 2017   iOS Developer beta 12 [Only iPad]",
+  "client_settings": "Discord Testflight 2.3.8 (7106)",
+  "actual_result": "Badges disappeared",
+  "expected_result": "Badges disappear",
+  "short_description": "Badges Disappear",
+  "steps_to_repro": "- Go to a user that has 2 badges or more.  - Go off the app but do not fully close the app, and put your iPad in sleep mode for 10 minutes but stay on the users profile, and you will see it disappears"
+ }
+}

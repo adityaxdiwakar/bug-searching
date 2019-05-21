@@ -1,0 +1,30 @@
+{
+ "id": "5b85422f8337af0e0df7edf7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1894,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6QG1UCt2",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 740",
+  "actual_result": "There's just one button. even that's for answering the call only with voice.",
+  "expected_result": "There are 3 buttons. One to accept the call, other to deny it and the third one to accept with voice as seen in the case when you receive a video call from a friend.",
+  "short_description": "You cannot accept an incoming video call from a non-friend as a video call. You get to accept it only as a voice call.",
+  "steps_to_repro": "- Have a non-friend video call you. - Go to the DM. - Expand the voice bar. - Observe the accept button."
+ }
+}

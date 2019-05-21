@@ -1,0 +1,15 @@
+{
+ "id": "58e03b052657d01b65f6cd6c",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 472,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Id7mXri7",
+ "data": {
+  "actual_result": "you cant even click into the box",
+  "expected_result": "the ability to rename the amoji",
+  "short_description": "Cant rename emoji",
+  "steps_to_repro": "- try to change its name after uploading "
+ }
+}

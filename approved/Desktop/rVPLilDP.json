@@ -1,0 +1,24 @@
+{
+ "id": "595b9b359917dfa7c47e8aef",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 805,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rVPLilDP",
+ "data": {
+  "system_settings": "Windows 10 Pro https://static.slickdealscdn.com/attachment//4/7/6/0/3/200x200/5697412.thumb x64",
+  "client_settings": "Latest stable build",
+  "actual_result": "Discord tries to load it but nothing shows up",
+  "expected_result": "Image should appear as preview",
+  "short_description": ".thumb images not being displayed",
+  "steps_to_repro": "- Post any .thumb files (e.g. <https://static.slickdealscdn.com/attachment//4/7/6/0/3/200x200/5697412.thumb>) - Edit: Seems to be when there's two trailing slashes that it cant display"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b6f9d09c4e81b546fa254ba",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2680,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1nKP2LoO",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Non applicable as it is cross platform. Personally I accessed the dev dashboard on Firefox for Android 61.0.2 and observed the issue in the Android client (Discord Alpha 7.2.9)",
+  "actual_result": "As long as the bot stays offline, it will be in a state where it has no profile picture in the chat history, but keeps it in his profile",
+  "expected_result": "The profile picture should uniformly appear removed across the client: either both in profile and in chat history, or none of them until the bot goes online",
+  "short_description": "If you remove the profile picture of a bot through the dev panel while the bot account is offline, the profile picture will remove in chat history but not in profile",
+  "steps_to_repro": "- Have a bot with a profile picture set - Have it send a few messages in the channel of your choice - Disconnect your bot and make sure it is completely offline - Go to the Discord developers dashboard, go to the Bot tab, and remove the profile picture of the bot account - Refresh your client to make sure the old profile picture would not stay cached - Open the channel where the bot sent the messages back in step 2. Notice the profile picture is gone - Now open the profile of the bot. Notice the profile picture is still there"
+ }
+}

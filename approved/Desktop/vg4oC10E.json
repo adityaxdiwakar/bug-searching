@@ -1,0 +1,30 @@
+{
+ "id": "5bab6d6f62de438f3f3ddb64",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3039,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vg4oC10E",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (24683)",
+  "actual_result": "It says \"Press ] to chat in #\"",
+  "expected_result": "It's supposed to say \"Press ] to chat in @ {name} like it does when you are in a DM and it says \"Message @ {name}\"",
+  "short_description": "When pinning a DM chat in the overlay, it says \"Press ] to chat in #\" instead of \"Press ] to chat in @ {name}\"",
+  "steps_to_repro": "- Open the overlay - Pin a direct message - Observe under the widget what it says"
+ }
+}

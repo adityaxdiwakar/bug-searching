@@ -1,0 +1,17 @@
+{
+ "id": "5b1d62b847a2eaf55b521691",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2119,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Vdrdq3zW",
+ "data": {
+  "system_settings": "Windows 7 Professional 64 bit",
+  "client_settings": "Discord Canary, Build 16727",
+  "actual_result": "every sound is distorted and you hear sound like on attached video even on empty VC.",
+  "expected_result": "Hearing everything clearly",
+  "short_description": "Using audio channels other than stereo distorts sound on experimental audio subsystem",
+  "steps_to_repro": "- Change speaker configuration to other than stereo. - Join voice chat"
+ }
+}

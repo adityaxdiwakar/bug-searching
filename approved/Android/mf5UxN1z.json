@@ -1,0 +1,30 @@
+{
+ "id": "5afde36badfcd2334f8f7fda",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1429,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mf5UxN1z",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.7.2",
+  "actual_result": "The Unsaved changes modal is still shown even though you can't save anything in that case",
+  "expected_result": "Before pressing Back, notice that the Save button is not here: this means that there are no unsaved changes. Indeed, there's nothing to save here. That's why it's not suposed to show the unsaved changes modal and just ignore the fact that you emptied the field",
+  "short_description": "Going back from Channel Settings after removing the content of the Name field will display the Unsaved changes modal, even though there's nothing to save",
+  "steps_to_repro": "- Go to Channel Settings  - Make the Name field empty - Press Back"
+ }
+}

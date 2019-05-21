@@ -1,0 +1,30 @@
+{
+ "id": "5bb25c2b8c587e399651302b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3068,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jEaxg41w",
+ "data": {
+  "system_settings": "Windows 10. Version 1803 (OS Build 17134.285)",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 25070",
+  "actual_result": "User_1 cheats! Try it yourself (mb with a dev-friend or a BOT) - it'll be more clear. Just follow the steps in [2].",
+  "expected_result": "-1) ...; -2) User_1 attempts to join it, but gets just thrown to oblivion (default)",
+  "short_description": "Discord makes you think you joined `voice_chan_2` while in reality you are still in `voice_chan_1`! And it's also spooky",
+  "steps_to_repro": "- Channel permissions: - 1st channel: View-off and Connect-on - 2nd channel: optional(View-on) and Connect-off - 1) User_1 ANYHOW joins the 1st channel (gets dragged into / uses invite-link); - 2) User_1 uses the 2nd channel's invite-link; - = Now User_1 thinks&sees he's in the 2nd channel, while, in fact, he's still in the 1st channel. - = Everyone (but User_1) can observe that User_1 is still in the 1st channel. - 3) User_2 joins the 1st channel; - 4) ??? - 5) SPOOKY VOICES!!! Try it out with your friends and family!"
+ }
+}

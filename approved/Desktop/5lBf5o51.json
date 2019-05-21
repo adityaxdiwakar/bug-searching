@@ -1,0 +1,24 @@
+{
+ "id": "5b5743acb9e788aafa8304e4",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2418,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5lBf5o51",
+ "data": {
+  "system_settings": "iPad Air 2 - iOS 12 Public Beta 3",
+  "client_settings": "Safari",
+  "actual_result": "Nothing happens when clicking on it.",
+  "expected_result": "You should be able to open the dropdown menu.",
+  "short_description": "[Website Bug] [iPad only] Dropdown menu cannot be opened",
+  "steps_to_repro": "- Prerequisite: make sure you are using your iPad in landscape mode - Go to the Discord website - Click on the top navigation bar to open a dropdown menu of pages (e.g. Support)"
+ }
+}

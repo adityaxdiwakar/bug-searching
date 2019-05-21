@@ -1,0 +1,23 @@
+{
+ "id": "590c3a28f8fa347f7e6a00b5",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 599,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/78NTnR0U",
+ "data": {
+  "system_settings": " MacOS Sierra Discord 0.0.144",
+  "actual_result": "It isn't",
+  "expected_result": "The search term/phrase/word is highlighted",
+  "short_description": "Search terms don't highlight in embeded content",
+  "steps_to_repro": "- Get an embeded message - Search for a term that is included in the embed "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a1de9bb7cf7aec48700b946",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1409,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/raJ1WFqF",
+ "data": {
+  "system_settings": "Windows 10 x64 bit Version 1703 (OS Build 15063.726)",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 7651, Version Hash: ba13977a22db02ddbd7141fcd8a081705b0c09e5",
+  "actual_result": "The invite link is spammed in the DMs (only seen by the user who created the server)",
+  "expected_result": "Bob receives the invite once as a private message (that or Bob shouldn't be on the \"Invite Your Friends\" list at all)",
+  "short_description": "Invite message spam in DMs after turning off msgs from players in server and inviting them to a server you created (part of experiment 2017-11_friend-invite-guild-create)",
+  "steps_to_repro": "- Set \"Allow direct messages from server members.\" in User Settings to true - Message someone who shares a common server with you but is not your friend (we're going to call them Bob) - Set \"Allow direct messages from server members.\" in User Settings to false  - Create a new server - Be a part of the experiment 2017-11_friend-invite-guild-create that only a fraction of discord users are a part of - Under the \"Invite Your Friends\" menu that pops up click on \"Invite\" next to Bob's username"
+ }
+}

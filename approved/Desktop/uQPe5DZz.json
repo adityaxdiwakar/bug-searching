@@ -1,0 +1,23 @@
+{
+ "id": "5852c293a524543649221c4a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 247,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uQPe5DZz",
+ "data": {
+  "system_settings": " Windows 10 ",
+  "actual_result": "Uncaught TypeError: Cannot read property 'scrollToRow' of undefined System Settings: Windows 10",
+  "expected_result": "Everything is fine",
+  "short_description": "Error in console after deleting a server",
+  "steps_to_repro": "- Make a server - Open your console - Delete the server "
+ }
+}

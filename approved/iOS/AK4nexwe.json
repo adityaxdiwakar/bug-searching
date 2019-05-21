@@ -1,0 +1,30 @@
+{
+ "id": "5b1188496e54eac9758e2968",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 776,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AK4nexwe",
+ "data": {
+  "system_settings": "iPhone 6s, iPad Air 2 - iOS 11.4",
+  "client_settings": "Stable 2.3.3",
+  "actual_result": "The play and pause button is only shown for gifs that are not directly uploaded to Discord.",
+  "expected_result": "A pause and play button should be shown when clicking on the gif in the image preview mode.",
+  "short_description": "Play/Pause button for gifs directly uploaded to Discord missing",
+  "steps_to_repro": "- Upload any gif - Click on the uploaded gif to open the preview - Click again on the gif and observe it"
+ }
+}

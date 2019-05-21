@@ -1,0 +1,24 @@
+{
+ "id": "59e304d05aef259af02f3739",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1258,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jAqowS1I",
+ "data": {
+  "system_settings": "MacBook Air (11-inch, Early 2015) MacOS Sierra 10.12.6 11.6-inch (1366 x 768)",
+  "client_settings": "Discord Canary 0.0.156",
+  "actual_result": "This happen's 25%-50% of the time, but it can be reproduced.",
+  "expected_result": "When you launch discord and when it checks for updates, there will be a minimised window",
+  "short_description": "Minimised Window on start",
+  "steps_to_repro": "- Minimise your discord and quit discord - Launch Discord"
+ }
+}

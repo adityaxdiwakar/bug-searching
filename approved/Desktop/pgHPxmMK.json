@@ -1,0 +1,17 @@
+{
+ "id": "5998bd284dea533cfe3637a1",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1019,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pgHPxmMK",
+ "data": {
+  "system_settings": "Win 10 Pro x64",
+  "client_settings": "Discord PTB, 0.0.34",
+  "actual_result": "I wide and covering the title",
+  "expected_result": "you see a small emoji",
+  "short_description": "Weird right click add reaction bug",
+  "steps_to_repro": "- make a server - upload this emoji <https://i.gyazo.com/f27eb0dfc6733d94512c3bc473db373d.png> - try to right click add reaction"
+ }
+}

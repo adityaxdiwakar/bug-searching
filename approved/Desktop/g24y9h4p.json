@@ -1,0 +1,30 @@
+{
+ "id": "5c37cedbce8fb98bb257eaf1",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3619,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/g24y9h4p",
+ "data": {
+  "system_settings": "macOS Mojave 10.14.1",
+  "client_settings": "Discord Stable 27458",
+  "actual_result": "Discord hangs momentarily before crashing and restarting.",
+  "expected_result": "Dictation should work in text input fields as it does when you are not in a voice channel or call.",
+  "short_description": "Invoking macOS' native dictation while in a voice channel or call causes Discord to crash (possibly T2 chip Mac's only)",
+  "steps_to_repro": "- Be in a voice channel or call. - Select a text input field (e.g. \"Message #channel\" or \"Search\"). - Invoke dictation through Edit > Start Dictation or the shortcut."
+ }
+}

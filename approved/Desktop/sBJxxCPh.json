@@ -1,0 +1,15 @@
+{
+ "id": "58717201bf10b0a24a9c3e3d",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 316,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sBJxxCPh",
+ "data": {
+  "actual_result": "invite embed flickers each time the link is clicked",
+  "expected_result": "nothing",
+  "short_description": "Invite embed flickers when clicking on invalid invite links",
+  "steps_to_repro": "- Put an invalid/expired invite link into the chat - Click on the discord.gg link "
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "599f0ecc857fffb1de75307e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 648,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FC8cgDmi",
+ "data": {
+  "system_settings": "Discord 4.0.9 , Android 5.0.2/Android 5.1",
+  "client_settings": "Discord Alpha 4.0.9",
+  "actual_result": "text isn't at middle",
+  "expected_result": "the text should at middle",
+  "short_description": "emoji text isn't at middle",
+  "steps_to_repro": "- open the emoji picker- hold down on a emoji with 1 to 3 letters (ex: :cat:)- observe the toast"
+ }
+}

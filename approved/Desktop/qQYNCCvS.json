@@ -1,0 +1,15 @@
+{
+ "id": "581904446eeb404e7e3a1369",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 100,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qQYNCCvS",
+ "data": {
+  "actual_result": "Letters go out of the guild icon border across the page.  NOTE: Submitted for another user, haven't checked if reproable.",
+  "expected_result": "Letters will be croped off my the guild icon border.",
+  "short_description": "When typing long guild names into the guild create page the letters go off the icon.",
+  "steps_to_repro": "- Go to the guild create page - Enter a long name. "
+ }
+}

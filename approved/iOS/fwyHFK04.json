@@ -1,0 +1,24 @@
+{
+ "id": "5bd50077796fb14effe25e0a",
+ "closed": false,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 1126,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fwyHFK04",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.0.1",
+  "client_settings": "Discord TestFlight 2.4.0 (8667)",
+  "actual_result": "Timestamp is placed slightly above the \">\" icon and part of it goes past the right side of the screen.",
+  "expected_result": "Like other entries, the timestamp is below the log title.",
+  "short_description": "Audit log entry with more than 1 line in title make the timestamp to move to a weird space above \">\". iPhone XS Max specific.",
+  "steps_to_repro": "- Make any changes to the server such that the audit log entry has 2 lines. - Go to Audit Log and observe."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59c5fdc5574d37801e324a1b",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1186,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7VdYIIRe",
+ "data": {
+  "system_settings": "Windows 10 Creative",
+  "client_settings": "Desktop Stable, Build #4784",
+  "actual_result": "The s// message is displayed as text and has no effect",
+  "expected_result": "Typing in the second message should replace tset in the first message with test",
+  "short_description": "The s// command isn't working on a desktop client.",
+  "steps_to_repro": ""
+ }
+}

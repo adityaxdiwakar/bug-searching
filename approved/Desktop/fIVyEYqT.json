@@ -1,0 +1,17 @@
+{
+ "id": "5aecaa33e3e6e57f830ed9d5",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1936,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/fIVyEYqT",
+ "data": {
+  "system_settings": "Windows 10 x64 1709",
+  "client_settings": "Discord Stable",
+  "actual_result": "You see the images in search that are supposed to be hidden and are hidden when you jump on them but not in the search.",
+  "expected_result": "You are not supposed to see the image as you are hiding them.",
+  "short_description": "Text & Images options do not work under search",
+  "steps_to_repro": "- Go to your settings and untick when uploaded directly to discord - Untick When posted as links to chat - Go to a server and upload an image - Go to search and do from:yourusername in:#channel"
+ }
+}

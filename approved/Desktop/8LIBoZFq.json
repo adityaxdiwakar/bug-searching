@@ -1,0 +1,17 @@
+{
+ "id": "5bc913197483358e3f74d1f4",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3218,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8LIBoZFq",
+ "data": {
+  "system_settings": "Windows 10, 1803",
+  "client_settings": "Canary 26538",
+  "actual_result": "Discord crashes and have to reload.",
+  "expected_result": "Get details about the invite link",
+  "short_description": "Discord crash when viewing invite in audit log.",
+  "steps_to_repro": "- Open audit log - Expand invite link"
+ }
+}

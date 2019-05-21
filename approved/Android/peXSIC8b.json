@@ -1,0 +1,30 @@
+{
+ "id": "5b25cfe8b0ca0b9487db47c5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1550,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/peXSIC8b",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "You can mark as read something already marked as read, or even the void in the case of servers with no channels. It does nothing but sends a useless request to the API",
+  "expected_result": "\"Mark as Read\" should not be there or should be grayed out as on Desktop",
+  "short_description": "You are still given the option to mark as read a server / channel with no unreads, as well as a server with no channels, while those options are grayed out on Desktop",
+  "steps_to_repro": "- Find a server / channel with no unreads, or find a server with no text channels - Open the server/channel action sheet"
+ }
+}

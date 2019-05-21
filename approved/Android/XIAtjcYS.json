@@ -1,0 +1,30 @@
+{
+ "id": "5bafffc6a3437571db0f6b1d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2070,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XIAtjcYS",
+ "data": {
+  "system_settings": "Samsung S5, Android 6.0.1",
+  "client_settings": "Alpha 7.5.7",
+  "actual_result": "There is only a profile pic and no gray dot",
+  "expected_result": "There should be a gray dot, that shows the user is offline",
+  "short_description": "when pinging a user that is offline, the gray dot doesnt appear, there is only a profile picture",
+  "steps_to_repro": "-observe the profile picture of a user being offline and of a user being online/ idle/ dnd"
+ }
+}

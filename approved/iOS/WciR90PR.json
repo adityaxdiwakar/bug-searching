@@ -1,0 +1,30 @@
+{
+ "id": "5afdcea2c1bfbafbf6da5269",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 757,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WciR90PR",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.3.1 - iPad Air 2, iOS 11.4 Public Beta",
+  "client_settings": "TestFlight 2.3.2 (4528)",
+  "actual_result": "It scrolls automatically up based on the length of the message.",
+  "expected_result": "Chat position shouldn't change after closing the invite screen.",
+  "short_description": "Closing invite/join screen automatically scrolls up in chat when embed is off-screen",
+  "steps_to_repro": "- Post a very long message with a valid invite (make sure to test it with the latest message, older messages don't work) - Scroll up the chat so the invite embed goes a bit off-screen but is still visible - Click on the invite embed - Close the join/invite screen"
+ }
+}

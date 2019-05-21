@@ -1,0 +1,30 @@
+{
+ "id": "5bba39ee767f4b377ad6b189",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2124,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JrsAOMlo",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 763",
+  "actual_result": "It does vanish before completion of it's uptime.",
+  "expected_result": "The information menu thing doesn't vanish.",
+  "short_description": "Everytime you speak speak in a voice channel/DM/GDM while having the information menu up, the toast vanishes before completion of it's uptime.",
+  "steps_to_repro": "- Join a voice channel. - Long press on the 3 dots overflow menu. - Speak."
+ }
+}

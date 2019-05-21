@@ -1,0 +1,24 @@
+{
+ "id": "5b31558d1ae0087d3889c296",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 813,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/z2dFxFev",
+ "data": {
+  "system_settings": "iPhone 6s - iOS 11.4, iPad Air 2 - iOS 11.4.1 PB",
+  "client_settings": "TestFlight 2.3.4 (5330)",
+  "actual_result": "It is the info text for here mention `Notify members online in this channel.`",
+  "expected_result": "The info text should be `Notify users with this role in this channel.`.",
+  "short_description": "Wrong info text for role mentions",
+  "steps_to_repro": "- Open any channel - Try to mention a role - Observe the text for the mention drawer"
+ }
+}

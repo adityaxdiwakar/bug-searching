@@ -1,0 +1,24 @@
+{
+ "id": "5c074368e138e55b4767ea09",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1208,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VQfnYhpu",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9477)",
+  "actual_result": "Backticks disappear in the channel topic above the member list",
+  "expected_result": "Backticks are visible in both channel topic locations",
+  "short_description": "Single-backtick codeblocks in channel topics show as normal text but with the backticks removed in the channel topic above the member list",
+  "steps_to_repro": "- Have a channel with a single-backtick codeblock, such as the bug-approval-queue - Observe how the backticks are displayed in the channel topic when viewing channel settings - Observe how the backticks disappear in the channel topic above the member list"
+ }
+}

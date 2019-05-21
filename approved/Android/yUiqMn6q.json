@@ -1,0 +1,30 @@
+{
+ "id": "5bc0ad019197a4466407ad9d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2158,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yUiqMn6q",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.6.8",
+  "actual_result": "The slider background is in the correct color, but the circle is also gray, which not only makes it look odd but also makes it inconsistent with other sliders",
+  "expected_result": "As other sliders (like in Voice & Video settings for instance), the slider should have gray background and the circle should be white",
+  "short_description": "Slowmode slider has an odd color on Light theme",
+  "steps_to_repro": "- Use Light theme - Go to channel settings - Scroll down to see the slowmode slider"
+ }
+}

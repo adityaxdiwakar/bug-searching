@@ -1,0 +1,17 @@
+{
+ "id": "5b6dfadfb404838dbec086a0",
+ "closed": true,
+ "idList": "5b60f57c86cd0b5178e3e650",
+ "idShort": 2664,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zLG9dcAR",
+ "data": {
+  "system_settings": "Firefox v61.0.2 (64-bit) browser, Windows 10.0.17134 b.17134 Home",
+  "client_settings": "Browser (Firefox) Canary b.21584",
+  "actual_result": "The sidebar has a white column of pixels between the scroll bar and channels.",
+  "expected_result": "The sidebar should be fully dark grey, not with a white bar interrupting the layout.",
+  "short_description": "On the latest stable Firefox version, a white column of pixels appears always on the left sidebar at normal zoom (100%).",
+  "steps_to_repro": "- Launch Firefox v61.0.2 (64-bit) - Go to the canary web-app and observe the screen"
+ }
+}

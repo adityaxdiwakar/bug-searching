@@ -1,0 +1,30 @@
+{
+ "id": "5b8de68918897203cffd2136",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1925,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1hwxudxe",
+ "data": {
+  "system_settings": "OnePlus 6 (Version 8.1.0)",
+  "client_settings": "Discord Alpha 7.4.6",
+  "actual_result": "You get put back into the dm you just closed - This will not happen if you switch to another dm and back",
+  "expected_result": "You stay on the friend list",
+  "short_description": "When closing a dm, the client puts you back into the same dm if they send you another message",
+  "steps_to_repro": "- decide you want to finally clean your dm list and close a dm you are currently focused on - don't touch anything OR open the dm list drawer - let the other user dm you - observe"
+ }
+}

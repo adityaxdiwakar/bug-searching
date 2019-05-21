@@ -1,0 +1,17 @@
+{
+ "id": "5ba9a26bc1fd9e028514639a",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2031,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zdH4CEUH",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "A loading icon appears for a split second in the middle of the screen",
+  "expected_result": "Nothing out of the ordinary should happen; the Audit Log rotates as expected",
+  "short_description": "Rotating screen while in the Audit Log causes the loading icon to appear for a split second",
+  "steps_to_repro": "- Open the Audit Log - Rotate your phone - Observe"
+ }
+}

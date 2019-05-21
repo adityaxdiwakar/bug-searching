@@ -1,0 +1,24 @@
+{
+ "id": "5965d0634abb02dc73f9ec7c",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 838,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PyFuuLu9",
+ "data": {
+  "system_settings": "windows 10 64 bit",
+  "client_settings": "Discord Stable",
+  "actual_result": "Link won't embed and will stay as a link",
+  "expected_result": "Link needs to show a picture or some kind of short explain about the page - embed",
+  "short_description": "Deviantart(site) Links won't Embed",
+  "steps_to_repro": "- posting links of deviantart on different places"
+ }
+}

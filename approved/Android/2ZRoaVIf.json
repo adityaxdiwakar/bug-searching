@@ -1,0 +1,16 @@
+{
+ "id": "58eee4eafbc9ef349eea318a",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 357,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2ZRoaVIf",
+ "data": {
+  "system_settings": " Android 7.0, Discord 3.6 3",
+  "actual_result": "The little blue button is solid blue with no icon.",
+  "expected_result": "The little blue button in the bottom right corner shows an icon to submit.",
+  "short_description": "When you change something on account info the little blue button on the bottom right corner doesn't show anything.",
+  "steps_to_repro": "- Go to Settings. - Go to My Account - Change something on your account and put password in. "
+ }
+}

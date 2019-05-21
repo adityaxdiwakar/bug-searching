@@ -1,0 +1,17 @@
+{
+ "id": "5b2a3fedb1ce827931f2bcb2",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2159,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RY04JX1H",
+ "data": {
+  "system_settings": "Firefox Dev 62.0b1 (64-bit)",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 17111, Version Hash: 5a0c1d221f9ab325b7e67af74777147c3319ae78",
+  "actual_result": "Message is not editable until you press Up twice.",
+  "expected_result": "Message becomes editable text field (on Chrome and Electron app)",
+  "short_description": "On Firefox, must press Up twice to edit image/file caption/message",
+  "steps_to_repro": "- Open Discord channel on Firefox - Drag a file or image into Discord - (optionally add description) and press Enter - Press up-arrow key"
+ }
+}

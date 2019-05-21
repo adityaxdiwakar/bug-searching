@@ -1,0 +1,23 @@
+{
+ "id": "58d0e0137f2e9f35a7eb9f45",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 447,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c5YCKFfT",
+ "data": {
+  "system_settings": " macOS 10.12.3 Sierra, Discord Canary",
+  "actual_result": "Discord zooms in the entire app",
+  "expected_result": "Discord should not zoom in at all",
+  "short_description": "Apple Mouse Smart Zoom not disabled on macOS Discord client",
+  "steps_to_repro": "- Double tap (not click) Apple trackpad or Magic Mouse - Watch as Discord zooms in "
+ }
+}

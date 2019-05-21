@@ -1,0 +1,24 @@
+{
+ "id": "5af631f9b814d38f2f753d96",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 742,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uu4tMohK",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.3.1 & iPad Air 2, iOS 11.4 PB 3",
+  "client_settings": "TestFlight 2.3.2 (4353)",
+  "actual_result": "Categories and the lowest emojis are not viewable with the keyboard.",
+  "expected_result": "Keyboard should push emojis and their categories upwards.",
+  "short_description": "Keyboard doesn't push emojis for \"Add Reaction\" upwards anymore",
+  "steps_to_repro": "- Find or send any message - Long hold the message and select \"Add Reaction\" - Make sure the search there is selected"
+ }
+}

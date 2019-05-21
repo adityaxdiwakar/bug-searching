@@ -1,0 +1,30 @@
+{
+ "id": "5bad35b59be228139f01ec77",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3048,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Qg6fzfxK",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit, version 1803",
+  "client_settings": "Discord Canary, Build Number: 24815",
+  "actual_result": "The value is always one.",
+  "expected_result": "You should see the correct value displayed when it describes the value in seconds in the Audit Logs.",
+  "short_description": "Changes made to slowmode through the API or client arent properly displayed in the clients audit logs.",
+  "steps_to_repro": "- Make a request to change the slowmode status of a channel through the API. - Go to the Audit Logs."
+ }
+}

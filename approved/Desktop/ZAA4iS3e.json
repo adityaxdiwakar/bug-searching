@@ -1,0 +1,24 @@
+{
+ "id": "59fb86344a9a839a4228ca7a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1341,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZAA4iS3e",
+ "data": {
+  "system_settings": "Windows 10 Pro, 64-bit",
+  "client_settings": "Discord Canary 0.0.168",
+  "actual_result": "Playback sometimes continues until hovered over again",
+  "expected_result": "Provided that the cursor is off of the GIF, playback should stop",
+  "short_description": "Quickly swiping over a GIF continues playback when not hovered over",
+  "steps_to_repro": "- Find a GIF, not a GIFV (If it pauses instead of restarting, when stopping playback, find one that restarts) - Hover quickly over the GIF (I find it's easy when swiping arbitrarily over the corner, shouldn't take more than 25 swipes or so, might take a bit of finesse)"
+ }
+}

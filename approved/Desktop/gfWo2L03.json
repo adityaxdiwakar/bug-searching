@@ -1,0 +1,30 @@
+{
+ "id": "5b79d724f3479f6aff7bfa61",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2745,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gfWo2L03",
+ "data": {
+  "system_settings": "OS X 10.13.1",
+  "client_settings": "Desktop Canary, stable, Build Number: 22118, Version Hash: b41bdf4226cbdc9493c90778394cb68ce74d55e9",
+  "actual_result": "The AFK message from Clyde is sent.",
+  "expected_result": "The AFK message from Clyde should not be sent.",
+  "short_description": "Leaving a call by closing the respective DM does not stop Clyde's AFK message from being sent, after being reopened.",
+  "steps_to_repro": "- Join a call with another friend. - Get them to leave the call. - Close the DM the call is in, and then reopen it (using the Friends tab) - Wait 5 minutes for the timeout message. - Clyde will send the timeout message."
+ }
+}

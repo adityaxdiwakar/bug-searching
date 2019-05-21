@@ -1,0 +1,30 @@
+{
+ "id": "59dc7a61f9c2215cbd605b89",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 804,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SiVwHfeG",
+ "data": {
+  "system_settings": "Android 4.4.4, Tablet Allview Viva H8 LTE",
+  "client_settings": "Alpha 5.3.3",
+  "actual_result": "A system message appears telling you that the channel order was updated",
+  "expected_result": "A system message appears telling you that the category order was updated",
+  "short_description": "\"Channel order updated.\" system message appears instead of \"Category order updated.\" when sorting categories",
+  "steps_to_repro": "- Make a new and fresh server - Create a few channels and categories - Go to server settings - Go to channels section - Go into the category sorting mode - Change the order of one or more categories"
+ }
+}

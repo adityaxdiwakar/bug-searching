@@ -1,0 +1,30 @@
+{
+ "id": "5a0b31839e4e4474245a649b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 899,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aSgpo2d2",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 5.6.7",
+  "actual_result": "flipped preview",
+  "expected_result": "normal preview of what you took",
+  "short_description": "Image gets flipped 180\u00b0",
+  "steps_to_repro": "- Open the send attachment preview - go to the in app camera - switch to the front camera - take a picture and observe the preview"
+ }
+}

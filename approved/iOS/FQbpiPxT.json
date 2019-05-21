@@ -1,0 +1,17 @@
+{
+ "id": "5bdb0b6696299e60230e60bc",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1143,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FQbpiPxT",
+ "data": {
+  "system_settings": "iPad (3rd generation) running iOS 9.3.5",
+  "client_settings": "TestFlight 2.4.0 (8841)",
+  "actual_result": "Servers remain at the bottom of the screen.",
+  "expected_result": "After dragging servers should remain at the top of the screen.",
+  "short_description": "When sorting guilds, servers stay at the bottom of the screen.",
+  "steps_to_repro": "- Drag a server to the bottom of the screen - Let go and observe all servers stay at the bottom of the screen - [Could be iPad specific]"
+ }
+}

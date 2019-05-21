@@ -1,0 +1,24 @@
+{
+ "id": "59b47101427630ecd53c95a8",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1108,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/De3xs2Ti",
+ "data": {
+  "system_settings": "Win7 x64",
+  "client_settings": "Browser Client on 2017-09-09 in Firefox 55.0.3 x64",
+  "actual_result": "The picture preview settings are still available with no way to see that they depend on site preview being enabled. See",
+  "expected_result": "The setting for picture preview should be disabled or there should be a way to see that picture preview depends on site preview",
+  "short_description": "Picture preview settings should be disabled when site preview is disabled",
+  "steps_to_repro": "- Disable site preview"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5966548fa8ee2c4220153137",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 840,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HvkikS6N",
+ "data": {
+  "system_settings": "Win 10 Pro x64 v1607 - 1920x1080 screen",
+  "client_settings": "Desktop Canary 0.0.157 (Build 2182)",
+  "actual_result": "Window is zoomed in, obscuring some objects onscreen (see attached)",
+  "expected_result": "Window should be normal size",
+  "short_description": "Window zoomed in in maximised mode, obscuring recent message indicators and partially scrollbars",
+  "steps_to_repro": "- Update Canary to 2182 (I achieved by COMPLETELY closing and reopening canary, not just CTRL+R) - Ensure your window is maximised"
+ }
+}

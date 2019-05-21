@@ -1,0 +1,17 @@
+{
+ "id": "5ac70a85f4f11735a2de084c",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1799,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cHclwnOI",
+ "data": {
+  "system_settings": "Windows 10 Home 1709 64-Bit Build 16299.309",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 13228, Version Hash: a6423b5c52a41c71781e77204cb85e06e619c1b0",
+  "actual_result": "your game will be what u typed but the logo will be the right logo and the client will treat it like the acual game",
+  "expected_result": "It should still show the question mark logo unless it is the official game",
+  "short_description": "You can \"play\" a game u aint playin and/or dont own",
+  "steps_to_repro": "- go to games settings - use any application u can change name (for example the system which is normally used for custom playing msgs) - change the name to a game name like Subnautica or Slime Rancher ect - click on ur profile and look at ur playing status"
+ }
+}

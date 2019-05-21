@@ -1,0 +1,17 @@
+{
+ "id": "5bbc33097e0f873978824aaa",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3120,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cpbtsCXc",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1809)",
+  "client_settings": "Discord Canary 0.0.215 (25718)",
+  "actual_result": "There is no warnings",
+  "expected_result": "There should be big warnings about running copying/pasting stuff into console",
+  "short_description": "On Electron 3.0.3/Canary 0.0.215 there is no warnings in console anymore about running stuff in console",
+  "steps_to_repro": "- Be on Electron 3.0.3/Canary 0.0.215/0.0.195/0.0.55 - Open the dev console with CTRL + SHIFT + I (CMD + SHIFT + I on macOS) - Observe there is no warnings at all about running stuff in console (the warning to stop social engineering)"
+ }
+}

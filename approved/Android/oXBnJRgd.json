@@ -1,0 +1,17 @@
+{
+ "id": "5bcebdd79f51705189c9fa7c",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2225,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/oXBnJRgd",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.7.9",
+  "actual_result": "You cannot do anything. All you can do, is just scroll up and down.",
+  "expected_result": "You should be led to wherever you click.",
+  "short_description": "When in-app notification is on your screen, you can't do anything but just scroll up and down until you close it.",
+  "steps_to_repro": "- Get a in-app notification - Try to go to another channel, another server, open a friend page, etc."
+ }
+}

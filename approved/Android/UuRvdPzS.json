@@ -1,0 +1,17 @@
+{
+ "id": "59605f8e01e599d02ef8ca59",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 540,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/UuRvdPzS",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android version 7.0",
+  "client_settings": "Android Discord 3.9.7",
+  "actual_result": "Following the steps can result into a flaw in the system which doesn't re-roll the language.",
+  "expected_result": "In this case once a user deselects \"Sync Across Clients\" the language should reset to original.",
+  "short_description": "If you sync a language to your browser then un-sync the original language does not reset.",
+  "steps_to_repro": "- Open \"User Settings\" - Go to \"Language\" - Enable \"Sync Across Clients\" - Select a language different from English. (On both phone and desktop it should update) - Deselect \"Sync Across Clients\" (Go check Desktop it should stay as the synced language even after restarting)"
+ }
+}

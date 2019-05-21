@@ -1,0 +1,30 @@
+{
+ "id": "5c30f24235a06e66c6845604",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2414,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NyNZXe59",
+ "data": {
+  "system_settings": "Mi A2, Android 9",
+  "client_settings": "Android Alpha 8.2.4",
+  "actual_result": "Discord logo shifts slightly",
+  "expected_result": "Discord logo should stay in the same position",
+  "short_description": "Discord loading screen shifts position - on screen nav bar specific?",
+  "steps_to_repro": "- Have your phone in landscape mode - Make sure discord is not running - Open discord with your phone in landscape mode"
+ }
+}

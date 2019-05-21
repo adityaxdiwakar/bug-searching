@@ -1,0 +1,36 @@
+{
+ "id": "5969365574edb06629cdfeff",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 268,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qoG94FuT",
+ "data": {
+  "system_settings": "iPhone SE , IOS 10.3.2",
+  "client_settings": "Discord 1.8.8",
+  "actual_result": ": It automatically gets copied",
+  "expected_result": ": Edit bar disappears and text is not copied to the send message section",
+  "short_description": "Edit becomes copy",
+  "steps_to_repro": "- Send a DM to somebody - click on edit messages - (Do not press \"done\") - press the navigation button and go to another server - send something in the server - go back to the person who you DM - Realise that the text you sent earlier (you pressed edit but didn't edit) was copied to the Send message bar"
+ }
+}

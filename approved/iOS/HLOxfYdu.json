@@ -1,0 +1,17 @@
+{
+ "id": "5bb942794509828244aa3d0d",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1064,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/HLOxfYdu",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12",
+  "client_settings": "TestFlight 2.3.9 (8055)",
+  "actual_result": "The bottom bar overlaps the colour menu popup",
+  "expected_result": "The bottom bar shouldn't overlap the colour menu popup",
+  "short_description": "[iPhone X/XS/XS Max] Bottom bar overlaps role colour menu",
+  "steps_to_repro": "- Open Server Settings - Tap Roles - Attempt to edit a role's colour"
+ }
+}

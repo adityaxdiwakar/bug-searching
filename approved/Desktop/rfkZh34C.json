@@ -1,0 +1,15 @@
+{
+ "id": "5817a3aff7e8b50c36fc9dbc",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 94,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rfkZh34C",
+ "data": {
+  "actual_result": "The animating number and standard number overlap, causing only one digit to show for a short period.",
+  "expected_result": "The second number on the counter will animate and tick up one.",
+  "short_description": "Reacting with an emote which has been reacted with >10 times causes a buggy animation",
+  "steps_to_repro": "- React to a message with an emote that has already been used to react at least 10 times "
+ }
+}

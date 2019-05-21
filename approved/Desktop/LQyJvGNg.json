@@ -1,0 +1,30 @@
+{
+ "id": "597658c4bd5ccce45a6dae29",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 891,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LQyJvGNg",
+ "data": {
+  "system_settings": "Win 10 pro 64",
+  "client_settings": "Discord PTB",
+  "actual_result": "It doesn't",
+  "expected_result": "Discord overlay should pop up in the upper left corner",
+  "short_description": "When opening SMITE through Steam with overlay doesn't work",
+  "steps_to_repro": "- Install SMITE on Steam - Reassure overlay for SMITE is on - Open SMITE - Be dissapointed"
+ }
+}

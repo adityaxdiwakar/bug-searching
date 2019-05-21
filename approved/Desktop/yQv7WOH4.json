@@ -1,0 +1,30 @@
+{
+ "id": "5a1358538569e8e8503f90c6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1384,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yQv7WOH4",
+ "data": {
+  "system_settings": "iPhone 8 +, iOS 11.1.1 (but seems to occur on other OS\u2019s, so all is free to try it.)",
+  "client_settings": "Discord TestFlight iOS 2.0.1 (1610)",
+  "actual_result": "Server does not display white blocks even when new messages are sent in the now unmuted channel.",
+  "expected_result": "Channel is unmuted and server icon shows a white block next to it when outside of the said server",
+  "short_description": "White Block Next to Server Icon Does Not Show After unMuting via Notification settings",
+  "steps_to_repro": "- Have a channel muted - Go to Notification Settings  - Scroll down to channel, then click on unmute"
+ }
+}

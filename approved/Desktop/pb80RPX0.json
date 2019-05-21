@@ -1,0 +1,17 @@
+{
+ "id": "5c13281fbb78be4dfb1faa5b",
+ "closed": false,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 3489,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pb80RPX0",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit",
+  "client_settings": "Desktop Canary 29640",
+  "actual_result": "The window stays open",
+  "expected_result": "The window is supposed to close just like Ctrl+K does",
+  "short_description": "Pressing Ctrl+T in the quickswitcher does not close the window unlike Ctrl+K",
+  "steps_to_repro": "- Open the quickswitcher by pressing either Ctrl+T or Ctrl+K - Now press Ctrl+T"
+ }
+}

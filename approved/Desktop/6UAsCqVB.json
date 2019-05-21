@@ -1,0 +1,17 @@
+{
+ "id": "59a0df434c0d761d02bed083",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1049,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/6UAsCqVB",
+ "data": {
+  "system_settings": "MS Windows 10 Pro x64 Version 1703",
+  "client_settings": "Discord Stable 0.0.298",
+  "actual_result": "Desktop app or browser if we use web-verison freezes for about a 1 minute. Then unfreezes and if you took any actions it shows them happening and freezes again. Rebooting app help to fix app before you look at that embed link again. (putting it in <brackets> won't embed and won't cause that bug)",
+  "expected_result": "It shouldn't crash our apps I think.",
+  "short_description": "Discord dekstop app and web-version crashes cause of symbols in steam group description that pops up when link is embed.",
+  "steps_to_repro": "- Send this link <<http://steamcommunity.com/groups/cheatgiveaways>> anywhere where embeds are allowed. - Enjoy that someone's app got crashed"
+ }
+}

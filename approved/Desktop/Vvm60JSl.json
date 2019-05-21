@@ -1,0 +1,17 @@
+{
+ "id": "5ae52b1a0d616d408cc77e35",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1906,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Vvm60JSl",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64",
+  "client_settings": "Desktop Canary, 14306",
+  "actual_result": "Member list resets to the top",
+  "expected_result": "Member list stays in the same position",
+  "short_description": "Member list resets upon switching channels (On lazy guilds only)",
+  "steps_to_repro": "- Go to a channel in a lazy guild (like DTesters) - Scroll down the list - Switch to another channel - Watch the member list"
+ }
+}

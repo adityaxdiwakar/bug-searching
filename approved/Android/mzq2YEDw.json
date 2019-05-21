@@ -1,0 +1,30 @@
+{
+ "id": "5bcec9fabcf2276ed1add68c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2229,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mzq2YEDw",
+ "data": {
+  "system_settings": "Huawei P8Lite 2016, Emui v4.1 \u2022 Android 6.0.1",
+  "client_settings": "Discord Alpha v7.7.8",
+  "actual_result": "No line between these settings.",
+  "expected_result": "We should see a line between \"system notifications\" settings and \"behavior\" settings.",
+  "short_description": "It misses a line between \"system notifications\" settings and \"behavior\" settings in notification settings tab.",
+  "steps_to_repro": "- Open your Settings then click on notification - Observe"
+ }
+}

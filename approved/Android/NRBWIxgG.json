@@ -1,0 +1,17 @@
+{
+ "id": "5b0643a42b7d080192c46d79",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1459,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NRBWIxgG",
+ "data": {
+  "system_settings": "Galaxy 6 Android 7.0",
+  "client_settings": "Discord Alpha 6.7.9",
+  "actual_result": "User Notes are not there.",
+  "expected_result": "You can see the note you saved on a user",
+  "short_description": "User Notes Removed",
+  "steps_to_repro": "- Open Discord - Go to a user you saved a user note on"
+ }
+}

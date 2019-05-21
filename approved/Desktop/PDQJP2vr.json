@@ -1,0 +1,15 @@
+{
+ "id": "582b53c38455a44c75209409",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 146,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PDQJP2vr",
+ "data": {
+  "actual_result": "It is stuck there, messages continue above, you have to restart discord",
+  "expected_result": "Either download retries or status bar disappears",
+  "short_description": "Uploading files while on no connection keeps status bar there",
+  "steps_to_repro": "- Step one: Turn off Internet - Step two: Upload - Step three: Wait a bit - Step four: Turn on Internet "
+ }
+}

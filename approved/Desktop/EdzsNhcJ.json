@@ -1,0 +1,17 @@
+{
+ "id": "5b5ec2154100e5721eb2f1f2",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2501,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EdzsNhcJ",
+ "data": {
+  "system_settings": "Windows 10 Familial (64 bits)",
+  "client_settings": "Discord Browser [Google Chrome Version 62.0.3202.75 (Official Build)]",
+  "actual_result": "This is message is showed without any *real* change.",
+  "expected_result": "This message shouldn't be here.",
+  "short_description": "When moving a role to his place, without any other change, we need to Cancel or Save to continue. https://i.imgur.com/8T",
+  "steps_to_repro": "- Create a role. - Move to his place."
+ }
+}

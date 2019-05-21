@@ -1,0 +1,30 @@
+{
+ "id": "5babc2510c3a9c6a84b665b2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3043,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ARyPGLSr",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS, Asus Netbook F551C, Intel Core i3 64bits",
+  "client_settings": "Discord Canary 24683",
+  "actual_result": "Desktop client crashes",
+  "expected_result": "Language syncs and applies normally on Desktop",
+  "short_description": "Changing the language on mobile while you are viewing Audit Logs on Desktop crashes Discord",
+  "steps_to_repro": "- On Desktop app, go to Server Settings > Audit Logs - On mobile app, go to Settings > Language - Make sure Sync across clients is enabled - Change language - Observe Desktop"
+ }
+}

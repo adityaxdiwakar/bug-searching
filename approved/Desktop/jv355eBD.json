@@ -1,0 +1,24 @@
+{
+ "id": "59e0be6a21ff354cea6985be",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1255,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jv355eBD",
+ "data": {
+  "system_settings": "Windows 10; Chrome 61.0.3163.100 or Mozilla Firefox 56.0 (64-bit)",
+  "client_settings": "Browser client, 0.0.298",
+  "actual_result": "Browser keeps reporting that recording input is being used",
+  "expected_result": "Page should update and stop using recording input (and make browser recognise)",
+  "short_description": "Access to mic persists after logging out on browser",
+  "steps_to_repro": "- Open browser (works both Chrome and Firefox) - Navigate to  - Log in - Make sure microphone is enabled (and it's allowed in the browser) - Log out of Discord, getting redirected to /login page - Tab still reports that recording is in use"
+ }
+}

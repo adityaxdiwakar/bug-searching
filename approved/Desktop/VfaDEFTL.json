@@ -1,0 +1,30 @@
+{
+ "id": "5b41801e84043775314ad2a9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2250,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VfaDEFTL",
+ "data": {
+  "system_settings": "Microsoft Windows 10 Pro [x64] Version 1803 Build 17134.122",
+  "client_settings": "Discord Canary 18317",
+  "actual_result": "It displays both the \"hint\" on what the status bubble is and on the profile picture it displays \"View Profile\", In fact you can even click on the status bubble and it'll open their profile.",
+  "expected_result": "It should only display the \"hint\" on what the status bubble is currently.",
+  "short_description": "Hovering over people status bubble on their card in a server will display \"View Profile\" as-well as what status they are in even if your cursor isn't on it.",
+  "steps_to_repro": "- Go to a random server (such as DTesters). - Click on anyone on the members list. - Hover over the status bubble so you can see the \"hint\" (\"Do Not Disturb\", \"Idle\", \"Online\" etc). - Observe the profile picture."
+ }
+}

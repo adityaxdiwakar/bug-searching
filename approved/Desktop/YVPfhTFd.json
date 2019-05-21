@@ -1,0 +1,30 @@
+{
+ "id": "59f018e623058b18cd560bdd",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1319,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YVPfhTFd",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6, iMac 14,2/iMac 18,1",
+  "client_settings": "Discord Canary 0.0.156",
+  "actual_result": "RAM usage is rather excessive, around 700-800, sometimes 900MB",
+  "expected_result": "It should have relitively normal RAM usage.",
+  "short_description": "Discord Canary on Mac uses a large amount of memory after being open for a few days (700-800MB)",
+  "steps_to_repro": "- Launch Discord - Use it normally for a day or so without closing it. Sleep is fine. - After around a day, open Activity Monitor and take a look at RAM usage"
+ }
+}

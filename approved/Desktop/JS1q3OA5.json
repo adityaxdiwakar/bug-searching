@@ -1,0 +1,17 @@
+{
+ "id": "5b9dc52ad1a1ed6e2560c7a4",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2988,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JS1q3OA5",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 23837, Version Hash: 3bb3d282a39cc9af8b690aeadf51ea30e7adac1d",
+  "actual_result": "Opens a image link, but the image is not the original resolution",
+  "expected_result": "The link should give the original full resolution image",
+  "short_description": "When you click a image, then right click open link it gives you an low resolution version of the image.",
+  "steps_to_repro": "- Click on image - - Right click image - - Click Open Link -"
+ }
+}

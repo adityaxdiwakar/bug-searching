@@ -1,0 +1,24 @@
+{
+ "id": "5940449b57f7dd89b8e76c2e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 754,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iN6xhPKG",
+ "data": {
+  "system_settings": "Windows 10 x64 Anniversary Update (1607) Canary 0.0.157.",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "You don't",
+  "expected_result": "You see the message in the modal",
+  "short_description": "Text in pinned messages defaults to white, rendering it unreadable.",
+  "steps_to_repro": "- Try to pin a message"
+ }
+}

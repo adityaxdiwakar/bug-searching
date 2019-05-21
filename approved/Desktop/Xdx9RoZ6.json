@@ -1,0 +1,17 @@
+{
+ "id": "5c323e0e29eb12677c0d7fe1",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 3573,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Xdx9RoZ6",
+ "data": {
+  "system_settings": "Windows 10 64x (1809)",
+  "client_settings": "Chrome: 71.0.3578.98 (Official Build) (64-bit) - Firefox 64 (64bit)",
+  "actual_result": "After a short period of time, Pictures will overlap each other creating a mess of Pictures.",
+  "expected_result": "The pictures will scroll through and not overlap",
+  "short_description": "[Marketing] In partners page users profiles start to overlap each other after leaving the page open for a short time",
+  "steps_to_repro": "- Open up the Partners marketing page.  ./partners - Wait for a little time for the pictures at the top to start to scroll through."
+ }
+}

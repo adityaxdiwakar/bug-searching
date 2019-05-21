@@ -1,0 +1,30 @@
+{
+ "id": "5b053433dacfeff0cd03d579",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1449,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZYvB0KDQ",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 6.7.4",
+  "actual_result": "The message is sent but there's a toast saying ``Unable to send messages. Hold to retry`` and same message is below it in red. When we hold the message and click resend, the message is sent but the red message below it still says and the same message is sent twice (or the number of times you've retried).",
+  "expected_result": "The message should be sent only once.",
+  "short_description": "Message is sent twice when we have poor connection and try to send a message.",
+  "steps_to_repro": "- Have a poor interested connection. - Send a message to a channel."
+ }
+}

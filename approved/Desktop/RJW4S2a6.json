@@ -1,0 +1,17 @@
+{
+ "id": "59403dbd2054decc0dee2c4d",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 753,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RJW4S2a6",
+ "data": {
+  "system_settings": "Win 7 SP1",
+  "client_settings": "Desktop Canary 0.0.157",
+  "actual_result": "It stays open but you can't interact with it.",
+  "expected_result": "Server Settings Should Close",
+  "short_description": "Discord is stuck on Server settings if you're there when removed from that server",
+  "steps_to_repro": "- Enter Server Settings - Get removed from server via kick or ban"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a6f2ba9417dafd0f8a4d241",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1604,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cAomgEjL",
+ "data": {
+  "system_settings": "Windows 10 Pro x64, Build 16299, Version 10.0.16299",
+  "client_settings": "Desktop Canary, Build 10018, Version 0.0.201",
+  "actual_result": "The picture is off-center, leaving a line at the top and the left side of the icon",
+  "expected_result": "The picture is centered and there are no edges",
+  "short_description": "Uploading a server Icon will leave lines",
+  "steps_to_repro": "- create a server- On the create server modal, upload a server icon (size does not matter, but it's easiest recreateable with squared pictures or \"banners\")"
+ }
+}

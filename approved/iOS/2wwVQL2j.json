@@ -1,0 +1,15 @@
+{
+ "id": "5868456f343e0b27e497df7a",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 148,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2wwVQL2j",
+ "data": {
+  "actual_result": "Voice Over is unable to read text messages and various elements in the Discord app",
+  "expected_result": "Voice Over should be able to easily read all text displayed on the screen",
+  "short_description": "Voice Over cannot read various elements",
+  "steps_to_repro": "- Open Discord - Go to a Server or PM - Swipe over text to have Voice Over read it  "
+ }
+}

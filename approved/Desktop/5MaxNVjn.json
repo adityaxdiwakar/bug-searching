@@ -1,0 +1,24 @@
+{
+ "id": "5942369a0ef511bd368ac1b3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 757,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5MaxNVjn",
+ "data": {
+  "system_settings": "Windows 10 (x64) Build 15063.293 @ Version 1703, Discord Canary Version 0.0.157",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "Window stays and does not close",
+  "expected_result": "You can close the window/it responds to the kick/ban",
+  "short_description": "Server Modals do not automatically close after server removal",
+  "steps_to_repro": "- Open the delete or ban message dialog in a server - Be kicked/banned from the server"
+ }
+}

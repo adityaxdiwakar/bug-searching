@@ -1,0 +1,24 @@
+{
+ "id": "5bfcbc0ac3213b1c9e06f523",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1172,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/afVokiOH",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "Emoji picker collapses but stays active in the background, letting you type while having the emoji picker limitations",
+  "expected_result": "Emoji picker closes and lets you use the abc keyboard normally",
+  "short_description": "Editing a message after opening the emoji picker keeps emoji picker active in the background",
+  "steps_to_repro": "- Go into any server - Send a message - Open the emoji picker - Long press your message and select edit - Press either cancel or save - Observe the emoji picker icon - Try to type out an emoji using a colon"
+ }
+}

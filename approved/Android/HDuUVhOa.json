@@ -1,0 +1,28 @@
+{
+ "id": "58a2f15d753a29fe65fec0b7",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 223,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HDuUVhOa",
+ "data": {
+  "actual_result": "The icon had a water cooler break with their friends",
+  "expected_result": "The icon that corresponds to the mutual friends menu is there all alone by itself",
+  "short_description": "Mutual friends menu shows overlapping icons if you don't have any mutual friends with the selected user",
+  "steps_to_repro": "- Open the user settings for someone that you don't have mutual friends with - Open the mutual friends tab - Note that a ton of icons are there for whatever reason "
+ }
+}

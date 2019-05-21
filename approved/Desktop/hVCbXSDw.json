@@ -1,0 +1,17 @@
+{
+ "id": "59cc83373db45c832e05239f",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1200,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hVCbXSDw",
+ "data": {
+  "system_settings": "Win 8.1 x64",
+  "client_settings": "Discord Canary, 0.0.163 (5001)",
+  "actual_result": "another box is opened",
+  "expected_result": "either nothing or the box closes and the action is either canceled or confirmed",
+  "short_description": "Pressing enter while the dialogue box for deleting a role is open opens another box",
+  "steps_to_repro": "- go to the roles tab in server settings - select and role a press delete - press enter (also works with spacebar)"
+ }
+}

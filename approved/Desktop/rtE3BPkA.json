@@ -1,0 +1,30 @@
+{
+ "id": "59d84eae33cdb6ba9e807f77",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1229,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rtE3BPkA",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Uhhh..?",
+  "actual_result": "Massive network spam.",
+  "expected_result": "Nothing weird.",
+  "short_description": "Resizing a window being shared spams the network",
+  "steps_to_repro": "- Open task manager. - Switch to Performance tab. - Select Ethernet (or wifi?). - Start Discord call. - Share screen - select single window, pick task manager. Resize task manager continuously."
+ }
+}

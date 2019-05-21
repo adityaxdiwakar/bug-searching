@@ -1,0 +1,30 @@
+{
+ "id": "5b831446bbcb9a15c13ed7f3",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1887,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0XhzR0M3",
+ "data": {
+  "system_settings": "Honor 9, Android 8.0.0",
+  "client_settings": "Discord Alpha 7.4.0",
+  "actual_result": "Clicking in any of those buttons will perform their respective action, but the window will stay on the screen and allow you to keep interacting with it unless you press the back key on your phone or click out of the window.",
+  "expected_result": "Clicking on \"Reset nickname\", \"Cancel\" or \"Save\" should perform that action and close the window.",
+  "short_description": "Clicking on \"Change Nickname\" twice will cause the second window not to properly close.",
+  "steps_to_repro": "- Go to a Server where you have the permissions to change your nickname. - Click on the 3 dot and then click twice on \"Change Nickname\". - Change your nickname and click on \"Save\". - A second window appear in the screen, now try to interact with it."
+ }
+}

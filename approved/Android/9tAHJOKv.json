@@ -1,0 +1,30 @@
+{
+ "id": "5b5f720115e29342da40f7b5",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1730,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9tAHJOKv",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "Embed is blank",
+  "expected_result": "Video should embed properly",
+  "short_description": "Direct links to .mp4 files produce blank embeds",
+  "steps_to_repro": "- Send a link in chat to a mp4 file hosted on a CDN (it must be a link to the pure file, the content type returned by the link must be video/mp4) - Observe"
+ }
+}

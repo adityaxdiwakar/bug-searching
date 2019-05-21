@@ -1,0 +1,17 @@
+{
+ "id": "5bb3cd11e2927a7cb51e71bf",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2086,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/btiGHX1c",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Mini Android 6.0.1",
+  "client_settings": "7.6.2",
+  "actual_result": "it shows false or even invalid times",
+  "expected_result": "entry should show the right time",
+  "short_description": "[Audit Log] edit afk timeout shows invalid or wrong times",
+  "steps_to_repro": "- edit afk timeout - observe audit log"
+ }
+}

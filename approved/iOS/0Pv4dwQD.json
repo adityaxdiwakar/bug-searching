@@ -1,0 +1,30 @@
+{
+ "id": "59d68f1272e60fd1f27d9cf6",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 359,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0Pv4dwQD",
+ "data": {
+  "system_settings": "iPhone 6S with iOS 11.0.2 & iPad Air 2 with iOS 11.1 PB 1",
+  "client_settings": "TestFlight 1.9.2 (953)",
+  "actual_result": "The interaction menu only opens when clicking on the image.",
+  "expected_result": "The interaction menu (close image, share image etc.) should always open regardless of where you click in the preview",
+  "short_description": "Clicking outside of an image in image preview won't open interaction menu",
+  "steps_to_repro": "- Click on any image uploaded or embed to Discord to open the image preview - Click on a spot outside of the actual image - Observe it"
+ }
+}

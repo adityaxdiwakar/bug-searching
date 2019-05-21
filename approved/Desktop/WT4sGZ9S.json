@@ -1,0 +1,16 @@
+{
+ "id": "58f4be44303f8e5353e0fd9b",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2238,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WT4sGZ9S",
+ "data": {
+  "system_settings": " Kubuntu 16.04, Discord Canary / Android 4.4.2, Discord Alpha v3.6.5",
+  "actual_result": "Discord client on PC switches to your new server & joins voice",
+  "expected_result": "Mobile app connects to voice channel",
+  "short_description": "Automatically connected to voice channel on PC when creating server on android",
+  "steps_to_repro": "- Open Discord on your computer - Create a server on your mobile device "
+ }
+}

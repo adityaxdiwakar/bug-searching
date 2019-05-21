@@ -1,0 +1,36 @@
+{
+ "id": "59f70a3c84647b07f2b337c2",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 406,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/37UIhTPP",
+ "data": {
+  "system_settings": "iPhone 8 Plus, iOS 11.1 (PB5)",
+  "client_settings": "Discord TestFlight 1.9.3 (1336)",
+  "actual_result": "The Save button's colour is off, it's pretty dark grey (on disabled state barely readable)",
+  "expected_result": "The Save button is the same shade of white as the Back button (and the save when using the dark theme since these settings use the same appearance in both)",
+  "short_description": "Save button in User Settings => Account is dark grey-ish on light theme (compared to say the Back button next to it)",
+  "steps_to_repro": "- Make sure to have appearance set to the light theme - Go to User Settings => Account, where you can set e.g. username - Observe the Save button colour, it's dark grey-ish (both disabled/before any changes and enabled/after changing e.g. username, the button is dark compared to the Back button) - You can compare it with the Dark theme (this part of the interface should look the same, the Save button here is properly white/same as Back)"
+ }
+}

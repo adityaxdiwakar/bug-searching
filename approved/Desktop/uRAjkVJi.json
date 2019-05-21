@@ -1,0 +1,24 @@
+{
+ "id": "593158feb13b8e22c94f3ebe",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 713,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uRAjkVJi",
+ "data": {
+  "system_settings": "-w",
+  "client_settings": "Latest Discord Canary 0.0.155",
+  "actual_result": "Mini box stays visible and there is no animation of closing it when the main profile is closed, it just dissapears.",
+  "expected_result": "The mini, blue box should close as the main profile expands, as it did before the new channel update.",
+  "short_description": "When loading a user profile from a voice channel, mini (non-expanded) profile stays visible until the main profile window is closed.",
+  "steps_to_repro": "- Join a voice channel - Select a user in the voice channel and hit 'View Profile'"
+ }
+}

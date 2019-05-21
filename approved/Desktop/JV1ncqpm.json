@@ -1,0 +1,17 @@
+{
+ "id": "5b7a1ed915fbad2c339009e7",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2746,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JV1ncqpm",
+ "data": {
+  "system_settings": "Windows 10 (64-bit)",
+  "client_settings": "Release Channel: canary, Build Number: 22210, Version Hash: c26c01603b894d23185eaecaf3751fbb218dd224",
+  "actual_result": "While hovering over the reaction, it should be saying only you have reacted to the said message",
+  "expected_result": "While hovering over the reaction, it should be saying you're the only one who reacted to the said message",
+  "short_description": "Ghost reactions after removing all reactions",
+  "steps_to_repro": "- React with the same message to the same message - Right-click the message, and remove all reactions - React to the same message with the same reaction as used earlier"
+ }
+}

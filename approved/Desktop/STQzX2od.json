@@ -1,0 +1,30 @@
+{
+ "id": "5b01ceb4551ec5cad555ffa2",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2026,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/STQzX2od",
+ "data": {
+  "system_settings": "Windows 10 Pro 1803, Firefox 60, Chrome 66",
+  "client_settings": "Discord Stable 15435",
+  "actual_result": "View-port scrolls to the bottom of the list, and then covers the server's notification. The button is still present, and when clicked, does nothing. Scrolling up with the top \"New\" button does not reproduce.",
+  "expected_result": "New button is dismissed once the server with the notification is scrolled into view",
+  "short_description": "The bottom \"New\" button on the server list scrolls down, but covers the last unread notification instead of disappearing",
+  "steps_to_repro": "- Have a long enough list of servers, with one of them having a notification off screen to trigger the \"New\" button - Click the \"New\" button to scroll the list down"
+ }
+}

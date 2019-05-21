@@ -1,0 +1,24 @@
+{
+ "id": "59e39be0a7dfbd5d9058d9b2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1261,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8wDb23UK",
+ "data": {
+  "system_settings": "iMac (Retina 4K, 21.5-inch, Late 2015), OS X El Capitan 10.11.6 (15G1421)",
+  "client_settings": "Chrome v61, Canary Build : 5483",
+  "actual_result": "The tab has the title of the text-channel you were on",
+  "expected_result": "It shouldn't show the name of the text-channel that you were previously on",
+  "short_description": "Browser Tab shows last text-channel that was open after you log out",
+  "steps_to_repro": "- Go to a text-channel - See that tab title is name of text-channel - log out - see title of tab"
+ }
+}

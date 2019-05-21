@@ -1,0 +1,24 @@
+{
+ "id": "5951751d84b606f4990b15bd",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 787,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rFMiwFKc",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS",
+  "client_settings": "Canary 0.0.19",
+  "actual_result": "It doesn't do anything.",
+  "expected_result": "It deletes the voice channel.",
+  "short_description": "Trying to delete a voice channel you have manage channel permissions to but not connect permissions to doesn't delete it.",
+  "steps_to_repro": "- Be in a server that you have manage channels permissions in but are not the server owner. - Create a voice channel that you do not have permission to join. - Right click it (or go into the full settings modal) and try to delete it."
+ }
+}

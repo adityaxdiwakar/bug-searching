@@ -1,0 +1,17 @@
+{
+ "id": "59befb1387b2274668c26bea",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1160,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4j4KtAiO",
+ "data": {
+  "system_settings": "Win 10 Pro x64",
+  "client_settings": "Canary B4361",
+  "actual_result": "The user card remains open, closing the role list",
+  "expected_result": "Both user card and roles list should close",
+  "short_description": "When clicking off the Add Roles menu inside of the user card, the user card remains open.",
+  "steps_to_repro": "- Open user card on a user in chat - Click the + on their roles - Click onto the chat box"
+ }
+}

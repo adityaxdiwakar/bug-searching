@@ -1,0 +1,24 @@
+{
+ "id": "598fc78918e2f0c71570340e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 981,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/d669vlrI",
+ "data": {
+  "system_settings": "Windows 10 home x64",
+  "client_settings": "Canary 0.0163 and Stable 0..0298",
+  "actual_result": "after 500+ new messages it loops to 400+ then 450+ then 500+ continuously",
+  "expected_result": "The new messages number should continue going upwards",
+  "short_description": "New messages bar stops after 500+",
+  "steps_to_repro": "- find a channel with 550+ unread messages (the higher the better) - start scrolling up - look at number of new messages"
+ }
+}

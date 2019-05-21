@@ -1,0 +1,17 @@
+{
+ "id": "5b1c0f2b6b4fe02e104ef152",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2116,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/08ou3NqY",
+ "data": {
+  "system_settings": "Windows 10 x64 Version 1803",
+  "client_settings": "Canary Build Number 16727",
+  "actual_result": "Video doesn't play at all, when you \"pause\" the video it gives a \"loop\" symbol at the botom left corner",
+  "expected_result": "Video should play",
+  "short_description": "Facebook video links are registered as inline but can't be played",
+  "steps_to_repro": "- Find a message with a link to a Facebook video - Click the \"Play\" Icon"
+ }
+}

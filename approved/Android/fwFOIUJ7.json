@@ -1,0 +1,23 @@
+{
+ "id": "58abb58d66ab2fa351ecdedc",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 247,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fwFOIUJ7",
+ "data": {
+  "system_settings": " Android 6.0, Discord v3.3.4-alpha",
+  "actual_result": "Users stay in the same spot on Android (but desktop shows users sorted by nickname)",
+  "expected_result": "The list of users changes order to reflect nickname changes",
+  "short_description": "Users in voice chat are sorted by their usernames instead of nicknames",
+  "steps_to_repro": "- Get multiple people in a voice chat  - Change nicknames so everyone is sorted in a different order alphabetically "
+ }
+}

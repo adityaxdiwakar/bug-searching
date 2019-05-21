@@ -1,0 +1,17 @@
+{
+ "id": "5bce48feda76b88996e825e0",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2220,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pdai5a5d",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.7.8",
+  "actual_result": "It clears even though the timer isn't over",
+  "expected_result": "The notification should stay until timeout",
+  "short_description": "In-app notifications immediately vanish upon rotating screen",
+  "steps_to_repro": "- Receive an inapp notification  - Immediately rotate screen"
+ }
+}

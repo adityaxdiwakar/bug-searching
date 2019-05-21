@@ -1,0 +1,16 @@
+{
+ "id": "58f0ad14b998b1cd0afc8ac2",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 366,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5yJhyiFs",
+ "data": {
+  "system_settings": " Android 6.0 - Discord 3.6.5",
+  "actual_result": "Bad view",
+  "expected_result": "Normal view of the server's icon and name on the top",
+  "short_description": "Bad server overview panel o server settings",
+  "steps_to_repro": "- Have access to a server's settings - Open the server settings "
+ }
+}

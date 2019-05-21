@@ -1,0 +1,30 @@
+{
+ "id": "5b6fe8f7d667268679a2ae2f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1825,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WlkDnOfQ",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 729",
+  "actual_result": "It is barely visible.",
+  "expected_result": "It is in a colour that can be seen.",
+  "short_description": "The loading in the voice bar is barely visible on light theme.",
+  "steps_to_repro": "- Switch to light theme. - Connect to a Voice channel. - Exit the VC full screen. - Close your keyboard. - Observe the loading in the VC bar."
+ }
+}

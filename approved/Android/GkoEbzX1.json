@@ -1,0 +1,30 @@
+{
+ "id": "5b6438b4b8f9888408651211",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1765,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GkoEbzX1",
+ "data": {
+  "system_settings": "Samsung Galaxy J5 2017, Android 7.0 Nougat",
+  "client_settings": "Discord Alpha 7.2.1",
+  "actual_result": "The sensitivity doesen't change when clicking, it goes back",
+  "expected_result": "The sensitivity should change when clicked",
+  "short_description": "Manual Input Sensitivity is glitching when clicking on it",
+  "steps_to_repro": "- Join a Voice Channel - Go to User Settings - Go to Voice and Video - Click on Voice Activity - Click on automaticly determine input sensitivity - Click on the green/yellow part of the indicator"
+ }
+}

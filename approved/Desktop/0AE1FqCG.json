@@ -1,0 +1,28 @@
+{
+ "id": "581383524eeac6b653cb8670",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1499,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0AE1FqCG",
+ "data": {
+  "actual_result": "The \"Remove From Group\" button is still there and tapping it does nothing.",
+  "expected_result": "The \"Profile\" and \"Message\" buttons are the only ones shown.",
+  "short_description": "Remove From Group button doesn't go away when viewing the profile of someone who's no longer in a group DM",
+  "steps_to_repro": "- Start a Group DM - Remove one of the members. - Tap their username from the message that says that you removed them. "
+ }
+}

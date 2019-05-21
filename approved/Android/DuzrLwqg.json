@@ -1,0 +1,30 @@
+{
+ "id": "5b7e7e9389cd3f02cc88ef2e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1868,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DuzrLwqg",
+ "data": {
+  "system_settings": "LG Aristo 2, Android 7.1.2",
+  "client_settings": "Discord Alpha 7.4.0",
+  "actual_result": "Text is higher up therefore, not alligned with the icon",
+  "expected_result": "Text should be alliigned with the icon",
+  "short_description": "Text in the \"Instant Invite\" box is higher than usual and doesn't allign with the icon [Visual]",
+  "steps_to_repro": "- Go to a server where you can create an instant invite - Look at the button to create one - Notice the text is much higher than before"
+ }
+}

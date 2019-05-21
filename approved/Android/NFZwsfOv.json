@@ -1,0 +1,24 @@
+{
+ "id": "59988ae9b55afcecc1934009",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 633,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NFZwsfOv",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 4.0.7",
+  "actual_result": "image is pulled but once you apply the save it fixes itself",
+  "expected_result": "image should not look pulled",
+  "short_description": "Long width images looks pulled",
+  "steps_to_repro": "- create or be in a group dm - go to the group settings - go to change the group dm image to a long width image - while in the image editor tug it around a little then save - observe the icon before saving these changes"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a4d606241e905ec194f86f8",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1018,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/V4JWyc8c",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.0.4",
+  "actual_result": "Instead of the default server icon the discord logo appears",
+  "expected_result": "Depending upon the name of the server, the server icon in the window should be the default one with some text.",
+  "short_description": "Server icon not present while joining a server with the default icon",
+  "steps_to_repro": "- Go to the \"+\" at the bottom of the server list - Hit \"Create a new server\" and without setting a server icon create a new server - Create and copy a new invite link to this server - Click the \"+\" at the bottom of the server list and click \"join a server with invite link\" - Paste the link and click join on top right - Observe the new window that pops up showing the number of online and offline people along with an option to join the server"
+ }
+}

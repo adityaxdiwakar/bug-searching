@@ -1,0 +1,17 @@
+{
+ "id": "5c1af5c548f2fa175c80db18",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2388,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7Z6w7wOV",
+ "data": {
+  "system_settings": "Samsung Galaxy S9, Android 9 (Pie)",
+  "client_settings": "Android Beta 8.1.4",
+  "actual_result": "The notifications icon is the sender's profile initial (ex: DeJay sends as a D)",
+  "expected_result": "The notifications icon is the sender's profile picture",
+  "short_description": "[Android Pie Specific] DM Notifications do not include a profile picture",
+  "steps_to_repro": "- Receive a DM while the discord app is not running"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5994af1b70962d4482ba1a72",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1007,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/16Nbn09c",
+ "data": {
+  "system_settings": "Win 10 x64 (Creators Update)",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "mouse only shows on screenshare when on monitor 2",
+  "expected_result": "Mouse should show when on monitor 1 (the monitor being screenshared)",
+  "short_description": "When recording first monitor, mouse only captured when on second",
+  "steps_to_repro": "- Start up a call - Turn on screensharing and record monitor 1 - Put mouse on monitor 1, see if it shows up, then try putting it on monitor 2 \""
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b6c12c4d43b731371a398f2",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2649,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dCRkfBuK",
+ "data": {
+  "system_settings": "Windows 10 Home (1803), 64-bit,",
+  "client_settings": "OAuth2 URL with the permission integer 256, Firefox Nightly 63.0a1",
+  "actual_result": "Doesn't show the priority speaker option on the page.",
+  "expected_result": "Should show the priority speaker permission on the bot Oauth2 page.",
+  "short_description": "Unable to give bot to have priority speaker permission.",
+  "steps_to_repro": "- -Open the Oauth2 link on your browser-"
+ }
+}

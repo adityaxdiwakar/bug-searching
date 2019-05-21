@@ -1,0 +1,30 @@
+{
+ "id": "5b52c364c88bd78239e17bec",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2384,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WCYWAA5R",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 19429",
+  "actual_result": "The tooltip is off-centered from the badge's icon",
+  "expected_result": "The tooltip is centered over the badge like with the Nitro & Bug Hunter badges",
+  "short_description": "Badge tooltips aren't centered over the Staff, Partner, & HypeSquad badges",
+  "steps_to_repro": "- Open the profile of a user with the Staff, Partner, or HypeSquad badge and hover over it to display the tooltip"
+ }
+}

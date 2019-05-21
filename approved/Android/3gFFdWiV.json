@@ -1,0 +1,30 @@
+{
+ "id": "5b055dcd7890c2b69c0512b3",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1452,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3gFFdWiV",
+ "data": {
+  "system_settings": "Huawei Y360, Cyanogenmod 12.1, Android 5.1",
+  "client_settings": "Discord Alpha 6.7.4",
+  "actual_result": "you are not online in the list of users in a guild",
+  "expected_result": "User will not be online in the list",
+  "short_description": "The user is not displayed online in the user list after changing the language.",
+  "steps_to_repro": "- Have sync across clients enabled in your language settings- Go into the settings and change the language of the application to any other - change the language of the application to the one that was before - wait"
+ }
+}

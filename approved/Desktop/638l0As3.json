@@ -1,0 +1,16 @@
+{
+ "id": "5830c405c51eb6a91e1d5dfc",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 159,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/638l0As3",
+ "data": {
+  "system_settings": " win 10, latest canary.",
+  "actual_result": "They do",
+  "expected_result": "Reactions should not show up",
+  "short_description": "Recent mentions show reactions regardless of your settings.",
+  "steps_to_repro": "- make someone mention you - Let him add reactions - check recent mentions "
+ }
+}

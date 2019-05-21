@@ -1,0 +1,30 @@
+{
+ "id": "5bd1e0f5a6b4033244c5148e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3281,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0kvFF2zu",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 26915",
+  "actual_result": "Your screenshare turns on",
+  "expected_result": "Your camera turns on",
+  "short_description": "Joining a Video call activates Screenshare after connecting from another device",
+  "steps_to_repro": "- Video Call your best friend and activate Screenshare - Connect from a different device - Reconnect to the first device via the \"Video\" button and observe"
+ }
+}

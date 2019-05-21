@@ -1,0 +1,30 @@
+{
+ "id": "5a3d23e7bdd1f939da0f1cf2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 994,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/srv2NpHw",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.9.4",
+  "actual_result": "You are effectively moved, but the admin options diseappear from the menu  (anyway the menu is supposed to close), and you disappear from the voice user list until you re-open it",
+  "expected_result": "The pop up should close and you will appear connected under the new channel you picked",
+  "short_description": "After moving yourself to another voice channel, the pop up won't close and you will appear disconnected even though you're not",
+  "steps_to_repro": "- Join a voice channel in a server you have Move permissions - In the voicd channel list tap on yourself. A menu should pop up with voice administration options - Move yourself to another voice channel"
+ }
+}

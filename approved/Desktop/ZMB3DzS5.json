@@ -1,0 +1,30 @@
+{
+ "id": "5b252943d86bfdbb5a6ee67a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2147,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZMB3DzS5",
+ "data": {
+  "system_settings": "Windows 7 Ultimate 64 bit Service Pack 3",
+  "client_settings": "Discord Stable 0.0.301 / Discord PTB 0.0.43",
+  "actual_result": "Every successive line is missing something at the beginning of the line as if something kept part of it from posting.",
+  "expected_result": "You can see all of the multiple lines of emojis and text.",
+  "short_description": "When using MacroWorks3.1 for Xkeys panels, Discord will remove pieces of the Macro'ed paragraphs (Multiple)",
+  "steps_to_repro": "- Program a multi-line text macro in MacroWorks 3.1 for Xkeys 60 or 128 using text/emoji combo - Try to use the macro in the Discord Stable or PTB/Beta to post by hitting one of the macroed keys"
+ }
+}

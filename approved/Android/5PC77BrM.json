@@ -1,0 +1,30 @@
+{
+ "id": "5bf7257c782316753e077532",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2347,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5PC77BrM",
+ "data": {
+  "system_settings": "Samsung Galaxy S8, Android 8.0.0",
+  "client_settings": "Discord Alpha 8.0.0",
+  "actual_result": "The emoji code, :emojiname: is displayed in the title without showing the actual emoji",
+  "expected_result": "The emoji code should be displayed as an emoji",
+  "short_description": "Emojis do not display properly in embed titles but they do on PC",
+  "steps_to_repro": "-  to know how 2. Check out the docs and figure out how to send an embed message and in the title put an emoji such as 1\u20e3 or \ud83d\ude06 or something. 3. Go on Discord Android to the message and Observe"
+ }
+}

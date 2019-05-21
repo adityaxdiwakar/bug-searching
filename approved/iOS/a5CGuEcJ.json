@@ -1,0 +1,17 @@
+{
+ "id": "5ab2d4b3eb53458c77001714",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 636,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/a5CGuEcJ",
+ "data": {
+  "system_settings": "iPhone 7, iOS 11.2.5",
+  "client_settings": "Testflight 2.2.6 (3373)",
+  "actual_result": "Image overlaps keeping you on mutual friends (can't swap to mutual servers or user info) until you close the profile modal and reopen.",
+  "expected_result": "No friends in common image stays within its bounds and you can go back to mutual servers and user info.",
+  "short_description": "No friends in common image overlaps and stops you from opening mutual servers/user info.",
+  "steps_to_repro": "- Find someone who you do not have any mutual friends. - Open their profile. - Go to mutual friends."
+ }
+}

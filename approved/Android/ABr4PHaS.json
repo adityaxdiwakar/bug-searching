@@ -1,0 +1,17 @@
+{
+ "id": "5ad13fd626772799ef0b019e",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1267,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ABr4PHaS",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 6.4.8",
+  "actual_result": "no pop up a all",
+  "expected_result": "A pop up appearing having copy id",
+  "short_description": "Unable to hold-down on non-accessible voice chat to get it's id",
+  "steps_to_repro": "- Have Dev Mode enabled - hold down a voice chat you can't access or dont have permissions to edit"
+ }
+}

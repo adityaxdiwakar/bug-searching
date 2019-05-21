@@ -1,0 +1,30 @@
+{
+ "id": "5ae6fe20a4b7110587399fc1",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 711,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yoer5DlA",
+ "data": {
+  "system_settings": "iOS 11.3.0, iPhone 7",
+  "client_settings": "TestFlight 2.3.1 (4051)",
+  "actual_result": "You cannot see the message you are editing.",
+  "expected_result": "App goes towards your edited message so you can see it when you edit it.",
+  "short_description": "When editing a message towards the top of the screen, app does not center around message being edited.",
+  "steps_to_repro": "- Go into a channel you have typed in. - Scroll so that you position a message you have sent right under the channel name. - Hold and edit the message."
+ }
+}

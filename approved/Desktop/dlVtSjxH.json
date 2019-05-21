@@ -1,0 +1,17 @@
+{
+ "id": "5afb4ca752d2e71fbc961787",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1996,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dlVtSjxH",
+ "data": {
+  "system_settings": "Windows x64 Build 17134",
+  "client_settings": "Discord Canary Build",
+  "actual_result": "Nothing pops up.",
+  "expected_result": "A dropdown menu should appear under the three dots with Moderation Actions",
+  "short_description": "Cannot get the Moderation Dropdown Menu in the members tab in server settings.",
+  "steps_to_repro": "- Go to Server Settings - Go to the Members List - Hover over a member and attempt to click on the three dots to the right of the members name"
+ }
+}

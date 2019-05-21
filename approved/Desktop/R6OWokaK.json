@@ -1,0 +1,30 @@
+{
+ "id": "5b609f676c113410f0132e37",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2538,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/R6OWokaK",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 20351",
+  "actual_result": "Part of the image preview gets cut off",
+  "expected_result": "Image preview is fully visible",
+  "short_description": "Image previews get cut off by member list when Discord is minimised to part of the screen",
+  "steps_to_repro": "- Have someone send an image - Minimise Discord to part of the screen - View the image without the member list open - Open the member list - View the image"
+ }
+}

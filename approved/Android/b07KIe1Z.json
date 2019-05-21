@@ -1,0 +1,30 @@
+{
+ "id": "5b62e7af01d0d11fcd3ea65e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1758,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/b07KIe1Z",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.1",
+  "actual_result": "It still shows up in autocomplete until Discord is restarted. Besides the autocomplete feature, you can also notice that the user will keep his role color in chat (note that on Android role colors do update retroactively on old messages unlike Desktop). Opening mini-profile by long-pressing the user fixes both issues",
+  "expected_result": "When the client receives an event telling the user has left server, it should remove him from cache properly so he doesn't show up in autocomplete anymore",
+  "short_description": "User is not un-cached properly after he left server",
+  "steps_to_repro": "- Find a user in any Discord server - Have him leave the server - Go to Search - Type `from:` followed by the first letters of the user name"
+ }
+}

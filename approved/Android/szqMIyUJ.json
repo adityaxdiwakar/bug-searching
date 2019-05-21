@@ -1,0 +1,17 @@
+{
+ "id": "59f1865da87fff7eee1a8b55",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 847,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/szqMIyUJ",
+ "data": {
+  "system_settings": "lg xpower 6.0.1",
+  "client_settings": "alpha 5.5.0",
+  "actual_result": "you receive toast \"this field don't support inline picker\"",
+  "expected_result": "gif should be sent",
+  "short_description": "can't use inline gif picker",
+  "steps_to_repro": "- make sure you don't receive prompt about picking gif from keyboard - attempt to send gif from inline picker, i.e google keyboard one"
+ }
+}

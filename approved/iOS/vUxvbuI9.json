@@ -1,0 +1,16 @@
+{
+ "id": "590d58adba6fd49aa3243e1c",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 239,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vUxvbuI9",
+ "data": {
+  "system_settings": " iPad Mini, latest TestFlight",
+  "actual_result": "Offline users are not visible",
+  "expected_result": "Offline users are there like normal",
+  "short_description": "Discord splitscreen (not full splitscreen, before actually allowing open app to be used) when the app was closed beforehand (fully closed) causes offline users to not show up",
+  "steps_to_repro": "- Close Discord fully - Open an app and open it via split screen (where it can be closed by tapping on original app) - Go to a server where you would normally be able to view offline people - Try to view offline users "
+ }
+}

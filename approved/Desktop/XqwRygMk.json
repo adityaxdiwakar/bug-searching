@@ -1,0 +1,30 @@
+{
+ "id": "5ac52782bed054cb2c0ce3db",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1795,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XqwRygMk",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit, version 1709, build 16299.309, Google IME and Microsoft IME",
+  "client_settings": "Desktop Canary Build 13096 and Desktop Stable Build 13009",
+  "actual_result": "It looks like this",
+  "expected_result": "If I type \u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc it should appear as in this image",
+  "short_description": "\"Find or start a conversation\" only registers single input characters from Japanese IME and Chinese IME",
+  "steps_to_repro": "- Click \"Find or start a conversation\" in the \"Direct Messages\" menu - Try to type any kana but \u3042\u3001\u3044\u3001\u3046\u3001\u3048\u3001\u304a\u3001\u30a2\u3001\u30a4\u3001\u30a6\u3001\u30a8\u3001\u30aa"
+ }
+}

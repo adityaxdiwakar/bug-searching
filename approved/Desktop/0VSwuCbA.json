@@ -1,0 +1,24 @@
+{
+ "id": "59c01712cfa8d639b1df06c3",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1165,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0VSwuCbA",
+ "data": {
+  "system_settings": "Windows 10 Home x64, Creators Update",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "A portion of the camera gets stuck on a frame of your camera while the rest captures as usual",
+  "expected_result": "Camera captures as usual",
+  "short_description": "When in either dropdown (arrow button) or fullscreen video mode, not focused on any participant and there is movement on a camera, a portion of the camera will get stuck to on a frame of your camera while the rest of the camera is as normal",
+  "steps_to_repro": "- Start a video call - Click the arrow or fullscreen button - Have a person with a camera move something in view of the camera or the camera itself (if it isn't glitched already)"
+ }
+}

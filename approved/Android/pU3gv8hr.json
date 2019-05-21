@@ -1,0 +1,30 @@
+{
+ "id": "5b5662ae98707c81bb6b43c6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1670,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pU3gv8hr",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 712",
+  "actual_result": "They do not change colors. The colour remains the same which makes them barely visible.",
+  "expected_result": "They change their colours with the change in theme.",
+  "short_description": "The design in the background of  full screen view of a voice call and the design in the background of the invite screen is almost completely invisible on light theme.",
+  "steps_to_repro": "- Switch to light theme. - Go to a DM and start a call. - Observe the background."
+ }
+}

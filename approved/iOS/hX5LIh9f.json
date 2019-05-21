@@ -1,0 +1,30 @@
+{
+ "id": "5a77d0835e0786339b4d18e7",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 563,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hX5LIh9f",
+ "data": {
+  "system_settings": "iPod touch 6 generation, iOS 10.3.3",
+  "client_settings": "TestFlight 2.2.2 (2352)",
+  "actual_result": "The overlap is very noticeable and you can see without zooming in on it.",
+  "expected_result": "The mentions should slightly overlap as a thin line (like in 1.9.2), and not be easily noticeable.",
+  "short_description": "Multiple mentions in a post (A user mention at the beginning followed by a channel mention at the end), cause the mentions to overlap.",
+  "steps_to_repro": "- Find someone you would like to mention, do a mention, do a new line, and then tag a channel - Type the message and send it. - Obverse the sent messages"
+ }
+}

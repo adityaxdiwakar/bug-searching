@@ -1,0 +1,36 @@
+{
+ "id": "5a4c95d6ac206b998b0f5aae",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 479,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rYiMtgma",
+ "data": {
+  "system_settings": "iPhone 8 +, iOS 11.2.5 (Public Beta 2)",
+  "client_settings": "Discord TestFlight 2.2.0 (Build 2042)",
+  "actual_result": "Depending on the link, if it's something like imgur then it just displays the embed but no preview. Other than that, you'd just see the link only, but no image preview at all.",
+  "expected_result": "Image preview shows just fine (See the screenshot from Build 1610)",
+  "short_description": "Links That Contains image (png, jpeg, etc files) No Longer Previews [Cannot be reproduced with gif and gifv files]",
+  "steps_to_repro": "- Retrieve the link that has (png, jpeg, or any image related in the end.)  - Paste it anywhere on your Discord (DMs, Test server, etc.) - Observe."
+ }
+}

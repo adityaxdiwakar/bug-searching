@@ -1,0 +1,30 @@
+{
+ "id": "5b37eada35efcf8115fdc085",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1629,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4riVuPEZ",
+ "data": {
+  "system_settings": "ZTE Blade A602, Android Nougat 7.0",
+  "client_settings": "Discord Android Alpha 7.0.3 (703).",
+  "actual_result": "The camera will stay with it's orientation in portrait mode, making it impossible to get that beautiful picture.",
+  "expected_result": "The camera's orientation will change to lanscape.",
+  "short_description": "Rotating you screen from portrait to landscape with the inapp camera open will keep the camera orientation in portrait.",
+  "steps_to_repro": "- Open the inapp camera via the plus button - Turn your phone from portrait to landscape"
+ }
+}

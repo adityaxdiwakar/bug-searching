@@ -1,0 +1,30 @@
+{
+ "id": "5bdf4b88ba55d3253bdf542a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3354,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zLNJtrMJ",
+ "data": {
+  "system_settings": "Microsoft Windows Version 1803 (OS Build 17134.376)",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 27466",
+  "actual_result": "\"You do not have permission to send messages in this channel.\" is really hard to read.",
+  "expected_result": "You're supposed to be able to read \"You do not have permission to send messages in this channel.\" with ease",
+  "short_description": "\"You do not have permission to send messages in this channel.\" in light theme is super hard to read",
+  "steps_to_repro": "- Go open up Discord (Canary) - Make sure to set your theme to light - Go to a text channel in any server where you don't have permission to talk - You'll notice \"You do not have permission to send messages in this channel.\" and it's really hard to read"
+ }
+}

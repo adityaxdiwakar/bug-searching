@@ -1,0 +1,24 @@
+{
+ "id": "5b08d4c61fb69a0d76eb312e",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1472,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sHQbwsZj",
+ "data": {
+  "system_settings": "Asus Zenfone 2 (ZE551ML), Android 6.0.1",
+  "client_settings": "Discord Alpha 6.8.1",
+  "actual_result": "The scrollbar is behind empty spaces made by sticky header.",
+  "expected_result": "The scrollbar keeps on the top, can be seen all time",
+  "short_description": "Sticky headers on member list blocks scrollbar view",
+  "steps_to_repro": "- Be sure to have Discord app version 6.8.1 or above - Open a member list from server that has multiple roles - To make it apparent, make sure the top roles only has few members - Scroll the member list carefully and observe the scrollbar"
+ }
+}

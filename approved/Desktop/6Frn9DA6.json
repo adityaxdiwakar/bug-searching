@@ -1,0 +1,30 @@
+{
+ "id": "5b623648bf11ab73ba532907",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2580,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6Frn9DA6",
+ "data": {
+  "system_settings": "Macbook Air \u2022 macOS Sierra 10.12.6",
+  "client_settings": "Google Chrome Version 68.0.3440.84",
+  "actual_result": "Sometimes you get a 404 error",
+  "expected_result": "Always get redirected to the page",
+  "short_description": "[Website Bug] When you go to the rich presence site via Canary, sometimes you get a 404 error when you click \"Get Started\"",
+  "steps_to_repro": "- Go to https://canary/(dot)discordapp(dot)com/rich-presence - Click on either of the Get Started buttons either in the bottom or the first button on the page - If you weren't able to reproduce, try a few times, it can take a couple of tries"
+ }
+}

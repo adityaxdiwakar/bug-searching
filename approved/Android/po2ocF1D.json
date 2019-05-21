@@ -1,0 +1,30 @@
+{
+ "id": "5b9701e642fe7f3bd6a3cb1d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1966,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/po2ocF1D",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.4.8",
+  "actual_result": "Username goes away",
+  "expected_result": "Username on pfp stays",
+  "short_description": "Username on user pfp in the DM call screen disappears when rotating screen",
+  "steps_to_repro": "- Start a DM voice call - Once you have successfully connected, tap the pfp of the user to reveal the username (see screenshot) - Rotate screen"
+ }
+}

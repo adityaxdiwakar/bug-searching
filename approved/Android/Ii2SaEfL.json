@@ -1,0 +1,16 @@
+{
+ "id": "58f207359273c5386f9d035b",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 374,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ii2SaEfL",
+ "data": {
+  "system_settings": " Android 7.1 and Discord 3.6.5",
+  "actual_result": "Userlist shows users from the most recently visited guild",
+  "expected_result": "List shows users participating in the group DM",
+  "short_description": "User list in Group DM is inaccurate",
+  "steps_to_repro": "- Open or create\u200b a group DM - Open the member list on the right "
+ }
+}

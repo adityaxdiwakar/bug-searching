@@ -1,0 +1,30 @@
+{
+ "id": "5c35f5b49ec8958959b1febc",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3606,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MRtDrUh8",
+ "data": {
+  "system_settings": "Win 7 64bit & Win 10 64bit",
+  "client_settings": "Desktop Build Number: 30418",
+  "actual_result": "Invite blocks keep resolving and 5 out of 15 is not even displayed after it's resolved.",
+  "expected_result": "It was displaying all the 15 invites a few weeks ago, without long resolving times.",
+  "short_description": "10+ invites on text channel causes bug",
+  "steps_to_repro": "- The channel have 15 servers posted on it. - 10 of the invites Will stay grey and keep resolving until 10-20 minutes. - After it is resolved only the first 10 is displayed, the remaining 5 is not visible. - Only the desktop version is affected, it Works fine on both Android and IOS devices. - Around 100 user reported that they have this issue to me. - Installed discord on a fresh WIN10 pc, the issue is still there."
+ }
+}

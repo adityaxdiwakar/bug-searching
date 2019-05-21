@@ -1,0 +1,30 @@
+{
+ "id": "599b533c5e41db30fd571f58",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1025,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nD7BS2kp",
+ "data": {
+  "system_settings": "Windows 7 Ultimate 64 Bits",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "The gif is duplicated with one in the background paused and one moving",
+  "expected_result": "Your gif should be playing normally (or be paused normally)",
+  "short_description": "Propic gifs duplicate if it is partially transparent",
+  "steps_to_repro": "- With a partially transparent gif as profile picture, send EXACTLY one message in any chat - Press up on your keyboard to edit the message - Put your mouse away from the message that you're editing"
+ }
+}

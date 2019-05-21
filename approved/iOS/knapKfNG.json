@@ -1,0 +1,24 @@
+{
+ "id": "59e6c5b27a84165ca470a19a",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 373,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/knapKfNG",
+ "data": {
+  "system_settings": "iPhone 5S running iOS 11.0.3",
+  "client_settings": "iOS Testflight 1.9.3 (1165)",
+  "actual_result": "Discord crashes",
+  "expected_result": "A card with the user info should pop-up",
+  "short_description": "Tapping on a user name in the Discord welcome message crashes the app",
+  "steps_to_repro": "- Have Discord welcome messages turned on - Wait for a user to join - Tap on the name in the message"
+ }
+}

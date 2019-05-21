@@ -1,0 +1,15 @@
+{
+ "id": "5827890a971ae038881ac2d1",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 135,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Q6xRG9tO",
+ "data": {
+  "actual_result": "The channel stays as unread",
+  "expected_result": "The channel is no longer unread when the only message is deleted, or clicking on the channel erases the Unread indicator for it",
+  "short_description": "If the only message is deleted in a new server channel, it sticks as an unread channel for server members despite clicking on it",
+  "steps_to_repro": "- Create a new channel - Send one single message - Delete the said message - Other users on the server who haven't seen that message will be stuck in a permanent Channel Unread state for that channel "
+ }
+}

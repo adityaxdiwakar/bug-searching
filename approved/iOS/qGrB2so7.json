@@ -1,0 +1,17 @@
+{
+ "id": "5c0754179f22d120ce4e5321",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1212,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qGrB2so7",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 12.1",
+  "client_settings": "TestFlight 2.4.0 (9595)",
+  "actual_result": "Entire app crashes bringing you to home screen",
+  "expected_result": "Should bring you to the voice settings menu",
+  "short_description": "App crashes while connected to a voice channel when opening voice settings.",
+  "steps_to_repro": "- Connect to voice channel. - Tap the three dots in the upper right corner - Open voice settings from that menu"
+ }
+}

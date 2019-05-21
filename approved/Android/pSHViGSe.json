@@ -1,0 +1,30 @@
+{
+ "id": "5c2485cbb79812059a923d98",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2402,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pSHViGSe",
+ "data": {
+  "system_settings": "Xiaomi Redmi Note 4 \u00a6 Android 7.0 NRD90M",
+  "client_settings": "Discord 8.2.2",
+  "actual_result": "Discord shows you your friends list",
+  "expected_result": "Discord should show you a 'Oopss... No channels there' screen.",
+  "short_description": "If you enter an empty server (without text and voice channels), discord shows you your friends list",
+  "steps_to_repro": "- Open an empty server."
+ }
+}

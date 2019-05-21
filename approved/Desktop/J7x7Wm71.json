@@ -1,0 +1,30 @@
+{
+ "id": "5a9abe9d3853c15fd21b419f",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1703,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/J7x7Wm71",
+ "data": {
+  "system_settings": "Windows 10 Pro x64bit",
+  "client_settings": "Discord Canary, Build 11491",
+  "actual_result": "Gives error message even if you have your launcher on and you are logged in correctly.",
+  "expected_result": "It connects successfully.",
+  "short_description": "You can not connect LoL accounts to Discord.",
+  "steps_to_repro": "- Turn on League of Legends launcher - Login to your LoL account - Add connection to LoL"
+ }
+}

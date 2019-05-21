@@ -1,0 +1,30 @@
+{
+ "id": "5b6f0d4c55f5d18699b1d065",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2674,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hsaqF8cj",
+ "data": {
+  "system_settings": "MacOS Mojave 18A347e, MacBook Air 2017",
+  "client_settings": "Canary 21681",
+  "actual_result": "You can upload files (The upload fails though)",
+  "expected_result": "The finder shouldn't open",
+  "short_description": "You can upload things in channels where you don't have permission",
+  "steps_to_repro": "- Go to a channel where you can't upload files/can't send messages - Use Shift+Cmd+U - Select any file - Send"
+ }
+}

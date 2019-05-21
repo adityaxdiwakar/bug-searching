@@ -1,0 +1,17 @@
+{
+ "id": "5b4d3f9c4877ca101377005c",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2285,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mQxRNXae",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary 0.0.211 Build 189111",
+  "actual_result": "its large",
+  "expected_result": "It should match the size of your message",
+  "short_description": "Usernames and Timestamps are a lot larger then they should be in chat",
+  "steps_to_repro": "- have chat font scale on a small scale - send a message - observe your username/timestamp is"
+ }
+}

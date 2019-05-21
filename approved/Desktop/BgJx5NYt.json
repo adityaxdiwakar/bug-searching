@@ -1,0 +1,15 @@
+{
+ "id": "5845fc95f324e5ce7774350b",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 217,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/BgJx5NYt",
+ "data": {
+  "actual_result": "nothing happens [ For Shaidan#1040 <125261534774558720> ]",
+  "expected_result": "context menu appears with options to add reaction and pin/edit/delete message",
+  "short_description": "Can't open context menu for messages in web app",
+  "steps_to_repro": "- open discord in chrome - post a message - right-click the message "
+ }
+}

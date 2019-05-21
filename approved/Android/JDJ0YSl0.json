@@ -1,0 +1,30 @@
+{
+ "id": "5b572fff3f60bdc922485fdc",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1672,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JDJ0YSl0",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 712",
+  "actual_result": "It stays in the same colour.",
+  "expected_result": "The box should change colour according to theme.",
+  "short_description": "The limit number doesn't change colour according to theme.",
+  "steps_to_repro": "- Set a user limit to a voice channel. - Long press on the channel's name and observe the box which contains the max limit of the channel. - Switch to light theme. - Long press on the voice channel and observe the box again."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5992fa14936eb5e1883b4a03",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 624,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZCkHcUkh",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 edge (SM-G935F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.0.7 (502)",
+  "actual_result": "You get this message when you tap on your current theme",
+  "expected_result": "You shouldn't get this message unless you actually switch themes",
+  "short_description": "If you tap on your current theme, you get a message saying \"Theme has been updated.\"",
+  "steps_to_repro": "- Go to User Settings > Appearance - Tap on your current theme (Light/Dark) and notice that you get a toast message saying \"Theme has been updated.\""
+ }
+}

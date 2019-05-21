@@ -1,0 +1,24 @@
+{
+ "id": "5b2c2f7c2e4525cc56446995",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 798,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod can reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/K1peV6Xs",
+ "data": {
+  "system_settings": "iPhone X, iOS 12 Beta 2",
+  "client_settings": "TestFlight 2.3.4 (5330)",
+  "actual_result": "The messages get dragged up a little",
+  "expected_result": "Messages should stay still",
+  "short_description": "Swiping left or right in a fast motion drags the messages up",
+  "steps_to_repro": "- Go to any text channel- Click on the channel name. - Click on Pinned Messages- Carefully place your finger on the left side (almost close to the edge, but at least about half of an inch away.)- Swipe right, then try to scroll up and down."
+ }
+}

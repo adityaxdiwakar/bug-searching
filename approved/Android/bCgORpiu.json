@@ -1,0 +1,30 @@
+{
+ "id": "5b710a5cfaad094779320a7a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1829,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bCgORpiu",
+ "data": {
+  "system_settings": "Coolpad Mega 3, 6.0",
+  "client_settings": "Discord Alpha 730",
+  "actual_result": "You are taken to the very first channel of the server.",
+  "expected_result": "You are redirected to the channel of that server.",
+  "short_description": "Instant invites don't redirect you to the channel they were created from.",
+  "steps_to_repro": "- Create invite link a channel. - Paste it elsewhere. - Click on the link (not on the joined button of the embed, clicking which doesn't take you to the channel which is a known bug). - Click on join."
+ }
+}

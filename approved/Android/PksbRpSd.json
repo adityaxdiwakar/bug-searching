@@ -1,0 +1,30 @@
+{
+ "id": "5b80f6ddabc5ef317e1ad43a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1880,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PksbRpSd",
+ "data": {
+  "system_settings": "Google Pixel 2, Android 9.0.0",
+  "client_settings": "Discord Alpha 7.4.0 (740)",
+  "actual_result": "the screen loads longer than normal and no toast appears",
+  "expected_result": "the toast 'Unable to pre-process file' should appear as it does when sending a message or text.",
+  "short_description": "missing toast when sending file to user that has you blocked",
+  "steps_to_repro": "- have a user block you - go to a second party application (such as messages) - share an image/file to discord and attempt to send the file to the user who has you blocked - notice the toast is absent compared to when attempting to send a text or message to said user"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59a1b8cb1456731c494d8520",
+ "closed": false,
+ "idList": "5bce5ef037eb6904d727c502",
+ "idShort": 660,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qRBxacbQ",
+ "data": {
+  "system_settings": "Sony Xperia Z5 Premium, everything default including font.",
+  "client_settings": "Latest alpha branch (26-AUG-2017).",
+  "actual_result": "The `_` is placed before the channel name like `_#testchannel`",
+  "expected_result": "The `_` should be placed on the correct place like in `#test_channel`",
+  "short_description": "Channel name with `_` not displayed properly on android notifications",
+  "steps_to_repro": "- Make a text channel with `_` in the name somewhere (Middle preferred) - get mentioned - see the channel name incorrect in the notifications."
+ }
+}

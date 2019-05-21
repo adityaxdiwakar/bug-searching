@@ -1,0 +1,30 @@
+{
+ "id": "5b6649da54c9280fa4f82bb1",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1784,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rFujYteN",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.6",
+  "actual_result": "The username has the color of the role. This isn't a bad idea tbh but still inconsistent with other platforms",
+  "expected_result": "It should be consistent with Desktop and iOS and display the username as white",
+  "short_description": "Android client is the only client that shows the usernames of welcome system messages in the color of the user's role",
+  "steps_to_repro": "- Enable welcome messages in a server - Have someone join - Assign him a role with a color - Look at the username in the welcome message and compare with Desktop"
+ }
+}

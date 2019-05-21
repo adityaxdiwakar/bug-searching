@@ -1,0 +1,36 @@
+{
+ "id": "59d3c631852a472a6ba2c808",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 351,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pTDCvuhc",
+ "data": {
+  "system_settings": "iPhone 5s, iOS 11.0.1,",
+  "client_settings": "TF 1.9.2 (953)",
+  "actual_result": "The emoji is not added. (Important to note it will only work with some emojis. For example, it\u2019s not working with \ud83d\udea8)",
+  "expected_result": "The emoji will write correctly and all peoples with this emoji in their name will be shown in the preview.",
+  "short_description": "Emojis not writing when trying to mention someone manually",
+  "steps_to_repro": "- Get in a text channel you can write in. - Write a \u00ab\u00a0@ \u00bb. - Add an emoji."
+ }
+}

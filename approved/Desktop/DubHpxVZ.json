@@ -1,0 +1,30 @@
+{
+ "id": "5a47c6ef3ae962ef64fab0bc",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1497,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DubHpxVZ",
+ "data": {
+  "system_settings": "Windows 7 ultimate x64",
+  "client_settings": "Desktop Canary 9070",
+  "actual_result": "It says \"Permissions synced with: {categoryName}\"",
+  "expected_result": "In the top left corner, it should say \"Permissions not synced with: {categoryName}\"",
+  "short_description": "If channel permissions are not synced with category, it will still say they are synced",
+  "steps_to_repro": "- Go to a server where you have a permission to edit channel specific permissions - Have a channel inside a category - Press edit channel on a channel - Go to Permissions submenu - Change some channel permissions to make sure channel and category permissions are not the same - Save changes"
+ }
+}

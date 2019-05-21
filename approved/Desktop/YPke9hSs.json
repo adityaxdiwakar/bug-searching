@@ -1,0 +1,17 @@
+{
+ "id": "593b60402c5a28248d228b24",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 739,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YPke9hSs",
+ "data": {
+  "system_settings": "Windows 10 64bits",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "List is Blank",
+  "expected_result": "Emoji List Opens with list of all server emojis",
+  "short_description": "Emoji List broken/blank",
+  "steps_to_repro": "- Step 1 Open Emoji List"
+ }
+}

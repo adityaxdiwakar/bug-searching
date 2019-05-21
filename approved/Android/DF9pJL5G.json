@@ -1,0 +1,24 @@
+{
+ "id": "5a0810a7def13414dced8960",
+ "closed": false,
+ "idList": "57f581ee03d9a5860ecf0e06",
+ "idShort": 891,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DF9pJL5G",
+ "data": {
+  "system_settings": "OnePlus One (bacon), Android 7.1.2",
+  "client_settings": "Beta 5.6.6",
+  "actual_result": "The app navigates one step back to the user profile you visited before. (However, if you then press back, you are in the correct server)",
+  "expected_result": "The app should navigate back to the chat",
+  "short_description": "When navigating in the user profile, clicking a mutual server does not navigate the activity stack properly.",
+  "steps_to_repro": "- Open user profile for someone and click mutual friends - Click any friend and select mutual servers - Click any server"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59899885a282d1983028a7ce",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 949,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DO3O4MQW",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 build 16257.1 (insider fast ring), Android 8.0.0",
+  "client_settings": "Canary 0.0.163 and Android v4.0.2 (401)",
+  "actual_result": "The desktop client connects to the aforementioned channel",
+  "expected_result": "Mobile discord connects to afforementioned channel",
+  "short_description": "When creating a Discord server using the mobile client whilst the desktop client is running on a computer, the desktop client will auto-connect to the default voice channel",
+  "steps_to_repro": "- Have Mobile Discord and Desktop Discord running - Create a new server on the Mobile Discord - Watch Desktop Discord connect to the default voice channel"
+ }
+}

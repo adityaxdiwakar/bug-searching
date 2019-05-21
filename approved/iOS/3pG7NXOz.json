@@ -1,0 +1,15 @@
+{
+ "id": "581956f3f2609f2e778e5f37",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 59,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3pG7NXOz",
+ "data": {
+  "actual_result": "it hangs sometimes",
+  "expected_result": "The animation does not hang",
+  "short_description": "Manage members page hangs at the animation",
+  "steps_to_repro": "-  Join a big server 10k+ - open members page "
+ }
+}

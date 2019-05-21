@@ -1,0 +1,17 @@
+{
+ "id": "59a67fa4bae7912116778666",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1066,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5Zum3qbD",
+ "data": {
+  "system_settings": "Windows 10 Home, Version 1607",
+  "client_settings": "Canary 0.0.163 Build 3730",
+  "actual_result": "Your nickname does not change in the user sidebar.",
+  "expected_result": "Nickname should change in both the voice chat and user sidebar.",
+  "short_description": "Nickname does not update in user sidebar when changing nick in a voice chat.",
+  "steps_to_repro": "- Change your nickname by either /nick or right clicking yourself."
+ }
+}

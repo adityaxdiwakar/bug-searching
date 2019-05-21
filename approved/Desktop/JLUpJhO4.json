@@ -1,0 +1,16 @@
+{
+ "id": "58c769d0410385bdcbf87ce5",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 423,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JLUpJhO4",
+ "data": {
+  "system_settings": " macOS 10.12.3 Discord Canary",
+  "actual_result": "the results collapse so you only see the top bar",
+  "expected_result": "displays some sort of no results message",
+  "short_description": "discord commands don't display anything when there are no results",
+  "steps_to_repro": "- type a command (such as `/giphy` or `/tenor`) - type for something that leads to no results (spam your keys like`sndhsdnqj`) "
+ }
+}

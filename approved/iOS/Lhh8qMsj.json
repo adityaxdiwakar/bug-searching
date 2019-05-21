@@ -1,0 +1,17 @@
+{
+ "id": "5bba2aae41232587fa662b65",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1070,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Lhh8qMsj",
+ "data": {
+  "system_settings": "iPhone XS Max, running iOS 12.",
+  "client_settings": "iOS TestFlight 2.3.9 (8085)",
+  "actual_result": "It overlaps slightly on the last member, which can be difficult to select.",
+  "expected_result": "There should be some spacing between the final person in the friends list and the bottom bar. It is not supposed to overlap any options.",
+  "short_description": "Bottom bar overlaps the last member slightly in adding friends to group DMs [iPhone X / XS / XS Max specific ]",
+  "steps_to_repro": "- Go to your Friends List - Click on Create Group DMs. - Scroll all of the way down to the bottom."
+ }
+}

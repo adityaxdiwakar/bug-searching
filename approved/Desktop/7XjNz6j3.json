@@ -1,0 +1,16 @@
+{
+ "id": "591193a7edf14e89ff815bb1",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 618,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7XjNz6j3",
+ "data": {
+  "system_settings": " Win 10 x64, discord canary",
+  "actual_result": "`&amp;`, `&lt;` and `&gt;` in the message",
+  "expected_result": "Verbatim `&`, `<` or `>` in the message",
+  "short_description": "HTML entities from Slack-compatible webhooks not translated according to the spec at <https://api.slack.com/docs/message-formatting>",
+  "steps_to_repro": "- Set up a webhook and add it to a Slack app (in this instance I used Bamboo) - Trigger a message on the webhook containing `&`, `<` or `>` "
+ }
+}

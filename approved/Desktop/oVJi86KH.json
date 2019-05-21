@@ -1,0 +1,17 @@
+{
+ "id": "595145e08a50cb2fb9c3e7c2",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 786,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/oVJi86KH",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Creators Update (1703)",
+  "client_settings": "Canary 0.0.157 (1799)",
+  "actual_result": "You can't select any text and nobody gets to hear our anthem :\u00ad(",
+  "expected_result": "You can select the text, copy it and spread it across all servers",
+  "short_description": "Can't select text in channel topic",
+  "steps_to_repro": "- Go to a channel with a channel topic (#\u00adbug-hunter-general for instance) - Try to select and copy our amazing anthem"
+ }
+}

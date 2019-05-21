@@ -1,0 +1,15 @@
+{
+ "id": "583ea268a2ac1823cc385a4b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 186,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4Fzv58b4",
+ "data": {
+  "actual_result": "The client freezes up and must be closed via task manager",
+  "expected_result": "Nothing, really. The link is dragged, maybe it puts the link in chat for you?",
+  "short_description": "Dragging links posted in a message overloads the unsupported file type dialog box and causes the client to completely freeze up",
+  "steps_to_repro": "- Step 1: Post a link in chat - Drag that link around for a bit -  Release your drag. "
+ }
+}

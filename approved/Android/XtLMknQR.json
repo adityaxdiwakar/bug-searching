@@ -1,0 +1,36 @@
+{
+ "id": "5a0e2c27ecc2ee3d6906654e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 904,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XtLMknQR",
+ "data": {
+  "system_settings": "LG X Power, Android 6.0.1. Marshmallow",
+  "client_settings": "Android Alpha v 5.6.9.",
+  "actual_result": "The Image doesn't preview, No error code is given, and a sad Discord logo appears (literally)",
+  "expected_result": "The Image should preview.",
+  "short_description": "Previewing Twitter Embeded Pictures doesn't load",
+  "steps_to_repro": "- Find or paste a Twitter post WITH a Picture. - Tap on the Image - Profit? I guess?"
+ }
+}

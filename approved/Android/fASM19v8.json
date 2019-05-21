@@ -1,0 +1,30 @@
+{
+ "id": "5bbf9a016bfe8043977df12d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2151,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fASM19v8",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Alpha 7.6.8",
+  "actual_result": "Its very off.",
+  "expected_result": "Badges tab should be smaller and less spaced between badges like previous versions.",
+  "short_description": "Spacing of the badges in 7.6.8 is very off.",
+  "steps_to_repro": "- Update to 7.6.8 - Check the spacing."
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58f5a62e3d9906f057c4e3c3",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 386,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/itZx5jCA",
+ "data": {
+  "system_settings": " Discord 3.6.7 Android 5.1",
+  "actual_result": "image downloads and asks for perm or open it",
+  "expected_result": "image opens in browser or asks for perm to open in chrome",
+  "short_description": "opening in chrome option downloads image",
+  "steps_to_repro": "- open a image - click open in browser - observe your notify bar "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59d52cca7da035126d9d5eac",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 782,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bI6MknAA",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Android Alpha 5.2.7",
+  "actual_result": "Switching channels will exit Edit mode but without clearing the textbox, letting you the ability to send a copy of your message in the other channel you switched to",
+  "expected_result": "It should either exit the Edit mode and therefore clear the textbox (exactly like if you pressed the Cancel button when editing the message) , or it should take you off the ability to switch between channels",
+  "short_description": "When editing a message, you can send a copy of it in another channel instead",
+  "steps_to_repro": "- Make sure you have the \"Store unsent text per channel\" option **disabled** in your settings - Go to a server where you have `SEND_MESSAGES` permission on at least 2 channels - Pick one of those channels, write a message and send it - Long press the message and press `Edit` - While you're still in Edit mode, switch to another channel where you can send messages"
+ }
+}

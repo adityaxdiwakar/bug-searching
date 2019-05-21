@@ -1,0 +1,16 @@
+{
+ "id": "587a27fac423a310463ade0c",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 330,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kJi1OvZx",
+ "data": {
+  "system_settings": " Windows 10 Pro x64 Anniversary Update, Canary build 17316",
+  "actual_result": "Once you open the channel settings the page defaults to its permissions, even if you don't have the Manage Roles permission",
+  "expected_result": "You can't view the channel permissions",
+  "short_description": "Channel permissions can be viewed without having the permission to do so",
+  "steps_to_repro": "- Go into a server where you have both Manage Roles and Manage Channels permissions - Go to a channel's permissions - Now click out of it and go to a different server where you only have the Manage Channels permissions, but not Manage Roles - Go to a channel's settings in that server - See what happens "
+ }
+}

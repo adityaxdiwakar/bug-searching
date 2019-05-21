@@ -1,0 +1,15 @@
+{
+ "id": "58408407933b7df84e35f0a8",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 188,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Pxei5bCe",
+ "data": {
+  "actual_result": "everyone but me is in the voice chat",
+  "expected_result": "i appear in the list of users in voice channel -",
+  "short_description": "when in voice on mobile I don't show up on the list on desktop",
+  "steps_to_repro": "- 1. join voice channel on mobile - 2. check on dekstop - "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b50b421124befb7e7aeab56",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1659,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lzoAjrwE",
+ "data": {
+  "system_settings": "Coolpad Mega 3, Android 6.1",
+  "client_settings": "Discord Alpha 7.0.8",
+  "actual_result": "It shows only half of letter 'N'. This only seems to happen on small screened devices.",
+  "expected_result": "It should either show it as my full name (i.e. PLAYERUNKNOWN) or a part of it followed by 3 dots (i.e. PLAYERUN...).",
+  "short_description": "Having long names as mine, shows only half letters in the place where your name is.",
+  "steps_to_repro": "- Have a long name as mine. - Open the channel drawer. - Observe the place where your name is."
+ }
+}

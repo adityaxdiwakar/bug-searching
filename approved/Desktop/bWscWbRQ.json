@@ -1,0 +1,30 @@
+{
+ "id": "5ab626404d61a8cf6dea7a7e",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1755,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bWscWbRQ",
+ "data": {
+  "system_settings": "Win 10 x64, Firefox 59.0.1 (64-bit)",
+  "client_settings": "Release Channel: stable, Build Number: 12452, Version Hash: 351b0950c77c3848ba9a51c69630c77713148e8b",
+  "actual_result": "You dont hear the guy who is talking with the desktop app.",
+  "expected_result": "You should listen the guy who is talking with the desktop app",
+  "short_description": "I cant hear when other people talk when Im using Mozilla Firefox",
+  "steps_to_repro": "- Open Mozilla Firefox - Login in  - Join any Discord Voice Channel - Tell your friend/connect with other account and talk with this other account (using the desktop app)"
+ }
+}

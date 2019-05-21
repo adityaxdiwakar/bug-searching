@@ -1,0 +1,30 @@
+{
+ "id": "5be7d10062070317684dcbf2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2310,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jZ26MNK1",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.8.8",
+  "actual_result": "The button highlights like it's still an available option to press.",
+  "expected_result": "It shouldn't highlight, because once you send the invite, the action is irreversible, making the button no longer an option to press.",
+  "short_description": "\"Sent\" button highlights in the new invite model, after you send an invite.",
+  "steps_to_repro": "- Open up the new invite model. - Send an invite to someone. - After you send, it should say \"Sent\". Long-hold the button."
+ }
+}

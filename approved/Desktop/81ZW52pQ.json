@@ -1,0 +1,17 @@
+{
+ "id": "5b511df66d553d73f033e14d",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2337,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/81ZW52pQ",
+ "data": {
+  "system_settings": "windows 10 home x64 v1803",
+  "client_settings": "canary 19237",
+  "actual_result": "little to no spacing",
+  "expected_result": "there should be spacing like stable",
+  "short_description": "Messages that mention you have their reactions pushed up",
+  "steps_to_repro": "- Mention yourself - add a reaction - observe"
+ }
+}

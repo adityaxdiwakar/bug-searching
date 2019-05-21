@@ -1,0 +1,16 @@
+{
+ "id": "58b3c6c953d5d1e4e8acf5f3",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 262,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/onHpIKLk",
+ "data": {
+  "system_settings": " Android 5.1 Discord 3.3.9",
+  "actual_result": "you do",
+  "expected_result": "you don't receive tag",
+  "short_description": "a blocked user who tags you, you still get the notification",
+  "steps_to_repro": "- have blocked user tag you in a channel your not looking in - observer Channel drawer button "
+ }
+}

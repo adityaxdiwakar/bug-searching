@@ -1,0 +1,36 @@
+{
+ "id": "5a4a312f0b60f5f64ea062f1",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 474,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a5e61490661fc1c89f71a0a",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UFMYfb3U",
+ "data": {
+  "system_settings": "iPhone 5c, iOS 10.3.3",
+  "client_settings": "Discord 2.1.2",
+  "actual_result": "The emoji list goes up and down (or down and up) every time you move the editing mark in the word, and if you move the editing mark out of the `:` and back to the word, the emoji list will no longer appear until you exit out of editing mode.",
+  "expected_result": "You would then move the editing mark around the word normally.",
+  "short_description": "The emoji list keeps going up and down while editing.",
+  "steps_to_repro": "- Type `:` and a character, the emoji list should then appear - Continue typing characters that matches one of the (custom) emoji's name (but don't type the whole name) - Don't type the second `:`, instead double-tap the word after the `:`. You will then be in editing mode - Move the editing mark around the word next to the `:`"
+ }
+}

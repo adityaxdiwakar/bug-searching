@@ -1,0 +1,30 @@
+{
+ "id": "5af845afeecf023732d03db0",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 745,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0FjSP0Oo",
+ "data": {
+  "system_settings": "iPhone7; IOS 11.4 PublicBeta",
+  "client_settings": "TF 2.3.2 (4353)",
+  "actual_result": "large break between text and button",
+  "expected_result": "the windows look nice without a large break between the text and the button",
+  "short_description": "large break between text and button in the outage windows",
+  "steps_to_repro": "- make sure there is a server that is out - click on that icon with a ! in it"
+ }
+}

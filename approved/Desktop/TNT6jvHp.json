@@ -1,0 +1,17 @@
+{
+ "id": "5bcecda99ec9e3497eba20d5",
+ "closed": false,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 3271,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/TNT6jvHp",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Canary 25872",
+  "actual_result": "When you click cancel, you go back to the $49.99 plan for a second, but it automatically reverts back to the $99.99 plan.",
+  "expected_result": "It should cancel the plan and automatically resub to the $49.99.",
+  "short_description": "You cannot cancel $99.99 plan back to $49.99 plan.",
+  "steps_to_repro": "- Have the $99.99 nitro plan. - Attempt to cancel the plan. It should say it will revert back to $49.99 and your payment will be conducted at the yearly rate."
+ }
+}

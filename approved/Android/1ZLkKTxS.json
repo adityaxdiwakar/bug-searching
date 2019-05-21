@@ -1,0 +1,30 @@
+{
+ "id": "5bbef6af12be953d3a409036",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2145,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1ZLkKTxS",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 767",
+  "actual_result": "You are no more asked that now.",
+  "expected_result": "After you click on register for the second time (after inputting everything), you are asked if you have an invite.",
+  "short_description": "When you create a new account, you are no more asked if you have an invite for better experience.",
+  "steps_to_repro": "- Logout. - Click on register and create a new account."
+ }
+}

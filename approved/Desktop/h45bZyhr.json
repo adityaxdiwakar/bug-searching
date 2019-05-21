@@ -1,0 +1,16 @@
+{
+ "id": "58f8cbb72d0cea62bf85c8af",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 506,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/h45bZyhr",
+ "data": {
+  "system_settings": " Windows 8.1, Canary 0.153",
+  "actual_result": "It doesn't let you save, or let you exit, until you click reset",
+  "expected_result": "Your changes save, and everything is hunky dory",
+  "short_description": "Changing Voice Region Save Module",
+  "steps_to_repro": "- Change your Voice Region to another region - Change it back to the original region - Press save changes "
+ }
+}

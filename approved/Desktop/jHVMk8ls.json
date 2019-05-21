@@ -1,0 +1,17 @@
+{
+ "id": "5b4fbb210f83259d73623db2",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2314,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/jHVMk8ls",
+ "data": {
+  "system_settings": "Fedora 28 with KDE on kernel",
+  "client_settings": "Discord Canary 19105",
+  "actual_result": "Looks like the text around it",
+  "expected_result": "Should look like a standard mention",
+  "short_description": "Mentions aren't highlighted properly in channel topics",
+  "steps_to_repro": "- Have a channel that has a mention of any kind in its topic, via preexisting or editing the topic"
+ }
+}

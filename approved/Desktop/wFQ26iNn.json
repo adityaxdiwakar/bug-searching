@@ -1,0 +1,17 @@
+{
+ "id": "5b5dcb0a1b04e6a32e5ea800",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2493,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wFQ26iNn",
+ "data": {
+  "system_settings": "MacBook Air Early 2015, macOS High Sierra 10.13.4",
+  "client_settings": "Discord Canary 0.0.193, Build Number: 20174.",
+  "actual_result": "The grey line disappears",
+  "expected_result": "The grey line stays visible consistently",
+  "short_description": "The small grey separation line between the text area and the insert button disappears at certain zoom levels",
+  "steps_to_repro": "- Start Discord on 100% zoom - Zoom in and out, observing the tiny grey line especially at 90% and 75% zoom."
+ }
+}

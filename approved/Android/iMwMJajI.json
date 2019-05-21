@@ -1,0 +1,30 @@
+{
+ "id": "5baf889976773e6e9e14caba",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2069,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iMwMJajI",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 757",
+  "actual_result": "The toast appears twice.",
+  "expected_result": "The invalid code toast appears just once.",
+  "short_description": "When you enter the wrong code when verifying your phone, the invalid code toast appears 2 times.",
+  "steps_to_repro": "- Join a server with the 5th level of verification on an account that is not verified. - Click on verify your phone. - Enter your phone number and click on next. - Type in the wrong code."
+ }
+}

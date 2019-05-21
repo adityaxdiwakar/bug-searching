@@ -1,0 +1,24 @@
+{
+ "id": "599f7393b3ca7bd84839b8cb",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1042,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9Sq4NIBH",
+ "data": {
+  "system_settings": "Windows 10 Home 64-Bit, Razer Blade Stealth",
+  "client_settings": "Desktop Canary 0.0.163",
+  "actual_result": "The Copy Link won't change, even when you click 'Set this link to never expire' over and over again. Also notice that even if you exit and return back to the Invite Link, the link will STILL NOT CHANGE.",
+  "expected_result": "Link is suppose to change every time you click. Temporary code stays temporary. Permanent link stays Permanent",
+  "short_description": "Excessive clicking of \"set this link to never expire\" when inviting people to server makes temporary link static in copy box.",
+  "steps_to_repro": "- Go to the server drop down menu @ top - Click 'Invite People' - Note what the current temporary link code is - Click 'Set this link to never expire' over and over again. About 10 times."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59b51b9ac2e1c982d1217926",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 698,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UrOBsEQ7",
+ "data": {
+  "system_settings": "LG G Stylo, Android 6.0.1",
+  "client_settings": "Android Alpha 5.1.4",
+  "actual_result": "The bottom most category is too close to the user bar and there is no padding between the user bar and category area",
+  "expected_result": "The channel list should show up with some space/padding between the user bar and channel category",
+  "short_description": "there is no padding between the user bar and the bottom most collapsed channel category",
+  "steps_to_repro": "- Go to a channel with categories enabled - Collapse the bottom most category - Scroll down to the bottom of the channel list"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5af56c5e1b04920350cad01a",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 739,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VvnuNBps",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.3.1 & iPad Air 2, iOS 11.4 PB 3",
+  "client_settings": "TestFlight 2.3.2 (4331)",
+  "actual_result": "The normal message menu just appears.",
+  "expected_result": "The link popup should appear and give you the option to copy, share and open the link.",
+  "short_description": "Copy link option missing for blocked messages",
+  "steps_to_repro": "- Block any user or bot - Find a message from this blocked bot or user that contains a link - Hold the link to copy it"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58faa117fe1ae11297fad622",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 398,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ItPWWRUq",
+ "data": {
+  "system_settings": " Android 5.1 Discord 3.7.0",
+  "actual_result": "they stay",
+  "expected_result": "the emojis that doesn't have the same characters should disappear",
+  "short_description": "frequently used Emojis don't disappear when searching for something that isn't it's name",
+  "steps_to_repro": "- open Emoji Picker - click the emoji picker search - look up an emoji "
+ }
+}

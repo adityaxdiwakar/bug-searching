@@ -1,0 +1,15 @@
+{
+ "id": "5830c40780f64f90ce1ca43c",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 160,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cSFGRTvg",
+ "data": {
+  "actual_result": "Message appears in recent mentions with reactions shown (XIV_)",
+  "expected_result": "Message appears in recent mentions without reactions shown",
+  "short_description": "Reactions settings not properly applied in recent mentions",
+  "steps_to_repro": "- Disable reactions in client settings - Get mentioned in a message - Have someone react to that message - Check your recent mentions "
+ }
+}

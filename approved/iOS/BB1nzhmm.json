@@ -1,0 +1,30 @@
+{
+ "id": "5a62a17d28dcf0f5f485d5d7",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 524,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BB1nzhmm",
+ "data": {
+  "system_settings": "iPad Mini 2, iOS 11.2.2",
+  "client_settings": "iOS Testflight 2.2.1 (2202)",
+  "actual_result": "The voice channel is joined and it acts as if no audio is going through the microphone.",
+  "expected_result": "The app should notify the user that they have denied microphone permissions and need to grant it to use voice channels.",
+  "short_description": "When microphone permissions are denied voice channels continue to work without a prompt to grant mic permissions.",
+  "steps_to_repro": "- Disable the microphone permission in settings - Join a voice channel"
+ }
+}

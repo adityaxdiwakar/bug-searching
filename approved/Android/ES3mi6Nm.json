@@ -1,0 +1,17 @@
+{
+ "id": "5b81099473c65c37e2cf3024",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1881,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ES3mi6Nm",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 740",
+  "actual_result": "You are able to interact with the screen behind the loading animation. This happens even with server creation screen.",
+  "expected_result": "You shouldn't be able to interact with the screen behind.",
+  "short_description": "You can interact with the screen behind in the share screen while it's loading.",
+  "steps_to_repro": "- Share an image from your gallery to Discord. - In the share screen, select any channel and hit send. - While the loading animation plays, try to interact with the screen behind the animation."
+ }
+}

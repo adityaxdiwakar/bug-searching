@@ -1,0 +1,30 @@
+{
+ "id": "5a9834169d573ec2d938db09",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1154,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wWL22iD8",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.9",
+  "actual_result": "Keyboard pops up",
+  "expected_result": "Nothing should happen",
+  "short_description": "Rotating the screen in a channel you can't type in will partially unlock the textbox",
+  "steps_to_repro": "- Go to a channel you can't send messages in (e.g a rules channel)  - Rotate screen - Tap the textfield"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5babd4f4a8e89d4e0565b68d",
+ "closed": true,
+ "idList": "5952c5a696b4349f964d3cbd",
+ "idShort": 3044,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fAEWnTg9",
+ "data": {
+  "system_settings": "Windows 10 64x (1803)",
+  "client_settings": "Canary 24683 (0.0.212)",
+  "actual_result": "blocked messages are full opacity and get cut if window is too short.",
+  "expected_result": "blocked messages should go slightly transparent similar to images / other embeds",
+  "short_description": "[Overlay] blocked messages don't go transparent when in game on a pinned chat",
+  "steps_to_repro": "- Open overlay, go to a blocked message- Pin chat to show while in game - Close overlay"
+ }
+}

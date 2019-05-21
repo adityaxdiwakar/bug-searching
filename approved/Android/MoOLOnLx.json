@@ -1,0 +1,30 @@
+{
+ "id": "5a9207dda84efd837c2a8a0e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1143,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MoOLOnLx",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.8",
+  "actual_result": "Submit button is present but nothing happens when you press on it",
+  "expected_result": "Either you shouldn't be able to search for a space and then the submit button shouldn't pop up until you type actual text, or the submit button should do its job",
+  "short_description": "When the search bar is only filled with spaces, the submit button pops up but does nothing on press",
+  "steps_to_repro": "- Go to any channel - Tap Search - Ensure the search bar is empty - Press Space on you keyboard"
+ }
+}

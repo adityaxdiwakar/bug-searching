@@ -1,0 +1,30 @@
+{
+ "id": "5c0a69de1bc49b8aeb2eb397",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2378,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Uto8smp3",
+ "data": {
+  "system_settings": "Lenovo Vibe C, Android 5.1.1",
+  "client_settings": "Alpha 8.1.0",
+  "actual_result": "Text shakes every time you add a symbol",
+  "expected_result": "Text is static",
+  "short_description": "Message box shakes when typing",
+  "steps_to_repro": "- Type any emoji - Type some text(do not start the 2nd line) - Start next line using Enter - Type : - Type any text"
+ }
+}

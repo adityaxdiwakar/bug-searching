@@ -1,0 +1,30 @@
+{
+ "id": "5a31c1cc5bc90b338832c447",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 450,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qiVOvmIN",
+ "data": {
+  "system_settings": "iPhone 8+ iOS 11.2 (15C114)",
+  "client_settings": "Discord TestFlight 2.2.0 (1910)",
+  "actual_result": "It does not do so, and you get louder and louder hoping the Discord elves one day hear your pleas",
+  "expected_result": "The bar lights up green to indicate that Discord can hear you, as happens when you disable voice activity and observe the test window",
+  "short_description": "Voice Activity test bar in User Settings does not work",
+  "steps_to_repro": "- Go to User Settings -> Voice - Ensure Voice activity is enabled and all of the correct microphone permissions are enabled - Try speaking"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58fa0b4661e307facae459df",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 533,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/quFQGA4k",
+ "data": {
+  "system_settings": " Windows 10 Ultimate x64, latest Desktop Canary as of writing",
+  "actual_result": "Right-click \"add reactions\" option on alert pins",
+  "expected_result": "No \"add reactions\" right-click option on alert pins, Andy mentioned this should be fixed on the desktop-level.",
+  "short_description": "Right-Click \"Add Reaction\" on alert pins should be removed as they actually show up on Android (possibly iOS)",
+  "steps_to_repro": "- Right-click a \"pinned a message to this channel\" alert and add a reaction to it - Check the pin alert on an Android device (possible iOS) - There are reactions showing up. "
+ }
+}

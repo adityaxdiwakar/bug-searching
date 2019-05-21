@@ -1,0 +1,24 @@
+{
+ "id": "5c0069f899d3511ca93dcf62",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1190,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xebJZtcZ",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1.1, Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "Navigation bar overlaps various UI elements",
+  "expected_result": "Navigation bar does not overlap various UI elements",
+  "short_description": "[MASTER TICKET - iPhone X Devices] Through the application the navigation bar overlaps various elements of the UI",
+  "steps_to_repro": "- View any of these locations: - Last person in friends list - Bottom user in list of reactions to a message - Push-to-talk button in DM voice call - Button to change email while email verification is requested - Button linking to support when phone verification required - Join server button when invited to a server (and button to close when the invite is expired) - Server privacy settings - List of channels in server settings > channels - Bottom language in user settings - Quick switcher error text cut off - Top buttons on full user profiles are positioned incorrectly with and without notes opened - Last message in search results with only one page - Set status menu - Mini profiles - Bottom pinned message - Filter recent mentions menu - Share invite button - Filtering by role in member list - Last result in quick switcher with keyboard closed - Last user in member list - Last member in banned users list - Last user when adding users to group DMs - Role colour menu - Bottom role in server settings > roles - Bottom invite in server settings > invites"
+ }
+}

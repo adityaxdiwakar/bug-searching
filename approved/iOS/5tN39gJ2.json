@@ -1,0 +1,24 @@
+{
+ "id": "5c0cc343072b7e5cc4185897",
+ "closed": false,
+ "idList": "5c082c6e851e73786a479414",
+ "idShort": 1223,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5tN39gJ2",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9648)",
+  "actual_result": "In-app notification doesn\u2019t ellipse if the last character in the third line is a line break",
+  "expected_result": "In-app notification ellipses when the text extends past a third line",
+  "short_description": "In-app notifications don\u2019t ellipse if there\u2019s a linebreak at the end of the third row",
+  "steps_to_repro": "- Have a person send you a DM where the third line ends in a line break - Example: \u201cNot if you tell your boss \u2018no u\u2019 Then they\u2019re fired, and you take their job Not if you tell your boss \u2018no u\u2019 Then they\u2019re fired, and you take their job\u201d with linebreaks before each \u201cThen\u201d - Observe if the in-app notification ellipses-  Have the same person DM you that message, but change the line breaks to spaces - Observe the in-app notification again for any ellipses"
+ }
+}

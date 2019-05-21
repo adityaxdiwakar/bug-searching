@@ -1,0 +1,30 @@
+{
+ "id": "5ae8d0d61f4b9d071e432baa",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1912,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3WgxAA57",
+ "data": {
+  "system_settings": "Windows 7, 64bit, German, Ryzen 1800X",
+  "client_settings": "Stable, Build Number: 14308",
+  "actual_result": "Discord reappears not maximized, shrunk down to minimal window size and places itself on the top border of the screen. Should the taskbar be placed on the top too, it disregards the taskbar as window border and clips behind it. The user has to resize the window to make Windows notice that and pushing the window back into the usable screen. This does not happen when the window has been moved while not maximized though, then it only does not maximize again.",
+  "expected_result": "Discord should reappear again, still maximized (clicking on the taskbar icon to pull it back up does so).",
+  "short_description": "A maximized Discord window switches to minimal resolution and moves to the top of the screen when minimzed to taskbar and reopened by tray icon, clipping behind a top-placed taskbar.",
+  "steps_to_repro": "- Place your taskbar to the top of the screen (windows relogin may be needed to trigger the taskbar clipping). - Maximize Discord and minimize it to taskbar afterwards. - Click onto the Tray icon (not the taskbar one) to bring it back up."
+ }
+}

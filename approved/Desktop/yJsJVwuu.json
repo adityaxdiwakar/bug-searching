@@ -1,0 +1,24 @@
+{
+ "id": "59a773ec2e9e10d7bbcdb054",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1069,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yJsJVwuu",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6 (16G29) (iMac Retina 5K, 27-inch, Late 2017)",
+  "client_settings": "Discord Canary 0.0.154 (Build 3788)",
+  "actual_result": "it says \"Create Channel\"",
+  "expected_result": "It says \"Create Category\" or something similar",
+  "short_description": "The button in the create category dialog box says \"Create Channel\"",
+  "steps_to_repro": "- Go to a server you own/are admin on - Right click on the empty space below the channels - Click \"Create Category\" - Look at the blurple button in the dialog box"
+ }
+}

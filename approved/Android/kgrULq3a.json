@@ -1,0 +1,16 @@
+{
+ "id": "58f133d19eb6f265b6455f93",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 368,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kgrULq3a",
+ "data": {
+  "system_settings": " Android 7.1.1 Discord 3.6.5",
+  "actual_result": "Only able be able to remove the Vanity URL",
+  "expected_result": "Be able to edit or remove the Vanity URL",
+  "short_description": "Can't edit vanity URL, only remove",
+  "steps_to_repro": "- Have Admin permisions on, or be Owner of, a Partnered Server - Open the Server settings - Click on the \"Vanity URL\" option "
+ }
+}

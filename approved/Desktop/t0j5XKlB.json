@@ -1,0 +1,15 @@
+{
+ "id": "583c849fef07c0d50cfcc668",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 182,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/t0j5XKlB",
+ "data": {
+  "actual_result": "Invite shown as expired, immediately after sent. [Submitted for austinhuang#1076]",
+  "expected_result": "Invite shown as valid;",
+  "short_description": "Just-created invites and old still-valid invites of my own server goes expire on my device (PC Canary)",
+  "steps_to_repro": "- Step 1 Make an invite from a channel of my server, regardless of options - Step 2 Copy it and paste it somewhere and send it "
+ }
+}

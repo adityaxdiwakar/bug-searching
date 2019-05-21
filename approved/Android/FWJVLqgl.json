@@ -1,0 +1,17 @@
+{
+ "id": "59c7d37b6d74bd7875a0356f",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 764,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FWJVLqgl",
+ "data": {
+  "system_settings": "LG Nexus 5x, 8.0.0 Oreo",
+  "client_settings": "Discord Alpha 5.2.6",
+  "actual_result": "There are no channels to choose from",
+  "expected_result": "It says select a channel and you can choose a channel to move the player in",
+  "short_description": "Can't move people to other voice channels",
+  "steps_to_repro": "- Join a voice channel - Click on someone's profile - Click on \"move to\""
+ }
+}

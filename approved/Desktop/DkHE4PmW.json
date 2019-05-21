@@ -1,0 +1,24 @@
+{
+ "id": "59ab8af76660a31afa71599f",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1079,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DkHE4PmW",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Creators Update (1703)",
+  "client_settings": "Canary 0.0.163 (build 3826)",
+  "actual_result": "the context menu stays open",
+  "expected_result": "the context menu closes",
+  "short_description": "Context menu stays after clicking Focus participant in a video call",
+  "steps_to_repro": "- Reload Discord to get on the latest build - Create a group with friends - Have someone or yourself either screen share or video call - Right click on any member in the call screen and click Focus participant"
+ }
+}

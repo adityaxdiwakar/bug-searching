@@ -1,0 +1,17 @@
+{
+ "id": "5b526c1028199f90b9788c48",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2371,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JosicZnh",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 19322",
+  "actual_result": "It just comes in with no animation",
+  "expected_result": "It's supposed to like pop in, like in previous builds",
+  "short_description": "Adding a reaction, has lost it's animation",
+  "steps_to_repro": "- Have a message - Add a reaction to it"
+ }
+}

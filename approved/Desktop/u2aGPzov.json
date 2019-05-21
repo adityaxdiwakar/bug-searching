@@ -1,0 +1,30 @@
+{
+ "id": "5b28ddfef5d4ddf2f6497b88",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2156,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/u2aGPzov",
+ "data": {
+  "system_settings": "MacBook Air Early 2015, MacOS High Sierra 10.13.4",
+  "client_settings": "Discord Canary 0.0.193, Build Number: 17191.",
+  "actual_result": "Discord greys out mostly, if not completely greyed out, with most things disabled. You can navigate through the quickswitcher",
+  "expected_result": "You see the ping you were sent and cringe as its a random @ everyone.",
+  "short_description": "[macOS SPECIFIC] Clicking a notification whilst watching a linked twitter video embed in fullscreen will DESTROY the client.",
+  "steps_to_repro": "- Open a twitter video embed from a twitter link into fullscreen - Have someone ping you in another channel or DM - Click the notification - Mess with your client"
+ }
+}

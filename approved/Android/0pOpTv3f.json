@@ -1,0 +1,17 @@
+{
+ "id": "5af2f8ff74a2c8077f7e3cd4",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1390,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0pOpTv3f",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 663",
+  "actual_result": "it doesn't update till restarted",
+  "expected_result": "displayed roles should update",
+  "short_description": "When someone's roles is updated and change discord doesn't update, Lazy Guild Only",
+  "steps_to_repro": "- have a bot or someone else remove then add someone's role - have them chat in a room - hold down on their profile and observe"
+ }
+}

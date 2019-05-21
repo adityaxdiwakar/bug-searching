@@ -1,0 +1,23 @@
+{
+ "id": "584897e42d6c0505f61d249b",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 224,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3YhZWHoV",
+ "data": {
+  "system_settings": " Win10 x64 Canary",
+  "actual_result": "Link can't be clicked but does imbed",
+  "expected_result": "Link is unclickable & doesnt embed OR Link is clickable & embeds",
+  "short_description": "Posting a link with a : before it makes the link unclickable but still embed.",
+  "steps_to_repro": "- Get a link of any sort - Put a : (colon) infront of it "
+ }
+}

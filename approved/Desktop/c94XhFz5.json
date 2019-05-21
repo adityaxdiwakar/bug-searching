@@ -1,0 +1,30 @@
+{
+ "id": "5b0f6544adb338a4faed97f5",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2068,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c94XhFz5",
+ "data": {
+  "system_settings": "Arch Linux, cinnamon, GDM",
+  "client_settings": "Discord canary (build 16275)",
+  "actual_result": "You are unbannable and the group DM must be recreated to get rid of you",
+  "expected_result": "A ban function would allow you to permanently ban an account from a group DM",
+  "short_description": "impossible to permanently remove someone from a group DM in canary",
+  "steps_to_repro": "- Create a group DM - Join the group DM in canary - Copy the link - Get kicked out - -Use the link to rejoin"
+ }
+}

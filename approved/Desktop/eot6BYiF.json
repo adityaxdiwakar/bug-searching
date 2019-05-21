@@ -1,0 +1,17 @@
+{
+ "id": "5b51184652d93242f9fc46d1",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2336,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/eot6BYiF",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (19237)",
+  "actual_result": "They are blurry. :<",
+  "expected_result": "They shouldn't be blurry",
+  "short_description": "Custom emojis are blurrier on build 19237 on 90 font/100 zoom",
+  "steps_to_repro": "- Change your appearance to 90 font and 100 zoom - Post an emoji - Compare it to Stable that has the same appearance settings"
+ }
+}

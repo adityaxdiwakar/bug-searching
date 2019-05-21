@@ -1,0 +1,17 @@
+{
+ "id": "5b522542a21de2375a1aa53e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1664,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bDmSi4OL",
+ "data": {
+  "system_settings": "Samsung Galaxy S6",
+  "client_settings": "Discord Beta 7.1",
+  "actual_result": "Gives me an error that the app crashed",
+  "expected_result": "Open the app when you click on the app",
+  "short_description": "Version 7.1 does not open and crashes.",
+  "steps_to_repro": ""
+ }
+}

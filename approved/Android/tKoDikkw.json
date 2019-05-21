@@ -1,0 +1,30 @@
+{
+ "id": "5ac52a6c5dcbde80050439ab",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1246,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tKoDikkw",
+ "data": {
+  "system_settings": "Xiaomi Redmi Note 4, MIUI 9.5",
+  "client_settings": "Discord alpha 6.4.6 (was on 6.4.5 too)",
+  "actual_result": "The file don't upload and the white bar stay loading",
+  "expected_result": "The upload is aborted or the file stay uploading with a working bar",
+  "short_description": "White bar remains with send to feature",
+  "steps_to_repro": "- Select a picture in your gallery - press share button to share it to discord - press back button on your phone to abort the upload (Make sure the file isn't already uploaded )"
+ }
+}

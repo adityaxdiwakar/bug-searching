@@ -1,0 +1,17 @@
+{
+ "id": "597344a97dc92d6f2070df69",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 571,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/lSdHwu3a",
+ "data": {
+  "system_settings": "Android 5.1",
+  "client_settings": "Discord 4.0.0",
+  "actual_result": "ability to speak without needing to wait",
+  "expected_result": "a timer that has 10 minutes",
+  "short_description": "not getting the 10 minute timer",
+  "steps_to_repro": "- have your phone verified - join a table flip server - observe the chat bar"
+ }
+}

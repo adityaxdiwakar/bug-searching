@@ -1,0 +1,17 @@
+{
+ "id": "5c11e04596f50473eb241f4b",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1231,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/o3N7Hrn7",
+ "data": {
+  "system_settings": "iPhone 7 Plus, iOS 12.1.1",
+  "client_settings": "TestFlight 2.4.1 (9907)",
+  "actual_result": "Setting is changed but app crashes.",
+  "expected_result": "The setting should be changed and the app should not crash.",
+  "short_description": "Changing any setting under Voice Processing will make the app crash.",
+  "steps_to_repro": "- Go to User Settings (the gear icon) - Go to Voice, under App Settings - Change any setting under Voice Processing"
+ }
+}

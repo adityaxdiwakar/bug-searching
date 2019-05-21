@@ -1,0 +1,30 @@
+{
+ "id": "5b118575864dfb6bdf803f99",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 775,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YlFgIzXP",
+ "data": {
+  "system_settings": "iPhone 8 +, iOS 11.4.1",
+  "client_settings": "iOS Stable Version 2.3.3",
+  "actual_result": "The member's name gets cut off.",
+  "expected_result": "The member's name should end in ...",
+  "short_description": "Member's Name gets cut off when having a extremely long username in Group DMs.",
+  "steps_to_repro": "- Have someone with a long name to join the group by adding them in. - Click on the group's name. - Observe."
+ }
+}

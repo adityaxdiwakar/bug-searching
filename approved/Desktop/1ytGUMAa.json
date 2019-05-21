@@ -1,0 +1,30 @@
+{
+ "id": "5bd8867f74a9d526e99d72dc",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3314,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1ytGUMAa",
+ "data": {
+  "system_settings": "Windows 10 Version 17134",
+  "client_settings": "Desktop Canary Build 27140",
+  "actual_result": "Canary client crashes irrecoverably with an error in the console",
+  "expected_result": "Invite is supposed to load",
+  "short_description": "Viewing invite links pointing to voice channels causes an instant crash",
+  "steps_to_repro": "- Generate an invite link pointing to a voice channel- Post the invite in a text channel- Observe how the client instantly crashes, and when clicking the reload button you crash once again."
+ }
+}

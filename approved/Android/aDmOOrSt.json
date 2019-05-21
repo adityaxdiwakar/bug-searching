@@ -1,0 +1,30 @@
+{
+ "id": "5a4041fe645be2ce7c331a01",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1000,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aDmOOrSt",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.9.7",
+  "actual_result": "It generates an invite link that points to the channel at the top of the channel list",
+  "expected_result": "It should generate an invite link that points to this channel",
+  "short_description": "Creating an invite by long-pressing on a channel will create an invite for the channel at the top of the list",
+  "steps_to_repro": "- Be on a server where you have Create invite permissions - Long-press on a channel that isn't at the top of the list- In the long-press menu select \"Create invite\""
+ }
+}

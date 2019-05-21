@@ -1,0 +1,36 @@
+{
+ "id": "5a48c7f953f34ea145f04a37",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 473,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NWgwTDes",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.1 & iPad Air 2, iOS 11.2.5 Public Beta 2",
+  "client_settings": "TestFlight 2.2.0 (1982)",
+  "actual_result": "The send button will be shorten to \"S..n\". The whole word \"Senden\" should be shown. Issue can only be fixed by restarting the app and it happens for all text channels.",
+  "expected_result": "The send button shouldn't be shorten after language change.",
+  "short_description": "Send button will be shorten for some languages after language change",
+  "steps_to_repro": "- Open any text channel - Open the user settings by clicking on the cog - Click on language and change your language to German (might happen also with other languages that have the same or even longer size for the send button) - Close the user settings - Observe the send button"
+ }
+}

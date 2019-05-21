@@ -1,0 +1,15 @@
+{
+ "id": "58411b28c77017722e02ce26",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 115,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dyWCb022",
+ "data": {
+  "actual_result": "The user is tagged.",
+  "expected_result": "It does not tag everyone.",
+  "short_description": "When tagging people with @ everyone without permission, the user will still get tagged.",
+  "steps_to_repro": "- Have a user without permission to @ everyone tag everyone. "
+ }
+}

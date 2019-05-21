@@ -1,0 +1,30 @@
+{
+ "id": "5af5e0a8e09baff07bd0037f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1400,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/txhfMWBy",
+ "data": {
+  "system_settings": "Moto G5 Plus, Android 7.0",
+  "client_settings": "Discord v6.6.1",
+  "actual_result": "The message is simply the username, not including the tag. [e.x. `@Primus` rather than `@Primus#[tag] `]",
+  "expected_result": "User is successfully pinged, with the ping highlighted in blue.",
+  "short_description": "User is not properly pinged when tagged.",
+  "steps_to_repro": "- Join a server with a friend/another user. - Click on the username in order to paste it in the text box. - Press enter to submit the ping/message. - The steps above must be done very quickly. Ping the user and immediately send the message as soon as possible."
+ }
+}

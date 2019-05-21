@@ -1,0 +1,16 @@
+{
+ "id": "59047a476e47db626a108f56",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 573,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cfSwdTui",
+ "data": {
+  "system_settings": " Windows 10 Pro x64 Anniversary Update, Latest Discord Canary",
+  "actual_result": "`Add reactions` is available, and the client try to add the reaction",
+  "expected_result": "`Add reactions` is not available",
+  "short_description": "Add reactions is available when right-clicking Clyde messages",
+  "steps_to_repro": "- Get any Clyde's message (with `/nick` for example) - Right-click on the message, and see the `Add reactions` option "
+ }
+}

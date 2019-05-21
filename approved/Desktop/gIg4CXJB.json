@@ -1,0 +1,15 @@
+{
+ "id": "5903e75fef93655312fb536f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 569,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gIg4CXJB",
+ "data": {
+  "actual_result": "User cannot view audit logs",
+  "expected_result": "User can see Server Settings tab to view audit logs",
+  "short_description": "User without other permissions to view server settings cannot view audit logs",
+  "steps_to_repro": "- Make a role without any permissions - Give it to a use and make sure they can't view the server settings tab - Give role \"View Audit Logs\" permission "
+ }
+}

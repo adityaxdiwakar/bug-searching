@@ -1,0 +1,17 @@
+{
+ "id": "5bb5df34d41bcd7cb3dba2c3",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2099,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/G8VSgCac",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Mini Android 6.0.1",
+  "client_settings": "7.6.2",
+  "actual_result": "it shows 4 stars ==> * <== as channel/category Name",
+  "expected_result": "name of the deleted channel/category should be shown properbly",
+  "short_description": "[Audit Log] create and delete channel or category will show an empty name in the create entry",
+  "steps_to_repro": "- create a text/voice channel or a category (works for all) - delete the channel/category u created - observe create entry"
+ }
+}

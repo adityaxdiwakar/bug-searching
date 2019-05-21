@@ -1,0 +1,30 @@
+{
+ "id": "5af6e32a3937e739ad863d2e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1976,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/T2mscOrS",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 1803, 17134.48",
+  "client_settings": "Discord Canary, 15120",
+  "actual_result": "If you add an option, that new option overwrites an existing one and if you remove an option, that space stays there",
+  "expected_result": "The server context menu adjusts option space properly",
+  "short_description": "The server context menu overrides an existing option when a new option is added",
+  "steps_to_repro": "- Open the server context menu (the menu where you can leave the server) - Grant user a permission that adds an option to the server context menu like manage server - The new option overwrites an old option - If you revert those changes, it goes back to normal - On the other hand, if you remove a permission that adds an option to the server context menu while that person's server context menu is open, the extra space for that option doesn't get removed"
+ }
+}

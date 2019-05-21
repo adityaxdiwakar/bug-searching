@@ -1,0 +1,30 @@
+{
+ "id": "5b5044ba171ad6b89e9b3262",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2324,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Q2lRdols",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 19084",
+  "actual_result": "The line disappears and then reappears",
+  "expected_result": "The line isn't supposed to flash",
+  "short_description": "On the most recent message in a chat, when hovering over the profile picture, the line in the bottom flashes [90% Zoom level specific]",
+  "steps_to_repro": "- Be in a channel - Hover over the profile picture of the person who sent the latest message - Observe the line in the bottom"
+ }
+}

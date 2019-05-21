@@ -1,0 +1,30 @@
+{
+ "id": "5acbf2fccbaca257924cff2a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1818,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XYXvl2QL",
+ "data": {
+  "system_settings": "Windows 10 Education 1709 (Build 16299.309)",
+  "client_settings": "Discord Canary 0.0.204 (Build 13313)",
+  "actual_result": "For some reason it's in masculine gender (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439) and can't be changed via Crowdin because language names are baked in",
+  "expected_result": "It should say '\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430' (as it does on the right) because the word is in feminine gender",
+  "short_description": "Ukrainian language name is written in the wrong grammatical gender (it's not a translation error)",
+  "steps_to_repro": "- Open Settings - Go to Language tab - Scroll down all the way to Ukrainian - Observe the result on the left"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b620331be746371ab5f8db5",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2573,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kIdoSbQM",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (20433)",
+  "actual_result": "It continues to play forever",
+  "expected_result": "It should cut off the audio after 30 seconds",
+  "short_description": "You can stream Spotify songs over screen share/sound share in guild video (doesnt work in DMs)",
+  "steps_to_repro": "- Be part of the 5% servers that has this feature - Join a voice channel and start streaming Spotify with sound"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59d92fa848d2c30ce842fffa",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1235,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/eBaVztjn",
+ "data": {
+  "system_settings": "MacOS High Sierra",
+  "client_settings": "Discord Canary 0.0.155",
+  "actual_result": "The embed flashes to the regular join embed before flashing back.",
+  "expected_result": "Nothing",
+  "short_description": "Clicking a link on an expired embedded invite link quickly flashes it to the regular normal embed before flashing back.",
+  "steps_to_repro": "- Make a link in a server or find an expired 1 (must be embedded in chat) - click on the blue link"
+ }
+}

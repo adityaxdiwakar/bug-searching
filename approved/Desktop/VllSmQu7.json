@@ -1,0 +1,23 @@
+{
+ "id": "58c39287e7ec23098ede673b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 411,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VllSmQu7",
+ "data": {
+  "system_settings": " Windows 10 AU, Discord Canary 0.0.153",
+  "actual_result": "Always mentions first channel",
+  "expected_result": "Mentions channel you selected in suggestions menu",
+  "short_description": "Can't mention channels named same",
+  "steps_to_repro": "- Create two or more channels named same - Try to mention second one "
+ }
+}

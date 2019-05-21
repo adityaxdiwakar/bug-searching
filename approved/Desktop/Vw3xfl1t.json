@@ -1,0 +1,30 @@
+{
+ "id": "5bc9f747e7c6520350bc5f29",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3229,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Vw3xfl1t",
+ "data": {
+  "system_settings": "MacOS Mojave, Version 10.14",
+  "client_settings": "Discord Canary, Build 26538",
+  "actual_result": "You can bypass the return limit by pasting that text that has returns in it.",
+  "expected_result": "It should not let you bypass the return limit.",
+  "short_description": "You can Bypass a notes return limit by copying and pasting text that contain a return.",
+  "steps_to_repro": "- Go to a users profile. - Copy and paste text that has multiple returns above it. - Exit the note. - Go back, and it saves it."
+ }
+}

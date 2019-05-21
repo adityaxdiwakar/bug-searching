@@ -1,0 +1,24 @@
+{
+ "id": "5b7e0fcd86050e06058ca866",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2764,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XndpUfXQ",
+ "data": {
+  "system_settings": "iPhone 8 Plus, iPad Air 2 - iOS 12 Public Beta 7",
+  "client_settings": "Safari",
+  "actual_result": "The address bar doesn't get hidden when scrolling down and nothing happens when clicking on the status bar.",
+  "expected_result": "You should be scrolled to the top when clicking on it.",
+  "short_description": "[Website bug] [Safari] Tapping on the iOS status bar to scroll to the top doesn't work for most dev portal pages",
+  "steps_to_repro": "- Go to the Developer Portal - Open the Documentation - Scroll a bit down - Click on the status bar to scroll to the top - Observe it"
+ }
+}

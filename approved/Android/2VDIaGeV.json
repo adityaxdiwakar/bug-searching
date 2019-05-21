@@ -1,0 +1,30 @@
+{
+ "id": "5a3b33674092739dd809dd46",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 978,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2VDIaGeV",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.8.9",
+  "actual_result": "You will return to chat but the long-press menu is still open",
+  "expected_result": "You should just return to chat",
+  "short_description": "The long-press menu on messages won't close after viewing reactions",
+  "steps_to_repro": "- Long press on a message that has at least 1 reaction on it - Tap \"reactions\" - Go back"
+ }
+}

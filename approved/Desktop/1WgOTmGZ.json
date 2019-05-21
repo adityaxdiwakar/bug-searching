@@ -1,0 +1,17 @@
+{
+ "id": "5c1e7e9da800223dfdebfc55",
+ "closed": false,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 3534,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1WgOTmGZ",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS v10.14.1 (Mojave)",
+  "client_settings": "Canary 30283/30284 (Hash: `40398a711c0f7eacf80399d0491d70de748bef61`)",
+  "actual_result": "The tooltip appears behind the emoji picker, unlike the GIF picker.",
+  "expected_result": "The tooltip the gift icon displays should appear on top of the emoji picker.",
+  "short_description": "The new Gift Button's tooltip appears behind the emoji picker when it is open, making it unreadable.",
+  "steps_to_repro": "- Open the emoji picker. - Hover over the gift icon."
+ }
+}

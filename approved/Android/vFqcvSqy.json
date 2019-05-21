@@ -1,0 +1,24 @@
+{
+ "id": "5b2bc705c92051b22bcae425",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1573,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5af202d4885b60489848e72d",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P4, unlikely to ever be fixed.",
+   "color": "purple"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vFqcvSqy",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.6",
+  "actual_result": "When Sync across clients is enabled, you cannot switch language at all, not even locally",
+  "expected_result": "Language is a local setting, so by definition you don't need internet to change it. The only thing that requires internet is the sync phase. So in this situation, the language is supposed to change locally on your internetless client, the only thing that is supposed to fail is the syncing process",
+  "short_description": "When you have Sync across clients enabled, if you change your Discord language but for some reason fails to sync with other clients (e.g internet cuts out), the new language will also fail to apply locally, even though changing a local setting by definition doesn't require internet",
+  "steps_to_repro": "- Go to Settings > Language - Make sure Sync across clients is enabled - Turn off your Internet connection - Attempt to change language, notice it doesn't work - Notice it works when you disable sync"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "587034c4031bbbc005ada14b",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 314,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5rpdbDYw",
+ "data": {
+  "actual_result": "Loader appears and keeps going infinitely since the request fails.",
+  "expected_result": "Invite link should appear with options.",
+  "short_description": "Invite link 403-s",
+  "steps_to_repro": "- Join the hacksmith discord server(https://discordapp.com/invite/h8KSYYh) -  Click on server name -> Invite people - "
+ }
+}

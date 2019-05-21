@@ -1,0 +1,22 @@
+{
+ "id": "5819632bee7390285cb480dc",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 102,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/k8kacdlN",
+ "data": {
+  "actual_result": "An emoji identifier prefixed by a colon is printed to the chat (Note: Submitted for <@123623520616972290> )",
+  "expected_result": "The emoji picture shows up prefixed by a colon",
+  "short_description": "Server emoji from emoji menu don't properly format when prefixed by a colon",
+  "steps_to_repro": "- Type a colon into the chat bar - Open the emoji menu - Click an emoji to add it to the chat bar - Send the message "
+ }
+}

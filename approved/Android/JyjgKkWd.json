@@ -1,0 +1,24 @@
+{
+ "id": "5a0464a461dd13413628d770",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 882,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JyjgKkWd",
+ "data": {
+  "system_settings": "Huawei P8Lite Android 6.0",
+  "client_settings": "Discord 5.6.1",
+  "actual_result": "it doesn't, the number stays. reacting again doesn't changes anything",
+  "expected_result": "When you connect, it should update the reaction amount",
+  "short_description": "when you spam a reaction while being in the \"connecting\" mode increases the amount nearly every time you click on it",
+  "steps_to_repro": "- quit WiFi, so that you get a \"connecting\" status on the top when you start Discord - spam a reaction while being in it - be \"connected\"(status bar should be away)"
+ }
+}

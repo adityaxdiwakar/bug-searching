@@ -1,0 +1,17 @@
+{
+ "id": "5c392c473dd28d5aecc5948c",
+ "closed": false,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 3626,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/n48koZQz",
+ "data": {
+  "system_settings": "Windows 10 Home",
+  "client_settings": "Canary 30702",
+  "actual_result": "The green ring around your name stays even when you're not holding your push to talk bind.",
+  "expected_result": "The green ring around your name should work properly when you talk.",
+  "short_description": "People can hear you when you have push to talk on and not holding your bind. [Windows 10 Home Specific]",
+  "steps_to_repro": "- Join a voice chat(in a server) - Go to settings > Voice settings - Turn on push to talk and make a shortcut - Go back to your call - Right click Settings - Go to voice and video - Hold down your push to talk bind as you click 'switch to voice activity' - Let go of your bind and click 'switch to Push to talk'  - See how your voice is active when you're not holding your bind."
+ }
+}

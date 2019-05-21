@@ -1,0 +1,17 @@
+{
+ "id": "5b6f175e9a488d502be270aa",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1823,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/jsHM4BUV",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 729",
+  "actual_result": "The username and discrim still stay and you can send request repeatedly.",
+  "expected_result": "I don't really know what to expect but I'm guessing that the page should either close or the discrim and username should just vanish.",
+  "short_description": "When you send a friend request to a person through the new add friends screen, the username and the discrim still stay even after the request has been sent.",
+  "steps_to_repro": "- Open the friends page. - Type in someone's usernames and discrim. - Send the request."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b5a2510df4183bf2c0622d1",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 849,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vPLUc7ID",
+ "data": {
+  "system_settings": "iPhone X, iOS 12 (Dev Beta 4)",
+  "client_settings": "TestFlight 2.3.6 (6095)",
+  "actual_result": "Both the keyboard and recent images overlap each other",
+  "expected_result": "Either the keyboard stays or the recent images stays",
+  "short_description": "Keyboard overlaps recent images drawer",
+  "steps_to_repro": "- Tap the paperclip icon to open up recent images - Quickly after that, tap the textbox (this whole process should take less than a second to do)"
+ }
+}

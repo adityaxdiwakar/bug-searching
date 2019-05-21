@@ -1,0 +1,30 @@
+{
+ "id": "5b7c0c27f2b21752e431daab",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1864,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ihMu0Aeg",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.3.2",
+  "actual_result": "You go back straight to the chat",
+  "expected_result": "You should go back to Recent Mentions",
+  "short_description": "Opening an invite via Recent Mentions and going back causes the Recent Mentions panel to close. Happens only if there is text after the invite",
+  "steps_to_repro": "- Have someone mention you with an invite link in the same message. Make sure there is some text after the invite (for example you can first paste the invite and then put the mention) - Open Recent Mentions  - Click on the link to open the full invitation menu - Go back"
+ }
+}

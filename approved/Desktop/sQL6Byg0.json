@@ -1,0 +1,16 @@
+{
+ "id": "5858fd5b823bedef80898e19",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 259,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sQL6Byg0",
+ "data": {
+  "system_settings": " Canary, Win10 AU",
+  "actual_result": "The clipboard is left unchanged.",
+  "expected_result": "The content of the message is copied to the clipboard.",
+  "short_description": "Right click => Copy does nothing.",
+  "steps_to_repro": "- Right click a message. - Click Copy. "
+ }
+}

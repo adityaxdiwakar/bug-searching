@@ -1,0 +1,30 @@
+{
+ "id": "5ae161104bfe3e1f2416dc36",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1324,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oER5ixEB",
+ "data": {
+  "system_settings": "Huawei P8Lite 2016 \u2022 Android 5.1",
+  "client_settings": "Alpha 6.5.7",
+  "actual_result": "We can't update our user permissions, even if we are the owner.",
+  "expected_result": "We can update our user permissions if we are the owner.",
+  "short_description": "We can't edit our user permissions (in a channel), even if we are the owner.",
+  "steps_to_repro": "- Find a server where you are owner. - Edit permissions of a channel. - Add a new Member > you - Add a permissions (no matter)"
+ }
+}

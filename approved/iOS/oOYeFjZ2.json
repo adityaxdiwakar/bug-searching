@@ -1,0 +1,17 @@
+{
+ "id": "5bb2724ec5fbf232ec6f1819",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1039,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/oOYeFjZ2",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta",
+  "client_settings": "TestFight 2.3.9 (7731)",
+  "actual_result": "You don\u2019t have the option to copy your ID",
+  "expected_result": "You should see the option to copy your ID",
+  "short_description": "Unable to copy own user ID",
+  "steps_to_repro": "- Open any user profile - Tap on the three dots at the top - Observe the \u201cCopy ID\u201d option - Open your own user profile - Notice the lack of the three dots to copy your ID"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58cb57d58972302ee4ff792e",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 432,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9uzG40i1",
+ "data": {
+  "system_settings": " Discord Canary, Windows 7",
+  "actual_result": "Search Result runs off page",
+  "expected_result": "Search result would just span out longer vertically.",
+  "short_description": "Search result runs off screen with long one words in embeds",
+  "steps_to_repro": "- Paste <https://github.com/SpongePowered/SpongeCommon/issues/1574> by itself in a message and send it.- Search for the link.- Notice the title wraps off the side of the search results screen."
+ }
+}

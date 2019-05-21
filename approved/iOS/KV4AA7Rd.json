@@ -1,0 +1,17 @@
+{
+ "id": "5b916097eecb751fc948fd0b",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 969,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KV4AA7Rd",
+ "data": {
+  "system_settings": "iPhone 7, iOS 11.4.1",
+  "client_settings": "2.3.8 (7049)",
+  "actual_result": "The backspace button is very unresponsive and usually doesn\u2019t delete a character when pressed",
+  "expected_result": "The backspace button works as intended, deleting the characters.",
+  "short_description": "Backspace button on emoji picker is very unresponsive",
+  "steps_to_repro": "- Open up the emoji picker - Select an emoji - Press the backspace button"
+ }
+}

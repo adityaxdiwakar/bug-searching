@@ -1,0 +1,24 @@
+{
+ "id": "5b78e971d910de2afe4d4835",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1851,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5af202d4885b60489848e72d",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P4, unlikely to ever be fixed.",
+   "color": "purple"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Fo7TchgH",
+ "data": {
+  "system_settings": "Honor 9 Lite",
+  "client_settings": "Android Alpha 730",
+  "actual_result": "It overfills the red notification icon.",
+  "expected_result": "The count inside of the red notification icon should stay inside.",
+  "short_description": "Numbers from notification icon overfills when exceeded to 100 and beyond (2160x1080 screen specific)",
+  "steps_to_repro": "- Let someone mention you in a server. - Observe the mention count and the red bubble when it reached at 100 and over"
+ }
+}

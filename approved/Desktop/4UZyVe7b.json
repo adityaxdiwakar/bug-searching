@@ -1,0 +1,15 @@
+{
+ "id": "584a287f5ead68c9d1d3fa9c",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 232,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4UZyVe7b",
+ "data": {
+  "actual_result": "Nope, proof here => https://discord.gg/TG5vpMW",
+  "expected_result": "It being possible, through logic",
+  "short_description": "Embed Fields cannot be 2x2 when trying to configure by the Inline Property",
+  "steps_to_repro": "- Try every permutation (True/False/True/True, etc) to try to get a 2x2 arrangement (16 possibilities) "
+ }
+}

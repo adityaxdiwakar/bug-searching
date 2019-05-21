@@ -1,0 +1,30 @@
+{
+ "id": "59f548ca5680124001a35c46",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 401,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0Zsuabx0",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.0.3 & iPad Air 2 with iOS 11.1 PB 5",
+  "client_settings": "Discord Stable 1.9.4",
+  "actual_result": "The search placeholder text is in your system language.",
+  "expected_result": "The search placeholder text should be in the language you have set in Discord.",
+  "short_description": "Search placeholder text is in system language not Discord language",
+  "steps_to_repro": "- Change your language to something other than your system language (for example from German to English or vice versa) - Progress to any search with a placeholder text - For example go to the member list in the server settings"
+ }
+}

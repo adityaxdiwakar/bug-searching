@@ -1,0 +1,30 @@
+{
+ "id": "5a4be51bf513f8cbefda61e5",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1015,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Kog9cRsi",
+ "data": {
+  "system_settings": "Andriod Oreo 8.1, Samsung Galaxy Prime",
+  "client_settings": "Discord Alpha 5.9.7",
+  "actual_result": "Emojis from each server are out of order and ones from the bottom of the serverlist can be at the top",
+  "expected_result": "Emojis should be listed in the order that your servers are on the server list",
+  "short_description": "Emoji menu is out of order",
+  "steps_to_repro": "- Open discord alpha - Open any server or message - Scroll down to where custom emotes from servers are"
+ }
+}

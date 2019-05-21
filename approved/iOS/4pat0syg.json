@@ -1,0 +1,22 @@
+{
+ "id": "5854c80401c5419eec981911",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 124,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafe",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P0 - Need an immediate fix",
+   "color": "red"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4pat0syg",
+ "data": {
+  "actual_result": "The app crashes, and the other person doesn't recieve it.",
+  "expected_result": "The emote is sent as normal",
+  "short_description": "Sending /shrug to a person in DMs causes a crash",
+  "steps_to_repro": "- Send someone a /shrug in DMs "
+ }
+}

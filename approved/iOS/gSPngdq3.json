@@ -1,0 +1,17 @@
+{
+ "id": "5b91d9f25027207adc6c7481",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 978,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gSPngdq3",
+ "data": {
+  "system_settings": "iPhone X, iOS 12 Developer Beta 12",
+  "client_settings": "TestFlight 2.3.8 (7049)",
+  "actual_result": "Search and delete icons don't line up with category icons",
+  "expected_result": "Search and delete icons should line up with category icons",
+  "short_description": "Search and delete icons aren't lined up with category icons in emoji selector",
+  "steps_to_repro": "- Open the emoji selector - Observe the search and delete icons and compare with the category icons"
+ }
+}

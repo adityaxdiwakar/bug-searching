@@ -1,0 +1,17 @@
+{
+ "id": "5a3c748bac5400b59e6a6bae",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 984,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/6fOv02zN",
+ "data": {
+  "system_settings": "Android 7.0 LG XPower2",
+  "client_settings": "Discord Alpha 593",
+  "actual_result": "The mention doesnt gets resolved or the menu to select which user/channel/emote to mention doesnt appears",
+  "expected_result": "The mention should be resolved and show in bold",
+  "short_description": "Mentions do not get resolved (Also looks like only happens when you restart the app)",
+  "steps_to_repro": "- Type @, #, : or tap a profile image and try to mention"
+ }
+}

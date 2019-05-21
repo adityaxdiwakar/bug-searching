@@ -1,0 +1,15 @@
+{
+ "id": "5825f7c85e1f6414b208159a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 129,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YaP3p1V5",
+ "data": {
+  "actual_result": "logs 50003 in console and does nothing but tells the user invite was sent Reported on behalf of ```Macdja38#7770",
+  "expected_result": "pops up a warning",
+  "short_description": "using the context menu to directly send someone an invite fails silently if you don't have permission.",
+  "steps_to_repro": "- don't have invite perms in a discord - right click a user and click that ohh soo inviting send invite thing. "
+ }
+}

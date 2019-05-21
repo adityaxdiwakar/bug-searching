@@ -1,0 +1,24 @@
+{
+ "id": "5995d8fbde5de810fcead5a6",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 631,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HQJf5Hxy",
+ "data": {
+  "system_settings": "Android 4.4.4, Tablet Allview",
+  "client_settings": "Android Alpha 4.0.7",
+  "actual_result": "You can see their actual status (online, idle, do not disturb)",
+  "expected_result": "You shouldn't be able to see their status. They should appear as offline",
+  "short_description": "The blocked users' status (online, idle, do not disturb, invisible, offline) appears in the Blocked Users list",
+  "steps_to_repro": "- Block someone - Make sure they are online, idle, or on the do not disturb status - Go to Freinds > Blocked users section - Observe the status of the blocked user"
+ }
+}

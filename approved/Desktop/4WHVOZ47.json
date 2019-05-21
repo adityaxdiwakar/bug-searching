@@ -1,0 +1,30 @@
+{
+ "id": "5ae4360bcef3a7b62f479c2b",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1900,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4WHVOZ47",
+ "data": {
+  "system_settings": "macOS High Sierra 10.13.4",
+  "client_settings": "Discord Canary, 14281",
+  "actual_result": "You will see a grey box behind the text",
+  "expected_result": "It will drag normally and will just show the category name with no box",
+  "short_description": "An additional grey box comes up when dragging a category which is at the top of the list (left side).",
+  "steps_to_repro": "- Go into a Discord server where you are able to modify the channels - Create a new category (any name) - If not already, drag the category to the top of the list (where it lists all the categories and channels) - Now try dragging it somewhere else"
+ }
+}

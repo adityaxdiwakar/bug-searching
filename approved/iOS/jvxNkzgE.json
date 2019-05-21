@@ -1,0 +1,30 @@
+{
+ "id": "5a63653fe923fd52c82134b3",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 528,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jvxNkzgE",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.2 | iPad Air 2, iOS 11.2.5 PB 7",
+  "client_settings": "TestFlight 2.2.1 (2202)",
+  "actual_result": "Nothing happens, the link doesn't work.",
+  "expected_result": "The author link should open the linked page when clicking it.",
+  "short_description": "Author links in embeds don't work",
+  "steps_to_repro": "- Create/send/get an embed with an author link - Try to click on the author link"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "584a966d64b1926187c8053e",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 233,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/O7Qn5v5a",
+ "data": {
+  "actual_result": "Channel redirects you to empty page.",
+  "expected_result": "turns white and is no longer clickable.",
+  "short_description": "When a channel is deleted and a user has made a #channelname before it was deleted, its still clickable and redirects you to the friends list inside of the server.",
+  "steps_to_repro": "- make channel - make a #channelnamehere - delete channel - click on it! "
+ }
+}

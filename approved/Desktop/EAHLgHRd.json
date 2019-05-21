@@ -1,0 +1,17 @@
+{
+ "id": "5a76196e4238af1d0c6115b0",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1622,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EAHLgHRd",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary 10189",
+  "actual_result": "Spotify disappears from your status until you pause and start the song.",
+  "expected_result": "Status still shows the song you're listening to.",
+  "short_description": "Adjusting the volume in the Spotify web app makes the status to disappear",
+  "steps_to_repro": ""
+ }
+}

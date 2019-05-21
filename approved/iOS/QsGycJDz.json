@@ -1,0 +1,17 @@
+{
+ "id": "5bfef215d82f748fa871e4a7",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1176,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QsGycJDz",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9349)",
+  "actual_result": "Phrase gets cut off",
+  "expected_result": "Phrase doesn't get cut off",
+  "short_description": "Text in the no result found on the invite screen gets cut off with the emoji keyboard open [4.7 inch screen specific]",
+  "steps_to_repro": "- Go to any server and open the invite members page - Select the text field and open the emoji keyboard - Type any emoji so that the no results found screen appears - Observe the phrase for finding no results"
+ }
+}

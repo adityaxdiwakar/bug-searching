@@ -1,0 +1,30 @@
+{
+ "id": "5c27bdcb7f2ee438a880fdde",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2405,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dC00nVdO",
+ "data": {
+  "system_settings": "ASUS Zenfone max pro m1 Android 8.1.0",
+  "client_settings": "Alpha 8.2.2",
+  "actual_result": "Shows \"account settings have been successfully updated\" toast and changes avatar back to the old one",
+  "expected_result": "Should show you the same rate limit toast",
+  "short_description": "\"Account settings updated successfully\" toast when changing profile picture after hitting the limit",
+  "steps_to_repro": "- Change pfp continuously until you hit the limit  - Go to settings > my account > remove (under Current pfp) this would bring you to the default avatar - Hit save (this would show the toast that you're changing profile pictures too quickly) - Hit save again"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5976e478334d3b781e61e363",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 576,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GT33SX2S",
+ "data": {
+  "system_settings": "Android 7.0 Marshmallow",
+  "client_settings": "Beta 4.0.2 & 3.9.9",
+  "actual_result": "Chat will scroll up to previous messages",
+  "expected_result": "Chat will remain stationary",
+  "short_description": "Chat scrolls up while typing",
+  "steps_to_repro": "- Start typing a message - Someone else starts typing as well"
+ }
+}

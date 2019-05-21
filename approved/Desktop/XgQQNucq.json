@@ -1,0 +1,30 @@
+{
+ "id": "5b05e81abe7ffa9b32061083",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2047,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XgQQNucq",
+ "data": {
+  "system_settings": "Macbook Air (Early 2015), macOS Sierra 10.12.6",
+  "client_settings": "Discord Canary (Build 15919)",
+  "actual_result": "No apps appear in the Application Window section",
+  "expected_result": "You should be able to select any app open, since the desktops aren't necessarily separated/isolated from each other",
+  "short_description": "Apps that aren't on the same desktop as Discord, can't be selected in the Application Window section when choosing what screen to share [Mac Specific]",
+  "steps_to_repro": "- Have no apps open in the same desktop as Discord - Click the screenshare button in a call - Go to Application Window tab - Observe"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a620d67caad46390177c7e9",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 520,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UDZrBCcI",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.2 | iPad Air 2, iOS 11.2.5 PB 6",
+  "client_settings": "TestFlight 2.2.1 (2202)",
+  "actual_result": "You just see a \"#\" with a \"?\" instead of the emojis",
+  "expected_result": "The emojis should be displayed normally.",
+  "short_description": "Some Apple emojis don't show up in embeds anymore",
+  "steps_to_repro": "- Send/receive any embed with the Apple emojis \u2764\ufe0f\u2744\ufe0f (heart and snowflake, it might work with other emojis) - Observe how the emojis are displayed"
+ }
+}

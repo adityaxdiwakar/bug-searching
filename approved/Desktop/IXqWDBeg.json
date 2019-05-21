@@ -1,0 +1,30 @@
+{
+ "id": "5bdf84895edbe34e28df9378",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3356,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IXqWDBeg",
+ "data": {
+  "system_settings": "MacOS Mojave, Version 10.14",
+  "client_settings": "Discord Canary, Build 27466",
+  "actual_result": "The icon will stay highlighted.",
+  "expected_result": "It should unhighlight itself like it does when you are not muted, or with the other icons.",
+  "short_description": "Right clicking the mute button (WHILE MUTED) or the Video Camera(WHILE OFF), will stay highlighted.",
+  "steps_to_repro": "- Mute yourself or Turn off your Video Camera. - Right click on it. - It should be highlighted."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5acd1222b50df9c4ce20d3f0",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 668,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PUkpVPAV",
+ "data": {
+  "system_settings": "iOS 11.3, iPhone SE",
+  "client_settings": "iOS Testflight 2.2.9",
+  "actual_result": "You see the \"No Text Channels\" message.",
+  "expected_result": "You see the \"Online\" section of your friends list.",
+  "short_description": "\"No Text Channels\" message on Startup",
+  "steps_to_repro": "- Go to a DM channel - Close the Discord app (so it's not in the background) - Go onto Discord on another device - Close that DM - Open Discord on the original device -  See the \"No Text Channels\" message"
+ }
+}

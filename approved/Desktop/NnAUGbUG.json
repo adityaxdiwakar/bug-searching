@@ -1,0 +1,22 @@
+{
+ "id": "58d0bf081de02ece71f841ad",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 446,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NnAUGbUG",
+ "data": {
+  "actual_result": "slight lag after mouse moves off of the menu resulting in strange overlay of menus",
+  "expected_result": "they close immediatly",
+  "short_description": "lag on close of mouseover menus in right click menu for settings",
+  "steps_to_repro": "- open settings context menu - mouse over the ones that have mouseover - watch the weird lag as two are open at once and it looks *bad* "
+ }
+}

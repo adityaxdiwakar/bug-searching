@@ -1,0 +1,30 @@
+{
+ "id": "59ec9880850d4f02add02f91",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1303,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IGdFmpXR",
+ "data": {
+  "system_settings": "Windows 10, Lenovo Z50",
+  "client_settings": "Desktop 0.0.298",
+  "actual_result": "Accounts aren't linked",
+  "expected_result": "Accounts are linked",
+  "short_description": "When trying to link Blizzard App account to Discord, Discord does not detect Blizzard App accounts",
+  "steps_to_repro": "- Open Discord - Attempt to verify - Open Blizzard App - Attempt to verify"
+ }
+}

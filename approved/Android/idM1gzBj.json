@@ -1,0 +1,17 @@
+{
+ "id": "59353ead4a7e3907d30b342d",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 497,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/idM1gzBj",
+ "data": {
+  "system_settings": "Nexus 5x Andoot 7.1.2 Latest PureNexus build",
+  "client_settings": "Alpha 3.9.0",
+  "actual_result": "A line appears over the Next button",
+  "expected_result": "No line appears over the Next button",
+  "short_description": "Line in the verify button while adding Phone Number",
+  "steps_to_repro": "- Join a server with double table flip auth (.gg/ZQNHXeu) - Click the +1 button"
+ }
+}

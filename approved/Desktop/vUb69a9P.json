@@ -1,0 +1,23 @@
+{
+ "id": "591668ad432b7c2ec998c612",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 635,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vUb69a9P",
+ "data": {
+  "system_settings": " arch 0.16 canary",
+  "actual_result": "the clickable area brings you to a settings view with only the social media icons",
+  "expected_result": "there is no small clickable area",
+  "short_description": "at the bottom of the right click menu on client settings there is a small clickable area that opens the social media buttons",
+  "steps_to_repro": "- click on the small sliver of clickable area at the bottom - "
+ }
+}

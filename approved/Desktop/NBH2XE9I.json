@@ -1,0 +1,30 @@
+{
+ "id": "5ad9e8cda585a2ad7625ba9b",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1867,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NBH2XE9I",
+ "data": {
+  "system_settings": "Macbook Air (Early 2015), macOS 10.12.6 Sierra",
+  "client_settings": "Discord Canary (Build 13963)",
+  "actual_result": "It adds a duplicate",
+  "expected_result": "It shouldn't let you add a duplicate",
+  "short_description": "Being able to add games with rich presence multiple times in the Games list",
+  "steps_to_repro": "- Have a game with rich presence in your games list - Try to add the same game again"
+ }
+}

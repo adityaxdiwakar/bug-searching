@@ -1,0 +1,30 @@
+{
+ "id": "59dcb4414826f65c734c5b15",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 363,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iGmVTqNy",
+ "data": {
+  "system_settings": "iPhone 8 Plus, iOS 11.0.2",
+  "client_settings": "TestFlight 1.9.2, build 953",
+  "actual_result": "Discord still sends the cropped version of the picture",
+  "expected_result": "The picture would be sent as uncropped, like how it looks like in the Photos app",
+  "short_description": "After reverting an image crop, Discord still sends the cropped version of the image",
+  "steps_to_repro": "- Crop a picture in Photos app - Send cropped picture in Discord - Go back to Photos and Revert edit changes on the cropped picture - Send the uncropped picture in Discord"
+ }
+}

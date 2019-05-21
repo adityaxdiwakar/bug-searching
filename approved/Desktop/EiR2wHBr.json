@@ -1,0 +1,24 @@
+{
+ "id": "59b488286a7b59ec4b304119",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1109,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EiR2wHBr",
+ "data": {
+  "system_settings": "Windows 10 Lenovo Thinkpad T400",
+  "client_settings": "Desktop Canary Build Number 4053",
+  "actual_result": "It only highlights and doesn't move the menu down with it",
+  "expected_result": "The menu should go highlight and scroll down the list",
+  "short_description": "Channel permissions context menu doesn't go with arrow keys",
+  "steps_to_repro": "- Have \"Manage Channels\" permission or higher - Make a lot of roles - Right click a channel or category - Click \"Edit Channel\" or \"Edit Category\" - Click \"Permissions\" - Click \"Roles/Members +\" - Move your arrow keys down or up"
+ }
+}

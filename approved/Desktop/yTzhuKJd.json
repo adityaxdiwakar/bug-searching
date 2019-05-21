@@ -1,0 +1,23 @@
+{
+ "id": "5842b4a076f1e75edde848f3",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 204,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yTzhuKJd",
+ "data": {
+  "system_settings": " win10 pro, latest stable build (I do nothing special to my Discord) (reported by Mad Hatter's Tea#8851)",
+  "actual_result": "No icon displayed. Just the default little image.",
+  "expected_result": "To see a Discord icon.",
+  "short_description": "Discord has no icon in Control Panel programs list",
+  "steps_to_repro": "- Open Programs and Features in Cortana - Look for Discord near the top. - See that next to Discord it has no icon "
+ }
+}

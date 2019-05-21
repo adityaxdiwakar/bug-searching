@@ -1,0 +1,17 @@
+{
+ "id": "5bb041b5a7a2267bfac6b991",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2074,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CpW220RH",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 759",
+  "actual_result": "The username gets truncated in such a way that the status of person isn't visible (i.e. the status also gets into the truncated part).",
+  "expected_result": "The Username gets truncated in such a way that the status of the person is visible.",
+  "short_description": "The username in the header of a DM with a person who has a long username gets truncated  in such a way that the status doesn't appear beside their name.",
+  "steps_to_repro": "- Open a DM with a person with a long username. - Observe the header."
+ }
+}

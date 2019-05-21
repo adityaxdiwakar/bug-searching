@@ -1,0 +1,17 @@
+{
+ "id": "5baa528539b43168c99c83b5",
+ "closed": false,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 1029,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JE8kjWrN",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12",
+  "client_settings": "Testflight 2.3.8 (7416)",
+  "actual_result": "It will leave the keyboard up and create a giant grey area",
+  "expected_result": "Should behave like other apps and iOS itself and close the keyboard",
+  "short_description": "Typing something and selecting all and clicking Look up will create a blank space where the keyboard was",
+  "steps_to_repro": "- Type something - Click select all - Click Look up, observe where the keyboard was and the giant grey blank"
+ }
+}

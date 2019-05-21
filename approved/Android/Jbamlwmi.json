@@ -1,0 +1,17 @@
+{
+ "id": "5b074fa6c300800223f0b785",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1465,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Jbamlwmi",
+ "data": {
+  "system_settings": "Android 7.0 Moto G4",
+  "client_settings": "Android Alpha 6.7.9",
+  "actual_result": "Nothing is there, Mutual servers and Mutual friends are fine just User Tab is empty",
+  "expected_result": "Your notes on them and their connections should show",
+  "short_description": "\"User Info\" tab on profile isn't synced properly",
+  "steps_to_repro": "- Find someone you already have a note/know they have connections - Hold on their profile picture or message and tap \"Profile\" - Observe the User Info tab"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5bedcae78b86486e195b514f",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1163,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IhbGt7J1",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 2",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "Discord crashes when the new reaction is added",
+  "expected_result": "Discord shows the new reaction that is added",
+  "short_description": "Removing reactions and then adding a reaction on another device while viewing reactions crashes Discord",
+  "steps_to_repro": "- On your phone, or another device, add a reaction to a message - View the reactions on that message on your phone - On another device, remove your reaction - Observe your phone screen (should say no reactions) - On your other device, add a reaction to that same message - Observe your phone"
+ }
+}

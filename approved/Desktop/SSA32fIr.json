@@ -1,0 +1,15 @@
+{
+ "id": "5818de1eb9f70dd083b68316",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 99,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SSA32fIr",
+ "data": {
+  "actual_result": "Users tab does not render and messages wont send, appears to be only for some users as others messages are still sending.",
+  "expected_result": "Messages send and users tab renders.",
+  "short_description": "Overwatch discord not sending messages and users section on the right will not load",
+  "steps_to_repro": "- try to send message. "
+ }
+}

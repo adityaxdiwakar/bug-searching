@@ -1,0 +1,23 @@
+{
+ "id": "590bd1528d06eeca4a1da0ac",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 596,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hCGoBtGN",
+ "data": {
+  "system_settings": " macos 10.12.4 Discord Canary",
+  "actual_result": "menu doesnt close",
+  "expected_result": "menu closes like usual",
+  "short_description": "esc button doesnt work in user settings after changing discord language",
+  "steps_to_repro": "- open user settings - click esc to get out of the menu - observe how that works - open up user settings again - change your discord language - click the esc key "
+ }
+}

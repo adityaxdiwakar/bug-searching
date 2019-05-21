@@ -1,0 +1,24 @@
+{
+ "id": "59252797f3f959bf6bee6961",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 248,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QBxoGgns",
+ "data": {
+  "system_settings": "iOS 10.3.2",
+  "client_settings": "Discord 1.8.6",
+  "actual_result": "It's higher than usual.",
+  "expected_result": "The message box should be on the bottom.",
+  "short_description": "Discord app not scaling correctly",
+  "steps_to_repro": "- Update to 1.8.6 - Find the message box to be higher than usual. - reinstalling the app is a temporary fix"
+ }
+}

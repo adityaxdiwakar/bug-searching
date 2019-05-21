@@ -1,0 +1,30 @@
+{
+ "id": "59a2605b44775ad227849fb0",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1054,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AG3ZurQI",
+ "data": {
+  "system_settings": "Bug is reproducable on both Linux and Windows. Arch Linux 4.12.6-1-ARCH / Windows 7 SP1 Build 7601",
+  "client_settings": "Web client as of 2017-08-26 on Vivaldi 1.11.917.39 (Linux) / 1.8.770.56 (Windows)",
+  "actual_result": "Clicking on any channel or server icon doesn't work, the UI is stuck displaying the channel you were on last.",
+  "expected_result": "UI works normally, changing channels or servers should update the UI.",
+  "short_description": "Cancelling a file upload from the webapp, and then the file picker afterwards causes the UI to stop updating.",
+  "steps_to_repro": "- Open file picker, select file, and confirm selection - Cancel upload in webapp - Open file picker again - Cancel selection from file picker itself."
+ }
+}

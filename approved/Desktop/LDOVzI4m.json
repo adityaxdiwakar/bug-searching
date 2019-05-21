@@ -1,0 +1,17 @@
+{
+ "id": "59bd5be78e830c8b8036ea9a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1145,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LDOVzI4m",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Creators Update (1703)",
+  "client_settings": "Canary 0.0.163 (build 4358)",
+  "actual_result": "The reaction doesn't get added and it gets send as a normal message",
+  "expected_result": "Your reaction gets added to the message",
+  "short_description": "+:emoji: to quick react doesn't work after the upgrade to React 16",
+  "steps_to_repro": "- Go to a channel and make sure you have permission to react - Type +:emoji: with emoji being the name of an emoji you can use or a Twemoji (also make sure the latest message in the channel isn't a system message)"
+ }
+}

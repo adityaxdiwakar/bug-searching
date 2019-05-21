@@ -1,0 +1,17 @@
+{
+ "id": "5ba815c7ba79037bfcfb65a6",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 3024,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FrQeqSL6",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Desktop Simple Discord, 24302",
+  "actual_result": "There appears a visual bug saying that you purchased the Discord Nitro and a text appearing that the code was used.",
+  "expected_result": "To appear a visual bug saying that you purchased the Discord Nitro and a text appearing that the code was used.",
+  "short_description": "Ok so, this glitch makes a visual bug on your screen saying that you've purchased Discord Nitro.",
+  "steps_to_repro": "- Second click on the activate code button - Third type a used code - Fourth click accept and fastly after that click X(enter + the X button from the activate code window) - Fifth repeat this some times until you get the visual bug done(it could take a bit of tries not many)"
+ }
+}

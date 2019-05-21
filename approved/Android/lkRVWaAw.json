@@ -1,0 +1,24 @@
+{
+ "id": "59e4945ae3e5a471d0dd59fc",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 816,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lkRVWaAw",
+ "data": {
+  "system_settings": "Nexus 5X @Android 7.1.1, Windows 10 @version 1607 & OS Build 14393.1770",
+  "client_settings": "- Android: 5.3.8, Desktop: Current release (sorry, can't find version number anywhere?)",
+  "actual_result": "The user ID in a stringified mention from an android device only has numbers, no preceding exclamation mark",
+  "expected_result": "The mention using the android client should include an exclamation mark preceding the user ID in a stringified mention",
+  "short_description": "Mentioning a nicknamed account on Android doesn't prefix the user ID with an exclamation mark in the message's content",
+  "steps_to_repro": "- Setup a simple bot to view messages - Nickname an account - Mention the nicknamed account on desktop, observe the presence of an exclamation mark preceding the user ID in the mention - Mention the nicknamed account using the android app, observe the lack of such exclamation mark"
+ }
+}

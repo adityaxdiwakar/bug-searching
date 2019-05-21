@@ -1,0 +1,17 @@
+{
+ "id": "5bb7287e6c3fd07262732adf",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2103,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/iTo6eAal",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 mini, Android 6.0.1",
+  "client_settings": "Alpha 763",
+  "actual_result": "options for 12h and 1h are blank",
+  "expected_result": "there should be options for \"Never\", \"1day\", \"12h\", \"6h\", \"1h\" and \"30min\"",
+  "short_description": "invite link expire options for 1h and 12h are blank",
+  "steps_to_repro": "- create an invite - tap \u2699 to change \"expire after\" - observe options"
+ }
+}

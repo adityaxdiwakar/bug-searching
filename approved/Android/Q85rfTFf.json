@@ -1,0 +1,17 @@
+{
+ "id": "59bf17e9540b488e3538d37e",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 737,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Q85rfTFf",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 Android 7.0 & GBoard (Google Keyboard)",
+  "client_settings": "Discord 5.1.2",
+  "actual_result": "@ appears instead of , on some keyboards or @ appears anyway",
+  "expected_result": ", appears on keyboard or @ stays away",
+  "short_description": ", is replaced with @ in channel topic",
+  "steps_to_repro": "-Click channels-Select a channel-Click on topic-Observe keyboard, @ has now appeared"
+ }
+}

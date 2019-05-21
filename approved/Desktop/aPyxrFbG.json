@@ -1,0 +1,24 @@
+{
+ "id": "596cc1f9779481b7c9689c4e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 856,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aPyxrFbG",
+ "data": {
+  "system_settings": "Windows 7 Professional, 64-bit",
+  "client_settings": "Desktop, 0.0.297",
+  "actual_result": "The embeds simply load and display in the wrong order, different to the order they were linked in.",
+  "expected_result": "The embedded previews are supposed to be in the correct order, ideally.",
+  "short_description": "When sending multiple embeddable links, the embeds are showing up in the wrong order.",
+  "steps_to_repro": "- Paste a link to an image/video that embeds - Don't send the message- Pase a second link to an image/video that embeds- Send the message"
+ }
+}

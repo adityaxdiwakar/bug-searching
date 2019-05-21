@@ -1,0 +1,17 @@
+{
+ "id": "59c64a65a7879478d3140b7e",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1188,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YSkhWBtm",
+ "data": {
+  "system_settings": "Windows 7 x64",
+  "client_settings": "Desktop Stable, 0.0.298",
+  "actual_result": "The Category name is still here, and collapsing/expanding does nothing",
+  "expected_result": "The Category should disappear from the list",
+  "short_description": "Hide Categories trick is not working if you have Administrator or Manage Channels permission",
+  "steps_to_repro": "- Go to a server with channels in a category - Mute all the channels of the category - Right Click on the Server Icon and Check Hide Muted Channels"
+ }
+}

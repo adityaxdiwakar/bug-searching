@@ -1,0 +1,24 @@
+{
+ "id": "597db1bdfdcf52aebf949b52",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 913,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c922oXtt",
+ "data": {
+  "system_settings": "MacOS 10.12.6 (Latest)",
+  "client_settings": "Discord Stable (Jul 20, 2017 Update)",
+  "actual_result": "The date didn't disappear and got overrided by the \"New message\"",
+  "expected_result": "The date should disappear.",
+  "short_description": "The \"New Message\" overrides the date when you switch language from English (UK) to Traditional Chinese",
+  "steps_to_repro": "- Scroll to the latest unread message - Switch language to Traditional Chinese - The \"\u65b0\u8a0a\u606f\" overrided the date which was not supposed to be there when the language is set to English (UK)."
+ }
+}

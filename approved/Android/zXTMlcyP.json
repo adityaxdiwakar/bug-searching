@@ -1,0 +1,28 @@
+{
+ "id": "581cfa5a3e0e97d37567e77d",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 89,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zXTMlcyP",
+ "data": {
+  "actual_result": "send to the last server channel/group/friend you have/had opened",
+  "expected_result": "let's you select where it's going to or says who it is going to",
+  "short_description": "Sharing a post/picture from an external source (Facebook, etc.) to Discord does not show you who you are sending to till after sent",
+  "steps_to_repro": "- go-to an app that allows sharing (like Facebook)  - share to Discord "
+ }
+}

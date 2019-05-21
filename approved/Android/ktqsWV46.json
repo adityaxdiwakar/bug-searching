@@ -1,0 +1,24 @@
+{
+ "id": "59b1ff8d3f513453bed30686",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 683,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ktqsWV46",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "Alpha 5.1.2",
+  "actual_result": "It clips through the guild drawer then disappears after a short time, 10 seconds or so.",
+  "expected_result": "The text cursor doesn't clip through the guild drawer",
+  "short_description": "Text cursor stays on screen when guild drawer is opened.",
+  "steps_to_repro": "- Bring up your keyboard (for me it's Gboard) - Long press to bring up the copy/paste and text scroll cursor - close the keyboard and open the guild drawer (try to do it quickly, it can be time sensitive) -"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "5853f03ae886de1eb1033c72",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 250,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4ilQptqD",
+ "data": {
+  "system_settings": " win10, latest canary.",
+  "actual_result": "You stay in the same spot you were in.",
+  "expected_result": "when sending a message discord will bring back to the latest one",
+  "short_description": "when the viewing old messages bar is on the screen sending a message won't bring you back to the latest message anymore.",
+  "steps_to_repro": "- scroll up until you see the \"you're viewing old messages\" bar - send a message "
+ }
+}

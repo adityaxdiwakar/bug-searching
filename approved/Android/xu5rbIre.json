@@ -1,0 +1,30 @@
+{
+ "id": "5a284e585cf4229a67ac017b",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 938,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xu5rbIre",
+ "data": {
+  "system_settings": "LG Xpower 6.0.1",
+  "client_settings": "Android Alpha 5.8.3",
+  "actual_result": "You get moved into voice channel and to other text channel on server",
+  "expected_result": "link shouldn't be clickable/shouldn't do anything while pressed",
+  "short_description": "being able to join voice channel via channel link",
+  "steps_to_repro": "- make someone mention voice chat via ID - tap voice chat link"
+ }
+}

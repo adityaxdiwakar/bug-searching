@@ -1,0 +1,17 @@
+{
+ "id": "5c12c81b4200f85e6d791b41",
+ "closed": false,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 3484,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/78nTQ5CP",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Release Channel: stable, Build Number: 29445",
+  "actual_result": "It is still ringing and the icons of the other persons are still there",
+  "expected_result": "It should stop ringing and nobody should be shown other then yourself",
+  "short_description": "Still showing ringing after kicking members from convo",
+  "steps_to_repro": "- Call a friend private(have them not respond) - Add someone to the convo(still no one responds) - Remove everyone except you from the convo"
+ }
+}

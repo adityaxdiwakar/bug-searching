@@ -1,0 +1,24 @@
+{
+ "id": "59f95715a765e98b147c4197",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1337,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GOIQmOip",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6, iMac 14,2/18,1, Pentium G4560, GTX960, 8GB DDR4",
+  "client_settings": "Desktop Canary 0.0.158 Build 6622",
+  "actual_result": "The little dot only animates around half the time",
+  "expected_result": "The little dot should animate between colours consistently",
+  "short_description": "When changing status, the animation on the status dot only works occasionally",
+  "steps_to_repro": "- Change your current status in the bottom left hand corner, try a few times"
+ }
+}

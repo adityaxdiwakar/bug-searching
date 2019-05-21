@@ -1,0 +1,30 @@
+{
+ "id": "5acaceacffe810e50b561a64",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1811,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GgTXIjpL",
+ "data": {
+  "system_settings": "MS Windows 10 Pro x64 (v1709)",
+  "client_settings": "Canary 13313",
+  "actual_result": "The message is deleted and you \"jump back to present\"",
+  "expected_result": "The message should be deleted and you should still be where you were before",
+  "short_description": "Channel jumps to the latest message when the last message is deleted",
+  "steps_to_repro": "- Send a message (happens also if you aren't the author) - Scroll up (it happens UNLESS  the option \"JUMP TO PRESENT\" is visible, so if you have it, scroll down a bit until you don't see it anymore) - Ask someone or a bot to delete the latest message"
+ }
+}

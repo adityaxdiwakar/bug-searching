@@ -1,0 +1,24 @@
+{
+ "id": "5b7ba5e60b54ee145b3d1a1a",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 927,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EdILfQUh",
+ "data": {
+  "system_settings": "iPhone 6 iOS 11.4.1",
+  "client_settings": "Discord TestFlight 2.3.7 (6823)",
+  "actual_result": "You can put unlimited text, but it gets deleted without warning when you leave the profile",
+  "expected_result": "Stopped when reached the character limit",
+  "short_description": "Notes on profile lost when past the limit",
+  "steps_to_repro": "- Go to someone\u2019s profile - fill the notes up past the character limit"
+ }
+}

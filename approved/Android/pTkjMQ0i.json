@@ -1,0 +1,17 @@
+{
+ "id": "5afaffafda181a301a186e80",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1419,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pTkjMQ0i",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.8.8",
+  "actual_result": "You don't see login with Microsoft option, but strangely that option appears as you toggle split screen but again disappears if you auto rotate the screen. Also, you don't see the option on the first place when you open the authorization page, split screen makes it visible. Not sure how users with Android version lower than 7 can reproduce it cause they don't support split screen.",
+  "expected_result": "You should see \"or login with Microsoft\" option at the bottom.",
+  "short_description": "Unable to see \"log in with Microsoft\" option when adding Xbox account in settings>connections.",
+  "steps_to_repro": "Go to user settings>connections and click on add Xbox live account. - On the Xbox account authorization page, you should be able to see \"or login with Microsoft\" option at the bottom of the page. - Keep auto rotation of your device on. - Toggle split screen mode of your device and notice the button at the bottom appears. - Auto rotate your device and see the button disappears again."
+ }
+}

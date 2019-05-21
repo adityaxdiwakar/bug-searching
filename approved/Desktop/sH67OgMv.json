@@ -1,0 +1,30 @@
+{
+ "id": "5c1fcb0fa37edf29b71c4d59",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3538,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sH67OgMv",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Version 10.0.17134",
+  "client_settings": "Release Channel: stable, Build Number: 29783, Version Hash: bf9f33cbe3dd55a651b11804acc743638c80da25",
+  "actual_result": "Discord's main window becomes offset by a varying amount of pixels, sometimes so much that it appears off screen.",
+  "expected_result": "Discord's main window should reappear at the position it was when it was closed.",
+  "short_description": "Discord can launch itself off screen in certain text-scaling configurations",
+  "steps_to_repro": "- Have at least 2 monitors. - Go to display settings and set the text scale to be a different value for at least 1 monitor, preferably one on the left. - Move Discord so that it to the right of the monitor with a different text scale, and note its position. - Exit Discord from the tray and re-launch it. - Observe Discord's position on your screen."
+ }
+}

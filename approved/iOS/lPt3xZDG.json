@@ -1,0 +1,30 @@
+{
+ "id": "59f7062c836a27e3f57ad42d",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 405,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lPt3xZDG",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.0.3 & iPad Air 2 with iOS 11.1 PB 5",
+  "client_settings": "Discord Stable 1.9.4",
+  "actual_result": "You will get an error message (see attached image) and can't save the GIF.",
+  "expected_result": "The GIF should be saved to the photos app.",
+  "short_description": "Linked GIFs can't be saved to the photos app",
+  "steps_to_repro": "- Go to the Desktop app and search for a GIF from giphy/tenor with the slash commands or send the link manually - Send this message with the link to the GIF - Now go back to the iOS app and open the GIF - Click again on this GIF in the image preview to open the buttons to interact with it - Click on the 3 dots and try to save the GIF to your photos app"
+ }
+}

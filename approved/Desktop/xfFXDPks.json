@@ -1,0 +1,30 @@
+{
+ "id": "5b96ac33405c560156574895",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2956,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xfFXDPks",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS, Asus Netbook F551C, Intel Core i3 64bits",
+  "client_settings": "Discord Canary 23321",
+  "actual_result": "Text shows italics in expanded topic but not in header. Happens with bold as well.",
+  "expected_result": "Italics should render in both header and expanded version",
+  "short_description": "Bold and italics in channel topic won't render in channel header, but render fine once you expand the channel topic",
+  "steps_to_repro": "- Edit a channel and set a channel topic as one word wrapped between single asterisks - Observe the channel topic in the header. No italics - Now clickto expand the channel topic. Italics work there"
+ }
+}

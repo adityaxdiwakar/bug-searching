@@ -1,0 +1,36 @@
+{
+ "id": "59a411218bb455085e19cb78",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 307,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3mtEfdvV",
+ "data": {
+  "system_settings": "iOS 10.3.3 Iphone 6",
+  "client_settings": "Testflight 1.9.1",
+  "actual_result": "Buttons are grayed out",
+  "expected_result": "Buttons are colored correctly",
+  "short_description": "Grayed out \"...\" and share button on photos",
+  "steps_to_repro": "- Tap a photo - Look in top right corner and see buttons are grayed - Side note: They are still usable"
+ }
+}

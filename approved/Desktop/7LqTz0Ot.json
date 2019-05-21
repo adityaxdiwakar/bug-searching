@@ -1,0 +1,23 @@
+{
+ "id": "5891804f85161b20e9bffa0e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 368,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7LqTz0Ot",
+ "data": {
+  "system_settings": " Windows, both stable and canary",
+  "actual_result": "Nothing happens on desktop, but URL is handled correctly on Android",
+  "expected_result": "URL is parsed correctly and becomes clickable",
+  "short_description": "URL following colon doesn't get parsed correctly",
+  "steps_to_repro": "- Send message containing URL with a colon directly in front "
+ }
+}

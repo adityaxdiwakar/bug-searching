@@ -1,0 +1,24 @@
+{
+ "id": "591ddf60cc9b4f230a969687",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 471,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yhOVsToI",
+ "data": {
+  "system_settings": "OnePlus One, Android 6.0.1",
+  "client_settings": "Android Alpha 3.8.7",
+  "actual_result": "no notification",
+  "expected_result": "Get pinged",
+  "short_description": "Notifications not pushing for channels set to all messages",
+  "steps_to_repro": "- Set notification settings on a channel to all messages - close the app and wait for a message"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "596d26b7b1883e22450aa92b",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 857,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MnHfAQoq",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Creators Update (1703)",
+  "client_settings": "Canary 0.0.158 (2301)",
+  "actual_result": "The group DM is not listed in the quick switcher (while it IS shown, however, if you invoke the QS from a (group) DM or a server)",
+  "expected_result": "The group DM is listed in the quick switcher",
+  "short_description": "Group DMs aren't listed in the Quick Switcher when invoking it from the friends list page",
+  "steps_to_repro": "- Make sure you're part of a group DM - Go to your friends list - Invoke Quick Switcher via either Ctrl + K or Ctrl + T (or Cmd + K/Cmd + T if you're on macOS) - Search for a group DM you're in"
+ }
+}

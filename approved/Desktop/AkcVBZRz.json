@@ -1,0 +1,30 @@
+{
+ "id": "59e80d62c5d70a9bf7c87df9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1289,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AkcVBZRz",
+ "data": {
+  "system_settings": "Asus 2-in-1 PC Transformer book T100TA Windows 10 Home 32-bit, x64-based processor",
+  "client_settings": "Discord Canary 0.0.165",
+  "actual_result": "It stuck maximized",
+  "expected_result": "The app should restore down like other apps",
+  "short_description": "Can't restore down with the finger (**Happens only with Touchscreen devices**)",
+  "steps_to_repro": "- Open discord - Press/hold the top of the screen with your finger - Drag it down vertically (to the center maybe?)"
+ }
+}

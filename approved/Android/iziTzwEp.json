@@ -1,0 +1,29 @@
+{
+ "id": "590c9309c8fadcea343abf64",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 431,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iziTzwEp",
+ "data": {
+  "system_settings": " Android 7.0 Discord 3.8.2",
+  "actual_result": "The emojis are small",
+  "expected_result": "The emojis are jumbo",
+  "short_description": "Putting spaces between emojis make them small instead of jumbo like on PC",
+  "steps_to_repro": "- Type two emojis - Put a space in between them "
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "5993f13e2871e051fc154dc0",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 291,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jgBja2uA",
+ "data": {
+  "system_settings": "iPhone 5S iOS 9.3.2",
+  "client_settings": "1.8.9 (Testflight)",
+  "actual_result": "Opens up the embed onto a browser/YouTube app",
+  "expected_result": "Swipe to the side without opening the link as you have moved over it",
+  "short_description": "Swiping to the side over a link embed causes it to load up the link",
+  "steps_to_repro": "- Be on a channel with a pressable article/video embed visible - Try to Swipe to the side over that link"
+ }
+}

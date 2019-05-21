@@ -1,0 +1,23 @@
+{
+ "id": "5902011de37ea4da0ce1bf40",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 412,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/q6vRIm6L",
+ "data": {
+  "system_settings": " Android 5.1.1, Discord 3.7.8",
+  "actual_result": "Can view images in NSFW channel before touching continue.",
+  "expected_result": "Nothing should happen",
+  "short_description": "Can touch and view images in NSFW channels even with the NSFW warning",
+  "steps_to_repro": "- Make sure the last image sent in the channel is an image, either by someone else sending a image - Touch the screen "
+ }
+}

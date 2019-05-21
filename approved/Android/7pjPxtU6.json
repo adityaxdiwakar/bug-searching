@@ -1,0 +1,24 @@
+{
+ "id": "59bc3d5578dd3c06aa6b8370",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 724,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7pjPxtU6",
+ "data": {
+  "system_settings": "Moto E2, Android 6.0",
+  "client_settings": "Android Alpha 5.1.6",
+  "actual_result": "A toast notification say 'Channel has been deleted.'",
+  "expected_result": "A toast notification should say 'Category has been deleted.'",
+  "short_description": "Toast notification for deleting a category say you have deleted a channel",
+  "steps_to_repro": "- Create a category - Delete the category"
+ }
+}

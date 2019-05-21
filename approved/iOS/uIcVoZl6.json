@@ -1,0 +1,36 @@
+{
+ "id": "59ef2b4ba78eeca98ae1ae43",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 381,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uIcVoZl6",
+ "data": {
+  "system_settings": "iPhone 5s with iOS 11.0.3 (15A432)",
+  "client_settings": "TestFlight 1.9.3 (1268)",
+  "actual_result": "You only see the server icon and Join/Open {servername} depending if you are in the server or not",
+  "expected_result": "Chat bar would go down, seeing the full preview of the server you're going to",
+  "short_description": "Chat bar doesn't go off when it's opened and tapped on a server invite",
+  "steps_to_repro": "- Create an invite to any server - Post it in chat ( Can be server or dm ) - Tap on the chat bar - Tap on the server invite while the bar is active"
+ }
+}

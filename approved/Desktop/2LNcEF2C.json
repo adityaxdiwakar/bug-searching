@@ -1,0 +1,17 @@
+{
+ "id": "5b5356d7a3220935bcdf344b",
+ "closed": true,
+ "idList": "5952c5a696b4349f964d3cbd",
+ "idShort": 2394,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2LNcEF2C",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 19429",
+  "actual_result": "Nothing happens when it is clicked even though it appears to be clickable",
+  "expected_result": "You're taken into the server the Voice Channel is in like in the app",
+  "short_description": "Voice Channel's name under \"Voice Connected\" doesn't direct you to the server when clicked on in the Overlay",
+  "steps_to_repro": "- Open a game - Open the Overlay - Join a Voice Channel in a server - Go into another server - Attempt to click the Voice Channel's name under the \"Voice Connected\""
+ }
+}

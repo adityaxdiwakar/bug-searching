@@ -1,0 +1,17 @@
+{
+ "id": "5b505d3532bfe15b82334f2a",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2327,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/43cVtlu1",
+ "data": {
+  "system_settings": "macOS High Sierra",
+  "client_settings": "Canary build 19105",
+  "actual_result": "URL and message content wrap at window boundary;",
+  "expected_result": "url and message content will wrap properly",
+  "short_description": "Message text overflows under the members sidebar when message contains long URL.",
+  "steps_to_repro": "- Set compact mode - Send a message with a long URL, such as a Discord attachment link"
+ }
+}

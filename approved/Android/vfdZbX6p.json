@@ -1,0 +1,30 @@
+{
+ "id": "5b9313bde69eed79df018063",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1945,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vfdZbX6p",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.4.7",
+  "actual_result": "Switching to Friends tab preserves the \"opened\" state of the emoji picker, so when you switch to a different server you see the emoji picker open unexpectedly",
+  "expected_result": "Emoji picker should be closed",
+  "short_description": "Switching to Friends tab and going back to server preserves emoji picker open",
+  "steps_to_repro": "- Switch to Friends tab - Switch to a server and open emoji picker - Go back to Friends tab and eventually do stuff (accept friend requests, unblock people, etc) - Go back to the server (or a different one, doesn't matter)"
+ }
+}

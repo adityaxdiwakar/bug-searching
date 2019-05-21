@@ -1,0 +1,17 @@
+{
+ "id": "5a3c72f23b354a3a0c603e50",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 983,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7d2FX3BO",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 5.9.3",
+  "actual_result": "no search",
+  "expected_result": "search opens",
+  "short_description": "search no longer opens",
+  "steps_to_repro": "- click the magnifying glass - observe"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bd12007b1d7d92a9ced2f97",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1108,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QwKaV76x",
+ "data": {
+  "system_settings": "iOS 12.1 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.9 (8441)",
+  "actual_result": "Quick switcher will flash as if it were open before it actually opens",
+  "expected_result": "Quick switcher opens smoothly",
+  "short_description": "Open and closing the quick switcher multiple times via the \"Find or start a conversation\" bar will cause the quick switcher to occasionally flash as though it was open before it opens",
+  "steps_to_repro": "- Open Discord and go to a random DM with a user - Open the DM list and open the close the quick switcher via the \"Find or start a conversation\" bar multiple times - Observe the animation of the quick switcher opening each time it opens - Make sure to open and close the quick switcher at least 5 times"
+ }
+}

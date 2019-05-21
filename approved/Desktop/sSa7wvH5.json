@@ -1,0 +1,24 @@
+{
+ "id": "5a64e0842229b2eba6c65a6e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1570,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sSa7wvH5",
+ "data": {
+  "system_settings": "Arch Linux",
+  "client_settings": "Canary build 9714",
+  "actual_result": "The same 50 are repeated every time the client tries to paginate",
+  "expected_result": "You should be able to look back further than 50 recent mentions",
+  "short_description": "Recent mentions doesn't paginate properly",
+  "steps_to_repro": "- Get mentioned enough times that you can scroll thru recent mentions (Make sure you know the messages are different!) - Hop into recent mentions and take note of the content of the message on top - Scroll to the bottom until it starts loading the next page - Observe that the first message of the next page is the same as the one you saw already - Repeat this as many times as you like and see that it just doesn't paginate"
+ }
+}

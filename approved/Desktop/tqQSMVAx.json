@@ -1,0 +1,17 @@
+{
+ "id": "5a73a8ea1527451221a191c9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1614,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tqQSMVAx",
+ "data": {
+  "system_settings": "windows 10 fall cu x64",
+  "client_settings": "canary 10149",
+  "actual_result": "mini profile stays",
+  "expected_result": "mini profile should close",
+  "short_description": "Mini profile doesnt close when opening big profile",
+  "steps_to_repro": "- Join someone listening on spotify or have people join you - click on a user icon in the Listening Along section - view profile"
+ }
+}

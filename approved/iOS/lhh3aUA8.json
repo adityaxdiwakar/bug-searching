@@ -1,0 +1,36 @@
+{
+ "id": "5a94c554d5ecb1acc554269a",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 608,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lhh3aUA8",
+ "data": {
+  "system_settings": "iOS 10.3.3, iPhone 5s",
+  "client_settings": "Discord TestFlight 2.2.5, Build 2798",
+  "actual_result": "Channel Topic remains extended",
+  "expected_result": "Channel Topic retracts back",
+  "short_description": "Channel Topic remains extended after closing & re-opening the Members List",
+  "steps_to_repro": "- Go into a channel with a long enough Channel Topic to be tapped to extend - Close the Members List and re-open it"
+ }
+}

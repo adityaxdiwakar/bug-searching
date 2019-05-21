@@ -1,0 +1,15 @@
+{
+ "id": "58121db42e2598eae5ff2028",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 76,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bLNhIz9E",
+ "data": {
+  "actual_result": "nothing happens, error in console.",
+  "expected_result": "the modal disappears.",
+  "short_description": "Pressing ESC when the \"Add Reaction\" window is open does nothing and generates a JS error in the console",
+  "steps_to_repro": "- Click \"Add Reaction\" - Press Esc. "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a64214abee6f394bfaf6936",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1052,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9ATYkBEr",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.1.0",
+  "actual_result": "\"Discord Nitro\" is barely visible",
+  "expected_result": "\"Discord Nitro\" should be clearly visible next to the badge",
+  "short_description": "Hard to read the \"Discord Nitro\" text next to the badge on light theme",
+  "steps_to_repro": "- Switch to light theme - Open someone's profile who only has the nitro badge - Observe the text next to the badge"
+ }
+}

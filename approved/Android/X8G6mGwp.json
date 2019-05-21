@@ -1,0 +1,30 @@
+{
+ "id": "5bc1af37986c764bb36ed045",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2165,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/X8G6mGwp",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 768",
+  "actual_result": "There is no line separating them.",
+  "expected_result": "There should be a line separating them.",
+  "short_description": "There's no line separating the \"Use speaker\" toggle and Video category in the voice & video subsettings.",
+  "steps_to_repro": "- Open Settings>Voice & Video. - Observe the place between use speaker toggle and the video category."
+ }
+}

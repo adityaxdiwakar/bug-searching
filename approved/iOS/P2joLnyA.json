@@ -1,0 +1,24 @@
+{
+ "id": "5b7f429f097bd866c37bcc31",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 941,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/P2joLnyA",
+ "data": {
+  "system_settings": "iPhone 8 Plus, iPad Air 2 - iOS 12 Public Beta 8",
+  "client_settings": "TestFlight 2.3.7 (6914)",
+  "actual_result": "Nothing happens, Discord doesn't ask for this permission and you don't see it in your iOS settings.",
+  "expected_result": "Discord should ask for location services permission.",
+  "short_description": "Nearby Feature: Discord doesn't ask for Location Services permission",
+  "steps_to_repro": "- Go to your friends screen - Click on the add friends button - Click on `Find Friends` - If necessary, click a second time"
+ }
+}

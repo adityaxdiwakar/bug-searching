@@ -1,0 +1,30 @@
+{
+ "id": "598fbaaab02a9b31924637ee",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 980,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Cih6zEVU",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Desktop Canary 0.0.163",
+  "actual_result": "A loading screen appears and a spinner is shown but it never goes away. Discord is attempting to open a non-existant channel and failing.",
+  "expected_result": "Discord should show an error or just open the top-level channel",
+  "short_description": "Clicking a Windows notification from a deleted channel will cause a never-ending loading screen",
+  "steps_to_repro": "- Enter a server and click a text channel - Have another user send a message in a different channel - While the Windows notification is still on-screen, delete the channel the notification came from - Click the notification"
+ }
+}

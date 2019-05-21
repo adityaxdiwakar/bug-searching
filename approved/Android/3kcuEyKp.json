@@ -1,0 +1,23 @@
+{
+ "id": "58b7c8de0a39ad540612aaf2",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 270,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3kcuEyKp",
+ "data": {
+  "system_settings": " Android 6.0.1 Discord Latest Alpha.",
+  "actual_result": "You can't join the voice channel as Discord acts like you are still in the channel you were moved from.",
+  "expected_result": "Should allow you to join the channel you were moved from.",
+  "short_description": "After being moved Discord acts as if you are still in the channel you were moved from.",
+  "steps_to_repro": "- Join a voice channel. - Have someone move you. - Try to join the channel you were moved from. "
+ }
+}

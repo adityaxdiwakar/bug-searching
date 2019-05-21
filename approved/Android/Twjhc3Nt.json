@@ -1,0 +1,30 @@
+{
+ "id": "5b79e91d5a7499383b34a6d4",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1854,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Twjhc3Nt",
+ "data": {
+  "system_settings": "Discord v7.1.8, Huawai Mate 10 Lite",
+  "client_settings": "Android 8.0",
+  "actual_result": "now you can see all voice channels, even if you have no perms to see them in general and can click one one to move the user or yourself into every voice channel on the server you want to. (PS: you can't really move the user, you'll still be in the same channel but it says that you successfully moved the user to the channel.)",
+  "expected_result": "You should only be able to see voice channels, which you have perms for.",
+  "short_description": "Moving to channels and seeing channels without permissions",
+  "steps_to_repro": "- if you have moving perms but can't see all voice channels, connect to a voice channel - slide back into the chat window and click on the arrow up in the bottum right corner - click on your or another user that is in your channel - scroll down and select \"move to\""
+ }
+}

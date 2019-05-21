@@ -1,0 +1,17 @@
+{
+ "id": "5c338bc701d4156af1fe29d7",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2417,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CVgmBCSx",
+ "data": {
+  "system_settings": "ASUS Zenfone max pro m1 Android 8.1.0",
+  "client_settings": "Alpha 8.2.4",
+  "actual_result": "App crashes badly",
+  "expected_result": "You should be able to use discord while listening to music",
+  "short_description": "Hard crashing of discord upon skipping songs on Spotify ( might take a few tries and lot of patience to reproduce)",
+  "steps_to_repro": "- Have a Spotify account connected to discord  - Play a song on Spotify and wait for discord to detect it  - Play 3 to 4 songs without skipping  - Pause the song and go to another app (preferably YouTube) make sure you don't swipe discord or  Spotify away from recent apps - Use the other app for sometime  (untill your OS automatically closes discord due to inactivity, might take upto half an hour - Now go to Spotify and search a new song and play it  - Go back to discord via recent apps"
+ }
+}

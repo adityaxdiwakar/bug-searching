@@ -1,0 +1,17 @@
+{
+ "id": "5bb47c5ef19e025e84e5a0f7",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2091,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/koidp8AT",
+ "data": {
+  "system_settings": "Asus Zenfone 2 Deluxe, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.6.2",
+  "actual_result": "No role names (only 4 asterisks shown)",
+  "expected_result": "Role name shows",
+  "short_description": "[Audit Log] Modifying a role's permission will leave an empty role name",
+  "steps_to_repro": "- Open Server settings > Role - Open one role and edit its one permission - Go back to server settings > Audit Logs and observe"
+ }
+}

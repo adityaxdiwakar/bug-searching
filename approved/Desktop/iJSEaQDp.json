@@ -1,0 +1,16 @@
+{
+ "id": "588410d7530ab1ad3243d6bb",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 346,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/iJSEaQDp",
+ "data": {
+  "system_settings": " Win 10 x64, discord canary",
+  "actual_result": "no reaction (flickers in then out)",
+  "expected_result": "a reaction",
+  "short_description": "Reacts for custom emojis dont work with PARTNER nitro",
+  "steps_to_repro": "- react to a message with partner nitro using a emoji not on the server your on "
+ }
+}

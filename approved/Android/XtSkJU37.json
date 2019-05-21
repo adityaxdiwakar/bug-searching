@@ -1,0 +1,30 @@
+{
+ "id": "5ac015fb47a4dd13aea9b908",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1237,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XtSkJU37",
+ "data": {
+  "system_settings": "Samsung j3 Android 6.0.1",
+  "client_settings": "Discord Alpha 6.4.3",
+  "actual_result": "It will say the user is typing for about two (2) seconds even though they are not",
+  "expected_result": "You will open up the DM, and it will only say the user is typing if they actually are",
+  "short_description": "Says that a user is typing (when they are not) in DMs for a couple seconds when you open discord",
+  "steps_to_repro": "- switch to the DM you will be receiving a message from - close discord - receive the DM while discord is closed - open the DM you received while discord was closed (also works if you quickly switch to that DM after opening discord)"
+ }
+}

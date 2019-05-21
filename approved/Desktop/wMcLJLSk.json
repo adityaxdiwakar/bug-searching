@@ -1,0 +1,30 @@
+{
+ "id": "5b2c77f5f3d8984cdea38861",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2180,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wMcLJLSk",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.5",
+  "client_settings": "Canary Build 17481",
+  "actual_result": "You also see bots with a streaming status.",
+  "expected_result": "Only users should show up in the games tab.",
+  "short_description": "Games tab shows bots with streaming status/rich presence",
+  "steps_to_repro": "- Find or have any bot that has a streaming status - Click on the Home icon - Open the Games tab - Observe the now playing section"
+ }
+}

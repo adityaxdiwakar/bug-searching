@@ -1,0 +1,17 @@
+{
+ "id": "5b548bff1f38d83c3cd191d6",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2402,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Z7szNYbg",
+ "data": {
+  "system_settings": "MacBook Pro (Retina, 13-inch, Early 2015) - macOS Majave 10.14 Beta (18A293u)",
+  "client_settings": "Canary 17688",
+  "actual_result": "Discord shows a blank screen",
+  "expected_result": "Discord open correctly and let me chat w/ my friends",
+  "short_description": "[macOS Mojave only] Canary update won't load",
+  "steps_to_repro": "- update discord - observe"
+ }
+}

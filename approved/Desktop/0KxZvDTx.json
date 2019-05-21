@@ -1,0 +1,23 @@
+{
+ "id": "5912a7dd7b7349f59aa2aaba",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 622,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0KxZvDTx",
+ "data": {
+  "system_settings": " windows 10 creators",
+  "actual_result": "a unicode \u2122 appears in chat",
+  "expected_result": "the tm emoji to appear in chat",
+  "short_description": "the `:tm:` emoji appears as unicode on desktop",
+  "steps_to_repro": "- open a channel - open the emoji picker and find the `tm` emoji - click it and send it as a message to the channel "
+ }
+}

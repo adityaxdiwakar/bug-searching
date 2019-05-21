@@ -1,0 +1,24 @@
+{
+ "id": "59c257d2819748b00a5f65e3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1173,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/v6oY6VWw",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Normal on desktop, and Canary on desktop.",
+  "actual_result": "Slider does not vanish.",
+  "expected_result": "Slider is suppose to vanish.",
+  "short_description": "Slider that shows up when cursor is on users list, but if you go over the edge it stays.",
+  "steps_to_repro": "- Put cursor on members list. - Slider shows up. - Go over the edge with cursor, it does not vanish."
+ }
+}

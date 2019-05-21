@@ -1,0 +1,30 @@
+{
+ "id": "5b609dd233da6115e078fb34",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 860,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QIkYeYx1",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.6 (6095)",
+  "actual_result": "Typing indicator is cut off",
+  "expected_result": "Typing indicator isn't cut off",
+  "short_description": "Typing indicator gets cut off when all the way to the right (requires the right characters)",
+  "steps_to_repro": "- Type a message that goes fully to the right side of the message bar without making a new line (I achieved this with \"Oh hey, is that Mercy? *knows nothing about\") - Observe the typing indicator"
+ }
+}

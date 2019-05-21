@@ -1,0 +1,30 @@
+{
+ "id": "5b6ca8ed030f944c53900cc5",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 2655,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VCIoPArO",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 21405",
+  "actual_result": "The NSFW is still present, even after a reload",
+  "expected_result": "The NSFW warning shouldn't be present because you agreed to it on the overlay",
+  "short_description": "Agreeing to a NSFW channel on the overlay doesn't agree in the desktop client",
+  "steps_to_repro": "- Open the overlay - Navigate to a channel that will present you with a NSFW warning - Agree to the warning on the overlay - Observe the channel on desktop"
+ }
+}

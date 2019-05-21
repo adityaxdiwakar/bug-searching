@@ -1,0 +1,30 @@
+{
+ "id": "5bd923fc292d675961b1ff17",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3318,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QBiWhX1U",
+ "data": {
+  "system_settings": "macOS 10.14.1",
+  "client_settings": "Canary 27140",
+  "actual_result": "A draft of the mention is created, which the user cannot see or remove without using localstorage, but shows in quickswitcher drafts",
+  "expected_result": "Nothing",
+  "short_description": "Clicking mention button for invalid invites makes a draft in channels with no Send permissions",
+  "steps_to_repro": "- Enter a channel where you have no send/type permissions - have someone send an invalid invite in that channel - click \"ask [user] for another invite\" - launch quickswitcher and observe drafts"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ad48f0ebd4adc830be1a3fc",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1283,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aStGn5Xo",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.9",
+  "actual_result": "It doesn't generate the link, but if you tap the gear icon again you can see that your new duration is still selected. Also if you exit out of the Create invite screen and come back, the link will immediately be generated with the duration you selected",
+  "expected_result": "Either it discards the changes and revert your selection back to the initial link duration, or it takes your changes into account and generates the link immediately",
+  "short_description": "In the create invite screen, changing the duration of the link and tapping ouside the menu won't generate the link but the selection will persist",
+  "steps_to_repro": "- Go to a server where you have perms to create invites - Open Create an invite menu - Take note of the link it generates at first for you - Tap the gear icon and change the link duration - Close the menu by tapping outside of it"
+ }
+}

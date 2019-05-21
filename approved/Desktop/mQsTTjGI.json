@@ -1,0 +1,30 @@
+{
+ "id": "5a625003fd41d2b8b8d01b97",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1564,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mQsTTjGI",
+ "data": {
+  "system_settings": "Windows 10 , Lenovo ideapad 510",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 9672, Version Hash: e8ecbdade16e008a41dca2c84f0e3d4aa4224223",
+  "actual_result": "The gif does not play although it processes and loads up like normal.",
+  "expected_result": "The gif is supposed to play like normal.",
+  "short_description": "The gif fails to play even though it loads up and processes. Submitted for Hazard#9874",
+  "steps_to_repro": "- Open Discord - Attach a gif file 4.20mb or higher - Hover over the gif after it's processed."
+ }
+}

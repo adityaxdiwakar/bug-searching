@@ -1,0 +1,30 @@
+{
+ "id": "59e73ac1bb7f7cca1774c805",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1285,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mBx51jfZ",
+ "data": {
+  "system_settings": "Linux Kubuntu 17.04 using Plasma",
+  "client_settings": "Discord Alpha 0.0.24",
+  "actual_result": "Tries to load, but disappears",
+  "expected_result": "Supposed to show up a preview (link on mobile)",
+  "short_description": "Any image link with `~` in it wont preview up (it wont show up in embeds too)",
+  "steps_to_repro": "- Find an image with `~` in its url - post it"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a5ea007a2ef908b85573eba",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1041,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5WJFb5dB",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.1.0",
+  "actual_result": "They are both opened, overlapping on each other and hiding the chat completely",
+  "expected_result": "One of them should end up to close (older versions had this behavior)",
+  "short_description": "Able to open both channel list and member list at the same time",
+  "steps_to_repro": "- View any server - Press simultaneously on Members button and Channek list button"
+ }
+}

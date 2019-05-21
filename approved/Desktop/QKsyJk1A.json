@@ -1,0 +1,24 @@
+{
+ "id": "59a219a29fdcb741117b2ce3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1052,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QKsyJk1A",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "0.0.298",
+  "actual_result": "Each time a new message is sent until the server's hour also rolls around, a message break appears, then disappears",
+  "expected_result": "The server just inserts the message break when *it* thinks it's time, since this would just lead to one delayed message break sometimes on the hour",
+  "short_description": "When the next hour has started in client time but not yet in server time, message breaks between a single user's messages repeatedly appear and disappear",
+  "steps_to_repro": "- Set PC clock 1 minute ahead - Find a channel where no one else is talking (might interrupt test) - Send a message right before the hour rolls over - Send messages after"
+ }
+}

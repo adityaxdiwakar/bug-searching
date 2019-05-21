@@ -1,0 +1,30 @@
+{
+ "id": "59d5290b175c759849f8c5e5",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 358,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jZUit3lr",
+ "data": {
+  "system_settings": "iOS 11.0.1 (15A402), iPhone 6",
+  "client_settings": "TestFlight 1.9.2 (930)",
+  "actual_result": "The notification badges gets an additional count based on how many you had before you got logged out from disabling 2FA.",
+  "expected_result": "Notification Badges go away when logged out, and the number shown reflects the actual amount of notifs you're supposed to have.",
+  "short_description": "Notification Badges stay after being forcibly logged out of your account from disabling 2FA.",
+  "steps_to_repro": "- Enable 2FA - Get Notification Badges - On PC, remove 2FA - Login again in iOS - Get more Notification Badges"
+ }
+}

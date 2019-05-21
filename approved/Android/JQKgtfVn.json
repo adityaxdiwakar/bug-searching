@@ -1,0 +1,30 @@
+{
+ "id": "5b07b40d1c950196ded15af0",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1467,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JQKgtfVn",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.8.0",
+  "actual_result": "Rotating/splitting screen after expanding the add channel (+) button makes those options stay forever on that screen (won't collapse back) and clicking on any one of them makes Discord crash",
+  "expected_result": "The popup options should expand and collapse back normally even after rotating/splitting the screen and Discord shouldn't crash after clicking on any of those icons",
+  "short_description": "Rotating device (or splitting screen) while add channel button is expanded in server settings>channels makes the popup options stuck and crashes Discord if clicked on any one of them",
+  "steps_to_repro": "- Go to channels in server settings - Click on the plus (+) button on the bottom right of your screen to expand it and see option icons such as add category, add voice channel and add text channel, clicking back on that button will collapse the options back - Again click on the plus icon but this time don't collapse the button again, and rotate (or split screen) your device.  - Notice that popup options stays onscreen forever and won't collapse back - Click on any one of the popup options, notice Discord crashes, if not , again press on another popup option"
+ }
+}

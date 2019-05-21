@@ -1,0 +1,30 @@
+{
+ "id": "5aeaa2fce51d907714094b10",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1360,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8kWFu2pZ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.6.0",
+  "actual_result": "Trigger two toasts, \"Message must be 2000 characters or less\" and \"Unable to preprocess file\", even though there's no file at all",
+  "expected_result": "Should trigger only one toast, \"Message must be 2000 characters or less\"",
+  "short_description": "Attempting to share a 2k+ character-long text will trigger a toast referring to files",
+  "steps_to_repro": "- Share a text into discord, for example a link - Fill the comment box so it's more than 2000 characters - Hit Send"
+ }
+}

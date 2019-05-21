@@ -1,0 +1,30 @@
+{
+ "id": "5b3bda8cf874be6490736122",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2231,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UbP3xWIE",
+ "data": {
+  "system_settings": "Windows 8.1 64 bit (wont be reproduceable on web as control+tab and control+shift+tab change tabs in most browsers)",
+  "client_settings": "Canary build 18108",
+  "actual_result": "Nothing happense",
+  "expected_result": "Discord switches to the next server (or wraps around to last DM or friends/game tab). Discord switches down if control+tab was pressed and up if control+shift+tab was pressed.",
+  "short_description": "control+tab and control+shift+tab switch server shortcuts do not work if message bar is in focus",
+  "steps_to_repro": "- press control+tab or control+shift+tab when the message bar is in focus"
+ }
+}

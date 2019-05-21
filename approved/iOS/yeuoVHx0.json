@@ -1,0 +1,24 @@
+{
+ "id": "5be460b9cd75a73cc0515c67",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1156,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yeuoVHx0",
+ "data": {
+  "system_settings": "iPhone 8, iOS 12.0.1",
+  "client_settings": "TestFlight v2.4.0 (8921)",
+  "actual_result": "Animated Emoji is not disabled (keeps playing)",
+  "expected_result": "Animated Emoji is disabled (stops playing)",
+  "short_description": "When a bot sends an animated emoji in an embed it stays disabled when you have 'Play Animated Emoji.' turned on.",
+  "steps_to_repro": "- Make a bot send an animated emoji in an embed- Observe - (Make sure your Emoji settings are both turned on. Go to settings > Text & Images"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "59164d31ae6bb4a6ffd26b37",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 633,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1IQ9kYoB",
+ "data": {
+  "system_settings": " arch 0.16 canary",
+  "actual_result": "wrong sizing for both emojis and the number of reactions",
+  "expected_result": "regular sized emojis and numbers",
+  "short_description": "emojis in reactions are larger than they should be",
+  "steps_to_repro": "- react ot a message - look at it. "
+ }
+}

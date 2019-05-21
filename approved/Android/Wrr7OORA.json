@@ -1,0 +1,30 @@
+{
+ "id": "5b6a337400559a2a119da8c8",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1795,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Wrr7OORA",
+ "data": {
+  "system_settings": "Android 7.0",
+  "client_settings": "Discord 7.1.8",
+  "actual_result": "Randomly teleports and lags every somr time",
+  "expected_result": "Should go smooth and well",
+  "short_description": "Spotify song text lags and randomly teleports",
+  "steps_to_repro": "- click on someone on the guild member list, whos using spotify -  - watch the current song text and wait until happens -"
+ }
+}

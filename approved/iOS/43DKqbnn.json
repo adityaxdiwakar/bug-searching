@@ -1,0 +1,24 @@
+{
+ "id": "5a94d1639582b6f9854099fd",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 609,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/43DKqbnn",
+ "data": {
+  "system_settings": "iPhone 6s & iPad Air 2, iOS 11.3 PB 3",
+  "client_settings": "TestFlight 2.2.5 (2798)",
+  "actual_result": "You will see nothing, the avatar is just not displayed.",
+  "expected_result": "The avatar should be shown",
+  "short_description": "Default avatars for messages not shown",
+  "steps_to_repro": "- Find a message from a user with a default avatar (not own avatar) - Observe it"
+ }
+}

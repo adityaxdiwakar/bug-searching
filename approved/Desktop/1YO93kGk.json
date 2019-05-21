@@ -1,0 +1,30 @@
+{
+ "id": "59d660f681b402815782d163",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1223,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1YO93kGk",
+ "data": {
+  "system_settings": "Multiple users on multiple devices",
+  "client_settings": "Android Alpha (multiple clients)",
+  "actual_result": "User gets notified for the role mention, but the message is not yellow",
+  "expected_result": "No notification",
+  "short_description": "Notification for role mention when user is not in role",
+  "steps_to_repro": "- Be on a *large* server (like discord-developers with a moderator ping) - Change *Notification Settings* to notify on *All Messages* - Get someone to mention a role that you are not in."
+ }
+}

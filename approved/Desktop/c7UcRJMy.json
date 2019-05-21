@@ -1,0 +1,30 @@
+{
+ "id": "5c1348ecb6d07362a60c60ad",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3491,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c7UcRJMy",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1803)",
+  "client_settings": "Discord Canary 0.0.224, Build 29653",
+  "actual_result": "The scroll bar is before the emoji icon",
+  "expected_result": "The scroll bar should be against the right side after the emoji icon",
+  "short_description": "Text field scroll bar is before the emoji icon",
+  "steps_to_repro": "- Go into a channel you can send messages in - Enter enough new lines into the text field so that you have a scroll bar and observe"
+ }
+}

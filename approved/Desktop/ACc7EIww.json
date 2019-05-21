@@ -1,0 +1,17 @@
+{
+ "id": "5b7ec7dc16938a3f0a2ebb94",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2773,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ACc7EIww",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Desktop Stable, 22333",
+  "actual_result": "Descriptions of options don't end with periods.",
+  "expected_result": "Descriptions of options end with periods as everywhere else.",
+  "short_description": "Descriptions of options in Windows Settings don't end with periods",
+  "steps_to_repro": "- Open settings. - Open Windows Settings."
+ }
+}

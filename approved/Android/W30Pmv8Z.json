@@ -1,0 +1,23 @@
+{
+ "id": "58fa7ae885c4be7f86be134e",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 397,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/W30Pmv8Z",
+ "data": {
+  "system_settings": " android 5.0.2 discord 3.7.0",
+  "actual_result": "it shows up.",
+  "expected_result": "emote doesn't show up recently used",
+  "short_description": "adding an emote without sending the message adds that emote to the recent ones",
+  "steps_to_repro": "- Open emote keyboard - add an emote - open the emote keyboard again "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a3ce40c829662d38e272281",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 991,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/44yPrwe4",
+ "data": {
+  "system_settings": "android 6.0.1 on lg xpower",
+  "client_settings": "alpha 5.9.4",
+  "actual_result": "messages don't load, last loaded message is last one you can see",
+  "expected_result": "messages should load after scrolling to top",
+  "short_description": "can't load older messages in landscape mode",
+  "steps_to_repro": "- turn your phone to landscape mode - scroll up to read older messages"
+ }
+}

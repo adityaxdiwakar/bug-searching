@@ -1,0 +1,30 @@
+{
+ "id": "5a734158f13f97bbf85bbb2c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1611,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MXioYXEK",
+ "data": {
+  "system_settings": "Windows 10 Education 64bit",
+  "client_settings": "Discord Canary Build 10141",
+  "actual_result": "You see a list of listeners but the discrims are a bit too dark to be read on dark theme",
+  "expected_result": "You see a list of listeners with their discrims all readable",
+  "short_description": "Discrims on listening along listener list are barely readable (Dark Theme)",
+  "steps_to_repro": "- Start a listening along group - Have it become crowded enough to have the +listeners button and click it"
+ }
+}

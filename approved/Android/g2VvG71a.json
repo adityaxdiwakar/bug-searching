@@ -1,0 +1,30 @@
+{
+ "id": "5b89b1149df52e6a888880e2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1907,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/g2VvG71a",
+ "data": {
+  "system_settings": "Google Pixel 2, Android 9.0.0",
+  "client_settings": "Android Alpha 7.4.0 (740)",
+  "actual_result": "server icon only appears when another notification is above it",
+  "expected_result": "server icon should show in both instances",
+  "short_description": "notification doesn't show server icon unless it isn't top notification [OS Specific]",
+  "steps_to_repro": "- obtain a discord notification from within a server, such as a ping - get any other phone notification on top of it"
+ }
+}

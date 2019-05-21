@@ -1,0 +1,30 @@
+{
+ "id": "5b622d4478f8a15f6614657e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2579,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FQiKTvFo",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 20174, Version Hash: 04625290f5fdaf45ed5a94fa00f89b06c9e9a88b for Windows",
+  "actual_result": "Link Preview appears as \"Akrapovi%C4%8D\"",
+  "expected_result": "Preview should appear like other wiki links (such as )",
+  "short_description": "URL with special character \"\u010d\" renders as only the text \"Akrapovi%C4%8D\" in chat link preview instead of site preview",
+  "steps_to_repro": "- Paste URL \"\" or \"\u010d\" in chat text entry - Press enter  -"
+ }
+}

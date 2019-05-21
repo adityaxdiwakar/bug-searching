@@ -1,0 +1,15 @@
+{
+ "id": "5812a15fc9ca73c567297142",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 49,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WPuhWdXn",
+ "data": {
+  "actual_result": "Tabs are smashed together Settings: iPhone SE, Discord Canary Latest (Originally by <@153244623219851266> - Im only submitting it for him)",
+  "expected_result": "Text Tabs are not smashed together",
+  "short_description": "Text Smashed on Smaller Screens",
+  "steps_to_repro": "- 1) Open a Users Settings - 2) Open their Profile  "
+ }
+}

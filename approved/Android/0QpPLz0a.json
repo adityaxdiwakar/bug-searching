@@ -1,0 +1,17 @@
+{
+ "id": "595284dbc76bace38b30522a",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 533,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0QpPLz0a",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 3.9.7",
+  "actual_result": "only 11 are there",
+  "expected_result": "all people show no matter how many there are",
+  "short_description": "new member voice dialogue shows only elven when there's more than 11",
+  "steps_to_repro": "- join a voice chat with more than 11 people - open the new menu dialogue - count how many people there are"
+ }
+}

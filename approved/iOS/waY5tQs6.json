@@ -1,0 +1,30 @@
+{
+ "id": "59a359518189d28c308eb24e",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 305,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/waY5tQs6",
+ "data": {
+  "system_settings": "iOS, 10.3.3 (14G60), MN932SE/A (Model)",
+  "client_settings": "TestFlight 1.9.1 (524)",
+  "actual_result": "You gonna see different modes, as shown in attachments. I did censor some things what I don't want to show with others.",
+  "expected_result": "You gonna see different icons.",
+  "short_description": "Stream Purple icon is not showing on DM selection after person is streaming. It's only showing in friend list.",
+  "steps_to_repro": "- Ask someone to turn on stream mode.  - Then go in dm with him on iOS and you gonna see green thing but it need to be purple because his streaming and not being online only.  - Then go to friend list and you gonna see icon saying streaming and purple icon instead of green one."
+ }
+}

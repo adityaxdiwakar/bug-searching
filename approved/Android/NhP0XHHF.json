@@ -1,0 +1,30 @@
+{
+ "id": "5bb91fb4b9c6f58eb910e667",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2118,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NhP0XHHF",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 763",
+  "actual_result": "The qs shows the updated channel name in the last channel category.",
+  "expected_result": "The qs suggests the last channel you were in.",
+  "short_description": "When you change the name of a channel you're currently in, the quick switcher suggests it as the last channel.",
+  "steps_to_repro": "- Open a channel of a server you have manage channels permission. - Click on the 3 dots overflow menu on the top right>Channel settings. - Change the name of the channel and save your changes. - Open QS."
+ }
+}

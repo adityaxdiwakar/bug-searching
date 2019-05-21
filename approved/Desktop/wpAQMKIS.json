@@ -1,0 +1,30 @@
+{
+ "id": "5adbae5202cb23a1546a50e6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1874,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wpAQMKIS",
+ "data": {
+  "system_settings": "win10 x64 1709",
+  "client_settings": "Canary build 13990",
+  "actual_result": "The transparency is black",
+  "expected_result": "The transparency is grey like it is for PNGs",
+  "short_description": "GIF server icon transparency is broken",
+  "steps_to_repro": "- Upload a transparent GIF (non animated or animated) to the server icon - Click apply"
+ }
+}

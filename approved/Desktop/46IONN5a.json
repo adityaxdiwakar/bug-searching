@@ -1,0 +1,30 @@
+{
+ "id": "5ae3ca43f831f2c1eae39994",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1897,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/46IONN5a",
+ "data": {
+  "system_settings": "Windows 10 x64 Version 1709 Build 16299.371",
+  "client_settings": "Discord Canary Build: 14281, Version hash 547ce5f5f37e4e484c12e325c4d113619acf0d2c",
+  "actual_result": "You get shown with a black and white profile picture and offline status when you click on your own profile",
+  "expected_result": "You should show as online normally",
+  "short_description": "In a Group DM, you show as offline while you're actually online",
+  "steps_to_repro": "- Use the latest build please, was denied last time because people were using a version behind, ty - Create or join a Group DM - Set your status to DND or Online - Check the right member list"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5af35c348dd52c11fee86566",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1393,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/j0rv3U8p",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.6.6",
+  "actual_result": "The switch disappear. The only way to unmute it is either by accepting the warning or via the long press menu in channel drawer",
+  "expected_result": "The Mute switch should stay so you can unmute it later",
+  "short_description": "When muting a NSFW channel through channel settings, the mute switch will vanish. Only happens if you haven't accepted the NSFW warning and if you don't have permissions to edit the channel",
+  "steps_to_repro": "- Go to a server where you don't have Manage Channels permissions and where you didn't accept any NSFW warning - Go to a NSFW channel where you can see the warning  - In the overflow menu, open Channel settings  - Toggle on the Mute switch"
+ }
+}

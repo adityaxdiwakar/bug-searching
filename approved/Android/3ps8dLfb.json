@@ -1,0 +1,17 @@
+{
+ "id": "5b1b11c8ccb38fa4f2e2f412",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1513,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3ps8dLfb",
+ "data": {
+  "system_settings": "Moto G Play with Android 7.1.1",
+  "client_settings": "Discord Alpha 6.8.8",
+  "actual_result": "Sometimes it will say something about unsaved changes when you try to exit",
+  "expected_result": "You just exit without anything about unsaved changes (And sometimes you can as I said above)",
+  "short_description": "\"Unsaved changes\" in channel settings even if you haven't made any changes",
+  "steps_to_repro": "- Go to any channel (You might have to try multiple different channels.  It doesn't seem to always happen) - Tap the 3 dots in the top right - Tap channel settings - Now try to exit"
+ }
+}

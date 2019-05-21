@@ -1,0 +1,17 @@
+{
+ "id": "5bb7e60070d5f513de95f832",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1058,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ne9GZngo",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8055)",
+  "actual_result": "There are two lines, making the line thicker",
+  "expected_result": "There is only one line",
+  "short_description": "Extra line underneath Chrome option in web browser settings in user settings",
+  "steps_to_repro": "- Go into your user settings - Go to the web browser page - Observe the lines underneath the Chrome option"
+ }
+}

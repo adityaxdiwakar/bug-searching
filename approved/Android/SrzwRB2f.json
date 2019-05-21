@@ -1,0 +1,24 @@
+{
+ "id": "59b6ed12bd5eab843170155b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 704,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SrzwRB2f",
+ "data": {
+  "system_settings": "Android 4.4.4, Tablet Allview Viva H8 LTE",
+  "client_settings": "Discord Alpha 5.1.4",
+  "actual_result": "The notes doesn't save if you don't do any action such as closing the profile, checking mutual",
+  "expected_result": "The notes should save automatically, without needing to continue using the app/doing an action/closing the profile",
+  "short_description": "Notes doesn't save when closing the app after adding them",
+  "steps_to_repro": "- Go to someone's profile - Type a note - Without touching any other part of screen, press the back button to \"close\" the keyboard  - Press the recent apps button then close the app - Reopen the app, go to user's profile, and observe: the note was not saved"
+ }
+}

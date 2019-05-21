@@ -1,0 +1,17 @@
+{
+ "id": "59968f564b254491885e138d",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1012,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cecf4auG",
+ "data": {
+  "system_settings": "Windows 10 Home x64 Version 1703",
+  "client_settings": "Discord Stable 0.0.298",
+  "actual_result": "No badge is visible",
+  "expected_result": "Be able to see the Hypesquad or Nitro Badge",
+  "short_description": "Unable to view Nitro/Hypesquad Badge of user you share no servers with",
+  "steps_to_repro": "- Find a user that you do not share any servers with that is either a Nitro or Hypesquad member (easier said than done, I know) - Attempt to view user's profile - Notice the lack of badge"
+ }
+}

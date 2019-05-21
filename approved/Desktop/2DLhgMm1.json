@@ -1,0 +1,36 @@
+{
+ "id": "5b314dd07a3c8e43459a8b95",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2201,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5b8876495b10eb2013654345",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Firefox",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2DLhgMm1",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Release Channel: stable, Build Number: 17627, Version Hash: d3e3f2c3d99299b0fb35f08a64252761d68ed06d",
+  "actual_result": "Firefox pushes all of the Integrations to the left side so you would have to scroll up/down to see the rest.",
+  "expected_result": "Show the Integrations with two columns so only one or two is shown per row.",
+  "short_description": "Firefox not fitting all of a user's Discord Integrations in a user page.",
+  "steps_to_repro": "- Find a user with two or more integrations (Twitter, Twitch, etc) - Go to their profile by right clicking so the User Info tab is shown"
+ }
+}

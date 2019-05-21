@@ -1,0 +1,30 @@
+{
+ "id": "5af7e33e13edde63c80477e4",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1407,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5vWATYp1",
+ "data": {
+  "system_settings": "LG V30+, Android 7.1.2",
+  "client_settings": "Discord Alpha\u00a0 6.6.8",
+  "actual_result": "Sticker is replaced with file \"inputContent\"",
+  "expected_result": "The sticker shows up in chat normally",
+  "short_description": "Sharing a sticker through edit menu generates an \"inputContent\" file without sending the sticker",
+  "steps_to_repro": ""
+ }
+}

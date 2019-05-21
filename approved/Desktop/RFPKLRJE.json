@@ -1,0 +1,24 @@
+{
+ "id": "5b5705205fe211a044faf661",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2415,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RFPKLRJE",
+ "data": {
+  "system_settings": "Samsung Galaxy S9+ Stock",
+  "client_settings": "Samsung Internet",
+  "actual_result": "The 'X' is no longer visible.",
+  "expected_result": "The CSS of the site should put the 'X' in the top left corner.",
+  "short_description": "Not able to close side panel on Samsung S9+ running Samsung Internet and Google Chrome. Discord Dev Portal",
+  "steps_to_repro": "- Step 1: open the discord dev portal in Samsung Internet - Step 2: open the sidebar - Step3: Rotate your device horizontally. - Step 4. There is now no possible way to close the side panel. -"
+ }
+}

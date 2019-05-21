@@ -1,0 +1,30 @@
+{
+ "id": "5b2ae2b3e686f263a507efdf",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1570,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5GRTBdT9",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.6",
+  "actual_result": "The suggestion list gets filtered according to number of spaces in name, but it doesn't hide recent servers/last visited channel as it usually does when you search for something",
+  "expected_result": "Either Space key isn't supposed to filter the suggestions list and then should keep everything as if the QS searchbar were effectively empty, or if spaces are supposed to be counted as a search query then the recent server list and last visited channel should hide, as whzn you search with actual characters",
+  "short_description": "Inputting space characters in Quick Switcher searchbar will filter the suggestions list without hiding the recent server list and last visited channel",
+  "steps_to_repro": "- Open Quick Switcher  - Input a Space character - Keep adding spaces and observe channel suggestions list"
+ }
+}

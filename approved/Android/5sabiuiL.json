@@ -1,0 +1,17 @@
+{
+ "id": "5bd4c270910402294f5fc10e",
+ "closed": false,
+ "idList": "5bce5ef037eb6904d727c502",
+ "idShort": 2250,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5sabiuiL",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.8.2",
+  "actual_result": "The codeblock loses its background color if too tall (see screenshot 2)",
+  "expected_result": "The codeblock should have a background color",
+  "short_description": "Long multiline codeblocks lose their background in in-app notifications",
+  "steps_to_repro": "- Have someone send a message containing a mention in the first line, followed by a 1 or 2 lines of codeblock. Notice the presence of the background on the codeblock in the in-app notification (see screenshot 1) - Receive another in-app notification, this time with a message containing a multiline codeblock that is 4+ lines tall (I couldn't repro with 3 lines but could with 4 or 5). To be sure to reproduce, I suggest putting like 10 lines of code."
+ }
+}

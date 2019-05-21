@@ -1,0 +1,15 @@
+{
+ "id": "587182847cd262d053ad2d90",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 318,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9opAKRC1",
+ "data": {
+  "actual_result": "On windows, no context menu is shown. On mac, Context menu only shows results for Search with Google, and Copy (Not copy ID)",
+  "expected_result": "Context menu should contain all the normal options for a context menu on a message, as well as the options for right clicking a guild member.",
+  "short_description": "In embeds: Context menu for user mentions doesn't work as it should",
+  "steps_to_repro": "- Create a embed that contains user mentions - Right click user mentions "
+ }
+}

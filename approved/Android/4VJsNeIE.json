@@ -1,0 +1,30 @@
+{
+ "id": "5a9bc6e90b24a02abdf8b75d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1166,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4VJsNeIE",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.3.1",
+  "actual_result": "Putting a linebreak will make them look like normal text",
+  "expected_result": "Mentions and emojis should always appear in bold in chatbox",
+  "short_description": "If you put a linebreak in your message, mentions and emojis won't appear in bold in the textbox",
+  "steps_to_repro": "- Input some mentions and emojis in the chat textbox - Insert a linebreak (sometimes two linebreaks are required, especially if you're putting them in the middle of the message) - You can continue inserting other mentions/emojis if you want"
+ }
+}

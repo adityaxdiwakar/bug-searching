@@ -1,0 +1,30 @@
+{
+ "id": "5b2d2ee69cf87caff8cbb8c1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2184,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UWEfDRPB",
+ "data": {
+  "system_settings": "Macbook Air (Early 2015), macOS Sierra 10.12.6",
+  "client_settings": "Discord Canary (Build 17486)",
+  "actual_result": "It creates a new webhook",
+  "expected_result": "It's supposed to save the webhook",
+  "short_description": "When clicking create webhook, and then pressing enter to save, it creates another one instead",
+  "steps_to_repro": "- Go to a server - Go to the webhooks tab - Create a new webhook, now leave the menu open - Press enter on your keyboard - Observe"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58adeb685fdf5786f2974a13",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 392,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ChbGigH3",
+ "data": {
+  "system_settings": " Win 10 x64, Latest Canary",
+  "actual_result": "Search leaves focus and button does not always work (due to how fast/slow you release your mouse click) and false hover info may appear http://i.imgur.com/EY1C4ut.gif",
+  "expected_result": "Search leaves focus and button works as intended",
+  "short_description": "Member List, Pinned and Mute buttons do not function correctly when Search is focused",
+  "steps_to_repro": "- Click inside of the Search box - Click the Member List, Pinned or Mute button "
+ }
+}

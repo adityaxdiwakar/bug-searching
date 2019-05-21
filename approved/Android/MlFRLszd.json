@@ -1,0 +1,30 @@
+{
+ "id": "5a6809a387e7124b0b2e7a28",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 1058,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MlFRLszd",
+ "data": {
+  "system_settings": "ZTE obsidian, Android 5.1",
+  "client_settings": "Discord alpha 6.1.1",
+  "actual_result": "the text jumps back to the beginning after the timer resets",
+  "expected_result": "once the text reaches the end it will start to scroll the opposite direction",
+  "short_description": "Users with text that scroll on rich presence jumps back to the beginning after the timer resets",
+  "steps_to_repro": "- click on any user with a playing status that scrolls- observe"
+ }
+}

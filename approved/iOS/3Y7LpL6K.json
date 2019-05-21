@@ -1,0 +1,30 @@
+{
+ "id": "5ba01128cf52e403cf2cb46b",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1021,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3Y7LpL6K",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Golden Master",
+  "client_settings": "TestFlight 2.3.8 (7233)",
+  "actual_result": "User avatars occasionally flicker between the loaded avatar and default avatar multiple times",
+  "expected_result": "User avatars may show the default avatar once before loading, or just load",
+  "short_description": "User avatars occasionally flicker between the user avatar and default avatar multiple times when switching servers",
+  "steps_to_repro": "- Force close and reopen Discord so servers are not loaded - Slowly switch between servers, observing the user avatars in chat each time - Note: Make sure there are several avatars visible, so you can observe easier"
+ }
+}

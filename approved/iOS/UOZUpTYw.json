@@ -1,0 +1,17 @@
+{
+ "id": "5b6c9fa850efb842a26411d8",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 885,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/UOZUpTYw",
+ "data": {
+  "system_settings": "iPhone 6, iOS 10.2.1",
+  "client_settings": "Testflight 2.3.6(6427)",
+  "actual_result": "Starts the animation of turning it on/off but stops and goes back",
+  "expected_result": "Would move and complete the animation",
+  "short_description": "Double tapping something in connections won't work",
+  "steps_to_repro": "- Go to connections - Click on Display on profile - As soon as it changes, click it again as soon as possible"
+ }
+}

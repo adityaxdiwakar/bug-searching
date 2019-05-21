@@ -1,0 +1,30 @@
+{
+ "id": "5bc2ff670d0eb431b9f4487c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3178,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DIe0ebo3",
+ "data": {
+  "system_settings": "Windows 10 pro x64, Version 1803",
+  "client_settings": "Release Channel: canary, Build Number: 26143, Version Hash: bfe36cd72ad944fa51e3d9e874222190bcc4e217",
+  "actual_result": "Screen stays in the same place",
+  "expected_result": "Screen should move up and you could read earlier messages",
+  "short_description": "Trying to use scroll button to scroll through messages only works in some places of the screen",
+  "steps_to_repro": "- Set the zoom level to any lower than 90 - move your cursor to the right of the messages screen - Click the scroll button on your mouse - move the cursor up"
+ }
+}

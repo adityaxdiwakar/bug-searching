@@ -1,0 +1,30 @@
+{
+ "id": "5a63d8e8c4bb03b963889483",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1569,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CmS1yUc2",
+ "data": {
+  "system_settings": "Arch Linux",
+  "client_settings": "Canary build 9714",
+  "actual_result": "The cursor changes because of the \"View Profile\" text since the `cursor: pointer` isn't there for a webhook profile",
+  "expected_result": "The mouse should remain a pointer",
+  "short_description": "Webhook profile popouts still show a text cursor",
+  "steps_to_repro": "- Find a message posted by a webhook - Click the webhook name to show the popout - Find the middle of it and observe cursor change"
+ }
+}

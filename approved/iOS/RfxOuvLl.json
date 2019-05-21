@@ -1,0 +1,17 @@
+{
+ "id": "5a7f44f0df67f60b1b0653b4",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 575,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RfxOuvLl",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.5 & iPad Air 2, iOS 11.3 PB 2",
+  "client_settings": "TestFlight 2.2.2 (2352)",
+  "actual_result": "You see both options. After clicking one of them they disappear until fully closing Discord.",
+  "expected_result": "You shouldn't get an option to add yourself as a friend or send a message to yourself.",
+  "short_description": "[Visual bug] [Non 4\" devices only] You have the option to add yourself as a friend/send a message to yourself",
+  "steps_to_repro": "- Optional step to make sure it works: Fully close Discord (remove it via the app switcher) - Open Discord again - Go to any server - Click on your account in the member list or hold on a message you have sent - Click on \"Profile\""
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "589c643b77f16e807c36dd78",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 183,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kT3bOlbI",
+ "data": {
+  "system_settings": " iPhone 5C (iOS 10.2) Discord 1.8.2 (65)",
+  "actual_result": "The text is a little offset to the right",
+  "expected_result": "The text should be centered",
+  "short_description": "off-centered text when searching",
+  "steps_to_repro": "- Open up search - Search using `before` and `after` a future date (make sure it's the same date on both) "
+ }
+}

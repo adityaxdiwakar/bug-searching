@@ -1,0 +1,30 @@
+{
+ "id": "5c094169e69a342eda84158e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3469,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Vuj9sQWl",
+ "data": {
+  "system_settings": "Windows 10 1803",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 28970",
+  "actual_result": "The keyboard blinking cursor is stuck there and I cannot type",
+  "expected_result": "The keyboard blinking cursor is not supposed to be stuck and should be transferred to the new modal",
+  "short_description": "On Edge, pressing Find or Start a conversation will cause it to have the keyboard blinking cursor and you cannot type",
+  "steps_to_repro": "- Go to Discord through Edge - Press Home on the top left (Should be a white logo of Discord) - Click on the Find or start a conversation - You will notice that the keyboard blinking cursor is stuck there and is not transferred to the new modal that opens up - You will notice that you cannot type either!!!"
+ }
+}

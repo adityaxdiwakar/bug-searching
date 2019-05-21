@@ -1,0 +1,17 @@
+{
+ "id": "5b8e76e8d14b0f63aa4b5cc9",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 964,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Z8zmrVhG",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12 (dev beta 12)",
+  "client_settings": "Stable 2.3.7",
+  "actual_result": "Message gets duplicated and spammed while \u201csend\u201d button stays lightened",
+  "expected_result": "Message should only send once and send button shouldn\u2019t light up",
+  "short_description": "Same message gets re-send (spammed) when u leave the app open and come back later. {**Note**} Do give this a few times!",
+  "steps_to_repro": "- Force close discord - open the app - Have the app open in a text channel  - Tap on the chatbox  - Fill in a sentence like `ph!search` - Leave the app (but have it open in multitask) - Go to your library in Spotify and search for a song (stay there for a couple minutes) - Leave Spotify and go back to discord  - When back in the chatbox, immediately tap \u201csend\u201d continuesly - Observe"
+ }
+}

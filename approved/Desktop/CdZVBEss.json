@@ -1,0 +1,30 @@
+{
+ "id": "5b2c57963e60cf3338b0060a",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2176,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CdZVBEss",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 17486",
+  "actual_result": "\"Display\" text is grey making it very hard to read",
+  "expected_result": "\"Display\" text is white so that is it completely visible",
+  "short_description": "Connections panels \"Display\" text is grey on Light Theme",
+  "steps_to_repro": "- Switch to Light Theme if not already using - Open your User Settings and go into your Connections - Link something if you don't already have anything - Observe the \"Display\" text in the panel of your linked connection (most noticeable with Twitch)"
+ }
+}

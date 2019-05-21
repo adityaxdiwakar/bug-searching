@@ -1,0 +1,30 @@
+{
+ "id": "5bb5cf83ec4704134942f1e2",
+ "closed": false,
+ "idList": "5ae9076e854dae760b97993a",
+ "idShort": 3085,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wcW4ifqE",
+ "data": {
+  "system_settings": "Windows 10 1803",
+  "client_settings": "Desktop Canary 25435",
+  "actual_result": "The startup animation doesn\u2019t play",
+  "expected_result": "The startup animation should play",
+  "short_description": "When Discord loads, the startup animation doesn\u2019t play",
+  "steps_to_repro": "- Open Discord - Observe the startup animation not work - [After checking for updates]"
+ }
+}

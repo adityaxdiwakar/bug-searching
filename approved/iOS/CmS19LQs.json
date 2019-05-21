@@ -1,0 +1,17 @@
+{
+ "id": "5b55fbdb43db00160851cda8",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 839,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CmS19LQs",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.6 (6000)",
+  "actual_result": "\u201cx new messages\u201d bar loads in before channel does and flashes on and off",
+  "expected_result": "\u201cx new messages\u201d bar doesn\u2019t appear until the channel loads in",
+  "short_description": "\u201cx new messages\u201d bar flashes while channel is loading on poor connection (works best when you get a mention in an unloaded channel and doesn\u2019t always happen)",
+  "steps_to_repro": "- Make sure you have poor connection - Go to a channel with unread messages - Watch the top of the screen as the channel loads - If it doesn\u2019t work try having someone mention you in another unread channel and try again"
+ }
+}

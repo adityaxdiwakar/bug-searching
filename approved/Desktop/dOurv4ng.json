@@ -1,0 +1,30 @@
+{
+ "id": "5b785a2869ca9b143ede21f7",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 2738,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dOurv4ng",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 22210",
+  "actual_result": "The warning disappears, but the chat remains disabled and messages can't be sent",
+  "expected_result": "The warning is still open and can be dismissed",
+  "short_description": "[Overlay] Alt+tab when mass mention warning is open disables the chat box",
+  "steps_to_repro": "- Attempt to mention everyone in a large server in the overlay where you have permissions to - When the warning opens, alt+tab and switch window - Switch back and observe the chat box"
+ }
+}

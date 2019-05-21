@@ -1,0 +1,30 @@
+{
+ "id": "5a3c18d7901b31f26baa3cc2",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 979,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8Kak3JwW",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 5.9.0",
+  "actual_result": "it overlaps",
+  "expected_result": "some cut off will ...",
+  "short_description": "Portuguese language overlap (small screen size only)",
+  "steps_to_repro": "- open user settings - go to language - go to change your language and find Brazil Portuguese - observe closely"
+ }
+}

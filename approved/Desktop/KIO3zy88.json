@@ -1,0 +1,30 @@
+{
+ "id": "5a3adc0adbcf17fbd1de0f80",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1482,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KIO3zy88",
+ "data": {
+  "system_settings": "Windows 10 Home 1709",
+  "client_settings": "Stable 8854",
+  "actual_result": "Discord (Sometimes) notices when you're talking, but doesn't transmit any sound",
+  "expected_result": "Discord uses the new setting",
+  "short_description": "Discord doesn't allow changes to audio quality without a restart.",
+  "steps_to_repro": "- Open a call with someone - Open the Windows Sound Control Panel (You can do this by right clicking the volume icon and selecting \"Recording Devices\") - Go to the Recording tab if you haven't already done so, select your microphone, and click \"Properties\" - Go to the \"Advanced\" tab - Change the \"Default Format\" to something other than the current setting, and click \"Apply\" (I changed it from CD to DVD)"
+ }
+}

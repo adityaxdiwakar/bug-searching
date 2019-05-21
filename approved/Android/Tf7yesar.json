@@ -1,0 +1,24 @@
+{
+ "id": "59cd05430d5ac763dcb66e25",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 768,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Tf7yesar",
+ "data": {
+  "system_settings": "Android 7.0, LG-K10",
+  "client_settings": "Android Alpha 5.2.6",
+  "actual_result": "Notification is stuck and does not clear until a new notification appears",
+  "expected_result": "Notification dissapears",
+  "short_description": "Notifications stick on android after reading on desktop",
+  "steps_to_repro": "- Step 1: Get a Mention/DM on android (take care to not read it) - Step 2: Close the app and read the notification on desktop - Step 3: Re-open the app on android"
+ }
+}

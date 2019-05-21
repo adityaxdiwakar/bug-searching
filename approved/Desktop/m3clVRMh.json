@@ -1,0 +1,24 @@
+{
+ "id": "5977b1d1e1abef863d26cfd6",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 896,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/m3clVRMh",
+ "data": {
+  "system_settings": "Windows 10x64",
+  "client_settings": "Browser",
+  "actual_result": "It doesn't show",
+  "expected_result": "Your nickname shows up",
+  "short_description": "Upon joining, nicknames don't work",
+  "steps_to_repro": "- Have a friend create a server. - Join the server. - A message sent by discord should appear in the default channel, sent by no one. - Change your nickname. - Click on your name in the message sent by discord (in the server)."
+ }
+}

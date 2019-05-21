@@ -1,0 +1,30 @@
+{
+ "id": "597868ea032249daa1de8d8e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 900,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/crcyM4cb",
+ "data": {
+  "system_settings": "- Windows 10 64bit - Version 1703, https://www.youtube.com/watch?v=oAtw3MVo70I Build",
+  "client_settings": "- Discord stable (Build as of 7/20/17)",
+  "actual_result": "User B has the voice bitrate that Channel B enforces (8kbps)",
+  "expected_result": "User B has the voice bitrate that Channel A enforces (64kbps)",
+  "short_description": "Dragging a user between different bitrate voice channels will retain the bitrate of the channel they originated from.",
+  "steps_to_repro": "- Channel A has 64kbps - Channel B has 8kpbs - User B joins Channel B - User A moves User B into Channel A - Repro video: <https://www.youtube.com/watch?v=oAtw3MVo70I>"
+ }
+}

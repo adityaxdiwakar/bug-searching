@@ -1,0 +1,22 @@
+{
+ "id": "584abbd65b01b8f215e88ead",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 132,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iw1XbmJu",
+ "data": {
+  "actual_result": "link and phrase are connected",
+  "expected_result": "Invite link is seperate from phrase",
+  "short_description": "When shift clicking to next line after an invite link, reads it as one invite link",
+  "steps_to_repro": "- Step 1 - On pc paste in an invite link and shift click to the next line - Step 2 - Without placing a space at lines start, write anything down - Step 3 - Switch over to Android "
+ }
+}

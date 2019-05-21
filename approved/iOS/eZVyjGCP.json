@@ -1,0 +1,30 @@
+{
+ "id": "5a7ca606d5cd22b1d467e28d",
+ "closed": false,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 571,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eZVyjGCP",
+ "data": {
+  "system_settings": "iPhone 6 iOS 10.3.2",
+  "client_settings": "TestFlight Build 2.2.2 (2352)",
+  "actual_result": "The slider bar moves back and front and flickers, making it difficult to set a user limit",
+  "expected_result": "You should be able to easily adjust the limit using the slider bar",
+  "short_description": "Slider bar jumps about/flickers when adjusting the user limit in the voice channel settings [iOS 10 only]",
+  "steps_to_repro": "- Go to a server in which you own or have the manage channels permission - Hold on one of the voice channels and tap on Edit Channel - Drag the slider bar button back and forth in the User Limit section"
+ }
+}

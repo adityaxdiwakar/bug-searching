@@ -1,0 +1,30 @@
+{
+ "id": "5b04bcaddd5060a1b6ca1e3d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1448,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JF0z1do6",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.7.4",
+  "actual_result": "It disappears completely",
+  "expected_result": "The second message should appear in red exactly like the first one",
+  "short_description": "Sometimes when a message fails to send, it disappears completely instead of showing in red",
+  "steps_to_repro": "- Go to a DM with a user who blocked you - Attempt to send a message. It should show in red asking you if you want to resend - Don't touch that message, and try to send a second one"
+ }
+}

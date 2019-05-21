@@ -1,0 +1,24 @@
+{
+ "id": "59c120e2405b70371050b412",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 746,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JsWUDKQ8",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0 and Windows 10 Home 64-bit v1703",
+  "client_settings": "Discord Alpha 5.1.9 (519) and Discord Canary 0.0.163 (Build 4429)",
+  "actual_result": "The user details are minimized",
+  "expected_result": "The whole menu should be visible and it should just be updated with the new role",
+  "short_description": "User details are minimized when a user with no roles gets a role",
+  "steps_to_repro": "- Go to a server you have the Manage Roles permission for - Create a new role - Open the user's profile on mobile by press holding on it and then give the user the role on desktop"
+ }
+}

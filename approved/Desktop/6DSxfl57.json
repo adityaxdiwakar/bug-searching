@@ -1,0 +1,24 @@
+{
+ "id": "597911d225b48383f031ca97",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 903,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6DSxfl57",
+ "data": {
+  "system_settings": "Mac OS 10.11.6",
+  "client_settings": "Desktop Canary",
+  "actual_result": "The @mods role does not appear.",
+  "expected_result": "The @mods role auto-populates in the role list.",
+  "short_description": "Role mentions do not auto populate if a server has too many similar mentions.",
+  "steps_to_repro": "- Open the HypeSquad server - Open the General channel - Type \"@Mods\""
+ }
+}

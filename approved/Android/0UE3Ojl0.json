@@ -1,0 +1,30 @@
+{
+ "id": "5a684e03fb19037b11cc3b9e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1060,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0UE3Ojl0",
+ "data": {
+  "system_settings": "Tecno c9, Android 6.0",
+  "client_settings": "alpha 6.1.1",
+  "actual_result": "it does transfer into your dms textbox.",
+  "expected_result": "the Emoji in the Channel textbox shouldn't get transferred to your dms textbox.",
+  "short_description": "If you select an emoji from the emoji picker in a server then switch to dm history the emote that was in the server Channel textbox transfers to the dm textbox",
+  "steps_to_repro": "go to a channel.-open the emoji picker.-click on an emoji.-after clicking on it don't send it let it be in the textbox.-click on the friends icon above the servers list or whatever that's called it should redirect you to your latest dms with a user."
+ }
+}

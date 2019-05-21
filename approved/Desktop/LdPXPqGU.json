@@ -1,0 +1,17 @@
+{
+ "id": "5befc0c106a21145846bbfdb",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3399,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LdPXPqGU",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Discord Canary 28190",
+  "actual_result": "It appears on the top left corner, and you cannot close it. You must CTRL+R to get rid of it.",
+  "expected_result": "The picture appears on center.",
+  "short_description": "All pop-ups appear on top left corner, instead of the center.",
+  "steps_to_repro": "- Open any image posted. - Notice the spot."
+ }
+}

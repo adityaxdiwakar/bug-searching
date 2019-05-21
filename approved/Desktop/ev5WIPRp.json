@@ -1,0 +1,17 @@
+{
+ "id": "5bad6b96c49a2524d67e17a8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3053,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ev5WIPRp",
+ "data": {
+  "system_settings": "Windows 10 64bit (ver: 1803)",
+  "client_settings": "Desktop Canary, Build Number: 24853",
+  "actual_result": "Discord Crashes and says its been reported and i'm able to click on a button that restarts/reloads the app",
+  "expected_result": "Should be able to add an user by his/her discord#id",
+  "short_description": "When i click on the add friend button it crashes",
+  "steps_to_repro": "- Click Home -> Friends -> Add Friend = Crash"
+ }
+}

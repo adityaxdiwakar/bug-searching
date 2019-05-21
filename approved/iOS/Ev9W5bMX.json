@@ -1,0 +1,17 @@
+{
+ "id": "5af40c15f0f91a00dc04e867",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 732,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ev9W5bMX",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.0",
+  "client_settings": "Discord TestFlight 2.3.1 (4051)",
+  "actual_result": "They start following you and block the screen",
+  "expected_result": "Messages shouldn\u2019t follow",
+  "short_description": "[Bug Bounty] Message will come with you into servers and dms blocking your screen",
+  "steps_to_repro": "- Go to bug-approval-queue (i suggest to test there) - Have many messages rapidly get sent, for example like people denying with trello embed, tons of people doing stuff at the same time - Stay in the chat while they are doing thaf - A message should get stuck on your screen following you everywhere"
+ }
+}

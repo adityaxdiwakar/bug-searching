@@ -1,0 +1,30 @@
+{
+ "id": "5a2bdf1edb9c12a205b52060",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1437,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QZveRutg",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (Build 1607) Chrome Stable 62.0.3202.94",
+  "client_settings": "Discord Canary 0.0.182 (Build 8394)",
+  "actual_result": "It triggers the \"You need a new app to open this file type (about)\"",
+  "expected_result": "It shouldn't trigger this modal",
+  "short_description": "Clicking links in Discord Canary will trigger the \" You need a new app to open this file\" window.",
+  "steps_to_repro": "- Click a link - Observe"
+ }
+}

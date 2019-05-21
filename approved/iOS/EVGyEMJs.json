@@ -1,0 +1,17 @@
+{
+ "id": "5b7365966b9eb660c4e306e8",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 910,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EVGyEMJs",
+ "data": {
+  "system_settings": "iOS 12 iPhone 7+",
+  "client_settings": "TF 6771",
+  "actual_result": "\"and\", \"is typing...\" Is the same size",
+  "expected_result": "Names are scaled correctly in typing bar",
+  "short_description": "Users typing seperators are not scaled",
+  "steps_to_repro": "- Scale to a large font size in accessibility - Have a user begin to type"
+ }
+}

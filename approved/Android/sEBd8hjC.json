@@ -1,0 +1,24 @@
+{
+ "id": "5b06f189b42f2bbe790560ae",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1463,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5af202d4885b60489848e72d",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P4, unlikely to ever be fixed.",
+   "color": "purple"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sEBd8hjC",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.7.9",
+  "actual_result": "Icons are different in both the cases",
+  "expected_result": "The mic and headphone icon should be same in both the cases (either backslash or slash symbol running across the mic and headphone icon)",
+  "short_description": "The mute/deafen icon shown when you joining a vc are different from when you click on channel name to view full screen voice channel",
+  "steps_to_repro": "- Join a voice channel, mute and deafen yourself. - Notice that the backslash symbol over the mic and headphone icon when you see the voice channel without going into it - Now go to voice channel screen by clicking the channel name and notice that the slash symbol over the mic and headphone icon"
+ }
+}

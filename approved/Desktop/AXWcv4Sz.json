@@ -1,0 +1,17 @@
+{
+ "id": "5b93cfeddeb7438f8c863f11",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2941,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AXWcv4Sz",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 23321, Version Hash: e28e4199f3b4b2e650d0be2d5790cf74b84546a1",
+  "actual_result": "Friend's profile doesn't close, the selected dialogue box opens up after you close the profile manually.",
+  "expected_result": "Notification Settings/Privacy Settings dialogue box opens up",
+  "short_description": "Mutual Servers: Notification Settings/Privacy Settings stack",
+  "steps_to_repro": "- Open your friend's profile - Go to the \"Mutual Servers\" tab - Right-click on a mutual server - Choose Notification Settings/Privacy Settings - Observe"
+ }
+}

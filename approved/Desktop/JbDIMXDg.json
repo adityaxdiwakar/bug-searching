@@ -1,0 +1,15 @@
+{
+ "id": "5818d0318351fde535ae4c7d",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 97,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JbDIMXDg",
+ "data": {
+  "actual_result": "Extra line outta nowhere, and indent gone",
+  "expected_result": "Formatts it nicely, with the indent.",
+  "short_description": "Client formatting :```js bot.on('onMention' function(mention) { do_magical_stuff_and_destroy_that_wumpus_that_kimpas_my_emails_please_stahp() })```: wrong",
+  "steps_to_repro": "- copy & paste that magical magicalness. "
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58aa08f666b35689e4c6fa92",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 387,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kIkPMaw8",
+ "data": {
+  "system_settings": " macOS 10.12.2, Discord Canary",
+  "actual_result": "Inability to send/receive messages or open a text channel which has not yet been opened in the current session, probaply because Discord can't recover from temporary WiFi disconnect",
+  "expected_result": "Discord working fine as it always does",
+  "short_description": "Connection Bug after Standby with AutoLock",
+  "steps_to_repro": "- Turning on Auto-Lock in Deep-Sleep mode - Putting Computer to sleep with discord focused - Waking up computer "
+ }
+}

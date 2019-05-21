@@ -1,0 +1,23 @@
+{
+ "id": "5842273c3c902b56c25bcce5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 199,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QBFIN1dC",
+ "data": {
+  "system_settings": " win10, latest canary. (Found by woopy#9146 (Not in the server) ).",
+  "actual_result": "The server invite does not send, even after opening the DM, you have to send it again for it to work.",
+  "expected_result": "The invite would send normally.",
+  "short_description": "When trying to send an invite link through a right click to a person it would not send (The person needs to be someone you have never opened a DM with).",
+  "steps_to_repro": "- Right click someone you've never talked in DM before - Send them an invite to a server. "
+ }
+}

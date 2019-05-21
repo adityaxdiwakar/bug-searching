@@ -1,0 +1,16 @@
+{
+ "id": "584229e27109a8f01d5ec960",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 200,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VSH2VO5J",
+ "data": {
+  "system_settings": " win10 home, latest canary (EJH2#0245)",
+  "actual_result": "see group dm with no messages (if you click the more messages bar enough the dm will close) with the added bonus of leaving any group DM recently joined (while still saying that you're there)",
+  "expected_result": "not see group dm",
+  "short_description": "\"Rejoin\" left DM groups, but without messages.",
+  "steps_to_repro": "- Create/Join DM Group with people - Leave group - Reload client immediately "
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "585ee67bd840a7e04c105cc9",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 278,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/90KtkNiZ",
+ "data": {
+  "actual_result": "mention is left unlinked chat like this <@!140527820500762624>",
+  "expected_result": "autocomplete autocompletes the mention, and that I'm actually mentioned",
+  "short_description": "can't ping users who's name starts with a / (all clients)",
+  "steps_to_repro": "- find a user such as me with a slash as the first character in their username - try to ping them "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bd93378db403a8312f5e567",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2263,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hLzRcKwe",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Android 8.0.0",
+  "client_settings": "7.8.3",
+  "actual_result": "Icon changes but cameras direction does not change",
+  "expected_result": "Icon would be as in the first one",
+  "short_description": "Camera will have wrong icon",
+  "steps_to_repro": "- Go to a channel that you can send images - Press + to send images - Select camera  - On the right top of the camera theres a setting that allows you to change camera's direction - Fastly click it 3 times - Wait a bit and observe that icon has been changed but camera is still on the same direction"
+ }
+}

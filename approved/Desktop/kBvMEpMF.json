@@ -1,0 +1,17 @@
+{
+ "id": "5ba9c0b4e1501a171078ac2e",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 3028,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kBvMEpMF",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1803",
+  "client_settings": "Discord Canary 24580",
+  "actual_result": "Messages are awkwardly spaced. This is most observable with new messages.",
+  "expected_result": "The spacing should be the same as previous builds.",
+  "short_description": "Message spacing in Canary 24580 is wider than on previous builds",
+  "steps_to_repro": "- Update to Canary 24580 - Observe the spacing of messages"
+ }
+}

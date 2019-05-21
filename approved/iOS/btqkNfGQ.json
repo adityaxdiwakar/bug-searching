@@ -1,0 +1,30 @@
+{
+ "id": "59a1a393ade63f26ae04cfe0",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 298,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/btqkNfGQ",
+ "data": {
+  "system_settings": "11.0 (15A5341F)",
+  "client_settings": "Version 1.9.1 (524)",
+  "actual_result": "App crashes",
+  "expected_result": "Save the Role Permissions",
+  "short_description": "App crashes when trying to edit Role Permissons",
+  "steps_to_repro": "- Server Settings- Roles- Edit The Role Permissons- Press Save"
+ }
+}

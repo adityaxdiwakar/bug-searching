@@ -1,0 +1,30 @@
+{
+ "id": "5a33bdb62eb5b510edf78a11",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 950,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/B5ChIj41",
+ "data": {
+  "system_settings": "oneplus 3t android 7.0",
+  "client_settings": "Discord alpha, 5.8.3",
+  "actual_result": "It shows the invite link expired or is invalid",
+  "expected_result": "You should enter the server",
+  "short_description": "Invite links dont work in croatian language on android",
+  "steps_to_repro": "- go to pc settings, select the croatian language - sync with your mobile android - open Discord in android - try using an invite link for a server"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5b582c29838327015279eda9",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2427,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RU85i3jx",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Website in chrome browser",
+  "actual_result": "Some things dont translate",
+  "expected_result": "Everything should translate",
+  "short_description": "Website translations ae not translating everything.",
+  "steps_to_repro": "- Open  in your browser - translate the page using the drop down button on the site located at the top right - Observe how some things like the community button in the nav bar have not translated."
+ }
+}

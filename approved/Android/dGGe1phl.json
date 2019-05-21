@@ -1,0 +1,28 @@
+{
+ "id": "58fd8e7b9fda298585581c4a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 402,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dGGe1phl",
+ "data": {
+  "actual_result": "Middle \"emoji\" is bold Systems Settings: Android 7.1.1 Discord 3.7.1",
+  "expected_result": "Middle \"emoji\" isn't bold",
+  "short_description": "\":emoji:emoji:emoji:\" bolds the middle \"emoji\" though when sent it doesn't show up as an emoji",
+  "steps_to_repro": "- Type \":emoji:\" - Put \"emoji\" in between - Put another \":emoji:\" (using actual emoji names for all 3) "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b600fb327ddc3c6c2ddc479",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2533,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bg3FctwA",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 20316",
+  "actual_result": "No tooltip is displayed when hovering over",
+  "expected_result": "A tooltip displaying the user's name should be displayed when hovering over",
+  "short_description": "Hovering over DM notifications no longer displays a tooltip of the user's name",
+  "steps_to_repro": "- Receive a DM notification while not in the DM - Hover over the notification bubble and observe"
+ }
+}

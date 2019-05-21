@@ -1,0 +1,24 @@
+{
+ "id": "5a7181670f149f2fd606c60d",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1086,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/m4eV4WrH",
+ "data": {
+  "system_settings": "Pixel XL 2; Android 8.1",
+  "client_settings": "Alpha 6.1.9",
+  "actual_result": "Nothing happens",
+  "expected_result": "You are presented with the \"Join Server\" screen as if you tapped the \"JOIN\" button at the top",
+  "short_description": "Enter button on the join server by invite screen doesn't work",
+  "steps_to_repro": "- Create/Find an invite link - Enter it in the \"Join Server With Invite Link\" - Press the enter key (or equivalent) on your keyboard"
+ }
+}

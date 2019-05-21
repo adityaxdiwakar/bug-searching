@@ -1,0 +1,30 @@
+{
+ "id": "5b625b362ffbf2504b7f354d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1755,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qDpXMg4h",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.1",
+  "actual_result": "The link isn't recognized, the Join button is still locked as if you typed nonsense stuff",
+  "expected_result": "It shouldn't be case sensitive so the invite should count as valid and let you go to invite screen",
+  "short_description": "In \"Join a server\" screen, full Discord server URLs that contains uppercase characters before the invite code aren't recognized as valid invite (the Join button won't unlock)",
+  "steps_to_repro": "- Scroll down in server list - Tap + button and Join a server - Input a full server URL with an uppercase character in the domain name, e.g https://diScord[.]gg/invitecode - Tap Join"
+ }
+}

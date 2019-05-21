@@ -1,0 +1,24 @@
+{
+ "id": "59252a3cf02d845d92dc9290",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 674,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pnGLsYzE",
+ "data": {
+  "system_settings": "-l",
+  "client_settings": "lover zoom lvls, newest canary",
+  "actual_result": "Zoom settings reset to 100%",
+  "expected_result": "all is normal when you resume your jam session or whatever",
+  "short_description": "zoom settings reset after selecting a option to buy nitro (getting to the part where it asks for CC)",
+  "steps_to_repro": "- Open nitro settings - select a purchase option - exit settings - profit`:dollar:`"
+ }
+}

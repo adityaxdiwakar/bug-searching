@@ -1,0 +1,30 @@
+{
+ "id": "5a310faa33f675bdfefb8370",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1449,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MR7aN0o8",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Latest Release (Windows)",
+  "actual_result": "Discord prevents you from typing anything at the end of the block",
+  "expected_result": "Discord should let you press enter and notify you that the message is too big",
+  "short_description": "Code Block Deleting Letters",
+  "steps_to_repro": "- Find a block of code over 2,000 lines - Use the ``` header, paste it - Try and end the ```"
+ }
+}

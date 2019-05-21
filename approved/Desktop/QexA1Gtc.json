@@ -1,0 +1,30 @@
+{
+ "id": "5a36e3ceb432e69ab08f2b7a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1468,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QexA1Gtc",
+ "data": {
+  "system_settings": "Windows 10 Home, Fall Creator's Update",
+  "client_settings": "Discord Canary 8764 (Version Hash: 906ce57a9cd6fb0e5007022a51193d2f3b852ac0)",
+  "actual_result": "The ringtone sound plays indefinitely until the client gets reloaded or fully closed; the incoming call screen doesn't disappear by clicking the \"decline\" option, only the \"Join Call\" option can be used to make the screen disappear, which, if there is no actual incoming call, starts a new call",
+  "expected_result": "The ringtone sound should stop playing as soon as you log out; the incoming call screen shouldn't reappear if whoever called you stopped calling",
+  "short_description": "Logging out during an incoming call makes the client think a call is still incoming (after logging back in), even if whoever called you stopped calling, also plays the \"Incoming Ring\" sound indefinitely (until client reload/fully closing the client)",
+  "steps_to_repro": "- Have someone call you - Log out of Discord, but don't close the client - Notice how the \"Incoming Ring\" sound still plays, log back in"
+ }
+}

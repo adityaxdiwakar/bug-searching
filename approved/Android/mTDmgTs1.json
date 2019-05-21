@@ -1,0 +1,30 @@
+{
+ "id": "5aa38c666ede961794e44e4b",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1178,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mTDmgTs1",
+ "data": {
+  "system_settings": "LG Stylo 3 Android 7.0",
+  "client_settings": "Discord 6.3.4",
+  "actual_result": "A random selection of emojis appear here. Emojis that you likely did not use and all of them are from the default emoji set (none are server or nitro based)",
+  "expected_result": "The same emojis you selected and/or observed in Step 3 should be here",
+  "short_description": "Frequently Used Emojis are forgotten across version upgrade (633 > 634)",
+  "steps_to_repro": "- Be using Discord 6.3.3 (or lower?) - Use some emojis by using the emoji popout keyboard(\ud83d\ude03) in any channel you can to ensure you have some frequently used emojis there - Observe which emojis are listed as frequently used. - Update your Discord Android Client normally to version 6.3.4 via play store [YOU MUST BE OPTED INTO ANDROID ALPHA, SEE FAQ ON HOW TO DO SO] - Launch Discord 6.3.4 and open the emoji popout keyboard (\ud83d\ude03)"
+ }
+}

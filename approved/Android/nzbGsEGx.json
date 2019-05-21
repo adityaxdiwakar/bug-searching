@@ -1,0 +1,30 @@
+{
+ "id": "5bbf4790dfa9a954a59afb1c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2146,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nzbGsEGx",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.6.7",
+  "actual_result": "The sheet stays open until the presence update signal has been successfully emitted through the gateway. This may result in the sheet closing with a considerable delay, or even not closing at all, depending on your connection, and depending on whether the presence update succeeds or fails (in which case the sheet wouldn't close)",
+  "expected_result": "The sheet should close as soon as you select the new presence, and then the presence should update asynchronously",
+  "short_description": "The change status sheet waits for the presence to be actually applied before closing",
+  "steps_to_repro": "- Be on a throttled connection. You can also turn off your connection completely after loading the app - Change presence status"
+ }
+}

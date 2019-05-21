@@ -1,0 +1,30 @@
+{
+ "id": "5a68dae0a9df0bb1377321f0",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1583,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qYMJxoM8",
+ "data": {
+  "system_settings": "iPhone 8 on iOS 11.2.2 & MacBook Pro (late 2013) on MacOS 10.12.1",
+  "client_settings": "TestFlight 2.2.1 (2236) & Discord Canary 0.0.185 (9856)",
+  "actual_result": "The call verifies and then connects to the user on the other end even though you have blocked them.",
+  "expected_result": "The call should fail because you have them blocked and they are no longer technically on your friends list.",
+  "short_description": "Blocking a user still allows you to properly interact with them via Voice & Video calls.",
+  "steps_to_repro": "- iOS: Block a user. - Press the three dots or press and hold on their name to bring up the user settings menu. - Press \"Start Voice Call\" or \"Start Video Call\". - The call popup will appear and the blocked user will receive the \"x started a call\" and will be able to join the call. - Pressing \"Redail\" before the person joins will physically ring the blocked user. - Desktop: Block a user. - Click \"Start Voice Call\". - The blocked user will receive a system notification that x started a call (if enabled). - The call will not ring at all but will allow you to click \"Join Call\" and fully interact with them."
+ }
+}

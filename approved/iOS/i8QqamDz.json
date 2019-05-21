@@ -1,0 +1,16 @@
+{
+ "id": "58fa95008291f5126c961c15",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 231,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/i8QqamDz",
+ "data": {
+  "system_settings": " ios 9.3.5, ipad 4th gen on latest testflight/stable build",
+  "actual_result": "the channel loads nothing at all for a long time. Clicking to another channel will cause the previous channel to be losded in the newly selected one.",
+  "expected_result": "the channel loads fairly instantly.",
+  "short_description": "Channels containing excessive reactions take forever to load and sometimes glitch load into another channel",
+  "steps_to_repro": "- find a channel containing thousands of reactions. - attempt to load it. "
+ }
+}

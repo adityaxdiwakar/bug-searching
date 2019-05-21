@@ -1,0 +1,16 @@
+{
+ "id": "58116ddf82b0f936d8091252",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 68,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tQD3oJBl",
+ "data": {
+  "system_settings": " Canary ",
+  "actual_result": "They get removed",
+  "expected_result": "The reactions will stay when I fix a typo",
+  "short_description": "Editing a post gets rid of reactions",
+  "steps_to_repro": "- Type and send a message - Add a reaction - Edit the post "
+ }
+}

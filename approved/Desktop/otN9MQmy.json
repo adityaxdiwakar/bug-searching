@@ -1,0 +1,30 @@
+{
+ "id": "5bc8dd8893f4f6789b5d7565",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 3216,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/otN9MQmy",
+ "data": {
+  "system_settings": "Win10 64x (1809)",
+  "client_settings": "Canary 26151 (0.0.215)",
+  "actual_result": "@ is ignored. Even though the ' works fine.",
+  "expected_result": "The @ key works.",
+  "short_description": "[Overlay] [Possible UK layout specific] The @ Key doesn't work all the time.",
+  "steps_to_repro": "- Open a game with overlay enabled! - Open overlay - Simply try and mention someone / use the @ key. (SHIFT + ' on UK Layout) - This isn't very consistent but happens a reasonable amount of time. Changing a server/channel or reopening overlay seems to reset if the @ key does work for m"
+ }
+}

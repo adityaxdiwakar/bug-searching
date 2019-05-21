@@ -1,0 +1,17 @@
+{
+ "id": "5942a2fea2d76a81aa009b0b",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 764,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1RP0Fcbi",
+ "data": {
+  "system_settings": "Win 7 SP1",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "RTC panel stays open and can lock up Discord if user section is clicked",
+  "expected_result": "RTC debug panel should automatically close when disconnected from voice channel",
+  "short_description": "RTC panel also does not disappear on user removal from server containg current voice channel /deletion of voice channel",
+  "steps_to_repro": "- Connect to a voice channel - Open RTC debug menu - Get removed from the server the voice channel is part of"
+ }
+}

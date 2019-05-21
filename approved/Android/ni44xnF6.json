@@ -1,0 +1,24 @@
+{
+ "id": "599fc6c4cd1bfd2134a936d6",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 650,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ni44xnF6",
+ "data": {
+  "system_settings": "Discord Alpha 4.1.0, Android 5.0.2, Android 5.1",
+  "client_settings": "Discord Alpha 4.1.0",
+  "actual_result": "the server icon still there",
+  "expected_result": "the server icon should gone after i delete it",
+  "short_description": "delete server and icon still stuck on list",
+  "steps_to_repro": "- create a server - delete it on phone"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5be78b4e5ada8648d5565bc7",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 3369,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0hDrkwGj",
+ "data": {
+  "system_settings": "Microsoft Windows Version 1803 (OS Build 17134.376)",
+  "client_settings": "Microsoft Edge 42.17134.1.0 Microsoft EdgeHTML 17.17134 / Discord's site, not client",
+  "actual_result": "Discord's Jobs page is stuttering up and down when scrolling down",
+  "expected_result": "Discord's Jobs page is supposed to be stabilized and not stutter up or down when scrolling",
+  "short_description": "Discord's Jobs page's doesn't scroll smoothly",
+  "steps_to_repro": "- Get Microsoft Edge - Go to  (If link is not shown before this text, go to Discord's Jobs page - Start scrolling down - You will notice that it starts to lag a little bit up and down - Compare this experience with Chrome - You will notice that Chrome is stable and has no seizure like Edge"
+ }
+}

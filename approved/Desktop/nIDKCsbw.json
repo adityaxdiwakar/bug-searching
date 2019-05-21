@@ -1,0 +1,17 @@
+{
+ "id": "5bec0fcbea3fe00430440ee9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3382,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nIDKCsbw",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Discord Canary 27964",
+  "actual_result": "If you click it enough times, you will see that when you click once, it will copy AND un-copy in one click.",
+  "expected_result": "One click, it should copy, and another click, it should \"un-copy\" (?).",
+  "short_description": "Clicking the \"Copy\" button on the invite multiple times, copies and uncopies in one click.",
+  "steps_to_repro": "- On any channel that you have permission to create an invite, click on the invite icon. - You should be led to the invite screen, with the option to copy the link. - Press that button multiple times. However, make sure you are only clicking once every time you are clicking it. (You need to try a fair amount of times for this to work). - Observe the copy."
+ }
+}

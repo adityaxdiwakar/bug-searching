@@ -1,0 +1,17 @@
+{
+ "id": "5afe5190a6ce261ab852daa5",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2013,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EAdhZQ5P",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS, Asus Netbook F551C, Intel Core i3 64bits",
+  "client_settings": "Discord Canary 15123",
+  "actual_result": "The bot appears in the Offline section in member list of lazy guilds, even if the client knows that the bot is Online by picking the bot's presence in other mutual servers/DMs",
+  "expected_result": "The member list should always reflect the presence of the bot shown in profile, as it did in non-lazy guilds. Showing whether or not the bot has a shard connected to the guild would be a missing feature/feedback",
+  "short_description": "If a bot is multi-sharded and is online, but has some of its shards disconnected, it will appear in the Offline section of lazy guilds unserved by the bot, even though it still has an Online status in profile",
+  "steps_to_repro": "- Find a bot that is multi-sharded and that is only connected to a few shards, not all of them - Be sharing at least 2 servers with the bot: a server A where the bot is fully connected, and a server B where the bot is unresponsive because of a disconnected shard and that is a lazy guild - Look at the member list of server B"
+ }
+}

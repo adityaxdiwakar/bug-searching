@@ -1,0 +1,23 @@
+{
+ "id": "5890cdc4a8823b0172117a00",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 366,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uBAT6Po3",
+ "data": {
+  "system_settings": " Arch 0.0.15 canary",
+  "actual_result": "photo is deleted and message is edited",
+  "expected_result": "original text message is edited",
+  "short_description": "photo deletion when using s/or/of message editing",
+  "steps_to_repro": "- post a text message, eg. helo there - post a photo - realize you put a spelling mistake  - use s/ message substatution (eg. `s/helo/hello`) -  "
+ }
+}

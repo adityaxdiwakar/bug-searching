@@ -1,0 +1,30 @@
+{
+ "id": "5a7e79a502c337e42f67e184",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1114,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2obmn1AW",
+ "data": {
+  "system_settings": "Nexus 5, Android 6.0.1",
+  "client_settings": "Discord Beta 6.1.7",
+  "actual_result": "You can type in the text box, but not send a message",
+  "expected_result": "You shouldn't be able to type in the text box",
+  "short_description": "Sharing something into a channel you are unathorized to speak in, allows you to type in the text box.",
+  "steps_to_repro": "- Go to a channel you are unauthorized to send messages in - Close Discord entirely - Go to a different app, and share something to Discord - Examine text box"
+ }
+}

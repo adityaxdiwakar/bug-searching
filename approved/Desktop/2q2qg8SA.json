@@ -1,0 +1,30 @@
+{
+ "id": "5b02292dd959567e17eb75d1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2029,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2q2qg8SA",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.209, Build 15665",
+  "actual_result": "Bot tag is too far down being misaligned from the name & status indicator+Blocked text",
+  "expected_result": "Bot tag is properly aligned with the bot's name & status indicator+Blocked text",
+  "short_description": "Bot tag misaligned in your Blocked list",
+  "steps_to_repro": "- Block a bot - Go into your Blocked list and observe the tag's placement from the other text present"
+ }
+}

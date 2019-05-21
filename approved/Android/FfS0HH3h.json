@@ -1,0 +1,42 @@
+{
+ "id": "5a8ebd5c829abb55e85145f4",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1137,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a860cfc8dde10262a3bb6cd",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a8f3d4b370ae07ab675ea8f",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "invites",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FfS0HH3h",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.7",
+  "actual_result": "It closes but a new invite will be generated according to the changes you made (as if you pressed \"Generate link\")",
+  "expected_result": "It should either close the settings and dismiss the changes (as if you pressed Back button) or not close at all",
+  "short_description": "If you have create invite settings open, rotating your screen OR using Android 7 split screen will generate a new invite as if you tapped on \"Generate link\"",
+  "steps_to_repro": "- Go to a server where you have Create Invite permissions  - Open Create Invite screen - Tap on the gear icon to open invite settings - Change something but don't submit your changes - Rotate your screen OR use Android 7 split screen"
+ }
+}

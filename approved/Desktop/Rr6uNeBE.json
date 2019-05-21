@@ -1,0 +1,24 @@
+{
+ "id": "59ddcf97fb7eef5caef9eccf",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1249,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7224",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P0: Need an immediate fix",
+   "color": "red"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Rr6uNeBE",
+ "data": {
+  "system_settings": "Win10 Pro x64",
+  "client_settings": "app-0.0.298",
+  "actual_result": "Discord stays in English",
+  "expected_result": "Language should be changed",
+  "short_description": "Language Change is not working properly",
+  "steps_to_repro": "- Go to user settings \u2013 Go to Language tab \u2013 Change the language"
+ }
+}

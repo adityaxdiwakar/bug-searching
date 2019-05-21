@@ -1,0 +1,30 @@
+{
+ "id": "5ae0f820c840e91f04f154ad",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1323,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/O1VovvQf",
+ "data": {
+  "system_settings": "Samsung Galaxy s6 edge,Android 7.0",
+  "client_settings": "6.5.8",
+  "actual_result": "Toast will sometimes say one of the other badges such as \"discord staff\"",
+  "expected_result": "Toast should always appear as \"bug hunter\"",
+  "short_description": "Clicking badge shows wrong toast(sometimes, tested on dabbit prime)",
+  "steps_to_repro": "- Go to dabbit primes profile - Try and click bug hunter badge"
+ }
+}

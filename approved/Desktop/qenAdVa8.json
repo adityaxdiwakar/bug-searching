@@ -1,0 +1,17 @@
+{
+ "id": "5baa5f8b648f9b2166d7de3f",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 3031,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qenAdVa8",
+ "data": {
+  "system_settings": "Windows 10 Home SL 1803 x64",
+  "client_settings": "Canary 24580",
+  "actual_result": "there is point hand cursor if you hover it around the game icon. you cant open the game info if you attempt to click it.",
+  "expected_result": "it should stay as crossed circle cursor",
+  "short_description": "you can see the point hand cursor in the quick launcher while the game is running",
+  "steps_to_repro": "- launch a game from quick launcher - after launching the game, hover your mouse in the running game. click of you see the point hand icon"
+ }
+}

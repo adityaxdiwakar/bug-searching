@@ -1,0 +1,17 @@
+{
+ "id": "5b60e1166755f994b60d48bd",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2549,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8U43bPeN",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 20386",
+  "actual_result": "Two notifications appear for the mention",
+  "expected_result": "Only one notification appears",
+  "short_description": "Double Notifications on mentions when the overlay is running",
+  "steps_to_repro": "- Open a game with the overlay running - Have someone mention you"
+ }
+}

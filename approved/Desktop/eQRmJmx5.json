@@ -1,0 +1,30 @@
+{
+ "id": "5b6f177ad238ce0fb47c7b15",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2675,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eQRmJmx5",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 21681",
+  "actual_result": "The selection jumps to where your mouse cursor is",
+  "expected_result": "The selection stays the same and you can press enter to get the right emoji",
+  "short_description": "Wrong emoji get's selected in the Emoji picker when someone sends a message in the same channel",
+  "steps_to_repro": "- write up a beautiful message and attempt to add an emoji in chat via entering `:` and the start of the emoji name - make sure your mouse is hovering over one of the emojis - select a different emoji with the arrow keys - have someone message the channel/dm you are in - observe"
+ }
+}

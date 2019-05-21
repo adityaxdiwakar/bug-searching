@@ -1,0 +1,16 @@
+{
+ "id": "58d04c8e540f7913b32ef637",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 441,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tTmQL9in",
+ "data": {
+  "system_settings": " Windows 10, Discord Canary Latest.",
+  "actual_result": "Focus is lost and a second left-click is needed.",
+  "expected_result": "Mouse focus returns to message and we can type again.",
+  "short_description": "Right-click on text area (message) loses its focus.",
+  "steps_to_repro": "- Start typing a message. - Right-click in the message text area. - Left-click in message text area. "
+ }
+}

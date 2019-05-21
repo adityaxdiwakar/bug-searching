@@ -1,0 +1,30 @@
+{
+ "id": "5bdc18e421c71781f90f1a5c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3339,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nsDr1zHu",
+ "data": {
+  "system_settings": "Microsoft Windows Version 1803 (OS Build 17134.376)",
+  "client_settings": "Chrome Version 70.0.3538.77 (Official Build) (64-bit) / [BUILD INFO] Release Channel: stable, Build Number: 27353",
+  "actual_result": "There is a scroll bar",
+  "expected_result": "There is not supposed to be a scroll bar",
+  "short_description": "There is a scroll bar on Discord login page",
+  "steps_to_repro": "- Go to Discord's site and press Login - You will be on the Login page and you'll notice the scroll bar - There's no point in having the scroll bar if there's nothing down there. - The screen resolution is 1366x768"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5af10cd7895a8430243d82fc",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1379,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yCDDDABE",
+ "data": {
+  "system_settings": "K20 V Android 7.0",
+  "client_settings": "Discord Alpha 6.6.2",
+  "actual_result": "there's a bigger space than usual",
+  "expected_result": "no space",
+  "short_description": "there's a gap between the role name and the users in the user drawer",
+  "steps_to_repro": "- go to any server - open the user drawer - look at the role name and the first user"
+ }
+}

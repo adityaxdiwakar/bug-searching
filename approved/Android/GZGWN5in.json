@@ -1,0 +1,24 @@
+{
+ "id": "5a73c3de43f180ec2b71d6f7",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1091,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GZGWN5in",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 6.1.9",
+  "actual_result": "it shows a user profile instead",
+  "expected_result": "It should show a text channel icon",
+  "short_description": "Users profiles are shown for text channels",
+  "steps_to_repro": "- open up the quick switcher - type in something to look up a channel/user (I used \"mod\") - start scrolling down quickly and look at the user profile to see"
+ }
+}

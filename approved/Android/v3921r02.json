@@ -1,0 +1,17 @@
+{
+ "id": "5989ee228fda39c855b7ea01",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 602,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/v3921r02",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 edge (SM-G935F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.0.3 (403)",
+  "actual_result": "When toggling off the option, the instant invite that never expires stays, it's not swapped out for the newly created one which expires in 24h",
+  "expected_result": "When toggling off the option, the app should swap the instant invite link that never expires for the newly created one which expires in 24h like on the desktop clients",
+  "short_description": "Instant invite link doesn't update when toggling off the \"never expire\" option",
+  "steps_to_repro": "- Go to a server that you can generate invite links for - Tap on \"Create Instant Invite\" - Toggle off the \"Set this link to never expire\" option - Press the back button and go to Server Settings > Instant Invites - Observe that a new invite link that expires in 24h was created, but Discord did not swap the one that never expires for it when you toggled off the option in the invite creation screen."
+ }
+}

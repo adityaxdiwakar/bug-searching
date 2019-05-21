@@ -1,0 +1,30 @@
+{
+ "id": "5b82c25b480437031e305c1d",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1886,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Wyp8XxG3",
+ "data": {
+  "system_settings": "Xiaomi Redmi 5 Plus, Android 7.1.2",
+  "client_settings": "Discord Alpha 7.3.2 (732)",
+  "actual_result": "The speaker which the sound comes out of being the phone call speaker, and not the normal speaker.",
+  "expected_result": "The sound to resume coming out of the same speaker it was coming out of before.",
+  "short_description": "Wrong speaker being used after receiving a phone call while being in a discord voice call",
+  "steps_to_repro": "- Get in a voice call with someone. - Receive a phone call while being in a voice call. - Accept the phone call wait 2-5 seconds and close it. - Observe the sound coming from the phone call speaker, and not the normal phone speaker."
+ }
+}

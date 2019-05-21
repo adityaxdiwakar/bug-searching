@@ -1,0 +1,17 @@
+{
+ "id": "5b049028eb6e966a3d531cfd",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 764,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dVwQJgjH",
+ "data": {
+  "system_settings": "iPod Touch 6th generation, iOS 11.3.1",
+  "client_settings": "TestFlight 2.3.2 (4694)",
+  "actual_result": "The text does not show (on light theme)",
+  "expected_result": "The \u201cjoin\u201d / \u201cjoined\u201d text should display",
+  "short_description": "The \u201cjoined\u201d text is missing from servers you have already joined on light theme",
+  "steps_to_repro": "- go to settings - go to theme and switch to light - find a invite for a server you already joined and noticed that the \u201cjoined\u201d text is missing - now go back to settings and switch to dark - notice the \u201cjoined\u201d text appears"
+ }
+}

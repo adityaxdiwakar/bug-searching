@@ -1,0 +1,42 @@
+{
+ "id": "5a89d2c9cf543e47426c531c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1668,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a8c8dc528f24d48e872f4cb",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "text",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vCTZFwtX",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, build number 10878 and Discord stable, build number 10876 on Firefox 58.0.2",
+  "actual_result": "Spotify embed's text goes over the \"New Messages Since [...]\" bar",
+  "expected_result": "New Messages bar should draw above everything",
+  "short_description": "Spotify embed's text draws over the \"New Messages Since [...]\" bar",
+  "steps_to_repro": "- Go in a channel with enough messages to trigger the New Messages notification bar and with a Spotify embed - Scroll around and notice"
+ }
+}

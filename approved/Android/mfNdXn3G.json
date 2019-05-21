@@ -1,0 +1,17 @@
+{
+ "id": "5b5ad2b1e3887b7a833903f9",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1682,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mfNdXn3G",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.1.9",
+  "actual_result": "the person on the top of the Online tab will also appear as the person on the top of your All Friends tab, until you scroll and realize they're not",
+  "expected_result": "Switching tabs causes the All Friends list to start at the top",
+  "short_description": "Switching from your Online tab on your friends list to your All Friends tab causes the person on the top of the Online Friends tab to be jumped to on the All Friends tab, rather than the list starting at the top (if that makes any sense)",
+  "steps_to_repro": "- go to your Online Friends list - Switch to your All Friends tab - Observe the person on the top of the list when switching from tabs"
+ }
+}

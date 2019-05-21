@@ -1,0 +1,30 @@
+{
+ "id": "593f4573d1d15baf7495f994",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 748,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0MBUfxxv",
+ "data": {
+  "system_settings": "Windows 10 CU x64",
+  "client_settings": "Desktop Canary 0.0.157 Build 1394",
+  "actual_result": "The usercard shows up, omitting the roles section",
+  "expected_result": "The usercard should show the roles section, along with all of the user's roles.",
+  "short_description": "Roles don't show up on join message usercard",
+  "steps_to_repro": "- Create a server that gets join messages - Have someone join the server - add roles to the user - look at the user's usercard from the join message"
+ }
+}

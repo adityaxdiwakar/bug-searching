@@ -1,0 +1,35 @@
+{
+ "id": "590cfd8c84f9b6bdcdffee53",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 604,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ruSb4Awk",
+ "data": {
+  "system_settings": " Latest 64 bit Firefox on Windows 8 and 10",
+  "actual_result": "Nothing",
+  "expected_result": "File selection dialogue pops up and allows uploading of emoji",
+  "short_description": "Upload Emoji button not working on Firefox",
+  "steps_to_repro": "- Have permission to edit emojis on the server - Open server settings panel - Click over to Emoji panel - Click on Upload Emoji button "
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "596e2cbf178b0319e97c2263",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 864,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zzrZzEm6",
+ "data": {
+  "system_settings": "Macbook Pro 2015 Screen resolution: 15,4-inch (2880 x 1800), MacOS Sierra: Version 10.12.5 Discord Canary 0.0.149",
+  "client_settings": "Discord Canary, 0.0.150",
+  "actual_result": "The load more box shows",
+  "expected_result": "The box doesn't show",
+  "short_description": "When viewing audit logs in streamer mode a load more box shows",
+  "steps_to_repro": "- Enter streamer mode - Go to Audit Logs - See the load more box"
+ }
+}

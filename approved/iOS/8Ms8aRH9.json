@@ -1,0 +1,24 @@
+{
+ "id": "5b6aeef3fb987123143e6b80",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 879,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8Ms8aRH9",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.6 (6427)",
+  "actual_result": "The extension sends the image despite you having blocked the user",
+  "expected_result": "It tells you that you cannot send messages to blocked users",
+  "short_description": "You are able to send messages to users you've blocked using the Share Extension",
+  "steps_to_repro": "- Block any user - Enter photos app - Click to share a random photo - Select Discord - Select to Share in Direct Messages to the user you blocked - Post"
+ }
+}

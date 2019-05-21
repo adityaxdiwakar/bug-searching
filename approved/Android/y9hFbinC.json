@@ -1,0 +1,17 @@
+{
+ "id": "5b2dc0b300b662389810adb6",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1581,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/y9hFbinC",
+ "data": {
+  "system_settings": "Zte Blade Zmax",
+  "client_settings": "Andriod Alpha 6.9.8",
+  "actual_result": "Immediate app crash and cannot use at all.",
+  "expected_result": "Enter the discord app as usual",
+  "short_description": "Instant crashing on re-entry of app.",
+  "steps_to_repro": "- Update to 6.9.8 - Tap Discord icon app"
+ }
+}

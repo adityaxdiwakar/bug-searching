@@ -1,0 +1,24 @@
+{
+ "id": "5b88b905d7297d182aa7b849",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 960,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bqLdpNVd",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 11",
+  "client_settings": "TestFlight 2.3.7 (6968)",
+  "actual_result": "The everyone role is on the top of the role list when filtering",
+  "expected_result": "The everyone role should be on the bottom when filtering, where it is in the role list, like on desktop",
+  "short_description": "When filtering by roles in member settings, the everyone role appears at the top instead of its place in the role list",
+  "steps_to_repro": "- Go into a server you have permission to see the member list - Press the three dots in the top right corner - Select the filter option and observe the position of the everyone role in the role list that pops up"
+ }
+}

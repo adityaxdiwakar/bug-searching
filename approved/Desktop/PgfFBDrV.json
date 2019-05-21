@@ -1,0 +1,15 @@
+{
+ "id": "581cfcec3d17d225300a4662",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 117,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PgfFBDrV",
+ "data": {
+  "actual_result": "A new \"entry\" is created every time, which defaults to the \"Only show notifications\" or \"Off\" setting.",
+  "expected_result": "The icon settings stay the same",
+  "short_description": "After every update to Discord, a new notification area icon is created, rather than the old one being updated",
+  "steps_to_repro": "- Update Discord on Windows "
+ }
+}

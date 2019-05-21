@@ -1,0 +1,17 @@
+{
+ "id": "5bb204f54e965656e3ab654d",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 3065,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/V3Tye2V0",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Discord Canary 25069",
+  "actual_result": "Game info never closes, forcing you to restart Discord to get rid of it.",
+  "expected_result": "Game info closes when you click outside.",
+  "short_description": "Clicking multiple times on the avatar shown on the games under activity tab does not close the game.",
+  "steps_to_repro": "- Go to the activity tab. - Click on any game title. It should pop up the game info with \"recently played\" and \"now playing\" screen. - Click on the profile pic of your friend at least 3 times. - Click somewhere outside of the game info so the game info closes."
+ }
+}

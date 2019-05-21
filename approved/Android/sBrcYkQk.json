@@ -1,0 +1,30 @@
+{
+ "id": "5a2111b7c9074a4469792fb0",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 932,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sBrcYkQk",
+ "data": {
+  "system_settings": "Google Pixel 2 XL Android 8.0.0",
+  "client_settings": "Android Alpha 5.8.0 (580)",
+  "actual_result": "The image is rotated 90 degrees to the left. After uploading the processed one the \"original\" will also switch orientation",
+  "expected_result": "The image should be in the orientation it was taken in",
+  "short_description": "Portrait photos taken on portrait orientation on the Google Pixel 2 (XL) appear sideways in Discord",
+  "steps_to_repro": "- Wait for the image to process - Optional: View the image in other apps to confirm it's not sideways - Upload to Discord"
+ }
+}

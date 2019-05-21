@@ -1,0 +1,15 @@
+{
+ "id": "584f904290f95b6297f7596b",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 241,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/p5i1w94H",
+ "data": {
+  "actual_result": "Your 'empty' characters are deleted System settings: Windows 10 Pro, Latest Canary 0.0.149",
+  "expected_result": "Your exact message draft should carry over to the upload dialouge",
+  "short_description": "'Empty' Characters such as New Lines and Spaces do not carry over to the Upload Dialouge",
+  "steps_to_repro": "- Type your message in the message field, put a Space or New Line at the end of it, nothing after - Upload a File (Image) via your Clipboard (Ctrl-V) - Your 'empty' character will no longer be there "
+ }
+}

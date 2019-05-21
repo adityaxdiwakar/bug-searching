@@ -1,0 +1,30 @@
+{
+ "id": "5af7500c889d24638334a678",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1979,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GIRXYG15",
+ "data": {
+  "system_settings": "Win 10 x64 Latest",
+  "client_settings": "Discord Canary, 0.0.208",
+  "actual_result": "Pings the user with the uppercase letter in username (I'm sure there's other variations on this)",
+  "expected_result": "Pings the user you were trying to ping",
+  "short_description": "Capitalization in similar username with same discrim mentions wrong person",
+  "steps_to_repro": "- Have 2 users with identical discrims and username except one letter's case (\u02cbLink#\u200b0001\u02cb and \u02cblink#\u200b0001\u02cb) - Attempt to mention the user with all lowercase"
+ }
+}

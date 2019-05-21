@@ -1,0 +1,30 @@
+{
+ "id": "5ab9ad896eff60a470024db3",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1230,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vfQolTke",
+ "data": {
+  "system_settings": "OnePlus 3T Android O (8.0.0)",
+  "client_settings": "Alpha 6.4.4",
+  "actual_result": "You're being jumped back to the earliest blocked message that has been loaded by the app.",
+  "expected_result": "Your position in chat should still be at the bottom as you've already caught up with everything.",
+  "short_description": "When switching between read channels that both contain blocked messages the chat will jump up towards (presumably) the oldest loaded blocked message",
+  "steps_to_repro": "- Have two channels in which messages have been posted by users you blocked (the messages don't have to be from the same user; for the best result make sure the blocked messages are a little bit up) - Switch from channel A to B - Observe your position in the chat"
+ }
+}

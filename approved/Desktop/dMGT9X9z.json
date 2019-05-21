@@ -1,0 +1,17 @@
+{
+ "id": "5b6268eba425ed51f0eecf02",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2583,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dMGT9X9z",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 20535",
+  "actual_result": "Servers are alphabetical",
+  "expected_result": "The servers are sorted as they are in the server list",
+  "short_description": "Servers in the overlay aren't sorted right",
+  "steps_to_repro": "- Open the overlay - Look at the server list and compare with the desktop client"
+ }
+}

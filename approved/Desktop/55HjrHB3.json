@@ -1,0 +1,30 @@
+{
+ "id": "5a2c9cb21e601a8103d7cf4b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1438,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/55HjrHB3",
+ "data": {
+  "system_settings": "Windows 10 Pro [Version 1607, Build 14393.1914]",
+  "client_settings": "Release Channel: canary, Build Number: 8394, Version Hash: 5a1c548f726f8ba4b531e2cd2c3ae8849ffe8749",
+  "actual_result": "An empty window loads with no content",
+  "expected_result": "Discord should load to the main / default view",
+  "short_description": "Opening discord via invite accepted page (in chrome 63.0.3239.84 64 bit) with discord (canary) closed starts an empty discord window.",
+  "steps_to_repro": "- Open invite link - Accept invite - When prompted \"open discord canary\" accept - Discord fails to open"
+ }
+}

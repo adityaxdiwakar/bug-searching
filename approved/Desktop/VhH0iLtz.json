@@ -1,0 +1,17 @@
+{
+ "id": "5bc4f6289491b85a38ceeaa1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3187,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VhH0iLtz",
+ "data": {
+  "system_settings": "Windows 10 Home version 1803 build 17134.345",
+  "client_settings": "Desktop Canary build 26185",
+  "actual_result": "Discord crashes until you quit it in the taskbar and reopen it.",
+  "expected_result": "The store opens normally.",
+  "short_description": "If you have Nitro Classic and free games as a thank you, opening the store crashes Discord.",
+  "steps_to_repro": "- Have the message \"As a thank you for supporting Discord, you have access to Nitro games for a year.\" under your account - open the store"
+ }
+}

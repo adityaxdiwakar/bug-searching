@@ -1,0 +1,22 @@
+{
+ "id": "582e263e479a19aaac0d5558",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 155,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/50qaWR27",
+ "data": {
+  "actual_result": "Roles doesnt move up and you get errors.",
+  "expected_result": "Role moves up.",
+  "short_description": "When roles are moved up, they dont move up and error.",
+  "steps_to_repro": "- open up server settings and view roles. - dont own the server, and try to move a role up. - Get the patch request. "
+ }
+}

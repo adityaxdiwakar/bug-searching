@@ -1,0 +1,17 @@
+{
+ "id": "5b939f706c0fc63a4c4e32a1",
+ "closed": true,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 982,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/UmpGe3WC",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 12",
+  "client_settings": "TestFlight 2.3.8 (7106)",
+  "actual_result": "Categories slide over, but scrolls to the category you swiped on",
+  "expected_result": "Categories slide over",
+  "short_description": "Swiping categories in emoji picker registers as a tap while swiping",
+  "steps_to_repro": "- Open the emoji picker - Swipe to the left - Observe the position in the emoji picker"
+ }
+}

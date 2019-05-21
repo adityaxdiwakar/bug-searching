@@ -1,0 +1,17 @@
+{
+ "id": "5bdfa00c8845bb35fbad6ac9",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1152,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0QA9U1ou",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.2 Dev Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8900)",
+  "actual_result": "Button is inside safe area",
+  "expected_result": "Button is not inside safe area",
+  "short_description": "[iPhone X/XR/XS/XS Max] 'Need Help?' button when account requires verification is inside safe area",
+  "steps_to_repro": "- Create and log into a new account which requires verification, to ensure that the verification required screen appears - Observe the 'Need Help?' button at the bottom"
+ }
+}

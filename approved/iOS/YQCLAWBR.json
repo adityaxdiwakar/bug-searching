@@ -1,0 +1,30 @@
+{
+ "id": "5a40ac4d55cc4ab7f14252e8",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 467,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YQCLAWBR",
+ "data": {
+  "system_settings": "iPhone X, iOS 11.2.1",
+  "client_settings": "2.1.2",
+  "actual_result": "The timestamp isn't displayed",
+  "expected_result": "The timestamp is displayed",
+  "short_description": "Embed timestamp with no footer doesn't show up on mobile",
+  "steps_to_repro": "- make an embed with a timstamp of the time some message was sent (message DOT created_at for d DOT py) - There should be NO OTHER FOOTER! It must be only a timestamp. - Dm me to receive link to server with an example"
+ }
+}

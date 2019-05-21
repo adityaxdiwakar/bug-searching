@@ -1,0 +1,29 @@
+{
+ "id": "583e1a5929f45911c05e6303",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 110,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aSpATHYY",
+ "data": {
+  "system_settings": " Samsung Galaxy S2, Android 4.1.2 ",
+  "actual_result": "DMs are shown in the sidebar and the server doesn't appear to be selected. Upon selecting the server everything is back to normal System Settings: Samsung Galaxy S2, Android 4.1.2",
+  "expected_result": "The sidebar shows channels in that server",
+  "short_description": "[minor] Sidebar still shows DMs after being invited to a server from DMs",
+  "steps_to_repro": "- Make somebody invite you to a server from DMs - Click on the invite link - Accept the invite - You'll be shown the general channel of the server - Open the sidebar "
+ }
+}

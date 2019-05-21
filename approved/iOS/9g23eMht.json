@@ -1,0 +1,24 @@
+{
+ "id": "5a63e493dda30d196daf712b",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 532,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9g23eMht",
+ "data": {
+  "system_settings": "iPhone X 11.2.2",
+  "client_settings": "Discord iOS TestFlight, 2.2.1 (2224) -",
+  "actual_result": "Discord Crashes Settings",
+  "expected_result": "Able to see their profile",
+  "short_description": "Crashing when clicking on someone who is in \u201cStreamer Mode\u201d.",
+  "steps_to_repro": "- 1) Look for a streamer who is using streamer mode on the members list 2) Click on their profile"
+ }
+}

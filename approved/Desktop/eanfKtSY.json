@@ -1,0 +1,24 @@
+{
+ "id": "593981cc739560a304f03a40",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 731,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eanfKtSY",
+ "data": {
+  "system_settings": "Windows 7 x64 Enterprise, Samsung Galaxy Note 5 Android 7.0",
+  "client_settings": "Discord Canary 0.0.155, Discord Alpha 0.9.0",
+  "actual_result": "JPGLARGE only embeds on mobile",
+  "expected_result": "JPGLARGE file should embed on desktop and mobile",
+  "short_description": "JPGLARGE files only show up on mobile",
+  "steps_to_repro": "- Upload a .jpglarge file to a channel - Watch as it shows up as a file and not embed the photo on desktop - check mobile on same channel to see the image embedded"
+ }
+}

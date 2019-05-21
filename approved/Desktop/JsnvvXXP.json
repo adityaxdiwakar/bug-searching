@@ -1,0 +1,24 @@
+{
+ "id": "59b63c38844387c01cb9d20f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1114,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JsnvvXXP",
+ "data": {
+  "system_settings": "Discord Canary 0.0.154 (Build 4053), macOS Sierra 10.12.6 (16G29) (iMac Retina 5K, 27-inch, Late 2017)",
+  "client_settings": "Discord Canary 0.0.154 (Build 4053)",
+  "actual_result": "You get a notification",
+  "expected_result": "You dont get a notification unless they mention you",
+  "short_description": "Category notification settings dont work",
+  "steps_to_repro": "- Set a server's notifications to All Messages in Notification Settings - Set a category to Mentions Only - Have someone sent a message in a channel in that category"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58caaa436c5eec5749a45443",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 294,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/v4LcWcsc",
+ "data": {
+  "system_settings": " Android 6.0.1 Discord 3.5.1",
+  "actual_result": "nothing happens",
+  "expected_result": "shows their profile",
+  "short_description": "when trying to see someone's profile you can only click outside of the text",
+  "steps_to_repro": "- go to the members list - click on the name of someone "
+ }
+}

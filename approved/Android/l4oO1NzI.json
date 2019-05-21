@@ -1,0 +1,30 @@
+{
+ "id": "5b5686117c6ef9822150dae3",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1671,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/l4oO1NzI",
+ "data": {
+  "system_settings": "Discord Alpha 7.1.2",
+  "client_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "actual_result": "the member list closes but the server list stays open",
+  "expected_result": "The member list and server list should still be showing",
+  "short_description": "rotating your phone while having both the members list and server list open causes the member list to contract",
+  "steps_to_repro": "- open the server list and member list by pressing the 2 buttons on the top at the same time- rotate your phone so its now horizontal"
+ }
+}

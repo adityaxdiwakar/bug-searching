@@ -1,0 +1,24 @@
+{
+ "id": "592f3d1c967ebfd47ae6b13f",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 694,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4tNOoWIE",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6 Beta",
+  "client_settings": "Desktop Canary, 0.0.147",
+  "actual_result": "The text is garbled (see both videos here: <https://www.dropbox.com/sh/q9y4elplwqnodz6/AABI4e9HwfFoU-_8AM58hNLZa>)",
+  "expected_result": "The text comes out ungarbled",
+  "short_description": "Including an email with other text scrambles the other text",
+  "steps_to_repro": "- Type some text, then type an email - Hit enter"
+ }
+}

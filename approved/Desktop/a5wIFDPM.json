@@ -1,0 +1,30 @@
+{
+ "id": "5b47603d63bed261787c9043",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2259,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/a5wIFDPM",
+ "data": {
+  "system_settings": "Windows 7",
+  "client_settings": "Desktop, build number 18362",
+  "actual_result": "The Discord taskbar icon does not flash",
+  "expected_result": "The Discord taskbar icon should flash",
+  "short_description": "\"Enable Taskbar Flashing\" does nothing if \"Enable Desktop Notifications\" is disabled.",
+  "steps_to_repro": "- In \"Settings\", within the \"Notifications\" section, enable \"Enable Taskbar Flashing\" and disable \"Enable Desktop Notifications\" - Receive a DM and notice there is no flashing on the taskbar."
+ }
+}

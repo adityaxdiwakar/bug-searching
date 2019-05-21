@@ -1,0 +1,23 @@
+{
+ "id": "58c88da966342e6f8a4bc293",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 426,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QbOMZkXl",
+ "data": {
+  "system_settings": " Discord Web @ Linux Chrome (run in an \"app\")",
+  "actual_result": "The linked site opens in the *same window* and the discord window will disappear.",
+  "expected_result": "Nothing.",
+  "short_description": "Links in Embeds don't work properly",
+  "steps_to_repro": "- Create an embed and send it into a channel. Be sure that it has a \"link\" and a small image. - Click at the blank spot at the right side of the image. "
+ }
+}

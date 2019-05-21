@@ -1,0 +1,30 @@
+{
+ "id": "5a4ff419d9a5f46a8feb0230",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1023,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ITx5kw0d",
+ "data": {
+  "system_settings": "Samsung Galaxy A3 2017 Nougat 7.0",
+  "client_settings": "Discord Alpha 6.0.6 (606)",
+  "actual_result": "it just show emoji's text like `:capital_abcd:`",
+  "expected_result": "It should've shown the emoji like on PC",
+  "short_description": "Emoji inside bot's embed not working",
+  "steps_to_repro": "- Make sure the bot posting emoji inside embed - Observe"
+ }
+}

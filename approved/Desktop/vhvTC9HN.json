@@ -1,0 +1,24 @@
+{
+ "id": "598c22d70f234eee5dbe10af",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 963,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vhvTC9HN",
+ "data": {
+  "system_settings": "Windows 10 Version 1607",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "Nickname becomes left-aligned and string after \", \" is on another line.",
+  "expected_result": "Nickname should be centered and on one line.",
+  "short_description": "A nickname of two long strings separated by \", \" aligns the nickname to the left and puts it on two different lines.",
+  "steps_to_repro": "- Change your nickname to \"longfirstword, longsecondword\" - Click on your name in the user list or chat"
+ }
+}

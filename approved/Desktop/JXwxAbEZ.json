@@ -1,0 +1,30 @@
+{
+ "id": "5af4055957da2460bfc2f541",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1964,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JXwxAbEZ",
+ "data": {
+  "system_settings": "MacOS 10.13.3, rMBP Early 2015",
+  "client_settings": "Canary 14965",
+  "actual_result": "Scroll bars, artifact in the corner, and \"Raging Demon\" easter egg gets its own column",
+  "expected_result": "Menu nicely resizes to fit window",
+  "short_description": "Keyboard shortcut window on narrow screens has resizing issues and a white box artefact on dark mode",
+  "steps_to_repro": "- Drag window size to narrow - Open up keyboard shortcuts with Ctrl/Cmd + / -  Observe scroll bars and artifacts"
+ }
+}

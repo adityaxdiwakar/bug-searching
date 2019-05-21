@@ -1,0 +1,30 @@
+{
+ "id": "5a6e978773c625cad265b59e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1080,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DLVJMv2P",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "618",
+  "actual_result": "header is blacked out",
+  "expected_result": "Header isn't blacked out",
+  "short_description": "using light theme and then using the double tap back button to bring up DMs etc causes the device header (where all the icons and time are displayed to black out)",
+  "steps_to_repro": "- change to light theme - double tap back to access DMs shortcut - notice the header is blacked out."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a2f5f1a1d01ce4de02b64d8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1443,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dKfGq7mU",
+ "data": {
+  "system_settings": "Windows 10 Home (x64)",
+  "client_settings": "Latest Discord Stable (0.0.299)",
+  "actual_result": "It's in the top left corner of the image section.",
+  "expected_result": "The loading icon should be centered.",
+  "short_description": "Uncentered image loading icon",
+  "steps_to_repro": "- Send or receive an image big enough to expect it to wait for loading. - Observe"
+ }
+}

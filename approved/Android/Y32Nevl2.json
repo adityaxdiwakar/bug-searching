@@ -1,0 +1,36 @@
+{
+ "id": "5adabd1bf75bbc881c88bc92",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1303,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Y32Nevl2",
+ "data": {
+  "system_settings": "Moto G5 Plus Android 8.1",
+  "client_settings": "Discord Alpha 6.5.5",
+  "actual_result": "It shows \"The listening party is over!\"",
+  "expected_result": "It should appear like it does on Desktop.",
+  "short_description": "Viewing your own Spotify invite shows \"The listening party is over!\" (Submitting from the iOS board)",
+  "steps_to_repro": "- Send an Spotify invite on Desktop.  - View the invite on your Android device."
+ }
+}

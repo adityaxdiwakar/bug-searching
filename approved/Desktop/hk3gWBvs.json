@@ -1,0 +1,30 @@
+{
+ "id": "5add039b92bba156897f3867",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1878,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hk3gWBvs",
+ "data": {
+  "system_settings": "Windows 8.1 Pro x64",
+  "client_settings": "Discord Stable (13994)",
+  "actual_result": "Button is bigger than normal.",
+  "expected_result": "Button is normal size.",
+  "short_description": "\"Send Friend Request\" button is bigger than normal in streaming user's profile.",
+  "steps_to_repro": "- Look a streaming user's profile."
+ }
+}

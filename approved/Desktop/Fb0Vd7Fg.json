@@ -1,0 +1,17 @@
+{
+ "id": "5a34700cf3725926e798735c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1461,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Fb0Vd7Fg",
+ "data": {
+  "system_settings": "Windows 10 Insiders Update build 16299.0 (according to bug-hunter-charter this OS version is allowed for crash reports)",
+  "client_settings": "Discord Canary Build Number: 8713, Version Hash: e8078760b18055dd24ed717105af7d19419a600f",
+  "actual_result": "The client crashes",
+  "expected_result": "You get the little popup to select people to create a group DM with",
+  "short_description": "Trying to create a group DM via the button in the Friends list crashes Discord with the crash screen",
+  "steps_to_repro": "- Go to your Friends - Click the button next to Recent Mentions to create a group DM - The client crashes with the \"Well, this is awkward...\" screen."
+ }
+}

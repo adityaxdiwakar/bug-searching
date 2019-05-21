@@ -1,0 +1,24 @@
+{
+ "id": "5bb8bb5c60ebcd79173377fe",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1061,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c93FQeyJ",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12",
+  "client_settings": "TestFlight 2.3.9 (8085)",
+  "actual_result": "Button isn't aligned with text",
+  "expected_result": "Button should be aligned with text",
+  "short_description": "Button to accept TOS and privacy policy when creating account is misaligned",
+  "steps_to_repro": "- Log out of your account - Tap Register - Observe the button to accept the TOS and privacy policy"
+ }
+}

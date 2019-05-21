@@ -1,0 +1,17 @@
+{
+ "id": "5b57fee8641a3901e82c08b5",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1674,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WCAxG3Xa",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.1.3",
+  "actual_result": "the channel name is replaced with the channel you were just in before you pressed on the person's profile on the top of your screen and will not change until you restart discord",
+  "expected_result": "The channel name changes according to what channel you're in",
+  "short_description": "Restarting discord causes the channel name to permanently stay at the top, regardless if you switch channels or not",
+  "steps_to_repro": "- go to a dm conversation - tap the \"friends\" tab showing all your friends - go to a channel - tap the person's name at the top of the page - back out of their profile - tap the 3 people on the top right - observe"
+ }
+}

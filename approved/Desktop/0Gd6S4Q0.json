@@ -1,0 +1,54 @@
+{
+ "id": "5a87c36d406f7f7ec03d86e5",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1664,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a860c4568c30e25f1e54643",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "text chat",
+   "color": null
+  },
+  {
+   "id": "5a8c8dc528f24d48e872f4cb",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "text",
+   "color": null
+  },
+  {
+   "id": "5a860c4a6f81b90b6c6eedf1",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Visual bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0Gd6S4Q0",
+ "data": {
+  "system_settings": "macOS 10.13.3",
+  "client_settings": "Discord, 0.0.250",
+  "actual_result": "the text being cut off at the top",
+  "expected_result": "the text not being cut off",
+  "short_description": "Text box height not flexible",
+  "steps_to_repro": "- use a phrase like \u09b6\u09c1\u0981\u099f\u0995\u09bf \u09ae\u09be\u099b as your username/role name  - observe that the username/role name gets visually cut off at the top because the text box is too short"
+ }
+}

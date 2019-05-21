@@ -1,0 +1,24 @@
+{
+ "id": "59cd7d5d8c31130862d43a50",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1208,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LMnJ0u8e",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 CU",
+  "client_settings": "Canary 0.0.164",
+  "actual_result": "No profile picture displays.",
+  "expected_result": "The profile picture should display.",
+  "short_description": "Bot profile pictures do not display",
+  "steps_to_repro": "- Look for/find a bot - Look at their profile picture"
+ }
+}

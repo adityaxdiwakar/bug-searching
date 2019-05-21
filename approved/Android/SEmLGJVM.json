@@ -1,0 +1,17 @@
+{
+ "id": "5b652afd3e14ea80912e41d8",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1780,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SEmLGJVM",
+ "data": {
+  "system_settings": "Samsung s5 Neo 6.0.1",
+  "client_settings": "alpha 7.2.4",
+  "actual_result": "system apps generate playing presence",
+  "expected_result": "system apps shouldn't be recognized as games",
+  "short_description": "system apps are detected as games [Possibly Samsung/Android 6.x specific]",
+  "steps_to_repro": "- enable game detection - open system app, i.e settings"
+ }
+}

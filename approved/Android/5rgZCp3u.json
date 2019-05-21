@@ -1,0 +1,17 @@
+{
+ "id": "5c1e797bcef60b84b82cc5f0",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2396,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5rgZCp3u",
+ "data": {
+  "system_settings": "Android Version 8.1.0 Samsung Experience-Version 9.5 Baseband-Version J530FXXU3BRJ1",
+  "client_settings": "8.1.7 (817)",
+  "actual_result": "The picture streched / bugges out. It returns to normal when you create the server fully",
+  "expected_result": "The picture would show as normal. Or atleast a cropped version.",
+  "short_description": "Server picture bugging out when using 16:9 format",
+  "steps_to_repro": "- Click the Create Server button - Input a picture to use as the server logo - Use the 16:9 format - Click the checkmark to accept the picture"
+ }
+}

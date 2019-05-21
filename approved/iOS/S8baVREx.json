@@ -1,0 +1,17 @@
+{
+ "id": "5b58ce05904d4a704d248727",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 846,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/S8baVREx",
+ "data": {
+  "system_settings": "iPad 2nd generation, iOS 9.3.5",
+  "client_settings": "Stable 2.3.5",
+  "actual_result": "App crashes while changelog is open",
+  "expected_result": "App should open normally without crashing",
+  "short_description": "Changelog causes iPad to crash on iOS 9.3.5 [iPad 2nd generation only!]",
+  "steps_to_repro": "- Make sure your app isn\u2019t updated to 2.3.5 - Update it from 2.3.4 to 2.3.5 - Open the app and wait for the changelog to open - Wait a couple seconds or while waiting tap on the screen somewhere  - Observe the crash"
+ }
+}

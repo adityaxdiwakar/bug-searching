@@ -1,0 +1,17 @@
+{
+ "id": "599a2bd2ad30a024ee494554",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1022,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/K2OR96jt",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "You leave the server but for a split second it shows you have no friends",
+  "expected_result": "You Leave the server and You see your friends list",
+  "short_description": "When I leave a Server that's on the top of my server list it shows I have no Friends for a split second",
+  "steps_to_repro": "- Move a server to the top of your server list - Leave the server that is on the top"
+ }
+}

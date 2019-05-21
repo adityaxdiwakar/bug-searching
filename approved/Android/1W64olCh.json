@@ -1,0 +1,30 @@
+{
+ "id": "5bf0e804aa2f4f4062c74f25",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2331,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1W64olCh",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.9.6",
+  "actual_result": "It shows no errors, nothing.",
+  "expected_result": "There should be an error, or a toast, saying somewhere along the lines of \"This field is required\", or \"you must input a valid invite\", etc.",
+  "short_description": "\"Join\" button on Join a server screen does absolutely nothing when nothing is inputted.",
+  "steps_to_repro": "- Scroll all the way down to the + button. - Click on it, and select \"Join a server\". - When you reach that screen, don't input anything, and just press \"Join\"."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59f00df6adc6e0e6e654d981",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1317,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QK7Y1k55",
+ "data": {
+  "system_settings": "Windows 10 64bit",
+  "client_settings": "Desktop Canary 0.0.167",
+  "actual_result": "Lower 1/3rd or so of screen will not have messages, new sent messages will further exaggerate space at bottom of screen",
+  "expected_result": "Screen will fill to show maximum amount of messages possible, and new messages sent will appear at bottom of screen",
+  "short_description": "Client doesn't grab enough messages to fill vertical screen space",
+  "steps_to_repro": "- Have large 16:9 or 16:10 vertical monitor - Go into DM or channel with more than 50 messages - Observe that lower 1/3rd of screen does not fill with messages"
+ }
+}

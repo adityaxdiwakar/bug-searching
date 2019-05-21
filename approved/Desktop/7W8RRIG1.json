@@ -1,0 +1,16 @@
+{
+ "id": "58c5e31a70f0e6bdf626e8a5",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 415,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7W8RRIG1",
+ "data": {
+  "system_settings": " Windows 10 x64, Discord Canary",
+  "actual_result": "No reaction",
+  "expected_result": "Indicator glows green",
+  "short_description": "Voice Activity test isn't working correctly",
+  "steps_to_repro": "- Disconnect from voice chat if you're connected to. - Go to User Settings -> Voice - Enable Voice Activity mode - Say something! "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b3da2bd1c0f2b3f2fdf945a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2235,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MHA6A1tC",
+ "data": {
+  "system_settings": "Windows 8.1 Home/OEM",
+  "client_settings": "Release Channel: stable, Build Number: 17872",
+  "actual_result": "Giphy continues to try to load gifs.",
+  "expected_result": "Giphy should no longer try to load gifs.",
+  "short_description": "When you cancel a giphy search it does not stop searching.",
+  "steps_to_repro": "- Simulate a slow connection(10mbit) - Do multiple  queries. - Watch Discord continue downloading all the giphy's you've searched for despite not having the search window open anymore. (submitting this on behalf of a user)"
+ }
+}

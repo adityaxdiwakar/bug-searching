@@ -1,0 +1,17 @@
+{
+ "id": "59e72a6cebe9adfa966f4e68",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1284,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IvS5zZJa",
+ "data": {
+  "system_settings": "Windows 8.1 x64 and Chrome 61",
+  "client_settings": "Canary 0.0.165 and web stable",
+  "actual_result": "It stays as 0 even with notifs",
+  "expected_result": "It should show the user count",
+  "short_description": "Friends online show as 0",
+  "steps_to_repro": "- Observe the online friends message"
+ }
+}

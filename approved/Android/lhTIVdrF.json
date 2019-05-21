@@ -1,0 +1,30 @@
+{
+ "id": "5b15a31121e7085204e36465",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1496,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lhTIVdrF",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.7",
+  "actual_result": "It shows results for the same channel",
+  "expected_result": "It should show results for the other channel",
+  "short_description": "If a server has many channels with the same name, searching with `in:#channel` will always bring up results for the same channel, no matter which suggestion you select in autocomplete",
+  "steps_to_repro": "- Be in a server with several channels with the same name. For example, DTesters has two channels named \"rules\" - Go to Search - Select the `in:` filter - Type \"rules\". Both channels will show up in autocomplete. Select any and submit the query - Now go back, and make a new search. Type the same thing as before, but this time select the other rules channel in the suggestions (the one you haven't selected the first time) - Submit and observe results"
+ }
+}

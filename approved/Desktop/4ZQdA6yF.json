@@ -1,0 +1,17 @@
+{
+ "id": "59ab7c390c30bb111d5b96cf",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1078,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4ZQdA6yF",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Version 1703",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "There's cutted emoji",
+  "expected_result": "Emoji should've shown normally",
+  "short_description": "Cutted emoji on user profile name",
+  "steps_to_repro": "- Have someone added the emoji on their name  - Check on their user profile"
+ }
+}

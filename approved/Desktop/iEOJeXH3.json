@@ -1,0 +1,24 @@
+{
+ "id": "59c0da5375671368bd2e5a98",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1170,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iEOJeXH3",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS Sierra 10.12.6",
+  "client_settings": "Discord Canary 0.0.154",
+  "actual_result": "Nothing happens, \"jump\" button doesn't work.",
+  "expected_result": "It should jump again to the pinned message.",
+  "short_description": "Jump to message doesn't work twice for the same message",
+  "steps_to_repro": "- Open pinned messages for example - Click \"Jump\" for any pinned message - Scroll a bit in message history to make sure the pinned message is out of sight - Open pinned messages again - Click again \"Jump\" for the same pinned message"
+ }
+}

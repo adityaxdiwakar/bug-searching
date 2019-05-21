@@ -1,0 +1,30 @@
+{
+ "id": "59c3f699122771e0cc43b557",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 755,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kB3Yddfo",
+ "data": {
+  "system_settings": "Sony Xperia Z5 on Android 7.0",
+  "client_settings": "Discord Alpha 5.2.1",
+  "actual_result": "Second toast message appears stating \"Missing Permissions\" despite channel being successfully muted.",
+  "expected_result": "Channel muted, single toast message saying that channel settings have been updated.",
+  "short_description": "Muting a Channel using Channel Settings causes two toast messages to appear",
+  "steps_to_repro": "- Proceed to an unmuted text channel in a server where you do not have permissions to manage channels.  - Open channel settings through the top right menu. - Mute channel."
+ }
+}

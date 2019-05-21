@@ -1,0 +1,17 @@
+{
+ "id": "5c076315dcada232d6926ff6",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1213,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/UKfFBz7b",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9595)",
+  "actual_result": "No results found text occasionally flashes behind the magnifying glass",
+  "expected_result": "No results found text doesn't flash behind the magnifying glass",
+  "short_description": "Repeatedly opening/closing the keyboard on the no results screen when inviting members occasionally flashes the \"no results\" text behind the magnifying glass",
+  "steps_to_repro": "- Go to a server where you have invite perms - Select the \"Invite Members\" button - Type some text so you have no results - Repeatedly close and open the keyboard, observing the magnifying glass"
+ }
+}

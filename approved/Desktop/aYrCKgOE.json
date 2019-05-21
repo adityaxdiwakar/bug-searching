@@ -1,0 +1,30 @@
+{
+ "id": "5a21f9fd792ab4a86bee9e86",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1419,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aYrCKgOE",
+ "data": {
+  "system_settings": "Windows 7 ultimate x64",
+  "client_settings": "Desktop Canary 7913",
+  "actual_result": "\"Open file\" window remains open and puts Discord into not respoding state after it's manually closed",
+  "expected_result": "\"Open file\" window should close after drag&drop or prevent drag & drop",
+  "short_description": "Drag&Dropping a file from an \"Open file\" window will leave the \"Open file\" window open and freeze Discord when closed",
+  "steps_to_repro": "- Go to a channel where you can upload files - Press on \"+\" button to open the \"Open file\" window - Drag&Drop one of the files from that window into Discord client - Press Upload or Cancel in Discord window"
+ }
+}

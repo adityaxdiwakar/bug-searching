@@ -1,0 +1,17 @@
+{
+ "id": "5b5cab1842cff1631d25a54c",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1696,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YbTatlPM",
+ "data": {
+  "system_settings": "OnePlus 6 8GB RAM 256GB internal storage 8.1.0",
+  "client_settings": "Alpha 7.2.0",
+  "actual_result": "Virtualized flash won't work without the expanding the camera",
+  "expected_result": "Virtualized flash will work without the need to expand the camera",
+  "short_description": "Virtualized flash works ONLY when expanding the camera",
+  "steps_to_repro": "- Make sure your device supports Virtual flash on front-facing camera - Press to add attachment  - Go to \"take a photo\" section  - Try to use flash on front camera WITHOUT expanding the camera - Observe  - Now try step 4 but with EXPANDING the camera and observe"
+ }
+}

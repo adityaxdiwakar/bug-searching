@@ -1,0 +1,16 @@
+{
+ "id": "583107aa2d321e289b34dcc6",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 84,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/X4yMpGyK",
+ "data": {
+  "system_settings": "iOS 10.1.1",
+  "actual_result": "Discord Crashes (Reported by Lord Tourettes#4139)",
+  "expected_result": "Mute your microphone as to not be rude/move to another Voice channel/leave the voice channel",
+  "short_description": "Crash On Leaving/Switching Voice Channels",
+  "steps_to_repro": "- Join a voice channel - actively participate in voice channel for about 5 minutes - then either be muted/mute yourself or move/leave the voice chat and discord will crash "
+ }
+}

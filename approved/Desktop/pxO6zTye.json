@@ -1,0 +1,24 @@
+{
+ "id": "59c5ffc7fb3d5063f65ac99f",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1187,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pxO6zTye",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6 MacBook Air 13\" 2013",
+  "client_settings": "Discord Canary 0.0.154",
+  "actual_result": "It just makes you join without a modal",
+  "expected_result": "A join server modal opens like when you click a link in a browser.",
+  "short_description": "When you click an invite link in a channel description, you don't get a join modal",
+  "steps_to_repro": "- Find a server where a channel description has a partner invite link to a server you aren't currently in - Click that invite link - Observe"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59c11c2736d28c7e6370d1c2",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 745,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/E9kWmk4X",
+ "data": {
+  "system_settings": "Android 7.0 Moto G4",
+  "client_settings": "Alpha 5.1.9",
+  "actual_result": "The message is edited but the same message stays in the message base and you can send it again",
+  "expected_result": "The message is edited and the message base is left blank",
+  "short_description": "Edited message stays and you can send it twice",
+  "steps_to_repro": "- Send a message starting in potrait move - Long press and click \"Edit\" - Switch to landscape mode then back to potrait - Add something to the edited message and send it"
+ }
+}

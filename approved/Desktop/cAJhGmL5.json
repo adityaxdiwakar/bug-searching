@@ -1,0 +1,30 @@
+{
+ "id": "5bd7efd00913b3442b66cff9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3311,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cAJhGmL5",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS v10.14 (Mojave)",
+  "client_settings": "Canary 27140",
+  "actual_result": "The warning floats near the top of the window.",
+  "expected_result": "The warning should be centered.",
+  "short_description": "NSFW Warning appears too high in the window",
+  "steps_to_repro": "- Create a NSFW channel - Enter the NSFW channel"
+ }
+}

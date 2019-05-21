@@ -1,0 +1,24 @@
+{
+ "id": "5b831a4a1e1c3c7029f0905e",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 953,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gbCwPnhB",
+ "data": {
+  "system_settings": "iPhone 8 Plus, iPad Air 2 - iOS 12 Public Beta 8",
+  "client_settings": "TestFlight 2.3.7 (6930)",
+  "actual_result": "The last line gets cut off. If you select the text again, it fixes itself.",
+  "expected_result": "Text shouldn\u2018t get cut off.",
+  "short_description": "Text in message input field gets cut off when closing keyboard",
+  "steps_to_repro": "- Go to any text channel or DM - Write 3 lines of text (also works with more) - Move the cursor to the end of the last line (don\u2018t select any word) - Close your keyboard - Observe the last line of your text"
+ }
+}

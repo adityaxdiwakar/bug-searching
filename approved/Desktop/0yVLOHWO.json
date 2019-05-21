@@ -1,0 +1,17 @@
+{
+ "id": "5b873b20fad1ab4ad62c7fe4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2831,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0yVLOHWO",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Build v1803",
+  "client_settings": "Canary Build 22781",
+  "actual_result": "The link either doesn't jump up or if the link was posted in a different server/different channel, it will redirect you to that channel but not jump to the message",
+  "expected_result": "The link should redirect you/jump you to the message it is linked too",
+  "short_description": "Message links/jump links do not jump to the message they are linked too",
+  "steps_to_repro": "- Scroll up once and find a message - Go to that message and click the 3 dot menu/overflow menu - Click the \"Copy Link\" option - Paste it in that same channel or a different server/different channel - Click on the link"
+ }
+}

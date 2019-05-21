@@ -1,0 +1,17 @@
+{
+ "id": "5bb5c09305302b1b32ccc519",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 3082,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DY2UIFbp",
+ "data": {
+  "system_settings": "Ubuntu 18.04",
+  "client_settings": "Desktop Canary, Build 25434",
+  "actual_result": "Discord is sluggish, animations are slow, loads are slow. It does perform like normal when the developer-tab is open.",
+  "expected_result": "Discord should not be sluggish and perform like with the previous electron version",
+  "short_description": "On Electron 3.x, client is very slow at everything without hardware acceleration",
+  "steps_to_repro": "- Open Discord - Turn hardware acceleration off - Restart discord"
+ }
+}

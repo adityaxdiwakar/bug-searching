@@ -1,0 +1,30 @@
+{
+ "id": "5bc2f92149003071e4a035bc",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 3177,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Em3JMKrG",
+ "data": {
+  "system_settings": "Windows 10 64x (1809)",
+  "client_settings": "Canary 25872",
+  "actual_result": "Overlay will crash after a page or so... (Not the most consistent at happening) Seems to work better with Spotify Client closed as well",
+  "expected_result": "Nothing",
+  "short_description": "[Overlay] Excessively scrolling with a Spotify Embed somewhere on the page causes overlay to crash",
+  "steps_to_repro": "- Open Overlay - Paste a Spotify Album or Song (that embeds) - Rapidly scroll up and down the page"
+ }
+}

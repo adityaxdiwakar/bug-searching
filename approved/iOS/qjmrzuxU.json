@@ -1,0 +1,24 @@
+{
+ "id": "5bfff5ea2e44371e068b95cb",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1185,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qjmrzuxU",
+ "data": {
+  "system_settings": "iPad Gen 6, iOS 12.1.1 Dev 3",
+  "client_settings": "Discord Testflight 2.4.0 (9370)",
+  "actual_result": "Developer mode gets toggled on and off as well, when you toggle Syncing.",
+  "expected_result": "The toggle for the syncing should be toggled as intended.",
+  "short_description": "Toggling Sync Across Clients in Appearance settings also toggles developer mode",
+  "steps_to_repro": "- Go to Settings > Appearance - Toggle \"Sync Across Clients\""
+ }
+}

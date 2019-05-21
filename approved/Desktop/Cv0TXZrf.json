@@ -1,0 +1,30 @@
+{
+ "id": "5be6a94805045a2815402069",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3367,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Cv0TXZrf",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1809)",
+  "client_settings": "Discord Canary 0.0.219 (27804)",
+  "actual_result": "It jumps you down again to the latest message",
+  "expected_result": "It shouldn't jump you down again",
+  "short_description": "When jumping to a message from search or link and there a store embed close to it, the client scrolls down again",
+  "steps_to_repro": "- Post a store embed in a channel - Let it go up for a while in the channel - Be scrolled down all the way to the bottom of the chat - Search up a message around this embed and try to jump to it and observe how the client instantly jumps back to the latest message again - OR be on the bottom of the channel and search me up mentioning Ene#0808 in BHGC saying \"show them\" and try to jump to that (there is a store embed a few messages below it)"
+ }
+}

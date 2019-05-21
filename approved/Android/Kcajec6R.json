@@ -1,0 +1,17 @@
+{
+ "id": "5ba985387df70b102c11c134",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2018,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Kcajec6R",
+ "data": {
+  "system_settings": "Moto G5 Plus Android 8.1",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "You only see numbers.",
+  "expected_result": "You will be able to see the text of the steps.",
+  "short_description": "Steps in expanded entries for channel override updates in the audit log don't show",
+  "steps_to_repro": "- Go to the audit logs - Expand a channel update entry"
+ }
+}

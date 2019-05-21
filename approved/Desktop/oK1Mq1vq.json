@@ -1,0 +1,15 @@
+{
+ "id": "581331f95fcfa71bcef9a7c7",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 82,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/oK1Mq1vq",
+ "data": {
+  "actual_result": "The whole name is used in the picker, which results in it having an extremely large width",
+  "expected_result": "The guild name is trimmed or its actual length is somehow reduced",
+  "short_description": "Long Guild names break the emoji picker",
+  "steps_to_repro": "- Join/Create a guild with a long name (maybe exploit?) [in the attachment below, the unicode chars used to get the results are U+115F and U+FFFD] - Add some spicy emotes to the guild - Click on the emoji picker "
+ }
+}

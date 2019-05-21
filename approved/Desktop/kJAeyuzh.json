@@ -1,0 +1,17 @@
+{
+ "id": "5b713af733295a8fbd7f7ccf",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2689,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kJAeyuzh",
+ "data": {
+  "system_settings": "Windows 10 April 2018 Update x64",
+  "client_settings": "Canary build 21705, on Firefox v61.0.2",
+  "actual_result": "The modal is not scrollable and the buttons are cut off (still clickable, though)",
+  "expected_result": "The modal is scrollable like on the client",
+  "short_description": "Action buttons are pushed down in the address section",
+  "steps_to_repro": "- Go to the Nitro options and click one of the payment options - Choose \"Credit Card\" - Fill out the CC details - Get greeted by filling your billing information"
+ }
+}

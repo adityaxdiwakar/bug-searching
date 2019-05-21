@@ -1,0 +1,17 @@
+{
+ "id": "5a5121c38b0b1e6b95da7073",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1518,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1uBtXykh",
+ "data": {
+  "system_settings": "Win10 x64",
+  "client_settings": "canary, Build Number: 9280",
+  "actual_result": "The white and red bubble dissapear on the Canary logo.",
+  "expected_result": "The white and red bubble stay on the Canary logo.",
+  "short_description": "When we restart Windows Explorer, the red and white dot on the Canary logo dissapear.",
+  "steps_to_repro": "- Re-open Canary. - Open TaskManager. - Right-click on Windows Explorer. - Click on restart."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5c151a3b7f3aac1da64d4463",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3506,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SODbzA3V",
+ "data": {
+  "system_settings": "Windows 10 home x64 v.1803",
+  "client_settings": "Canary 0.0.224 - 29791",
+  "actual_result": "im still deafened after i exit voice and video settings",
+  "expected_result": "i shouldn't be deafened when there is no mic testing going on",
+  "short_description": "clicking on the mic test button multiple times will keep you deafened even after you exit settings if you're in a call",
+  "steps_to_repro": "- join a voice channel - go to to voice settings - click on the \"let's check\" button multiple times for about 5 seconds because why not - close settings and observe that you're still deafened/muted"
+ }
+}

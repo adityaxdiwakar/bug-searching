@@ -1,0 +1,30 @@
+{
+ "id": "5b756e6d34c6fe083320b347",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1840,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ze9zxg45",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.3.1",
+  "actual_result": "While you are scrolling through the wall of dots, you will experience extreme lags or even freezes depending on your device. At best you will just experience an unsmooth scrolling. If you skipped step 3 (aka the Shitposter's messages are the most recent messages in the channel), you will have trouble to switch to the channel (step 4)",
+  "expected_result": "You should be able to scroll up without trouble",
+  "short_description": "People can intentionally make all Android users lag or even freeze by posting specific walls of text (kinda similar to this old fixed bug <https://trello.com/c/hGtuJ7cO>)",
+  "steps_to_repro": "- Find a text channel with some message history. Don't switch to it yet.  - Have someone (I'll call him \"the Shitposter\") post a few messages made of 2000 period characters \".\" (using any platform) - Let the chat going on normally so that the messages of the Shitposter go off screen - Now you can switch to that channel, and try to scroll up through the chat history"
+ }
+}

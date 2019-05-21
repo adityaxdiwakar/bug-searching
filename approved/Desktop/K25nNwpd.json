@@ -1,0 +1,17 @@
+{
+ "id": "5b3106825e024c297d14e0e2",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2199,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/K25nNwpd",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Canary, Build Number: 17580",
+  "actual_result": "The game popup stays on top of the screen until the mouse is used or other keyboard shortcuts such as Alt+UP are used",
+  "expected_result": "The screen is switched properly and the game popup goes away",
+  "short_description": "Popup for game in games tab doesn't go away",
+  "steps_to_repro": ""
+ }
+}

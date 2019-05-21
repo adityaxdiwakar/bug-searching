@@ -1,0 +1,17 @@
+{
+ "id": "59d3ed2f5e7ae6fad4e3ea7c",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 355,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IaXUsTPM",
+ "data": {
+  "system_settings": "IPhone 6s, 11.0.1",
+  "client_settings": "1.9.2 (953)",
+  "actual_result": "Discord voice chat will mute the external source and just keep the voice channel live.",
+  "expected_result": "Discord should \"pause\" or quit the voice channel. (Ex: Pandora would stop playing music if I switched over to Youtube).",
+  "short_description": "Voice channels don't pause for external sources of media. (Youtube, Pandora, etc)(Maybe a feature?)",
+  "steps_to_repro": "- Join an active voice channel. - Hit the home button, and try to play Youtube, or Pandora, or some other source."
+ }
+}

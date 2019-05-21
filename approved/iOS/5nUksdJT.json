@@ -1,0 +1,30 @@
+{
+ "id": "5a92c91876db22eff3152ab3",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 605,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5nUksdJT",
+ "data": {
+  "system_settings": "iPhone 7 Plus [iOS 11.2]",
+  "client_settings": "TestFlight 2.2.3 [2671]",
+  "actual_result": "Will display option box two times",
+  "expected_result": "Only display option box one time",
+  "short_description": "Spamming your screen on the \u2018Find or start a conversation\u2019 bar and a random server icon will pop-up the \u201cServer Settings, Notification settings, leave server\u201d bar two times",
+  "steps_to_repro": "- Spam your screen where the bar says \u201c Find or start a conversation \u201c and a random server icon"
+ }
+}

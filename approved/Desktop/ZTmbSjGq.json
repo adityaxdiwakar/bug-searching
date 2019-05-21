@@ -1,0 +1,17 @@
+{
+ "id": "5bcc8c6956320c36bce57f87",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 3260,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZTmbSjGq",
+ "data": {
+  "system_settings": "Windows 7 Ultimate x64",
+  "client_settings": "Canary 23836",
+  "actual_result": "you can see the entire display but in the game's specific resolution.",
+  "expected_result": "you can see what you're sharing in screenshare.",
+  "short_description": "you cant see what's your sharing in any of specific app running. [AMD Specific]",
+  "steps_to_repro": "- start a call with someone - share your screen with someone, choose the specific app that you want to share. make sure that it is not in fullscreen - look at your screen in DM. observe"
+ }
+}

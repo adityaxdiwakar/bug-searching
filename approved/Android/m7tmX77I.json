@@ -1,0 +1,17 @@
+{
+ "id": "5b2358af6feba6622f9b7546",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1543,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/m7tmX77I",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 Edge",
+  "client_settings": "Android- 6.8.7",
+  "actual_result": "What happens is that when you switch to another chat/server the animation will finish in the new chat.",
+  "expected_result": "What should happen is that when you switch to a new chat it cancels the scroll animation instead of continuing.",
+  "short_description": "When you scroll down and switch to another chat the scroll animation finishes in the new chat.",
+  "steps_to_repro": "- You must find a chat and scroll up a little to give yourself room to scroll. Second- Scroll down like you normally would. Third- While the screen is scrolling down switch to another server."
+ }
+}

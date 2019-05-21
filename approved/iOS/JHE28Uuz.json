@@ -1,0 +1,17 @@
+{
+ "id": "59ab09e6921eb75150616c1c",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 314,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JHE28Uuz",
+ "data": {
+  "system_settings": "IOS 10.3.3 IPAD AIR 2",
+  "client_settings": "1.9.1",
+  "actual_result": "Old name keep popping back up.",
+  "expected_result": "Old name should disappear when you tap the round cross button.",
+  "short_description": "Group name calls not updating correctly.",
+  "steps_to_repro": "- Create a group for you and your friend. (NOT A SERVER) - Try to change the name. (It won't work properly)"
+ }
+}

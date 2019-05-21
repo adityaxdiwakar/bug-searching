@@ -1,0 +1,30 @@
+{
+ "id": "5b806cf5260d8d667bb54af2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2791,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/imvyEv6c",
+ "data": {
+  "system_settings": "Windows 7 Ultimate 64bit",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 22333, Version Hash: 76f317c0de4b335c5f692213a60f2fe4d1679c4e",
+  "actual_result": "No highlight",
+  "expected_result": "The matched words should be highlighted in the results",
+  "short_description": "Matched words don't get highlighted in Results of Search when they are in a Multiline Code Block",
+  "steps_to_repro": "- Create text in a multiline code block (within 2x 3 backward ticks) - Search for the text"
+ }
+}

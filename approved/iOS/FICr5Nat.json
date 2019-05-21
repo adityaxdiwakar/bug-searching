@@ -1,0 +1,24 @@
+{
+ "id": "5bb2903430ff0d4eecf54880",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1043,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FICr5Nat",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta",
+  "client_settings": "TestFight 2.3.9 (7731)",
+  "actual_result": "Background darkens, and then undarkens after a couple seconds",
+  "expected_result": "Background darkens and stays darkened",
+  "short_description": "Background darken effect when searching in members under server settings disappears",
+  "steps_to_repro": "- Go to a server you can manage members - Open server settings, and go to members - Tap on the search feature at the top - Observe the darken effect after you tap search"
+ }
+}

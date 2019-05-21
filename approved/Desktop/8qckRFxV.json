@@ -1,0 +1,30 @@
+{
+ "id": "5b36ed30031dae5c4ca944c4",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2223,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8qckRFxV",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.5",
+  "client_settings": "Discord Canary 0.0.193 (Build 17937)",
+  "actual_result": "For a specific position it can go partially off-screen.",
+  "expected_result": "Game pop-up shouldn't go off-screen and always shown completely",
+  "short_description": "Game pop-ups can go off-screen for the Games tab",
+  "steps_to_repro": "- Click on Home - Open the Games tab - Click on any game there that could go off-screen - Try it with different positions, screen sizes, zoom levels, etc."
+ }
+}

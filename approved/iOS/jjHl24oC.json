@@ -1,0 +1,30 @@
+{
+ "id": "59b361af1d40304b7f0fe660",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 321,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jjHl24oC",
+ "data": {
+  "system_settings": "iPhone 6, iOS 10.3.3",
+  "client_settings": "TestFlight 1.9.1 (524)",
+  "actual_result": "The error message 'Your nickname could not be changed on...' appears and is cut off",
+  "expected_result": "An error message mentioning the 32 character limit should be displayed in full",
+  "short_description": "Long nickname error text is incorrect/cut off",
+  "steps_to_repro": "- Open Server Settings - Tap Members - Select any member - Enter a nickname exceeding the 32 character limit and tap Done"
+ }
+}

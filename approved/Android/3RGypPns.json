@@ -1,0 +1,17 @@
+{
+ "id": "5bb5b6ed8d3a771ad2adc882",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2098,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3RGypPns",
+ "data": {
+  "system_settings": "Samsung Galaxy J5, 6.0.1",
+  "client_settings": "Discord Beta 7.6.2",
+  "actual_result": "It shows you 4 Stars (*)",
+  "expected_result": "It should show when its going to expire (in 1 Hour)",
+  "short_description": "Changing an Invite from Win7 (1 Day to 1 Hour) makes lets 4 Stars (*) appear in the Audit Logs",
+  "steps_to_repro": "- Click on the Server Name - Click on Invite People - Click on Edit invite link. - Change expire after to 1 Hour - Open audit logs on your Android Phone - Click on last Invite created by you"
+ }
+}

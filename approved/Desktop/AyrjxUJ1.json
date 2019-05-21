@@ -1,0 +1,29 @@
+{
+ "id": "58fb9be84d5c6899c83be492",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 544,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AyrjxUJ1",
+ "data": {
+  "system_settings": " Windows 10, Discord Canary",
+  "actual_result": "Added/deleted part flashes once",
+  "expected_result": "Nothing happens, your changes are saved",
+  "short_description": "When editing channel topic, *sometimes* what you add/delete may flash once when clicking save changes",
+  "steps_to_repro": "- Go to channel settings - Add something or delete something from it- Click save changes "
+ }
+}

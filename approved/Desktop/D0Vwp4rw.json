@@ -1,0 +1,24 @@
+{
+ "id": "5c0ca66519975a4e833518ec",
+ "closed": false,
+ "idList": "5bff454fc1362f86e67cc48b",
+ "idShort": 3477,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/D0Vwp4rw",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS v10.14.1 (Mojave) - iPhone 6s, iOS 12.1.1 Beta (16C5050a)",
+  "client_settings": "Canary 29240 - TestFlight 2.4.0 (9714)",
+  "actual_result": "You get removed from the server even if you have another session active.",
+  "expected_result": "I should stay in the server because I still have a session open on my phone.",
+  "short_description": "Temporary Membership removes you from a server even if you still have an active session on another client.",
+  "steps_to_repro": "- Have two devices with Discord open on the same account. (In my case, an iPhone, and MacBook Pro) - On one device, join a server with an invite that had temporary membership enabled. - Ensure that you won't be assigned roles. (For the temporary membership to work) - On the other device, quit your Discord client."
+ }
+}

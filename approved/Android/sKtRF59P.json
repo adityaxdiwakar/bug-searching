@@ -1,0 +1,30 @@
+{
+ "id": "5c2b48460c666c885f8032ef",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2408,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sKtRF59P",
+ "data": {
+  "system_settings": "Google Pixel 2 XL // Android 9.0.0 // December Patch // Modded Navbar",
+  "client_settings": "Discord Alpha // 8.2.2 // 822",
+  "actual_result": "The invite modal page only shoes users you have an open DM with and has misleading failed to find text.",
+  "expected_result": "The invite modal page shows users in your cache.",
+  "short_description": "The suggested people to invite only works if you have an open DM with the user and searching does not look through cache.",
+  "steps_to_repro": "- Go to somewhere where you can create an invite link - Look at the people you can send a message to - Search for someone not on the list, but that's definitely loaded in your cache (quickswitcher should tell you).  - Notice that the search modal says \"We've searched far and wide\" even though they have not searched *far and wide*."
+ }
+}

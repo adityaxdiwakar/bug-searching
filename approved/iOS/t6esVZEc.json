@@ -1,0 +1,17 @@
+{
+ "id": "5bc7814660c3c51c160af1d7",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1095,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/t6esVZEc",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1 Developer Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8116)",
+  "actual_result": "Bottom bar overlaps last result",
+  "expected_result": "Bottom bar shouldn't overlap last result",
+  "short_description": "[iPhone X/XS/XS Max] Bottom bar overlaps last message when viewing search results",
+  "steps_to_repro": "- Search for something with one page of results - Scroll to the bottom of the results"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59c2a8186f924eb9d2e287ee",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1175,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9FxYtA3V",
+ "data": {
+  "system_settings": "Chrome version 60.0",
+  "client_settings": "Discord web client",
+  "actual_result": "The text box has the @ and first character typed at the end, after the caret (in the example, \"hirley@S\")",
+  "expected_result": "The text box holds (for example) \"@Shirley\"",
+  "short_description": "Caret in \"Conversation Search\" unexpectedly moves",
+  "steps_to_repro": "- Click on \"Direct Messages\" - Click in the \"Find or Start a conversation\" text box - Start typing a name, e.g. Shirley"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b928c9b6e4f6307ef655e0f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1941,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NGJv5iND",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.4.7",
+  "actual_result": "The submit button appears and you can submit an empty filter. Doing so will result in a failed search with a broken manifying glass",
+  "expected_result": "The submit button should stay hidden until you put actual text after the filter",
+  "short_description": "When you add a space after a search filter, the submit search button will pop up and will break the search if pressed",
+  "steps_to_repro": "- Go to Search in a server - Choose any filter option (in, from, etc)  - After the filter is inserted, notice the button to submit the search isn't here yet. I guess this is to prevent ability to submit empty filters - ... But you can bypass that by simply adding spaces after the filter colons, like so: `\"from:    \"`"
+ }
+}

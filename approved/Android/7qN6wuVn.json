@@ -1,0 +1,24 @@
+{
+ "id": "5a06dcc259432598986b4a77",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 889,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7qN6wuVn",
+ "data": {
+  "system_settings": "Android 4.4.4, Tablet Allview Viva H8 LTE",
+  "client_settings": "Alpha 5.6.3",
+  "actual_result": "It says only the name of the last badge",
+  "expected_result": "The system message should say the name of all the badges",
+  "short_description": "When clicking on the badges of a user that have multiple badges on their profile, only the name of the last one pops up",
+  "steps_to_repro": "- Go to a user profile that have multiple badges - Click on the badges - Observe the system message that appears"
+ }
+}

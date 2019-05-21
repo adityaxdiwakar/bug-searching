@@ -1,0 +1,17 @@
+{
+ "id": "5ba9953c71687a5566d22931",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2027,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sBxfHWwp",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "No animation occurs",
+  "expected_result": "It should animate as you open the message",
+  "short_description": "The arrow on the right does not animate when you expand a message in Audit Logs",
+  "steps_to_repro": "- Find a message that needs to be expanded in the Audit Logs - Expand it - Observe the arrow at the right"
+ }
+}

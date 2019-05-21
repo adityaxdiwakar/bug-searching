@@ -1,0 +1,36 @@
+{
+ "id": "5a7e06cefbebd9a040aff028",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 574,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/q3k9QYtA",
+ "data": {
+  "system_settings": "iPhone 7+ iOS 11.3 beta 2 (15E5178f)",
+  "client_settings": "Discord TestFlight v2.2.2 (2352)",
+  "actual_result": "Discord shows the default image placeholder (the one before preview generated) and says \"Failed to load the image.\"",
+  "expected_result": "There should be a clickable link of the video file which launches your default web-browser to view movie file",
+  "short_description": "Movie files show up as empty image placeholders",
+  "steps_to_repro": "- Upload a movie file from your phone - Someone else can upload a file too - Try to click on the placeholder"
+ }
+}

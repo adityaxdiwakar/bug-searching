@@ -1,0 +1,30 @@
+{
+ "id": "5b5c19f0a4b542df898b76cb",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1691,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UJuEL97p",
+ "data": {
+  "system_settings": "ZTE Blade, 601, A512.",
+  "client_settings": "AndroidBeta, 705.",
+  "actual_result": "You'll stay on the screen.",
+  "expected_result": "You'll get booted off the screen.",
+  "short_description": "*ZTE BLADE ONLY (I think)* call screen that ain't going will still be able to see the screen.",
+  "steps_to_repro": "- Go onto a ongoing call screen - Stay on until it finish's."
+ }
+}

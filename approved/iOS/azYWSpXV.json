@@ -1,0 +1,36 @@
+{
+ "id": "5ae3bf5e15d07eb64ada8fc9",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 705,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/azYWSpXV",
+ "data": {
+  "system_settings": "iPhone SE, iOS 11.3",
+  "client_settings": "TestFlight 2.3.1 (4040)",
+  "actual_result": "When clicking, nothing happens.",
+  "expected_result": "You should be able to view the member lists.",
+  "short_description": "The member list button does not work.",
+  "steps_to_repro": "- Go in a server - Click the members icon - Observe"
+ }
+}

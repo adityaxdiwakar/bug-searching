@@ -1,0 +1,30 @@
+{
+ "id": "5b05b917654ef243d8cc4952",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1453,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I8IeFP0E",
+ "data": {
+  "system_settings": "Huawei P10 Lite, Android 7.0",
+  "client_settings": "Discord 6.7.3",
+  "actual_result": "Toasts display in English (e.g. \"Show Keyboard\" and \"Photos Selector\" rather than the translated equivalents).",
+  "expected_result": "Toasts display in language selected",
+  "short_description": "Toasts within the attachments menu are in English no matter what language is selected",
+  "steps_to_repro": "- Select a language other than English - Open attachments menu (plus next enter message bar) - Tap and hold any of the four buttons for switching between file selectors (i.e. the buttons for keyboard, camera, photos and files)"
+ }
+}

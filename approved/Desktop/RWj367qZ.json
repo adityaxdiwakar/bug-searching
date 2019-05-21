@@ -1,0 +1,23 @@
+{
+ "id": "58c99c5301b2a0268382320e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 428,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RWj367qZ",
+ "data": {
+  "system_settings": " Win 10 x64, discord canary",
+  "actual_result": "Stuck on screen.",
+  "expected_result": "It would go away normaly",
+  "short_description": "reaction bubble showing users stays when clicking and scrolling down on reaction",
+  "steps_to_repro": "- find long list of emojis with reactions. - react and scroll - see message bubble/ user bubble stick on screen. "
+ }
+}

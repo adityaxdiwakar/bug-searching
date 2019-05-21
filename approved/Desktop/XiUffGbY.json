@@ -1,0 +1,30 @@
+{
+ "id": "5bd1fe46233b3d63cbaa8bd2",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 3282,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XiUffGbY",
+ "data": {
+  "system_settings": "Windows 10 Home, Version: 1803, OS Build: 17134.345",
+  "client_settings": "canary, Build Number: 26847, Version Hash: 777bedd9336a2f1eb047fe30d0b5422127af8cc0",
+  "actual_result": "Deletes message in overlay and not on desktop app",
+  "expected_result": "Supposed to delete the message",
+  "short_description": "[Overlay] The overlay doesn't sync bot (clydes) messages.",
+  "steps_to_repro": "- wait 5 mins for clyde to kick - open overlay in game - delete message - doesn't delete on desktop app"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5be95d1d9409bc55d842dea1",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2315,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/INom1vOl",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.8.8",
+  "actual_result": "The log stays open after you choose a filter.",
+  "expected_result": "The log that you expanded, should be closed after choosing a filter, like desktop.",
+  "short_description": "Audit log expansion stays expanded when you switch filters.",
+  "steps_to_repro": "- Go to audit log - Go to a expandable log, and expand it. - Go to \"Filter by Action\", and select the filter that corresponds to the one you expanded. - Observe the same log that you expanded."
+ }
+}

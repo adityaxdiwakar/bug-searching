@@ -1,0 +1,30 @@
+{
+ "id": "5aea956af2f349a87f71c71f",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1359,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3SXS8c62",
+ "data": {
+  "system_settings": "OnePlus 2, Android 6.0.1",
+  "client_settings": "Discord Alpha 6.6.1",
+  "actual_result": "There is an space in the top",
+  "expected_result": "There shouldn't be an extra space in the top",
+  "short_description": "Extra space in the beginning of debug log message",
+  "steps_to_repro": "- Go to settings > the 3 dots > debug  - Share the debug log to a channel  - The debug log won't be sent as it would be more then 2000 characters  - You might also get a error called unable to preprocess file - click back (2 times) and you will be at that channel where you tried to share debug log - Long press the debug log"
+ }
+}

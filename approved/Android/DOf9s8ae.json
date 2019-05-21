@@ -1,0 +1,24 @@
+{
+ "id": "59cad73954c8efeee6d4079d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 767,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DOf9s8ae",
+ "data": {
+  "system_settings": "LG K7 , Android Version: 5.1.1",
+  "client_settings": "Android Alpha 5.2.6",
+  "actual_result": "It gets edited and then quickly says, \"This channel doesn't have any pinned messages... yet.\".",
+  "expected_result": "The pinned messages will stay and show that it was edited.",
+  "short_description": "If a message that is pinned gets edited really fast, it will show the pin is removed",
+  "steps_to_repro": "- Open Discord on your Android Device. - Let a friend or bot keep editing a pinned message. [ I used giveaway bot by Jagrosh and pinned the giveaway. ] - If you look in the pins on your android device, the pin will get removed for a second. You will have to exit out the the pinned messages dialogue and press pinned messages again to see the pin."
+ }
+}

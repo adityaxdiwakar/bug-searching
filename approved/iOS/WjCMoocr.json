@@ -1,0 +1,17 @@
+{
+ "id": "5ad30a22a22874a433a88045",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 679,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WjCMoocr",
+ "data": {
+  "system_settings": "iPhone 7, 11.0",
+  "client_settings": "Discord TestFlight 2.3.0",
+  "actual_result": "Discord crashes.",
+  "expected_result": "Your device would correct the message and you would exit the channel topic menu without crashing.",
+  "short_description": "Device crashes when saving a channel topic while your device is trying to correct a word you misspelt.",
+  "steps_to_repro": "- Go to a channel then click to change the topic. - Type something that you know your device will want to correct, (e.g. something spelt similar to hey but not an actual word) - Make sure the little blue correction box is still onscreen, then click save & observe."
+ }
+}

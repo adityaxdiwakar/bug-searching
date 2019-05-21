@@ -1,0 +1,30 @@
+{
+ "id": "5b919e284c81721fc39a0104",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2933,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Fx0anzmd",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (1803)",
+  "client_settings": "Canary 23182",
+  "actual_result": "You get muted after speaking and keybind breaks until you rejoin",
+  "expected_result": "You don't get muted after speaking and keybind keeps working",
+  "short_description": "Push to talk keybind doesn't work properly",
+  "steps_to_repro": "- go to voice and video in settings - set Space as the push to talk keybind - mute yourself in the bottom left - join a voice channel - unmute yourself - press space - observe how you get muted after speaking, and the keybind stops working until you leave and rejoin"
+ }
+}

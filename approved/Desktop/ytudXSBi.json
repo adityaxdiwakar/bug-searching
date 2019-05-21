@@ -1,0 +1,30 @@
+{
+ "id": "5aa7a814b7ed466afbf4b7dc",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1735,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ytudXSBi",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.203, Build 11951",
+  "actual_result": "Reaction modal appears over Discord Nitro page",
+  "expected_result": "Discord Nitro page opens closing the Reaction modal behind",
+  "short_description": "Reaction modal appears inside the Discord Nitro section of User Settings when clicking on the Nitro icon from a user's profile opened from the Reaction modal",
+  "steps_to_repro": "- Open the Reaction modal on a message a user with Discord Nitro has reacted to - Right-click the user and open their profile - Click on their Nitro icon"
+ }
+}

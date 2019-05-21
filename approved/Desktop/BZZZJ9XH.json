@@ -1,0 +1,16 @@
+{
+ "id": "5907d8031b402f7d665b859f",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 584,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/BZZZJ9XH",
+ "data": {
+  "system_settings": " Windows 10x64, Latest Canary",
+  "actual_result": "It doesn't show anything if it wasn't you",
+  "expected_result": "You see the updated role change",
+  "short_description": "Updated roles do not show on Audit log if its not you who updated them",
+  "steps_to_repro": "- Get someone else to edit a current role - View the audit logs to see the change "
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59b3f862c6d4dc8f659f768d",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 694,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Fv0QNHbC",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Android 6.0.1 Marshmallow",
+  "client_settings": "Android Alpha 5.1.4",
+  "actual_result": "At start, you will receive a toast notifications stating \"Channel settings have been updated\"",
+  "expected_result": "You should just do your normal work",
+  "short_description": "Toast notifications says \"channel settings have been updated\" for categories settings",
+  "steps_to_repro": "- Get in a server with \"manage servers\" or own server - Hold any category you wish - Press Edit Categories"
+ }
+}

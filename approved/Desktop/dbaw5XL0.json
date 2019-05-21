@@ -1,0 +1,30 @@
+{
+ "id": "5c2fe6590a15696c5c8f1777",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3570,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dbaw5XL0",
+ "data": {
+  "system_settings": "Windows 10 // Home Edition // Build 1809",
+  "client_settings": "Discord Canary Build 30387 // App Version: 0.0.226",
+  "actual_result": "After a few clicks, the popup dissapears.",
+  "expected_result": "As long as you hover over the popup, it should not dissapear, no matter how many times you click it.",
+  "short_description": "Using the quick action Settings menu, some of the buttons to toggle between modes will dissapear after a few clients for no reason.",
+  "steps_to_repro": "- Right click on the Gear Icon - Find the Appearance section - Keep clicking the Switch to X Mode"
+ }
+}

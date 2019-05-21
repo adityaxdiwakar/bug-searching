@@ -1,0 +1,23 @@
+{
+ "id": "5919a06ff11a521aed7ecf34",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 650,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gBNGDH8K",
+ "data": {
+  "system_settings": " Win 10 x64, discord canary",
+  "actual_result": "Enable Overlayupdating 40%",
+  "expected_result": "\"Enable overlay Updating 40%",
+  "short_description": "overlay text doesn't have a space after it, so updates break.",
+  "steps_to_repro": "- Keep the overlay off for a while - Turn on the overlay on - Watch the text above "
+ }
+}

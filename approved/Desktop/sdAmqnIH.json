@@ -1,0 +1,30 @@
+{
+ "id": "5b95684b70cd3c79a8cb0e13",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2950,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sdAmqnIH",
+ "data": {
+  "system_settings": "macOS High Sierra 10.13.6",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 23321, Version Hash: e28e4199f3b4b2e650d0be2d5790cf74b84546a1",
+  "actual_result": "The cursor icon/symbol only changes for the username (words) and not the discord tag (numbers).",
+  "expected_result": "Both the username (words) and the discord tag (#numbers), when hovered over, should change the cursor icon/symbol.",
+  "short_description": "Cursor hover symbol does not change when hovered over tag.",
+  "steps_to_repro": "- Go to activity - Have a friend who is playing a game and have it show on the bottom, below the news and announcements - Hover your cursor over the username (letters) - Observe the cursor symbol change from pointer/default to a hand - Click and open profile - Hover your cursor over the discord tag (numbers) - Observe no cursor symbol change from pointer/default - Click and profile should open"
+ }
+}

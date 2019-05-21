@@ -1,0 +1,17 @@
+{
+ "id": "5b64fd140bb10b69f12abb82",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1773,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SyrVhsgZ",
+ "data": {
+  "system_settings": "Samsung Galaxy S4, Android 7.1.2 (LineageOS 14.1)",
+  "client_settings": "Discord Alpha Version 7.2.4",
+  "actual_result": "Discord keeps crashing over and over when starting the app. It's hard to disable the game detection quickly before a crash.",
+  "expected_result": "Discord should detect the game without problems",
+  "short_description": "Discord keeps crashing when game detection is enabled",
+  "steps_to_repro": "- Go to the settings and select \"Games\" - Enable the feature to allow Discord to detect games and give it the permission when prompted"
+ }
+}

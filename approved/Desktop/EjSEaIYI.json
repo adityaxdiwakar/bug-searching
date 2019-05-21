@@ -1,0 +1,30 @@
+{
+ "id": "5bf0b8a944e5251a2d8049c7",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3403,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EjSEaIYI",
+ "data": {
+  "system_settings": "Windows 10 Home",
+  "client_settings": "Release Channel: canary, Build Number: 28106, Version Hash: a92bafab1e85aa791728a9333fa9de4a600851a7",
+  "actual_result": "You stay displayed as an online user to you and others. It also still shows the game you are playing.",
+  "expected_result": "You are supposed to be displayed as offline and it should not show you are still playing a game.",
+  "short_description": "XBOX Live connection makes you stay inside the online tab if you change your availability to invis while playing games",
+  "steps_to_repro": "- Open Discord Canary (or Vanilla) If not already online- Change availability to online, dnd or away. - Turn on XBOX - Launch a game Change availability to invisible"
+ }
+}

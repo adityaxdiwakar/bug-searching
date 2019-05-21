@@ -1,0 +1,30 @@
+{
+ "id": "59bc1533b9b07bc567c4410a",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 720,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rRSjbkqX",
+ "data": {
+  "system_settings": "Android 5.1",
+  "client_settings": "5.1.2 (512)",
+  "actual_result": "The message disappears, but then an invalid empty message with the preview of the link shows up",
+  "expected_result": "The message disappears, all is fine",
+  "short_description": "Link preview creates an invalid message on the client side if the message with the link was deleted right before the preview shows up",
+  "steps_to_repro": "- Find a link that has a preview - Post it - Delete it right before the preview will be shown - If you cannot keep up, you can find a website which loads not very quickly (I used <>) and append \"?r=<random letters here>\" to the link to stop Discord caching the response."
+ }
+}

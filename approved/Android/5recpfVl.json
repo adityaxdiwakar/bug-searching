@@ -1,0 +1,16 @@
+{
+ "id": "58eebe3c9cbd67d97f4980f7",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 356,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5recpfVl",
+ "data": {
+  "system_settings": " Android 6.0.1, discord 3.6.3",
+  "actual_result": "Only the first snowman is converted, the rest remain the same",
+  "expected_result": "Cool snowmen in a line, all of the non android OS snowmen",
+  "short_description": "Putting two or more snowmen emoji causes the rest to be converted into original OS emoji",
+  "steps_to_repro": "- Go to a place to type (where you have perms ofcourse) - Type in one of the two snowmen emoji - Type more than two of either kind - Send message and see "
+ }
+}

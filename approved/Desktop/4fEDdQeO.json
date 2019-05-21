@@ -1,0 +1,30 @@
+{
+ "id": "5b6df435b7911c8db13cb347",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2662,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  },
+  {
+   "id": "5b8876495b10eb2013654345",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Firefox",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4fEDdQeO",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803) Browser: Firefox Nightly (version 63.0a1 (2018-08-10) (64-bit))",
+  "client_settings": "Discord Canary (21569)",
+  "actual_result": "Stuck on RTC connecting",
+  "expected_result": "You should be able to connect without issues",
+  "short_description": "On Firefox nightly (version 63.0a1 (2018-08-10) (64-bit)) voice chat does not work at all",
+  "steps_to_repro": "- Use Firefox Nigthly 63.0a1 64-bit - Attempt to join a voice channel - Observe the forever RTC connecting loop"
+ }
+}

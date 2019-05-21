@@ -1,0 +1,30 @@
+{
+ "id": "5b66b9f046bd8261ba22ae01",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1786,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wiTRInlI",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.1 (Oreo)",
+  "client_settings": "Discord Alpha 7.2.6",
+  "actual_result": "It's in system language",
+  "expected_result": "It should be in client language",
+  "short_description": "Push notifications are system language based rather than client language (Discord)",
+  "steps_to_repro": "- Change your system language to Swedish, Dutch or something - Set your client language (Discord) to English - Trigger a push notification (Friend request received, accepted, DM call missed, incoming DM call, someone joining a group DM/server notification, etc.) - Observe the language of the push notification"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59d4f25403ae408adba338b3",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1221,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/w1L0bwxw",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (Build 1607)",
+  "client_settings": "Discord Canary 0.0.164 (Build 5311)",
+  "actual_result": "It's like hitting the bottom, (check attachments)",
+  "expected_result": "It should be centered",
+  "short_description": "A few drop-down menus are not centered anymore",
+  "steps_to_repro": "- Go to generate invite links - Click the cog wheel (\u2699) and look at where it says \"1 day\" or \"No limit\" - OR - Go to server settings and look at \"AFK-CHANNEL\" or \"NEW MEMBERS MESSAGES CHANNEL\""
+ }
+}

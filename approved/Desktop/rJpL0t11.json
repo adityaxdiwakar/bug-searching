@@ -1,0 +1,30 @@
+{
+ "id": "5b9941d82944be3c2ed408c6",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2972,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rJpL0t11",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 23506",
+  "actual_result": "The icon will randomly appear with a black box around it",
+  "expected_result": "Nothing happens to the icon",
+  "short_description": "Top server icon in the server list will sometimes appear with a black box around it",
+  "steps_to_repro": "- Make sure you have a large list of servers so you can scroll - Scroll down the list using the slowly, making sure to check the top server with each scroll - Observe the top server each time you scroll"
+ }
+}

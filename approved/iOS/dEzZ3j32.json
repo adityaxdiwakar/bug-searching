@@ -1,0 +1,30 @@
+{
+ "id": "59bbe829dd4461638b9b32b7",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 332,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dEzZ3j32",
+ "data": {
+  "system_settings": "iPhone 6 16gb 10.3.3",
+  "client_settings": "Discord TestFlight 1.9.1 (665)",
+  "actual_result": "The voice channel is deleted and the mobile user crashes",
+  "expected_result": "You should get disconnected from the voice channel and the channel gets deleted",
+  "short_description": "Crash when a voice channel is deleted while looking at the relevant 'Conenct to voice / In the voice channel' pages",
+  "steps_to_repro": "- Click a voice channel (you are redirected to the 'connect to voice' page) - While on this page, someone deletes this voice channel - You can also delete it yourself if you navigate to the channel settings using the menu in the top right of the 'in the voice channel' page - Connecting to voice does not change the outcome"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ae5f03128cea345e70fb020",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1908,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/woowZi5u",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS, ASUS Netbook F551C, Intel Core i3 64bits",
+  "client_settings": "Canary 14306",
+  "actual_result": "Mention isn't bold",
+  "expected_result": "Mention should be formatted in bold",
+  "short_description": "Bold markdown doesn't work on mentions, while everything else (italics, underline, etc) work fine",
+  "steps_to_repro": "- Insert a mention - Surround it with two asterisks on each side"
+ }
+}

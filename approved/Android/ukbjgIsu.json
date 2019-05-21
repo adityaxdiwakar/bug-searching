@@ -1,0 +1,36 @@
+{
+ "id": "5b225d1914cae67df0ccf4dc",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1539,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e9",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can still reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ukbjgIsu",
+ "data": {
+  "system_settings": "Xioami Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.9.1",
+  "actual_result": "You don't see the mini profile although you can sense the vibration which indicates it's not intended (keep phone to general profile mode to sense the vibration)",
+  "expected_result": "You should see the mini profile of the user popup",
+  "short_description": "Clicking and holding on users who are in vc doesn't bring up the user's profile",
+  "steps_to_repro": "- Go to any voice channel (no need to connect) - Click hold on any user"
+ }
+}

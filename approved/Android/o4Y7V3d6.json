@@ -1,0 +1,30 @@
+{
+ "id": "5bcdd49a8161e033acedb50b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2217,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/o4Y7V3d6",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 running Android 8.1.0",
+  "client_settings": "Alpha 7.7.8 (778)",
+  "actual_result": "The server picture is too close to the left side",
+  "expected_result": "It should be centered",
+  "short_description": "In an instant invite in landscape mode, the server picture is too close to the left side",
+  "steps_to_repro": "- Click an instant invite - Observe"
+ }
+}

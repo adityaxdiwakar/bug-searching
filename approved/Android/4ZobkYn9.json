@@ -1,0 +1,24 @@
+{
+ "id": "597320a732760d6296bcd421",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 570,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4ZobkYn9",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "discord 4.0.0",
+  "actual_result": "yourown profile",
+  "expected_result": "it goes to your user settings",
+  "short_description": "can see your own profile",
+  "steps_to_repro": "- add reactions to a message - hold down on that message and open the reactions module - click on your own name"
+ }
+}

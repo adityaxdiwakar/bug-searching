@@ -1,0 +1,30 @@
+{
+ "id": "5a582d96ca9cea81e56292d3",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1032,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wpNZmPCX",
+ "data": {
+  "system_settings": "Galaxy S5 SM G900-V Android 7.1.2 Lineage OS 14.1-20171228-NIGHTLY-klte",
+  "client_settings": "Alpna 6.0.8",
+  "actual_result": "You are automatically put into recent mentions from the server, and changing to all mentions still says recent mentions from server name, but shows all mentions. Edit: it also defaults to not show everyone and role mentions, and goes back to default settings whenever you reopen it.",
+  "expected_result": "Clicking the @ button will show all mentions from all servers, and changing it to all servers shouldn't show the server name still.",
+  "short_description": "checking recent mentions automatically puts you into the current servers mentions, and server name will stay there even when switched to all servers.",
+  "steps_to_repro": "- Open discord - click the @ symbol - it will show the current servers recent mentions - click the filter button, switch to all servers - the top still says the server name, yet it shows all servers mentions."
+ }
+}

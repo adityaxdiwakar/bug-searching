@@ -1,0 +1,17 @@
+{
+ "id": "5a603366f3415aa7efcad66a",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1558,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/UZ0g8eNa",
+ "data": {
+  "system_settings": "macOS High Sierra 10.13.2",
+  "client_settings": "Desktop client, Release Channel: Canary, Build Number: 9640",
+  "actual_result": "The word or phrase is italicized in quotes, but duplicated.",
+  "expected_result": "The word or phrase is italicized, in quotes.",
+  "short_description": "Removing one asterisk from each side of a quoted bolded word during two edits will duplicate the italicized word",
+  "steps_to_repro": "- Paste a quoted, bolded word or phrase such as [quotation][asterisk][asterisk]Sergals[asterisk][asterisk][quotation] - Remove an asterisk from one side, changing it to [quotation][asterisk][asterisk]Sergals[asterisk][quotation] - Remove an asterisk from the other side, changing it to[quotation][asterisk]Sergals[asterisk][quotation]"
+ }
+}

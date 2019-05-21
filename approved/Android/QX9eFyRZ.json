@@ -1,0 +1,16 @@
+{
+ "id": "5916c6405ffa532f68f83611",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 453,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QX9eFyRZ",
+ "data": {
+  "system_settings": "\u00a03.8.5 7.0",
+  "actual_result": "now they do",
+  "expected_result": "They don't have boxes like before",
+  "short_description": "Lots of things have boxes around them after 3.8.5",
+  "steps_to_repro": "- observe\u00a0the user is typing message or channel name when searching something - this is so bb doesn't complain "
+ }
+}

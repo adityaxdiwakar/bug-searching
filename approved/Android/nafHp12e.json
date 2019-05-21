@@ -1,0 +1,36 @@
+{
+ "id": "5a384a5c843b32be94fc3092",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 973,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nafHp12e",
+ "data": {
+  "system_settings": "Android Oreo on a Pixel C",
+  "client_settings": "Android stable, 5.8.3",
+  "actual_result": "The app is taking around 2 seconds to redraw it's contents which makes an undesirable user experience.",
+  "expected_result": "The app should redraw its contents quickly without any considerable delays.",
+  "short_description": "A gap is seen during window resizing in split-screen mode",
+  "steps_to_repro": "- Launch the app. - Put the device into split-screen mode. - Click on \"+\" icon in the \"general\" text channel. - Click on the camera icon to show camera preview. - Resize the split screen window."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a66d381c043584a15da7968",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 540,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MNvMXKqH",
+ "data": {
+  "system_settings": "iPhone 6S 9.3.5",
+  "client_settings": "TF 2.2.1 (2236)",
+  "actual_result": "The item is not able to be dragged below the last item.",
+  "expected_result": "The item can be dragged below the last item.",
+  "short_description": "Items cannot be moved below the last item in channel sort.",
+  "steps_to_repro": "- Go to Server Settings. - Go to Channels. - Tap Sort on the top right. - Choose any option. - Scroll all the way to the bottom and attempt to drag any item below the last item."
+ }
+}

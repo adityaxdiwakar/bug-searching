@@ -1,0 +1,30 @@
+{
+ "id": "5a831007c2e2641cf939e32a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1653,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5O3UQSdq",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Discord Canary build 10636",
+  "actual_result": "Error occurs with an indicating overlay sceen",
+  "expected_result": "User's info pops up",
+  "short_description": "Clicking users with rich presence of specific applications crashes the client in malformed language (Traditional Chinese, zh-TW)",
+  "steps_to_repro": "- Open settings - Click Language - Click \u7e41\u9ad4\u4e2d\u6587 (Chinese, Taiwan) - Click anyone who are playing PAYDAY 2"
+ }
+}

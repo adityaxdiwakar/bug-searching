@@ -1,0 +1,17 @@
+{
+ "id": "5be72d0b098f5d605d923b2f",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2301,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/uOKe2HZK",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.8.8.",
+  "actual_result": "There's a huge block at the bottom that doesn't allow the invite audit log to be shown.",
+  "expected_result": "The invite details show.",
+  "short_description": "Audit log has a huge block at the bottom when the audit log is very short.",
+  "steps_to_repro": "- Create a server - Go to the Audit logs - In the audit log, there should be an invite created. Click on it."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a6c1f27c8b80435d8bd59e5",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1069,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yZnmHQIY",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android Alpha 6.1.4",
+  "actual_result": "The modal closes",
+  "expected_result": "The modal should remain open",
+  "short_description": "When trying to modify an invite link and changing screen orientation the modal closes",
+  "steps_to_repro": "- Go to server where you have create instant invite permission - Click on Create instant invite - Click on the cog next to the invite link  - Change you screen orientation"
+ }
+}

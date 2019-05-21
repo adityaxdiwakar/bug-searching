@@ -1,0 +1,30 @@
+{
+ "id": "5b8bf414e0166163d715ca8d",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1918,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aTG4kWFg",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 746",
+  "actual_result": "The buttons don't work.",
+  "expected_result": "The buttons work because the notif neither covers them nor has anything to do with them.",
+  "short_description": "You cannot interact with any button above the in app notification that comes when you aren't able to connect.",
+  "steps_to_repro": "-  Get the in app notif that has the links to the server status page and Discord's Twitter handle (you headache on how you get the notif). - Click on any button above it (i.e. search, open member list button, open channel button)."
+ }
+}

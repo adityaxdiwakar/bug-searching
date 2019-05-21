@@ -1,0 +1,30 @@
+{
+ "id": "5b3609675f8688133b9172ef",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1621,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yRApSKVx",
+ "data": {
+  "system_settings": "Xioami Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 7.0.2",
+  "actual_result": "The transparent part appears white",
+  "expected_result": "The transparent pfp should be visible as transparent only just like it appears in user settings or any server. Or blurple as in desktop",
+  "short_description": "Transparent part of pfp shows white when in user settings>my account",
+  "steps_to_repro": "- Set a transparent image (or part) as your pfp using desktop or chrome for Android. - Go to user settings>my account and notice."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5be70d8aa6b3d4757b1d1d9d",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2300,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ePLmZg1w",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.8.8",
+  "actual_result": "It searches for `HelloDabbit` (without any space), breaking the search completely. You can notice that by looking at your search history after reopening search",
+  "expected_result": "It should search for `Hello Dabbit`",
+  "short_description": "Searching messages with multiple keywords is broken (spaces between words are removed)",
+  "steps_to_repro": "- Open Search menu in any server - Enter two or more keywords separated with spaces and submit, for example `Hello Dabbit` in Discord Testers"
+ }
+}

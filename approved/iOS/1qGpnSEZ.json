@@ -1,0 +1,17 @@
+{
+ "id": "5963c95088adc227378e4d0c",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 267,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1qGpnSEZ",
+ "data": {
+  "system_settings": "iPhone 5, iOS 10.2.1",
+  "client_settings": "Discord 1.8.8",
+  "actual_result": "The whole name doesn't show",
+  "expected_result": "As the first message shows, the whole name",
+  "short_description": "Name is cutoff / Time stamp location is wrong",
+  "steps_to_repro": "- Nick a Friend or alt to a name with a hyphen - Have your friend send a normal text message - Send a message after them, forcing their next message to show their name - Have your friend mention you or send a custom emoji"
+ }
+}

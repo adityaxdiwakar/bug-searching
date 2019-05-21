@@ -1,0 +1,24 @@
+{
+ "id": "5b536c2ff20b5ff3b0d32bf7",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2398,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1yridALv",
+ "data": {
+  "system_settings": "Windows 7 SP 1",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 19429, Version Hash: f643c55ccbe40c6fa080eb0e57ff42dbe89bbe87",
+  "actual_result": "It's pasted in two strings",
+  "expected_result": "It should be pasted in one string",
+  "short_description": "When you copy discord tag form user profile it's copied into two strings",
+  "steps_to_repro": "- Open any user's profile - Highlight and copy their Discord tag - Paste it anywhere"
+ }
+}

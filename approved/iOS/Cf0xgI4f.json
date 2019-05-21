@@ -1,0 +1,30 @@
+{
+ "id": "5a70cfd90fcd683007efb106",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 549,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Cf0xgI4f",
+ "data": {
+  "system_settings": "iPhone 6 iOS 10.3.2",
+  "client_settings": "TestFlight Build 2.22 (2352)",
+  "actual_result": "Some text and fields are not translated until you close and open user setting or switch server",
+  "expected_result": "All fields and text should be translated",
+  "short_description": "Language doesn't immediately change for some fields and text",
+  "steps_to_repro": "- Go to user settings > Language and change the language - Observe"
+ }
+}

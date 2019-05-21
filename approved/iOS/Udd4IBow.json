@@ -1,0 +1,30 @@
+{
+ "id": "5b1c63a26dbeeafaf59391c1",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 785,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Udd4IBow",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12 Beta",
+  "client_settings": "iOS 2.3.3",
+  "actual_result": "Game status does not show",
+  "expected_result": "The game status doesn\u2019t show on user profiles",
+  "short_description": "Game status doesn\u2019t show on user profiles",
+  "steps_to_repro": "- Find a user with a game set. - Go to their profile you will see that it doesn\u2019t show the game status."
+ }
+}

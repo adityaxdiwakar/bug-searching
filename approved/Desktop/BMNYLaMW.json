@@ -1,0 +1,17 @@
+{
+ "id": "5b8aaa4aed3a6362db39344f",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2914,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/BMNYLaMW",
+ "data": {
+  "system_settings": "Windows 10 x64 (1803)",
+  "client_settings": "Discord Canary 23011",
+  "actual_result": "User profile is overlapped by game info box. Clicking twice in any dimmed area twice to dismiss the game info box.",
+  "expected_result": "User profile is on top of game info box, since it opened later than the game info box.",
+  "short_description": "Game popup in Activity tab covers any other popups.",
+  "steps_to_repro": "- Go to Activity tab. - Scroll down and click on any game. - Click on any user in recently played area in the game box. Do not click anywhere else outside the box."
+ }
+}

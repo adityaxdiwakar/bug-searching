@@ -1,0 +1,24 @@
+{
+ "id": "5c3734a5cade446b3e73e601",
+ "closed": false,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 1252,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/G7obK0zR",
+ "data": {
+  "system_settings": "IP7+, iOS 12.1.2",
+  "client_settings": "TF 2.4.2 (10573)",
+  "actual_result": "The keyboard overlaps slightly the emote icon and avatar of the submitter.",
+  "expected_result": "The keyboard shouldn\u2019t overlap slightly the emote icon and avatar of the submitter.",
+  "short_description": "Attempting to edit an emote that is close to the space that the keyboard would take if opened, will make the keyboard overlap slightly with the emote icon and the avatar of the submitter.",
+  "steps_to_repro": "- Make sure to have at least 5 emoji in the server - Attempt editing the 5th in the list (from top to bottom) or any other below it - Observe how the keyboard slightly overlaps some of its surrounding elements"
+ }
+}

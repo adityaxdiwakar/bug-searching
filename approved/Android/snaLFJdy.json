@@ -1,0 +1,30 @@
+{
+ "id": "5a4c8277a34075c937ee9896",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1016,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/snaLFJdy",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 6.0.4",
+  "actual_result": "it disappears but once you leave and go back in the channel it's back",
+  "expected_result": "it should be there",
+  "short_description": "pin option does not come back once you click continue on nsfw warning",
+  "steps_to_repro": "- enter a nsfw marked channel - click continue on nsfw warning - click the drop down menu on the channel - observe the pin option isn't there"
+ }
+}

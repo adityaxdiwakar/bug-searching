@@ -1,0 +1,17 @@
+{
+ "id": "59a84783cb2e08c5da6cd32e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 675,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xbhpvyEj",
+ "data": {
+  "system_settings": "Moto G4",
+  "client_settings": "Android Alpha 4.1.3",
+  "actual_result": "Drafts aren't saved",
+  "expected_result": "The drafts should be saved",
+  "short_description": "Drafts disappear after going to a channel with no speaking permissions",
+  "steps_to_repro": "- Type in some random channels that you can speak in  - Go to a channel you can't type in"
+ }
+}

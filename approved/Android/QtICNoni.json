@@ -1,0 +1,24 @@
+{
+ "id": "5939ed2d32dac37b1b014716",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 502,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QtICNoni",
+ "data": {
+  "system_settings": "Android Marshmallow 6.0",
+  "client_settings": "Discord Alpha 3.9.0",
+  "actual_result": "All the menus open at the same time",
+  "expected_result": "Only one menu opens",
+  "short_description": "Can open multiple menus with Server Overview settings",
+  "steps_to_repro": "- Open Server Overview Settings in a server - Use two or three fingers to tap the menus with > at the end"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "5919ed6f137a5aa3a5c8edc9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 653,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LUMrKtwh",
+ "data": {
+  "system_settings": " Macbook Pro 10,1 (Retina, 15\" early 2013), Mac OS X El Capitan 10.11.6, Discord Mac client v0.0.247, Focusrite Saffire MixControl 3.7, Saffire Pro 24 Firmware version 2761",
+  "actual_result": "Audio only plays through Output channel 1 (Left side of stereo output)",
+  "expected_result": "Audio from Discord plays through Output channels 1 and 2 at equal levels",
+  "short_description": "general Discord audio outputs only to one audio channel on external audio interface",
+  "steps_to_repro": "- Use Focusrite Saffire Pro 24 as system output device - Play any audio from Discord (inculdes notifications and voice channel audio) - Comment: Reproducibility probably very low due to practical reasons relating to specialised hardware "
+ }
+}

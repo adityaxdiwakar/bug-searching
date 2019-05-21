@@ -1,0 +1,30 @@
+{
+ "id": "5bcc893ecbce538070efada1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3258,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aLEmRkym",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Canary 26655",
+  "actual_result": "(depends on how fast and long u've clicked) it created 2 or even more popups",
+  "expected_result": "only one popup should be created",
+  "short_description": "clicking quickly on the retry button creates multiple \"failed attachment\" popups [might need a few attempts to repro]",
+  "steps_to_repro": "- getting the \"failed attachment popup\" (for example by lossing the permission to attach while sending an attachement - click \"retry\" with about 7-8 clicks per second for roughly 10 seconds - observe result"
+ }
+}

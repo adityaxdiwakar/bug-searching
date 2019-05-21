@@ -1,0 +1,30 @@
+{
+ "id": "5981eae366cfecf820c14f81",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 278,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NLAqueSd",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.0 Beta 3",
+  "client_settings": "TestFlight 1.8.9 (83)",
+  "actual_result": "Pressing the button stops the ringing sound",
+  "expected_result": "The ringing sound should continue",
+  "short_description": "Clicking the mute or deafen button stops the ring sound of an outgoing voice call",
+  "steps_to_repro": "- Start a voice call - Let it ring - Press the mute or deafen button - (Press it again)"
+ }
+}

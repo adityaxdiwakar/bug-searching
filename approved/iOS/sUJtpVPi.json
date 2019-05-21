@@ -1,0 +1,17 @@
+{
+ "id": "5c0800d3f184742c407595d5",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1215,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sUJtpVPi",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9595)",
+  "actual_result": "Discord is extremely slow and unresponsive and sometimes will lock up",
+  "expected_result": "Discord responds immediately to the changes",
+  "short_description": "Invite Members screen is extremely slow and unresponsive after opening the app (iPhone 6s specific)",
+  "steps_to_repro": "- Completely close and restart Discord - Go to a server you have invite perms and tap on \"Invite Members\" - Attempt to edit the invite, or search members - Observe the response times of Discord"
+ }
+}

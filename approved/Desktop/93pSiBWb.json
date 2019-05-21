@@ -1,0 +1,17 @@
+{
+ "id": "59e75b04c9182129fe12bd20",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1286,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/93pSiBWb",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13",
+  "client_settings": "Discord Canary 0.0.156 (Build: 6015)",
+  "actual_result": "The pinned messages cover the unpinning message modal window.",
+  "expected_result": "Unpinning message modal should have a \"higher position\" than the unpinning message modal window.",
+  "short_description": "Z-index issue with removing pinned message modal",
+  "steps_to_repro": "- Pin any message - Open pinned messages - Unpin the pinned message - Observe the z-index of the modal window"
+ }
+}

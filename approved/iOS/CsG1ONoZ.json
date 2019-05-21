@@ -1,0 +1,17 @@
+{
+ "id": "5993e18d84354d1015dc1354",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 289,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CsG1ONoZ",
+ "data": {
+  "system_settings": "iPhone 6 iOS 10.3.3",
+  "client_settings": "Discord 1.8.8 Mobile",
+  "actual_result": "The profile pops up without any roles the person has.",
+  "expected_result": "The profile pops up with the roles the person has.",
+  "short_description": "If there is a pinned message, and someone clicks the name in \"user pinned a message to this channel\" it won't show the users roles.",
+  "steps_to_repro": "- Find a pinned message - Click on the username in \"user has pinned a message to this channel\""
+ }
+}

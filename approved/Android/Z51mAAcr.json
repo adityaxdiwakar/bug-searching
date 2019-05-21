@@ -1,0 +1,24 @@
+{
+ "id": "59d3530a880e873759297bb5",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 776,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Z51mAAcr",
+ "data": {
+  "system_settings": "Moto G4 Android 7.0",
+  "client_settings": "Android Alpha 5.2.7(527)",
+  "actual_result": "The \"Done\" button is practically invisible but still works",
+  "expected_result": "The \"Done\" button should be shown in the top right hand corner like dark theme",
+  "short_description": "\"Done\" button in new Channel Management doesn't adjust to light theme",
+  "steps_to_repro": "- Have light theme - Go to a server when you can sort channels - Click on the overflow icon then \"Server Settings\" - Click Channels - Click the 3 bars at the top right corner - Sort by anything"
+ }
+}

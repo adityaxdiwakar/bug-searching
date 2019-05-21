@@ -1,0 +1,30 @@
+{
+ "id": "5b7b51c5d5d0622415b70d85",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1862,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gYUFMSC3",
+ "data": {
+  "system_settings": "Android 6.0",
+  "client_settings": "Android Alpha 7.3.7",
+  "actual_result": "The server becomes laggy and the member list doesn't load",
+  "expected_result": "The server shouldn't lag, the WebSocket's connection shouldn't be destroyed and restarted constantly, everything should be smooth in that server",
+  "short_description": "When there is a member whose Rich Presence's max party size exceeds the max signed Int32 value (2 ^ 31 - 1), the Android client becomes unusable in that server and the member list doesn't load due to an Exception being thrown which causes the WebSocket to infinitely restart. `Unable to parse model. java lang NumberFormatException: Expected an int but was 9007199254740991 at line 1 column 457 path $[0][1]`",
+  "steps_to_repro": "- Join a server that has a member whose Rich Presence's max party size exceeds the signed Int32 max value"
+ }
+}

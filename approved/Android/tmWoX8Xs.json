@@ -1,0 +1,30 @@
+{
+ "id": "5bcb62cdf0f3f1586f79a05c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2209,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tmWoX8Xs",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 777",
+  "actual_result": "There's space more than what is required for the text; probably for the rp icon which is a feature request as per Jethro. So, no point in having the space until the icon doesn't come.",
+  "expected_result": "There's space only to accommodate the text.",
+  "short_description": "The text below the streaming rp of a user has a lot of space below it.",
+  "steps_to_repro": "- Find someone with a streaming status. - Open their profile."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a9755f8f3815d36b7e1cf79",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1152,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mM4ZY0bD",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.9 (Don't forget to update!)",
+  "actual_result": "Filter option menu doesn't do anything",
+  "expected_result": "The filter option menu should do its job, eventually by removing the space if it's not supported",
+  "short_description": "Filter options in the Quick Switcher do nothing if the search query starts with some special characters (verified with space, exclamation mark, and underscore. Haven't tested all)",
+  "steps_to_repro": "- Open Quick Switcher - In the searchbar, input any special character other than *, @ and # - Tap the three lines icon to the right of the search bar and pick any filter option"
+ }
+}

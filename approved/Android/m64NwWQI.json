@@ -1,0 +1,17 @@
+{
+ "id": "5c023b90ee783c7dbc92519b",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2372,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/m64NwWQI",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 8.0.5",
+  "actual_result": "You cannot preview the Group DM icons. You have to save it to see the new icon.",
+  "expected_result": "Once you select the new picture for your icon, you should be able to preview the new icon (profile pictures and server icons lets you preview before saving).",
+  "short_description": "Group DM icon doesn't preview in the icon slot when you are changing icons.",
+  "steps_to_repro": "- In a Group DM, go to Group DM settings, and attempt to change the Group DM icon. - Once you select the picture you want to change to, notice the DM icon slot."
+ }
+}

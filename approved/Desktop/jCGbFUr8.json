@@ -1,0 +1,30 @@
+{
+ "id": "5adc61d87e89ce0ced41737b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1875,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jCGbFUr8",
+ "data": {
+  "system_settings": "macOS 10.13.2",
+  "client_settings": "Discord Stable, Build 13856",
+  "actual_result": "The substitution message is sent to channel, the message is not edited",
+  "expected_result": "foo is replaced with bar, no message is sent to the channel",
+  "short_description": "Substitution editing breaks when attempting to edit a string ending with a backslash",
+  "steps_to_repro": "- Send a message containing some substring foo you wish to replace, which must end in a backslash - Send the substitution message ('s/foo/bar', where bar is the string you wish to substitute in for foo)"
+ }
+}

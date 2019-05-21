@@ -1,0 +1,15 @@
+{
+ "id": "5821e5ce62acf6aac1378c2e",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 66,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EK1MwjIp",
+ "data": {
+  "actual_result": "The whole message is copied.",
+  "expected_result": "A modal appears to copy/paste the link.",
+  "short_description": "Cannot copy a link without copying all of the text of the message",
+  "steps_to_repro": "- Find a message with a link - Long-press \"on top of\" the link "
+ }
+}

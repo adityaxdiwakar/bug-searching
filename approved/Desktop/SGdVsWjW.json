@@ -1,0 +1,30 @@
+{
+ "id": "5bcc5231fd2fd3482cb3be32",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3254,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SGdVsWjW",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Discord Canary 26655",
+  "actual_result": "It separates, and just gets stuck on the same position when you are scrolling.",
+  "expected_result": "The payment list follows.",
+  "short_description": "The payment options just follows along when you scroll.",
+  "steps_to_repro": "- Go to Settings>Nitro - Click on the \"pay for it with\" and get the list of payment options. - Scroll the page."
+ }
+}

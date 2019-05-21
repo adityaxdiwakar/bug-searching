@@ -1,0 +1,24 @@
+{
+ "id": "59b36f182994d18f542f852e",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 689,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JyLdlV4j",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 5.1.4 (514)",
+  "actual_result": "The check mark button is white like in the dark theme",
+  "expected_result": "The check mark button should be gray like the back button",
+  "short_description": "Check mark button doesn't adapt theme",
+  "steps_to_repro": "- Switch to light theme - Try creating a new channel or channel category - Notice that the check mark button in the top right corner is white instead of gray"
+ }
+}

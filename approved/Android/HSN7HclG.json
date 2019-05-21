@@ -1,0 +1,30 @@
+{
+ "id": "5a75e4526e852b1d15694416",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1094,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HSN7HclG",
+ "data": {
+  "system_settings": "Google Pixel 2 XL, Android 8.1",
+  "client_settings": "Discord 6.1.9",
+  "actual_result": "Shows as \"Live on [their stream title]\"",
+  "expected_result": "Should show as \"Live on Twitch\" as does on desktop",
+  "short_description": "Users live on Twitch show as \"Live on [their stream title]\" rather than \"Live on Twitch\"",
+  "steps_to_repro": "- Find a user live on Twitch - Look at \"Live on...\""
+ }
+}

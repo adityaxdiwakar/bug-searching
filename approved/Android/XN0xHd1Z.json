@@ -1,0 +1,24 @@
+{
+ "id": "59fc68aa7d015736959421f6",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 866,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XN0xHd1Z",
+ "data": {
+  "system_settings": "Moto E, Android 5.1",
+  "client_settings": "Discord Alpha 5.5.3",
+  "actual_result": "It disconnect you when you",
+  "expected_result": "It will connect to the voice channel.",
+  "short_description": "When you change to a voice channel of another server, you're disconnected.",
+  "steps_to_repro": "- Step 1 Join in a Voice channel - Step 2 Change to a voice channel of another server -"
+ }
+}

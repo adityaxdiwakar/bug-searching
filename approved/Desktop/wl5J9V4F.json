@@ -1,0 +1,30 @@
+{
+ "id": "5bdd57c073da4a4142722eb0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3347,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wl5J9V4F",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Desktop Canary 27465",
+  "actual_result": "The user is sent back to the last viewed page",
+  "expected_result": "The user should remain on the currently active channel",
+  "short_description": "the mouse 4 button makes the current channel move back to the previous channel",
+  "steps_to_repro": "- click the mouse 4 side button"
+ }
+}

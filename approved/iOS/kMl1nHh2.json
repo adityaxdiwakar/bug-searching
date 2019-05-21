@@ -1,0 +1,17 @@
+{
+ "id": "5bdf3caa317f6f2d400b25c3",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1150,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kMl1nHh2",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 1",
+  "client_settings": "TestFlight 2.4.0 (8900)",
+  "actual_result": "Animation of selecting the server the first time pauses during the animation",
+  "expected_result": "Animation of selecting the server is smooth",
+  "short_description": "First time selecting a server has a broken animation",
+  "steps_to_repro": "- Completely close and restart Discord - Open the server list, and select a random server - Observe the animation of the white selector bar and server icon as you select it - Select another server, and observe the white bar and server icon again - Reselect the server you selected in Step 2, and observer the animation"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b4526c61ff67b69173a4658",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 831,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/l627NbO2",
+ "data": {
+  "system_settings": "iOS 11.2.6, iPhone 5s",
+  "client_settings": "Discord TestFlight 2.3.4, Build 5616",
+  "actual_result": "The app crashes upon pressing \"Use Photo\"",
+  "expected_result": "You're taken into the upload window to add a comment",
+  "short_description": "Uploading a picture taken in Take Photo or Video while the keyboard is up causes the app to crash (iOS 10-11 only)",
+  "steps_to_repro": "- Go into a channel and open your keyboard - Click the paperclip to upload an image and choose Take Photo or Video - Take a quick picture and attempt to upload it"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b37ea6df129a6080da65f25",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1628,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RJCqcgfw",
+ "data": {
+  "system_settings": "Lenovo vibe K5, 5.1.1",
+  "client_settings": "Discord Alpha 703",
+  "actual_result": "The pop-up is in dark theme.",
+  "expected_result": "The confirmation pop-up is in light theme.",
+  "short_description": "The leave group DM confirmation pop-up is in dark theme even if you're using light theme.",
+  "steps_to_repro": "- Switch to light theme. - Tap on the hamburger menu in a group DM. - Observe."
+ }
+}

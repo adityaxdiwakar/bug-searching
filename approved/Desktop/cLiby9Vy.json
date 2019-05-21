@@ -1,0 +1,30 @@
+{
+ "id": "5a3c91ac96407ae6586353b1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1487,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cLiby9Vy",
+ "data": {
+  "system_settings": "macOS High Sierra, 10.13.1",
+  "client_settings": "macOS Canary, 0.0.184",
+  "actual_result": "You're locked into the CVV box",
+  "expected_result": "It jumps to postcode (as it does with everything) and enters the numbers",
+  "short_description": "When entering card details for Nitro, adding the first digits of a postcode then deleting them won't let you reenter them unless you click on the box",
+  "steps_to_repro": "- Open the Discord Nitro purchase box - Enter card details up to postcode - Enter 1~2 characters - Delete them until you're back to CVV - Try and re-enter the postcode"
+ }
+}

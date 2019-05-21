@@ -1,0 +1,22 @@
+{
+ "id": "58700b20e778759a4bc40204",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 313,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/utIxHBPk",
+ "data": {
+  "actual_result": "the embed links to <http://lessis.moe/projects/utilibot.> (with period)",
+  "expected_result": "The embed links to <http://lessis.moe/projects/utilibot> (without period).",
+  "short_description": "adding a period after a link (to end a sentence) messes up the rich embed link",
+  "steps_to_repro": "- send a message like this: My documentation is available at http://lessis.moe/projects/utilibot. - click on the link of the rich embed "
+ }
+}

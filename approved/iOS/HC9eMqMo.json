@@ -1,0 +1,30 @@
+{
+ "id": "5a0b564e83271387c8ca0697",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 430,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HC9eMqMo",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.1.1",
+  "client_settings": "Stable 1.9.5",
+  "actual_result": "Channel marked as read, all indicators, counts and banners disappear",
+  "expected_result": "Unread indicators, counts and banners remain",
+  "short_description": "Locking, Multitasking, Control Panel and Notification Centre will mark current text channel as read",
+  "steps_to_repro": "- Find a main text channel with >50 new messages (seems to specifically need manually loadable messages, does not occur when <50 messages are already visible) - Swipe up from bottom to bring up the Control Panel or swipe down from top to bring down the Notification Centre (or the unlocked lock screen or whatever it's called now) or double-press the home button to go to the Multitasking interface or press lock button - Swipe or tap as appropriate (down from top, up from bottom, tap in middle, respectively, or unlock) to return to Discord and the text channel with new messages"
+ }
+}

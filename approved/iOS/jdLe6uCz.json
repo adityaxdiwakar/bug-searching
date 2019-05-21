@@ -1,0 +1,17 @@
+{
+ "id": "5b6b9a8cf9f1a35bb9adbbfa",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 883,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/jdLe6uCz",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 6",
+  "client_settings": "TestFlight 2.3.6 (6427)",
+  "actual_result": "Image bar remains and every message is pushed upwards",
+  "expected_result": "Image bar disappears",
+  "short_description": "After sending an image on poor connection, the image line in the message bar remains for some time afterwards, pushing the chat up",
+  "steps_to_repro": "- Make sure you're on poor connection - Upload an image and send it - Observe the message area and chat after sending the image"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5920567c3ed2427496dd8c55",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 474,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3BrRxma8",
+ "data": {
+  "system_settings": "Asus Zenfone go  android version 5.1",
+  "client_settings": "latest Android alpha",
+  "actual_result": "shows the image preview",
+  "expected_result": "just a download to the image",
+  "short_description": "images over 8mb show previews",
+  "steps_to_repro": "- step 1: upload an image over 8mb (from a pc because android compresses it) - step 2: look at it"
+ }
+}

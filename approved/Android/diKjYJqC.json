@@ -1,0 +1,30 @@
+{
+ "id": "5b74db75ddc6fa03d88f7170",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1839,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/diKjYJqC",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.3.1",
+  "actual_result": "A space is removed everytime you hit the Enter key of your keyboard",
+  "expected_result": "Nothing should happen besides displaying the invalid message",
+  "short_description": "[SwiftKey keyboard specific] When the textfield has extra spaces in Add a Friend screen, each tap on the Enter key of the keyboard will erase one space",
+  "steps_to_repro": "- Go to Add a Friend screen - Write something then add extra spaces (e.g `\"xxx          \"` without quotes) - Tap on Enter key on your keyboard. Make sure you're using SwiftKey keyboard (it's the default one installed on Huawei devices, also downloadable from Play store). I was unable to reproduce with GBoard - Repeat step above a few times"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59d3e4d6f14fcdec5facbc57",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 781,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/s6ksvlTf",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Android Alpha 5.2.7",
+  "actual_result": "Nothing happens, volume stays unchanged",
+  "expected_result": "The volume should be adjusted according to the value/position of the slidebar",
+  "short_description": "The output volume slidebar in general voice settings doesn't work",
+  "steps_to_repro": "- Join any voice channel with a friend. If you're alone and have no friends, you can use a music bot instead - Have your friend speak in the vc, or play a song using the bot - While you're listening to your friend/the song, go to the **general** voice settings (not channel settings or user profile) - Try to move the output volume slidebar"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b6c4757f951407ad2030f5a",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1802,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ic3b8k5f",
+ "data": {
+  "system_settings": "Huawei P10 with Android 8.0.0",
+  "client_settings": "Version 7.1.8 for Android",
+  "actual_result": "The message is rendered incorrectly. See attachment by (TODO)",
+  "expected_result": "The message is rendered correctly. See attachment by (TODO)",
+  "short_description": "Specific Code Blocks are not rendered correctly on Android 8.0.0",
+  "steps_to_repro": "- Send the following message: ```this``` ```1``` - Observe the result"
+ }
+}

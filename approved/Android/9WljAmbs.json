@@ -1,0 +1,30 @@
+{
+ "id": "5a6872fe99fd2a187e175321",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1062,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9WljAmbs",
+ "data": {
+  "system_settings": "ZTE obsidian, Android 5.1",
+  "client_settings": "Discord alpha 6.1.1",
+  "actual_result": "the text keeps going till it goes off the screen",
+  "expected_result": "the playing status text should stop in the middle of the bar",
+  "short_description": "Users with a long playing status text keeps going till it goes off the screen in the \"invite a friend in your group dm\" page",
+  "steps_to_repro": "- create a group dm- click add friends to group dms- scroll till you see someone with a long playing status"
+ }
+}

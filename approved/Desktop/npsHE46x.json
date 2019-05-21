@@ -1,0 +1,24 @@
+{
+ "id": "598877006a25fe936c8a9033",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 942,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/npsHE46x",
+ "data": {
+  "system_settings": "Arch Linux (4.12.4-1-ARCH) (also tested on windows 10)",
+  "client_settings": "Discord Canary 0.0.24",
+  "actual_result": "You only see cookies and no additional text",
+  "expected_result": "You see 200 cookies and the message after it.",
+  "short_description": "Too many emojis make text disappear (Not a char count issue)",
+  "steps_to_repro": "- Create a message with 200 \\`:cookie:\\` directly after each other (No spaces) - Write some text after those cookies. - Send message (No warning that one exceeds the character limit). at this point the message should be just over 1600 characters long, well below the limit. - Additional test: edit message and remove 2 \\`:cookie:\\` instances, save, now the text will be displayed. - pastebins with examples: https://pastebin.com/6cXCTxs8 and https://pastebin.com/wnamBGcE"
+ }
+}

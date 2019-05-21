@@ -1,0 +1,30 @@
+{
+ "id": "5b354ffd6800fa475cfb863d",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2216,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Nd7Ar6oj",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "stable, Build Number: 17872, Version Hash: 78f61c3b092d7688723815a40b0c359b6e3bc782",
+  "actual_result": "Nothing happens",
+  "expected_result": "Icon changes",
+  "short_description": "Icons in group dm wont change in browser (Chrome)",
+  "steps_to_repro": "- Step 1 Change the icon in a group dm"
+ }
+}

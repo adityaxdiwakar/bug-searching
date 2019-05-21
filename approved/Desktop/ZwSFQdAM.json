@@ -1,0 +1,15 @@
+{
+ "id": "58445d41c7c866f08c486572",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 213,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZwSFQdAM",
+ "data": {
+  "actual_result": "The title and subject of the text channel is copied instead of your discriminator.",
+  "expected_result": "Only your discrim is selected and copied.",
+  "short_description": "Highlight the discriminator just a little bit copies the name and subject of the title.",
+  "steps_to_repro": "- Highlight your discriminator below your username, but move your mouse about to your status icon. - CTRL+C "
+ }
+}

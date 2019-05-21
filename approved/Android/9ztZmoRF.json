@@ -1,0 +1,30 @@
+{
+ "id": "5c32d8cabc79ce5331f9ec79",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2415,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9ztZmoRF",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, Android 7",
+  "client_settings": "8.2.3",
+  "actual_result": "No queued files or messages (Visually)",
+  "expected_result": "My files and messenges in the queue",
+  "short_description": "Queue displaying will be not shown",
+  "steps_to_repro": "- Open Discord - Go to your test channel, where you have enough messages to have a history (also until the 'You're viewing older messages' popups - Send now a file large enough to can write at least one letter - Send instantly after the file, your letter.  - Use now the 'You're viewing older messages'-banner to get back to the now"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59e6c9647b13aa06f4df4a99",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1277,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Xh62hvNh",
+ "data": {
+  "system_settings": "Windows 10 Build: 15063.674",
+  "client_settings": "canary, Build Number: 5978",
+  "actual_result": "Unless your above the 2 stated areas you either move discord or nothing happens",
+  "expected_result": "It should resize discord making it bigger or smaller on the y axis",
+  "short_description": "You cant resize discord using the title bar unless your over the action keys or discord logo",
+  "steps_to_repro": "- Try and resize discord using the title bar - Will not work"
+ }
+}

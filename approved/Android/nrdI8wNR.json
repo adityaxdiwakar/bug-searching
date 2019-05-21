@@ -1,0 +1,30 @@
+{
+ "id": "5aa1229b78d058f586c189f7",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1174,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nrdI8wNR",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.3.3",
+  "actual_result": "Opens in browser",
+  "expected_result": "Should open inapp",
+  "short_description": "i18n link in languages settings won't open in the inapp browser",
+  "steps_to_repro": "- Go to user settings - In Behavior tab make sure Open links in inapp browser is enabled - Go to Languages tab and open i18n link"
+ }
+}

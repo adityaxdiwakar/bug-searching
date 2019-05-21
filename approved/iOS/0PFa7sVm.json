@@ -1,0 +1,24 @@
+{
+ "id": "5b7013bcc1f3274f0ac0e5e5",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 898,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0PFa7sVm",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.6 (6691)",
+  "actual_result": "A message flashes for a second underneath the message box as it closes",
+  "expected_result": "Message box closes smoothly without showing any profile pictures",
+  "short_description": "Profile pictures and messages flash under message box when closing keyboard (easier to see when in a voice call)",
+  "steps_to_repro": "- Scroll up through messages to make sure you have profile pictures and messages under your keyboard - Open up your keyboard - Observe your keyboard to make sure you can see the profile pictures underneath - Close the keyboard and observe the bottom of the message box - You can also test it in a channel with 50+ new messages to guarantee messages being underneath your keyboard (this is how I tested this bug)"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b7c1b1679a39c29249166d8",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 929,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8OB7bx5L",
+ "data": {
+  "system_settings": "Iphone SE iOS 10.3.2",
+  "client_settings": "Testflight 2.3.7 (6846)",
+  "actual_result": "Emote picker is not showing having you to type the full emote to have it show",
+  "expected_result": "When adding a emote the emote picker shows",
+  "short_description": "Emote picker wont show when editing a message",
+  "steps_to_repro": "- Send a message - Edit it and try to add a emote"
+ }
+}

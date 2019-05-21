@@ -1,0 +1,17 @@
+{
+ "id": "5b76017cf3a8647b5a68459c",
+ "closed": false,
+ "idList": "5b7c7d66f3be6529daa0a723",
+ "idShort": 920,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/fBFkJgGf",
+ "data": {
+  "system_settings": "iPad Mini 2, iOS 11.4.1",
+  "client_settings": "Discord TF 2.3.7 (6807)",
+  "actual_result": "It keeps closing, meaning you have to do it multiple times.",
+  "expected_result": "The destination screen stays open, letting you send it first time.",
+  "short_description": "When sharing a server link from the server to DMs, the discord share screen closes when you change the link\u2019s destination.",
+  "steps_to_repro": "- Go to a server and select \u201cInvite Members\u201d - Share Link- Select Discord"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59fbc748ce60239f02cbee43",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1345,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZpyMoDW6",
+ "data": {
+  "system_settings": "Alienware X51 R2, Windows 7 Professional X64",
+  "client_settings": "Canary, Build Number: 6622, Version Hash: 1259eea132eede7d090acd3d351166cbb23e1d25",
+  "actual_result": "The user card appears in the middle of discord",
+  "expected_result": "The user card should appear next to the users name on the user list",
+  "short_description": "Clicking add note in mutual friends sometimes puts the user card in the middle of the screen",
+  "steps_to_repro": "- Go to somebodys profile who you know has one of your friends added - Go to Mutual Friends - Click add note (You may have to do this multiple times since this is inconsistent)"
+ }
+}

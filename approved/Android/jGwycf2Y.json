@@ -1,0 +1,36 @@
+{
+ "id": "5b293a104b070d4b33b2f5a0",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1564,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jGwycf2Y",
+ "data": {
+  "system_settings": "Xioami Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "When you split your screen, an infinitely loading blue circle comes over the screen and darken outs the background. Making Discord full screen doesn't really helps and the loading circle persists. Although you can see only server name text field and create server button at the top , both of which are usable perfectly even being behind the loading circle and server can be created behind that overlay.",
+  "expected_result": "Screen is normally splitted and usable.",
+  "short_description": "Infinitely loading circle overlay in create server screen when split screen is toggled.",
+  "steps_to_repro": "- Go to bottom of server list and click on create a new server. - In the new server creation page, don't do anything just split your screen."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5a625de9ddc2104374beb784",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 523,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3YaoGKKc",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.2 | iPad Air 2, iOS 11.2.5 PB 6",
+  "client_settings": "TestFlight 2.2.1 (2202)",
+  "actual_result": "A part of the author name will be overlapped by the thumbnail.",
+  "expected_result": "Author name and thumbnail shouldn't overlap each other.",
+  "short_description": "Rich embed: Author name overlaps with thumbnail",
+  "steps_to_repro": "- Create an rich embed with a bot or webhook - Add an author name and a thumbnail to this embed (note: don't add an image, otherwise thumbnail wouldn't be visible) - Make the author name very long (length depends on the display size) - Observe it with the iOS device"
+ }
+}

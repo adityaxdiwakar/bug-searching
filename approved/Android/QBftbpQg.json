@@ -1,0 +1,17 @@
+{
+ "id": "5ba97dbffc4ca768e83d91e8",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2008,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QBftbpQg",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Alpha 7.5.5",
+  "actual_result": "Audit log is apparent.",
+  "expected_result": "Audit log shouldn't be there.",
+  "short_description": "Theres an audit log option for servers you dont have audit log permission for.",
+  "steps_to_repro": "- Go to a server you have manage server permission (but not View Audit log)"
+ }
+}

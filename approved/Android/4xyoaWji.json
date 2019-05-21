@@ -1,0 +1,30 @@
+{
+ "id": "5b7b476d9960bd45ab25d64f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1860,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4xyoaWji",
+ "data": {
+  "system_settings": "Honor 9, Android 8.0.0",
+  "client_settings": "Android Alpha 7.3.8",
+  "actual_result": "Discord connects to the Voice Channel, but it takes you to the top, or sometimes a random, Text Channel.",
+  "expected_result": "Discord connects to the Voice Channel and leaves you on the Channel where you sent the message.",
+  "short_description": "By joining a Voice Channel from clicking on a message tag Discord will take you to the top (or a random) Text Channel.",
+  "steps_to_repro": "- Click and hold on the Voice Channel to copy its ID (you need to have the Developer Mode enabled, to do that go to Settings > Behavior > Developer Mode). - Paste the ID in a Text Channel using this format: `<#idHere>` and then send it. - Click on the Channel tag and observe."
+ }
+}

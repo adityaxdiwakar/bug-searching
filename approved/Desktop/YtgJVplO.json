@@ -1,0 +1,16 @@
+{
+ "id": "58e5583a7c9a28607aa81068",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 479,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YtgJVplO",
+ "data": {
+  "system_settings": " Windows 10 Canary",
+  "actual_result": "Client freezes",
+  "expected_result": "Client should not freeze",
+  "short_description": "Discord client (Canary) freezes (These steps aren't 100%)",
+  "steps_to_repro": "- Turn ON desktop notifications - Recieve a DM - When Windows desktop notification has popped up, click the DM icon top left of Discord "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a4f24f74863eab0664d169c",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 485,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/BgEDEg2n",
+ "data": {
+  "system_settings": "iPhone 8 Plus, iOS 11.2.1",
+  "client_settings": "Discord 2.2.0 (2073)",
+  "actual_result": "There's no space between the two lines in the message(s)",
+  "expected_result": "There should be a space between the two lines in the message(s)",
+  "short_description": "Line breaks are not displayed at all now",
+  "steps_to_repro": "- Send a message that contains a line break or go to any message that previously contained a line break- Observe the message"
+ }
+}

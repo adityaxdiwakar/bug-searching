@@ -1,0 +1,17 @@
+{
+ "id": "5c11e0da7b661c2b90edc7c1",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1232,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ssk925BD",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12.1.2 (dev beta)",
+  "client_settings": "TestFlight 2.4.1 (9907)",
+  "actual_result": "Status bar overlaps on servers",
+  "expected_result": "There should be a black bar and not overlapping",
+  "short_description": "Black bar disappeared on mobile status",
+  "steps_to_repro": "- Open discord - Open servers so u can scroll - Scroll down so \u201cmobile\u201d status overlaps - Observe"
+ }
+}

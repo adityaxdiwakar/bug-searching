@@ -1,0 +1,17 @@
+{
+ "id": "5ae1c8218af6f00b9420c4bc",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1327,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hWHuRmdU",
+ "data": {
+  "system_settings": "Samsung Note II, Android 4.4.2",
+  "client_settings": "Discord Beta 6.5.6",
+  "actual_result": "The upload bar loads and disappear then nothing happens.",
+  "expected_result": "Shows error or upload image one by one.",
+  "short_description": "Uploading over 10 images at the same time does nothing",
+  "steps_to_repro": "- Open image picker. - Select **a lot** images ( I tried using 10 images ) - Click upload and observe."
+ }
+}

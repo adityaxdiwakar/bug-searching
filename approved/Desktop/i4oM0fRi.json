@@ -1,0 +1,17 @@
+{
+ "id": "598d9dd0ea25ef7aefd686a7",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 973,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/i4oM0fRi",
+ "data": {
+  "system_settings": "Windows 10 64-bit OS, x64-based processor",
+  "client_settings": "Discord Canary, 0.0.163",
+  "actual_result": "You can see it still, with people (on the list) typing continuously",
+  "expected_result": "You cannot see it anymore.",
+  "short_description": "Can see the white list channels after you have been remove from the list",
+  "steps_to_repro": ""
+ }
+}

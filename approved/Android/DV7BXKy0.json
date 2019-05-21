@@ -1,0 +1,17 @@
+{
+ "id": "5a436f91aca6bf37ab9c4835",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1002,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DV7BXKy0",
+ "data": {
+  "system_settings": "Redmi Note 3 Android 8.0",
+  "client_settings": "Discord 5.9.4",
+  "actual_result": "App crashes",
+  "expected_result": "Notification settings should open",
+  "short_description": "Notification settings crash on Android 8.0+",
+  "steps_to_repro": "- Open Discord settings  - Click on notification"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "id": "5a830e5aabece2028fd46bff",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1652,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860c4ed6ea847898de1b7f",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Embeds",
+   "color": null
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a860c488d8aeee3b765c8a9",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Video",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zUqXrpoQ",
+ "data": {
+  "system_settings": "Windows 10 Home v1709",
+  "client_settings": "Discord Canary build 10636, version hash: c703161e46ce2133c16936802f379e7c0d8d55ad",
+  "actual_result": "The play bar is stuck on the beginning. Switching servers seems to fix it",
+  "expected_result": "The play bar should update while playing",
+  "short_description": "Play bar doesn't update on recent uploaded videos",
+  "steps_to_repro": "- Upload a video (wait until it finishes)  - After upload and process don't switch servers - Play the video"
+ }
+}

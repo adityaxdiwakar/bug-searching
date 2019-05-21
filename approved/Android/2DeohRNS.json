@@ -1,0 +1,17 @@
+{
+ "id": "5ba97ac2077b550fcc98e02e",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2004,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2DeohRNS",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Edge 8.0.0",
+  "client_settings": "Alpha 7.5.5",
+  "actual_result": "The keyboard stays open",
+  "expected_result": "The keyboard should close",
+  "short_description": "[Audit Log] Tapping anywhere while the keyboard is open in \"Filter by user/action\" keeps the keyboard open",
+  "steps_to_repro": "- Go to audit logs - Filter by actions/users - Tap anywhere on the screen"
+ }
+}

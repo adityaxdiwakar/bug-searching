@@ -1,0 +1,16 @@
+{
+ "id": "58fa211845f3d7d3454a2b3e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 534,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YUiWLuzg",
+ "data": {
+  "system_settings": " Latest Canary, Windows 10 x64",
+  "actual_result": "You toggle the switch behind it, like the button wouldn't even be there",
+  "expected_result": "You save the settings",
+  "short_description": "You can click behind the save button in the settings panel",
+  "steps_to_repro": "- Edit a role, so that you get the save popup  - Try clicking on a switch thats behind the save button "
+ }
+}

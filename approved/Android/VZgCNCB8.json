@@ -1,0 +1,15 @@
+{
+ "id": "585553618365986af969381c",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 144,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VZgCNCB8",
+ "data": {
+  "actual_result": "gives an unknown network error",
+  "expected_result": "asks for auth code/deletes server",
+  "short_description": "Can't Delete Servers with 2fa enabled",
+  "steps_to_repro": "- try and delete the server with 2fa"
+ }
+}

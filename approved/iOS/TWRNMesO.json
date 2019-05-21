@@ -1,0 +1,36 @@
+{
+ "id": "5b2d25a53d677f2125afd7de",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 807,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TWRNMesO",
+ "data": {
+  "system_settings": "iPhone 8, iOS 11.3.1",
+  "client_settings": "Discord 2.3.4 (5330)",
+  "actual_result": "It stops voice input after few seconds",
+  "expected_result": "When you press button, it shouldn't stop automatically",
+  "short_description": "When you press button on keyboard for Voice Input, it stops automatically",
+  "steps_to_repro": "- Open Keyboard - Press button on voice input - Start speaking - Check the result"
+ }
+}

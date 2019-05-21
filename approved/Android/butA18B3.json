@@ -1,0 +1,17 @@
+{
+ "id": "5ba97f9cd749f512fb0b68dd",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2014,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/butA18B3",
+ "data": {
+  "system_settings": "Pixel 2 XL - Android 9.0",
+  "client_settings": "Alpha 7.5.5",
+  "actual_result": "It says \"Set the AFK channel to CHANNEL_ID\"",
+  "expected_result": "It says \"Set the AFK channel to #channel-name\"",
+  "short_description": "Changing the server's AFK channel doesn't display correctly in the audit log",
+  "steps_to_repro": "- Change the server's afk channel - View & Expand the audit log entry"
+ }
+}

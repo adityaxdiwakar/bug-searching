@@ -1,0 +1,30 @@
+{
+ "id": "5b34feb4f0b3f86cda1df753",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1617,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xiDJWjyJ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.0.1",
+  "actual_result": "if a Discord link is between <> the invite embed will be escaped, while it shows on Desktop (I noticed that in the #discord-resources channel of DFeedback there is no embed at all)",
+  "expected_result": "<> is intended for escaping external website embeds, not invite embeds",
+  "short_description": "Wrapping invite links into <> will escape the invite embeds",
+  "steps_to_repro": "- Paste a Discord server invite link - Wrap it between <>"
+ }
+}

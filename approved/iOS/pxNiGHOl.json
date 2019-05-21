@@ -1,0 +1,17 @@
+{
+ "id": "5b6b9a09c38ccb6857e992a1",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 882,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pxNiGHOl",
+ "data": {
+  "system_settings": "iPhone 6 - iOS 12 (dev beta 6)",
+  "client_settings": "TestFlight 2.3.6 (6427)",
+  "actual_result": "When opening discord you see extra lines near your text box for a quick seconds",
+  "expected_result": "Chat should open normally without the extra lines to be seen",
+  "short_description": "Double lines appear near chat box on poor connection when force closing and re-opening discord",
+  "steps_to_repro": "- Be on poor connection - Force close discord  - wait a while - Open discord again in a text channel where people regularly or daily talk - Observe your chat box closely"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5aeca1d47d3051c88c3aecd1",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 718,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ApLzG8Is",
+ "data": {
+  "system_settings": "iPhone 6 - iOS 11.4",
+  "client_settings": "TestFlight 2.3.1 (4051)",
+  "actual_result": "Role gets tagged instead of the user",
+  "expected_result": "User should be mentioned fine without the role being tagged",
+  "short_description": "User and role mentions are broken when you try to tag 1 of them",
+  "steps_to_repro": "- Create a role named (for example: Mythix) - Have a user named the same name as the role - Spell out the user normally (Without its #{number})"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "588799d1e0a19e41115be8ce",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 188,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/i8bv9jbI",
+ "data": {
+  "system_settings": " Moto X 2nd gen Android 5.1, latest Alpha build",
+  "actual_result": "The message is not highlighted and the syntax is shown on the first line",
+  "expected_result": "The message is highlighted using proper format for the respected syntax used",
+  "short_description": "Syntax not highlighting in code format",
+  "steps_to_repro": "- Type a message using a syntax (fix for example) - Send the message "
+ }
+}

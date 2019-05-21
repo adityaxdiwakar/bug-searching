@@ -1,0 +1,23 @@
+{
+ "id": "590c9f653acca7f639634efa",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 601,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sXbh63V4",
+ "data": {
+  "system_settings": " Windows 10, Discord Canary",
+  "actual_result": "It says `Set the topic of to` etc..",
+  "expected_result": "It says `Set the topic of #channel to` etc..",
+  "short_description": "Grammatical error in Audit logs when you set the channel topic",
+  "steps_to_repro": "- Set the channel topic (it can be anything) - Go to the audit logs - Click on the drop down of the log and look at the description "
+ }
+}

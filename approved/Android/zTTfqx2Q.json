@@ -1,0 +1,23 @@
+{
+ "id": "58f0effa38ca1485a86aa4d0",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 367,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e9",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can still reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zTTfqx2Q",
+ "data": {
+  "system_settings": " Nexus 5X, Android 7.1.1, Pure Nexus ROM, Discord Alpha 3.6.5",
+  "actual_result": "The emoji doesn't show up in the suggestions box unless you type it by its \"proper\" name, and certain aliases like :+1: won't show up in the message",
+  "expected_result": "The emoji alias shows up in the suggestions box and shows up in the submitted message, like on PC and older versions of the Discord mobile client",
+  "short_description": "System emoji only show up by their proper names, not by aliases, in their suggestion box",
+  "steps_to_repro": "- Type an alternate name for an emoji in the message box (like :rofl: for \ud83e\udd23, or :+1: for thumbs_up) - Submit the message "
+ }
+}

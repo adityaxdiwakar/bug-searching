@@ -1,0 +1,30 @@
+{
+ "id": "5bcdf5c037cf1563fa836b8d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2218,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7Bs4ShJI",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0.0",
+  "client_settings": "7.7.8",
+  "actual_result": "You cannot select them",
+  "expected_result": "They should can be selected",
+  "short_description": "You are unable to select US East And Russia in Landscape orientation",
+  "steps_to_repro": "- Own a server or have admin perms - Go to server settings -> Server region - Scroll down and at the bottom you will see russia and US east - Than change orientation to landscape mode, you are unable to select them"
+ }
+}

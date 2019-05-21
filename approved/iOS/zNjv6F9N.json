@@ -1,0 +1,17 @@
+{
+ "id": "5bd55c20bb581f2e62900f14",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1127,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zNjv6F9N",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.0.1",
+  "client_settings": "Discord TestFlight 2.4.0 (8667)",
+  "actual_result": "Close button is just above the home bar.",
+  "expected_result": "Close button is located high above the home bar.",
+  "short_description": "Invite Expired page is too close to bottom bar. iPhone X models specific.",
+  "steps_to_repro": "- Join a server with a random invalid invite, like \"hi\"."
+ }
+}

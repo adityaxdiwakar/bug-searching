@@ -1,0 +1,30 @@
+{
+ "id": "5a812ac283814c813fa27135",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1647,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/290J1T2k",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit",
+  "client_settings": "Discord Canary 0.0.202, Build 10557",
+  "actual_result": "No red line is shown and highlighting it shows correct spelling results that when clicked do not correct the word",
+  "expected_result": "Misspelled word has a red line under it indicating it is incorrectly spelled",
+  "short_description": "Spellcheck doesn't work in user notes",
+  "steps_to_repro": "- Type a misspelled word in a user note and end it with a space"
+ }
+}

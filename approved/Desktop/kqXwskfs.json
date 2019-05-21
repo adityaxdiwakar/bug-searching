@@ -1,0 +1,24 @@
+{
+ "id": "5b888070087b8915ce207438",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2841,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kqXwskfs",
+ "data": {
+  "system_settings": "Windows 10 Home SL 1803 x64",
+  "client_settings": "Canary 22794",
+  "actual_result": "a DM from someone is opened instead of a text channel of a server. surprisingly, you are still at a server instead of viewing the DM list",
+  "expected_result": "a text channel should be opened if you are at a server as the overlay starts",
+  "short_description": "DM is opened instead of a text channel of a server when you start the overlay at the first time.",
+  "steps_to_repro": "- have a fresh start of discord client - start a game. - open the game overlay from your keybind. observe carefully."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a43a75aa16627469bf550d9",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1493,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/G1Jvyivz",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord Canary 0.0.194, Build 9070",
+  "actual_result": "The discriminator is shown",
+  "expected_result": "The discriminator of the user is not shown",
+  "short_description": "Streamer Mode with Hide Personal Information enabled, doesn't hide user discriminators in the Quick Switcher/tayne",
+  "steps_to_repro": "- Enable Streamer Mode - Go to the Quick Switcher/tayne and search for a user"
+ }
+}

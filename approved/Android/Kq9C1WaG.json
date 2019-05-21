@@ -1,0 +1,30 @@
+{
+ "id": "5b361316c2d28a825427b49d",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1622,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Kq9C1WaG",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 701",
+  "actual_result": "The text has more space at the bottom than the top.",
+  "expected_result": "The text \"Are you sure you want to leave <insert server name here>? You won't be able to rejoin this server unless you are reinvited.\" isn't centered horizontally",
+  "short_description": "The text in the leave server modal isn't centered vertically (the server name too for some devices)",
+  "steps_to_repro": "- Go to any server. - Click on the 3 dots. - Click on leave server. - Observe the server name."
+ }
+}

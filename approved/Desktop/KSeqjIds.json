@@ -1,0 +1,30 @@
+{
+ "id": "5bbb672daf091e5f9f55234a",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 3115,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KSeqjIds",
+ "data": {
+  "system_settings": "ZTE Grand X4 Z956 Android 6.0.1",
+  "client_settings": "Android Alpha 763",
+  "actual_result": "Navbar dissapears",
+  "expected_result": "The website stays the same",
+  "short_description": "Android Website Bug, Navbar dissapears",
+  "steps_to_repro": "- Developer Docs - Branches and Builds - Patching - press patching a couple times more"
+ }
+}

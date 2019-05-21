@@ -1,0 +1,30 @@
+{
+ "id": "5af499cd602b3cab5ab2e446",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1966,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ToFhySzo",
+ "data": {
+  "system_settings": "Macbook Air (Early 2015), macOS Sierra 10.12.6",
+  "client_settings": "Discord Canary (Build 14965)",
+  "actual_result": "It uses another colour",
+  "expected_result": "It should use same colour as you've set.",
+  "short_description": "Highlighting \"Click to add a note\" on someones profile doesn't use same highlight colour as you have on your computer [Extremely minor bug]",
+  "steps_to_repro": "- Go on a profile - Hightlight \"click to add a note\" - Observe"
+ }
+}

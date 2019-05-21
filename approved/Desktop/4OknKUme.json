@@ -1,0 +1,17 @@
+{
+ "id": "5b65d3b50ac7e103925d1865",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2622,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4OknKUme",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (20790)",
+  "actual_result": "It's \"AUGUST 4, 2018\"",
+  "expected_result": "It should \"August 4, 2018\"",
+  "short_description": "The date separator for month is capitalized when it should be lowercase with one capitalized letter.",
+  "steps_to_repro": "- Find an old post and observe the date separator"
+ }
+}

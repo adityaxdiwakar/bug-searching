@@ -1,0 +1,30 @@
+{
+ "id": "594db026d2fba054cdb1a6a7",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 781,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/37iIiNPb",
+ "data": {
+  "system_settings": "Gentoo 64-bit default/linux/amd64/13.0",
+  "client_settings": "Canary 0.0.19",
+  "actual_result": "Channel list doesn't load at all and you can't click on any channels in it, and it will only load when you move to another channel",
+  "expected_result": "Channel list and user list loads properly",
+  "short_description": "Channel list disappearing when opening New Group DM dialogue and using Quick Switcher",
+  "steps_to_repro": "- Open the New Group DM dialogue, either with Ctrl+Shift+T, or manually going to the friends list and clicking on it - Open the Quick Switcher with Ctrl+T or Ctrl+K, and then go to a text channel in a server from there (no voice channels, DMs, or group DMs). The channel HAS to be in a server that is already loaded/cached in the client, otherwise the client will request the server's data, which will reload the channel list and the bug won't happen"
+ }
+}

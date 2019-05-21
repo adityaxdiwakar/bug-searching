@@ -1,0 +1,30 @@
+{
+ "id": "59414ecf4c0f10b8719a6eab",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 262,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/r83EsHrP",
+ "data": {
+  "system_settings": "iPhone 7, iOS 10.3.3 (14G5037b)",
+  "client_settings": "iOS App Store, 1.8.7",
+  "actual_result": "No formatting is applied and you see a bunch of backticks followed by your code block's text followed by some more backticks.",
+  "expected_result": "The stuff in the code block should be formatted as a code block",
+  "short_description": "Code blocks containing an empty line with text before and after them don't format properly.",
+  "steps_to_repro": "- Type (or have someone else type) a code block that has text before it, after it, and an empty line inside of it. A simple one is a``````a. - View it on iOS discord."
+ }
+}

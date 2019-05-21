@@ -1,0 +1,30 @@
+{
+ "id": "5ae3b99d100e5259f68b5b88",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 704,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pDN6N0sO",
+ "data": {
+  "system_settings": "iPhone, iOS 11.4",
+  "client_settings": "Testflight 2.3.1 (4025)",
+  "actual_result": "Keyboard flickers and makes u being stuck for a while",
+  "expected_result": "Keyboard shouldn't flicker when quickly adding/removing letters",
+  "short_description": "Keyboard keeps flickering when typing in the boxes of Xbox Authorization (Could be on iOS 11+ only, but does happens on iOS 11.4)",
+  "steps_to_repro": "- go to Connections - add xbox live - tap quickly both g and X (delete/remove letter) button fast together (as in tap both buttons fast) (tiny fingers required) - observe your keyboard"
+ }
+}

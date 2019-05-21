@@ -1,0 +1,36 @@
+{
+ "id": "5a15a63a3c6410d060c77959",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 914,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/B7CHh3pD",
+ "data": {
+  "system_settings": "Samsung J7 Pro, Android 7.0.",
+  "client_settings": "Android Alpha, 5.7.7",
+  "actual_result": "Leaving the current theme button blank without a mark.",
+  "expected_result": "Should stay the same, without any changes.",
+  "short_description": "Moblie Appearance Button becomes blank",
+  "steps_to_repro": "- Go to the user settings - Go to the Appearance Section - Select either the Dark theme or the Light theme - Press again the theme you selected"
+ }
+}

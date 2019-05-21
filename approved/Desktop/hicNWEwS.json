@@ -1,0 +1,30 @@
+{
+ "id": "5a80c0d08c4e7b5b4f326891",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1644,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hicNWEwS",
+ "data": {
+  "system_settings": "Ubuntu 17.10 x64",
+  "client_settings": "Canary build 10544",
+  "actual_result": "The codeblock is visibily off, and allows posting of the emoji. Example: :``````",
+  "expected_result": "Codeblocks to be formatted correctly and for the emoji not to work",
+  "short_description": "Being able to post any emoji with broken codeblock",
+  "steps_to_repro": "Using `ameowsip` as an example,\\:\\`\\`\\`\\`\\`\\`\\:\\`\\`\\`\\<a\\:ameowsip\\:408704080035184651\\>\\`\\`\\`Alternative method: \\:\\`\\:\\<a\\:ameowsip\\:408704080035184651\\>\\:\\`\\: or \\:\\`\\:\\:emote\\:\\`\\:"
+ }
+}

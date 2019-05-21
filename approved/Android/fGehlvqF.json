@@ -1,0 +1,17 @@
+{
+ "id": "59e82123e88a58faaf1ab7d3",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 820,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/fGehlvqF",
+ "data": {
+  "system_settings": "Android 4.4.2 Samsung Galaxy Tab 4 7.0 and Android 6.0.1 Samsung Galaxy J3 (6)",
+  "client_settings": "5.4.0",
+  "actual_result": "It says you have no DM unread",
+  "expected_result": "You should have a dm should tell you that you have a DM unread",
+  "short_description": "You recieve a DM from someone, and you log off Discord. When you log on, the DM notification is gone, making you manually go to the unread DM.",
+  "steps_to_repro": "- Get a dm (do not click on it) - Leave discord close it - Open discord"
+ }
+}

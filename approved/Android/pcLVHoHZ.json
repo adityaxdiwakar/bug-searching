@@ -1,0 +1,29 @@
+{
+ "id": "588f8c57903931b2b2da6fba",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 204,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pcLVHoHZ",
+ "data": {
+  "system_settings": " Android 6.0, v 3.2.9",
+  "actual_result": "Some parts overlay each others and makes discord unusable.",
+  "expected_result": "The chat is normally displayed.",
+  "short_description": "Image overlay in chats",
+  "steps_to_repro": "- You will need no friends - Go to the all friends section were the invite friends thing is - Change to another chat (no matters which one) "
+ }
+}

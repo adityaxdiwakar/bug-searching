@@ -1,0 +1,17 @@
+{
+ "id": "599f0cc06a30a6895ce7793d",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 647,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1JZH4yg5",
+ "data": {
+  "system_settings": "Android 8.0.0 Pixel",
+  "client_settings": "Alpha 4.0.9 (504)",
+  "actual_result": "No notifications show, not even in the System Notification Log",
+  "expected_result": "A notification should appear",
+  "short_description": "Android Oreo no notifications",
+  "steps_to_repro": "- Have app running runner in the background - Receive a message from someone (or a mention, or anything that gets a notification normally for you)"
+ }
+}

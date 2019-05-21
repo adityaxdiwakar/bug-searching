@@ -1,0 +1,23 @@
+{
+ "id": "58cad28a9f3cd1fd6b641296",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 296,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GM3l8uBT",
+ "data": {
+  "system_settings": " Android 5.1 Discord 3.5.1",
+  "actual_result": "it's extended",
+  "expected_result": "the mention is normal",
+  "short_description": "mention goes bigger",
+  "steps_to_repro": "- have a just custom emoji sent - send a custom emoji with text and a mention- scroll up and then back down - observe the mention "
+ }
+}

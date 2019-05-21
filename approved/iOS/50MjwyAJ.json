@@ -1,0 +1,17 @@
+{
+ "id": "5b90487254b6134ea80cd13a",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 966,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/50MjwyAJ",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 12",
+  "client_settings": "TestFlight 2.3.7 (6968)",
+  "actual_result": "Typing indicator is \"stuck\" in the position where the last message ended",
+  "expected_result": "Typing indicator is at the beginning of the text box",
+  "short_description": "Locking your phone when sending a message locks typing indicator",
+  "steps_to_repro": "- Type a message, the length doesn't matter - Lock your phone right before pressing the send button, and make sure the message hasn't left the text box when your phone locks - Unlock your phone and observe the position of the typing indicator - Note: this does not happen every time, try at least 10 times - Alternatively, lock and unlock your phone before the second step"
+ }
+}

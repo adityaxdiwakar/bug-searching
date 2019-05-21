@@ -1,0 +1,24 @@
+{
+ "id": "598e34f169cbf017db06f6a1",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 618,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/e2FwKplG",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "Alpha: 4.0.6",
+  "actual_result": "Pips appear on servers where no new messages have been sent/ pips do not go away.",
+  "expected_result": "New message pip will go away when the newest messages have been read/pips won't appear for servers where no messages have been posted.",
+  "short_description": "New message pips don't go away/appear on servers where there is no New message.",
+  "steps_to_repro": "- Install newest Alpha 4.0.6 - load discord - notice new message pips - check the server, notice there's no new message - click over to a different server and notice the new message pip didn't go away."
+ }
+}

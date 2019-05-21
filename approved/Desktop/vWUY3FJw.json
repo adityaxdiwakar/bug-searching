@@ -1,0 +1,30 @@
+{
+ "id": "5aea26755e69069b6e9177fd",
+ "closed": false,
+ "idList": "5ae9076e854dae760b97993a",
+ "idShort": 1926,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vWUY3FJw",
+ "data": {
+  "system_settings": "MacBook Pro 2015 13\" - MacOS 10.13.3 - INTERNAL DISPLAY 13.3-inch (2560 x 1600) w/ Intel Iris Graphics 6100 1536 MB",
+  "client_settings": "Release Channel: canary, Build Number: 14432",
+  "actual_result": "acceleration ON: large grey boxes/artifacts over some elements, responds to mouse movement, ONLY internal monitor. hardware acceleration OFF: most elements flickering and flashing, responding to keypress or random, effects all monitors (resubmit of 11800)",
+  "expected_result": "no glitches",
+  "short_description": "Artefacts and glitches on MacOS, worsened by turning off hardware acceleration",
+  "steps_to_repro": "- Open Discord into dark mode  - Turn ON hardware acceleration and position Discord on the INTERNAL display - Observe grey boxes/faded ui and other artefacts - Turn OFF hardware acceleration - Observe effect worsened and now affecting ANY/ALL monitors - etc"
+ }
+}

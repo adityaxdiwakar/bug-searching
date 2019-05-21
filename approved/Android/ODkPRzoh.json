@@ -1,0 +1,30 @@
+{
+ "id": "5b2031ca9ffbff84e0fb6782",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1530,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ODkPRzoh",
+ "data": {
+  "system_settings": "Xioami Mi Ai, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.8.9",
+  "actual_result": "Keyboard doesn't close and if you press space key, it scrolls down the list nicely.",
+  "expected_result": "Clicking on any button should close the keyboard.",
+  "short_description": "Clicking on any radio check box to enable it after adding a space in role name doesn't close the keyboard.",
+  "steps_to_repro": "- Go to any server settings>roles - Create a role, add a space in the role name and click check any box that's visible (allow anyone to mention this role or display role members separately) - Notice the keyboard stays open but no text field is on focus. - Click space."
+ }
+}

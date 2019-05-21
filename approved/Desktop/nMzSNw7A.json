@@ -1,0 +1,30 @@
+{
+ "id": "5bb18892622ac644fcfc29c0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3064,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nMzSNw7A",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "canary, Build Number: 6372",
+  "actual_result": "it only says \"Countdown is enabled\" and the Countdown is still hidden. AND: if u post a message during that hidden Countdown, there won't be that shake animation and the Message will just tun red for not beeing sent",
+  "expected_result": "Countdown is still counting down in the background (even if u have bypass in that amount of time) so the Countown should appear again.",
+  "short_description": "Slowmode countdown doesn't appear again after adding and removing bypass while Countdown is on",
+  "steps_to_repro": "- put slowmode to 120 (to have enough time) - write a message without Slowmode bypass - add slowmode bypass to the account - wait until it shows that u have bypass - remove bypass again"
+ }
+}

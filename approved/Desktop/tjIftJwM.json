@@ -1,0 +1,30 @@
+{
+ "id": "5af699266831f0dbb9fafff0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1973,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tjIftJwM",
+ "data": {
+  "system_settings": "MacBook Pro (Retina, 15-inch, Mid 2015), mac OS 10.12.6",
+  "client_settings": "Discord (Mainline Channel), 0.0.251",
+  "actual_result": "Audio clip appears paused at play time at the point of last switch to other desktop, but if the play button is pushed it restarts from 0:00 regardless",
+  "expected_result": "Audio clip displays with current time 0:00, plays from start if play button pressed",
+  "short_description": "Audio player playback time does not update properly if clip ends while on separate desktop",
+  "steps_to_repro": "- Upload audio file with inline player in public channel, private message, etc. - Play audio file from any point - Switch to separate desktop or fullscreen app (on macOS; uncertain if there's any equivalent to this degree of window suspending on Windows) - Stay on separate desktop until audio clip has ended - Switch to original desktop"
+ }
+}

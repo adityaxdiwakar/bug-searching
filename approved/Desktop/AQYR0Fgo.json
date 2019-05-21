@@ -1,0 +1,17 @@
+{
+ "id": "59e70136bd0f96f3e74b1cf7",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1282,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AQYR0Fgo",
+ "data": {
+  "system_settings": "Microsoft Windows 10 Pro, 10.0.15063 Build 15063",
+  "client_settings": "canary, Build Number: 5978",
+  "actual_result": "The logo stays at full brightness.",
+  "expected_result": "It should dim the logo like the rest of the background.",
+  "short_description": "Discord logo on the top left doesn't dim when clicking on an image.",
+  "steps_to_repro": "- Find any image  - Click on the image - It will open the image while dimming the background but does not dim the logo."
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58d2f1f3bf226e1d8cb14888",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 458,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/caFIdsOy",
+ "data": {
+  "system_settings": " Windows 10 x64, Discord Canary",
+  "actual_result": "Discord Canary System icon is in place! Behold!",
+  "expected_result": "Account's default Discord profile picture should appear",
+  "short_description": "Default Discord profile picture(s) will not show in Windows 10 Notifications",
+  "steps_to_repro": "- Get on any other server - Receive a notification from an account without a profile picture from any server you are NOT viewing - Look at the notification icon in the lower right corner "
+ }
+}

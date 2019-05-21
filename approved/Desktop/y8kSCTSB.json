@@ -1,0 +1,30 @@
+{
+ "id": "59b4c56877ac35548ff73852",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1110,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/y8kSCTSB",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "Discord doesn't show a dropdown with users (only happens on some servers, eg, doesn't work on a server that I just created, but works on ddevs)",
+  "expected_result": "Discord shows a dropdown with users",
+  "short_description": "Search doesn't show user recommendation dropdown on some servers until you start typing",
+  "steps_to_repro": "- Click on search and then click on from: or mentions:"
+ }
+}

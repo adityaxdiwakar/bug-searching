@@ -1,0 +1,30 @@
+{
+ "id": "5b9556c7a2a31a60c9a19266",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1956,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/daRyxEIV",
+ "data": {
+  "system_settings": "Coolpad Mega 3, Android 6.0",
+  "client_settings": "Discord Alpha 748",
+  "actual_result": "The outline is continuous on dark theme but discontinuous on light theme.",
+  "expected_result": "The outline is same on both themes.",
+  "short_description": "The outline of the Wumpus in the pending friend requests screen is discontinuous on light theme whereas it is continuous on dark theme.",
+  "steps_to_repro": "- Open the pending friend requests screen of the friends tab on dark theme and observe that the outline of the Wumpus is continuous. - Now, switch to light theme and observe the outline of the Wumpus."
+ }
+}

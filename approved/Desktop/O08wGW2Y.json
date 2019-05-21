@@ -1,0 +1,30 @@
+{
+ "id": "5b5f01e771f57e6b20ffb95a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2507,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/O08wGW2Y",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 20174",
+  "actual_result": "Game info popup comes up",
+  "expected_result": "Link opens",
+  "short_description": "You can click a game's name from anywhere within that line where the text is on the header of the Games tab",
+  "steps_to_repro": "- Go to the Games tab - Hover over a game's name in the header - Hold your mouse on it and move to the right within that line of text with your mouse - Click - Observe"
+ }
+}

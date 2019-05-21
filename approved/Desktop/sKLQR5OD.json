@@ -1,0 +1,17 @@
+{
+ "id": "5a73b49065ae889c6d1bd606",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1615,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sKLQR5OD",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord 0.0.300",
+  "actual_result": "they can do this as before",
+  "expected_result": "they are blocked from doing this",
+  "short_description": "blocked users can still listen along on spotify",
+  "steps_to_repro": "- block a user - have them select \"listen along\" on the spotify card - etc"
+ }
+}

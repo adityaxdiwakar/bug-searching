@@ -1,0 +1,24 @@
+{
+ "id": "5bb385f33c1e0b2edec447f8",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1048,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/g6prAnwr",
+ "data": {
+  "system_settings": "iPhone 8, iOS 11.4.1",
+  "client_settings": "2.3.8",
+  "actual_result": "Your profile picture resolution drops drastically",
+  "expected_result": "The image should remain with the same resolution as if it had been uploaded from the desktop version.",
+  "short_description": "Profile picture resolution drops drastically on iOS",
+  "steps_to_repro": "-  Update your profile pic from Desktop discord - Use Ayana bot to be able to see and download that same pic - Update your profile pic from iOS Discord - Use the same bot again, and it the resolution will drop even more than compared to desktop"
+ }
+}

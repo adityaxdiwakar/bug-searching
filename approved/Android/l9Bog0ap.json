@@ -1,0 +1,30 @@
+{
+ "id": "5b61e4cc1277cf86889a1258",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1749,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/l9Bog0ap",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 720",
+  "actual_result": "You're taken to the list you left open.",
+  "expected_result": "You're taken to the online list.",
+  "short_description": "Closing a DM with someone takes you to the listof the friends tab you were in rather than taking you to the online friends list.",
+  "steps_to_repro": "- Open any list in the friends tab other than \"Online\". - Come out of the friends tab and close a DM with someone."
+ }
+}

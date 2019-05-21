@@ -1,0 +1,22 @@
+{
+ "id": "58414eed507fcfdbcbd2b0a3",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 190,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nRA70n0Q",
+ "data": {
+  "actual_result": "Populated mostly by emoji's you've never even used, even sometimes not listing the emoji's that you do use.",
+  "expected_result": "The \"Frequently Used\" list should be populated by the emoji's you've \"reacted\" with the most.",
+  "short_description": "\"Frequently Used\" reactions populated with random emoji's",
+  "steps_to_repro": "- Use a specific emoji a number of times - Use another emoji once or twice "
+ }
+}

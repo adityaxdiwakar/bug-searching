@@ -1,0 +1,23 @@
+{
+ "id": "590729fda44b05825a68ee01",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 582,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0zG8an1B",
+ "data": {
+  "system_settings": " Discord Canary",
+  "actual_result": "User Settings close on the first time and Changelog closes on the second time",
+  "expected_result": "Changelog closes on the first time and User Settings close on the second time",
+  "short_description": "Esc for User Settings has more priority than Esc for Changelog",
+  "steps_to_repro": "- Open User Settings - Select Changelog - Press Esc key for two times "
+ }
+}

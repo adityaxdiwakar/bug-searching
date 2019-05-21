@@ -1,0 +1,30 @@
+{
+ "id": "5b276fd5949a6492cbf5624e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1558,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bXPdRgft",
+ "data": {
+  "system_settings": "Xioami Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "You can see the complete members list for a second as soon as you select the user. Also, if you quickly keep pressing that radio box to check it, you would be able to select another user which appears for a split second since you can see the whole member list for a second.",
+  "expected_result": "The user is selected without any glitches",
+  "short_description": "Glitch while selecting a user after searching the name in group dm",
+  "steps_to_repro": "- Go to friends tab, and click on \"create group DM\" button on top left. - In the search field, enter any of your friends names initials so that it brings up only one or two search results. - Click on any of the user to select it and notice"
+ }
+}

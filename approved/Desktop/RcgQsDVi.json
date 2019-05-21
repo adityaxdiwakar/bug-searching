@@ -1,0 +1,30 @@
+{
+ "id": "5bff1a68bb466815d971e872",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3445,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RcgQsDVi",
+ "data": {
+  "system_settings": "Windows 10 home x64 v. 1803",
+  "client_settings": "Canary 28533",
+  "actual_result": "suggestions get selected by the cursor which makes you use the arrow keys or move the cursor again to select the one you actually want to use",
+  "expected_result": "the cursor should not highlight the suggestion its placed on since im not moving it",
+  "short_description": "[Canary] emotes, chat commands and @ suggestions get selected by the cursor if its placed where they popup before typing",
+  "steps_to_repro": "- type something like \":reg\" that shows a lot of suggestions - observe"
+ }
+}

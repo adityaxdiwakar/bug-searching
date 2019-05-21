@@ -1,0 +1,24 @@
+{
+ "id": "5c025c4c7df3414e131aaac0",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1198,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/q3cKWZb4",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9477)",
+  "actual_result": "Button only goes transparent when you stop pressing it",
+  "expected_result": "Button goes transparent when you first press it",
+  "short_description": "New invite players button does not become transparent until you release it",
+  "steps_to_repro": "- Tap and hold the new invite players button at the top of a channel - Observe how it does not go transparent - Release your finger - Observe how it goes transparent when you release your finger"
+ }
+}

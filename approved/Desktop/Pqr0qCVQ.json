@@ -1,0 +1,30 @@
+{
+ "id": "5c3682b83934822f3b21946c",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3609,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Pqr0qCVQ",
+ "data": {
+  "system_settings": "windows 10 chrome",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 30586, Version Hash: e27a6a82970037349339fa6dd4f8d29582caeebe",
+  "actual_result": "spotify status stays",
+  "expected_result": "spotify status stops",
+  "short_description": "spotify status stays when pausing music",
+  "steps_to_repro": ""
+ }
+}

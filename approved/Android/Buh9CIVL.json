@@ -1,0 +1,17 @@
+{
+ "id": "5b8bd9fe8cac9703b7c546c5",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1915,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Buh9CIVL",
+ "data": {
+  "system_settings": "Android 8.1",
+  "client_settings": "7.5.5",
+  "actual_result": "You see a underlined username in system message (dm init)",
+  "expected_result": "You should see 'this is the beginning of private messages with '__username__'",
+  "short_description": "Markdown in private channel init message",
+  "steps_to_repro": "- Have a user with two '_' at the beginning & end of the name - Start private messages with this user"
+ }
+}

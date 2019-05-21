@@ -1,0 +1,24 @@
+{
+ "id": "5942de7016630f2cbd8204f1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 767,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KPy2vYQC",
+ "data": {
+  "system_settings": "Mac OSX Sierra: Google Chrome 59.0.3071.86",
+  "client_settings": "Discord Stable Web",
+  "actual_result": "When you join the server you can see the hidden channels name along with the \u201cload more messages\u201d button that's infinitely pressable.",
+  "expected_result": "You should join the server and only see the channels you have permission to see.",
+  "short_description": "When accepting an invite to a channel that you don't have permission to view the load messages button is visible and won't go away until clicking on another channel.",
+  "steps_to_repro": "- Go to a discord server you manage. -Create a new text channel. - Make it so everyone cannot read or send messages. - Create a invite link to that channel. - On a new account accept the invite link."
+ }
+}

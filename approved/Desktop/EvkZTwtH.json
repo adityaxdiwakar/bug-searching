@@ -1,0 +1,17 @@
+{
+ "id": "5c044033d9a2061d767f05e3",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 3459,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EvkZTwtH",
+ "data": {
+  "system_settings": "Mac os mojave 10.14.1",
+  "client_settings": "Desktop canary version 0.0.38 and desktop stable version 0.0.251",
+  "actual_result": "Discord consumes an unnaturally high amount of cpu and causes the os to become jittery and unusable",
+  "expected_result": "Discord should consume an average amount of cpu and the operating system should be minimally affected without lag",
+  "short_description": "Discord has abnormally high cpu usage when screen sharing on mac os which does not happen on windows",
+  "steps_to_repro": "- Run discord on mac os - screen share at 720/1080p - open activity monitor - see that discord consumes ~200 to 300% cpu"
+ }
+}

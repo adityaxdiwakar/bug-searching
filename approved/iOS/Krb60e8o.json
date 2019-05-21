@@ -1,0 +1,36 @@
+{
+ "id": "5a67556439d81121eb15ec21",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 541,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Krb60e8o",
+ "data": {
+  "system_settings": "iPad (4th generation), iOS 10.3.3",
+  "client_settings": "Discord TestFlight 2.2.1 (2236)",
+  "actual_result": "You won't be able to scroll the chat",
+  "expected_result": "You should be able to scroll the chat",
+  "short_description": "When the mention drawer (or any other drawers) is up, you won't be able to scroll the chat",
+  "steps_to_repro": "- Go to any chat - Make a drawer pop up - Try your best to scroll the chat"
+ }
+}

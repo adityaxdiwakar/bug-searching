@@ -1,0 +1,30 @@
+{
+ "id": "5af16b10a889687f0f471f13",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1949,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zwwMijMU",
+ "data": {
+  "system_settings": "Win 10 64-bit, x64-based processor",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 14651, Version Hash: 05273b109bbf775536938c01a1ba710d1c61d86c",
+  "actual_result": "An editable text area shows up where you can edit the message and save it by pressing enter or even delete it by removing all text and then pressing enter",
+  "expected_result": "Message that you want to pin/delete shows up, or not being able to do step 3/4",
+  "short_description": "Message is delete-able/editable while trying to pin it or delete it",
+  "steps_to_repro": "- Type and send a message - Right click it - Press tab - Press up-arrow - Click pin message or delete message"
+ }
+}

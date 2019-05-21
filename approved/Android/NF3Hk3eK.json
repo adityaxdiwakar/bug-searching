@@ -1,0 +1,30 @@
+{
+ "id": "5b1d753c5dabd86f6010b675",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1522,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NF3Hk3eK",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 SE 8.1",
+  "client_settings": "Discord Alpha 689",
+  "actual_result": "A toast referring to roles even though it is a user permission overwrite, which is \"Your role does not have permission to access this channel.\"",
+  "expected_result": "A toast saying something along the lines of \"You do not have permission to access this channel.\"",
+  "short_description": "Joining a voice channel with a user permission overwrite to not connect will refer to role permissions in the toast",
+  "steps_to_repro": "- Ask a friend who can manage channels in a server - Tell them to add a user(you) permission overwrite to a voice channel - Let them deny your permissions to Connect - Click on the VC - Click on the greyed out Channel Locked bar"
+ }
+}

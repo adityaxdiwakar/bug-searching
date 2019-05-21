@@ -1,0 +1,30 @@
+{
+ "id": "5bb654cec8d3f410b82250cd",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3092,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BB8EOYzk",
+ "data": {
+  "system_settings": "Windows 10 Pro, build 1809 (supports Unicode 11 emoji)",
+  "client_settings": "Discord Canary, build 25439",
+  "actual_result": "You just see a square",
+  "expected_result": "The emoji should render, albeit in its raw form (due to the old Twemoji version Discord uses)",
+  "short_description": "Unicode 11 emojis don't render at all (they did on the 3rd of Oct)",
+  "steps_to_repro": "- Copy a Unicode 11 emoji from somewhere (e.g. Emojipedia) - Paste it somewhere in the Discord client (chat box, roles, nicknames, etc.)"
+ }
+}

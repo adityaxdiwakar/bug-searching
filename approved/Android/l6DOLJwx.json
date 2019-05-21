@@ -1,0 +1,22 @@
+{
+ "id": "587ddb9ee1cc9287d76ff399",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 179,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/l6DOLJwx",
+ "data": {
+  "actual_result": "The pin button seems unresponsive and no error is displayed and you become confused",
+  "expected_result": "Discord tells you the pin limit has been reached",
+  "short_description": "Trying to pin a message when the pin limit has been reached silently fails",
+  "steps_to_repro": "- Pin enough messages to reach the pin limit - Attempt to pin another message by long pressing "
+ }
+}

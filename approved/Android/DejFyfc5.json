@@ -1,0 +1,30 @@
+{
+ "id": "5a61286100a1cf1e2dfd64a6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1044,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DejFyfc5",
+ "data": {
+  "system_settings": "Nexus 5, Android 6.0.1",
+  "client_settings": "Discord 6.0.8",
+  "actual_result": "A second message in the text box appears after the first one, with your edit.",
+  "expected_result": "The message should be correctly edited and Discord should not let you offer a second message.",
+  "short_description": "Editing a message and turning around your device will cause a second message to appear.",
+  "steps_to_repro": "- Start editing a message - Add something to the message - Turn your device (flipping the screen) - Press the submit button"
+ }
+}

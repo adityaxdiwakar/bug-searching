@@ -1,0 +1,30 @@
+{
+ "id": "5bad67a8961f3f142ccc7f66",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3051,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6Ueon6mb",
+ "data": {
+  "system_settings": "Windows 10 Home (1803) x64",
+  "client_settings": "Discord Canary 0.0.212 (Build: 24853)",
+  "actual_result": "Entry 2 is shown, and slowmode isn't even enabled!",
+  "expected_result": "Entry 2 in this list should not be displayed, especially because slowmode cannot be 1 second.",
+  "short_description": "Slowmode \"Enabled\" by Default",
+  "steps_to_repro": "- Create a new channel - View audit log entry for \"created a text channel #channelname\""
+ }
+}

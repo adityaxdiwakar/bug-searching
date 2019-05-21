@@ -1,0 +1,23 @@
+{
+ "id": "58fbc92b2edd215d258d8d0a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 547,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/r7MBoalS",
+ "data": {
+  "system_settings": " Win 10 x64, discord canary",
+  "actual_result": "Inconsistant looking progress bar / controls (fullscreen button inaccessable)",
+  "expected_result": "Normal looking progress bar / controls",
+  "short_description": "Twitter Vertical Video embed progress bar inconsistency",
+  "steps_to_repro": "- View a tweet with a 9:16 ratio video eg. https://twitter.com/KrissPratley/status/855884544666468352 "
+ }
+}

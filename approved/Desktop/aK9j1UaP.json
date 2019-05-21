@@ -1,0 +1,24 @@
+{
+ "id": "592be3819fe95fc4ebc398d7",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 689,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aK9j1UaP",
+ "data": {
+  "system_settings": "default preferences tested in different languages",
+  "client_settings": "discord canary 0.0.145, macos sierra",
+  "actual_result": "no tooltip is displayed",
+  "expected_result": "A tooltip is displayed like when you hover the channel settings icon",
+  "short_description": "when hovering the new create-invitation icon no tooltip is displayed",
+  "steps_to_repro": "- select a server where you have the psermission to create invite links - in the channel list hover one of the new fancy \"create invite\" icons next to a channel"
+ }
+}

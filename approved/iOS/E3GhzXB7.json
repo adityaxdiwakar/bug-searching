@@ -1,0 +1,15 @@
+{
+ "id": "5821d0a1922177ffe81182bb",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 65,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/E3GhzXB7",
+ "data": {
+  "actual_result": "Titles are in german, everything else is in english.",
+  "expected_result": "Title of view in english",
+  "short_description": "Not all titles of views respect language settings",
+  "steps_to_repro": "- Change your device language to german - Change your discord language to english - Open Server settings - Open Integrations, Security, Members, Roles or Instant Invites "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b7ed6d31b6a166174c319bd",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2774,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fV0TRwXO",
+ "data": {
+  "system_settings": "MacBook Air (13\", early 2014) macOS High Sierra 10.13.6",
+  "client_settings": "Desktop Canary 22333",
+  "actual_result": "The user with the RTL name is not in mutual friends",
+  "expected_result": "The user with the long RTL name should be in mutual friends",
+  "short_description": "Users with long RTL names, such as \"\ufdfd\" repeated, don't show in mutual friends.",
+  "steps_to_repro": "- Find/get a user with the name \"\ufdfd\" repeated maximum times - Get 2 accounts to friend this user (so they'd be on the mutual friends list) - Look at the other accounts mutual friends"
+ }
+}

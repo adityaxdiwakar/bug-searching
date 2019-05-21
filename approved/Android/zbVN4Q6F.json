@@ -1,0 +1,30 @@
+{
+ "id": "5b512694f3ef227c81bbe386",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1661,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zbVN4Q6F",
+ "data": {
+  "system_settings": "Asus Zenfone 2 Deluxe (ZE551ML), Android 6.0",
+  "client_settings": "Discord Alpha 6.9.6",
+  "actual_result": "Empty profile shown that closes itself after a few seconds",
+  "expected_result": "That guy's profile shown",
+  "short_description": "Empty profile shown when you tap on a notification that says about your friend joined Discord",
+  "steps_to_repro": "- Have a notification about your friend (from your connection, like Facebook) joined Discord (Hard to get this step) - Make sure Discord is closed (not running in background) - Tap it and wait for Discord to load - observe"
+ }
+}

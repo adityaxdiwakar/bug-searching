@@ -1,0 +1,36 @@
+{
+ "id": "5a5d02eb4c0521780baec929",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 498,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/d5LytrqU",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.2 & iPad Air 2, iOS 11.2.5 Public Beta 5",
+  "client_settings": "TestFlight 2.2.0 (2121)",
+  "actual_result": "It looks like the title has a clickable link.",
+  "expected_result": "Rich embed title should be white (like Desktop client) and not clickable.",
+  "short_description": "Title for rich embed without link has blue color and is clickable",
+  "steps_to_repro": "- Send/receive a rich embed which has a title without a link - Observe the color from the rich embed's title and that it is clickable"
+ }
+}

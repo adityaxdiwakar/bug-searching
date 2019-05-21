@@ -1,0 +1,22 @@
+{
+ "id": "58f92bc7db652d145af25967",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 518,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6tg23YvY",
+ "data": {
+  "actual_result": "There is a new webhook on the list",
+  "expected_result": "The webhook list remains the same as it was before clicking Create Webhook",
+  "short_description": "Creating a webhook and clicking Cancel leaves it on the list",
+  "steps_to_repro": "- Open the Server Settings on any server - Click Webhooks - Click Create Webhook - Click Cancel "
+ }
+}

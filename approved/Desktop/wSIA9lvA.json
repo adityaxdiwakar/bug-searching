@@ -1,0 +1,15 @@
+{
+ "id": "5840b3135d45f7f50fbd6d72",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 189,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wSIA9lvA",
+ "data": {
+  "actual_result": "Client stucks at \"Connecting\" state and you can't disconnect, switch channels",
+  "expected_result": "You canceled connection",
+  "short_description": "Can't leave from voice after trying to disconnect while \"Connecting\"",
+  "steps_to_repro": "- Join any voice channel - Immediately click \"Disconnect\" button "
+ }
+}

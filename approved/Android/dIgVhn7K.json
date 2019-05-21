@@ -1,0 +1,30 @@
+{
+ "id": "5a99f4703d46ac2e217dd712",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1158,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dIgVhn7K",
+ "data": {
+  "system_settings": "Samsung Galaxy J3, Android 7.0",
+  "client_settings": "Discord Alpha 6.3.0",
+  "actual_result": "The application crashes/freezes up",
+  "expected_result": "Nothing, or Discord chooses what you tapped",
+  "short_description": "Tapping an image too fast crashes app",
+  "steps_to_repro": "- Open the add attachments pop-up - Tap in the box before all the images load"
+ }
+}

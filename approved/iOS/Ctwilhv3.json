@@ -1,0 +1,17 @@
+{
+ "id": "5b74a9c6a9091a5a12621cc6",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 917,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ctwilhv3",
+ "data": {
+  "system_settings": "iPhone 6s - iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.7 (6784)",
+  "actual_result": "No blue line",
+  "expected_result": "A blue line is on top indicating you are in the category",
+  "short_description": "Category indicator (blue line at the top) doesn't appear for server's custom emojis category",
+  "steps_to_repro": "- Open the emote drawer - Tap on the Mystery Box looking icon at the bottom - Observe"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a558f806e5bbaa497f96bb3",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1525,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qOQh1bDL",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 9389/Stable 9394",
+  "actual_result": "The copy button and text are white, making it nearly unreadable",
+  "expected_result": "The word \"copy\" should contrast with the button's background",
+  "short_description": "Copy button in instant invite modal is unreadable",
+  "steps_to_repro": "- Create an instant invite to any channel"
+ }
+}

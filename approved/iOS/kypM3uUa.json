@@ -1,0 +1,24 @@
+{
+ "id": "5c111ff325880b8e188b3966",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1229,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kypM3uUa",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9714)",
+  "actual_result": "Typing indicator appears and then disappears when it shouldn\u2019t",
+  "expected_result": "Typing indicator doesn\u2019t appear then disappear",
+  "short_description": "Tapping the three dots in account in user settings flashes the typing indicatot",
+  "steps_to_repro": "- Navigate to account under user settings - Wait until the typing indicator flashes off - When the typing indicator disappeara, immediately tap the three dots and observe where the typing indicator was"
+ }
+}

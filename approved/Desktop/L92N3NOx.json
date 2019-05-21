@@ -1,0 +1,17 @@
+{
+ "id": "5b4e8f6ba959697f4aedd21a",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2298,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/L92N3NOx",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 18958",
+  "actual_result": "It's more to the left",
+  "expected_result": "It should be aligned with the message box",
+  "short_description": "Kebab menu and add reaction button seems to be more displaced now (18958 specific)",
+  "steps_to_repro": "- Observe the buttons beside the message"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b5883c73850979a2f865014",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1677,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UYOs1Ib1",
+ "data": {
+  "system_settings": "Samsung S5, 6.0.1",
+  "client_settings": "Discord, 7.1.2",
+  "actual_result": "You are able to send a friend request, even if the action bar is overlapped (see attached video)",
+  "expected_result": "You should not be able to send a friend request, becasue the action bar is overlapping the \"send friend request\" button, so that you cannot execute two actions at the same time",
+  "short_description": "When overlapping the mutual server action-bar over the \"send friend request\" button, you will still be able to send a friend request through the overlapped action bar [You may need much time to do it correctly, please note that the overlapped action bar has to be just a bit over the \"friend request\" button]",
+  "steps_to_repro": "-Go to a user that you want to friend-Scroll the action bar ( [User-Details    Mutual Servers   Mutual Friends] ) just a bit over the green \"send friend request\" button (not too much!)-Try to click the \"send friend request\" button on the border of the action bar. Maybe use a pen tool, if you can't do that with your fingers-Scroll the Menu (User-Details, Mutual Servers, Mutual Friends) down to proof, if the friend request has been sent"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b915a14d460d524f7a02b44",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1935,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/D4XYnBZL",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 747",
+  "actual_result": "The image becomes extremely small.",
+  "expected_result": "The image is viewable (or at least something like scrollable).",
+  "short_description": "When you set your font size to the max your device supports and then open the create instant invite screen and switch orientation, the image above the text (\"Share this link with \") becomes extremely small.",
+  "steps_to_repro": "- Set your font size to the max your device supports. - Open the create instant invite screen. - Switch orientation (to landscape). - Observe the image."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b51058883736e248fa8ebc7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1660,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OVp0kzL5",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8; Android 8.0",
+  "client_settings": "Discord Alpha 7.0.8",
+  "actual_result": "the top of the page is blank",
+  "expected_result": "There should be a title near at the top saying \"channels\" then the server name underneath",
+  "short_description": "the channels page within the server settings does not have a header, whereas other server settings do",
+  "steps_to_repro": "- open server settings  - go into the \"channels\" setting - observe the top of the screen"
+ }
+}

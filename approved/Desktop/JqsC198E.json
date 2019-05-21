@@ -1,0 +1,16 @@
+{
+ "id": "5842b7b1b07a53a5f316b64f",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 205,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JqsC198E",
+ "data": {
+  "system_settings": " win10 pro, latest stable build (I do nothing special to my Discord) (reported by Mad Hatter's Tea#8851)",
+  "actual_result": "Permanently see Christmas 2016, even though that is the future!! Very spooky`.",
+  "expected_result": "To see a day like the current day or something in the near past.",
+  "short_description": "Discord is permanently installed on Christmas 2016 in Windows",
+  "steps_to_repro": "- Open Programs and Features in Cortana - Look for Discord near the top. - See Installed on Column that seems to say 12/25/2016 "
+ }
+}

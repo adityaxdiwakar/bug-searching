@@ -1,0 +1,30 @@
+{
+ "id": "5bcc1d77839862480eb482a4",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2210,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lk4CX7Vc",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 778",
+  "actual_result": "Clyde's message becomes lighter as if it's queued which causes you unsent message to go below Clyde's making it inconsistent with desktop.",
+  "expected_result": "Clyde's message shouldn't be queued because it's a user side message and isn't sent by the user themself.",
+  "short_description": "Clyde's message is lighter as compared to other message as if it's a queued message.",
+  "steps_to_repro": "- DM a person who has blocked you or with whom you share no servers. - Observe Clyde's message."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b2d7096044003db3c3ec94c",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2185,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GKDbMK1x",
+ "data": {
+  "system_settings": "Macbook Pro 2017 (13\" - With Touchbar), macOS High Sierra 10.13.4",
+  "client_settings": "Discord Canary Build: 17529",
+  "actual_result": "The usernames show as blue instead of white",
+  "expected_result": "The usernames should show as white",
+  "short_description": "When adding users to DMs the usernames are now shown up as blue",
+  "steps_to_repro": "- Go into any DM - Click 'Add friends to DM' - Select any friend to join - Observe the colour of the name in the preparing for group header and notice that is is blue instead of white"
+ }
+}

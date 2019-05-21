@@ -1,0 +1,24 @@
+{
+ "id": "5aa43b0a555a3d1001aa2ce9",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 628,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/t2hp6Vnx",
+ "data": {
+  "system_settings": "iPhone 6s & iPad Air 2, iOS 11.3 PB 4",
+  "client_settings": "TestFlight 2.2.5 (3054)",
+  "actual_result": "Always the English string is used regardless of your selected language.",
+  "expected_result": "`To:` should be translated to the respective language.",
+  "short_description": "\"To:\" for creating group DM always with English string",
+  "steps_to_repro": "- Switch to any non English language (e.g. German or French) - Go to your direct messages - Click on the group DM icon"
+ }
+}

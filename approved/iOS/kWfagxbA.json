@@ -1,0 +1,30 @@
+{
+ "id": "5a5cca6a29f8adc9fcb6c8fd",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 497,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kWfagxbA",
+ "data": {
+  "system_settings": "iPad Air 2, iOS 11.2.5 Public Beta 5",
+  "client_settings": "TestFlight 2.2.0 (2080)",
+  "actual_result": "The last 2 buttons (Delete message and Report) aren't visible. Only touching them makes it visible.",
+  "expected_result": "All buttons for the message menu should be visible.",
+  "short_description": "[iOS 10+ only] [iPad with 10.5\"/or smaller only] Text of the last two buttons for message interaction disappears after closing keyboard",
+  "steps_to_repro": "- Rotate your iPad to the landscape mode - Make sure you have `Manage Messages` and `Add Reaction` permission (so all buttons appear) - Go to a text channel and send any message - In the same chat: Click on the message field to open the virtual keyboard - Long press on the message you've sent before - Close the virtual keyboard - Observe the last two buttons for the message interaction"
+ }
+}

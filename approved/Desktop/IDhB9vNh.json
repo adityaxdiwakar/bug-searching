@@ -1,0 +1,17 @@
+{
+ "id": "5b7443468aed6a4c052a4a9d",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2713,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IDhB9vNh",
+ "data": {
+  "system_settings": "Windows 10 1803 x64",
+  "client_settings": "Chrome 68.0.3440.106",
+  "actual_result": "User still logs in, skipping the login window, back to HypeSquad page with you still logged in (notice the 'open' button on the top right, not 'login')",
+  "expected_result": "You logged out and the login window with id/password prompt is shown",
+  "short_description": "When you press logout from HypeSquad apply modal, the user doesn't completely logout",
+  "steps_to_repro": "- Open HypeSquad website (make sure you have logged in before opening the page) - Click 'Apply Now', press Logout - observe"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58ecf92f56efb9676e301022",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 340,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/V9jA34cU",
+ "data": {
+  "system_settings": " Android 5.0.1, Latest Alpha",
+  "actual_result": "Instead of sending the message, it creates a new line. (Even with the `shift + enter` setting enabled, still result the same)",
+  "expected_result": "The message will be sent",
+  "short_description": "Can't send messages using enter key with Swiftkey Keyboard",
+  "steps_to_repro": "- Use Swiftkey to send message using enter "
+ }
+}

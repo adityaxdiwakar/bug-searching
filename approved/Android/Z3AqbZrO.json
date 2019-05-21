@@ -1,0 +1,30 @@
+{
+ "id": "5bd152b076f3306d20653595",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2236,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Z3AqbZrO",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0.0",
+  "client_settings": "7.7.9",
+  "actual_result": "Slowmode bar disappears for a bit",
+  "expected_result": "The bar should not disappear , should stay as normal.",
+  "short_description": "Slowmode bar disappears for a little bit",
+  "steps_to_repro": "- Go to a server send a message or you can do it by others (Personally I tested it with Im immune on slowmode) - Select share and copy the link of the message - Delete the message - Paste the link of the message into same channel - Click the link and observe the slowmode bar"
+ }
+}

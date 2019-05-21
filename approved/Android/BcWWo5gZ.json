@@ -1,0 +1,30 @@
+{
+ "id": "5b6d9910531ce84848236db0",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1811,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BcWWo5gZ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.9",
+  "actual_result": "Profile picture is blurry",
+  "expected_result": "Profile picture should be normal quality",
+  "short_description": "Profile picture in the DM call screen is blurry",
+  "steps_to_repro": "- Go to a DM with someone - Start a call - Observe the profile picture on the screen that shows voice call duration etc"
+ }
+}

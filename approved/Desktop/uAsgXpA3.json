@@ -1,0 +1,24 @@
+{
+ "id": "5b719a6b51a4a046d764351b",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2696,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uAsgXpA3",
+ "data": {
+  "system_settings": "iPhone 6, iOS 10.2.1",
+  "client_settings": "Testflight 2.3.6 (6691)",
+  "actual_result": "You scroll the background",
+  "expected_result": "You shouldn't scroll the background",
+  "short_description": "[Web Bug, In-App browser only] When opening the modal to apply to become a verified server you can scroll the background",
+  "steps_to_repro": "- Open https://discordapp(dot)com/verification - Scroll down and click on Apply Now - Scroll"
+ }
+}

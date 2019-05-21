@@ -1,0 +1,30 @@
+{
+ "id": "59fc443f92b3b57376487662",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 865,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NTGtjmxo",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.5.4",
+  "actual_result": "It brutally disconnects you from the call : your recipient will see a frozen image of the video instead of indicating that you left the call",
+  "expected_result": "Since Discord can't access to the camera anymore, it should automatically toggle off the video mode and you will be able to continue the call in voice-only. Alternatively, you should be disconnected but *in a proper way*",
+  "short_description": "[Android 6.0 and newer] Revoking permission from the app to use the camera during a video call will disconnect you brutally from the call instead of switching back to voice-only mode.",
+  "steps_to_repro": "- Start a DM call with another Android device (haven't tested with Android <=> Desktop)  - Enable video mode - While the video call is running, go to your App Manager and revoke permission from Discord to use the camera - Re-open Discord"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b963361bfb80b6aa553040e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1962,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9dSOVVJC",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 748",
+  "actual_result": "The screen isn't scrollable and you cannot see the Wumpus.",
+  "expected_result": "The screen is scrollable and you can scroll down to see the Wumpus.",
+  "short_description": "Switching orientation (to landscape) in the join  sever with invite screen hides the Wumpus.",
+  "steps_to_repro": "- Go to the bottom of your server list and click on add a server button. - Click on join a server with invite link. - Switch orientation (to landscape)."
+ }
+}

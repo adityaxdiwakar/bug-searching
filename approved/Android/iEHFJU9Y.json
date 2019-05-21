@@ -1,0 +1,30 @@
+{
+ "id": "5bc6f19502cce770543312a9",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2187,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iEHFJU9Y",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.7.2",
+  "actual_result": "All sorts of random users are on the list.",
+  "expected_result": "Only the users that has the permission to make changes that gets recorded in audit log, gets listed in \"Filter by User\", like the desktop version.",
+  "short_description": "On audit log, \"Filter by User\" gives you bunch of people who doesn't have the permission to make changes that gets logged in Audit log.",
+  "steps_to_repro": "- Go to audit logs, and select on Filter by User. - Observe the names of the users listed."
+ }
+}

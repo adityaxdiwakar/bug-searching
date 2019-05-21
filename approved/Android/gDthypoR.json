@@ -1,0 +1,16 @@
+{
+ "id": "589a11f1693f854b7a63fa2c",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 214,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gDthypoR",
+ "data": {
+  "system_settings": " OnePlus 3, Android 7.0.0, Discord Alpha",
+  "actual_result": "Transparency is replaced with black color",
+  "expected_result": "Profile picture would be transparent as it should be",
+  "short_description": "Transparent profile pictures are not transparent",
+  "steps_to_repro": "- Change your profile picture with something transparent - Check from user/voice list "
+ }
+}

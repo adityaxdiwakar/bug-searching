@@ -1,0 +1,17 @@
+{
+ "id": "5c0746db7504186070af4bc6",
+ "closed": false,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 1211,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yW8aUf6n",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1",
+  "client_settings": "TF 2.4.0 (9595)",
+  "actual_result": "Don\u2019t get placed in vc",
+  "expected_result": "Should be auto placed in vc after creation of server",
+  "short_description": "Creating server doesn\u2019t auto place you in vc",
+  "steps_to_repro": "- Create a server  - Notice how you don\u2019t eat auto placed in vc"
+ }
+}

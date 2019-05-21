@@ -1,0 +1,30 @@
+{
+ "id": "59a4d0a665050057a02b1e9d",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1062,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/C1K75WOG",
+ "data": {
+  "system_settings": "Windows 10 Creator's Update",
+  "client_settings": "0.0.163",
+  "actual_result": "Notification is received for a pinned message.",
+  "expected_result": "If all DMs are disabled, pins should not be possible, as it's essentially the same as blocking all DMs",
+  "short_description": "User can still pin a message in DMs even if all DMs disabled",
+  "steps_to_repro": "- Have DMs disabled on all shared servers with someone - Have a previous DM with this person (not blocked!) - The other user pins any message."
+ }
+}

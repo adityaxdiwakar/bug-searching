@@ -1,0 +1,17 @@
+{
+ "id": "5b346209ef07621ccfbea114",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 821,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xoK0FqRQ",
+ "data": {
+  "system_settings": "iPhone SE, iOS 11.4",
+  "client_settings": "TestFlight 2.3.4 (5425)",
+  "actual_result": "Full name is shown and is off the selector",
+  "expected_result": "The name should have a cut off",
+  "short_description": "Long member names go off mention selector in the mention drawer",
+  "steps_to_repro": "- Have someone set their name/nick to something really long  - Do @ them and look at the drawer"
+ }
+}

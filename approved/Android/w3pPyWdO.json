@@ -1,0 +1,24 @@
+{
+ "id": "5bf5cdb2dd2f842b9db10cef",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2343,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/w3pPyWdO",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8 running Android 8.0",
+  "client_settings": "Alpha 8.0.0",
+  "actual_result": "the game stops showing as a status after a while despite being detected by the game service",
+  "expected_result": "the game should keep showing as a playing status",
+  "short_description": "detected games stop showing as a status after a short while(3-4) despite being shown in the permanent notification as running",
+  "steps_to_repro": "- start a game and make sure it showing as status and detected by the game detection service - play the game for at least 3 mins - observe your playing status on another device - when the playing status stops showing, notice the game detection service notification and how its still showing the game as detected indicating that discord game service is still running - (ram was monitored throughout the process to make sure discord or it's services were not killed to save ram)"
+ }
+}

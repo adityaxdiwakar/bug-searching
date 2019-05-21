@@ -1,0 +1,24 @@
+{
+ "id": "5988df27082a8d986a92edce",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 944,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RBY1PTtT",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "Avatar lights up green.",
+  "expected_result": "Avatar should not light up green.",
+  "short_description": "Push to talk and Voice activity make your avatar light up even when you're server muted.",
+  "steps_to_repro": "- Go into a Voice channel where you are server muted (AFK Channel) - Press your push to talk button, or if Voice Activity, speak."
+ }
+}

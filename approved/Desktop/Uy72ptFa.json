@@ -1,0 +1,16 @@
+{
+ "id": "588bba79307a6c64003de571",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 356,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Uy72ptFa",
+ "data": {
+  "system_settings": " Win10 Canary latest, Android Alpha latest",
+  "actual_result": "Styling characters escape the backticks",
+  "expected_result": "Backtick escapes the styling characters",
+  "short_description": "Styling backticks with markdown escapes them, breaks code blocks",
+  "steps_to_repro": "- Type in a code block - Use `*` or `_` to style one or both of the backticks (works with multiline too) "
+ }
+}

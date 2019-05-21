@@ -1,0 +1,42 @@
+{
+ "id": "5a133263de61338d484e2f34",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 438,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "5a5e61490661fc1c89f71a0a",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Q1",
+   "color": null
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/n8n5l17y",
+ "data": {
+  "system_settings": "iPhone SE, iOS 11.0.3",
+  "client_settings": "TestFlight 2.0.1 (1610)",
+  "actual_result": "Image loads up. When exiting, Discord crashes.",
+  "expected_result": "Search layer slides up without disturbance.",
+  "short_description": "Tapping an image quickly after tapping search and exiting the viewer causes the app to crash",
+  "steps_to_repro": "- Tap 'Search' (Magnifying Glass Icon) - Quickly tap an image while the search layer is sliding up (This may take a couple of attempts if you have a faster phone) - Exit out of the image and Discord will crash."
+ }
+}

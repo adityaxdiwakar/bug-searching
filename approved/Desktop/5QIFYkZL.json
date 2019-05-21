@@ -1,0 +1,30 @@
+{
+ "id": "59ef9ec0a573baddf386b4c3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1311,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5QIFYkZL",
+ "data": {
+  "system_settings": "ZorinOS 12.2, based off of Ubuntu 16.04.1",
+  "client_settings": "Discord Canary build 6257, desktop app.",
+  "actual_result": "The accented character in the word, or accented character, isn't highlighted.",
+  "expected_result": "The whole word or accented character, depending on what you searched, should be highlighted.",
+  "short_description": "When searching for an accented character, or a word with an accented character, the character won't be highlighted.",
+  "steps_to_repro": "- Click on the search bar - Search for an accented character or a word with an accented character. For example, I used Fehlerj\u00e4ger."
+ }
+}

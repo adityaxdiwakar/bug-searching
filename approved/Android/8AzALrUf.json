@@ -1,0 +1,17 @@
+{
+ "id": "5bb7e16d5eae343a5a8d4785",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2114,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8AzALrUf",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Mini Android 6.0.1",
+  "client_settings": "Alpha 7.6.3",
+  "actual_result": "instead of the name, it sais \"null\"",
+  "expected_result": "it should tell the name of the user u added perms to",
+  "short_description": "[Audit Log] editing channel perms for a user will show the user's name as \"null\" in the expanded entry",
+  "steps_to_repro": "- create a new channel - add a user to channel permissions and give him one perm - save - go to channel permissions of that user again and give him a second perm - save - go to audit logs - expand latest entry"
+ }
+}

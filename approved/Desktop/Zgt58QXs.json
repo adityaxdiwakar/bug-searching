@@ -1,0 +1,30 @@
+{
+ "id": "5b6fda836e98403d8f9e12c7",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2682,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Zgt58QXs",
+ "data": {
+  "system_settings": "Win 10 x64 ; Opera 54",
+  "client_settings": "Web Client",
+  "actual_result": "The Symbol with \"download app\" is not in the same row as the other Server Symbols. This is due to a Symbol being next to it, moving it.",
+  "expected_result": "All Symbols are in one Line",
+  "short_description": "Symbol not in Line",
+  "steps_to_repro": "- Be on the Web Client - Change Language to Chinese (China)"
+ }
+}

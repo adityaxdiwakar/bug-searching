@@ -1,0 +1,17 @@
+{
+ "id": "5b73243600260c450e73ceba",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 909,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1BYclsch",
+ "data": {
+  "system_settings": "iPod Touch 6th generation, iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.6 (6755)",
+  "actual_result": "The channel overlaps another channel and can become completely stuck, to the point you have to exit out of server settings in order to fix it",
+  "expected_result": "The channel reverts back to its original slot",
+  "short_description": "Channel overlaps another channel if you turn your device off while holding the channel (in channel sort)",
+  "steps_to_repro": "- Go to server settings  - Click on channel  - Click sort and select text channels - Now select a channel hold on it and move it down some in the list - While still holding onto the channel hit your device power button"
+ }
+}

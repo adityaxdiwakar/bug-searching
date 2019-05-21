@@ -1,0 +1,30 @@
+{
+ "id": "59f1419d50edf84f60a9226e",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 846,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4BAQdLqb",
+ "data": {
+  "system_settings": "Android 7.0 Moto G4",
+  "client_settings": "Android Alpha 5.4.7",
+  "actual_result": "Nicknames aren't there just um your base username everytime",
+  "expected_result": "The @ mention list should reflect nicknames like it does I'll desktop",
+  "short_description": "@ mention list doesn't reflect your nickname like on desktop",
+  "steps_to_repro": "- Go to a server - Get a nickname or change it - Get someone to ping you - Open the channel list then click the @ at the bottom"
+ }
+}

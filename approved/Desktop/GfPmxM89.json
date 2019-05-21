@@ -1,0 +1,24 @@
+{
+ "id": "598f5c095ff20ad511f0c2c4",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 977,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GfPmxM89",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord Canary Desktop 0.0.163",
+  "actual_result": "There is a warning even if you didn't change anything",
+  "expected_result": "There should be no notification unless you did change things",
+  "short_description": "When you create an NSFW channel and don't accept the warning, go into the channel settings & it'll say you have unsaved change",
+  "steps_to_repro": "- Create an NSFW channel - Don't accept the warning - Go into the nsfw channel settings - you should have a \"Careful, you have unsaved changes!\" warning even though you didn't do anything"
+ }
+}

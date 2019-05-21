@@ -1,0 +1,30 @@
+{
+ "id": "5a822630a384550f211f0e39",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 580,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tKn6iKXk",
+ "data": {
+  "system_settings": "iPhone 6 iOS 10.3.2",
+  "client_settings": "TestFlight Build 2.2.2 (2352)",
+  "actual_result": "It doesn't scroll up. You have to scroll up a bit before you tap on the status bar in order to scroll up",
+  "expected_result": "It should scroll up when you tap on the status bar",
+  "short_description": "[Blocked] Tapping on the iOS status bar to scroll up doesn't work if you're at the bottom of the chat",
+  "steps_to_repro": "- Go right to the bottom of any text channel - Tap on the status bar"
+ }
+}

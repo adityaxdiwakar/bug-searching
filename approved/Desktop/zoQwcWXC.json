@@ -1,0 +1,23 @@
+{
+ "id": "5911d3bdbe1583842fd46049",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 619,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zoQwcWXC",
+ "data": {
+  "system_settings": " W10 x64 Build 1607 AU, Discord Latest Canary",
+  "actual_result": "The creation event has the updated name",
+  "expected_result": "The creation event has the original name",
+  "short_description": "When a channel name is changed shortly after the channel is created, the creation event shows the updated name",
+  "steps_to_repro": "- Create a channel - Look at audit logs, see it says \"<user> created channel #name\" - Rename the channel - Look at audit lots "
+ }
+}

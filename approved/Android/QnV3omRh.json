@@ -1,0 +1,30 @@
+{
+ "id": "5b423752fc26f70cf99e0376",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1635,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QnV3omRh",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.0.5",
+  "actual_result": "Keyboard overlaps the buttons and you cannot click on them unless you close the keyboard first",
+  "expected_result": "Either the modal should lift up enough to show Confirm and Cancel buttons, or you should be able to scroll the modal to reveal them",
+  "short_description": "Keyboard covers the Confirm and Cancel button on ban modal",
+  "steps_to_repro": "- Go to a server with ban member permission - Select a member and Ban - Focus the Reason textfield"
+ }
+}

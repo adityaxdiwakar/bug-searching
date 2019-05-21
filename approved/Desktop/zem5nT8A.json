@@ -1,0 +1,17 @@
+{
+ "id": "5af80cb10d0a2e5e001476b7",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1981,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zem5nT8A",
+ "data": {
+  "system_settings": "Macbook Pro (Mid-2010), macOS Sierra 10.12.6 ~ Samsung Galaxy J7 Prime, Android 7.0 Nougat ~ iPad 3rd Generation, iOS 9.3.2",
+  "client_settings": "Canary 15123, Android Alpha 6.6.8(668), Testflight 2.3.2 (4353)",
+  "actual_result": "They aren't and just shows underscores, the first being in bold",
+  "expected_result": "The underscore markdown are parsed",
+  "short_description": "Markdown characters that are in another markdown's scope aren't resolved (see attached) [Also happens on Android, iOS]",
+  "steps_to_repro": "- Put markdown characters, eg two asterisks - Put text after it - Put other markdown characters, eg two underscores - Put text after it - Repeat this once"
+ }
+}

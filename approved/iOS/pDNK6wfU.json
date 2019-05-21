@@ -1,0 +1,17 @@
+{
+ "id": "5af36733130b3dbf05851899",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 729,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pDNK6wfU",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.4",
+  "client_settings": "TestFlight 2.3.1 (4051)",
+  "actual_result": "Your device crashes when u try to \"select all\" on the special unicode characters",
+  "expected_result": "You should be able to copy and paste the special unicodes without crashing",
+  "short_description": "Selecting a specific username with special unicodes makes your device crash. [iPhone 6/6s/7 plus - iOS 11.4 & iPad Air 2 iOS 11.4/11.3.1 only]",
+  "steps_to_repro": "- Copy and paste this in a channel \ud800\udf02\u24d7\ud800\udf06\u1e46 \u00a2\u0126\u0e04\u03b7\ud835\udd24 - Click on the text till you see \u201ccopy text\u201d - Click on \u201ccopy text\u201d- Paste it in your chat bar- Long press your chat bar till you see \u201cselect all\u201d- Click select all button and observe the crash"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5af8fd6458894de905aa44d9",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 747,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dxmax4G5",
+ "data": {
+  "system_settings": "iPhone 5s ios 11.3.1",
+  "client_settings": "2.3.1",
+  "actual_result": "calendar tab starts flicking with the from: tabs menu, search button doesn't work and the search returns you to the channel you did the search on.",
+  "expected_result": "able to search and copy paste the name tag easily by deleting additional text.",
+  "short_description": "when pasting a long text in the search bar while deleting the text, the menu starts reacting weirdly and unresponsive.",
+  "steps_to_repro": "- Go to bug approval queue, try copy the reporter name tag of xcom bug. - Now paste the whole text in the search bar and start deleting the text to isolate the reporter name. - Pages start acting weirdly and typing anything in search - Observe."
+ }
+}

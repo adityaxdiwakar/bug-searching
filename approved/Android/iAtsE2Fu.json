@@ -1,0 +1,17 @@
+{
+ "id": "59d1bfcd5d682c6cb952d32b",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 773,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/iAtsE2Fu",
+ "data": {
+  "system_settings": "Samsung Galaxy S5, Android 6.0.1",
+  "client_settings": "Discord Alpha 5.2.6",
+  "actual_result": "The disconnect button is gone, and you can't leave the call, until you get moved back. (see screenshot)",
+  "expected_result": "You can disconnect from the voicechannel",
+  "short_description": "You can't leave a call after getting moved to other channel",
+  "steps_to_repro": "- Go into a voicechannel - Get someone to move you into other voicechannel - Try to leave the voicechannel u got moved into"
+ }
+}

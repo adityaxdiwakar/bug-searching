@@ -1,0 +1,17 @@
+{
+ "id": "5c00104ada282153f7a0318a",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2367,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JDgKZg0b",
+ "data": {
+  "system_settings": "Samsung Galaxy J1, Android 5.1",
+  "client_settings": "Discord Alpha 8.0.2",
+  "actual_result": "You see two circles instead",
+  "expected_result": "You can see Wumpus with binoculars",
+  "short_description": "In Add friend tab two circles appear instead of Wumpus with binoculars [maybe Android 5.0/5.1 specific]",
+  "steps_to_repro": "- Open Discord - Open Add friend tab - Observe"
+ }
+}

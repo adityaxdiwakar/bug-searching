@@ -1,0 +1,30 @@
+{
+ "id": "5bc917e961a9d96ce3901ca1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3220,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/L4AlwXp2",
+ "data": {
+  "system_settings": "Windows 8.1",
+  "client_settings": "Desktop Stable build 26538, Desktop Canary build 26538",
+  "actual_result": "Ban Reason: No reason given",
+  "expected_result": "A ban reason should be showing",
+  "short_description": "Cannot view ban reasons on builds later than Sstable 26538",
+  "steps_to_repro": "- Have a ban in a server with a pre-existing ban reason - Update to Stable build 26538 or later - View ban reason again, it will show No reason provided"
+ }
+}

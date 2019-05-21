@@ -1,0 +1,36 @@
+{
+ "id": "5a6dfdc4d6f5872eaad78ff8",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 546,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Z64aRx7F",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.5 & iPad Air 2, iOS 11.3 PB 1",
+  "client_settings": "TestFlight 2.2.1 (2236)",
+  "actual_result": "Friends list is empty.",
+  "expected_result": "Your friends in the friends list should be shown.",
+  "short_description": "Friends list is empty after leaving a server",
+  "steps_to_repro": "- Go to your Direct Messages - Open the friends list - Now join any server/or open any existing one - Leave this server"
+ }
+}

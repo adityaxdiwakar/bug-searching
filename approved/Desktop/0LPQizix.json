@@ -1,0 +1,17 @@
+{
+ "id": "5a3073c911dc3586e726fca7",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1446,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0LPQizix",
+ "data": {
+  "system_settings": "Windows 10 x64 ",
+  "client_settings": "Discord Canary, Build: 8464",
+  "actual_result": "Work as \"during\"",
+  "expected_result": "Work as \"in\"",
+  "short_description": "In search, with your Discord in PT-BR, if you select \"in\" (\"em\", in portuguese) it's going to work like \"during\" (\"durante\", in portuguese)",
+  "steps_to_repro": "- Change your Discord to Brazilian Portuguese - Go to search and select \"em\" -"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a188ec7b1f71f6b1f206b47",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 924,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7Ne1oWYU",
+ "data": {
+  "system_settings": "LG X Power, Android 6.0.1.",
+  "client_settings": "Android Alpha v5.7.5",
+  "actual_result": "The lines appear Blank",
+  "expected_result": "The lines should usually have a bar that shows the sensitivity",
+  "short_description": "Two Lines appearing when Push to Talk or Automatically Detect Input Sensitivity are enabled",
+  "steps_to_repro": "- Go to user Settings > voice and video - Be sure Either PTT (push to talk) or Input Sensitivity are enabled - Observe the lines and have fun"
+ }
+}

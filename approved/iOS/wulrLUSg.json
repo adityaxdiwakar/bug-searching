@@ -1,0 +1,30 @@
+{
+ "id": "5aea0a34897858ea055611a1",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 715,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wulrLUSg",
+ "data": {
+  "system_settings": "iPad Mini 2, iOS 11.2.6",
+  "client_settings": "TestFlight 2.3.1 (4051)",
+  "actual_result": "A notification appears and the welcome message is in English",
+  "expected_result": "A notification appears and the welcome message is in the language set in Discord, as it appears in the app",
+  "short_description": "Welcome messages use English in notifications, not the language set in Discord",
+  "steps_to_repro": "- Change your Discord language to something other than English - Enable welcome messages on a server - Make sure mobile push notifications are enabled on that server - Close the discord app and have someone join the server"
+ }
+}

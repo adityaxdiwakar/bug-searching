@@ -1,0 +1,30 @@
+{
+ "id": "5bf26fd6408b4e57f9a58f28",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3408,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fOPymsZ4",
+ "data": {
+  "system_settings": "Windows 10 Home",
+  "client_settings": "Canary, Build Number: 28197, Version Hash: e81207e8005dd9e0f9d12924053d92c315798e49",
+  "actual_result": "The last letter I'd type has been type one more",
+  "expected_result": "Last letter shoundn't be typed double",
+  "short_description": "When I mention someone , channel, role, if the last letter have been typed one more.",
+  "steps_to_repro": "- then search something(last letter should be Korean) - when you find something you want, type ENTER. - the last letter will go back and it will be type double p.s. It would be hard to understand my English Skill is bad"
+ }
+}

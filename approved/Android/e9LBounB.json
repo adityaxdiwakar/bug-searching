@@ -1,0 +1,30 @@
+{
+ "id": "5b908c3660584e07ea7eb589",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1932,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/e9LBounB",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 9.0",
+  "client_settings": "Discord Alpha 7.4.6",
+  "actual_result": "It doesn't show any suggestions",
+  "expected_result": "It should show suggestions for channels starting with \"andr\"",
+  "short_description": "Using capital letters in channel names while searching with the \"in:\" filter doesn't work",
+  "steps_to_repro": "- Click the search button - Start typing \"in:[channel name]\" but use a capital letter instead (for example \"in:andR\" in DTesters)"
+ }
+}

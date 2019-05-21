@@ -1,0 +1,30 @@
+{
+ "id": "5937a926d20385e26034d8b3",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 726,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yERnzfOd",
+ "data": {
+  "system_settings": "Windows 10 x64 Creators Update",
+  "client_settings": "Discord Web App Stable on  Chrome 59 (Stable)",
+  "actual_result": "Wumpus ? photo looks distorted",
+  "expected_result": "Wumpus ? photo should look normal",
+  "short_description": "Some pictures don't show up correctly on Chrome 59 (Discord Webapp)",
+  "steps_to_repro": "- Go to <discordapp.com> and use the webapp but make sure you are on Chrome 59 (newest update) - Go to a person in your friends list or a server that has no mutual friends and view their profile - go to mutual friends and wumpus picture will be messed up"
+ }
+}

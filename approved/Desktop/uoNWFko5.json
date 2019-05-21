@@ -1,0 +1,15 @@
+{
+ "id": "583227a1020a5a1b25702658",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 165,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/uoNWFko5",
+ "data": {
+  "actual_result": "Sometimes its not shows up ( reported for - The_CJ -#1409 )",
+  "expected_result": "Channel Popup appears in the middle of the screen",
+  "short_description": "Randomly can't click on channel topics to get a popup",
+  "steps_to_repro": "- Click on a channels topic - Have (bad)luck - Retry until you got it "
+ }
+}

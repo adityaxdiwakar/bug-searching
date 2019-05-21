@@ -1,0 +1,23 @@
+{
+ "id": "58c224c6263e5059eb6b4b96",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 409,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/o3P74OqT",
+ "data": {
+  "system_settings": " Win 10 x64 Home, Discord Canary.",
+  "actual_result": "Client does not display full message content.",
+  "expected_result": "Client should display full message content.",
+  "short_description": "Messages with too many mentions do not fully display.",
+  "steps_to_repro": "- Update to latest Canary and/or refresh latest Canary client. - Send a message with \"too many\" mentions. "
+ }
+}

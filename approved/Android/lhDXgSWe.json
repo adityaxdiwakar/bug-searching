@@ -1,0 +1,30 @@
+{
+ "id": "5adb5fa7813c69fa335227d2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1304,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lhDXgSWe",
+ "data": {
+  "system_settings": "K20 V, Android 7.0",
+  "client_settings": "Discord alpha 6.5.5",
+  "actual_result": "the black box is higher than expected and it looks like the text is kinda bigger",
+  "expected_result": "the black box should be the same as if you just put one tick around the text",
+  "short_description": "putting text in to a triple code block (three ticks) then editing into a one code block(one tick), the black bar surrounding the text is taller than it's supposed to be",
+  "steps_to_repro": "- put text around a triple code block (I used test #1)- edit the message to where it has only one tick on each side- observe closely (best if you compare it to a message that is surrounded by one tick without it being edited, I used Test #2)"
+ }
+}

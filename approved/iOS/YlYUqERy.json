@@ -1,0 +1,30 @@
+{
+ "id": "5aeb622b1e120932607f9b00",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 716,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YlYUqERy",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.3.1 & iPad Air 2, iOS 11.4 PB 3",
+  "client_settings": "TestFlight 2.3.1 (4051)",
+  "actual_result": "There is no background color. For light theme the text is even not viewable.",
+  "expected_result": "The code block in the message preview for these modals should show the background color for code blocks.",
+  "short_description": "Code block has no background color for pin/delete message modal",
+  "steps_to_repro": "- Go to any text channel and write a message with a code block (1 or 3 backticks) - Long hold the message and select either \"Delete Message\" or \"Pin message\" - Observe the message preview there"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b7df4f79472ca4fd5b95e90",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1867,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ywczrMLe",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 9.0",
+  "client_settings": "Discord Alpha 7.3.9",
+  "actual_result": "The emojis show switch between the emoji and the code",
+  "expected_result": "The emojis should be consistent, showing either only the codes or only the emojis themselves",
+  "short_description": "Chained emoji formatting messes up when editing message",
+  "steps_to_repro": "- Write a message with multiple chained emojis (i.e. `:eyes::eyes::eyes::eyes`) - Edit the message you just sent"
+ }
+}

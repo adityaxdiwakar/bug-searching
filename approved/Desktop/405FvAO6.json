@@ -1,0 +1,30 @@
+{
+ "id": "5ae429986c421ce426b76d9d",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1898,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/405FvAO6",
+ "data": {
+  "system_settings": "Win 10 x64 1804 17134.1",
+  "client_settings": "Discord Canary, 14281 Version Hash:547ce5f5f37e4e484c12e325c4d113619acf0d2c",
+  "actual_result": "The window doesnt fully maxmize and should show a white line and some transpartency.",
+  "expected_result": "You get a fully maxmized window",
+  "short_description": "Window doesn't fully maxmize. (Windows 1803 Only)",
+  "steps_to_repro": "- Have discord fully maxmized. - Drag the window out of maximixed. - (May have to do it 2 times) Drag the window back to maxmized. -"
+ }
+}

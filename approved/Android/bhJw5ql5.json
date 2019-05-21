@@ -1,0 +1,30 @@
+{
+ "id": "5a6eb79902f18c352f8172ed",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1081,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bhJw5ql5",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 6.1.9",
+  "actual_result": "Catagory Name is no longer displayed and Channel name is going offscreen",
+  "expected_result": "Channel Name and server name should be playing a animation due to how long it is",
+  "short_description": "Channel name overflows & Catagory Name is no longer on screen in quick switcher",
+  "steps_to_repro": "- have a very long Channel Name, Catagory Name, and Server Name - have the long Channel in the long catagory - open the quick switch and look up \"#LongChannelName\" - observe"
+ }
+}

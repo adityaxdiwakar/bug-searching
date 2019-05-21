@@ -1,0 +1,30 @@
+{
+ "id": "5b13c9a36d6436188b71a22b",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1489,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8F3huTHG",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.7",
+  "actual_result": "Some of the servers you previously visited will have their custom emojis disapear from your emoji picker, and you cannot use them, even when typed out, until app is restarted",
+  "expected_result": "Custom emojis for all servers should always be available",
+  "short_description": "Leaving a server causes the emojis of other servers you visited previously to disappear",
+  "steps_to_repro": "- Be part of 4 servers (let's say A, B, C, D) with custom emojis added. You can test with much more than 4 servers, it may increase your success rate - Boot up the app - Switch to server A - Open your emoji picker to ensure emojis from server A are correctly loaded - Do the same for servers B and C  - Now switch to server D - Leave the server D - Return to servers A, B and C and check the emoji picker for each of them - If you cannot reproduce, try again after clearing your app data or uninstall/reinstall Discord and login back. The cache may cause inconsistencies."
+ }
+}

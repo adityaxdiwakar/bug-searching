@@ -1,0 +1,24 @@
+{
+ "id": "5bbbe11bd9865114d9a7a196",
+ "closed": false,
+ "idList": "5b8f0f514d1c9f822e4a8622",
+ "idShort": 1074,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JUTeABlI",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8085)",
+  "actual_result": "You don't have the option to move yourself to other voice channels",
+  "expected_result": "You should have the option to move yourself to other voice channels",
+  "short_description": "Unable to move yourself to a different voice channel from the mini profile",
+  "steps_to_repro": "- Go to a server where you have the \"Move Members\" permission - Join a voice channel - Tap on the three dots by your name to open the mini profile - Observe the lack of a \"Move to\" option"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b07b28fe394fab01c6de718",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1466,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/C9G2IILy",
+ "data": {
+  "system_settings": "Huawei P8Lite 2016, Emui v3.1.1 \u2022 Android 5.1",
+  "client_settings": "Alpha 6.8.0",
+  "actual_result": "Sometimes, the screen 'shake' a bit, or someting, it's complicated to explain, but it doesn't have a normal behavior.",
+  "expected_result": "We can scroll with no problems.",
+  "short_description": "Scroll with inertia in a profile make sometimes strange things to the screen.",
+  "steps_to_repro": "- Go to the profile of someone. - Scroll down with inertia."
+ }
+}

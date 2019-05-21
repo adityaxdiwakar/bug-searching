@@ -1,0 +1,17 @@
+{
+ "id": "5aeb3f768449ed04ba3f0474",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1362,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YxLCMkAG",
+ "data": {
+  "system_settings": "Samsung Galaxy A3 2017; Android 7.0.",
+  "client_settings": "Android; Stable; 6.5.6 (656)",
+  "actual_result": "The new member message is actually shown in your Phone's Language instead of Discord's",
+  "expected_result": "The new member message should be shown in yours Discord's Language",
+  "short_description": "Discord Mobile Notifications showing join messages on phone's language",
+  "steps_to_repro": "- Set your phone's language to something else than your Discord's Language - Have mobile push notifications and a Discord Default \"New Member Messages\" channel on - Have someone to join it - Look at your Phone's notifications, you can see that it's in the Phone's instead of Discord's Language"
+ }
+}

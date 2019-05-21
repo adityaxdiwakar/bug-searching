@@ -1,0 +1,30 @@
+{
+ "id": "5b130f610f12dd9c78c624f7",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 778,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CIXakmSD",
+ "data": {
+  "system_settings": "iPhone 6s, iPad Air 2 - iOS 11.4",
+  "client_settings": "Stable 2.3.3",
+  "actual_result": "It stays and only disappears after manually removing/clicking on it or when a new notification with a badge arrives.",
+  "expected_result": "Push notification should disappear automatically.",
+  "short_description": "Push notifications don't disappear automatically for servers with notifications for all messages",
+  "steps_to_repro": "- Open any server and go to the notification settings - Set the notification settings to all messages - Close out of Discord - Go to another account and send a message in this server - Go back to your first account and open Discord again (not via the push notification!) - Go to the channel which caused the push notification and mark it as read (also works with a second device or the desktop app)"
+ }
+}

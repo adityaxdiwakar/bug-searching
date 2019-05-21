@@ -1,0 +1,30 @@
+{
+ "id": "5b296bf4c2428b3c48da74cf",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1565,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Pi5J9i8N",
+ "data": {
+  "system_settings": "Android 6.0.1 (LineageOS 13.0), Alcatel Idol 3 4.7",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "Padding was used instead to \"center\" title",
+  "expected_result": "Title is centered",
+  "short_description": "Title wrongly centered in Connect your Accounts select",
+  "steps_to_repro": "- Switch to Russian Language (to see what's really wrong) - Go to User Settings \u2192 Connections - Click Add - Slightly scroll to top to display title"
+ }
+}

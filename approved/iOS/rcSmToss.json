@@ -1,0 +1,24 @@
+{
+ "id": "5b6cebc726738f861e0bf1b6",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 887,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rcSmToss",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 6",
+  "client_settings": "TestFlight 2.3.6 (6691)",
+  "actual_result": "Code block has a thin line at the bottom (note the bottom of the left arrow in the picture)",
+  "expected_result": "Code block has no line",
+  "short_description": "Code blocks have a very thin line at the bottom",
+  "steps_to_repro": "- Send a message with a code block - Observe the code block"
+ }
+}

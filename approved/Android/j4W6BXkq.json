@@ -1,0 +1,30 @@
+{
+ "id": "5aaa45550243caaef71c5c6f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1202,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/j4W6BXkq",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.3.7",
+  "actual_result": "Clicking on it takes us to the default (top) channel",
+  "expected_result": "It shouldn't be highlighted in the first place as on desktop. Clicking on it should do nothing.",
+  "short_description": "Clicking on a mentioned category in chat jumps to the default channel",
+  "steps_to_repro": "- Long press on a category name - Copy the ID - Mention the category in chat using it's ID (<#ID>) - Click on the highlighted category"
+ }
+}

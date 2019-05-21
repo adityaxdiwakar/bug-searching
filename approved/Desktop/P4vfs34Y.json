@@ -1,0 +1,30 @@
+{
+ "id": "5a051b2fb3b974acef462f5d",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1363,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/P4vfs34Y",
+ "data": {
+  "system_settings": "Win10 Pro, Version 1703, 64 bit, x64",
+  "client_settings": "Release Channel: canary, Build Number: 7094,",
+  "actual_result": "It is not copied AT ALL, it pastes what you had before on clipboard",
+  "expected_result": "It should copy",
+  "short_description": "Bold Copy Fails",
+  "steps_to_repro": "- Step 1: Find message with bold text - Step 2: Copy ONLY the bolded text and paste"
+ }
+}

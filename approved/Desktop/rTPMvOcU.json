@@ -1,0 +1,30 @@
+{
+ "id": "5bca35b5b0b9844848a9f72d",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3232,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rTPMvOcU",
+ "data": {
+  "system_settings": "Windows 10 x64, version 1809",
+  "client_settings": "Discord Canary 26581",
+  "actual_result": "The message is pasted, and after it some of the beginning of the marked message is appended.",
+  "expected_result": "The entirety of the marked and copied message should be pasted",
+  "short_description": "Copying text in a certain way lead to extra text being copied",
+  "steps_to_repro": "- Hold left click after a message someone has sent - Mark the entire message by dragging your mouse upwards, to the vertical height of the timestamp - Release left click - Press ctrl+c - Mark the chat box and press ctrl+v"
+ }
+}

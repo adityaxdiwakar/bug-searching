@@ -1,0 +1,30 @@
+{
+ "id": "5ab43bc94201cc1943b4105f",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 640,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uxaOIDDO",
+ "data": {
+  "system_settings": "iPhone 6s Plus, iOS 11.2.6",
+  "client_settings": "TestFlight 2.2.6 (3385)",
+  "actual_result": "text appears bolded, unable to click",
+  "expected_result": "user should be able to click",
+  "short_description": "When using the format of [Appear text](link), having the \u201cAppear Text\u201d bolded will not work.",
+  "steps_to_repro": "- have a webhook sent a non-embed with the [**Text**]() form, so you (should) have the ability to click it - try clicking the bold text (hyperlink)"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "5823c1b5fc06c580b7134635",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 125,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nJnDwa8M",
+ "data": {
+  "actual_result": "Doesnt show full image.",
+  "expected_result": "Shows full image.",
+  "short_description": "Image sometimes gets cut off at certain image res.",
+  "steps_to_repro": "- Upload image 1024 x 1024 - View image in chat "
+ }
+}

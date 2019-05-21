@@ -1,0 +1,30 @@
+{
+ "id": "5b22445759e2afb67748a392",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1536,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tIee0I8C",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.1",
+  "actual_result": "\"Crap, we dropped the manifying glass. Uh... can you try searching again?\" coming with a 400 error in debug log. Notice that the request parameters has `author_id=null`, which seems unintended",
+  "expected_result": "As on Desktop, it should threat the invalid tag as the content of the search and the \"from:\" is ignored",
+  "short_description": "Using the \"from:\" search filter on a user who isn't cached will break the search engine with a 400 error",
+  "steps_to_repro": "- Go to any server and tap Search - Input `from:` - Input the Discord tag of an uncached user. If you're not sure of which user to pick, you can also input the tag of a user who isn't in the server"
+ }
+}

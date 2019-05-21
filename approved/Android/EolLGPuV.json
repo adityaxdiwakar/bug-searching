@@ -1,0 +1,30 @@
+{
+ "id": "5b94e50b4274525994dbab3d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1950,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EolLGPuV",
+ "data": {
+  "system_settings": "Coolpad Mega 3, 6.0",
+  "client_settings": "Discord Alpha 748",
+  "actual_result": "The stopped position of the Wumpus is different from the initial position (binoculars below the eyes and and eyes almost closed).",
+  "expected_result": "The position of the Wumpus is same as the initial position (the binoculars on the Wumpus' eyes).",
+  "short_description": "When you cancel the search in nearby friends the stopped position of the Wumpus is different from the original position of the Wumpus.",
+  "steps_to_repro": "- Start the nearby friends search. - Stop the search."
+ }
+}

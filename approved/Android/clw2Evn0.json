@@ -1,0 +1,30 @@
+{
+ "id": "5ae6d54db8a4b2ac4026ba6f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1345,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/clw2Evn0",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.5.9",
+  "actual_result": "You only see notification ping while in \"friends\" tab and not while you're in DM or server.",
+  "expected_result": "You should be able to see ping from server or dm",
+  "short_description": "No notification ping of friend request while on server or dm",
+  "steps_to_repro": "- Get yourself a friend request - Stay in any server or dm"
+ }
+}

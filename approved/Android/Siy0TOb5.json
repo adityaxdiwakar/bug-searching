@@ -1,0 +1,16 @@
+{
+ "id": "5915c5361cb3a966b58e4c1b",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 449,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Siy0TOb5",
+ "data": {
+  "system_settings": " android N",
+  "actual_result": "incorrect amount Client Settings: android alpha 3.8.3 (381)",
+  "expected_result": "correct amount",
+  "short_description": "Reactions are often not true representations of their amount when in high amounts",
+  "steps_to_repro": "- fresh restart app - Go to a channel with large amounts of reactions (i suggests activity check in blobs) - Compare  "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b6d58a26dd58b539baffdd8",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2656,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bXWtwZwq",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, 21425",
+  "actual_result": "You can still type",
+  "expected_result": "It's fine and doesn't happen at all",
+  "short_description": "When you go to server settings and go to audit log you can still type to people in a text channel",
+  "steps_to_repro": "- Open Discord On Browser - Go to a server and click server settings then audit log - You can type - Come out of audit log and see the text you typed"
+ }
+}

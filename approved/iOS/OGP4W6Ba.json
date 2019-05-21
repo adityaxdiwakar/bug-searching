@@ -1,0 +1,24 @@
+{
+ "id": "5bb65a137b3d5b3fdfca8e26",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1052,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OGP4W6Ba",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12",
+  "client_settings": "Testflight 2.3.9 (7858)",
+  "actual_result": "It will not delete",
+  "expected_result": "You should be able to delete it like desktop",
+  "short_description": "You are unable to delete Clyde's message",
+  "steps_to_repro": "- Trigger a warning by clyde, like trying to use an emote without nitro - Hold down Clyde's message and try to delete it"
+ }
+}

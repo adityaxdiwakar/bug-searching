@@ -1,0 +1,17 @@
+{
+ "id": "5b6173d289834d4917090a76",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2569,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sxsyGWqE",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit 1803 April Update Build 17134.191",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 20433, Version Hash: 33a41df668e13192dbcefe96e0d4bfddfa133a5d",
+  "actual_result": "The Green Dot never shows up",
+  "expected_result": "The PTT Priority Green Dot should appear",
+  "short_description": "[Priority PTT] Collapsing the Voice Channel list with the Voice Channel you're in hides the Green Dot",
+  "steps_to_repro": "- Enable the Priority PTT features - Jump in a Voice Channel -Switch yourself to PTT - get someone else or a Music Bot into the Channel - Collapse the Channel List with that Voice Channel - Trigger PTT Priority"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b6209f365b76426eca557fc",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2575,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aj1lFg3h",
+ "data": {
+  "system_settings": "Win 7 x64",
+  "client_settings": "Canary 20433",
+  "actual_result": "It cutted by half and cannot be used",
+  "expected_result": "It can be used normaly",
+  "short_description": "Whole app setings menu is unusable in 200% zoom [4:3 5:4 specific]",
+  "steps_to_repro": "- Enable 200% zoom - Go to Settings > App settings -Observe,  for example  just cannot disable zoom without exiting fullscreen using slider"
+ }
+}

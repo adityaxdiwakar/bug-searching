@@ -1,0 +1,17 @@
+{
+ "id": "5b36fdd50fea2f086dc1c5d2",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1626,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/68h3IuSA",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Edge, Android 8.0",
+  "client_settings": "Discord Alpha 7.0.2",
+  "actual_result": "It displays 2 faint lines.",
+  "expected_result": "Only 1 line displays under \"Category Name\".",
+  "short_description": "One extra faint line under \"Category Name\"",
+  "steps_to_repro": "-   Long press a category - Click \"Edit Category\" - Observe"
+ }
+}

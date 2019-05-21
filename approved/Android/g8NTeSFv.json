@@ -1,0 +1,30 @@
+{
+ "id": "5b2b2e0d655dd1c4b9c9c328",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1571,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/g8NTeSFv",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.6",
+  "actual_result": "It jumps you to created channel while QS is still open",
+  "expected_result": "Either Quick Switcher should close after jumping to created channel, or it should keep the QS open without jumping to channel",
+  "short_description": "When creating a channel by long pressing a server in Quick Switcher, it will make you jump to the newly created channel without closing Quick Switcher",
+  "steps_to_repro": "- Open Quick Switcher - In the horizontal server list at the top, long press a server where you have perms to create channels - Create a new channel"
+ }
+}

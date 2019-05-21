@@ -1,0 +1,17 @@
+{
+ "id": "5ae9e81a3488c37438ef235a",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1922,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/6ujsl7DS",
+ "data": {
+  "system_settings": "macOS 10.13.4",
+  "client_settings": "Discord stable 0.0.251 (0.0.251)",
+  "actual_result": "nothing happens except that the edit icon in the bar blinks",
+  "expected_result": "it pastes int the text field",
+  "short_description": "can't paste text copied from MS Word",
+  "steps_to_repro": "- Copy any text from MS Word - Paste text from MS Word into text field in text channel"
+ }
+}

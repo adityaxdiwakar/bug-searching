@@ -1,0 +1,17 @@
+{
+ "id": "5927ca84a2445fe95156f0e2",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 482,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9YpJDNOm",
+ "data": {
+  "system_settings": "Android 7.1.2, Xiaomi Redmi Note 3 Pro",
+  "client_settings": "Discord 3.8.8",
+  "actual_result": "The messages look like they were sent by the same webhook with the same name.",
+  "expected_result": "While the URL is the same, the messages should look separate",
+  "short_description": "A webhook with 2 different names show the messages merged",
+  "steps_to_repro": "- Send a webhook message with a name - Send another message on the same webhook, but with different names"
+ }
+}

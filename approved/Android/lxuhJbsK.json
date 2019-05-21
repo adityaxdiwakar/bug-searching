@@ -1,0 +1,30 @@
+{
+ "id": "5bca904b23400a4d3c56296b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2202,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lxuhJbsK",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 771",
+  "actual_result": "The bottom most message isn't the first message that contains the search query. When you click on it and scroll up, you'll find more messages that fit your search query but aren't listed in the search results.",
+  "expected_result": "The bottom-most message is the first message that contains the search query.",
+  "short_description": "The search does not show all results when you have too many of them [Probably Android 5.x specific].",
+  "steps_to_repro": "- Search something that gives 150+ results. - Scroll all the way to the bottom."
+ }
+}

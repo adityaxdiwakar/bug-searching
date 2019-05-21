@@ -1,0 +1,24 @@
+{
+ "id": "5970d9843fcbea51d7e2e5b3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 870,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8Iu9QF4r",
+ "data": {
+  "system_settings": "Samsung Galaxy S8+ 7.0 Nougat, Windows 10 x64 bit.",
+  "client_settings": "Android Alpha 3.9.9 (398), Canary 0.0.161",
+  "actual_result": "The default role colors appear to be different instead of remaining the same.",
+  "expected_result": "The role colors will remain constant between both platforms",
+  "short_description": "The default role colors on PC are different than the default role colors for Android.",
+  "steps_to_repro": "- On Android Alpha v.3.9.9 (398), choose a color (in this case I used one of the darker colors - View the role color on Canary - Compare results"
+ }
+}

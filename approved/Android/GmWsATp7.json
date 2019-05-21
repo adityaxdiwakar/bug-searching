@@ -1,0 +1,24 @@
+{
+ "id": "59baff75439aa1e20799b143",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 711,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GmWsATp7",
+ "data": {
+  "system_settings": "Moto G4 Android 7.0",
+  "client_settings": "Alpha 5.1.5",
+  "actual_result": "It's not there",
+  "expected_result": "Leave Server option should show",
+  "short_description": "Leave Server option doesn't show",
+  "steps_to_repro": "- Join a server or have a friend make a server and join it - Click the three dots (overflow icon)"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "5870815ff72359d9c3fde9d2",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 315,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9ar5LtAS",
+ "data": {
+  "actual_result": "The search only finds the server specific emotes (Server Specific emote: <http://i.imgur.com/QH8K5L2.png> / Normal emote: <http://i.imgur.com/gzvdVPA.png>)",
+  "expected_result": "Search finds both emotes, no problemo",
+  "short_description": "Search only finds server emotes, not normal emotes",
+  "steps_to_repro": "- Search for an server specific emote and after it, a normal emote - Look at the results  "
+ }
+}

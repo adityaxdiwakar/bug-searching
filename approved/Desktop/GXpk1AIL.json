@@ -1,0 +1,15 @@
+{
+ "id": "586582e850395c13583534bb",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 298,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/GXpk1AIL",
+ "data": {
+  "actual_result": "The first message fails to send at all. It's removed from the chatbox, and the session continues as if you'd sent no message at all. The second message appears to delete the message you've just posted.",
+  "expected_result": "Both messages are posted normally. People are amused by your regex joke.",
+  "short_description": "Certain messages seem to have weird behaviours when sent.",
+  "steps_to_repro": "- Step 1: Type the message `s/(town/city)/country` - Step 2: Type the message `s/reg/ex`  "
+ }
+}

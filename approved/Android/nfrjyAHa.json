@@ -1,0 +1,17 @@
+{
+ "id": "599af4e154afbd6a989e8689",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 635,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nfrjyAHa",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, Android 6.0.1",
+  "client_settings": "Discord Alpha 4.0.7",
+  "actual_result": "Discord will stop working/freeze when you tap on two people at the same time.",
+  "expected_result": "You should be able to invite both of those people, and Discord works fine after.",
+  "short_description": "When inviting people to a Group DM, if you tap on two people at the same time, Discord will just stop working.",
+  "steps_to_repro": "- Go to the \"Invite People\" for the Group DM - When inviting tap on two people at the same time - Discord will stop working."
+ }
+}

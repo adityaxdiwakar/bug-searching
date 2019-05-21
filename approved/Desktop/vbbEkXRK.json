@@ -1,0 +1,17 @@
+{
+ "id": "5b6d8e99ea24461ce7c0bfb2",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2660,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vbbEkXRK",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 21569",
+  "actual_result": "Nothing happens when the form is submitted, Discord crashes when the form is closed",
+  "expected_result": "On submission, an error is shown saying the CVC is invalid, and when closed, the form closes normally.",
+  "short_description": "Discord crashes on invalid credit card CVC when adding a new payment method",
+  "steps_to_repro": "- Navigate to the Billing tab in the settings - Press 'add payment method' - Select 'Credit Card' - Fill in a valid card number, expiration and name, but an invalid CVC - Fill in the country, address, city, state and postal code - Submit the form - Try to close it - Observe"
+ }
+}

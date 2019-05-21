@@ -1,0 +1,23 @@
+{
+ "id": "58f5fe5480901b4ec0f37eae",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 500,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HOh0CYM0",
+ "data": {
+  "system_settings": " Win 10, Lastest canary",
+  "actual_result": "The drag and drop animation is shown, but the upload image screen isnt shown",
+  "expected_result": "Image is loaded and ready to be uploaded",
+  "short_description": "Uploading an image direct from Chrome's browser download bar",
+  "steps_to_repro": "- Open Chrome (not sure if its reproducable on other browsers) - Google search any image, then download it by right clicking on it and pressing save image - Once the image is downloaded, drag and drop it to Discord from the downloaded items bar at the bottom of chrome "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a95c2aed2748b10ac973dbf",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 613,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0gAgELz3",
+ "data": {
+  "system_settings": "iPhone 6s & iPad Air 2, iOS 11.3 PB 3",
+  "client_settings": "TestFlight 2.2.5 (2798)",
+  "actual_result": "They are not vertically centered anymore.",
+  "expected_result": "The roles should be centered.",
+  "short_description": "Roles in member overview in server settings are not centered anymore",
+  "steps_to_repro": "- Open any server where you have permission to view server settings - Go to the server settings - Open `Members` - Search for any user with a role - Observe the role"
+ }
+}

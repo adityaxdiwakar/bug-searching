@@ -1,0 +1,17 @@
+{
+ "id": "5bff0e01ce74358b3326166f",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1179,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NlvMt4DY",
+ "data": {
+  "system_settings": "iPad Air 1, iOS 12.1",
+  "client_settings": "Testflight 2.4.0 (9349)",
+  "actual_result": "There is no in-app notification",
+  "expected_result": "There should be an in-app notification",
+  "short_description": "[iPad Specific] In-app notifications do not work in landscape mode",
+  "steps_to_repro": "- Go into landscape mode - Receive a DM or mention"
+ }
+}

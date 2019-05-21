@@ -1,0 +1,24 @@
+{
+ "id": "59b872fa51d207f46fd73098",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1118,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3LBh3as2",
+ "data": {
+  "system_settings": "Windows 10 Home (Version 1703)",
+  "client_settings": "Discord Canary 4120 0.0.163",
+  "actual_result": "It half hides behind the white menu.",
+  "expected_result": "It should scale along with the white panel instead of going behind it.",
+  "short_description": "Resizing Discord to it's minimum height while having the help menu open will cause the search bar in the help menu to hide behind the white panel.",
+  "steps_to_repro": "- Fullscreen discord - Open the help menu - Resize Discord to it's minimum height and see how the search bar is half hidden behind the other UI elements."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5babd9ef5af2d85c7080448e",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2044,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4NLytJTh",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 755",
+  "actual_result": "The order is different.",
+  "expected_result": "The order is the same.",
+  "short_description": "The permissions' order is not the same for a created on Android and on desktop.",
+  "steps_to_repro": "- Create a new role. - Open Audit log and click on the message that says a new role was created. - Compare the order on desktop and Android."
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "5813b713d14a8d035277997a",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 55,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bi8kYcik",
+ "data": {
+  "actual_result": "Nothing happens. iOS 10.1 iPhone SE",
+  "expected_result": "Should get a cooldown message like on desktop.",
+  "short_description": "Spam doesn't have a cooldown",
+  "steps_to_repro": "- Spam a channel. "
+ }
+}

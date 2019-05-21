@@ -1,0 +1,16 @@
+{
+ "id": "58eeec9a089e6ebdb9963668",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 359,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zt9YPUgy",
+ "data": {
+  "system_settings": " Android 6.0 3.6.3",
+  "actual_result": "Server isn't chosen and users seen are the ones you DMed before.",
+  "expected_result": "Server is chosen upon joining and user list loads normally",
+  "short_description": "Joining a server doesn't load user list properly",
+  "steps_to_repro": "- Join a server preferably with some users - Server isn't chosen and user list isn't fully loaded. - Clicking on server icon loads the user list properly "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bc5e6b873461a6a673fcee2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2182,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OC5Co1oS",
+ "data": {
+  "system_settings": "Oneplus 3, Android 9",
+  "client_settings": "Alpha 7.7.1",
+  "actual_result": "Discord crashes after about 3 seconds",
+  "expected_result": "Discord should cancel the upload and tell you that only files below 50mb are allowed",
+  "short_description": "Discord crashes if you try to upload a huge file that greatly exceeds the 50mb upload limit (Try files of around 500mb). Alternatively the upload gets stuck on Queuing for a while and then crashes.",
+  "steps_to_repro": "- Have a huge file on your phone (in my case a zip file of ~500mb) - Select the file and try to upload it"
+ }
+}

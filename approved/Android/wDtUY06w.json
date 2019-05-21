@@ -1,0 +1,15 @@
+{
+ "id": "5859a7a48bb5428c11cf9db8",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 151,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wDtUY06w",
+ "data": {
+  "actual_result": "Text channel is hidden on android alpha. Invisible text channel. https://imgur.com/a/xrsU6",
+  "expected_result": "See all channels you have permission for",
+  "short_description": "Specific channels are not appearing in the channel list.",
+  "steps_to_repro": "- Have android alpha - join https://discordapp.com/invite/0uiJcPMAfeoq6wYv - Note that there is no #announcements channel- Check on desktop"
+ }
+}

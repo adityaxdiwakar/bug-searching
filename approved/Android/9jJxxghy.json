@@ -1,0 +1,30 @@
+{
+ "id": "5a47de41a64f0dc087d2f34a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1009,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9jJxxghy",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 (2016) - Android 7.0",
+  "client_settings": "Discord Alpha 6.0.2",
+  "actual_result": "They don't",
+  "expected_result": "The names begin from the same pixel",
+  "short_description": "Group names in DM list appear a few pixels to the left compared to the names of the personal DM's users",
+  "steps_to_repro": "- Be in a group DM - Open DM with some user - Open DM list"
+ }
+}

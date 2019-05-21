@@ -1,0 +1,30 @@
+{
+ "id": "5c0116e4a622884631b80dd5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3455,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/i9YDzdoE",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Discord Canary 28385",
+  "actual_result": "You can see the Category A on the Notification Overrides list. (On Android, it's different. You cannot see the category).",
+  "expected_result": "Notification overrides for Category A isn't supposed to be shown, since it's disabled for everyone.",
+  "short_description": "You can set Notification Overrides for categories with \"Read Text/Voice channels\" for @ everyone permission off.",
+  "steps_to_repro": "- Create Category A, and make it a private category, with \"Read Text/Voice channels\" for @ everyone being disabled. - Next, create a channel in that same category. However, on the \"Read Channel permission for @ everyone, either put it in the middle or allow it. Then, with another account that has @ everyone permission (default), check the notification settings and find the Category A."
+ }
+}

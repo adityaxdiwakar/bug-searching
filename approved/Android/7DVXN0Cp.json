@@ -1,0 +1,17 @@
+{
+ "id": "5ba9ef75dc98284890d4aa0c",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2032,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7DVXN0Cp",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 9.0",
+  "client_settings": "Android Alpha 7.5.5",
+  "actual_result": "It says it was changed to the old bitrate (64.000)",
+  "expected_result": "It should say it was changed to the new bitrate, in my case 96.000",
+  "short_description": "[Audit Log] Changing vc bitrate shows old bitrate",
+  "steps_to_repro": "- Change the bitrate of a voice channel (in my case from 64 to 96) - Check this action in the audit log"
+ }
+}

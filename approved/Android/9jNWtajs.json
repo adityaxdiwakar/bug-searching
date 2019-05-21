@@ -1,0 +1,24 @@
+{
+ "id": "59bb30176048bc24a6e9aa5b",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 714,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9jNWtajs",
+ "data": {
+  "system_settings": "Google Pixel, 8.0.0",
+  "client_settings": "Android Alpha 5.1.5",
+  "actual_result": "A toast confirms the deletion but the dialog stays open. You can click delete again and get an error.",
+  "expected_result": "The category gets deleted and the dialog closes.",
+  "short_description": "Delete category confirmation doesn't close",
+  "steps_to_repro": "- Create a category - Create a channel in that category - Go to category settings - Choose delete the category - Confirm"
+ }
+}

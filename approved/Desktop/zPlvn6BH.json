@@ -1,0 +1,17 @@
+{
+ "id": "5b195b39ed6d69066fb41bff",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2103,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zPlvn6BH",
+ "data": {
+  "system_settings": "Win 10 Pro x64",
+  "client_settings": "Discord Canary 16581",
+  "actual_result": "Client can restart",
+  "expected_result": "Call ends cleanly",
+  "short_description": "Ending a DM call (or being automatically disconnected for AFKing) when friend doesn't answer sometimes restarts the client (with Experimental audio subsystem)",
+  "steps_to_repro": "- Call a friend - Leave the call or get automatically disconnected"
+ }
+}

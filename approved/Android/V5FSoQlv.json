@@ -1,0 +1,15 @@
+{
+ "id": "58739dd758fdf781536e15df",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 174,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/V5FSoQlv",
+ "data": {
+  "actual_result": "you can't ban them because the dialog never appears",
+  "expected_result": "the banhammer works",
+  "short_description": "Cannot ban users who already left server [on behalf of Cole#0440]",
+  "steps_to_repro": "- Find someone who has typed in chat but left server - attempt to ban user  "
+ }
+}

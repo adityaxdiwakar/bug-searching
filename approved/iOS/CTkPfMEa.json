@@ -1,0 +1,30 @@
+{
+ "id": "59c0746dbd81ac3b06e8318e",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 337,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CTkPfMEa",
+ "data": {
+  "system_settings": "iOS 9.3.5, iPhone 6S",
+  "client_settings": "iOS TestFlight 1.9.1 (665)",
+  "actual_result": "The invalid name message appears, but the edit menu immediately closes.",
+  "expected_result": "The invalid name message should appear, and the edit menu should stay.",
+  "short_description": "Editing a channel to have an invalid name displays the invalid name red text for only a fraction of a second before closing the edit channel screen.",
+  "steps_to_repro": "- Open the Channel Edit menu for a text channel. - Edit the channel name to be something invalid (i.e. a single hyphen). - The red invalid name text appears briefly before the edit menu is closed."
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58ed28a85b07dd8acc493a83",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 344,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sXVBYb8k",
+ "data": {
+  "system_settings": " Android 5.1 Discord 3.6.1",
+  "actual_result": "it stacks on it",
+  "expected_result": "keep board overlays Emoji Picker or closes it",
+  "short_description": "overlays stack",
+  "steps_to_repro": "- have the emoji picker open - edit your message - observe "
+ }
+}

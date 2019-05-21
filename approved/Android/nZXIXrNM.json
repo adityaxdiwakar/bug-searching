@@ -1,0 +1,17 @@
+{
+ "id": "5ba989bb7306c04a4a154999",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2022,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nZXIXrNM",
+ "data": {
+  "system_settings": "Pixel 2 XL - Android 9.0",
+  "client_settings": "Alpha 7.5.5",
+  "actual_result": "It says \"USER made changes to @everyone\"",
+  "expected_result": "It says \"USER made changes to SERVER_NAME\"",
+  "short_description": "Making a change to a server (such as renaming it) incorrectly shows the name of the server in the audit log",
+  "steps_to_repro": "- Create a new server so you have empty audit logs - Modify the @everyone role (grant it any permission) - Modify the server (Rename it/Change the AFK channel) - Observe the audit log for the modification of the server"
+ }
+}

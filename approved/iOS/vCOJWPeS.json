@@ -1,0 +1,30 @@
+{
+ "id": "5a5e97b270837fd060e97f59",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 500,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vCOJWPeS",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.1.2",
+  "client_settings": "Discord TestFlight 2.2.0 (2121)",
+  "actual_result": "The popup appears with the connect menu behind it, pressing \"Okay\" keeps the menu until closing that as well.",
+  "expected_result": "The add friend to call popup should only appear on top of the DM chat not the connect menu.",
+  "short_description": "When calling someone who is not in your friends list (such as a bot), the \"need to be friends with x\" popup appears, but the \"Connect to Voice\" menu appears behind it - popup should only appear on top of the DM channel.",
+  "steps_to_repro": "- Find a user that is not in your friends list (such as a bot). - Call this user. - When the popup appears, press \"Okay\" - Let the magic happen and the \"Connect to Voice\" menu with voice settings should appear. - May require one or two attempts, appears everytime for myself. - This may be inconsistency across devices but is a valid bug as of right now."
+ }
+}

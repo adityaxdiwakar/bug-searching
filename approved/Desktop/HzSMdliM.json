@@ -1,0 +1,23 @@
+{
+ "id": "5857727e69342ad8ea4a9716",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 258,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HzSMdliM",
+ "data": {
+  "system_settings": " Latest Canary Win7 Home Premium",
+  "actual_result": "Green circle stays around the last user who was talking even after you disconnect. https://gyazo.com/330c077d82eeb5b374c41c637fdbf10c",
+  "expected_result": "Green circle shouldnt be there once you disconnect.",
+  "short_description": "Green circle stays around a users name in a group call DM if you disconnect while they are talking",
+  "steps_to_repro": "- start a group call in DMs - Disconnect while another user is talking "
+ }
+}

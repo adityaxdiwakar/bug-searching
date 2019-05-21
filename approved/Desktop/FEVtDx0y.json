@@ -1,0 +1,30 @@
+{
+ "id": "5a7d0628bc632f2712a237b6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1641,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FEVtDx0y",
+ "data": {
+  "system_settings": "macOS 10.12.6",
+  "client_settings": "Canary Build 10382",
+  "actual_result": "Nothing happens and you have to left click on it for the click to be actually registered",
+  "expected_result": "On releasing the right-click, it should be treated as a second click as it does with the OS and other programs",
+  "short_description": "Holding right click and releasing it does not treat it as a second click [macOS only]",
+  "steps_to_repro": "- Right click to open the context menu but do not release it - Put your cursor to one of the options available in the context menu - Release the right click button"
+ }
+}

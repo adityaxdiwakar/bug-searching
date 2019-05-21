@@ -1,0 +1,17 @@
+{
+ "id": "5bb2799bde1536352cb0054c",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1041,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zqlow3qD",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12.1 dev beta",
+  "client_settings": "TestFlight 2.3.9 (7731)",
+  "actual_result": "You copy the message ID instead of mention ID",
+  "expected_result": "You should be able to copy the mention ID",
+  "short_description": "With the new addition of dev mode you aren\u2019t able to copy a mention id, but compared to desktop it does.",
+  "steps_to_repro": "- Have your chat open somewhere where u can chat - Mention someone- Hold down on the name so u get the copy ID option - Copy the id - Observe the message id being copied instead of mention id"
+ }
+}

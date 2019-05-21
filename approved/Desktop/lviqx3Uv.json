@@ -1,0 +1,30 @@
+{
+ "id": "5bdbb4c6ac802c10a90ebcc1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3336,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lviqx3Uv",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1809)",
+  "client_settings": "Discord Canary 0.0.216 (27423)",
+  "actual_result": "Only opens up the main modal",
+  "expected_result": "It should take you to the \"Join server\" modal",
+  "short_description": "On the new join/create a server modal. The ctrl + shift + n + n keybind does not work",
+  "steps_to_repro": "- Be part of the join/create a server experiment - Try to press ctrl + shift + n + n"
+ }
+}

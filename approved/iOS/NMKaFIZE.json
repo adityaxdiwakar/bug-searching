@@ -1,0 +1,24 @@
+{
+ "id": "5c02bd2b7797dc4373b4f784",
+ "closed": false,
+ "idList": "5c082c6e851e73786a479414",
+ "idShort": 1200,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NMKaFIZE",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9477)",
+  "actual_result": "Emote gets shifted to the top left corner when by itself",
+  "expected_result": "Emote is placed correctly in both notifications",
+  "short_description": "Standalone emotes in in-app notifications get shifted to the top left corner",
+  "steps_to_repro": "- Have someone send you a DM that contains only an emote - Observe the position of the emote in the in-app notification - Have the person then send you a DM that contains an emote followed by text - Observe the postion of the emote in the second notification"
+ }
+}

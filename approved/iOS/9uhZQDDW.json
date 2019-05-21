@@ -1,0 +1,17 @@
+{
+ "id": "5a98ea38e5351ba0939ff099",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 619,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9uhZQDDW",
+ "data": {
+  "system_settings": "iPad 2017 Model (5th Generation), iOS 10.3.2",
+  "client_settings": "Discord TestFlight 2.2.3 (2671)",
+  "actual_result": "There is a black space which acts like you dragged to see your channels and servers but nothing is there. It is also difficult to drag back, as if it's stuck.",
+  "expected_result": "You should see your text channel fully.",
+  "short_description": "After putting an iPad to sleep and waking it, you have black space on the left side of Discord [ 9.7\" or higher iPads with iOS 10 or above only.]",
+  "steps_to_repro": "- Send an message in a server. - Put iPad to sleep. - Wake it up to go back into Discord."
+ }
+}

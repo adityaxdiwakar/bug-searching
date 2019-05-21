@@ -1,0 +1,30 @@
+{
+ "id": "5b240cd8143719b7f29d0cb6",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 786,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Tx5WStgS",
+ "data": {
+  "system_settings": "iPhone 6 - iOS 12 {Dev Beta 1}",
+  "client_settings": "Discord Stable 2.3.3",
+  "actual_result": "Mobile push notification doesnt switch off on mobile even if u have it synced with desktop",
+  "expected_result": "Mobile push notification button should sync like it does on desktop",
+  "short_description": "Mobile push notifications dont switch off when muting a server like it does on desktop (must have sync across clients on)",
+  "steps_to_repro": "- go to any server (like Discord Testers) > on mobile - click on the server name so it opens the notifications settings etc. - click on notification settings (now u should see mute {server name etc. on mobile) turn mobile push notifications on - switch to desktop - open the notification server settings (on desktop) - Mute (for example: Discord Testers) and notice mobile push notifications turns off - go back to your mobile (you should have notification settings still open) - mute discord testers server on desktop and notices mobile push notifications button doesnt switch off"
+ }
+}

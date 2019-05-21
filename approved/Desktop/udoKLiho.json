@@ -1,0 +1,30 @@
+{
+ "id": "5b4115ad31bab8b6bbdc82a1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2249,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/udoKLiho",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.5",
+  "client_settings": "Canary Build 18317",
+  "actual_result": "Username gets cut off.",
+  "expected_result": "Username shouldn't get cut off.",
+  "short_description": "Long username with a nickname gets cut off for the mini profile",
+  "steps_to_repro": "- Go to your user settings and change your username to a very long name like `WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW` - Open any server and give yourself a nickname there (any nickname works) - Open the mini profile (e.g. click on your account in the member list) - Observe it"
+ }
+}

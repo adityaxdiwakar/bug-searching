@@ -1,0 +1,30 @@
+{
+ "id": "5abe5a390f153f075d653c25",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 655,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4C9QhNau",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.0.3",
+  "client_settings": "iOS TestFlight 2.2.7 (3519)",
+  "actual_result": "Call timer continues to show how long the call has been going on for",
+  "expected_result": "Call time should not continue to go up, but instead show the normal blue \u201cRedial\u201d button in the middle",
+  "short_description": "Call timer does not stop after the other person leaves the call.",
+  "steps_to_repro": "- start a call with someone  - talk for however long - have them leave/hang up"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b3f427b3b5273093a96b72b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2241,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/B8zOeR3p",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Stable, Build Number: 18240, also happens on current Canary",
+  "actual_result": "Spotify status disappears as soon as the 10 minutes of inactivity pass, once you come back to your PC, the status is back too",
+  "expected_result": "Spotify status keeps going regardless if you go afk or not",
+  "short_description": "Spotify Rich Presence disappears when you automatically go afk (10 min of no activity)",
+  "steps_to_repro": "- Play any song, presence works fine - Wait 10 minutes without touching your PC so you automatically go away on Discord - Watch as Spotify status disappears"
+ }
+}

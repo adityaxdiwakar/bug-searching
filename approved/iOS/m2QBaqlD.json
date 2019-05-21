@@ -1,0 +1,15 @@
+{
+ "id": "582ca2054190ce66c403ac35",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 75,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/m2QBaqlD",
+ "data": {
+  "actual_result": "File name overflows screen",
+  "expected_result": "File name does not overflow screen",
+  "short_description": "Long file names overflow the screen",
+  "steps_to_repro": "- (Have someone) upload a file with a very long name on desktop - Observe the file name on iOS "
+ }
+}

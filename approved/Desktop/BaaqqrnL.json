@@ -1,0 +1,30 @@
+{
+ "id": "5b7d9f84bedbb7819d4fdecb",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2762,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BaaqqrnL",
+ "data": {
+  "system_settings": "Microsoft Windows 7 (64-bit) [Version 6.1.7601]",
+  "client_settings": "Desktop Canary Build 22333",
+  "actual_result": "The bot continues playing audio, but the indicator stops showing. The indicator reappears if the bot stops playing audio and then starts again.",
+  "expected_result": "The bot continues playing audio and the green circular outline indicator remains unchanged",
+  "short_description": "The audio indicator stops showing for a bot when it leaves a voice channel in a different mutual server",
+  "steps_to_repro": "- Join a voice channel and have a bot join the voice channel and start playing audio - Have the bot join a voice channel in a different server that you share with it - Have the bot leave the voice channel in the other server"
+ }
+}

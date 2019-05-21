@@ -1,0 +1,17 @@
+{
+ "id": "5b7b4c1ba4b9a33a4b900f80",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1861,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qAcIIGrc",
+ "data": {
+  "system_settings": "Huawei P8Lite 2016, Emui 4.1 \u2022 Android 6.0.1",
+  "client_settings": "Discord Alpha v7.3.8",
+  "actual_result": "The id isn't the same.",
+  "expected_result": "The id should be the same.",
+  "short_description": "The id isn't the same if we took it in the mini-profile or when we long press on a profile in Direct Message list.",
+  "steps_to_repro": "- Took the id of someone in the mini-profile. - Took the id of the same person via long press on a profile in Direct Message list. - Compare ids."
+ }
+}

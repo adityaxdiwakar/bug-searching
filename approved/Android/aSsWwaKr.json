@@ -1,0 +1,30 @@
+{
+ "id": "597b82e76c23f4d8d1b696b8",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 583,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aSsWwaKr",
+ "data": {
+  "system_settings": "Android 7.1.2 32bit",
+  "client_settings": "Alpha 4.0.2",
+  "actual_result": "static image and link ends in .png a",
+  "expected_result": "you see a animated gif and the link ends in a .gif",
+  "short_description": "unable to set a gif as profile picture using the discord picture editor (nitro users only)",
+  "steps_to_repro": "- make sure you have nitro - take any gif to upload as pfp - press the button to save it in the editor - observe  the result from desktop or the avatar link from a bot that can display your avatar"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b775ec1ef54a40b42cad41f",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 923,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/jvrkK8sG",
+ "data": {
+  "system_settings": "iOS 11.4.1, iPhone 7",
+  "client_settings": "TestFlight 2.3.7 (6923)",
+  "actual_result": "Username breaks out of box.",
+  "expected_result": "Username stays within add friend box.",
+  "short_description": "Long usernames break out of add friend box.",
+  "steps_to_repro": "- Type a stupidly long username."
+ }
+}

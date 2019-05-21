@@ -1,0 +1,28 @@
+{
+ "id": "585a7423971d8b573e08bf54",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 134,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/y1CMRNIF",
+ "data": {
+  "actual_result": "You are able to edit it",
+  "expected_result": "You won't be able to change the description of the channel at all",
+  "short_description": "Channel topic is editable without having permission to do so",
+  "steps_to_repro": "- Tap the name of a channel at the top of your screen - Tap the channel description "
+ }
+}

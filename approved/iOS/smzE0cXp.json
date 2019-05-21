@@ -1,0 +1,24 @@
+{
+ "id": "5ba4c5822f632c4557593f7a",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1026,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/smzE0cXp",
+ "data": {
+  "system_settings": "iOS 12 GM, Discord 2.3.7 release",
+  "client_settings": "iOS client, 2.3.7",
+  "actual_result": "You can choose a region for your server that should probably not be choosable",
+  "expected_result": "Presumably, you shouldn't be able to select these regions as they are (old) VIP regions",
+  "short_description": "There are more server options during iOS server creation than there should be",
+  "steps_to_repro": "- Create a new server in the iOS client - You will see that there are certain regions (Amsterdam, Frankfurt) that shouldn't be there/don't appear in server creation on the desktop client - Once you've set that server up, if you try and change the region from the iOS client, you will not be able to select regions such as Amsterdam or Frankfurt"
+ }
+}

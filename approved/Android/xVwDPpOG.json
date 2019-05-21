@@ -1,0 +1,30 @@
+{
+ "id": "5b9486ee8d91428702aeb3f3",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1948,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xVwDPpOG",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Edge 8.0.0",
+  "client_settings": "7.4.8",
+  "actual_result": "The error message stops on the first line where you can only see \"We need\"",
+  "expected_result": "The error message with the persons username should be moved onto a new line",
+  "short_description": "[Small Screen Specific] The red error message when entering a long username is cropped from going downwards so you can't see the whole message",
+  "steps_to_repro": "- Open the 3 grey people heads - Tap friends - Open the add friend screen - Enter a long username eg \"WWWWWWWWWWWWWWWWWW\"  - Tap send"
+ }
+}

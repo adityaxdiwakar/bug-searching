@@ -1,0 +1,23 @@
+{
+ "id": "58d2339a4aff4061d670afa7",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 454,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rfV0R4iq",
+ "data": {
+  "system_settings": " Windows Canary and Stable.",
+  "actual_result": "Discord client does not allow multi-lingual search filters.",
+  "expected_result": "Search works in different languages",
+  "short_description": "Search criteria missing multi-lingual support. Supposedly worked until recently.",
+  "steps_to_repro": "- Change client language from English to Spanish - Attempt to use tiene/tienen (translation of \"has\"), no criteria shows up. - Select has: and attempt to type imagen (translation of image), Discord does not allow it. "
+ }
+}

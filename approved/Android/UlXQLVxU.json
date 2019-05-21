@@ -1,0 +1,24 @@
+{
+ "id": "599ecd769ec115d719ebb727",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 646,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UlXQLVxU",
+ "data": {
+  "system_settings": "Samsung Galaxy Tab A 6 (SM-T280), Android Lollipop 5.1.1",
+  "client_settings": "Discord 4.0.8 (503)",
+  "actual_result": "The lock is the normal color, as if it's not muted. (accidentally self-denied)",
+  "expected_result": "The lock will be darker, like the icon and rest of the text (like it is on desktop)",
+  "short_description": "In the new channel UI, the lock icon is not dark for muted channels.",
+  "steps_to_repro": "- Make sure a locked text channel (you can access it because of special perms) is muted - Open that server but be in a different channel - Open the channel drawer and look at the locked muted channel"
+ }
+}

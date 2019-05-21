@@ -1,0 +1,24 @@
+{
+ "id": "59c0305ac1ee3828cc9b6660",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1168,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pDTifzrz",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6 (16G29) (iMac Retina 5K, 27-inch, Late 2017)",
+  "client_settings": "Discord Canary 0.0.154 (Build 4361)",
+  "actual_result": "The avatar has the normal height, but a very tiny width",
+  "expected_result": "The avatar will display like it normally does in Discord",
+  "short_description": "In the macOS Notification center, the avatar displays wrong for low-quality avatars",
+  "steps_to_repro": "- Have someone with a low-quality image for their avatar DM you (example avatar attached) - After you get the notification, click the notification button on the top right of the Mac top bar"
+ }
+}

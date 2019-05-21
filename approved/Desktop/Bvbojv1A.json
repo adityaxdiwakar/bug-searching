@@ -1,0 +1,16 @@
+{
+ "id": "589d751c1fcdc79db4c06802",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 376,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Bvbojv1A",
+ "data": {
+  "system_settings": " Win10, Canary",
+  "actual_result": "All muted channels in all servers that you're in get hidden",
+  "expected_result": "The second server doesn't have the muted channels hidden",
+  "short_description": "Hiding muted channels affecting all servers",
+  "steps_to_repro": "- Hide muted channels in one server - Check another server that also has muted channels but you never hid them "
+ }
+}

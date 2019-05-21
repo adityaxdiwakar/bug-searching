@@ -1,0 +1,24 @@
+{
+ "id": "59cbd7508941503faf2ac9d8",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1197,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/URniXzjh",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13",
+  "client_settings": "Discord Canary, 0.0.154",
+  "actual_result": "Tooltip will be shown somewhere else (at the middle of the message).",
+  "expected_result": "Channel category tooltip should be shown above the channel linking.",
+  "short_description": "Wrong position for category tooltip for a channel link with line break",
+  "steps_to_repro": "- Send/have a message with a channel linking - Make sure this channel linking is cut off and will be shown in 2 lines - Make sure this channel is in a channel category - Hover this channel link - Observe the position of the channel category tooltip"
+ }
+}

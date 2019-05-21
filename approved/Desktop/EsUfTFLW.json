@@ -1,0 +1,30 @@
+{
+ "id": "59fe7155ebeda05b53d6cd8e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1351,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EsUfTFLW",
+ "data": {
+  "system_settings": "Surface Book Performance Base 8 GB, Windows 10 Pro x64 (Fall Creator's Update) Version 1709 (Build 16299.19)",
+  "client_settings": "Discord Stable, Build Number: 6543, and Discord Canary, Build Number: 6557",
+  "actual_result": "Nothing happens. No error message, no confirmation to send the message with the file, no message sent, NOTHING.",
+  "expected_result": "If this bug did NOT exist, I should be able to send the file normally.",
+  "short_description": "Discord can't upload a item from OneDrive with OneDrive Files On-Demand on the Windows 10 Fall Creator's Update. (OneDrive 17.3.7074.1023)",
+  "steps_to_repro": "- Click the \"+\" button to insert a file. - Select a OneDrive file - Click Open."
+ }
+}

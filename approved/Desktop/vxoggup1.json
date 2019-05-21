@@ -1,0 +1,17 @@
+{
+ "id": "5b4d0505fb9e65d6768c832c",
+ "closed": false,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2272,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vxoggup1",
+ "data": {
+  "system_settings": "Windows 10 Home (64-Bit), Version 1803",
+  "client_settings": "Desktop Canary, Version 18749",
+  "actual_result": "The settings page appears above the server list and gets cutoff, when it could fit beside the list",
+  "expected_result": "The settings page should show up directly next to the server list (its shorter than the server list so it should fit)",
+  "short_description": "In-game Overlay Settings Get Cutoff",
+  "steps_to_repro": "- Open a game - Enable overlay - Make sure game is detected by discord - Enable overlay for that game - Go to game and open overlay - Drag server list to bottom-left corner - Click Settings - Observe (only happens with shorter monitors, mine is 1360x768)"
+ }
+}

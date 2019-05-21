@@ -1,0 +1,17 @@
+{
+ "id": "5b739bfcbee34479b57aabde",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2709,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Yj5I3GD1",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 21705",
+  "actual_result": "Typing indicator overlaps the characters on 90 zoom",
+  "expected_result": "Typing indicator doesn't overlap the characters on 90 zoom",
+  "short_description": "Typing indicator overlaps certain characters on 90 zoom",
+  "steps_to_repro": "- Make sure your zoom level is 100 - type a word that ends in the letter \"s\" (i used ios) and observe the spacing between the \"s\" and the typing indicator - Change your zoom level to 90 and observe the spacing again"
+ }
+}

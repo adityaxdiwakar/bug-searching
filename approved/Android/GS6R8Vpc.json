@@ -1,0 +1,30 @@
+{
+ "id": "5ac57825b41c082626e9965f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1250,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GS6R8Vpc",
+ "data": {
+  "system_settings": "Xiaomi Mi Mix Android 7.0",
+  "client_settings": "Alpha 6.4.6",
+  "actual_result": "It shows you as typing.",
+  "expected_result": "It shouldn't show up as typing as it doesn't on the desktop version.",
+  "short_description": "Editing a message sends a typing indicator.",
+  "steps_to_repro": "- Send a message. - Start editing that message. - Observes from another account, it will show you as typing."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5acbfadfd1e38daffeba0cf7",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1819,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RpswyXVN",
+ "data": {
+  "system_settings": "Windows 10 Enterprise 1709 (Build 16299.309)",
+  "client_settings": "Discord Canary (Build 13344)",
+  "actual_result": "The number is always 0",
+  "expected_result": "You should see the correct number of friends you have online",
+  "short_description": "Incorrect number of online members",
+  "steps_to_repro": "- Look at the \"# ONLINE\" reported at the top of the left sidebar"
+ }
+}

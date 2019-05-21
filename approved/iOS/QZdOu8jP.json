@@ -1,0 +1,24 @@
+{
+ "id": "59efba80965e7318fae6f5f7",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 384,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QZdOu8jP",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.0.3 & iPad Air 2 with iOS 11.1 PB 5",
+  "client_settings": "TestFlight 1.9.3 (1268)",
+  "actual_result": "There is a big white space. For iPhone it only seems to happen when there are no recent images, for iPad it also happens with recent images. This white space issue can also happen with other places for the file/image upload menu like `All photos` for iPad.",
+  "expected_result": "There shouldn't be such a white space below the options to upload/share a file.",
+  "short_description": "Photo upload menu shows white space below options",
+  "steps_to_repro": "- Go to any text chat - Click on the paperclip icon - Observe it"
+ }
+}

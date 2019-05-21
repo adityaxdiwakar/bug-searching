@@ -1,0 +1,30 @@
+{
+ "id": "5ad1d3c8310d91672978e025",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1273,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OQAQrruq",
+ "data": {
+  "system_settings": "LG G6 Android 7.0.0",
+  "client_settings": "Discord 6.4.7",
+  "actual_result": "The invite was reopened The channel",
+  "expected_result": "It should go back",
+  "short_description": "When you open a invite link with the navigator and open discord if you go back reopen the invite",
+  "steps_to_repro": "- Obtain a invite link - Open the link with google for example - When discord open the invite go back"
+ }
+}

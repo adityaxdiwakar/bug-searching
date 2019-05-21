@@ -1,0 +1,17 @@
+{
+ "id": "593c97a5646909ac820e5694",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 741,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Doua1Uy5",
+ "data": {
+  "system_settings": "Windows 8.1 PRO",
+  "client_settings": "0.0.157",
+  "actual_result": "It jumps around to a random position",
+  "expected_result": "It stops where the slider was released",
+  "short_description": "Moving the sliders around in Voice Settings then releasing causes the sliders to bounce around randomly",
+  "steps_to_repro": "- Go to user settings - Go to the voice tab - slide the output or input slider and release it - note the slider jumping around"
+ }
+}

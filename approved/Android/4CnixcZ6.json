@@ -1,0 +1,30 @@
+{
+ "id": "5b632daa7caaf0e4174ad1ba",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1763,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4CnixcZ6",
+ "data": {
+  "system_settings": "Samsung Galaxy S8, 7.0",
+  "client_settings": "Discord Beta, 7.1.8",
+  "actual_result": "Play button disappears and gif stops",
+  "expected_result": "Play button should appear again",
+  "short_description": "Gif play button disappears in android changelog",
+  "steps_to_repro": "- Go to Discord Settings - Change Log - Play the gif - Go to Task View - Go back to discord"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "58d1a34cbc74061c423cfc36",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 451,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SWVBSVkb",
+ "data": {
+  "system_settings": " Latest Canary, Windows 8.1 x64",
+  "actual_result": "Your allowed to copy emptyness and google it",
+  "expected_result": "Nothing?",
+  "short_description": "You can copy \"something\" from the appearance example",
+  "steps_to_repro": "- Go to Settings and appearance - Double click in the example box - Right click in the box "
+ }
+}

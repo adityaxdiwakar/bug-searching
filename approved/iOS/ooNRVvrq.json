@@ -1,0 +1,30 @@
+{
+ "id": "5a947ce3242bdb219fb2def8",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 607,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ooNRVvrq",
+ "data": {
+  "system_settings": "iPhone 8 +, iOS 11.3 Public Beta 3.",
+  "client_settings": "Discord TestFlight 2.2.1, 2.2.2, and 2.2.3 (including 2671)",
+  "actual_result": "Photo no longer has transparent background, the background is now white.",
+  "expected_result": "Photo has transparent in the background when uploaded.",
+  "short_description": "Photo loses Transparency when saving on Discord.",
+  "steps_to_repro": "- Find a photo with a transparent background. - Upload it onto Discord. - Click on it. - Click on the three dots. - Click Save Content. - Upload the photo you just saved. - Observe."
+ }
+}

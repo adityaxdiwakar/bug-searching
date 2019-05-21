@@ -1,0 +1,30 @@
+{
+ "id": "5a06ce8dc4aa56ea824f7e80",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 888,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iEl85Zub",
+ "data": {
+  "system_settings": "Android 4.4.4, Tablet Allview Viva H8 LTE",
+  "client_settings": "Alpha 5.6.3",
+  "actual_result": "It is not",
+  "expected_result": "It should be centered, and near the arrow for going back",
+  "short_description": "\"User Settings\" text is not centered",
+  "steps_to_repro": "- Open your own profile/user settings - Observe the \"user settings\" text"
+ }
+}

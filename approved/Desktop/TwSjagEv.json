@@ -1,0 +1,17 @@
+{
+ "id": "5b788cfcfd48302c3efce912",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2743,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/TwSjagEv",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Release Channel: stable, Build Number: 22189, Version Hash: 81cb192b333eeafe2e866b97813a98b23a3b7931",
+  "actual_result": "Roles are not displayed when the category is collapsed",
+  "expected_result": "If its working, you should see the roles of the user when you click on his avatar in a collapsed category",
+  "short_description": "When channel categories are collapsed and you click on a user the roles are not visible",
+  "steps_to_repro": "- collapse a category - click on an avatar - watch the not visible roles - click on a user on the member list on the right - see the given roles"
+ }
+}

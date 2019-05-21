@@ -1,0 +1,24 @@
+{
+ "id": "5b5efdebb8f9d42d21f6b570",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2504,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hF6SJsZy",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Chrome 67.0.3396.87",
+  "actual_result": "The loading gif is a bit towards top left.",
+  "expected_result": "The loading gif is either at the centre of the page or at centered horizontally.",
+  "short_description": "[Website bug, Mobile only]The loading in the Developer Portal isn't centered while your applications are loading.",
+  "steps_to_repro": "- Go to https(colon)//discordapp(dot)com/developers/applications - While your applications are loading, look at the loading (a slow internet connection helps)."
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58f9fc44da03fdef43758a86",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 531,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JFrA4ISw",
+ "data": {
+  "system_settings": " Win 10 x64 build 16170, Discord Canary",
+  "actual_result": "You can only visibly see the first portion (roughly 9 characters) before the rest is truncated. Right clicking does nothing, and hovering does not show a longer version. Note that if you double click the invite code and copy it, pasting it elsewhere will show the full code",
+  "expected_result": "To see the full invite code",
+  "short_description": "Server Invite Codes don't visibly expand in the new Server Settings if they don't fit",
+  "steps_to_repro": "- Looks like the prerequisite is to have an \"old format\" invite code on your server (the long ones) - Open Server Settings - Go to User Management>Invites - Attempt to view the full invite code of one that is truncated (with an elipsis) "
+ }
+}

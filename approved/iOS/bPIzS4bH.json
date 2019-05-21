@@ -1,0 +1,22 @@
+{
+ "id": "5830dbc39b64d8f8fdb0e1b9",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 83,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod can reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bPIzS4bH",
+ "data": {
+  "actual_result": "The app keeps scrolling back up every few seconds System: Testflight 1.7.8 (44)(latest), iOS 10.1.1",
+  "expected_result": "You can scroll down without interruption",
+  "short_description": "Auto scroll-up when viewing unread messages",
+  "steps_to_repro": "- Find a channel with >50 unread messages - Load more messages (by scrolling up or tapping the blue unread bar) - Scroll down slowly "
+ }
+}

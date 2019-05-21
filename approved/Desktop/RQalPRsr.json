@@ -1,0 +1,22 @@
+{
+ "id": "584468dc8b27c372ade8385a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 214,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RQalPRsr",
+ "data": {
+  "actual_result": "Opens in a really small window in the top right of screen",
+  "expected_result": "unminimizes window to original size then brings you to place of mention",
+  "short_description": "Discord Canery opens extremely small when minimized and you click on a mention",
+  "steps_to_repro": "- Minimize discord - Have someone mention you - Click mention "
+ }
+}

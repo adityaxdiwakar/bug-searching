@@ -1,0 +1,29 @@
+{
+ "id": "58d143271df0c4c9c4dcfc6b",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 312,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nABfOsjb",
+ "data": {
+  "system_settings": " Android KitKat Discord 3.5.3",
+  "actual_result": "top most server's channel to which you were invited",
+  "expected_result": "list of friends.",
+  "short_description": "On joining a new server, the when i go to another channel and come back to friends, the friends menu isn't shown but the topmost server's invite channel is shown. Note: app specific",
+  "steps_to_repro": "- join a server - go to another server - click on the friends icon in the drawer "
+ }
+}

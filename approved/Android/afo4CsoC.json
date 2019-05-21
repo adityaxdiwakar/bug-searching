@@ -1,0 +1,17 @@
+{
+ "id": "5c30afd2781b4b0c3d79cf91",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2413,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/afo4CsoC",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 8.2.3",
+  "actual_result": "Box is off-centered. I highly suspect it's depended on screen sizes.",
+  "expected_result": "The box is centered.",
+  "short_description": "\"You played yourself, wait, you can't\" box is off centered (possibly for small screen devices specific)",
+  "steps_to_repro": "- Have Spotify enabled in Discord. - Go to Spotify and play a song. - Go to any channel, and find your user. Press on your user. - Your spotify status should be showing. Notice the \"You played yourself, wait, you can't\" box."
+ }
+}

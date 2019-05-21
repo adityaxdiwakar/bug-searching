@@ -1,0 +1,24 @@
+{
+ "id": "5a6107ab6652fe2eef0080d4",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 506,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4Ko2GREq",
+ "data": {
+  "system_settings": "iPod Touch 6th Generation, iOS 11.2.2",
+  "client_settings": "TestFlight 2.2.1",
+  "actual_result": "Normal text with the normal background",
+  "expected_result": "You should see the background of the single back tick code block.",
+  "short_description": "The single back tick code block background isn't visible",
+  "steps_to_repro": "- Go to any text channel in any server - Type a message with a single back tick in the start and end of the message - Send the message and Observe"
+ }
+}

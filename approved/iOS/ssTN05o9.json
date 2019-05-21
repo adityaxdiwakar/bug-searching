@@ -1,0 +1,24 @@
+{
+ "id": "5b6f8dc3c6fb78381c145320",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 896,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ssTN05o9",
+ "data": {
+  "system_settings": "iPhone SE, iOS Beta 12.0",
+  "client_settings": "TestFlight 2.3.6 (6691)",
+  "actual_result": "Drawer skips first name and starts at sec",
+  "expected_result": "The drawer should start at the first name",
+  "short_description": "[4 Inch Specific] Tag drawer skips first name when sending image",
+  "steps_to_repro": "- Add an image to your message - Now type @ - Attempt to see first name"
+ }
+}

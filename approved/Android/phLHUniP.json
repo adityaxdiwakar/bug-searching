@@ -1,0 +1,30 @@
+{
+ "id": "5adc9040a1a627f845509f00",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1309,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/phLHUniP",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.5.6",
+  "actual_result": "It's no focused so nothing will happen if you type letters",
+  "expected_result": "Chat textfield should focus upon switching to regular Keyboard",
+  "short_description": "Chat textfield is not focused when switching from Emoji Picker to regular keyboard",
+  "steps_to_repro": "- Go to a channel where you can send messages - Kill the app from recent tasks - Reopen Discord - First thing you do after re-opening Discord is to tap the Emoji button - Switch back to regular Keyboard using the toggle button - Try to type something"
+ }
+}

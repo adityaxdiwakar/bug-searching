@@ -1,0 +1,30 @@
+{
+ "id": "5b180c81f919caf8dff701f7",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2096,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VcnVpKCu",
+ "data": {
+  "system_settings": "windows 10 home x64 v1803",
+  "client_settings": "stable 16568; firefox 60.0.1",
+  "actual_result": "you get the \"You don't have any friends to add!\" message",
+  "expected_result": "should show friends list and allow you to add people",
+  "short_description": "Stable says you don't have any friends to add to a group dm while you do have some",
+  "steps_to_repro": "- Go to a dm - Try adding friends to the dm"
+ }
+}

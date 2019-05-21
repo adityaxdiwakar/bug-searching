@@ -1,0 +1,30 @@
+{
+ "id": "5b2f2fb37d87bebefbe22e1c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2192,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/m7ixoIn1",
+ "data": {
+  "system_settings": "openSUSE Tumbleweed 20180618",
+  "client_settings": "Discord Canary 0.0.52 build 17486",
+  "actual_result": "Discord sometimes jumps to a seemingly random message rather than staying in the same spot after loading more messages (may have to test multiple times to get random jump)",
+  "expected_result": "The message that was in view before loading should stay in view.",
+  "short_description": "When scrolling up with mouse to the point that 'Loading More Messages' shows at the top, chat sometimes jumps to a random spot (only happens when using scroll bar with mouse; canary only?)",
+  "steps_to_repro": "- Scroll up until you see 'Load More Messages' - Sometimes after messages load, you end up with a different message in view than before loading - Sometimes you end up with the same message in view as before loading"
+ }
+}

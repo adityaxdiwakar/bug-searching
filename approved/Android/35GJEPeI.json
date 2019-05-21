@@ -1,0 +1,30 @@
+{
+ "id": "5b140cf130f16baddb6721f9",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1492,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/35GJEPeI",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.7",
+  "actual_result": "The part of the name matching with the search query is still in bold while the rest is normal",
+  "expected_result": "The name should return to normal font weight after being selected",
+  "short_description": "In incoming share screen, search query is still in bold even after selecting a user/channel",
+  "steps_to_repro": "- Share something into Discord - in the field where you can search for users/channels, type the beginning of a name - Tap on one of the suggestions - Observe the item placed in the textfield"
+ }
+}

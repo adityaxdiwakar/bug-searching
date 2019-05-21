@@ -1,0 +1,30 @@
+{
+ "id": "5aa952e3657b8776babc5009",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1196,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nfYkwwIX",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.3.7",
+  "actual_result": "The message isn't highlighted. If you view that same message on Desktop, it is.",
+  "expected_result": "The message should appear highlighted for you, since you are still getting pinged.",
+  "short_description": "When someone tags you using a backslash to display mention ID, the message isn't highlighted",
+  "steps_to_repro": "- Have someone mention you by putting a backslash (e.g `\\@Alex1304#0000`) - Have him send the message with this content in chat"
+ }
+}

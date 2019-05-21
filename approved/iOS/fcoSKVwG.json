@@ -1,0 +1,24 @@
+{
+ "id": "5badbf7b5497a1168bfcd19c",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1035,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fcoSKVwG",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta - Windows 10 Home x64 1803",
+  "client_settings": "TestFlight 2.3.8 (7416) - Canary Build 24853",
+  "actual_result": "Discord allows you to send the image, even though it never uploads, and retriggers the cooldown on your phone instead of syncing with your computer",
+  "expected_result": "Send button is greyed out because the cooldown is going",
+  "short_description": "Able to send an image while slowmode cooldown is triggered from computer, which causes image to silently fail to send, and retriggers the cooldown on your phone",
+  "steps_to_repro": "- Make sure you have your phone and a computer near you - Go into the channel with slowmode on both your phone and computer - Choose an image from your camera roll and have it ready in the inline image drawer - Send a message from your computer to trigger the slowmode cooldown - While the cooldown is counting down, try to send the image from your phone - Observe the cooldown and channel on your phone - You can also choose and send an image after triggering the cooldown on your computer to achieve the same results"
+ }
+}

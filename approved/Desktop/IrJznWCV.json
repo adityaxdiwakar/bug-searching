@@ -1,0 +1,30 @@
+{
+ "id": "5b9ed309b290fc0fecb74855",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2996,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IrJznWCV",
+ "data": {
+  "system_settings": "Microsoft Windows 7 Home Premium",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 22943, Version Hash: 802208794d37ac34f2d34c0cf67a82f258dc33f3",
+  "actual_result": "The Application Bugs Out And Only Shows The Application's Startup Frame On Both Discord And The Application Itself Too",
+  "expected_result": "The ScreenShare Would Show A Running Application",
+  "short_description": "Discord ScreenShare Does Not Work On Windows 7",
+  "steps_to_repro": "- Try To ScreenShare A Specific App On Windows 7 - Watch As The Application Bugs Out Looking Like The App Being ScreenShared Seems To Be Frozen When Its Not"
+ }
+}

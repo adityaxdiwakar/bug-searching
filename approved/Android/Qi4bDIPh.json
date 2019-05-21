@@ -1,0 +1,17 @@
+{
+ "id": "59bea55c4987824bf51431c5",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 735,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Qi4bDIPh",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 7.0",
+  "client_settings": "Discord Beta - 5.1.7",
+  "actual_result": "Only one of them shows up",
+  "expected_result": "- 2 Members with the same name and picture should show up",
+  "short_description": "2 Members with the same name can't be detected in the \"Members\" Section. Only one of them will appear",
+  "steps_to_repro": "- have 2 people with the same name (and maybe profile picture?) in one server -check the Member List in \"Server Settings\""
+ }
+}

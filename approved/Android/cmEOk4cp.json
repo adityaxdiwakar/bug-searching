@@ -1,0 +1,30 @@
+{
+ "id": "5a1350fc0973fe38532cfb13",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 909,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cmEOk4cp",
+ "data": {
+  "system_settings": "Lenovo P2, 7.0",
+  "client_settings": "Android alpha 5.7.3",
+  "actual_result": "Finnish language is not there on the list",
+  "expected_result": "Finnish langauge should be there, as it's available in desktop version",
+  "short_description": "Finnish translation is not available in Android version",
+  "steps_to_repro": "- Open User settings - Open Langauge tab"
+ }
+}

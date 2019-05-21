@@ -1,0 +1,17 @@
+{
+ "id": "59730c11a99483dfdfc7cff1",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 569,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hz2o7Rpl",
+ "data": {
+  "system_settings": "Oppo Neo 3 Android 5.1.1",
+  "client_settings": "Android Alpha 4.0.0",
+  "actual_result": "Black screen appears, or sorta of.. Weirdammegradon. I can't explain, it seems weird, try it.",
+  "expected_result": "Your list of servers should scroll up so you can place the flying icon downnn",
+  "short_description": "Sort servers isn't working properly",
+  "steps_to_repro": "- Try to move a server (choose the server as low as possible, but higher does work too)  - Move it up (but let your finger stay on Sort and Manage Servers, else it won't work)"
+ }
+}

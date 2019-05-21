@@ -1,0 +1,30 @@
+{
+ "id": "5bbda24d55eb213437a89e37",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2137,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vBeuszX9",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 766",
+  "actual_result": "A white highlight appears which makes the text in button hard to see.",
+  "expected_result": "Like all other similar buttons, a black/grey highlight appears.",
+  "short_description": "The verify account button is the only button with a white highlight which makes the text in it almost invisible on long press.",
+  "steps_to_repro": "- Create a new account and join a server with at least the second level of verification. - Long press on the \"Verify Account\" button."
+ }
+}

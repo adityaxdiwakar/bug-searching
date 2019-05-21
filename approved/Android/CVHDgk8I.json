@@ -1,0 +1,17 @@
+{
+ "id": "5b6eababe2f9f03645a8351d",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1819,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CVHDgk8I",
+ "data": {
+  "system_settings": "Huawei P8 Lite Dual, Android 6.0",
+  "client_settings": "7.1.8 (718)",
+  "actual_result": "Pop-up closes.",
+  "expected_result": "Pop-up is expected to stay open to not lose your text.",
+  "short_description": "Pop-ups close if phone is rotated.",
+  "steps_to_repro": "- Press Change Nickname or Leave Server.  - Rotate your phone (landscape mode). - Observe."
+ }
+}

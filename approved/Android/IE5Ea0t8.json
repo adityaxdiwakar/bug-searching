@@ -1,0 +1,30 @@
+{
+ "id": "5bd1c9bc147d366c9a5fb999",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2238,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IE5Ea0t8",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0.0",
+  "client_settings": "7.7.9",
+  "actual_result": "Keyboard opens",
+  "expected_result": "Keyboard should not opened because we closed it",
+  "short_description": "Switching orientation opens keyboard in create a server page",
+  "steps_to_repro": "- Go to your server list, scroll all down and press + - Than select create a server button - When its opened, it would come as keyboard opened - Close it with your device's back button - Switch orientation - Wait for 1 sec and keyboard will open"
+ }
+}

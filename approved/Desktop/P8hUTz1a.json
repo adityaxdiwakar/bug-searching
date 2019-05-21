@@ -1,0 +1,30 @@
+{
+ "id": "5b054ecf4acde1d06d91f520",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2043,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/P8hUTz1a",
+ "data": {
+  "system_settings": "MacOS 10.13.3, rMBP2015",
+  "client_settings": "Canary 15919",
+  "actual_result": "Icons show overlapping pixels from other images on the sprite sheet",
+  "expected_result": "Images show with no stray pixels",
+  "short_description": "Images in Emoji Picker have extraneous lines at 90% (or 110%) zoom",
+  "steps_to_repro": "- Set zoom level to 90% - Open emoji picker - Scroll to Twemoji Nature/Food"
+ }
+}

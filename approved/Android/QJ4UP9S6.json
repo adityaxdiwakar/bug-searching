@@ -1,0 +1,30 @@
+{
+ "id": "5a98a6fb970d8c049834e3a1",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1155,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QJ4UP9S6",
+ "data": {
+  "system_settings": "Moto G5 Plus Android 7.0",
+  "client_settings": "Discord Alpha 6.2.9",
+  "actual_result": "It closes.",
+  "expected_result": "The dialog should move to the bottom of the screen.",
+  "short_description": "The \"Add a server\" dialog box disappears when rotating.",
+  "steps_to_repro": "- Scroll to the end of the server list - Click the add server icon - Rotate your device"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5beb15fa27f2b10567f3cc95",
+ "closed": false,
+ "idList": "595586f8542c85d34ad3b138",
+ "idShort": 1162,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IYeZNBef",
+ "data": {
+  "system_settings": "iPhone X - iOS 12",
+  "client_settings": "iOS app - 2.3.10",
+  "actual_result": "The device tries to autocorrect what is typed.",
+  "expected_result": "When typing in hiragana it should load properly.",
+  "short_description": "When using hiragana in an @ mention, it does not populate properly due to autocorrect.",
+  "steps_to_repro": "- Click on mention and try to use @mention, Japanaese hiragana can't display/show correctly. - Hiragana always appears incorrectly. - When typing \"\u3068\u3082\u3084\u3093\", it shows like \"\u3068m\u304a\"."
+ }
+}

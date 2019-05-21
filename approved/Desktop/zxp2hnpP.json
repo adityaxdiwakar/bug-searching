@@ -1,0 +1,15 @@
+{
+ "id": "58626d4faa2def936604ba58",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 289,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zxp2hnpP",
+ "data": {
+  "actual_result": "Tooltip bugs out and doesn't disappear until you move your mouse.",
+  "expected_result": "The tooltip should either disappear or deal with the offset.",
+  "short_description": "Emoji tooltip remains and goes lower, as messages are sent",
+  "steps_to_repro": "- Send a emoji in the chat - Hover over it - Don't move your mouse and send more messages - Now your tooltip should be bugged "
+ }
+}

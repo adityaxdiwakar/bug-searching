@@ -1,0 +1,30 @@
+{
+ "id": "5b7c06ff3a936f118256e75b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2754,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bubhZfEO",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS, Asus Netbook F551C, Intel Core i3 64bits",
+  "client_settings": "Discord Canary 22210",
+  "actual_result": "The cursor appears to be a highlighter but you can't select the server name",
+  "expected_result": "Either you should be able to select the text, or the cursor should be normal",
+  "short_description": "In the Server Notifications modal, hovering over the server name will change the cursor into an highlighter, even though you cannot select the text [Desktop app only, doesn't happen on browser]",
+  "steps_to_repro": "- Right click on any server in your server list - Click on Notifications in the context menu - Hover your mouse over the server name in small characters just below the main modal title"
+ }
+}

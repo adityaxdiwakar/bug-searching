@@ -1,0 +1,30 @@
+{
+ "id": "5b255335273bcd156d3fcf5c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2148,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0tNb3RCx",
+ "data": {
+  "system_settings": "Discord Stable 0.0.301",
+  "client_settings": "Win 10 x64",
+  "actual_result": "Media gets send",
+  "expected_result": "Upload error",
+  "short_description": "Able to send media files even if person is blocked",
+  "steps_to_repro": "- Friend any user- Open DMs with that user- Block that user (don't get blocked) - Send him/ her a media file by dragging and dropping the file into the chat "
+ }
+}

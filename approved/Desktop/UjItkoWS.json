@@ -1,0 +1,30 @@
+{
+ "id": "5a83218b5e7d632680c4d604",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1654,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UjItkoWS",
+ "data": {
+  "system_settings": "MacBookAir7,1 , OS X 10.11.6",
+  "client_settings": "Release Channel: stable, Build Number: 10394, Version Hash: 7553b167d8f0276f19ff85cf3d50ee41b0e7b752",
+  "actual_result": "Reboots the client back to the loading/quote screen",
+  "expected_result": "Not reboot the client, perhaps display an error?",
+  "short_description": "[macOS] Attempting to play Youtube in client while blocked by SelfControl causes client restart",
+  "steps_to_repro": "- Install and configure SelfControl to block , then run it - Hit the play triangle on a youtube video thumbnail in chat to attempt to watch video within Discord"
+ }
+}

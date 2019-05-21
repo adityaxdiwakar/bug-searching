@@ -1,0 +1,17 @@
+{
+ "id": "5b9b1c79bd6ea9418809f152",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 1009,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hb421zxh",
+ "data": {
+  "system_settings": "iOS 12 GM Beta",
+  "client_settings": "TestFlight 2.3.8 (7167)",
+  "actual_result": "The iOS status bar disappears after opening and closing the camera from the new chat input design",
+  "expected_result": "Status bar shouldn't disappear",
+  "short_description": "Status Bar disappears after opening camera",
+  "steps_to_repro": "- Open & Close the Camera app from the new chat input - Status bar should be gone"
+ }
+}

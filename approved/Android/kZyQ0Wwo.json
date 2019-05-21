@@ -1,0 +1,30 @@
+{
+ "id": "5b18c01d2a30684d7861ea6f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1502,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kZyQ0Wwo",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.8",
+  "actual_result": "You go back straight to chat",
+  "expected_result": "You should go back to Quick Switcher",
+  "short_description": "Going back from the Join Server screen accessed via Quick Switcher closes the Quick Switcher",
+  "steps_to_repro": "- Go to Quick Switcher - Type random letters in the searchfield so no results show - in \"other options\" select \"join a server\"  - When you are on the Join Server screen, press Back"
+ }
+}

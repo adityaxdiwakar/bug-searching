@@ -1,0 +1,17 @@
+{
+ "id": "5b1f97457c42698026271fea",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1527,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hiH2vwjK",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 689",
+  "actual_result": "The animation resets itself.",
+  "expected_result": "The avatar's animation should not reset itself.",
+  "short_description": "Sending a friend request to a person who has an animated avatar and then deleting the request, causes the animation to reset.",
+  "steps_to_repro": "- Find someone with an animated avatar (preferably a long animation). - Send them a friend request. - Cancel the friend request."
+ }
+}

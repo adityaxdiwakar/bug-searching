@@ -1,0 +1,17 @@
+{
+ "id": "5b532555fd9ea76d10637cf8",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2390,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ToXSTmc0",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1803",
+  "client_settings": "Firefox Stable v61.01",
+  "actual_result": "There is no way to get to Authorized Applications and discordapp(dot)com/developers/applications/authorized returns an error",
+  "expected_result": "There should be a button to access the authorized application section",
+  "short_description": "[Website Bug] You are no longer able to access authorized applications in the new Developer Portal",
+  "steps_to_repro": "- Go to the Developer Portal - Go to My Applications"
+ }
+}

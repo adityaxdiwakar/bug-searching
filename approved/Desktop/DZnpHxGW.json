@@ -1,0 +1,30 @@
+{
+ "id": "5c139b6d7dfee45631e7f539",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3494,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DZnpHxGW",
+ "data": {
+  "system_settings": "Windows 7 Professional x64",
+  "client_settings": "Discord Stable 29631, Version Hash: ec93399a2ba2cca9539ad047a84872d8926e614e",
+  "actual_result": "The video plays, but two scroll bars appear in the video frame.",
+  "expected_result": "The video will play, and nothing else.",
+  "short_description": "Playing a Twitter video embed causes scrollbars to appear",
+  "steps_to_repro": "- Send a link to any Twitter tweet with a video - Play the video - Observe the edges of the video embed"
+ }
+}

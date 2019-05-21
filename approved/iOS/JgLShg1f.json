@@ -1,0 +1,22 @@
+{
+ "id": "58484153bcb204a65a4a5ee2",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 111,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JgLShg1f",
+ "data": {
+  "actual_result": "It doesn't",
+  "expected_result": "It moves",
+  "short_description": "When uploading a file, the progress bar doesn't move",
+  "steps_to_repro": "- Upload a file to a channel "
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5a09eb8b684645e87bea314b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 893,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YVi0YmFI",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.6.6",
+  "actual_result": "Your message will be sent, but the New messages red separator will appear above your message",
+  "expected_result": "Your message will be sent, and nothing else will appear",
+  "short_description": "When someone sends a message and then deletes it in a channel with no other unreads messages, the next message you will send will make the New messages red separator appear above your message.",
+  "steps_to_repro": "- Pick any text channel. Also works with DMs - Read messages in it, or mark it as Read - exit out of the channel - have someone post a new message in that channel and then ask him to delete it - return to the channel - send a message"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59382cf1d4b38b4aa535b40b",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 729,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HcL6gaWA",
+ "data": {
+  "system_settings": "Mac OS Sierra v10.12.5",
+  "client_settings": "Discord Canary 0.0.147 (0.0.147)",
+  "actual_result": "Goes off into the background",
+  "expected_result": "Text Wrap on invited",
+  "short_description": "Text Wrap Invite Issue [graphical]",
+  "steps_to_repro": "- Make a Server with a very long name - Press the invite on any channel - It goes off the page"
+ }
+}

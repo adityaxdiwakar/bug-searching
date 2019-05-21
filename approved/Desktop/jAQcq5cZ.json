@@ -1,0 +1,30 @@
+{
+ "id": "5c108386041c6e756a842dd4",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3480,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jAQcq5cZ",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1809",
+  "client_settings": "Discord Canary 0.0.224 Build 29458",
+  "actual_result": "it is bolded in both locations.",
+  "expected_result": "The text in both locations is not bolded.",
+  "short_description": "Text font is bolded in the channel filter selection in search and after the \"Search For:\" text",
+  "steps_to_repro": "- Search using the \"in:\" filter. - Notice the font of the channels that are listed. - Select a channel and then type a phrase to search - Observe the text after \"Search For:\""
+ }
+}

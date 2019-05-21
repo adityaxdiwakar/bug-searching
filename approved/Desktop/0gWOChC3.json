@@ -1,0 +1,17 @@
+{
+ "id": "5a74b7563ff618fafc8925a0",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1618,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0gWOChC3",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Google Chrome, Release Channel: stable, Build Number: 10143",
+  "actual_result": "It gets out of sync. Pause/Play stops working. Displaying the wrong music",
+  "expected_result": "It should display the previous music, like it does on main client (the one sync with Spotify)",
+  "short_description": "Discord's Spotify Integration not accurate to other people",
+  "steps_to_repro": "- Open Discord & Spotify and start playing something - Login into Discord with another account in a different browser (or icognito) - Play the previous music. (double click on previous)"
+ }
+}

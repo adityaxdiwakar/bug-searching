@@ -1,0 +1,30 @@
+{
+ "id": "5a6ad1aca337e708e409b8c5",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1588,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/t8IDZFfN",
+ "data": {
+  "system_settings": "Win 7 x64",
+  "client_settings": "Discord Stable, Build Number: 9961",
+  "actual_result": "It stacks the previous username with the new one",
+  "expected_result": "A message saying that the friend request can't be sent",
+  "short_description": "Sending a friend request to person who has it off stacks previous request",
+  "steps_to_repro": "- Send a friend request to a friend that doesn't have it off - Send a request to someone who has friend requests disabled, like 0001#0001 -"
+ }
+}

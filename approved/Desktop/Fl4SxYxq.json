@@ -1,0 +1,30 @@
+{
+ "id": "5beb98136edb7c0c1623765c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3380,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Fl4SxYxq",
+ "data": {
+  "system_settings": "Windows 10 home 64-bit (1803)",
+  "client_settings": "Discord Canary Build Number: 27913",
+  "actual_result": "no typing indicator shows",
+  "expected_result": "a typing indicator should be triggered when i start typing in the text field of that channel",
+  "short_description": "when you hold a key while sharing a file you can type in the channel's text field afterwards without a typing indicator",
+  "steps_to_repro": "- click and hold on the letter (s) on your keyboard - click on the upload button without releasing the (s) key - observe"
+ }
+}

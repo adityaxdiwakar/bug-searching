@@ -1,0 +1,30 @@
+{
+ "id": "5b30b87dc3101e0234a32b1b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1596,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RnVlP9Uk",
+ "data": {
+  "system_settings": "Samsung Galaxy S9 8.0",
+  "client_settings": "Discord Alpha 6.9.9",
+  "actual_result": "The text field is greatly expanded, being several lines tall if the Channel's name is very long",
+  "expected_result": "The Channel's name truncates with \"...\" to prevent the text field expansion (like on desktop)",
+  "short_description": "Text field expands several lines tall if the Channel has a long name",
+  "steps_to_repro": "- Create a Channel with a long name (can use the full 100 char limit or just some wide characters like \"w\") and observe the text field's length"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "5a2d66629b10467504c4def3",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 447,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/isIP5PIM",
+ "data": {
+  "system_settings": "iPhone 6s & iPad Air 2, iOS 11.2",
+  "client_settings": "Discord Stable 2.1.2",
+  "actual_result": "Only one row of custom emojis will be shown. But you can still search for this emojis if you know the name.",
+  "expected_result": "All custom emojis for this server should be shown.",
+  "short_description": "Not all custom emojis for add reactions menu shown",
+  "steps_to_repro": "- Make sure you are using the stable build 2.1.2 - Upload many custom emojis (at least 8 for iPhone 6s, could be even more for other iPhones and iPad) - Long click on any message - Click on `Add reaction` - Observe the custom emojis"
+ }
+}

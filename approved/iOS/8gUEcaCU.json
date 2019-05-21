@@ -1,0 +1,36 @@
+{
+ "id": "5aa51a9fbf8eef5acdd1038e",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 629,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8gUEcaCU",
+ "data": {
+  "system_settings": "iPhone 7, iOS 11.2.6",
+  "client_settings": "2.2.4",
+  "actual_result": "The suggestion pop-up appears, and selecting something from the pop-up crashes the app.",
+  "expected_result": "The suggestion pop-up should not appear when the mention gets deleted.",
+  "short_description": "Mention suggestion pop-up appears when @mention is deleted",
+  "steps_to_repro": "- Go to a text channel. - Type a mention in the form username#0000 (or select a user from the suggestion pop-up). - Type a long string of text after the mention. You can paste in a long URL or type a bunch of random letters. - Hold backspace. After a brief moment, iOS will begin deleting words instead of characters. - Observe how the suggestion pop-up appears when the mention gets deleted. - (Optional) Selecting a suggestion from the pop-up causes the app to crash."
+ }
+}

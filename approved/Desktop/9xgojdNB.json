@@ -1,0 +1,17 @@
+{
+ "id": "5aec9e90f5d899e974c7d56f",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1935,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9xgojdNB",
+ "data": {
+  "system_settings": "Windows 10 x64 v1809",
+  "client_settings": "Discord Canary 14570",
+  "actual_result": "TTS only plays around the first line of characters, for me it was 144 characters",
+  "expected_result": "TTS should play the entire message",
+  "short_description": "TTS not playing the full message",
+  "steps_to_repro": "- Go in a server with TTS enabled - do /tts <really long message, over 400 ish"
+ }
+}

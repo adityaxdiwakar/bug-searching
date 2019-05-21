@@ -1,0 +1,30 @@
+{
+ "id": "5c2c217ed503ed4df2055d1d",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3561,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VOvWzxB6",
+ "data": {
+  "system_settings": "Windows 10: 10.0.17134 Build 17134",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 30302, Version Hash: db622561b65eae5128bc8eab9db7679a4527c3fb",
+  "actual_result": "Discord does lag",
+  "expected_result": "Simply, Discord shouldn't lag when I attempt to organize roles",
+  "short_description": "In the \"Roles\" section with a large number of roles, I experience a great deal of lag when modifying them",
+  "steps_to_repro": "- Be on a server with 200+ dissimilar roles (varying perms/ colors) - Go to \"Server Settings,\" then \"Roles\" - Attempt to drag one of the roles as of you are organizing them and/or edit permissions"
+ }
+}

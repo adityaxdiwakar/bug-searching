@@ -1,0 +1,36 @@
+{
+ "id": "5ac8f82cd37a10196d5a64c3",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 664,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XO28Cu2v",
+ "data": {
+  "system_settings": "iPad Air 2, iOS 11.4 PB 1 & iPhone 6s, iOS 11.3",
+  "client_settings": "Discord Stable 2.2.9",
+  "actual_result": "Search is very unresponsive and needs long time to load the results. Also you can't close it while loading the results. The bug especially happens with the iPad version.",
+  "expected_result": "Search should run smoothly and allow to instantly close it.",
+  "short_description": "Find or start a conversation search is unresponsive and has massive lag when using it",
+  "steps_to_repro": "- Go to your DMs - Click on the`Find or start a conversation` search there - Try to search for something (better to use only 1 or 2 letter with much results) and observe how the results appear - Also try to close the search while results are still loading"
+ }
+}

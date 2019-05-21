@@ -1,0 +1,30 @@
+{
+ "id": "5b7e62eb19f5e361171ba8e5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2768,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iw4VKmi9",
+ "data": {
+  "system_settings": "MacBook Pro (13\"), macOS 10.13.6",
+  "client_settings": "Canary 22364",
+  "actual_result": "The string is missing an E",
+  "expected_result": "This string should say \"LEEROY JENKINS\" if in reference to the meme",
+  "short_description": "HypeSquad question answer has an incorrect spelling",
+  "steps_to_repro": "- Open User Settings - Click \"HypeSquad\" - Click to apply (or click to join a different house) - Repeat the last step until you receive the question \"Wumpus appears at the front door, you:\" - Observe the answer which says \"LEROY JENKINS\""
+ }
+}

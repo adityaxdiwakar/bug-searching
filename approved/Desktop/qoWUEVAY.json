@@ -1,0 +1,17 @@
+{
+ "id": "5b71679abee80c47a56f1beb",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2695,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qoWUEVAY",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Firefox Quantum 61.0.1",
+  "actual_result": "The button literally does nothing",
+  "expected_result": "The button leads to the developer portal",
+  "short_description": "The \"Get Started\" button leads to nowhere [Website Bug]",
+  "steps_to_repro": "- Go to discordapp(dot) - Click the \"Get Started\" button"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bc77fe3f54fa82b2a157786",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 3205,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/t6U0Wv2o",
+ "data": {
+  "system_settings": "Win10 64x (1809)",
+  "client_settings": "Canary 26151 (0.0.215)",
+  "actual_result": "Icon moves to the left and shows an green circle on hang up",
+  "expected_result": "Icon is still, and no Green icon",
+  "short_description": "[Overlay] When calling / in a call with someone the hang up button oddly moves closer to the Transparency button as well as showing a Green circle when you hang-up",
+  "steps_to_repro": "- Open game with overlay - Call someone in DM (and keep an eye on the Phone icon) - Notice it moves - Hang up, Notice the Green circle for a half second. (This is meant for when a user is already in a call)"
+ }
+}

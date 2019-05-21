@@ -1,0 +1,17 @@
+{
+ "id": "5c1460952c0b1f8a14d00677",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3499,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QmVxnJ7F",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1803)",
+  "client_settings": "Discord Canary 0.0.224, Build 29756",
+  "actual_result": "You're taken back to the selection screen",
+  "expected_result": "The Server Region modal should close and you remain on the Server Creation screen",
+  "short_description": "Opening the Server Region modal in the Server Creation modal takes you back to the selection screen after it closes",
+  "steps_to_repro": "- Press ctrl + shift + n and choose Create a server - Click on the Change button for the Server Region - Select a region and observe"
+ }
+}

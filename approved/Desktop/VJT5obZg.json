@@ -1,0 +1,30 @@
+{
+ "id": "5b6ca183d8a5bd44d71fea16",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2653,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VJT5obZg",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 21440",
+  "actual_result": "Toggle lags while moving",
+  "expected_result": "toggle switches off and on",
+  "short_description": "Double clicking outside of a toggle in user settings will sometimes cause the toggle to lag when moving",
+  "steps_to_repro": "- Go to \"Text & Images\" in user settings - Double click outside any of the toggles, making sure you're still in the row for that toggle - Observe the toggle"
+ }
+}

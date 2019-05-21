@@ -1,0 +1,17 @@
+{
+ "id": "59405a97ec007ce7fc5fa73a",
+ "closed": true,
+ "idList": "5942dfc5266d177d74629250",
+ "idShort": 755,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/jA9Iigs8",
+ "data": {
+  "system_settings": "Win 7 SP1",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "The role toggles disappear, the create button doesn't work but everything else does",
+  "expected_result": "The menu should close",
+  "short_description": "New Create Channel Menu Doesn't close when you are removed from server",
+  "steps_to_repro": "- Open the new Create Channel menu - Get kicked from the server"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5ba9a1ac0b6b405bc9f51f9b",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2030,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AjPHPrKZ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "It's very close to the right edge of the box",
+  "expected_result": "It should have decent right padding",
+  "short_description": "[Audit Logs] Non-expandable entries have no padding to the right",
+  "steps_to_repro": "- Access Audit Logs - Find an entry that isn't expandable (e.g message deleted)  - Observe text in the box"
+ }
+}

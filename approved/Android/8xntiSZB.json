@@ -1,0 +1,17 @@
+{
+ "id": "5c234df761a876227defe3f4",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2401,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8xntiSZB",
+ "data": {
+  "system_settings": "ASUS Zenfone max pro m1 Android 8.1.0",
+  "client_settings": "Alpha 8.2.2",
+  "actual_result": "The status of the song played before skipping still shows and does not go away Even after track bar reaches the end (not local , viewed the status from another phone )",
+  "expected_result": "Spotify status should no longer be displayed",
+  "short_description": "Spotify status still shows after disabling \"display Spotify as status\"  option",
+  "steps_to_repro": "- Play a song on Spotify and wait for discord to detect it - Go to settings > connections > Spotify > disable \"display Spotify as status\"  - Skip your song  - Restart your app"
+ }
+}

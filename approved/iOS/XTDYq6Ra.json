@@ -1,0 +1,30 @@
+{
+ "id": "59d16892d4ee14d46bbc1497",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 348,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XTDYq6Ra",
+ "data": {
+  "system_settings": "iPhone 6S with iOS 11.0.1 & iPad Air 2 with iOS 11.1 PB 1",
+  "client_settings": "Discord Stable, 1.9.1",
+  "actual_result": "Copied channel will be uncategorized.",
+  "expected_result": "Copied channel should have the same category as the channel you've copied.",
+  "short_description": "Copying channel doesn't copy the category for it",
+  "steps_to_repro": "- Copy a channel which belongs to a category - Observe the category of the copied channel"
+ }
+}

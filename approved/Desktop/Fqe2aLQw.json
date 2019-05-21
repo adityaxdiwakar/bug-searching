@@ -1,0 +1,30 @@
+{
+ "id": "5b405c8d97db3520c5bfdf2f",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2245,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Fqe2aLQw",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, 18108",
+  "actual_result": "Shows they are offline.",
+  "expected_result": "It would show they are online.",
+  "short_description": "User not Online When Online",
+  "steps_to_repro": "- Goto a friend. Like Discord Friend. - Send Them A Few Messages when they are online - Unfriend them' -They are offline but if you goto one of the servers their status is online."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5aeb45006a16e679fcaa6533",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1929,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TG9ELcWN",
+ "data": {
+  "system_settings": "Windows 10 Home Version 1709 x64",
+  "client_settings": "Discord Canary, Build Number: 14558",
+  "actual_result": "The @ disappears and the mention still goes through",
+  "expected_result": "The @ shouldn't disappear",
+  "short_description": "Including an everyone mention in a URL might make the @ disappear, but it will still ping with mention everyone permissions",
+  "steps_to_repro": "- Go to any text channel where you have the permission to send messages and the permission to mention everyone and here - Type in a URL like [see notes for example URL] - Send the message"
+ }
+}

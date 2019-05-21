@@ -1,0 +1,23 @@
+{
+ "id": "58c74d0f7bf9ff87e8cf42d1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 422,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NOa3lxsI",
+ "data": {
+  "system_settings": " Win 10 x64, discord canary",
+  "actual_result": "Upon joining, your icon will quickly flash green and make the push to talk sound. No audio from mic seems to be transmitted in this time however.",
+  "expected_result": "Upon join, your icon shows no activity (does not go green or hear push to talk bleep sound)",
+  "short_description": "Push to talk activated for a split second upon joining voice channel.",
+  "steps_to_repro": "- Have push to talk enabled in settings - Join a voice channel "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b86f8a72276a609159fa9d7",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2829,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pEjmhYBT",
+ "data": {
+  "system_settings": "2017 Macbook Pro 13\u201d macOS High Sierra 10.13.6",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 22726, Version Hash: 59c4b74a4d44e4955a234c8ee027735695c80fc1",
+  "actual_result": "The cancel subscription button takes the place of the close button (dangerous in more ways than one) \ud83d\ude09",
+  "expected_result": "The close button should still be visible, rather than requiring the user to expand the window further",
+  "short_description": "Discord Nitro active subscription hides close button when client is open on half screen",
+  "steps_to_repro": "- Enter Discord Nitro menu in user settings - Shrink the Discord client window horizontally - Notice the close button disappear (cancel button is roughly where it would be) - This also applies to some other tabs (e.g. HypeSquad)"
+ }
+}

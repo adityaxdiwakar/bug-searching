@@ -1,0 +1,17 @@
+{
+ "id": "5b1fb3f3d3fd00cea5b8af0d",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2126,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7KkIoNi2",
+ "data": {
+  "system_settings": "Windows 7 Professional x64",
+  "client_settings": "Discord Stable, Build Number: 16727, Version Hash: d3400266c1788b6d6174c229e39842e66a9336bf",
+  "actual_result": "The channel isn't marked as NSFW at all.",
+  "expected_result": "A /!\\ warning sign should become visible, indicating the channel is marked as NSFW.",
+  "short_description": "Naming a text channel something containing the word \"nsfw\" doesn't auto-set the channel to NSFW",
+  "steps_to_repro": "- Create a new text channel - Name it something containing \"nsfw\" - Observe the channel's # symbol"
+ }
+}

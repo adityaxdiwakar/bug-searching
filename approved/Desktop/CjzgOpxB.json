@@ -1,0 +1,30 @@
+{
+ "id": "5c2fcefd59ec692a99210bda",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3568,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CjzgOpxB",
+ "data": {
+  "system_settings": "MacBook Pro (13-inch, 2016, Four Thunderbolt 3 Ports) macOS Mojave Version 10.14.1 (18B75)",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 30302, Version Hash: db622561b65eae5128bc8eab9db7679a4527c3fb",
+  "actual_result": "It changes the game activity back to discord.",
+  "expected_result": "It should never switch the game activity while using safari and wanting to go back on discord",
+  "short_description": "As I switch tabs from discord to safari the game activity keeps changing frequently when I go back on discord .",
+  "steps_to_repro": "- go to game activity - add your game for example safari - then switch the app to safari while you see discord game activity - then go back to discord and it suddenly changes the game activity to Discord"
+ }
+}

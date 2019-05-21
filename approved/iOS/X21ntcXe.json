@@ -1,0 +1,24 @@
+{
+ "id": "5bdcd71a800be7642dd6787b",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1148,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/X21ntcXe",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 1",
+  "client_settings": "TestFlight 2.4.0 (8900)",
+  "actual_result": "User you selected get moves to the top",
+  "expected_result": "User you selected is in the same spot as before",
+  "short_description": "Filtering by user moves that user to the top of the list",
+  "steps_to_repro": "- Go to a server where you can view the audit logs - Select filter by user and pick a user - Reopen the filter by user option and observe the list"
+ }
+}

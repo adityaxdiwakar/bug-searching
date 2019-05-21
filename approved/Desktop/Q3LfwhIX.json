@@ -1,0 +1,30 @@
+{
+ "id": "5c135bad5f129d71e901833c",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 3492,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Q3LfwhIX",
+ "data": {
+  "system_settings": "Windows 10 home x64 v. 1803",
+  "client_settings": "Canary 0.0.224 - 29619",
+  "actual_result": "no mobile presence indicators next to their username",
+  "expected_result": "a mobile presence indicators should show next to their username",
+  "short_description": "can't see mobile presence indicators in overlay",
+  "steps_to_repro": "- open a game that supports the overlay - launch the overlay - open the mini profile of a user on mobile and online - observe"
+ }
+}

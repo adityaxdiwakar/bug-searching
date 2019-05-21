@@ -1,0 +1,17 @@
+{
+ "id": "5b99124fab35df312d6b39cf",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1977,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/eX5GUjvl",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0.0",
+  "client_settings": "7.4.8",
+  "actual_result": "It gives warning and adds emoji",
+  "expected_result": "It would not give a warning.",
+  "short_description": "Adding emoji on pinned messages gives you you are rate limited warning but it adds the emoji",
+  "steps_to_repro": "- Create a new text channel or have one - Send a message  - Pin it - Go to pinned messages from 3 dots on the right up - Hold the message and select add emoji - Add a emoji and it will give you are being rate limited warning - Go back to the message and you will see that emoji has been added"
+ }
+}

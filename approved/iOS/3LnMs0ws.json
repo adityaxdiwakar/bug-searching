@@ -1,0 +1,17 @@
+{
+ "id": "5afacaa15327903c6385f102",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 749,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3LnMs0ws",
+ "data": {
+  "system_settings": "Iphone 6 with ios 11.3",
+  "client_settings": "discord testflight 2.3.2 (4460)",
+  "actual_result": "u dont see it",
+  "expected_result": "you should see the text field properly",
+  "short_description": "Keyboard bugs when holding onto a link, then click on cancel.",
+  "steps_to_repro": "- Go to somewhere in a channel wheres a link - click on the textfield where u can chat so ur keyboard pops up - hold your finger on the link so u get popups - click cancel - look at the keyboard"
+ }
+}

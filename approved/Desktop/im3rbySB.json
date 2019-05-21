@@ -1,0 +1,16 @@
+{
+ "id": "58e02c9fc5d0e0ccfe5c16a3",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 471,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/im3rbySB",
+ "data": {
+  "system_settings": " Windows 10 Pro x64 on latest Canary (0.0.153)",
+  "actual_result": "the settings updated, but the modal stays there, and can only be closed by clicking outside it.",
+  "expected_result": "the modal closes.",
+  "short_description": "\"Done\" in channel settings not closing modal",
+  "steps_to_repro": "- Go to a server with the ability to change channel permissions. - Change the settings. - Click the Done button. "
+ }
+}

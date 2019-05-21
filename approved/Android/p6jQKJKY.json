@@ -1,0 +1,17 @@
+{
+ "id": "5ba97f2d648a390338a5b999",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2011,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/p6jQKJKY",
+ "data": {
+  "system_settings": "Pixel 2 XL - Android 9.0",
+  "client_settings": "Alpha 7.5.5",
+  "actual_result": "The name is just a bunch of asterisks",
+  "expected_result": "It says \"USER updated the emoji <name>\"",
+  "short_description": "\"Updated the emoji\" audit log entry doesn't have the emoji name",
+  "steps_to_repro": "- Modify an emoji in any way to ensure an audit log entry is generated - View the entry on Android"
+ }
+}

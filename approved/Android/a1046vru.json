@@ -1,0 +1,24 @@
+{
+ "id": "59d37fd23322e5668b460b83",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 779,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/a1046vru",
+ "data": {
+  "system_settings": "lg xpower 6.0.1",
+  "client_settings": "android alpha 5.2.7",
+  "actual_result": "infinite loading",
+  "expected_result": "found messages should show",
+  "short_description": "search in DMs don't load messages",
+  "steps_to_repro": "- enter DMs search - input phrase - attempt to search"
+ }
+}

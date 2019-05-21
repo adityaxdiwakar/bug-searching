@@ -1,0 +1,24 @@
+{
+ "id": "5b7c0a9e663a927fca907480",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 928,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NNoJS14z",
+ "data": {
+  "system_settings": "iOS 12 beta 8",
+  "client_settings": "TestFlight 2.3.7 6823,",
+  "actual_result": "You can only see half of it",
+  "expected_result": "You will be able to see the full message bar",
+  "short_description": "when calling someone on iPhone or using your maps to go somewhere the Apple word suggestion covers the typing area",
+  "steps_to_repro": "- Go to a chat - Click \u201cMessage #<channel> - exit out of discord - go to Apple maps - search a random location - get directions to the location - go back into discord - go back to maps and end the route - come back to discord"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "586e9a5478d8dce38cedd399",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 169,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8t9FFdry",
+ "data": {
+  "actual_result": "The bar resets. Probably just a graphical error, but sometimes images don't send if someone keep sending messages. (Has happened to me a handful of times)",
+  "expected_result": "The bar continues to fill up like normal",
+  "short_description": "When uploading an image, the progress bar resets when sending a message or flipping your phone",
+  "steps_to_repro": "- upload an image to a dm or channel or choice - when the bar starts filling up, send, or make another user send a message to the same channel. Or flip your phone.  "
+ }
+}

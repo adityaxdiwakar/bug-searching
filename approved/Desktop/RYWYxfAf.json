@@ -1,0 +1,30 @@
+{
+ "id": "5b681ea98de41933a9a5eddc",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2640,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RYWYxfAf",
+ "data": {
+  "system_settings": "Windows 10 Home v1703 build 15063.1206",
+  "client_settings": "Desktop build 20845",
+  "actual_result": "The formatting is incorrect in one of a couple different ways:",
+  "expected_result": "The message should appear as sent.",
+  "short_description": "Issue with formatting when \"Automatically convert emoticons\" is enabled",
+  "steps_to_repro": "- Type and send a message consisting of these three things on different lines:- `<`- A web link- Anything represented as `<ID>` on Discord's end (a member or role ping, channel call, emoji, etc)"
+ }
+}

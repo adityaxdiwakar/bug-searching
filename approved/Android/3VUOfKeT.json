@@ -1,0 +1,17 @@
+{
+ "id": "5c2d97b2d2ee0b22a911fd55",
+ "closed": false,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 2409,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3VUOfKeT",
+ "data": {
+  "system_settings": "Samsung Galaxy Tab A, Android 7.1.1",
+  "client_settings": "Android Alpha 8.2.2",
+  "actual_result": "The member list won't open.",
+  "expected_result": "The member list opens fine.",
+  "short_description": "Okay so when in a group direct message (DM), change your screen orientation to landscape then try to open the member list (if you cannot reproduce on phone, try a tablet).",
+  "steps_to_repro": "- Go in a group direct message (DM). - Change your screen orientation to landscape. - Try opening the group's member list."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5ab5aa75e9d0e4cf439c6305",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1752,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ud2slMPC",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Messages are set to cozy. Build 12477",
+  "actual_result": "The formatting should have the text not centered, with a somewhat weird font and styling compared to normal discord.",
+  "expected_result": "Normal formatting in the members bar, just like how it should be in servers and group chats.",
+  "short_description": "bad formatting for the member bar in group chats",
+  "steps_to_repro": "- Step 1 - Create a group (3+ people) Step 2 - Send a message and notice the messed up right side bar that houses the members."
+ }
+}

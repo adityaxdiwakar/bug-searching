@@ -1,0 +1,30 @@
+{
+ "id": "5ae204d4c3d4e43c2eaec7a2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1891,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dpXfuP7p",
+ "data": {
+  "system_settings": "Windows 7 Enterprise x64",
+  "client_settings": "Discord Canary (Build 14116) through Google Chrome Canary (Version 68.0.3409.0)",
+  "actual_result": "Instead of fully scrolling through the member list, it stops and starts to scroll through the user's server list.",
+  "expected_result": "The member list is supposed to continue to scrolling.",
+  "short_description": "When scrolling through member list on the right, server list on left will scroll instead.",
+  "steps_to_repro": "- Middle click the members list on the right of discord web page with a mouse - Scroll downwards without turning the scroll button"
+ }
+}

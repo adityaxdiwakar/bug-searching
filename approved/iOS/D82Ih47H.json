@@ -1,0 +1,17 @@
+{
+ "id": "5c391cf0e7d72984b3e1db11",
+ "closed": false,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 1258,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/D82Ih47H",
+ "data": {
+  "system_settings": "iPhone 7 12.1",
+  "client_settings": "2.4.2",
+  "actual_result": "Image is uploaded and compressed as an emoji i.e. :emoji_##: and is cropped to a square.",
+  "expected_result": "Should say file too big, or not accept the image.",
+  "short_description": "Testflight allows uploads of images above file size",
+  "steps_to_repro": "- Upload any image from your phone, like a selfie or screenshot - See as it is made into an emote"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58b1b4ab0c2346a37acea25d",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 198,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/brl22US1",
+ "data": {
+  "system_settings": " iPhone 6, iOS 10.2, Discord TestFlight  1.8.3(70)",
+  "actual_result": "After attempting, the app crashes",
+  "expected_result": "You leave the group and everything remains as normal",
+  "short_description": "Attempting to leave a group will crash app",
+  "steps_to_repro": "- Go to your friends list - Find (or create) a group chat - Attempt to leave it "
+ }
+}

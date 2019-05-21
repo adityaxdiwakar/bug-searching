@@ -1,0 +1,30 @@
+{
+ "id": "5adecd5842e776253d50add1",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1882,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tSBK8Flq",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1709)",
+  "client_settings": "Discord Canary 0.0.204 (14045)",
+  "actual_result": "It jumps like 2-3 user size jumps",
+  "expected_result": "It shouldn't jump in the member list",
+  "short_description": "In lazy guilds the member list will randomly do very big jumps while scrolling",
+  "steps_to_repro": "- Go to a server with lazy guild - Try to scroll back and forth in the member list (seems to be happen when you scroll over a role name in the member list)"
+ }
+}

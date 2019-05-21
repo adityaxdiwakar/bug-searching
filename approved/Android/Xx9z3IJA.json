@@ -1,0 +1,24 @@
+{
+ "id": "59a6ee6353c5c0f97791b267",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 672,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Xx9z3IJA",
+ "data": {
+  "system_settings": "Android 7.1.1 on Moto Z play (droid)",
+  "client_settings": "Discord alpha (Version 4.1.1)",
+  "actual_result": "the red notification is present when you come back from the multitasking into the discord app.",
+  "expected_result": "After viewing the message, the red notification should be gone when you multitask and come  back into the app.",
+  "short_description": "When someone sends a dm while you are talking to them, then quickly switch to a server and use multitask to get into a different app, when you get back it still shows that you have a dm notification from the user who sent the message.",
+  "steps_to_repro": "- Step 1: Someone sends you a dm while you are viewing the conversation and switch to a server. - Step 2: open multitasking and switch to another app like chrome. - Step 3: Get back into discord via multitasking and you will still see a DM notification  that should have been gone by then."
+ }
+}

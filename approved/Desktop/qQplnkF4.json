@@ -1,0 +1,36 @@
+{
+ "id": "5b5d8aa40157ad6af0951c0c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2486,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5b8876495b10eb2013654345",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Firefox",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qQplnkF4",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6, Firefox Quantum 61.0.1 (64-bit)",
+  "client_settings": "20174",
+  "actual_result": "It is a little stretched together",
+  "expected_result": "It is even in size",
+  "short_description": "NSFW Channel warning image is stretched together a little compared to desktop [Firefox]",
+  "steps_to_repro": "- Create a channel and tick \"NSFW channel\" - Open the channel - Observe the warning sign"
+ }
+}

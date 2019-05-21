@@ -1,0 +1,30 @@
+{
+ "id": "5ba63f092c01216bf7205e71",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3017,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/B1Y5DrfM",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (1803)",
+  "client_settings": "Canary 22461",
+  "actual_result": "You can type",
+  "expected_result": "Typing doesn't work",
+  "short_description": "When the drag and drop popup is visible, you can still type in the chat box",
+  "steps_to_repro": "- DO NOT LET GO - whack random keys like they're moles in Whack a Mole - observe the text box in the background"
+ }
+}

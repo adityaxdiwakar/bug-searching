@@ -1,0 +1,15 @@
+{
+ "id": "583739de37abfa950c4651d4",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 91,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0wRqKWto",
+ "data": {
+  "actual_result": "It appears anyway System: Latest testflight iPhone 5 iOS 10.2 PB2",
+  "expected_result": "No \"Move to\" menu",
+  "short_description": "\"Move to\" appears in the profile regardless if the user is in voice or not",
+  "steps_to_repro": "- Open the profile of someone who is not in voice on a server you have `Move members` on. "
+ }
+}

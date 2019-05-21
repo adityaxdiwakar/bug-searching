@@ -1,0 +1,30 @@
+{
+ "id": "5a16022c38c1af41277ead4e",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 919,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fwH2Kzvg",
+ "data": {
+  "system_settings": "Pixel 2 XL, Android 8.0.0, Nov 5 '17 Security Patch (exclusive to 8.0, possibly Nov 5 patch as well)",
+  "client_settings": "Discord Alpha 5.7.0",
+  "actual_result": "White text on white toast",
+  "expected_result": "Black text on white toast",
+  "short_description": "Toasts appearing white on white (Pixel 2 Specific)",
+  "steps_to_repro": "- Make toast appear (I tap on Nitro badge) - Observe toast"
+ }
+}

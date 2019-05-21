@@ -1,0 +1,17 @@
+{
+ "id": "5ba990a57a75980cdbca5356",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2025,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CwsmyZVZ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "It collapses",
+  "expected_result": "It shouldn't do anything. It should collapse only if you tap the header of the entry",
+  "short_description": "[Audit Logs] Tapping the body of an expanded entry collapses it",
+  "steps_to_repro": "- Access Audit Logs - Expand an entry - Tap on the body (i.e the part that appeared after you expanded it)"
+ }
+}

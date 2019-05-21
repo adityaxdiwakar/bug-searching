@@ -1,0 +1,30 @@
+{
+ "id": "5b60ad72fa9015c6b52a1405",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2543,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XFztYG75",
+ "data": {
+  "system_settings": "Windows 10 x64 17713",
+  "client_settings": "Canary, Build: 20351",
+  "actual_result": "Edges of the mentioned flags aren't refined it has little annoying black edges.",
+  "expected_result": "Flags should be totally refined and there shouldn't be little annoying black things.",
+  "short_description": "Edges of Russia, Japan and Singapore flags aren't refined.",
+  "steps_to_repro": "- Open the server location popup - Look at Russia, Japan and Singapore flags - Observe"
+ }
+}

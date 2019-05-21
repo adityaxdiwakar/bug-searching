@@ -1,0 +1,29 @@
+{
+ "id": "58c391492d4bee488689d837",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 280,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9NpUN5YW",
+ "data": {
+  "system_settings": " Discord Alpha 3.4.3 on VFD 600 on version 6.0.1",
+  "actual_result": "User(s) disappear, only one left",
+  "expected_result": "All users should appear.",
+  "short_description": "User/s disappear in members list in server settings, if person shares a nickname with other people",
+  "steps_to_repro": "- Choose an user - Change your nickname to their username/nickname - etc "
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "5ab810ef23d10e5b3bb65b34",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 646,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AxGGtnaj",
+ "data": {
+  "system_settings": "iPhone X iOS 11.2.6",
+  "client_settings": "Discord TestFlight 2.2.6 (3440)",
+  "actual_result": "Keyboard swaps back to alphabet after the :1 and it enters ``:1pp:``",
+  "expected_result": "100 emoji is entered per norm as ``:100:``",
+  "short_description": "Keyboard improperly swaps from numbers to alphabet when entering an emoji string",
+  "steps_to_repro": "- Tap on text entry box - Attempt to enter ``:100:``"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a50f2636e92b3fac618cb0a",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1517,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yL4Pn3x0",
+ "data": {
+  "system_settings": "Windows 10 Pro Version 1709 [Build: 16299.125]",
+  "client_settings": "Release Channel: stable, Build Number: 9072, Version Hash: f546e8dff486ff50228e2ae54d8502fbfc9ba766",
+  "actual_result": "The call you are in is frozen, one way communication, the other end can hear you. You can rejoin the call but once you start to screenshare again you get a endless black loading screen until you restart Discord Client and it will work again.",
+  "expected_result": "Resume the call of as normal since you didn't leave the call, or at least rejoin the call instead of restarting discord client.",
+  "short_description": "Screenshare does not work until restart after you switch Window users.",
+  "steps_to_repro": "- Open a discord screenshare session. - CTRL + ALT + DEL - Click \"Switch User\" - Login to another user (Not sure if its due to me logging into another domain account) - Repeat from step 2 except log back into your normal account - See"
+ }
+}

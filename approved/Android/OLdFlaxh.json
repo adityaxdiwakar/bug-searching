@@ -1,0 +1,17 @@
+{
+ "id": "599333798930afc453bc4026",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 626,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/OLdFlaxh",
+ "data": {
+  "system_settings": "Android 4.4.4 - Samsung Galaxy Core Prime [SM-S820L]",
+  "client_settings": "DiscordApp 4.0.7",
+  "actual_result": "Discord freezes",
+  "expected_result": "The person should select and unselect accordingly",
+  "short_description": "Discord freezes when selecting friends to add to a new group chat.",
+  "steps_to_repro": "- click on the friends button - click on the new group chat button - select at least 5 to 7 people - spam-select the last person"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b5043da12b156d78902df2e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2323,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/v8M45YXU",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 19087",
+  "actual_result": "Name seems to be more upwards and not centered with the avatar",
+  "expected_result": "Name and avatar should be aligned and centered",
+  "short_description": "In the emoji section in a server, under the \"Uploaded By\", name and avatar aren't aligned",
+  "steps_to_repro": "- Go to a server - Upload an emoji - Observe the \"Uploaded By\" section, and the name and avatar under it"
+ }
+}

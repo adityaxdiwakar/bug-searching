@@ -1,0 +1,24 @@
+{
+ "id": "599f7ac00c4a34a8197ad087",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1045,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qLdQfL8l",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "DiscordPTB 0.0.34",
+  "actual_result": "Add friends to DM / Select friends-popup stays in screen",
+  "expected_result": "Everything works fine",
+  "short_description": "Add friends to DM popup will stay after language change",
+  "steps_to_repro": "- Have a DM Group with only you in it - Go to settings & then language - Change language so it reloads"
+ }
+}

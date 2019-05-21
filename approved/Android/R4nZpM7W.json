@@ -1,0 +1,16 @@
+{
+ "id": "58f1fcc6807502b7754f776f",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 372,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/R4nZpM7W",
+ "data": {
+  "system_settings": " Android 6.0, Discord Android Alpha 3.6.5",
+  "actual_result": "The colons disappear, losing the proper emoji formatting and making it plain text",
+  "expected_result": "Colons should persist before and after the emoji text to preserve the context while editing",
+  "short_description": "Colons around custom emoji disappear when editing a message",
+  "steps_to_repro": "- Long-tap on a message that contains a custom emoji, then select edit - Watch the colons disappear in the text field "
+ }
+}

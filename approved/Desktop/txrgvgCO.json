@@ -1,0 +1,16 @@
+{
+ "id": "58463e2a4781760a2eceb744",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 218,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/txrgvgCO",
+ "data": {
+  "system_settings": " Windows 10 Pro. [For Enharmonic#3999 UID 114189842513920002]",
+  "actual_result": "No new line.",
+  "expected_result": "The channel name properly displays, and goes to a new-line if need be.",
+  "short_description": "Channel quick-select when entering a description for an uploaded file does not properly display if it overflows the max textbox width.",
+  "steps_to_repro": "- Try to upload an image. Fill in the text box until there's just enough room to partially display a channel name. - Select a channel that will overflow the textbox size. Spacebar at the end in order for it to reset to the proper display. "
+ }
+}

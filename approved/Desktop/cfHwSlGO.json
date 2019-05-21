@@ -1,0 +1,24 @@
+{
+ "id": "59e67d360ba2845da066ff00",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1271,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cfHwSlGO",
+ "data": {
+  "system_settings": "Windows 10 64bit",
+  "client_settings": "discord canary, Build Number: 5964",
+  "actual_result": "Discord tries to highlight text, and does not move.",
+  "expected_result": "The window moves",
+  "short_description": "You cannot move the title bar by dragging on the discord logo",
+  "steps_to_repro": "- hold left click like you are moving the window over the new discord logo (top left) - try to move the window"
+ }
+}

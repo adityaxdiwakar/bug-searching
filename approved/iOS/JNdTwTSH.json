@@ -1,0 +1,15 @@
+{
+ "id": "583f188a7c2fcab0465d0292",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 94,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JNdTwTSH",
+ "data": {
+  "actual_result": "The \"move to\" menu shows up",
+  "expected_result": "The \"move to\" menu wouldn't show up",
+  "short_description": "Offline users appear as movable in the \"move to\" menu",
+  "steps_to_repro": "- Find an offline user in the userlist and click on them - note the \"move to\" menu that doesn't work "
+ }
+}

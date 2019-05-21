@@ -1,0 +1,24 @@
+{
+ "id": "59cfefcfa5f479d4b7cd710f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 772,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PQmFNfYo",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Android Alpha 5.2.6",
+  "actual_result": "The menu is closed and you returned to the previous screen, exactly like if you pressed the Back button.",
+  "expected_result": "The Settings menu you opened at step 1 should still be opened",
+  "short_description": "Pressing Home button after opening any settings page will close it",
+  "steps_to_repro": "-\u00a01) Open the settings page of anything in Discord: it could be server settings, channel settings, category settings, my account settings, or even the create invite menu or any user profile - 2) Just press the Home button (do **not** close the app) - 3) Go back to Discord"
+ }
+}

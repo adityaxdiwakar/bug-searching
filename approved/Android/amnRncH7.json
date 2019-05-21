@@ -1,0 +1,24 @@
+{
+ "id": "595023d5d779e2f50664798c",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 528,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/amnRncH7",
+ "data": {
+  "system_settings": "Android 5.1 Android 4.2.2 Win 10 x64 canary",
+  "client_settings": "Discord 3.9.7/0.0.157",
+  "actual_result": "both are connected and will eventually get a connecting loop if on phones; if on pc and phone the phone will get disconnected but the vc diaglogue sticks",
+  "expected_result": "the first device shouldve disconnected and the second one should be in vc",
+  "short_description": "User doesn't get disconnected when on different account, different result when on pc",
+  "steps_to_repro": "- have 2 devices on the same account - have one connect to a vc (always android)  - have the other connect to a different vc in the same server (Android or pc)- observe both devices"
+ }
+}

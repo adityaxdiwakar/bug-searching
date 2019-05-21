@@ -1,0 +1,24 @@
+{
+ "id": "59bec35d40964e0e4dfb53c5",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 736,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/97NRJ3WU",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Beta 5.1.7",
+  "actual_result": "If you are unlucky, category names will be a bit cut off at the top",
+  "expected_result": "Category names written properly",
+  "short_description": "if you look closely at the category names, the letters are a bit cut off at the top. This is pretty random: sometimes it's reproducable on a certain server, sometimes not",
+  "steps_to_repro": "- Go to any server which has categories - Look at the category names in the channels list- etc"
+ }
+}

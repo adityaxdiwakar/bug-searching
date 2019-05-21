@@ -1,0 +1,17 @@
+{
+ "id": "5b242b045d98202c8748ffd4",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2144,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qFDc1cxy",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS, Asus Netbook F551C, Intel Core i3 64bits",
+  "client_settings": "Discord Canary 17022",
+  "actual_result": "When the texfield is expanded to maximum, doing Shift + Enter does absolutely nothing",
+  "expected_result": "I should be allowed to input as many linebreaks as I want as long as I'm below the user note character limit, and the textfield should be scrollable in case it cannot expand anymore",
+  "short_description": "Discord refuses to input new lines in user notes when the textbox is expanded to maximum",
+  "steps_to_repro": "- Click on any user to open mini profile - Write something in first line, then do Shift + Enter to input a linebreak - Repeat this step until the textbox is expanded to maximum - Keep going on step 2"
+ }
+}

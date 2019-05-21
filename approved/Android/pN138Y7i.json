@@ -1,0 +1,17 @@
+{
+ "id": "5aec4537be4ff149515155a3",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1365,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pN138Y7i",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 Nougat",
+  "client_settings": "Discord Alpha 6.6.1 (661)",
+  "actual_result": "Attachment still comes around with you after switching channels even though the message(from optional step 4) isn't coming with you",
+  "expected_result": "Attachment disappears and is stuck to the channel you selected the attachment",
+  "short_description": "Attachments stay with you even when switching channels",
+  "steps_to_repro": "- Click the plus icon in the left side of the message box - Add an attachment but do not send - Exit the menu - Write a message (optional) - Switch channels"
+ }
+}

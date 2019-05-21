@@ -1,0 +1,30 @@
+{
+ "id": "5aabc870b038b34bde1049c0",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1206,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KqXFcz5J",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.3.8",
+  "actual_result": "The in: option and your recent searches are missing until you reopen search. Bug is kinda inconsistent, I could reproduce 4/6 times.",
+  "expected_result": "It should display all 4 search options and your recent searches",
+  "short_description": "The in: search filter and recent searches disappear when searching for something, closing and immediately opening search again",
+  "steps_to_repro": "- Search for messages sent by a user (I did from:Dabbit Prime#0896) - Press the back button present on the top left of the screen - Immediately click on the magnifying glass again. This has to be done almost instantly to reproduce the bug"
+ }
+}

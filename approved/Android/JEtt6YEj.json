@@ -1,0 +1,24 @@
+{
+ "id": "5bbec1df43e59779f2c1383e",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2139,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JEtt6YEj",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.6.7",
+  "actual_result": "The log of the previous filter pops up for a second, and switches..",
+  "expected_result": "It switches smoothly.",
+  "short_description": "When changing the \"filter by user\" for audit log, your previous filter pops up for a second.",
+  "steps_to_repro": "- Go to audit log, and go to filter by user. Choose a user who has made an audit log action. - Then, go back to the filtering, and switch to another user that has at least 1 audit log action."
+ }
+}

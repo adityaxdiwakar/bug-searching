@@ -1,0 +1,23 @@
+{
+ "id": "58beb485b7902c813025d69d",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 274,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/szfRYNf1",
+ "data": {
+  "system_settings": " Android 6.0, discord alpha 3.4.2, Mobile device: Galaxy S4",
+  "actual_result": "sentence is not in italics and has * at the start and end",
+  "expected_result": "All the sentence is in italics",
+  "short_description": "Italics are kind of bugged",
+  "steps_to_repro": "- Write something with space after every letter Ex: h e l l o - Put italics text format - send "
+ }
+}

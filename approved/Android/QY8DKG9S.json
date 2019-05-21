@@ -1,0 +1,29 @@
+{
+ "id": "588a083718fa3b1f9fff0d28",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 192,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QY8DKG9S",
+ "data": {
+  "system_settings": " Windows 7 Pro x64, latest Discord Canary, Android 5.1, Discord Alpha v3.2.8",
+  "actual_result": "The Android device stays in connected to the voice channel (will not transmit voice though)",
+  "expected_result": "The Android device should be kicked out of the voice channel",
+  "short_description": "Joining a voice channel on Android keeps you in the channel after reconnecting on PC",
+  "steps_to_repro": "- Join a voice channel on PC (Untested on iOS) - Connect to the same voice channel on an Android device - Reconnect on PC "
+ }
+}

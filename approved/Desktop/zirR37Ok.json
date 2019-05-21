@@ -1,0 +1,17 @@
+{
+ "id": "5bbaf8c366c87b3e7d946ea1",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 3114,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zirR37Ok",
+ "data": {
+  "system_settings": "macOS High Sierra 10.13.6",
+  "client_settings": "Release Channel: stable, Build Number: 25638, Version Hash: f15ca06af6585c4876517507b671eec2b4b70ddb",
+  "actual_result": "Shows the full-screen icon with arrows pointing out. (Note: This is a discord glitch and not an apple glitch as other applications can do this fine.)",
+  "expected_result": "Show an icon with arrows pointing in to resemble leaving full screen.",
+  "short_description": "Fullscreen icon shows for the leave full screen button. (Bug only appear for mac)",
+  "steps_to_repro": "- Click fullscreen - The icon for going out of full screen will still show the fullscreen icon."
+ }
+}

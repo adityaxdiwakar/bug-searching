@@ -1,0 +1,30 @@
+{
+ "id": "5acbc7e1e4e858997af41a57",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1813,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/J4vJYRir",
+ "data": {
+  "system_settings": "Macbook Pro 13\" (2017) - macOS High Sierra 10.13.3 (17D47)",
+  "client_settings": "Canary Build 13313",
+  "actual_result": "The text/typing cursor appears making it seem that you may highlight or edit the text channel name when in fact if you click it you drag the discord window around",
+  "expected_result": "I believe when hovering over the channel name the cursor should appear as the default triangular cursor as if you click and hold you drag the discord window around",
+  "short_description": "Text cursor to drag instead of highlight",
+  "steps_to_repro": "- Hover over the current text channel name at the top of discord - Attempt to highlight channel name"
+ }
+}

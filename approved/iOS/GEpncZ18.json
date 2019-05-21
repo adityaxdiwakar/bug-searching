@@ -1,0 +1,16 @@
+{
+ "id": "590cfcde678b1d9ad5f262fb",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 238,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/GEpncZ18",
+ "data": {
+  "system_settings": " IOS 10.3, Latest Discord Public IOS",
+  "actual_result": "You're stuck with messages whizzing by. happened earlier to me in hypeSquad bot spam channel",
+  "expected_result": "You *should* be able to change to a different channel",
+  "short_description": "Can't close channel with continuous stream of messages",
+  "steps_to_repro": "- look at text channel with constant messages - more than 10 or so messages per second - Two to switch to another chat "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a7a2ea9171c47f6a2ada753",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 567,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/U5ESwYEB",
+ "data": {
+  "system_settings": "iPhone 8 + , iOS 11.3 (PB1)",
+  "client_settings": "Discord TestFlight 2.2.2 (2352)",
+  "actual_result": "Long channel name continues to the next line and the server\u2019s name is cut off.",
+  "expected_result": "Long Channel name ends with ... and you can see the full server name",
+  "short_description": "Server Name is cut off in long channel name from recent mentions.",
+  "steps_to_repro": "- Make a channel with an extremely long name. - Have someone to ping you there. - Click on Recent Mentions - Observe."
+ }
+}

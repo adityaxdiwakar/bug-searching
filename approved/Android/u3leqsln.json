@@ -1,0 +1,17 @@
+{
+ "id": "5afc19eeb0b893269e73e0b4",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1425,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/u3leqsln",
+ "data": {
+  "system_settings": "Moto G3 - Android 6.0.1 and Moto G5S Plus Android 8.0.0",
+  "client_settings": "Discord 6.6.1 Beta",
+  "actual_result": "Keyboard is not opening",
+  "expected_result": "Keyboard should open if we touch the keyboard icon",
+  "short_description": "Keyboard button not working in text area",
+  "steps_to_repro": "- Go to any channel - Press Plus icon in the Text area in left - Select keyboard button - Sometime it will open, if not slide to the right - And it can happen if its is done vice versa"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5ba987b588941d2d70b2e8e2",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2019,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0EbpgPSO",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "The ban message does not show when clicking on the ban",
+  "expected_result": "A ban message should appear when you click on the banned user",
+  "short_description": "Banning someone with a ban message doesn't show the ban message in the audit logs (however a ban message does show on desktop)",
+  "steps_to_repro": "- Ban someone and make sure to include a ban message - Go to the Audit Logs and observe the ban"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a2963dc9831c5ad1d85ea02",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1431,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5yDmzVbY",
+ "data": {
+  "system_settings": "Macbook Pro 2015 Screen resolution: 15,4-inch (2880 x 1800), MacOS Sierra: Version 10.13.1",
+  "client_settings": "Discord Canary, 0.0.172 (0.0.172)",
+  "actual_result": "There is a little gap in the upper corners",
+  "expected_result": "The corners are filled",
+  "short_description": "The corner of role addind doesnt fill properly when someone is playing a game (check attachment)",
+  "steps_to_repro": "- Find someone that is playing a game - Make sure he is kinda at the bottom of the players list so the role add menu will be on top and not below - Have role add permissions - See the little corners not properly filled"
+ }
+}

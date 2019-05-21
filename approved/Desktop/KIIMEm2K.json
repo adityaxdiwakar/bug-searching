@@ -1,0 +1,16 @@
+{
+ "id": "5907ce4a0a13343242e760a4",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 583,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KIIMEm2K",
+ "data": {
+  "system_settings": " Latest Canary. Win. 10 x64 / Samsung S7 Latest Alpha.",
+  "actual_result": "Differing displays.",
+  "expected_result": "The 2 server icons should be displayed in the same way on both platforms.",
+  "short_description": "Servers with no profile pic/underscores display inconsistently between between mobile and desktop clients",
+  "steps_to_repro": "- Create a new server with two words with an underscore inbetween them. (ex. \"broken_gamers\") - Look at server icon in the server list on desktop, see it is shown with \"b\" - Look at server icon in server list on Android, see it is shown with \"b_g\". "
+ }
+}

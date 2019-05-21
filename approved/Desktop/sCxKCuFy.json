@@ -1,0 +1,24 @@
+{
+ "id": "59dbe5829620ebb3d0c8a6b3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1245,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sCxKCuFy",
+ "data": {
+  "system_settings": "MacOS High Sierra",
+  "client_settings": "Discord Canary 0.0.155",
+  "actual_result": "The mouse disappears",
+  "expected_result": "Nothing should happen",
+  "short_description": "[Mac Only] When pressing enter in server settings in the permissions area the mouse hides.",
+  "steps_to_repro": "- Open up server permissions menu - Press enter - See how mouse has disappeared"
+ }
+}

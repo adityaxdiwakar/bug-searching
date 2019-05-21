@@ -1,0 +1,30 @@
+{
+ "id": "5c342e194f68f10d3df09d62",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3584,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0QeUA2ID",
+ "data": {
+  "system_settings": "Windows 7 64-bit",
+  "client_settings": "Release Channel: canary, Build Number: 30441, Version Hash: 5cef09fafbb46c3d0b505fcc3a1864a062681741",
+  "actual_result": "The server remains there on the list (It vanishes after you close their profile and open it again)",
+  "expected_result": "The left server should disappear from the list of mutual servers",
+  "short_description": "Left server is displayed on the mutual servers tab of any user's profile",
+  "steps_to_repro": "- Navigate to the 'Mutual Servers' tab of their profile - Right click on any of the mutual servers and leave that mutual server (Do this just via the user's profile)"
+ }
+}

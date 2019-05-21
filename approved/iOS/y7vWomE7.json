@@ -1,0 +1,30 @@
+{
+ "id": "596fe0c98dc1b8c5b0b0ce56",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 269,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/y7vWomE7",
+ "data": {
+  "system_settings": "iOS 10.3.3, iPhone 6",
+  "client_settings": "1.8.9 (82) TF",
+  "actual_result": "The sensitivity slider appears with both sides orange",
+  "expected_result": "The sensitivity slider appears with an orange portion on the left and green on the right",
+  "short_description": "Toggling auto-sensitivity after changing voice sensitivity turns the slider orange",
+  "steps_to_repro": "- Go to User Settings - Access Voice settings - Ensure input mode is Voice Activity and Auto Sensitivity is off - Move the Sensitivity slider - Turn Auto Sensitivity on and then off"
+ }
+}

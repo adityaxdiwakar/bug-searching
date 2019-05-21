@@ -1,0 +1,30 @@
+{
+ "id": "5b7b27efe1b144593923c4a5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1857,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pPAiYnGm",
+ "data": {
+  "system_settings": "s4 mini, Android 4.4",
+  "client_settings": "beta 7.3.7",
+  "actual_result": "The channel is unread but its empty",
+  "expected_result": "The channel isnt unread",
+  "short_description": "A channel is marked as unread but there arent any messages inside",
+  "steps_to_repro": "- get a second account or a friend - create a channel and disallow the friend to see the messages - send a message - look inside the channel with your second acc"
+ }
+}

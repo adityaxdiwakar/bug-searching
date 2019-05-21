@@ -1,0 +1,17 @@
+{
+ "id": "5a3c78475d5d7de6c0508170",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 986,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/D1gVbssk",
+ "data": {
+  "system_settings": "Android 7.0 Moto G4",
+  "client_settings": "Android Alpha 5.9.3",
+  "actual_result": "It does nothing and you have to use the back button to get out",
+  "expected_result": "It should Cancel and exit you out of the box",
+  "short_description": "Unable to Canel kicking",
+  "steps_to_repro": ""
+ }
+}

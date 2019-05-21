@@ -1,0 +1,17 @@
+{
+ "id": "5bd1b9790cac666e3967987f",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1116,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Sk2ROTF0",
+ "data": {
+  "system_settings": "iPhone SE - iOS 12",
+  "client_settings": "TestFlight 8616",
+  "actual_result": "It adds a new line",
+  "expected_result": "It should not leave an empty line in the reason. Or it should not make you unfocus from the text box",
+  "short_description": "Pressing the return key when adding a ban reason leads to a new empty line in the audit log details",
+  "steps_to_repro": "- Find someone to ban - Type a ban reason then hit the return key - Go to the audit log details"
+ }
+}

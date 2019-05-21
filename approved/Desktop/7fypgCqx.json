@@ -1,0 +1,24 @@
+{
+ "id": "59870f8fa82885b4538ffc65",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 936,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7fypgCqx",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "Shows half of them",
+  "expected_result": "Show all the channels",
+  "short_description": "Channels disappear",
+  "steps_to_repro": "- Go to a server with the 'invite friends' bit enabled - Go to this server - then channels are gone"
+ }
+}

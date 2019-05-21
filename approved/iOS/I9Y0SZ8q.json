@@ -1,0 +1,30 @@
+{
+ "id": "59c818208101157a2791348f",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 342,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I9Y0SZ8q",
+ "data": {
+  "system_settings": "Iphone 7 iOS, 11.0",
+  "client_settings": "iOS Discord (Stable) 1.9.1",
+  "actual_result": "Sometimes it doesn't send and you need to leave / rejoin the discord to make them send",
+  "expected_result": "The pictures send",
+  "short_description": "Image / Screenshots don't send with iCloud Photo Library enabled.",
+  "steps_to_repro": "- Enable iCloud Photo Library. If already Enabled, disable and then reenable it.- Take a screenshot or find a picture in your camera roll - Try to send it to a DM or to a server (This bug  doesn't work 100% of the times)"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bb9824370b66029dbcd4ed5",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2119,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DgSlZsJ3",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 762",
+  "actual_result": "The arrow almost touches the timestamp.",
+  "expected_result": "The arrow is a bit far away.",
+  "short_description": "The expand arrow is oddly close to the time/time duration stamp in an audit log entry. [Small screened devices specific]",
+  "steps_to_repro": "- Change the colour of a role many times (or do anything that creates audit log entries that show a time period). - Open Audit log. - Observe how the expand arrow is oddly close to the time duration/period."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b8a39316ff4976ba11ce7c6",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1909,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ifv3t31W",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, Android 7.0",
+  "client_settings": "Discord Alpha 7.4.5",
+  "actual_result": "You will be set as offline",
+  "expected_result": "Should update your change without any issues",
+  "short_description": "Changing settings of Privacy & Safety sets you offline",
+  "steps_to_repro": "- Open Discord - Open the left sidebar - Click onto the settings icon - Click onto 'Privacy and Safety' - Change anything"
+ }
+}

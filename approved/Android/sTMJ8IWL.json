@@ -1,0 +1,30 @@
+{
+ "id": "5b346f43a570fc0a8a09c8fc",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1613,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sTMJ8IWL",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 699",
+  "actual_result": "Your profile has a black background.",
+  "expected_result": "Your profile should have a transparent background.",
+  "short_description": "When you join and speak in a voice channel, your profile picture is shown in black background even if your profile's background is transparent.",
+  "steps_to_repro": "- Join a voice channel. - Open the channel drawer and go to a text channel and close keyboard. - Speak in the voice channel."
+ }
+}

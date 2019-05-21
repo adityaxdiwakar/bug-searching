@@ -1,0 +1,24 @@
+{
+ "id": "59608b7398e3d4c72b52ff01",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 827,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CGNt4lUD",
+ "data": {
+  "system_settings": "Windows 10 PRO x64 (1607)",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "It doesn't get moved and you end up having to type again",
+  "expected_result": "The text you typed in the chat box moves itself to the comment box in the upload dialog",
+  "short_description": "Text from chat box doesnt auto move to upload dialog",
+  "steps_to_repro": "- Type something in the chat box - upload an image"
+ }
+}

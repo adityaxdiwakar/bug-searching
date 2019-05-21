@@ -1,0 +1,17 @@
+{
+ "id": "5a3ad4428c9f221455d51ecf",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 976,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/a3EP41fA",
+ "data": {
+  "system_settings": "LG Xpower 6.0.1",
+  "client_settings": "Alpha 5.8.9",
+  "actual_result": "icons are dimmed",
+  "expected_result": "icons should be as bright as other",
+  "short_description": "dimed download, share and open in browser icons",
+  "steps_to_repro": "- tap on photo - look at icons in top right corner"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59fbcaf1a2f9ab56eb2650e1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1347,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qGK0M9Ix",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (Build 1607)",
+  "client_settings": "Discord Canary 0.0.169 (Build 6746)",
+  "actual_result": "You have the search window still open and you can see the messages in the private channel. (not jump though)",
+  "expected_result": "The search window shouldn't still be open when you rejoin the server and allow you to see messages in the private channel through the search window",
+  "short_description": "If you have the search window open in a private channel and leave the server and rejoin, The search window is still open",
+  "steps_to_repro": "- Make a private channel locked with a role - Asign the user the role to access the private channel - Let the user go to the private channel and open search - Search up a keyword - Let the user leave the server - Let the user rejoin the server"
+ }
+}

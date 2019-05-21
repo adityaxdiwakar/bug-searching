@@ -1,0 +1,30 @@
+{
+ "id": "5bbeee8a89841916b6f340e6",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 2144,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IzMCNuRu",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "7.6.7",
+  "actual_result": "\"unclaimed account\" toast pops up.",
+  "expected_result": "It logs you out properly.",
+  "short_description": "When you press \"log out\", a \"unclaimed account\" toast pops up.",
+  "steps_to_repro": "- Log out."
+ }
+}

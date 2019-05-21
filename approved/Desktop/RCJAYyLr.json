@@ -1,0 +1,30 @@
+{
+ "id": "59f11a386a982c7e91709d5d",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1321,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RCJAYyLr",
+ "data": {
+  "system_settings": "Windows 7 Professional",
+  "client_settings": "Discord Canary 0.0.167",
+  "actual_result": "The line flickers",
+  "expected_result": "Line should be solid, not flickering.",
+  "short_description": "The line that separate the text box and the recent message sent flickers",
+  "steps_to_repro": "- Go to any text channel - Hover your mouse at the bottom of a message just above the text box - Watch the line flicker"
+ }
+}

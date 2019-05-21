@@ -1,0 +1,15 @@
+{
+ "id": "585e252ebf23f752784ab0b9",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 157,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/HYYzGD2s",
+ "data": {
+  "actual_result": "The text looks out of place",
+  "expected_result": "The text should fit in the box",
+  "short_description": "In certain languages (for example Bulgarian) text looks out of place in small boxes [REPOST]",
+  "steps_to_repro": "- Switch language to Bulgarian - Join a voice chat (just an example, there are more occurunces of this bug) - Look at the buttons. "
+ }
+}

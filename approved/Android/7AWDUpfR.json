@@ -1,0 +1,16 @@
+{
+ "id": "58dae5b6d0996dbcc8b2a4a2",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 323,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7AWDUpfR",
+ "data": {
+  "system_settings": " Android 6.0 (Samsung Galaxy J7 2016), Discord 3.5.7",
+  "actual_result": "App lags way too much",
+  "expected_result": "The app continues functioning properly",
+  "short_description": "Lag after long voice calls",
+  "steps_to_repro": "- Open the app - Connect to a VC - Be in a VC for long "
+ }
+}

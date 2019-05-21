@@ -1,0 +1,17 @@
+{
+ "id": "5ab5a36d5507a82edcb0ab20",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1222,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VfjHaqz0",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.2",
+  "actual_result": "The link doesn't send and shows an infinite file progress bar instead. Only way to get rid of it is by killing the app",
+  "expected_result": "The link should send without showing any kind of progress bar",
+  "short_description": "If you share a link (or anything without file) to a DM using Incoming Share, a file upload progress bar will appear indefinitely",
+  "steps_to_repro": "- Open YouTube - Find a video - Share to Discord - Select a DM - Send"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b91d896a2078f5cbc2aaf1d",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 977,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ux2Wwcwg",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 12",
+  "client_settings": "TestFlight 2.3.8 (7049)",
+  "actual_result": "The word \"nearby\" isn't capitalised when scanning",
+  "expected_result": "The word \"nearby\" is capitalised when scanning",
+  "short_description": "When scanning for nearby friends, the word \"nearby\" isn't capitalised",
+  "steps_to_repro": "- Go to the friends page - Open the Add Friend feature - Observe each instance of the word \"nearby\" when not scanning - Start scanning for nearby friends - Observe the word \"nearby\" when scanning"
+ }
+}

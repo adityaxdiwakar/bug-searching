@@ -1,0 +1,15 @@
+{
+ "id": "5813ac9d66d4511deb05b508",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 84,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/jetaLw1f",
+ "data": {
+  "actual_result": "reactions menu System specs: windows 8.1 Canary",
+  "expected_result": "No reactions menu",
+  "short_description": "right clicking `pinned message ` message shows the reactions selection menu but the reactions never show up",
+  "steps_to_repro": "- rightclick a pinned message message thing "
+ }
+}

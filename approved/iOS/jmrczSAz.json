@@ -1,0 +1,30 @@
+{
+ "id": "5972145cd25d3e4efd94ab77",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 271,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jmrczSAz",
+ "data": {
+  "system_settings": "iOS 10.3.3, iPad Air (1st Gen)",
+  "client_settings": "Discord Beta 1.8.9 (82)",
+  "actual_result": "App crashes",
+  "expected_result": "App should launch normally in the correct theme",
+  "short_description": "Switching Apperances Can Crash App",
+  "steps_to_repro": "- Ensure Sync in On- Force Close app- On Desktop change appearance.- Launch App"
+ }
+}

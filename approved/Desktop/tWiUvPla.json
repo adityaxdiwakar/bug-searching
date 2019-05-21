@@ -1,0 +1,15 @@
+{
+ "id": "5827071516394463fc6f37c6",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 132,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tWiUvPla",
+ "data": {
+  "actual_result": "Emojis trail off the server icon in server settings and in Mutual servers.",
+  "expected_result": "Emotes get cut off.",
+  "short_description": "when a guild name has a long string of emojis it goes outside of the box.",
+  "steps_to_repro": "- Set server name to \"http://hastebin.com/equhehedif.rb\" (Text inside) - accept server settings. "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a15e3856408f3ae81ff7e66",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1388,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2bULO3ZA",
+ "data": {
+  "system_settings": "Win 10 Pro x64 v1607",
+  "client_settings": "Desktop Canary 0.0.180 (Build 7557) - Desktop Stable 0.0.298 (Build 7490) - Web Canary - Web Stable",
+  "actual_result": "An infinite loading symbol appears in the pins box, implying that there is something wrong with the connection etc.",
+  "expected_result": "An informative error should tell you that you are being ratelimited",
+  "short_description": "Being ratelimited for opening pins leaves the pins menu infinitely \"loading\"",
+  "steps_to_repro": "- Open dev tools (CTRL/CMD+SHIFT+I), you'll want to keep an eye out for an error that ends in \" /pins 429 ()\" in the coming steps - Open as many different channel pins as quickly as possible until you see the aforementioned error, don't close the one that's open when you see the error - Observe the pins box, repeat step 2 if you clicked off the pins box too fast"
+ }
+}

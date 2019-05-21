@@ -1,0 +1,24 @@
+{
+ "id": "5bc695363312df4d9ed2ec4b",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1092,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wJqlJ615",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12.1 (dev beta 4)",
+  "client_settings": "TestFlight 2.3.9 (8385)",
+  "actual_result": "There\u2019s a small delay on the message",
+  "expected_result": "you should be able to smoothly paste the message",
+  "short_description": "Small delay when sending a message through emote picker",
+  "steps_to_repro": "- Have your keyboard open where u can chat somewhere  - Open emote picker - Type a message and use an emote through the emote picker - Observe"
+ }
+}

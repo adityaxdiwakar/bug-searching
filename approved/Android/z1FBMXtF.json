@@ -1,0 +1,15 @@
+{
+ "id": "58511eab1a99d4c7ddc6c9fe",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 140,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/z1FBMXtF",
+ "data": {
+  "actual_result": "It shows the dialog telling you your email isn't verified even if it is and logs you out a few seconds afterwards System Settings: Android 5.0.2 Version 3.1.9A",
+  "expected_result": "Discord logs you out",
+  "short_description": "Changing profile picture shows email not verified alert before logging you out",
+  "steps_to_repro": "- Go to settings and change your profile picture "
+ }
+}

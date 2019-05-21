@@ -1,0 +1,17 @@
+{
+ "id": "5b657705650d8b2e34d4a5e4",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2621,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SxuLkpRi",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 20790",
+  "actual_result": "Discord takes half a minute before the button changes to show that your camera is on, but still shows your screenshare not camera (asked the person I started a call with and they reported seeing my screenshare and not camera)",
+  "expected_result": "Discord turns on your camera immediately",
+  "short_description": "Attempting to turn on the camera via the mini box when screensharing registers the camera as on but still shows the screenshare",
+  "steps_to_repro": "- DM call someone or join a VC in a server with screenshare - Start sharing your screen - Switch to a server so you have the mini box that shows your screen - Press the \"Turn on camera\" button"
+ }
+}

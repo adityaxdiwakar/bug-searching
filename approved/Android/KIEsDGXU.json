@@ -1,0 +1,30 @@
+{
+ "id": "5adf6a6e008f941e9386635e",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1318,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KIEsDGXU",
+ "data": {
+  "system_settings": "Nexus 5X, Android 8.1.0",
+  "client_settings": "Discord Alpha 6.5.5",
+  "actual_result": "-If the hover text includes a space:",
+  "expected_result": "-The hyperlink text is displayed, the hyperlink hover text is not displayed, regardless of whether the hover text includes a space. This is what it was like before the recent update to embeds.",
+  "short_description": "Hyperlinks without URLs are broken (nothing gets displayed at all / what needs to be displayed doesn't get displayed, what needs to be invisible gets displayed)",
+  "steps_to_repro": "- View an embed with a hyperlink that has hover text and no URLOR:- View an embed with a hyperlink that has hover text, no URL and no space (e.g. `abc` vs `a bc`) in the hover text *Side note: if you don't have access to a bot to build embeds, shoot me a DM*"
+ }
+}

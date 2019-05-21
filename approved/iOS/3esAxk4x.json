@@ -1,0 +1,30 @@
+{
+ "id": "5a8360e23b0c023d0342ee4a",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 584,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3esAxk4x",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.5 & iPad Air 2, iOS 11.3 PB 2",
+  "client_settings": "TestFlight 2.2.2 (2352)",
+  "actual_result": "The button is always visible but has no functionality, just a visual bug.",
+  "expected_result": "The prune members option should only be visible when you have the kick permission.",
+  "short_description": "[Visual bug] Prune members option without necessary permissions visible",
+  "steps_to_repro": "- Give any role the permission to open the server settings (for example manage channels) but don't give the permission to kick members - Assign this role to any user - With this user open the server settings - Go to members - Click on the 3 dots - Click on the option `Prune`"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5af5364f324f1a338d698a03",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1968,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/s9QO0cc5",
+ "data": {
+  "system_settings": "Windows 7 SP1",
+  "client_settings": "[BUILD INFO] Release Channel: ptb, Build Number: 14896, Version Hash: 44d9d2dc23e67b538a6206151ec08ecd0ffbe467",
+  "actual_result": "The notification area expands and becomes some kind of electron webpage displaying the dragged image in full resolution. See attached video.",
+  "expected_result": "Nothing should happen.",
+  "short_description": "Desktop notification accepts file drag and drops on Win 7 / 8",
+  "steps_to_repro": "- Use the Discord desktop app - Have someone DM you to receive a desktop notification - Drag an image on the notification"
+ }
+}

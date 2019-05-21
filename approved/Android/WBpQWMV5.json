@@ -1,0 +1,30 @@
+{
+ "id": "5af369f79feb295b30069604",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1394,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WBpQWMV5",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.6.3",
+  "actual_result": "All backslashes are shown",
+  "expected_result": "Backslashes that are used to escape text should be hidden",
+  "short_description": "Backslashes used to escape chars are shown in embed titles",
+  "steps_to_repro": "- Create an embed with a bot/webhook with backslashes in the embed title. - Observe the generated embed on Android"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5ba9892bd5cf02020ef3c245",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2021,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mONOeNKl",
+ "data": {
+  "system_settings": "Moto G4, Android 7.0",
+  "client_settings": "Android Alpha 7.5.5",
+  "actual_result": "Instead says \"User#1234 created a text channel\"",
+  "expected_result": "It should say something like \"User#1234 create a voice channel\"",
+  "short_description": "Android Audit Log Describes Voice Channels as Text Channels",
+  "steps_to_repro": "- Create a new voice channel - Open audit logs on Android and read latest result"
+ }
+}

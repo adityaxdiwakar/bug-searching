@@ -1,0 +1,30 @@
+{
+ "id": "5b574f90c6c9892c98642b75",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2419,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/B3jEB9OA",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 19588",
+  "actual_result": "It gets cluttered and they go on top of each other",
+  "expected_result": "It's supposed to be farther away like in Stable",
+  "short_description": "When sending two messages in a row, and then editing the second message, the editing box goes on top of the previous message or too close to it",
+  "steps_to_repro": "- Send two messages in a row - Click edit on the second message - Observe the box and the previous message"
+ }
+}

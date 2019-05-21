@@ -1,0 +1,30 @@
+{
+ "id": "5b9a2e69f881065f2b608702",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2978,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/30rGYkdX",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 23554",
+  "actual_result": "User doesn't show up under recently played",
+  "expected_result": "User shows up under recently played",
+  "short_description": "Users don't show up in recently played on game modals if playing on Xbox",
+  "steps_to_repro": "- Have a user play a verified game on Xbox (game name opens a modal when clicked) - Open the game modal to make sure they're in the now playing - Close the game modal and have the user stop playing the game - Reopen the game modal and look at recently played - Sidenote: Other users that played the game on desktop recently didn't show under recently played while user was under now playing"
+ }
+}

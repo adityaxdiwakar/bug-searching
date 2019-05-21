@@ -1,0 +1,15 @@
+{
+ "id": "5818d0ab846948159049c911",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 84,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tM85GjdH",
+ "data": {
+  "actual_result": "User still shows in an empty voice channel.",
+  "expected_result": "When a user leaves a voice channel their name dosen't show in the channel.",
+  "short_description": "Users in voice channels when they're not actually there",
+  "steps_to_repro": "- Cannot find a reliable way to reproduce. "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59e99ac64da830e7bb9970e8",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1291,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WrJHO21d",
+ "data": {
+  "system_settings": "Windows 10, Os Build 15063.674",
+  "client_settings": "canary, Build Number: 6103",
+  "actual_result": "Instead of showing up as \"Bobs-Dj\" it doesn't auto full the \"-\" (ex:\"Bobs Dj\")",
+  "expected_result": "It should auto fill to be \"Bobs-Dj\"",
+  "short_description": "Dash does not replace space when editing a text channel",
+  "steps_to_repro": "- Create a text channel - edit the text channel name with a space in i, \"Bobs Dj\" - the dash wont auto fill"
+ }
+}

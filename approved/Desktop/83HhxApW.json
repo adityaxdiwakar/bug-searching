@@ -1,0 +1,17 @@
+{
+ "id": "5bae9a4e09133c209e78bea8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3058,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/83HhxApW",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.212 (24978)",
+  "actual_result": "It uses overlay exclusive bold font",
+  "expected_result": "It should have the regular font",
+  "short_description": "Text font is bold on the main client when it's supposed to be for the overlay only [Windows Specific]",
+  "steps_to_repro": "- Use Canary 24978 - Observe the font on names and text"
+ }
+}

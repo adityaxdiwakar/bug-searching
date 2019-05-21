@@ -1,0 +1,30 @@
+{
+ "id": "5bf5972bf3c05b7eebff63f2",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2342,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lYxmzrDw",
+ "data": {
+  "system_settings": "Samsung Galaxy Tab A 8.0, SM-T350, Android version 7.1.1",
+  "client_settings": "7.9.9",
+  "actual_result": "It just shows up the person who wrote the message but has no server name",
+  "expected_result": "It should pop up with the server name and the person who wrote the message",
+  "short_description": "Notifications shows up like a DM",
+  "steps_to_repro": "- Turn notifications on for a server - Wait until someone types something - Look at notification and it looks like a DM - Issue:   To prove it's a server:"
+ }
+}

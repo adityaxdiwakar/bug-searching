@@ -1,0 +1,42 @@
+{
+ "id": "5aa3ff6cad1c7ca8cfd85716",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1727,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a8c8dc528f24d48e872f4cb",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "text",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AmmLx2zY",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord PTB Build Number 11827 (Version Hash: 0ca594515d14a144ac9755c4ce0b2f399d60edac) / Discord Canary Build Number 11842 (Version Hash: 75b409e3eab0b2f27d20e162121f5f011193e014)",
+  "actual_result": "The roles will have the same color as the first mentioned role, until you switch channels",
+  "expected_result": "Both roles should show their appropriate colors",
+  "short_description": "Mentioning Multiple Roles separately in the Channel Topic shows the wrong color until you switch the channel",
+  "steps_to_repro": "- mention one colored role in the channel topic you are viewing - save, look at the channel - now mention another colored role in the same topic, before the other role"
+ }
+}

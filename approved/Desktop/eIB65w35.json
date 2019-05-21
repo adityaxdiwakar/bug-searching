@@ -1,0 +1,24 @@
+{
+ "id": "59e48356356ec07271257765",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1263,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eIB65w35",
+ "data": {
+  "system_settings": "AMD Radeon RX 460, Windows 10 Home, Creators Update(edited)",
+  "client_settings": "Everything default, except zoomed out once",
+  "actual_result": "The server remains, and will be like that until the profile is closed and reopened.",
+  "expected_result": "When you leave the server through mutuals, it vanishes from the list",
+  "short_description": "When you leave a server through someones mutual servers, it stays no matter how many times you try to leave.",
+  "steps_to_repro": "- Go to someones profile - Go to Mutual Servers - Right-Click on a server, leave it - It stays, presumably.- Try to leave it again"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5af4bce6f055fe96eea170e0",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 737,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PLVSLFXO",
+ "data": {
+  "system_settings": "iPhone 6s iOS 11.4 public beta",
+  "client_settings": "TestFlight 2.3.2 (4280)",
+  "actual_result": "The text channel and the channel list have different behaviours",
+  "expected_result": "When an action menu appears, scrolling should be disabled, or AT LEAST be consistant thoughout text channels and channel lists",
+  "short_description": "Unconsistant scrolling while holding",
+  "steps_to_repro": "- Go to any guild (where you are admin) - Tap and hold on any channel - When the actions menu appears, keep holding your finger - Move your finger up and down, and see how the channel list is scrolling in the background - Now, go into a text channel - Tap and hold on a message - When the actions menu appears, keep holding your finger - Move your finger up and down, and notice that you are not scrolling in the text channel in the background"
+ }
+}

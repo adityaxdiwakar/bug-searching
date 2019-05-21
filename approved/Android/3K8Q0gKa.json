@@ -1,0 +1,24 @@
+{
+ "id": "5a2eed0d4501c5a11f3f5456",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 943,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3K8Q0gKa",
+ "data": {
+  "system_settings": "Moto G5 Plus, Android 7.0",
+  "client_settings": "Discord 5.8.3",
+  "actual_result": "The \"(edited)\" text is always in English",
+  "expected_result": "The \"(edited)\" text should be in the language that you currently have selected",
+  "short_description": "The \"edited\" text that shows up when you edit a message is always in English, regardless of language selected.",
+  "steps_to_repro": "- Select a nonenglish language - Send a message in a server or DM - Edit the message - Notice the words \"(edited)\" are in English"
+ }
+}

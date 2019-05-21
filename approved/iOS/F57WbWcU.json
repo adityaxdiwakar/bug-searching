@@ -1,0 +1,16 @@
+{
+ "id": "589bd7a4e584c6027c95f723",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 179,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/F57WbWcU",
+ "data": {
+  "system_settings": " iPhone5S iOS10.2.1, TF 1.8.2",
+  "actual_result": "words extend outside screen edge",
+  "expected_result": "calendar preceding and coming months fit on the screen",
+  "short_description": "In search, preceding and coming months clipped on the calendar",
+  "steps_to_repro": "- Search for something with the before: or after: tag - Observe the calendar "
+ }
+}

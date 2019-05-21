@@ -1,0 +1,30 @@
+{
+ "id": "5bba6757040dd08311a28665",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2126,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eItjDAgg",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.6.3",
+  "actual_result": "It acts like autodetection was off, resulting in no voice being transmitted due to what you did at step 3",
+  "expected_result": "It should automatically detect your voice and transmit it",
+  "short_description": "Sensitivity autodetection is broken",
+  "steps_to_repro": "- Go to User settings > Voice & Video - Enable Voice Activity, and switch off \"Automatically determine input sensitivity\" - Slide the sensitivity bar all the way to the right so it's all yellow - Toggle on \"Automatically determine input sensitivity\" - Speak to make sure the bar can turn green in settings - Close settings and join a voice channel - Speak"
+ }
+}

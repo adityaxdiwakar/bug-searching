@@ -1,0 +1,30 @@
+{
+ "id": "5aa12cf008bf3f6ec4d6f2f8",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1715,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sox22OjO",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1709)",
+  "client_settings": "Discord Canary 0.0.203 (11719)",
+  "actual_result": "There is no banner for 2-4 seconds making you miss it while watching a video and leaving you confused.",
+  "expected_result": "The banner should appear since you have new mentions",
+  "short_description": "When you're full-screened on a video and get mentioned, there is no \"New\" mention banner in the server list for like 2-3 seconds",
+  "steps_to_repro": "- Make sure the server is all the way the bottom (because of an another bug the server list scrolls up) - Go into fullscreen on a YouTube video in a server - Get mentioned in the server you moved to the bottom - Go out of fullscreen - Observe there is no \"New\" mention banner for a few seconds"
+ }
+}

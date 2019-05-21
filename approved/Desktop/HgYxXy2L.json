@@ -1,0 +1,30 @@
+{
+ "id": "5b6f02159cd6742d883a60f5",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2672,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HgYxXy2L",
+ "data": {
+  "system_settings": "Windows 10 1607 x64",
+  "client_settings": "Release Channel: stable, Build Number: 21681",
+  "actual_result": "Leads to the server and opens voice chat as a text chat in the text client",
+  "expected_result": "Leads to the server and text client leads to a text chat in the server",
+  "short_description": "Clicking current voice channel in Overlay leads to a non-existent text channel",
+  "steps_to_repro": "- Start game with overlay - Join a voice channel - Click voice channel link under Voice Connected"
+ }
+}

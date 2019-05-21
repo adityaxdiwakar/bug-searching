@@ -1,0 +1,17 @@
+{
+ "id": "5ae68cb4a06baa9b01e78463",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1911,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/UjOFgCH3",
+ "data": {
+  "system_settings": "Windows 10 Pro",
+  "client_settings": "stable, Build Number: 14308, Version Hash: c6d6ff0164901ec2bdce707e57891c2a569b146a",
+  "actual_result": "It is partially covered up on the bottom",
+  "expected_result": "It should not be covered up",
+  "short_description": "If your game has letters like 'g' 'y' or 'j' then when you look at your game, they kindof covered up.",
+  "steps_to_repro": "- First be playing/Have a friend who is playing a game with lowercase letters like 'g' 'j' 'q' or 'y' - Then look at their game they are playing ( IN THE DM LIST )"
+ }
+}

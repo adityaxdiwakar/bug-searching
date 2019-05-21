@@ -1,0 +1,30 @@
+{
+ "id": "5b64755a4ee4854d39fa4cbc",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1769,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dfoSsY0M",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.3",
+  "actual_result": "The text wraps only if it would completely go out of embed",
+  "expected_result": "The header should wrap when the text reaches the border of the invite minus a padding equal to the left side",
+  "short_description": "The header of invite embeds have no padding to the right. Since the text is left-aligned it isn't noticeable when the text wraps in two lines, so it happens only if the name of the inviter has a particular length",
+  "steps_to_repro": "- Find an invite made by someone who has a username short enough so the header doesn't wrap in two lines, but not too short so the header doesn't leave too much space to the right (this might be hard to get, as it may also depend on screen resolution) - Look at the header of the embed"
+ }
+}

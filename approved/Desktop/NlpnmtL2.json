@@ -1,0 +1,17 @@
+{
+ "id": "5a753984b9293614ba1a64ac",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1620,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NlpnmtL2",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Stable 10161",
+  "actual_result": "Browser opened to resized version (notice the r at the end of the imgur id before the file extension)",
+  "expected_result": "Browser opened to original link",
+  "short_description": "imgur \"view original\" link broken",
+  "steps_to_repro": "- post an imgur link to large image (larger than your monitor) - click image for popover preview - click \"open original\" link"
+ }
+}

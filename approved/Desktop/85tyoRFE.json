@@ -1,0 +1,17 @@
+{
+ "id": "59e686249e9649faa55c2d9a",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1273,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/85tyoRFE",
+ "data": {
+  "system_settings": "Windows 10 64bit",
+  "client_settings": "canary, Build Number: 5974",
+  "actual_result": "Regression to wrong font.",
+  "expected_result": "Old font",
+  "short_description": "The font has changed for the title of servers/DM's in the top bar",
+  "steps_to_repro": "- look at top bar"
+ }
+}

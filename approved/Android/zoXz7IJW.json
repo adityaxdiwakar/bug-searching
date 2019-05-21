@@ -1,0 +1,30 @@
+{
+ "id": "5a3934d7d5fc02b06ab51487",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 975,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zoXz7IJW",
+ "data": {
+  "system_settings": "LG G60 X135 @ Android 4.4.2",
+  "client_settings": "Discord Alpha 5.8.7",
+  "actual_result": "Other messages send from another users and in other chats, servers or DMs get highlighted as well. It affects almost all messages, even those which are in the middle of grouped ones, send by a user is a short while.",
+  "expected_result": "Only the message that was searched for is highlighted. (Shifted to the left and blinked out in blue color.)",
+  "short_description": "Selected in search tab message highlight mechanism affects other messages in all chats. [Android 4.x only]",
+  "steps_to_repro": "- Search for a message with built-in search. - Tap on it so it will send you to the chat history. - Scroll the chat up and down."
+ }
+}

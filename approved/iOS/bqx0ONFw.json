@@ -1,0 +1,17 @@
+{
+ "id": "5bc31d7672814655a9049ec5",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1085,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bqx0ONFw",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12 Developer Beta 2",
+  "client_settings": "TestFlight",
+  "actual_result": "Menu is too close to bottom bar",
+  "expected_result": "Menu shouldn't be so close to bottom bar",
+  "short_description": "[iPhone X/XS/XS Max] Menu to change status is too close to bottom bar",
+  "steps_to_repro": "- Tap your profile to change your activity status"
+ }
+}

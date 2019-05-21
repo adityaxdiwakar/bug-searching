@@ -1,0 +1,24 @@
+{
+ "id": "5a1f002a22556dcd8de2e08d",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 930,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4OLk8Grb",
+ "data": {
+  "system_settings": "RR-OS S5 Mini Android 7.1.2",
+  "client_settings": "Discord Alpha 579",
+  "actual_result": "Progressbar do his job and nothing appears on the Channel",
+  "expected_result": "Pictures are sent or you get an error message because you sent to much pictures at once",
+  "short_description": "can only send 10 or lesser pictures at once",
+  "steps_to_repro": "- Send 11 or more images to a channel"
+ }
+}

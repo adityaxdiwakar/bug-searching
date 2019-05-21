@@ -1,0 +1,30 @@
+{
+ "id": "5b6ed4c03b19e15fff91f459",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2671,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/coYgLVMi",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 21680",
+  "actual_result": "You get a generic 500: Internal Server Error message",
+  "expected_result": "You're given a message saying debit cards aren't supported",
+  "short_description": "Setting a Debit card as your default payment method causes an internal server error",
+  "steps_to_repro": "- Add a debit card to your account - Check the box \"Make this payment method my default\" when editing the card details - Click Save"
+ }
+}

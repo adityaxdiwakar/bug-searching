@@ -1,0 +1,36 @@
+{
+ "id": "5ab1a747ce01d664a67873b5",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1746,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fsUTe3hY",
+ "data": {
+  "system_settings": "Windows 10 Pro, Version 1709, Build 16.299.309, Firefox Developer Edition Build 60.0b4 (64-bit), Firefox Stable Build 59.01 (64-bit)",
+  "client_settings": "Browser Stable 12336",
+  "actual_result": "It will bounce back where it was, and will not highlight the spot you want it to drop into when you are dragging it",
+  "expected_result": "The guild should place itself in the position that you dragged it into",
+  "short_description": "Unable to move guild into different position on guilds list in Firefox browser",
+  "steps_to_repro": "- Open Discord in Firefox (Dev or stable) - Try to drag one of your guilds into a different position"
+ }
+}

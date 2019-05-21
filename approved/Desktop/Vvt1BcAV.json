@@ -1,0 +1,30 @@
+{
+ "id": "5a233ea975f63b61d1ef72d9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1422,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Vvt1BcAV",
+ "data": {
+  "system_settings": "Windows 10 x64 v1709",
+  "client_settings": "Discord Canary 0.0.180, Build 7963",
+  "actual_result": "It is displayed in 12-hours",
+  "expected_result": "Time is displayed in 24-hours",
+  "short_description": "English UK no longer shows in 24-hour time",
+  "steps_to_repro": "- Switch your language to English UK in the Language settings"
+ }
+}

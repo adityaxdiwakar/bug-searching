@@ -1,0 +1,30 @@
+{
+ "id": "5af675b49e5802dd409bceda",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1972,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7q2EvgS0",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1803 Firefox 60.0",
+  "client_settings": "Discord Stable 15102",
+  "actual_result": "The email textbox is very slow in outputting text.",
+  "expected_result": "They both output text at the same speed.",
+  "short_description": "Non-password boxes in the new login screen are very slow. (Firefox only)",
+  "steps_to_repro": "- Type in the email box. - For comparison, type in the password box."
+ }
+}

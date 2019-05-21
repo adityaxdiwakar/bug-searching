@@ -1,0 +1,30 @@
+{
+ "id": "5abc42c72a87e55233042299",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1769,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JzsfZqCU",
+ "data": {
+  "system_settings": "Win 10 Home x64 FCU",
+  "client_settings": "Canary 12819",
+  "actual_result": "it gets moved to make it become off-center",
+  "expected_result": "the display modal will be fine and center",
+  "short_description": "Display modal found in the Recent Mentions modal gets slid off-center",
+  "steps_to_repro": "- open recent mentions - open display - watch as it slides across the recent mentions modal causing the display modal to be off-center"
+ }
+}

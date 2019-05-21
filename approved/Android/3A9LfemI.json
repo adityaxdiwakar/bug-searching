@@ -1,0 +1,24 @@
+{
+ "id": "5994b09c7617fd8ebc6ed944",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 627,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3A9LfemI",
+ "data": {
+  "system_settings": "Oneplus 5, 7.1.1",
+  "client_settings": "Android Alpha, 4.0.7",
+  "actual_result": "Both selected friend's profile open",
+  "expected_result": "Only the first selected friend's profile should open",
+  "short_description": "You can open two user profiles at once on the friend menu.",
+  "steps_to_repro": "- Go on the friend menu - With one finger, select (hold on) a friend - With another finger, select (hold on) another friend - Release both fingers at once - Repeat the instructions a few times if it didn't work"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bd1719e8817dd2860dce161",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1114,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gBAEyNVO",
+ "data": {
+  "system_settings": "Phone 6s iOS 12.1 Dev Beta 4",
+  "client_settings": "TestFlight 2.4.0 (8616)i",
+  "actual_result": "Entry does not show what permissions were granted/denied",
+  "expected_result": "Entry shows what permissions were granted/denied",
+  "short_description": "Granting/denying permissions to a role doesn't show what permissions were granted/denied",
+  "steps_to_repro": "- Go to a server where you can manage roles and view the audit log - Grant/deny permissions to a role - Go into the audit log and view the entry"
+ }
+}

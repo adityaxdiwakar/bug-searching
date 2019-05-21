@@ -1,0 +1,24 @@
+{
+ "id": "59bd4ef7cdf0c5b74c33070b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 730,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ptg5jkBz",
+ "data": {
+  "system_settings": "Android 4.4.4, Allview VivaH8LTE",
+  "client_settings": "Discord Alpha 5.1.7",
+  "actual_result": "They aren't (as you can see in attachments)",
+  "expected_result": "The icons/text should be perfectly/decently centered on the top right buttons",
+  "short_description": "The top right corner selectable buttons doesn't have the icons/texts centered perfectly (Android 4.4.4 Specific)",
+  "steps_to_repro": "- Case 1:Go to a channel, and long press the more options icon just to observe the button - Case 2:When creating a new server long press on the create button to observe it - Case 3:When trying to join a server, long press the join button to observe it - (see the attachments for a better explanation)"
+ }
+}

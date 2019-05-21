@@ -1,0 +1,15 @@
+{
+ "id": "583f5559237b3b8ff4f22a64",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 113,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4C7q1d60",
+ "data": {
+  "actual_result": "Saves and logs you right out, Public Beta on Android 6.0.1, Samsung Galaxy S6 Edge (reported for Frisk#4649)",
+  "expected_result": "Saves and goes back to server last on/exit user settings",
+  "short_description": "Saving changes on profile logs you right out",
+  "steps_to_repro": "- Goto User Settings - Make at least one change even a minor one - Hit save (disk icon) "
+ }
+}

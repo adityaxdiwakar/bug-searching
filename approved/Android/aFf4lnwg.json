@@ -1,0 +1,30 @@
+{
+ "id": "5bbf962ac7ffde4c13250715",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2150,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aFf4lnwg",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 768",
+  "actual_result": "it's after the nitro badge",
+  "expected_result": "Early Supporter should be before nitro badge like desktop",
+  "short_description": "Early supporter badge is in the incorrect spot",
+  "steps_to_repro": "- Open someone's profile that has early support and nitro badges - observe the placement"
+ }
+}

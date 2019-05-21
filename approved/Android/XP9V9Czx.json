@@ -1,0 +1,17 @@
+{
+ "id": "5c07cdf187262928cad69555",
+ "closed": false,
+ "idList": "5b65390c05de8f6af6fe13e9",
+ "idShort": 2376,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XP9V9Czx",
+ "data": {
+  "system_settings": "Moto g5s+ , Android 8.1",
+  "client_settings": "Android Alpha 8.0.9",
+  "actual_result": "Discord will detect it",
+  "expected_result": "Discord wont detect it anymore",
+  "short_description": "Discord will still detect the game even if you uninstall it",
+  "steps_to_repro": "- Start a game - Wait for discord detect  - Uninstall the game"
+ }
+}

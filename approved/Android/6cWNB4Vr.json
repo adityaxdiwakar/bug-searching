@@ -1,0 +1,17 @@
+{
+ "id": "5a50f143fca0b65fc6d081de",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1025,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/6cWNB4Vr",
+ "data": {
+  "system_settings": "OnePlus 5 running Oreo (8.0)",
+  "client_settings": "Discord Alpha 6.0.6",
+  "actual_result": "You can't, you have to actually tap/hold above the message, which does not happen to regular text messages",
+  "expected_result": "You can bring up the context menu to copy/edit/delete etc.",
+  "short_description": "You are not able to bring up the context menu if you try to tap/hold on a URL, and you actually have to do it above the link near the timestamp",
+  "steps_to_repro": "- Post an URL - Attempt to bring up the context menu to copy/edit/delete etc"
+ }
+}

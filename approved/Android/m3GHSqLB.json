@@ -1,0 +1,30 @@
+{
+ "id": "5afc6669be4b29ed25e70db1",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1427,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/m3GHSqLB",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.6.9",
+  "actual_result": "The first one that you unticked re-ticked itself",
+  "expected_result": "Both options should be unticked",
+  "short_description": "In Recent Mentions, if you untick both \"Include everyone and here\" and \"Include role mentions\" before the sheet closes, only one will remain",
+  "steps_to_repro": "- Go to Recent Mentions - Click the filter icon at top right - Untick both \"Include everyone and here\" and \"Include role mentions\" before the sheet closes - Re-open the filter sheet"
+ }
+}

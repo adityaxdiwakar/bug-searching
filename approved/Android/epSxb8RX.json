@@ -1,0 +1,30 @@
+{
+ "id": "5af702244d382ccc53d1d5b0",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1403,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/epSxb8RX",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.6.7",
+  "actual_result": "The button is clickable, and when clicked the app will constantly try to connect to the VC. You will see a box below the chat textfield saying \"Disconnected\" with a loading spinner. This box cannot be removed until app is restarted",
+  "expected_result": "The button shouldn't be clickable in the first place",
+  "short_description": "Long pressing a full voice channel in the channel drawer will allow you to attempt to join it, and doing so will cause a stuck loading bar to appear below the chatbox",
+  "steps_to_repro": "- Find a full voice channel - Open channel drawer - Long press the voice channel - Tap Connect"
+ }
+}

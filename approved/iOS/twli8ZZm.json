@@ -1,0 +1,17 @@
+{
+ "id": "5bcc0227705df62d57f04c3a",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1101,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/twli8ZZm",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.9 (8441)",
+  "actual_result": "Button to close user profile is too far from top of screen",
+  "expected_result": "Button to close user profile should be in same place as button to close user settings",
+  "short_description": "[iPhone XS Max] Button to close user profile is too far from the top of the screen",
+  "steps_to_repro": "- Open your user settings and observe the button to close - Go to a user profile and observe the positioning of the close button"
+ }
+}

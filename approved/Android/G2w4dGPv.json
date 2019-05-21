@@ -1,0 +1,30 @@
+{
+ "id": "5b35910c6a2edb77e091d658",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1619,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/G2w4dGPv",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.6",
+  "actual_result": "Using 1 random emote will cause ALL of your cached frequently used to be persisted back into the app data, so they won't be reset upon client restart",
+  "expected_result": "All frequently used emojis that were present before logging out are supposed to be gone next time client is restarted, and only the one you used at step 4 should remain",
+  "short_description": "Able to prevent frequently used emojis from being reset upon logging out/back in",
+  "steps_to_repro": "- Make sure you have some emojis in frequently used - Log out of Discord - Log back in. Your frequently used emojis will still be available in emoji picker, which is normal because they are still cached in your session memory. They will effectively be gone next time client is restarted... unless you follow next steps  - Open your emoji picker in any chat and just use 1 random emote - Trigger the local data persister, which is done by pressing Home button, waiting a few seconds and reopening Discord - Now you can restart Discord using force-close"
+ }
+}

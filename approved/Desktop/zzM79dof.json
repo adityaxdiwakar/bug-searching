@@ -1,0 +1,29 @@
+{
+ "id": "58f9f38ffcc43e6d7547dce0",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 527,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zzM79dof",
+ "data": {
+  "system_settings": " discord canary windows 8.1",
+  "actual_result": "user stays highlighted",
+  "expected_result": "user gets un-highlighted",
+  "short_description": "going into the change nickname screen then exiting leaves the user highlighted",
+  "steps_to_repro": "- go into server settings > members - press the three dots next to any user and select change nickname -press esc/ cancel "
+ }
+}

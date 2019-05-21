@@ -1,0 +1,17 @@
+{
+ "id": "5b6df94b26df3c37b0b95e8f",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 890,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0m5crzcx",
+ "data": {
+  "system_settings": "iPhone SE - iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.6",
+  "actual_result": "Text slowly fades in on top of old text",
+  "expected_result": "Text should be pasted with no animation",
+  "short_description": "Pasted texts fades in over current text.",
+  "steps_to_repro": "- Copy something to your clipboard - Type something in the text box - hit select all then past - Observe the animation"
+ }
+}

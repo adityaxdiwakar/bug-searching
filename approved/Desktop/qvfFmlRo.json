@@ -1,0 +1,17 @@
+{
+ "id": "591a45b0d331292f65664496",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 656,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qvfFmlRo",
+ "data": {
+  "system_settings": "MacOS Sierra 10.12.5 beta (16F71b)",
+  "client_settings": "0.0.29 BETA",
+  "actual_result": "It makes a .PNG file and makes the background transparent. Text is black nothing is inserted into the textbox.",
+  "expected_result": "The copied text is inserted into the message box and by pressing enter you sent text to you friend.",
+  "short_description": "Copy from Office word into Discord makes the text .PNG should be just clear text.",
+  "steps_to_repro": "- Have some text in Word. - Copy by: CRTL + C or right click and then copy - Paste by: CRTL + V or richt click and then paste"
+ }
+}

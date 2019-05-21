@@ -1,0 +1,30 @@
+{
+ "id": "5a804729dc1ad00fce548ee3",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 576,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ejFhY8Zj",
+ "data": {
+  "system_settings": "iPhone 5c-NE499BZ/A, iOS 10.3.2 (14F89)",
+  "client_settings": "Discord iOS Testflight 2.2.2 (2352)",
+  "actual_result": "You can see Clyde's profile and you can message them which creates a Group DM with only you in it called \"Unnamed\"",
+  "expected_result": "You shouldn't even be able to see Clyde's profile, even less message them",
+  "short_description": "You can view Clyde's profile and message them",
+  "steps_to_repro": "- Go on a server and do /nick <whatever> - mention Clyde with ``<@1>`` - click the mention and it will open up Clyde's profile - scroll down and click the \"Send Message\" button"
+ }
+}

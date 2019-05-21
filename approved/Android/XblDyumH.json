@@ -1,0 +1,36 @@
+{
+ "id": "5b2259827ee75fa0b74d5ee9",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 1538,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e9",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can still reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XblDyumH",
+ "data": {
+  "system_settings": "Xioami Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.9.1",
+  "actual_result": "Channel settings text is missing",
+  "expected_result": "Channel settings text should be mentioned after the cog icon",
+  "short_description": "Channel settings text is missing when you tap hold on any voice channel in a server in which you have manage channel permission",
+  "steps_to_repro": "- Go to any server in which you have manage channel permissions - Click hold on any voice channel to open popup showing different options - Notice there's a cog option with no name written on it"
+ }
+}

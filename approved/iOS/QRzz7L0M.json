@@ -1,0 +1,15 @@
+{
+ "id": "5817835ece17489a3594f961",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 57,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QRzz7L0M",
+ "data": {
+  "actual_result": "@ mention list stays up unless you delete everything after the 4th line. Pressing a name will insert the name at the beginning of the message with no @.",
+  "expected_result": "@ mention list goes down",
+  "short_description": "@ Mention list stays up when an @ is used without mentioning anyone after the 5th line of a message",
+  "steps_to_repro": "- Type a message with 5 lines - On the 5th line or later type an @ without mentioning anyone "
+ }
+}

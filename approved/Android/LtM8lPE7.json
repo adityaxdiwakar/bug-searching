@@ -1,0 +1,30 @@
+{
+ "id": "5b6e821010f5d736ee37ddfa",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1817,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LtM8lPE7",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 729",
+  "actual_result": "When the field is empty, the error message is \"We need 's 4 digit tag so we know which one they are\" which makes no sense. Whereas the error message when the field is filled with random characters, the error message is \"We need <username>'s 4 digit tag so we know which one they are\".",
+  "expected_result": "I think there's should be a different kind of error message or a higher priority should be given to the username.",
+  "short_description": "In the add friends page, if you just hit send without inputting any characters in the text field, the error message is kinda strange.",
+  "steps_to_repro": "- Open the add friends page. - Click on send. - Observe the error message. - Now, type in random characters in the field. - Observe the error message."
+ }
+}

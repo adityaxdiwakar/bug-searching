@@ -1,0 +1,24 @@
+{
+ "id": "598efe8aa9d23ddc21a50535",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 975,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bVqbtSEN",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1703",
+  "client_settings": "Canary build 3189, v 0.0.163",
+  "actual_result": "The client freezes a moment while you are searching",
+  "expected_result": "You can switch channel or open user settings while you are searching",
+  "short_description": "When using search the clients freezes",
+  "steps_to_repro": "- search for something - while it is searching try switching channel or open a modal like user settings"
+ }
+}

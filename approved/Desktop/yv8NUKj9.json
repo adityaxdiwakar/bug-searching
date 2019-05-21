@@ -1,0 +1,16 @@
+{
+ "id": "5910bf178adfb808ca769783",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 614,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yv8NUKj9",
+ "data": {
+  "system_settings": " W10 x64 Latest Canary. **ANOTHER NOTE: Only reproducable on W10 versions before the Creators Update, so do not deny if you have the CU**",
+  "actual_result": "User's profile picture shows as the taskbar icon that is used for what client you are using, Canary, Stable, or PTB **NOTE: This is not a case of a corrupted cache. This has happened to multiple users, and multiple caches can't just corrupt the same way multiple times.**",
+  "expected_result": "User's profile picture shows perfectly in the desktop notification",
+  "short_description": "Users profile pictures don't always show",
+  "steps_to_repro": "- Have a user DM you "
+ }
+}

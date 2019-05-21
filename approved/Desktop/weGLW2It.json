@@ -1,0 +1,30 @@
+{
+ "id": "5b72005f2a19ea8d441cf75c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2701,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/weGLW2It",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 21705",
+  "actual_result": "The window resizes",
+  "expected_result": "Nothing happens",
+  "short_description": "Able to interact with the top bar (the bar where you can minimise/maximise/close Discord) through the mini profile if it extends to the top of the screen",
+  "steps_to_repro": "- Open a mini profile with a lot of roles plus a playing/listening status so the mini profile goes to the top of the screen - Hover over the top of the mini profile where the top bar is - Double click in that area - Observe the window"
+ }
+}

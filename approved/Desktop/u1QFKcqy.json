@@ -1,0 +1,30 @@
+{
+ "id": "5ad4daaabb3d05368d1b0c3d",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1854,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/u1QFKcqy",
+ "data": {
+  "system_settings": "Debian Stretch, Gnome 3.22",
+  "client_settings": "Discord Linux 0.0.45 (Build 13630)",
+  "actual_result": "The popup shows black text on dark background",
+  "expected_result": "The popup shows white text on dark background",
+  "short_description": "Black text on dark theme in the debug logging popup",
+  "steps_to_repro": " - Open system settings > Voice & Video  - Scroll down and enable Debug Logging"
+ }
+}

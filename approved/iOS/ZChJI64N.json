@@ -1,0 +1,23 @@
+{
+ "id": "585634de4c54c3287feaac8b",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 129,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafe",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P0 - Need an immediate fix",
+   "color": "red"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZChJI64N",
+ "data": {
+  "system_settings": " IPod touch 5th gen iOS 9.3.5",
+  "actual_result": "When message is posted you get sent right to the bottom of the page",
+  "expected_result": "Nothing happens when message is posted",
+  "short_description": "Scrolling up while someone is posting in chat send you to bottom",
+  "steps_to_repro": "- Step 1 Scroll up to at least one \"load more messages\" while someone else is typing - "
+ }
+}

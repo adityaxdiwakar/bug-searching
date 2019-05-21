@@ -1,0 +1,30 @@
+{
+ "id": "5c350b87fdd5428fcc721e66",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3590,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Cz0yeCNr",
+ "data": {
+  "system_settings": "Edge 44.17763.1.0 - Windows 10 Pro x64",
+  "client_settings": "Canary 30418",
+  "actual_result": "Button without color, with a bit of shade will appear",
+  "expected_result": "Classic button, with color will popup",
+  "short_description": "New unreads or mentions button on Microsoft Edge is invisible",
+  "steps_to_repro": "- Go in server where you have unread messages or mentions - Scroll down a bit"
+ }
+}

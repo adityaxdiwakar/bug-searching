@@ -1,0 +1,30 @@
+{
+ "id": "5b0267e61418594842f67b4f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1440,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YywIHZkd",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 6.7.4",
+  "actual_result": "The instant invite is marked as expired and the box says that the max server limit has been hit.",
+  "expected_result": "You should be taken to the channel you've created instant invite for.",
+  "short_description": "Instant invite show that max server limit is reached even if we try to join a server we're in.",
+  "steps_to_repro": "- Join 100 servers - Create instant invite of one of the servers you're in. - Join the server with the instant invite you've created."
+ }
+}

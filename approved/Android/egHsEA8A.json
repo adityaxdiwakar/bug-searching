@@ -1,0 +1,17 @@
+{
+ "id": "5994d6a6f5a70045093e9c86",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 628,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/egHsEA8A",
+ "data": {
+  "system_settings": "Android KitKat 4.4.4, Tablet Allview VIVAH8LTE",
+  "client_settings": "Android Alpha 4.0.7",
+  "actual_result": "There's no way to unserver mute/deafen yourself on mobile",
+  "expected_result": "You should be able to access your UserSettings or a tab where you can unserver mute/deafen yourself",
+  "short_description": "Users cannot unserver mute/deafen in the mobile app [Missing Feature]",
+  "steps_to_repro": "- For example, let's simulate a case. Let's say you and MR.1 are admins in a server. Both of you join a voice channel with some people to talk about cats. And, then MR.1 wants to make a joke and server mute yourself. - In the mobile app you are not able to unmute or undeafen yourself. You need someone else to do it. Someone have to unmute yourself exactly how you was muted. - It is really weird, if you are the owner and your staff want to make jokes like this, and you cannot unmute yourself"
+ }
+}

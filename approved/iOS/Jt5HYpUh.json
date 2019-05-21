@@ -1,0 +1,17 @@
+{
+ "id": "5b52aa0f3ee4127138cead2c",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 835,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Jt5HYpUh",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 (Dev Beta 4)",
+  "client_settings": "Stable 2.3.5",
+  "actual_result": "The \"User is typing\" bar pops up without any names in it",
+  "expected_result": "No bar pops up when you delete a line of text",
+  "short_description": "\"User is typing\" bar pops up when nobody is typing",
+  "steps_to_repro": "- Make sure you're in a channel where nobody is typing - Type enough text to where you have just over one line - Delete enough text to go back to one line - Observe the area where the \"User is typing\" bar would show"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b689d0ea234f75284df42c2",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1792,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0CNG1xUC",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime, LineageOS 15.1 (Oreo 8.1)",
+  "client_settings": "Discord Alpha 726",
+  "actual_result": "System reports that Discord has stopped because it could not start the GameDetectionService and crashes. You could no longer receive notifications as well. The crash dialog could show up twice if you were to receive a notification (which wouldn't appear)",
+  "expected_result": "Nothing. It should close and that's it",
+  "short_description": "Letting Discord kill itself or killing it via recent apps will cause Discord to throw an IllegalStateException and crash because it isn't allowed to start the GameDetectionService [AOSP-based ROMs Specific (eg. Pixel and Nexus devices)]",
+  "steps_to_repro": "- Turn on game detection if you haven't already - Open recent apps - Kill Discord - Wait for about 5 seconds - Note that this doesn't happen if you have just turned on game detection"
+ }
+}

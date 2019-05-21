@@ -1,0 +1,36 @@
+{
+ "id": "5a442aea0dbe2c9605e05432",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 468,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VrMyopIH",
+ "data": {
+  "system_settings": "iPhone 7 iOS 11.1.2",
+  "client_settings": "I honestly have no idea",
+  "actual_result": "it displays \u201c online\u201d",
+  "expected_result": "it displays 0 online",
+  "short_description": "instead of showing \u201c0 online\u201d discord shows \u201c online\u201d",
+  "steps_to_repro": "- find a discord server with 0 online members - get the invite - click on it"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59a7f6ec78edf14614e60e07",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1073,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Qog07qjj",
+ "data": {
+  "system_settings": "Windows 10 Home x64 CU",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "The Reset Voice modal shows up again. The more you press Enter, the more it comes up",
+  "expected_result": "It should accept that you want to reset voice settings, and carry on",
+  "short_description": "Reset Voice Settings Loop",
+  "steps_to_repro": "- Go to settings - go to the voice & video section- scroll down to the bottom - press on reset voice settings - press enter"
+ }
+}

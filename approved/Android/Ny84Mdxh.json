@@ -1,0 +1,22 @@
+{
+ "id": "58789c464ee0cafc7011127b",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 176,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ny84Mdxh",
+ "data": {
+  "actual_result": "The friends you don't have any DM's with, appear as not having any common servers. Can be fixed with tapping the server you know you have in common, and then back to friends list",
+  "expected_result": "You can check which servers you have in common with your friends",
+  "short_description": "Friends server won't appear",
+  "steps_to_repro": "- Close discord - Reopen it - Look at friends list "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5adc7bf488e3b0e6cab77a7d",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1307,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/llbwyOgT",
+ "data": {
+  "system_settings": "Xperia XA1 Ultra, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.5.6",
+  "actual_result": "Its in roboto",
+  "expected_result": "Its in the discord font",
+  "short_description": "Local Mute in profile uses wrong font",
+  "steps_to_repro": "- Open a profile and scroll down"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ab66ee47bdcb72e831c0c82",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 642,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WQhyNzTK",
+ "data": {
+  "system_settings": "iPod Touch 6th generation, iOS 11.2.6",
+  "client_settings": "TestFlight 2.2.6 (3440)",
+  "actual_result": "The location changes to DM\u2019s",
+  "expected_result": "The location is the same one you selected before upgrading like it does when you updated to a new TestFlight build (like going from 3415 to 3440)",
+  "short_description": "The share extension does not remember your sharing location when upgrading to a major version of discord",
+  "steps_to_repro": "- First downgrade to any version of TestFlight 2.2.5 or if you have stable 2.2.5 stay on that - Launch discord and let it start up  - Go to pictures and select a picture  - Tap the upload arrow and choose discord  - Select a location and upload it - Now then, you can upgrade back to 2.2.6 TestFlight or 2.2.6 Stable  - Launch discord again and let it load - Now go back to pictures  - Select an image and hit the upload arrow  - Select discord and observe where the location is"
+ }
+}

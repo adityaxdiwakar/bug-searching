@@ -1,0 +1,30 @@
+{
+ "id": "5b5eecfd149571de88973431",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1720,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xC97WunT",
+ "data": {
+  "system_settings": "Samsung Galaxy J5 2017 Android 7.0 Nougat",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "The emojis are connected on mobile and separated on desktop.",
+  "expected_result": "The emojis should be separated or connected on both mobile and desktop.",
+  "short_description": "Emojis appear to be connected on mobile, but appear separated on desktop",
+  "steps_to_repro": "- Go to a channel - Send emojis that create a picture whe send in one message"
+ }
+}

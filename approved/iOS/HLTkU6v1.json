@@ -1,0 +1,42 @@
+{
+ "id": "59f5afb3bd98a7fda4cf015b",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 402,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a5e61490661fc1c89f71a0a",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Q1",
+   "color": null
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HLTkU6v1",
+ "data": {
+  "system_settings": "iPhone 6 with iOS 11.1 Public Beta 5",
+  "client_settings": "TestFlight 1.9.3 (1340)",
+  "actual_result": "App stays wherever you left it when you stopped scrolling up.",
+  "expected_result": "The app should scroll down to the bottom automatically.",
+  "short_description": "Sending a message or a file after scrolling up a little bit in a text channel will cause the app to not scroll down to the bottom of the channel automatically.",
+  "steps_to_repro": "- Go into any text channel with a considerable amount of messages - Scroll up a little bit in the channel - Send a message or a file."
+ }
+}

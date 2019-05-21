@@ -1,0 +1,17 @@
+{
+ "id": "5ba9845c67c71f02c0a6c00a",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2017,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dInl6b6X",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "It acts like if it was a button but doesn't do anything. It doesn't look like a Submit button since the search applies at each letter typed",
+  "expected_result": "It should be a static image and shouldn't respond to the user press",
+  "short_description": "[Audit Logs] The Search icon in the searchbar of the user filter popup is clickable but does nothing",
+  "steps_to_repro": "- Access Audit Logs  - Open the Filter by user popup - Notice there's a manifying glass icon inside the search bar - Tap on it"
+ }
+}

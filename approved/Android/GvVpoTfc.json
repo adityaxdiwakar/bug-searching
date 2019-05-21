@@ -1,0 +1,17 @@
+{
+ "id": "5b9a052837bdd7504c6a2374",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1982,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/GvVpoTfc",
+ "data": {
+  "system_settings": "Android 6.0.1",
+  "client_settings": "7.4.9",
+  "actual_result": "Longer Names Are Cut Off",
+  "expected_result": "The Roles Should Show Their Full Names",
+  "short_description": "when in member list sorting by short role names then going to select different role names, longer role names get cut off",
+  "steps_to_repro": "- Open Member List On Guild - Sort By Role With Short Name - Check Role List Again"
+ }
+}

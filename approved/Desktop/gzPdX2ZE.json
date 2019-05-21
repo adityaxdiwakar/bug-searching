@@ -1,0 +1,16 @@
+{
+ "id": "5848e52bd1e9ad6fc5452799",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 227,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gzPdX2ZE",
+ "data": {
+  "system_settings": " Windows 10 Pro",
+  "actual_result": "says \"Last Tuesday\".",
+  "expected_result": "If sent on Tuesday, and viewed on Friday, should say \"Tuesday\".",
+  "short_description": "Date is incorrect at right of name",
+  "steps_to_repro": "- Type something to someone via PM and send it them. - Wait until it's a day or two later. "
+ }
+}

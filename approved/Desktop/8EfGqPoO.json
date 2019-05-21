@@ -1,0 +1,30 @@
+{
+ "id": "5bda5c0a26cbae1115764a94",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3324,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8EfGqPoO",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Cross-platform, client independent. Reproduced on Android app (Alpha 7.8.3), some people can repro on Desktop app.",
+  "actual_result": "It says that your password got changed successfully, even though nothing has changed and you can still login with your old password",
+  "expected_result": "It should say \"Field is required\"",
+  "short_description": "[Cross platform] The Change password feature allows you to change your password to something made only out of spaces. It will say Success even though your password won't change",
+  "steps_to_repro": "- Go to your account settings - Change password - Fill the New password field with only spaces - Submit"
+ }
+}

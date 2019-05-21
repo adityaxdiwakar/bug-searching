@@ -1,0 +1,17 @@
+{
+ "id": "596043126423872572fc11c6",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 814,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/HypkTTfw",
+ "data": {
+  "system_settings": "Windows 10 Pro",
+  "client_settings": "Discord Canary 07/07/17",
+  "actual_result": "Discord doesn't want my cat faces, and attempts to turn :3 into \ud83d\udd22",
+  "expected_result": "Discord doesn't attempt to turn your :3 into \ud83d\udd22",
+  "short_description": "Autocomplete attempts to autocomplete less than 2 characters, not allowing me to `:3` easily anymore",
+  "steps_to_repro": "- Attempt to use any type of text emoticon consisting of standard unicode, such as \\`:3\\`, \\`:7\\`, and other things that people use on a daily basis"
+ }
+}

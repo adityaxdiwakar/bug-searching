@@ -1,0 +1,24 @@
+{
+ "id": "59efc55056ed90e3a55cd3ba",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1312,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/X850e6CA",
+ "data": {
+  "system_settings": "macOS 10.13 High Sierra",
+  "client_settings": "Discord Canary macOS 0.0.156, Discord stable macOS 0.0.248",
+  "actual_result": "Clyde says \"You can't change your nickname in a server!\"",
+  "expected_result": "The command is unusable, as it doesn't populate in the slash commands list in a DM.",
+  "short_description": "Using /nick in a DM gives a server-based error message",
+  "steps_to_repro": "- Open up a DM - Try changing your nickname using the /nick command"
+ }
+}

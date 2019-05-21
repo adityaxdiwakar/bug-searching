@@ -1,0 +1,17 @@
+{
+ "id": "5bc6cd61e4666b7c6b8e0220",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2185,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7GCZYMmp",
+ "data": {
+  "system_settings": "Android 9.0",
+  "client_settings": "Discord Alpha 7.7.2",
+  "actual_result": "Shows expired invite popup",
+  "expected_result": "Should open app normally",
+  "short_description": "Opening the app shows invite expired popup",
+  "steps_to_repro": "- Open Discord - Observe"
+ }
+}

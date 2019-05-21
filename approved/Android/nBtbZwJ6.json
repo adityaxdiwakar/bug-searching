@@ -1,0 +1,30 @@
+{
+ "id": "5bbec915357bc709734ea593",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2143,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nBtbZwJ6",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.6.6",
+  "actual_result": "The first asterisks are somehow eaten, so you get only `test***#0001` in the field",
+  "expected_result": "It should be exactly what you type minus the first @ (which is the filter), in this example `***test***#0001`",
+  "short_description": "In Quick Switcher, if you search someone whose username has asterisks at the beginning, and the Quick Switcher gives no results, tapping the Add Friend button will paste the username you typed but without the asterisks",
+  "steps_to_repro": "- Open Quick Switcher - Type @ to filter on users only - Start typing a username starting with asterisks, and make it so it gives no results. Your search query should look like: `@***test***#0001` - In the No Results screen, tap the Add a Friend button - Look at the value prefilled in the DiscordTag field"
+ }
+}

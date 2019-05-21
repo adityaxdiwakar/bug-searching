@@ -1,0 +1,30 @@
+{
+ "id": "5b6d55bbdd7bde6e78d46be0",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1806,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Zgw5e9yL",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 728",
+  "actual_result": "The keyboard remains open.",
+  "expected_result": "The keyboard closes.",
+  "short_description": "When you switch from \"Search\" to \"Nearby\", the keyboard stays open.",
+  "steps_to_repro": "- Open the add friends screen. - Click on the text field. - Click on nearby (do not touch your keyboard)."
+ }
+}

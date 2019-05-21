@@ -1,0 +1,30 @@
+{
+ "id": "5afb1d7fc34b1ce8e0bc2998",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1989,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lUUZmJmI",
+ "data": {
+  "system_settings": "Windows 10 x64 (1803)",
+  "client_settings": "Canary 15268",
+  "actual_result": "The \"Direct Messages\" tooltip shows up behind the server name",
+  "expected_result": "The \"Direct Messages\" tooltip shows up in front of the server name",
+  "short_description": "The \"Direct Messages\" and other server name tooltips show up behind the server name",
+  "steps_to_repro": "- Scroll to the top of your serverlist - Hover over the friends/dm button"
+ }
+}

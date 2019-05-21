@@ -1,0 +1,30 @@
+{
+ "id": "5b10935055a379c57413d187",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2083,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3mHioPiO",
+ "data": {
+  "system_settings": "Windows 10 x64 (1709)",
+  "client_settings": "Discord Canary 16275",
+  "actual_result": "Bob can still be searched and selected. On clicking \"add members\" Bob is not added, however. Nothing happens.",
+  "expected_result": "Bob should not be found as he's no longer a friend of you. -",
+  "short_description": "After being unfriended, user can still be selected to be added into a DM.",
+  "steps_to_repro": "- Find your friend called Bob. - Open a group DM first or find an existing DM without Bob. - Ask Bob to unfriend you. - Type Bob's tag into DM invite box."
+ }
+}

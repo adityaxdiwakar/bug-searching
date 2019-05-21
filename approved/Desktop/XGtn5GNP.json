@@ -1,0 +1,30 @@
+{
+ "id": "5ab9983c2bd6a9a351e0c49f",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1761,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XGtn5GNP",
+ "data": {
+  "system_settings": "Mac High Sierra 10.3.3",
+  "client_settings": "Discord Canary, 0.0.186, OSX",
+  "actual_result": "You will now be able to type in the channel while the share menu is still visible.",
+  "expected_result": "It returns to the share menu and is the same as it should be.",
+  "short_description": "You can type in the chat after opening the quick switcher menu while the share invite menu is open",
+  "steps_to_repro": "- Make a new Discord or scroll up to the top of the first channel in a Discord -  Click the blue \"share button\" in the second row of text (Invite your friends) -  Press CTRL + K (CMD + K for OSX) to open the channel switcher - Press ESC to return to the share menu"
+ }
+}

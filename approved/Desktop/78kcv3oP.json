@@ -1,0 +1,30 @@
+{
+ "id": "5b9625aea089aa79d160516e",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 2953,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/78kcv3oP",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1803)",
+  "client_settings": "Discord Canary 0.0.211, Build 23321",
+  "actual_result": "The video doesn't resize, showing only the top left corner and hiding the bottom right buttons",
+  "expected_result": "The video should resize to fit the smaller resolution game",
+  "short_description": "Full screening videos in the Overlay causes them to be improperly sized if the game's resolution is below 1920 x 1080",
+  "steps_to_repro": "- Open up a game that's resolution is below 1920 x 1080 - Open the Overlay and find an MP4 or YouTube video in a chat channel - Play and full screen the video and observe"
+ }
+}

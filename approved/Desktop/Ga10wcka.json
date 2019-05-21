@@ -1,0 +1,23 @@
+{
+ "id": "59166344cd845a8f75dc08e8",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 634,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ga10wcka",
+ "data": {
+  "system_settings": " Ubuntu 17.04, Discord Canary",
+  "actual_result": "Username gets raised with emote but the timestamp doesn't and it's silly",
+  "expected_result": "Emoji height is same as message height OR timestamp is properly raised with username",
+  "short_description": "Emojis being semi-enlargened while in compact mode (no scaling!)",
+  "steps_to_repro": "- Switch to Compact mode in your appearence settings - Look at an emoji "
+ }
+}

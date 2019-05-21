@@ -1,0 +1,28 @@
+{
+ "id": "588b9d249cd3e4998e215d0c",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 168,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IglFzHfQ",
+ "data": {
+  "actual_result": "Status bar doesn't update.",
+  "expected_result": "Status bar does update.",
+  "short_description": "When Uploading a picture from startup for the for the first time, The Status bar doesn't update",
+  "steps_to_repro": "- Close app if open (If opened) -  Upload a picture. "
+ }
+}

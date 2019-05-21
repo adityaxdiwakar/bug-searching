@@ -1,0 +1,17 @@
+{
+ "id": "59bee99952e400e86a807783",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1159,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WTzrbZ4Y",
+ "data": {
+  "system_settings": "Win 7 x64",
+  "client_settings": "Doesn't matter. (Discord Stable 8.15.2017).",
+  "actual_result": "The one who blocked you should not see the messages the first time. Also he/ she/ it/ wont get any notification about the message. He/ She/ It HAS to click on the hidden content to see the edited message.",
+  "expected_result": "The person who got blocked should not be able to edit(/delete messages) after he/ she/ it/ got blocked by someone.",
+  "short_description": "Exploit the 'blocking users' feature by editing sent messages before the block.",
+  "steps_to_repro": "- Edit the last messages you sent to the one who blocked you. - Let the one who blocked you watch the last sent edited messsages from you. -"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "5a67fe3c05f731f21ea1a5b9",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1057,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hfivWQi3",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 6.1.1",
+  "actual_result": "they're filled with white",
+  "expected_result": "transparent icons",
+  "short_description": "emoji icons are white instead of being transparent on dark theme",
+  "steps_to_repro": "- be on dark theme - open up the emoji picker - tap and open the emoji search icon - observe the icons catagories"
+ }
+}

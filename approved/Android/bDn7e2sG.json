@@ -1,0 +1,30 @@
+{
+ "id": "5b27bd4b02ce85f2774f8ad2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1561,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bDn7e2sG",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "Sort option shows when long pressing but not when you tap the 3 dots button, which is inconsistent and disturbing for peopel who prefer opening server options via 3 dots rather than by long pressing",
+  "expected_result": "Sort option should be available no matter how you open the action sheet, because it's supposed to be the same sheet",
+  "short_description": "Sort option is available when long-pressing a server in the channel drawer, but is missing when tapping 3 dots button, even though it's the exact same menu",
+  "steps_to_repro": "- Open channel drawer - Switch to a server - Tap the 3 dots icon at top right of the drawer - Notice Sort option is missing - Now long press on the server in the list - Notice Sort option is here"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5be75b549990b5856e5b9637",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2306,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/at8Gvdcz",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.8.8",
+  "actual_result": "On Light theme they have a mismatching background color",
+  "expected_result": "The two options suggesting to add server icon and invite people should be properly themed",
+  "short_description": "The two options in the \"Welcome to your server\" section don't adapt to Light theme",
+  "steps_to_repro": "- Switch to Light theme - Go to the top channel of a server you own - Look at the \"Welcome to your server\" section"
+ }
+}

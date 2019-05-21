@@ -1,0 +1,24 @@
+{
+ "id": "5b71bb4a299b40766d44ca89",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 902,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/07NtRplL",
+ "data": {
+  "system_settings": "Iphone SE IOS 12 Beta 5",
+  "client_settings": "-i",
+  "actual_result": "the upload file bar is always visible",
+  "expected_result": "the upload file bar will disappear when switching to a channel (or just be in every chat, because in dm\u2019s the bar is invisble)",
+  "short_description": "upload file bar glitches if switching between channels. It will take the bar with you if you switch channel. And sometimes it disappears while its in another channel.",
+  "steps_to_repro": "- Upload a large file in a DM (or a smaller file on poor wifi) - switch to a server and slide in to a channel - you see the uploading file bar won\u2019t disappear (sometimes after a while it does disappear)"
+ }
+}

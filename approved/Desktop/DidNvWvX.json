@@ -1,0 +1,30 @@
+{
+ "id": "5a555d17759376f970464f07",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1523,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DidNvWvX",
+ "data": {
+  "system_settings": "Discord Canary Build 9371",
+  "client_settings": "0.0.195",
+  "actual_result": "Language name on the left is in its original language. (Romana being Romanian in Romanian for example)",
+  "expected_result": "Language name on the right should be in English (Romana should be Romanian for example)",
+  "short_description": "Languages on Both Sides Are The Same",
+  "steps_to_repro": "- Make sure you are on Canary Build 9371 - Go to your User Settings - Click on Languages - Observe and see how some languages like Romana are the same."
+ }
+}

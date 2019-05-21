@@ -1,0 +1,24 @@
+{
+ "id": "5bf2ffb83ccd1d32b978f348",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1166,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BxDLKiJD",
+ "data": {
+  "system_settings": "iPhone 8+ iOS 12.0",
+  "client_settings": "TF 2.4.0 (8921)",
+  "actual_result": "VoiceOver detects the elements behind the settings menu, and will select and read them off.",
+  "expected_result": "VoiceOver only selects elements on the Settings menu",
+  "short_description": "VoiceOver detects elements behind the settings menu",
+  "steps_to_repro": "- Go to your iPhone settings and enable VoiceOver - Go into Discord - Open settings while in a server with channels - Touch down on the location where a channel was"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58b2df6f7dac351e101375ee",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 205,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Tro25TFZ",
+ "data": {
+  "system_settings": " iOS 10.2, iPhone 5c, latest Discord TestFlight",
+  "actual_result": "Nothing happens",
+  "expected_result": "You jump to that area in chat where the pin was",
+  "short_description": "Jump to chat button (in pins) doesn't work",
+  "steps_to_repro": "- Go to pins in a chat - Select a pin - Press \"Jump to Chat\" "
+ }
+}

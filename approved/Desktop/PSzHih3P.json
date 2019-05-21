@@ -1,0 +1,17 @@
+{
+ "id": "5ba3ec0981e3b98dd315d5fd",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 3013,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PSzHih3P",
+ "data": {
+  "system_settings": "Windows 10 Desktop PC, 64-Bit.",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 24066, Version Hash: c5ec32b550a15ac92803099df5e67561022d6dc8",
+  "actual_result": "When you click on the client, instead of continuing with the upload the client crashes.",
+  "expected_result": "The client should not crash, and I should be able to upload the image normally.",
+  "short_description": "Following certain steps when uploading an image sometimes causes a client crash.",
+  "steps_to_repro": "- Click upload image. - Drag the image you want from 'Open' into the discord client (to prompt upload). - Click cancel on the 'Open' window. - Click back on the main client and it stops responding."
+ }
+}

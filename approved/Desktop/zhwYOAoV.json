@@ -1,0 +1,23 @@
+{
+ "id": "58f18b81b8168a5233789524",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 496,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zhwYOAoV",
+ "data": {
+  "system_settings": " Win 10 Pro x64, Latest Canary build",
+  "actual_result": "You can't",
+  "expected_result": "You can bring the task bar up normally",
+  "short_description": "Auto hidden taskbar can't show up when maximized",
+  "steps_to_repro": "- Set your taskbar option to `auto hide` - Open the app - Maximize the interface - Try to bring the task bar when maximized   "
+ }
+}

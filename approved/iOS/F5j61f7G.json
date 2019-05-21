@@ -1,0 +1,16 @@
+{
+ "id": "589c56f5442723ef9d067402",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 182,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/F5j61f7G",
+ "data": {
+  "system_settings": " iPhone 7, iOS 10.3b2, TF 1.8.2",
+  "actual_result": "The caps lock in automatically disabled",
+  "expected_result": "All letters are in caps",
+  "short_description": "Caps Lock doesn't work correctly when typing an emoji",
+  "steps_to_repro": "- Type : to start writing an emoji - Enable the caps lock - Type one letter - Continue typing "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b5f17fba44ccd5f3daddf3f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1723,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lnA3N9eF",
+ "data": {
+  "system_settings": "Xiaomi Redmi 4X Android 7.1.2",
+  "client_settings": "Android Beta 7.1.8",
+  "actual_result": "When u hit a pulsing one and then connected one, the connected will pulse one time",
+  "expected_result": "Just their nicks appear",
+  "short_description": "[Android] Avatar of connected member pulses like it is called",
+  "steps_to_repro": "- Move to dm group with at least 3 members, where u are in call with sbdy - Move to \"ongoing call-1 connected\" from ur android device - Choose Ring option on RMB on 3rd member from pc - His pulsing avatar appears in \"ongong call\" - Start taping both avatars in \"ongoing call\" on android"
+ }
+}

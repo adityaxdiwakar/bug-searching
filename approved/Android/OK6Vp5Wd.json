@@ -1,0 +1,30 @@
+{
+ "id": "5bf90a168ca19714a06878f3",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2350,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OK6Vp5Wd",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 8.0.0",
+  "actual_result": "On small screen devices, the top of the triangle is actually cut off.",
+  "expected_result": "It should show the full NSFW screen, with the triangle not cut off.",
+  "short_description": "NSFW triangle is cut at the top. (Small screen specific).",
+  "steps_to_repro": "- Go to a NSFW channel. - Notice the warning that pops up. Observe the top of the triangle."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b51c06b09a6eb6b795bb24a",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2359,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WDBOyyF5",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1803 Firefox Nightly v63.0a1",
+  "client_settings": "NA",
+  "actual_result": "It redirects to the English support page",
+  "expected_result": "The link corresponds to the selected language like the top nav bar does.",
+  "short_description": "[Website Bug] Support links do not correspond to the selected language except in the top navigation bar",
+  "steps_to_repro": "- Go to the Discord website - Click on a link to the support page that is not in the top nav bar (the community guidelines page or the link in the bottom nav bar)"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "5813b686a3aa4bc13272268b",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 54,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/er8TYJLH",
+ "data": {
+  "actual_result": "Nothing happens.",
+  "expected_result": "Image rotation for complete usage of display on landscape images.",
+  "short_description": "Opened image doesn't rotate on device rotate",
+  "steps_to_repro": "- Have an image on the channel - tap to open it - rotate your device. "
+ }
+}

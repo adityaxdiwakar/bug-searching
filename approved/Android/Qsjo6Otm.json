@@ -1,0 +1,17 @@
+{
+ "id": "5a3c70690aaf0143395c8c72",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 982,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Qsjo6Otm",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 5.9.3",
+  "actual_result": "crash",
+  "expected_result": "a pop out menu appears",
+  "short_description": "attempting to enable 2fa or changing role color crashes Discord",
+  "steps_to_repro": "- open settings for your server - go to security or roles - click change color or enable 2fa"
+ }
+}

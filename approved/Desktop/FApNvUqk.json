@@ -1,0 +1,17 @@
+{
+ "id": "5b3356d36184002b87eef833",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2211,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FApNvUqk",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 17800",
+  "actual_result": "Your client jumps back in history, causing all messages below where it jumped to to disappear until your client is restarted. However, if the additional step was done, restarting will not fix this and it will permanently affect you and everyone else across all platforms",
+  "expected_result": "You're taken to the bottom of the channel that the link is from or it doesn't work at all",
+  "short_description": "Giving a message link an invalid message ID causes messages in the channel you jump to to vanish",
+  "steps_to_repro": "- Copy the link to a message in a channel & post it into the text field - Change the message ID at the end of the link to \"0\" - Post it and click on it (Try this a few times in different channels if it doesn't work the first time) - Additionally, after having followed the steps, if the link is still visible after jumping and messages were seen to disappear (this occurs mostly if the channel hasn't received any new messages for a week or so), then you can delete the message link to have the effect be permanent"
+ }
+}

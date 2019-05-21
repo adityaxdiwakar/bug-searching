@@ -1,0 +1,17 @@
+{
+ "id": "59b57012f4b27700017f37f7",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 699,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/59fmEQMJ",
+ "data": {
+  "system_settings": "OnePlus 5, OxygenOS 4.5.10, Android 7.1.1",
+  "client_settings": "Android Alpha 5.1.4",
+  "actual_result": "You don't see the hidden voice channel in channel list, you can see you're connected to voice but you are not shown in any voice channel in channel list as the hidden channel is not shown. Old voice chanenl is still highlighted.",
+  "expected_result": "You should see the hidden voice channel in channel list while you are in it (works on Canary). Your old voice channel should not be highlighted in the list as you're no longer in there.",
+  "short_description": "When moved to a hidden voice channel, you don't see the new channel in your channel list, old VC still highlighted",
+  "steps_to_repro": "- Join voice chat - Get moved to a voice channel where you have View Channel permission denied"
+ }
+}

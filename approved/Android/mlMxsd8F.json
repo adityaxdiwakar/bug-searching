@@ -1,0 +1,23 @@
+{
+ "id": "5881ffd57bd6fcaf4d6f517e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 184,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mlMxsd8F",
+ "data": {
+  "system_settings": " Android 5.0.2 Discord latest beta",
+  "actual_result": "It says channel settings there",
+  "expected_result": "It says group settings on top of the screen",
+  "short_description": "Group DM settings say Channel settings on top of the group settings menu",
+  "steps_to_repro": "- Get into a group dm - open the group settings "
+ }
+}

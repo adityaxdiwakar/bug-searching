@@ -1,0 +1,30 @@
+{
+ "id": "5b5d9e7d89595ba358e778ff",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2490,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Oq9EUvOD",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6, Macbook Air",
+  "client_settings": "Canary 20174",
+  "actual_result": "The text is a little offcentered with the highlighting",
+  "expected_result": "The channel name should be centered with the highlight",
+  "short_description": "Channel highlights when choosing an AFK channel are not centered with the channel name",
+  "steps_to_repro": "- Go to server settings - Click on AFK Channel - observe the highlighting on the channel"
+ }
+}

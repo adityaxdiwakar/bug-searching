@@ -1,0 +1,36 @@
+{
+ "id": "5b5f8ac085430467abaa7291",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1733,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/W59R3XVh",
+ "data": {
+  "system_settings": "Samsung Galaxy J5 2017 Android 7.0 Nougat",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "The button gets very small, moves to the right and the \"X\" symbol gets deleted.",
+  "expected_result": "The \"X\" button should be bigger, moved to the left and have the \"X\" symbol in the button.",
+  "short_description": "The \"X\" button gets small, moves to the right and the \"X\" dissapears (Android 7.0+)",
+  "steps_to_repro": "- Go to Server Settings - Split your screen and make the Discord part of the screen the smallest as it can be -5Click Channels - Click the \"+\" button"
+ }
+}

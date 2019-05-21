@@ -1,0 +1,17 @@
+{
+ "id": "5a55b888676279bc1b279867",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1527,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/L3Hioy0V",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (Version 1709)",
+  "client_settings": "Discord Canary (Build 9371)",
+  "actual_result": "It's not centered.",
+  "expected_result": "It's supposed to look cute (centered).",
+  "short_description": "`Help` button is off-center in the red banner that appears when Discord doesn't detect input from your mic.",
+  "steps_to_repro": "- Make sure Discord doesn't detect any input from your mic and make the red banner appear - See the `Help` button being off-center"
+ }
+}

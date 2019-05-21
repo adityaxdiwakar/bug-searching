@@ -1,0 +1,17 @@
+{
+ "id": "5a8b5fda02c303e8f4a39e9b",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1672,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tIVtet9V",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary Build: 10557",
+  "actual_result": "All keyboard input is ignored in the game, Alt+Tab and Ctrl+Alt+Delete is your only way out.",
+  "expected_result": "Once loaded into the game keyboard commands should work, (WASD movement, ESC menu button, other keyboard shortcuts in the game)",
+  "short_description": "Discord Overlay blocks keyboard input on Planetside 2",
+  "steps_to_repro": "- Ensure overlay is enabled on discord and for the game Planetside 2. (It is a verified entry) - Upon starting the game the overlay will show its enabled. - Attempt to use ingame keyboard inputs, and find they are not responsive - If overlay is disabled and discord is running keyboard input works normally."
+ }
+}

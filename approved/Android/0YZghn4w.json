@@ -1,0 +1,30 @@
+{
+ "id": "5bc45d2a52cc4c03648d4afb",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2174,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0YZghn4w",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.7.0",
+  "actual_result": "Extra padding is present for short names, no padding for long names",
+  "expected_result": "Equal offset regardless of the channel name length",
+  "short_description": "Offset next to the role name disappears in channel overrides if the channel name is long",
+  "steps_to_repro": "- Create two channels: one with very short name, another one with very long name - Go to the settings of the short channel - Add an override for a role - Observe there is an offset next to the role name - Go back and add an override on the long channel - Observe the offset isn't here anymore. For this to work, you need to make sure the long channel name displays on two lines"
+ }
+}

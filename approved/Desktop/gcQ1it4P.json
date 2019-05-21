@@ -1,0 +1,17 @@
+{
+ "id": "597062089c1746d3ce35744f",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 869,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gcQ1it4P",
+ "data": {
+  "system_settings": "Windows 7 Professional x64",
+  "client_settings": "Discord Stable 0.0.297",
+  "actual_result": "The input is granted to the search bar, allowing you to use it like normal.",
+  "expected_result": "The current modal reads the input, and does nothing with it.",
+  "short_description": "You can use the Search bar if another modal/sub-window is on screen",
+  "steps_to_repro": "- Open a popup modal.  The easiest way to do that is to either upload a file, or hit Ctrl-/ to bring up the Keyboard Combos menu. - Press Ctrl-F."
+ }
+}

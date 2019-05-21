@@ -1,0 +1,35 @@
+{
+ "id": "58c0d6722c5862809e204edb",
+ "closed": false,
+ "idList": "5a26e8ae7bfa06f5f1507b63",
+ "idShort": 216,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "5a5e61490661fc1c89f71a0a",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/669yJsVr",
+ "data": {
+  "system_settings": " iOS 10.2.1 Discord 1.8.2",
+  "actual_result": "Unable to open the link until Chrome is installed or the setting changed.",
+  "expected_result": "Discord would default to in-app browser or Safari to open the link",
+  "short_description": "Unable to click on links if selected browser is uninstalled.",
+  "steps_to_repro": "- Install or Have Chrome installed - Have Chrome selected as the web browser in discord settings - Uninstall Chrome - Verify Chrome is still in discord settings - Click on a link in a channel "
+ }
+}

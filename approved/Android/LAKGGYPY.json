@@ -1,0 +1,30 @@
+{
+ "id": "5adf327719510b88897a671f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1317,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LAKGGYPY",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord beta 6.5.6",
+  "actual_result": "Emoji like frowning2 and skull_crossbones if posted just without any text are small in size and emoji like woman teacher if posted using GBoard post 2 different emoji woman and school and in the small size that usual.",
+  "expected_result": "Emojis like frowning2 and skull_crossbones should be posted in normal size as they are using Discord emoji box or previous Android versions and emoji like woman teacher or woman farmer should be posted just as they are.",
+  "short_description": "Automatically reduces the size of some emotes and post two different emotes when selecting just one, everything while selecting emotes from device keyboard and not Discord emote box.",
+  "steps_to_repro": "- Click on text field so as to pop-up your device keyboard (GBoard in my case) - Select the emote just same as frowning2 in discord emoji box. - Select woman farmer or woman teacher emoji from the GBoard"
+ }
+}

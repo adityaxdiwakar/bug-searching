@@ -1,0 +1,36 @@
+{
+ "id": "5a91852d341c3d090b2984db",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 604,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5fVtTLYl",
+ "data": {
+  "system_settings": "iPhone 6s & iPad Air 2, iOS 11.3 PB 3",
+  "client_settings": "Discord Stable 2.2.4",
+  "actual_result": "It is stretched compared to the Desktop version and the real image.",
+  "expected_result": "Thumbnail image shouldn't be stretched.",
+  "short_description": "iOS App store embeds with stretched thumbnail",
+  "steps_to_repro": "- Go to the iOS App store - Search for any app - Share this app to Discord via the share extension - Go back to Discord and observe the thumbnail of the embed"
+ }
+}

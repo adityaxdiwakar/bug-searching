@@ -1,0 +1,30 @@
+{
+ "id": "5b21586a44b353fe95f5c090",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2133,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hcYwT1x6",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1803",
+  "client_settings": "Discord Canary 16868",
+  "actual_result": "The change audio subsystem confirmation box shows up.",
+  "expected_result": "Nothing should pop up.",
+  "short_description": "The change audio subsystem confirmation shows up even if you are not actually changing the subsystem.",
+  "steps_to_repro": "- Go to settings - Voice/Video - Scroll down to audio subsystem. - Open the dropdown and click the audio subsystem you are currently on."
+ }
+}

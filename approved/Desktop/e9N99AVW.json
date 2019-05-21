@@ -1,0 +1,17 @@
+{
+ "id": "5afca456a8671eab4b2a6439",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2003,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/e9N99AVW",
+ "data": {
+  "system_settings": "Mac Os High Sierra 10.13.5 Beta (17F66a) MacBook Pro 15\" Mid 2015",
+  "client_settings": "Mac OS Canary, Build Number: 15385",
+  "actual_result": "Can't Paste Picture/Noting Show up",
+  "expected_result": "a Pop up menu will show up and you can type in comment and hit send",
+  "short_description": "Can't Copy Picture From a Private Chat",
+  "steps_to_repro": "- Let your Friend send a picture you don'have - Right Click Copy the picture - Paste to the Text Chat Box - Observe"
+ }
+}

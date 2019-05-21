@@ -1,0 +1,17 @@
+{
+ "id": "5bc69189aefb9c72cd210b05",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 3198,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/K82qZGUi",
+ "data": {
+  "system_settings": "Firefox Stable v62.03 Windows 10 Pro x64 v1809",
+  "client_settings": "Stable 26344",
+  "actual_result": "It tries to make an unauthenticated post request to join the server.",
+  "expected_result": "It goes to the server invite.",
+  "short_description": "Clicking join on a verified server in the store page does nothing.",
+  "steps_to_repro": "- Sign out of Discord - Go to the store page. - Open Minion Masters - Click Join on the server."
+ }
+}

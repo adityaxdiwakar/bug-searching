@@ -1,0 +1,17 @@
+{
+ "id": "5b9b19b8f91ef51210f8a66e",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 1008,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tgTskKKn",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12",
+  "client_settings": "TestFlight 2.3.8 (7167)",
+  "actual_result": "Camera roll button flashes too high before going to the right spot",
+  "expected_result": "Camera roll button doesn't flash up high",
+  "short_description": "When opening the camera roll option, the camera roll button flashes too high",
+  "steps_to_repro": "- Go to a channel - Open the keyboard - Tap on the camera roll option - Observe the black camera roll button"
+ }
+}

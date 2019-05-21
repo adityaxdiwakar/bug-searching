@@ -1,0 +1,17 @@
+{
+ "id": "59d266d8ed386a9c6d7024e9",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1216,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SCEtQjGo",
+ "data": {
+  "system_settings": "macOS Sierra, 10.12.3",
+  "client_settings": "Firefox, stable, build number 5010",
+  "actual_result": "Regardless of the number of tabs preceding a line, the line will be displayed as being indented only once. This does not appear to be a firefox bug, as   displays tabs correctly.",
+  "expected_result": "The indentation of each line should be proportional to the number of tabs preceding them.",
+  "short_description": "On firefox, lines indented with tabs only display a single indentation",
+  "steps_to_repro": "- Be on firefox - write, in a code block, a line with multiple tabs at the beginning"
+ }
+}

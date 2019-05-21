@@ -1,0 +1,17 @@
+{
+ "id": "5bb5885722867176dbdd3680",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2097,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XgU9VREI",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Mini Android 6.0.1",
+  "client_settings": "7.6.2",
+  "actual_result": "it shows: Set the welcome notification channel to 3115832... (Channel ID)",
+  "expected_result": "once you have expanded the channel change entry, it should show: Set the welcome notification channel to #channel",
+  "short_description": "setting welcome notification to a channel shows id number in audit log instead of channel name",
+  "steps_to_repro": "- set new member messages to a channel - open audit log"
+ }
+}

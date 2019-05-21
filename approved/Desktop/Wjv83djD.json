@@ -1,0 +1,24 @@
+{
+ "id": "598f3f28a713ee4927b088d2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 976,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Wjv83djD",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "The latest version of Discord",
+  "actual_result": "The image does not change the size",
+  "expected_result": "The image should change its size how the window",
+  "short_description": "When you change the size of the Discordapp window, the open image does not change the size.",
+  "steps_to_repro": "- Make a small window size- Open the image- unfold the Discordapp in full screen."
+ }
+}

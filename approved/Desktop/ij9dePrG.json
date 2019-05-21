@@ -1,0 +1,24 @@
+{
+ "id": "59ba931665092492d43fbc67",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1128,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ij9dePrG",
+ "data": {
+  "system_settings": "Windows 10 Home (Creator's Update) x64",
+  "client_settings": "Canary v0.0.163 (build number 4175)",
+  "actual_result": "The embed is very stretched, and only the upper quarter/portion of the React and Message Options buttons are clickable",
+  "expected_result": "Line break (char break) at some point in the rich embed, and the React and Message Options buttons are fully clickable",
+  "short_description": "In rich embeds, very long links stretch the embed and block most of the message options button and the react button",
+  "steps_to_repro": "- Send/view a message that has a rich embed in it with a very long link - Notice how stretched the embed is, and how you can only click on the upper quarter/portion of the React button and Message Options button"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5aafe9a5402b4768a0fe0ab9",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1212,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CGBmYwXS",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.3.8",
+  "actual_result": "It doesn't reset until discord is restarted",
+  "expected_result": "It should reset like other settings",
+  "short_description": "Voice and video settings do not reset after logging out and back in until discord is restarted",
+  "steps_to_repro": "- Change some voice and video settings - Log out and log back in - Check voice and video settings"
+ }
+}

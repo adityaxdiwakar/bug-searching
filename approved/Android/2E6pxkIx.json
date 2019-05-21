@@ -1,0 +1,24 @@
+{
+ "id": "5a05abbd657189e85b39f42a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 885,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2E6pxkIx",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.6.1",
+  "actual_result": "Nothing will happen on your Android app, you have to restart the app to see the unread white dot back on the channel. Also, red mention indicators won't be restored, even after restarting. It's even more obvious if you try to reproduce this bug with a DM channel : nothing will happen at all.",
+  "expected_result": "You should see immediately that the channel got marked as Unread on Android, and the red mention indicator should reappear if messages containing mentions got marked as unread by this way.",
+  "short_description": "The Mark as Unread action on Desktop (Alt+Click on a message) doesn't reflect properly on Android",
+  "steps_to_repro": "- Have someone post a few messages in any channel, including one that contains a @ mention towards you (user tag or role mention, no matter)  - On Desktop, read those messages, and then make sure that the channel is correctly marked as read on Android as well - Switch to another channel on Android, bug stay in the same server - While keeping your Android app open, mark the messages as Unread on Desktop by doing Alt+Click on an old message"
+ }
+}

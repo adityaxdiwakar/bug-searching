@@ -1,0 +1,17 @@
+{
+ "id": "5a011d7d728389234fb27168",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1354,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9NEcmrIa",
+ "data": {
+  "system_settings": "Windows 10 Pro 1709 x64",
+  "client_settings": "Canary 0.0.170 (Build 6864), also happens on iOS (and possible other) platform",
+  "actual_result": "The Trello link preview stays below the message, even though the link is escaped with <> around it (which is visible if you edit/copy the message)",
+  "expected_result": "The preview of the Trello URL disappears, like it'd with other links (you can try sending an Imgur link and then editing <> around it for example, the preview disappears)",
+  "short_description": "After sending a message with an unescaped Trello URL, editing in a set of <> brackets around the URL won't remove preview/embed",
+  "steps_to_repro": "- Send a message containing a Trello URL, link preview should appear under the message - Edit the message and add <> around the Trello URL and save the edit"
+ }
+}

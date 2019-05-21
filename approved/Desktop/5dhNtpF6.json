@@ -1,0 +1,30 @@
+{
+ "id": "5b405ca587efb674ce9336b5",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2246,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5dhNtpF6",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 18317",
+  "actual_result": "No such warning is present",
+  "expected_result": "Messages from blocked users are hidden by a warning in Pinned Messages like in Search",
+  "short_description": "Blocked user messages appear in Pinned Messages without a warning",
+  "steps_to_repro": "- Go into a server which you have Manage Messages permission in - Block a user who's commented in chat - Pin their message - Open the Pinned Messages modal in the channel and observe the message being displayed without a warning of the user being blocked"
+ }
+}

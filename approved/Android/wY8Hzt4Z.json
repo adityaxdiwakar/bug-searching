@@ -1,0 +1,30 @@
+{
+ "id": "5bac8277c17b1650219c3367",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2054,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wY8Hzt4Z",
+ "data": {
+  "system_settings": "Samsung Galaxy J1 Ace, Android 4.4.4",
+  "client_settings": "Alpha 755",
+  "actual_result": "toast reads \"An unknown network error has occoured\"",
+  "expected_result": "toast reads \"Invalid Invite\"",
+  "short_description": "invalid invites show a network error has occoured",
+  "steps_to_repro": "- press the + button at the bottom of your server list - enter an invalid invite (e.g gshfj) - click join and observe the toast"
+ }
+}

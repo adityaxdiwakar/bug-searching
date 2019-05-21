@@ -1,0 +1,17 @@
+{
+ "id": "5a9ae704e8f410e335afe227",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1162,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wUEWCRZH",
+ "data": {
+  "system_settings": "Samsung Galaxy S5, newest stock firmware, Android 6.0.1",
+  "client_settings": "Discord 6.3.1 (631)",
+  "actual_result": "only @mentions show in the notification bar (on all servers I tested, it said that it updated and it did but still no notifications).",
+  "expected_result": "get notifications again.",
+  "short_description": "I can't get any notifications on some servers",
+  "steps_to_repro": "- mute a server and deactivate all notifications - umute it and set it to \"all messages\" -"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a69212a5beb16c24b0744ca",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1064,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/03gBEvb1",
+ "data": {
+  "system_settings": "LG X Power, Android 6.0.1",
+  "client_settings": "Android Alpha v6.1.1",
+  "actual_result": "The toast takes the theme of the save button, as well as a dark black outer box surrounding it",
+  "expected_result": "The toast should be themed based on your OS",
+  "short_description": "The nickname must be 32 characters or less toast is themed weirdly",
+  "steps_to_repro": "- Go to a server that lets you change your nickname - Try to change it to something above 32 characters - observe"
+ }
+}

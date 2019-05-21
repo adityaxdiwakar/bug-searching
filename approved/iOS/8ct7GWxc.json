@@ -1,0 +1,17 @@
+{
+ "id": "5b72b6e3df13477c38febff3",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 907,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8ct7GWxc",
+ "data": {
+  "system_settings": "Iphone SE IOS 12 Beta 5",
+  "client_settings": "Discord 2.3.6 (6755)",
+  "actual_result": "Discord crashed and don\u2019t change theme",
+  "expected_result": "Discord change theme and won\u2019t sync the theme",
+  "short_description": "discord crashed when switching theme and turn off sync",
+  "steps_to_repro": "- Go to settings - Go to theme - Set theme to light - turn sync theme off - discord crashed and don\u2019t change theme"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5beaa6344414a93febb550e5",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2320,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kKtMEz34",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.9.0",
+  "actual_result": "The screen will make a jump animation and the keyboard stays open while losing focus on the field",
+  "expected_result": "It should just close the keyboard, as in the Quick Switcher",
+  "short_description": "Pressing Enter/Submit key on your keyboard in the Invite your friends search field will cause the screen to jump and the keyboard to stay up",
+  "steps_to_repro": "- Go to Create Instant Invite page in any server - In the user search field, type something that gives some results (CNR if no result) - Tap the Enter/Submit key of your keyboard"
+ }
+}

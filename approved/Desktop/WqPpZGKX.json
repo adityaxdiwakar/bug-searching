@@ -1,0 +1,17 @@
+{
+ "id": "5b2c322587623c4d04c810a0",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2172,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WqPpZGKX",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 17481",
+  "actual_result": "Nothing happens when it's pressed, keeping you at your current scrolled position in chat",
+  "expected_result": "You're taken to the to bottom of chat",
+  "short_description": "ESC key no longer scrolls chat to the bottom",
+  "steps_to_repro": "- Scroll up any amount in chat - Press the ESC key"
+ }
+}

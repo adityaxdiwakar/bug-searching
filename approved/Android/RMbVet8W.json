@@ -1,0 +1,17 @@
+{
+ "id": "5b21f471d1be45fb0bdd458b",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1533,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RMbVet8W",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.9",
+  "actual_result": "The app asks for mic permissions as soon as you press Start a call, so it makes you think the call will start, but actually no because the \"You need to be friends to start a call\" modal appears and the call is prevented. As far as I know, displaying a modal doesn't require a microphone...",
+  "expected_result": "The app should check first if you are allowed to call the person, and then if this check is successful it will ask for mic permissions, right before initializing the voice module",
+  "short_description": "Discord asks for microphone permissions before checking if the call is even possible",
+  "steps_to_repro": "- Have Microphone permissions off for Discord (requires Android 6+) - Go to a DM with someone you're not friend with and that don't allow calls from non friends - Attempt to call him"
+ }
+}

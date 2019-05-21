@@ -1,0 +1,30 @@
+{
+ "id": "5b5ddc92812fdc24edae8b1a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1714,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LkvqRrW0",
+ "data": {
+  "system_settings": "Coolpad Mega 3, 6.0",
+  "client_settings": "Discord Alpha 720",
+  "actual_result": "You're in a random channel which isn't even the last channel you've visited before logging in.",
+  "expected_result": "You're taken to the friends tab.",
+  "short_description": "When you log out and login with another account then log in again, you aren't in the friends tab. You're in a random channel.",
+  "steps_to_repro": "- Logout. - Login with a different account. - Logout again. - Login with the account you initially were on."
+ }
+}

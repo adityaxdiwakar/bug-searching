@@ -1,0 +1,22 @@
+{
+ "id": "5847dd554318ea345bbb073b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 221,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Kafv54ef",
+ "data": {
+  "actual_result": "Overwrite is added, with 0 perms Client: Win 7 x64",
+  "expected_result": "Said Role has Read permission",
+  "short_description": "Creating a Text Channel with Restricted Access doesn't grant Read to selected Role(s)",
+  "steps_to_repro": "- Create a new Text channel, following prompt to restrict to a specific role "
+ }
+}

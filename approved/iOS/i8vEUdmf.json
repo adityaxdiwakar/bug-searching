@@ -1,0 +1,24 @@
+{
+ "id": "5a61f33ad200b6e9960f73e4",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 518,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/i8vEUdmf",
+ "data": {
+  "system_settings": "iPhone 8 +, iOS 11.2.5 PB6",
+  "client_settings": "Discord TestFlight 2.2.1 (2193 and 2202)",
+  "actual_result": "Browser opens with the image.",
+  "expected_result": "Nothing would happen, would act like an empty area of the text.",
+  "short_description": "Clicking on the side outside of image opens browser",
+  "steps_to_repro": "- Upload an image - Click on the empty space (beside the image) - Watch the magic to occur."
+ }
+}

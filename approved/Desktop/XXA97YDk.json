@@ -1,0 +1,17 @@
+{
+ "id": "5995cee0c725bdb9f612db96",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1010,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XXA97YDk",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Can reproduce on Stable 0.0.298 and Canary 0.0.163",
+  "actual_result": "File is ignored after dropping.",
+  "expected_result": "The box where you have the image and can add a message appears and the file uploads then",
+  "short_description": "Dragging files into Discord from Explorer Quick Access screen does not add the file (Submitting from https://feedback.discordapp.com/forums/326712/suggestions/18877141 )",
+  "steps_to_repro": "- Open a channel you have send Message and Upload Files permissions for - Drag in an image from the Quick Access Explorer page"
+ }
+}

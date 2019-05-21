@@ -1,0 +1,15 @@
+{
+ "id": "585dd361d1a6cdc2af5441a5",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 273,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dchQ4HUO",
+ "data": {
+  "actual_result": "Opens the link to the channel/server in Chrome (current default browser)",
+  "expected_result": "To act as a left click much like middle clicking users or not cause anything",
+  "short_description": "UI elements act as links",
+  "steps_to_repro": "- Middle click a text channel - Middle click a server "
+ }
+}

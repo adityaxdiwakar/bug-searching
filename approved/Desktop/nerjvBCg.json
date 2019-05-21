@@ -1,0 +1,17 @@
+{
+ "id": "5b22ba2cb1c81339dfd4ada7",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2137,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nerjvBCg",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "<Discord Canary Model number: 16727>",
+  "actual_result": "You get on voice automatically, cant hear anyone talk but you can hear people leave and join. It also doesn't say you're connected",
+  "expected_result": "You rejoin the server without being on voice automatically",
+  "short_description": "When kicked out of server while on voice & rejoin the same server you'd still hear the sounds for when someone joins and leaves the voice chat even when you're not in it / says you're on it",
+  "steps_to_repro": "- Join a voice chat - Get kicked - Rejoin then bug happens"
+ }
+}

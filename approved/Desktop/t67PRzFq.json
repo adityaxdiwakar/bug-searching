@@ -1,0 +1,17 @@
+{
+ "id": "5ac6a670506a8f411ab0f064",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1797,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/t67PRzFq",
+ "data": {
+  "system_settings": "Windows 10 Home 1709 64-Bit Build 16299.334",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 13185, Version Hash: 7a6009ff7fb1d1c9d86a43a0e1829d40a3722b55",
+  "actual_result": "The Someone Mention appears as if it is a valid Mention, but does NOT Mention anyone or show the Rainbow",
+  "expected_result": "There should be no trace of a Mention because the Someone Mention has been Disabled and there is no User called Someone",
+  "short_description": "It's possible to do a Someone Mention even though the Someone Mention is Disabled and there is no User with that name",
+  "steps_to_repro": "- Create a new Server - Access a Text Channel - Send any message that includes the Someone Mention"
+ }
+}

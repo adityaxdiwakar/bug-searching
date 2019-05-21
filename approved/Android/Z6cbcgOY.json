@@ -1,0 +1,30 @@
+{
+ "id": "5ba3809643fc4f436db76a65",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1995,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Z6cbcgOY",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 753",
+  "actual_result": "The colour of the lines is barely distinguishable from the other colours.",
+  "expected_result": "The lines are visible.",
+  "short_description": "The line that separates two DMs in a DM list is barely visible on dark theme.",
+  "steps_to_repro": "- Switch to dark theme. - Open the DM list. - Observe the lines below each DM."
+ }
+}

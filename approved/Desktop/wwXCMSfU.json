@@ -1,0 +1,17 @@
+{
+ "id": "5bc6fd118dfcaa3608c22df5",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 3201,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wwXCMSfU",
+ "data": {
+  "system_settings": "OnePlus 3T, Android 8",
+  "client_settings": "Canary Discord - Chrome 69.0.3497.100",
+  "actual_result": "Games on the edges are just out of reach and cannot easily be seen!",
+  "expected_result": "You are able to scroll through all of the games!",
+  "short_description": "[Marketing Website][Mobile] Phones in Portrait cannot see all games on new Nitro page!",
+  "steps_to_repro": "- Go to the new Marketing page for Nitro : discordapp/nitro - Scroll down to \"Get access to over $1,000 worth of games\" - Scroll (left and right) through the games, and notice the last game on either side is just out of reach of scrolling too - (Don't use 2 fingers as this seems to cause it to allow over scrolling)"
+ }
+}

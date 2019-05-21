@@ -1,0 +1,30 @@
+{
+ "id": "5b63bfd99bb6bd12bbec42ae",
+ "closed": true,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 2613,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DquYn7dq",
+ "data": {
+  "system_settings": "Windows 10 Home (1803) x64",
+  "client_settings": "Discord Canary 0.0.211 (Build 20540)",
+  "actual_result": "The game either completes startup and doesnt notify the user of the overlay (and the bug must be forced by interacting with a part of the title screen) or the game doesnt complete startup at all. This is due to Discords inability to determine what graphics card Minecraft is using (see attachments)",
+  "expected_result": "The game should complete it's startup and notify the user that the Discord Overlay is available with their selected keybinds.",
+  "short_description": "Overlay causes Minecraft Crashes",
+  "steps_to_repro": "- Using Device Manager's \"Display Adapters\" tab please ensure you have the following hardware requirements: An integrated Intel Graphics Card and an nVidia GeForce Card on the same device (Any generation of both) *See attachments for examples* - Ensure your integrated Graphics Card is not disabled or \"uninstalled\"  - Enable the Discord Overlay either before running the game, or after the game starts (Found by lieuwe_berg#8662) - Start any version of non modified (Vanilla) Minecraft"
+ }
+}

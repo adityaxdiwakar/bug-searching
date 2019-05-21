@@ -1,0 +1,17 @@
+{
+ "id": "5b3ac0e9a714bb309f9d429f",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 827,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5vPWQd0v",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Public Beta",
+  "client_settings": "TestFlight 2.3.4 (5560)",
+  "actual_result": "Pressing the \"Join the Call\" button does nothing and you have to join the call via the voice modal at the bottom of the screen",
+  "expected_result": "You join the call after pressing the \"Join the Call\" button",
+  "short_description": "\"Join the Call\" button does not work in DMs",
+  "steps_to_repro": "- Attempt to join the call via the blue \"Join the Call\" button - Observe if you join the call"
+ }
+}

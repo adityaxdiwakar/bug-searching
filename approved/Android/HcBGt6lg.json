@@ -1,0 +1,17 @@
+{
+ "id": "59b79729a07b7e961b392eea",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 706,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/HcBGt6lg",
+ "data": {
+  "system_settings": "Oneplus 3, Android 7.1.2 (Paranoid Android custom ROM)",
+  "client_settings": "Android alpha 5.1.2",
+  "actual_result": "The emote won't get added",
+  "expected_result": "The emote should appear in the text box",
+  "short_description": "When picking an emote from the list after pressing the emote search button, selecting the emote won't make it appear in the text box",
+  "steps_to_repro": "- Open the emote menu by pressing the button in the bottom right corner - Click on the magnifying glass in the bottom left corner - Select any emote and nothing will happen"
+ }
+}

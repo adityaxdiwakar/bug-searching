@@ -1,0 +1,24 @@
+{
+ "id": "5af5e641b7c202ad77f5b275",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 741,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8Ja6JOw9",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.4",
+  "client_settings": "TestFlight 2.3.2 (4331)",
+  "actual_result": "Your screen freezes and you arent able to do anything besides force closing your client",
+  "expected_result": "Your screen should not freeze",
+  "short_description": "Long clicking a pinged user makes your app freezes and not able to do anything anymore [Note: This happens on Latest Testflight (4331)]",
+  "steps_to_repro": "- Make sure to ping a user or bot - long click the pinged user/or bot to get the the options of user settings etc modal. ( i suggest trying it a couple times, as it might not work directly) - tap anywhere so the user setting modal goes away - observe your frozen screen"
+ }
+}

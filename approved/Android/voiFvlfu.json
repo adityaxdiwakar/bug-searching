@@ -1,0 +1,30 @@
+{
+ "id": "5b6068bd348f7368d76e1903",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1738,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/voiFvlfu",
+ "data": {
+  "system_settings": "Oneplus 3, Android 8.1.0",
+  "client_settings": "Discord Alpha 7.2.1",
+  "actual_result": "No popup message appears",
+  "expected_result": "A small \"Filter\" popup message should appear like it does in Recent Mentions when long pressing the filter button",
+  "short_description": "[Resubmitting with pictures for better clarity] Long pressing the filter button in the *Quick Switcher* doesnt make the small \"Filter\" text appear like it does in *Recent Mentions*",
+  "steps_to_repro": "- Open the quick switcher - Long press the filter button at the top right (three stripes)"
+ }
+}

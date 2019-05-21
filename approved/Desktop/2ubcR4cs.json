@@ -1,0 +1,17 @@
+{
+ "id": "5bc1964d29719b0d5adfac3d",
+ "closed": false,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 3170,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2ubcR4cs",
+ "data": {
+  "system_settings": "Windows 10 64x 1809",
+  "client_settings": "Canary 26090 (0.0.215)",
+  "actual_result": "Chat is normal but the top bar shows the transparency slider.",
+  "expected_result": "Chat is set to default",
+  "short_description": "[Overlay] Setting Chat transparency and toggling overlay causes the Transparency bar to show with the other stuff instead of game preview",
+  "steps_to_repro": "- Open overlay - Open set transparency option - Close overlay - Open overlay"
+ }
+}

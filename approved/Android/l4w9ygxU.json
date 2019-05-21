@@ -1,0 +1,17 @@
+{
+ "id": "5bac4c0ec6bbd6584940694c",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2051,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/l4w9ygxU",
+ "data": {
+  "system_settings": "Honor 9, Android 8.0.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "The filter window stays open, with absolutely no animation, until manually closed",
+  "expected_result": "As it happens in the Settings (try with a Setting that has a circle selection type, like in Voice & Video) it shows a little animation highlighting the box; in the other filters (Quick Switcher for example) it closes the window if it's a chosen option.",
+  "short_description": "[Audit Log] Clicking on an already chosen option will not show an animation/close the selection window.",
+  "steps_to_repro": "- Go to a Server where you have Audit Log permissions and open it. - Open the Filter and select Users or Servers. - Try to click on the selected option (by default it should be the first one) and observe."
+ }
+}

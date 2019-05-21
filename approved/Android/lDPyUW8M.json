@@ -1,0 +1,17 @@
+{
+ "id": "5c1f502a7049ee6ff55e60e4",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2397,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/lDPyUW8M",
+ "data": {
+  "system_settings": "Samsung Galaxy note 8 Android 8.0",
+  "client_settings": "Alpha 8.2.2",
+  "actual_result": "it disconnects me after changing my status with a more intense reaction when pausing a Spotify song",
+  "expected_result": "it shouldn't disconnect me after changing my status",
+  "short_description": "changing your status(includes pausing Spotify) while being connected to VC disconnects you from it and a webRTC error is thrown in debug when first connected to voice",
+  "steps_to_repro": "- connect to a voice channel while being online - open setting > debug and notice the error - change your status from online to invisible and wait for couple seconds(might take 2 or 3 attempts) - notice how you got disconnected and observe the errors in debug again"
+ }
+}

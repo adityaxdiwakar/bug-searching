@@ -1,0 +1,30 @@
+{
+ "id": "5aec62ee677414640eaca5d3",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 1366,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iQHoT7Hr",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 Nougat",
+  "client_settings": "Discord Alpha 6.6.1 (661)",
+  "actual_result": "It is top-left aligned and not in the middle",
+  "expected_result": "The magnifying glass is aligned in the middle of the screen",
+  "short_description": "The magnifying glass in the search screen you get when there are no results is top-left aligned (Note: if your screen is too small, switching to landscape also works)",
+  "steps_to_repro": "- Click on the search icon in top right - Search for something which would give no results - Observe the magnifying glass"
+ }
+}

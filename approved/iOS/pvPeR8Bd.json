@@ -1,0 +1,17 @@
+{
+ "id": "5b7d738fd788cb4b4017a938",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 935,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pvPeR8Bd",
+ "data": {
+  "system_settings": "iPad Air 2, iOS 11.0",
+  "client_settings": "TestFlight 2.3.7",
+  "actual_result": "Instead, the tab stays really small.",
+  "expected_result": "The tabs should go back to normal size.",
+  "short_description": "Friends category tabs don\u2019t get back to size after iOS 11.0 multitasking.",
+  "steps_to_repro": "- Open Discord, and go to the tab that shows your friends. - Drag a random app to multitask with Discord app. - Drag the another app to maximum size without closing Discord. - After that, drag the random app off the screen. - And observe the friends tabs (All, Online, Pending etc.)"
+ }
+}

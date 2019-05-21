@@ -1,0 +1,30 @@
+{
+ "id": "5a31fbed21c0ce18d1bfdecc",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1454,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nUvLgeJl",
+ "data": {
+  "system_settings": "Windows 7 Ultimate",
+  "client_settings": "Desktop Canary Build Number: 8541",
+  "actual_result": "It becomes bold, but when you click, nothing happens.",
+  "expected_result": "Nothing, because when you can't change, the border don't get bold.",
+  "short_description": "When you pass the mouse in something you can't change in server's Overview, it turns bold like you could.",
+  "steps_to_repro": "- Don't have perms to edit infos like AFK Channel/Timeout. - Pass the mouse through it."
+ }
+}

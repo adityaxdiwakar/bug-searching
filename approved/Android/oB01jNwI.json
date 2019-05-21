@@ -1,0 +1,30 @@
+{
+ "id": "5c2a6750ef9f8d1f3ddbd213",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2407,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oB01jNwI",
+ "data": {
+  "system_settings": "Samsung Galaxy S8+, Android 8.0.0",
+  "client_settings": "Discord Alpha 8.2.2",
+  "actual_result": "The save button stays there and it says the channel name successfully changed when it hasn't.",
+  "expected_result": "There should be some type of error message saying that you can't have a channel with spaces or the channel name should change and the save button should go away.",
+  "short_description": "When trying to change a channel name to one with spaces it does not provide any error message but when you press save the save button doesnt go away and it doesnt ever change the name of the channel but a message pops up saying it changed",
+  "steps_to_repro": "- Head to a channel - Change the channel name to one with spaces ex. \"channel test\" - Press Save - Observe - Exit the Channel Settings - Observe"
+ }
+}

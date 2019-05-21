@@ -1,0 +1,30 @@
+{
+ "id": "5a20e4c32c627d0bbf7598a1",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 931,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jBvxkXb7",
+ "data": {
+  "system_settings": "Samsung Express Prime 7.1.1",
+  "client_settings": "Discord Alpha 5.8.0 (580)",
+  "actual_result": "You can't see the members list icon next to the search icon",
+  "expected_result": "You can see the members list icon next to the search icon",
+  "short_description": "Members list icon doesn't show up",
+  "steps_to_repro": "- Note: Use light theme - Go to any channel"
+ }
+}

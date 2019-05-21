@@ -1,0 +1,24 @@
+{
+ "id": "5939d1479024faf902604903",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 501,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HDbd0SRU",
+ "data": {
+  "system_settings": "Android Marshmallow 6.0",
+  "client_settings": "Discord Alpha 3.9.0",
+  "actual_result": "Stays at bottom",
+  "expected_result": "Starts at top",
+  "short_description": "Mention list stays at bottom when holding",
+  "steps_to_repro": "- Open mention list - Immediately tap or hold your finger on the area where \"In the beginning\" text is while it loads"
+ }
+}

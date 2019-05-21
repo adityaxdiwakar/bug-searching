@@ -1,0 +1,17 @@
+{
+ "id": "5be9f2082cb67359a47f7f83",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2319,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2frwnf8W",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.8.8",
+  "actual_result": "You can see category B.",
+  "expected_result": "Category B should not be seen on your main, because there are no channels in the category, and your main does not have Manage Channel permission.",
+  "short_description": "You can see categories without any channels on Notification Overrides.",
+  "steps_to_repro": "- ON YOUR ALT, create a server, and create Category A, Category B, and Category C. - On Category A and C, create some channels, but on Category B, don't have any channels. - Then, send an invite to your MAIN ACCOUNT, and join it. Make sure your main account doesn't have \"Manage channels\" permission. - On your main account, click on the 3 dots next to the server name, and click on Notification Settings. - Scroll down to Notification Overrides, and select \"Add a Channel or Category\". - Observe how Category B can be seen."
+ }
+}

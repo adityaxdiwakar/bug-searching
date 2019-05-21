@@ -1,0 +1,22 @@
+{
+ "id": "583d3cd9ce64135f7578d269",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 109,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xyaN9E2J",
+ "data": {
+  "actual_result": "User can override granting them the ability to delete channels System Settings: Android 6.0 System settings: Android 6.0 Client version: 3.1.8",
+  "expected_result": "User has permissions given to them and cannot override",
+  "short_description": "User can give themselves manage channel permissions by having manage roles",
+  "steps_to_repro": "- Make a user with manage roles - Have the user open the manage channel permissions on android - Tap permissions - add user/role permissions to channel "
+ }
+}

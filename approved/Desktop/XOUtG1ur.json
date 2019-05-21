@@ -1,0 +1,30 @@
+{
+ "id": "5c148fc2636278533812d2a7",
+ "closed": false,
+ "idList": "5c148a9d85de9b479596b253",
+ "idShort": 3500,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XOUtG1ur",
+ "data": {
+  "system_settings": "Windows 10 Home x64 (1803)",
+  "client_settings": "Discord Canary Build 29791 (Host 0.0.224)",
+  "actual_result": "Gif Picker modal does not close",
+  "expected_result": "Gif Picker modal should close",
+  "short_description": "Gif Picker Modal doesn't close after clicking on the chat bar",
+  "steps_to_repro": "- Click on the Emoji Picker - Click back on the chat bar and observe the emoji picker modal close - Now click on the Gif Picker - Click back on the chat bar"
+ }
+}

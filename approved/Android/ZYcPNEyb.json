@@ -1,0 +1,23 @@
+{
+ "id": "5915f269843d1e1018c5f346",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 450,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZYcPNEyb",
+ "data": {
+  "system_settings": " Android 6.0 3.8.3",
+  "actual_result": "App closes",
+  "expected_result": "Channel drawer opens",
+  "short_description": "Opening the app by sharing an image to Discord makes back button close the app",
+  "steps_to_repro": "- Enable \"Back button opens channel drawer\" - Go to another app like Gallery and share the image and pick Discord. - Press the back button "
+ }
+}

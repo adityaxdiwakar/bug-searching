@@ -1,0 +1,24 @@
+{
+ "id": "591bf622e340e9f6dfd5f0f0",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 466,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/r4GRrAav",
+ "data": {
+  "system_settings": "Android 6.0 Marshmallow",
+  "client_settings": "Alpha 3.8.6",
+  "actual_result": "<> is shown and > gets used in the actual link",
+  "expected_result": "Link without the <>",
+  "short_description": "Links ending in ) break <>",
+  "steps_to_repro": "- Write a link that ends in a ) enclosed with <> - Example <<https://en.wikipefia.org/wiki/Mulfti_>(dress)>"
+ }
+}

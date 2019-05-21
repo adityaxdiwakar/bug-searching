@@ -1,0 +1,16 @@
+{
+ "id": "58373ea7e834e1210606a2fc",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 172,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kxBKQhbb",
+ "data": {
+  "system_settings": " Latest canary, Win 10.",
+  "actual_result": "It covers a part of the file icon.",
+  "expected_result": "The file name should show up without covering the file icon.",
+  "short_description": "If a file name is too long it goes out of the designated area and hides a part of the file icon when trying to delete it.",
+  "steps_to_repro": "- Get a random file from your computer - Name it something like \"This-is-a-test-to-see-how-this-discord-bug-works\" - Try to delete it. "
+ }
+}

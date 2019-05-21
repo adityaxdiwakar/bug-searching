@@ -1,0 +1,17 @@
+{
+ "id": "5c35e3d54a1baa2a5ef33474",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3605,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7uqwm2xt",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1803)",
+  "client_settings": "Discord Canary 0.0.226, Build 30620",
+  "actual_result": "The header cuts off at the end of the name",
+  "expected_result": "The header should extend to the other end of the modal regardless of the name's length",
+  "short_description": "Emoji category headers cut off at the name length",
+  "steps_to_repro": "- Go into a channel you can send messages in - Open the Emoji Picker and scroll down so that the name category is over some emojis"
+ }
+}

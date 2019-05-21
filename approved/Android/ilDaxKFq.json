@@ -1,0 +1,17 @@
+{
+ "id": "5bcc7250fc804f0167d4ac8e",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2212,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ilDaxKFq",
+ "data": {
+  "system_settings": "Huawei P8Lite 2016, Emui v4.1 \u2022 Android 6.0.1",
+  "client_settings": "Discord Alpha v7.7.8",
+  "actual_result": "It depends, I had two cases when testing: the center of the screen was empty with the \"You're wieving old messages\" bar or the messages in the channel where we post the link appear.",
+  "expected_result": "The link shouldn't work, like a toast appear to say that the link doesn't work anymore or whatever.",
+  "short_description": "Share a link of a message which it is in another channel then delete the message and click on the link make weird thing.",
+  "steps_to_repro": "- Create a new channel or delete each messages in a channel (still work if the channel has a lot of messages, but it doesn't give the exact same result as in the video). - Post anything. - Copy the link of the message then send this link in another channel. - Delete the message. - Click on the link."
+ }
+}

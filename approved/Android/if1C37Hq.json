@@ -1,0 +1,24 @@
+{
+ "id": "5943d04c782bff5f832b8f7f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 510,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/if1C37Hq",
+ "data": {
+  "system_settings": "Android 5.0.2 Huawei Honor",
+  "client_settings": "Discord 3.9.1",
+  "actual_result": "The error message just says \"This field is required\" even though it was technically filled out",
+  "expected_result": "The error message says the name is required",
+  "short_description": "Entering a space as server name in the create server dialog shows a wrong error message",
+  "steps_to_repro": "- Tap the + to add a server - Press \"Create server\" - Enter only a space as the name"
+ }
+}

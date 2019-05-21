@@ -1,0 +1,15 @@
+{
+ "id": "582ded4653ee711f9ce66953",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 79,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NGivQWCH",
+ "data": {
+  "actual_result": "Nothing happens Settings: iPhone 6, iOS 9.3.2 Latest Testflight 1.7.8 (44) Reported Originally by <@155037590859284481>",
+  "expected_result": "Link should open in browser",
+  "short_description": "Clicking links in embed description does nothing",
+  "steps_to_repro": "- Send or find a message or webhook with a link or links in the description. - Press and/or long press the link. "
+ }
+}

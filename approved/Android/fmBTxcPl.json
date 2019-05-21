@@ -1,0 +1,30 @@
+{
+ "id": "5ba03daa9ec04530226a6572",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1989,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fmBTxcPl",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.2",
+  "actual_result": "The search filters unexpectedly pop up again. This also happens when the search query is a random string starting with a # (which would correspond to a channel tag)",
+  "expected_result": "The search filters should remain hidden",
+  "short_description": "Search filters mysteriously reappear when typing out a Discord tag as search query",
+  "steps_to_repro": "- Go to a server - Go to Search - In the searchbar, type anything that is formatted as a Discord tag, eg `user#0000` - Notice that when you start typing the name, the search filters disappear, which is normal. Observe how they reappear as soon as you finish to type the 4th digit of the discriminator"
+ }
+}

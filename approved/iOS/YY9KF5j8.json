@@ -1,0 +1,17 @@
+{
+ "id": "5b68ce9f12073f428480215a",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 869,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YY9KF5j8",
+ "data": {
+  "system_settings": "iPhone 7 Plus iOS 12",
+  "client_settings": "Testflight 6427",
+  "actual_result": "App crashes",
+  "expected_result": "Quick switcher closes",
+  "short_description": "Closing quick switcher causes crash",
+  "steps_to_repro": "- Open quick switcher  - Close quick switcher"
+ }
+}

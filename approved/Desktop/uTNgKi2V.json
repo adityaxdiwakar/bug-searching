@@ -1,0 +1,24 @@
+{
+ "id": "59c40ce6665e284f61e55581",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1178,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uTNgKi2V",
+ "data": {
+  "system_settings": "Win 10 Pro x64 v1607",
+  "client_settings": "Canary Web (Build 4585) - Chrome Stable 60.0.3112.113 x64",
+  "actual_result": "The player stops immediately after leaving the visible portion of the screen",
+  "expected_result": "The player should continue to play until the message is no longer loaded, as is the case with YouTube videos and such",
+  "short_description": "Spotify embeds stop playing if unfocused (unlike their video counterparts)",
+  "steps_to_repro": "- Ensure you are on Canary Web _or_ Desktop Canary **without** Spotify installed locally - Post a Spotify media link (e.g. /track/) - Play the track preview from the embedded player - Scroll so the player is no longer in focus (can be up or down)"
+ }
+}

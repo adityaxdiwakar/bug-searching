@@ -1,0 +1,30 @@
+{
+ "id": "5bd820b1d2d6d46422dc46d6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3312,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Y6KttKpL",
+ "data": {
+  "system_settings": "Windows 10 Home 64 bit (1803)",
+  "client_settings": "Discord Canary Build Number: 27140",
+  "actual_result": "a black?! `;`shows under the invite embed",
+  "expected_result": "i should receive a \"connect Spotify\" embed without a `;`",
+  "short_description": "[Canary] receiving a Spotify invite without having a account linked causes a weird `;`to appear under the invite embed",
+  "steps_to_repro": "- ask someone to send you a Spotify party invite - observe"
+ }
+}

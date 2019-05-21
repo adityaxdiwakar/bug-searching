@@ -1,0 +1,30 @@
+{
+ "id": "5a8583b483bfc59b63ad9bfa",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1123,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/M12dhyL8",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.2.4",
+  "actual_result": "They redirect to each other",
+  "expected_result": "The authy app should redirect to authy app and Google authenticator to Google authenticator",
+  "short_description": "The authy app link in the 2FA login screen redirects to Google authenticator and vice versa",
+  "steps_to_repro": "- Enable 2FA - Log out of your account and enter your account details but don't enter your 2FA code yet - Click the two-factor authentication button next to the pop up menu  - Click on either of the 2 app names"
+ }
+}

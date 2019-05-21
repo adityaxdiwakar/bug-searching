@@ -1,0 +1,30 @@
+{
+ "id": "5b728742148238554919eba1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2704,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FB1Y2bZe",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 21705",
+  "actual_result": "Popup goes on top of the white bar but behind the white circle",
+  "expected_result": "Popup is fully over the toggle",
+  "short_description": "Input sensitivity popup goes behind the white circle in the auto sensitivity toggle",
+  "steps_to_repro": "- Go into Voice & Video in settings - Turn off the auto sensitivity if you have it turned on - Adjust the input sensitivity so that the popup is where the toggle is - Observe how the popup is overlaid with the toggle"
+ }
+}

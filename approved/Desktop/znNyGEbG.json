@@ -1,0 +1,30 @@
+{
+ "id": "5b7800720fd52b4a293683d3",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2736,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/znNyGEbG",
+ "data": {
+  "system_settings": "Windows 10 Home x64 17134",
+  "client_settings": "Stable Build 22189",
+  "actual_result": "The scroll bar will go up then back to the bottom again a few times then eventually work.",
+  "expected_result": "The scroll bar will go up and you will be able to scroll through the channel",
+  "short_description": "Scrolling does not work properly using scroll wheel in DM channels. When you try to scroll earlier into a channel (from the bottom) the scroll bar will keep moving back to the bottom of the channel a couple times until it eventually works.",
+  "steps_to_repro": "- Go to a DM channel - Attempted to scroll earlier into the channel."
+ }
+}

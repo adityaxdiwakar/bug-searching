@@ -1,0 +1,30 @@
+{
+ "id": "5ad9e8cd0c5ab3243da1ed63",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1300,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SWfd9e61",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.5.5",
+  "actual_result": "It inserts a linebreak that won't be saved anyway",
+  "expected_result": "Nothing should happen as the field is supposed to be single-line, or maybe should submit the modal idk",
+  "short_description": "Nickname field is a multi-line field",
+  "steps_to_repro": "- Go to a server where you can change nickname - Open the change nickname modal - In the field press Enter"
+ }
+}

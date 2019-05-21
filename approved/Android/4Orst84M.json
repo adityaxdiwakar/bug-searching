@@ -1,0 +1,16 @@
+{
+ "id": "588b50a8f03e95549efd01e5",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 195,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4Orst84M",
+ "data": {
+  "system_settings": " Andriod 6.0.1, Discord 3.2.8",
+  "actual_result": "nothing happend, the menue/dialog stayed the same and it should have redirected towards the voice settings of that persific vioce channel or showed the user the setting of the voice channel.",
+  "expected_result": ": the voice channel settings window/dialog should appear.",
+  "short_description": "voice setting button doesnt work, with people that have perms to change settings",
+  "steps_to_repro": "- connect to a voice chat - new voice dialog open, touch the 3 dots in top right hand side - dropdown menue shows up, touch settings. "
+ }
+}

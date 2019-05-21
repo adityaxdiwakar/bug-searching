@@ -1,0 +1,17 @@
+{
+ "id": "598f70eb1fe5d22ed16c13d9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 978,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3ASJnJeo",
+ "data": {
+  "system_settings": "OSX 10.12.3 (Also seen on Windows 7, need to replicate on 7, works ok on 10)",
+  "client_settings": "Canary 0.0.154",
+  "actual_result": "OK button is missing",
+  "expected_result": "You should be able to select a space and hit \"ok\"",
+  "short_description": "Screen share \"ok\" button cut off",
+  "steps_to_repro": "- Step 1: Resize Discord to minimum size (Have your test call recipient have a max length name) - Step 2: Start Video call  - Step 3: Try to share screen"
+ }
+}

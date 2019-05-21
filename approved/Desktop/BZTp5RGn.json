@@ -1,0 +1,30 @@
+{
+ "id": "5b5cb4ffbd76933310919cbd",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2473,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BZTp5RGn",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Canary - Build Number: 20174 / PTB - Build Number: 20040",
+  "actual_result": "The video turns off for a split second and you can see the avatar of the user, then turns back on",
+  "expected_result": "The video is not flickering",
+  "short_description": "When in a video call with someone, the camera goes off for a split second while (un-)muting",
+  "steps_to_repro": "- call your best friend! - turn on your camera - go to a different channel (so you get the little video box) - (un-)mute and observe"
+ }
+}

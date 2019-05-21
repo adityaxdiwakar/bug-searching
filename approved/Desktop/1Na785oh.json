@@ -1,0 +1,17 @@
+{
+ "id": "5a824ea49fc250e34306c68e",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1649,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1Na785oh",
+ "data": {
+  "system_settings": "MacBook Pro 15\" (2017) - macOS High Sierra 10.13.3",
+  "client_settings": "Canary 10601",
+  "actual_result": "The buttons are different sizes and the \"yep\" text isn't centered",
+  "expected_result": "The two buttons are the same size",
+  "short_description": "\"Links are Spoopy\" dialog conformation buttons are different sizes",
+  "steps_to_repro": "- Click on any link that will bring up the \"Links are Spoopy\" dialog (Masked link in embed, \"Open Original\" link in image embeds)"
+ }
+}

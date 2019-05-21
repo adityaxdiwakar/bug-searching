@@ -1,0 +1,17 @@
+{
+ "id": "5b91a324874e2e4fece6ae1f",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2935,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pA7cGZQb",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 23182",
+  "actual_result": "No error is shown",
+  "expected_result": "Clyde shows an error message saying the message failed to send",
+  "short_description": "Clyde message delivery error not shown when messages fail to send",
+  "steps_to_repro": "- Send a message with a lot of mentions / emojis, or try sending a message to a user that blocked you or doesn't share any servers with you"
+ }
+}

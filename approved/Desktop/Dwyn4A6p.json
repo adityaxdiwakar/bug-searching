@@ -1,0 +1,22 @@
+{
+ "id": "585965c72c6b7a18fcf27e8b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 261,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Dwyn4A6p",
+ "data": {
+  "actual_result": "All custom emoji of the server, but not of the streamer",
+  "expected_result": "Twitch Emotes",
+  "short_description": "Wrong emotes in server integration settings",
+  "steps_to_repro": "- Be a mod of the server where streamer connected their Twitch account - Go to Settings > Integrations - See \"Custom Twitch Emotes\" "
+ }
+}

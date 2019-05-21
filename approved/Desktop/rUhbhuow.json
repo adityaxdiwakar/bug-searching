@@ -1,0 +1,30 @@
+{
+ "id": "598fdc7588744ad5f5c3686f",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 984,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rUhbhuow",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord 0.0.298",
+  "actual_result": "When it fails due to no new friend suggestions, it should show an appropriate error message.",
+  "expected_result": "Account should link",
+  "short_description": "Incorrect error message appears when you are unable to link League of Legends account",
+  "steps_to_repro": "- Sign into LoL - Open discord - Goto discord connections and try and link"
+ }
+}

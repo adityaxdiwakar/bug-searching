@@ -1,0 +1,15 @@
+{
+ "id": "586191c2d0595b53fd54af01",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 285,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1YwLau7t",
+ "data": {
+  "actual_result": "- Clyde eats my wumpus and asks me to buy Nitro, instead of saying you cant post external emojis",
+  "expected_result": "Clyde tells me that external emojis are disabled",
+  "short_description": "Using nitro emote feature, causes clyde to be incorrect",
+  "steps_to_repro": "- Buy sweet, sweet Discord Nitro - Go onto a server where external emojis are disabled - ensure that this is the first time youve seen the discord nitro message from clyde as thats how the discord (sort of) tutorial works - type an external emoji "
+ }
+}

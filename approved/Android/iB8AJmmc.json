@@ -1,0 +1,30 @@
+{
+ "id": "5bc8bb2475a8222b8c07e20d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2194,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iB8AJmmc",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.6.7",
+  "actual_result": "Claim Account pops up after you have inputted the 3rd letter.",
+  "expected_result": "Claim Account button should just be lit up either without any content, or as soon as you input 1 letter.",
+  "short_description": "Claim Account box only lights up after you input at least 3 letters in the password box.",
+  "steps_to_repro": "- Get to the Claim Account screen. - Fill your email, and fill your password. - Observe as you press your 3rd letter of your password."
+ }
+}

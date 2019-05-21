@@ -1,0 +1,30 @@
+{
+ "id": "5b083c69e2e86ecfa1d4eb5a",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 769,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1qdLd62b",
+ "data": {
+  "system_settings": "iPhone 6s iOS 11.3.1",
+  "client_settings": "TestFlight 2.3.2 (4760)",
+  "actual_result": "Background shows lines of text",
+  "expected_result": "Background is clear",
+  "short_description": "Background lines of text in magnifying glass zoom when typing",
+  "steps_to_repro": "- Type multiple lines of text, about 4-5 - Long press on the bottom line of text and observe the magnifying glass zoom - While still pressing down, move your finger to the top line of text and then back down to the bottom (try going to the bottom line of text and going past that) - Observe the background of the magnifying glass zoom"
+ }
+}

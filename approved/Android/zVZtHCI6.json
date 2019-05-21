@@ -1,0 +1,30 @@
+{
+ "id": "5b7ebf7026a0d309e4178c8c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1870,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zVZtHCI6",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.4.0",
+  "actual_result": "The Create invite button shows up above the channel list, but doesn't do anything",
+  "expected_result": "The button shouldn't be there at all, because iirc ability to create invite for voice channels is a missing feature on Android",
+  "short_description": "If you don't have Create invite permission on any text channel in the server, but have it on voice channels, the Create Invite button will be there but won't do anything",
+  "steps_to_repro": "- Find a server where Create Invite permission is denied on all text channels, but granted on at least 1 voice channel - Tap on the Create invite button"
+ }
+}

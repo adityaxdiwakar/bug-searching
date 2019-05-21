@@ -1,0 +1,24 @@
+{
+ "id": "59ae4ab5d0cd545f257ebd03",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1087,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KH4U3j2f",
+ "data": {
+  "system_settings": "Win 8.1 x64",
+  "client_settings": "Discord PC App, 0.0.298",
+  "actual_result": "The ringing sound goes silent even though it is still calling the person",
+  "expected_result": "You still hear the calling sound",
+  "short_description": "Calling sound goes silent on DM",
+  "steps_to_repro": "- Call a friend or group in a DM - Go to one of your channels/another DM"
+ }
+}

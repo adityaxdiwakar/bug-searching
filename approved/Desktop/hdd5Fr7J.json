@@ -1,0 +1,22 @@
+{
+ "id": "58bf0b72a985ed1a7897f426",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 405,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hdd5Fr7J",
+ "data": {
+  "actual_result": "It is overlapped by the colour picker.",
+  "expected_result": "You should easily be able to access this menu and do any command.",
+  "short_description": "In the Role Colour Picker, the copy, paste, cut menu is layered under the colour picker.",
+  "steps_to_repro": "- Step 1: Create a random colour - Step 2: Attempt to copy the random colour code but press right click, instead of any shortcut keys. "
+ }
+}

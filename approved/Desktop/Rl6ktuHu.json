@@ -1,0 +1,22 @@
+{
+ "id": "58406c6d8e259354e46f97f5",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 187,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Rl6ktuHu",
+ "data": {
+  "actual_result": "Roles take a long time to sort and end up sorting incorrectly when moving them",
+  "expected_result": "Roles should move flawlessly and sort correctly",
+  "short_description": "having extreme amounts of roles tends to lag the list and make it extremely difficult to move them",
+  "steps_to_repro": "- Have about 100+ roles  - Try and sort them "
+ }
+}

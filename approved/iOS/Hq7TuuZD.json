@@ -1,0 +1,42 @@
+{
+ "id": "5a15f8cd129b1aa37adfc4a5",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 441,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "5a5e61490661fc1c89f71a0a",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Q1",
+   "color": null
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Hq7TuuZD",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.1",
+  "client_settings": "Discord iOS TestFlight, version 2.0.1 (build 1610)",
+  "actual_result": "The message does not copy, and thus when you try to paste it, it is blank/pasted nothing",
+  "expected_result": "Contents of the rich embed message should paste in the channel after copying",
+  "short_description": "Unable to copy text from rich embedded messages",
+  "steps_to_repro": "- Have a bot send you a rich embed message - Press and hold on the message - Press \u201cCopy Text\u201d - Try and paste the message in a channel"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5c144c98f381496a2b769c3a",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3498,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VgU25rdB",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1809)",
+  "client_settings": "Discord Canary 0.0.224 (29720)",
+  "actual_result": "It's big and odd.",
+  "expected_result": "It should be similar to stable",
+  "short_description": "[Fixed while in Queue] The username field font is bigger compared to stable in the user popup",
+  "steps_to_repro": "- Be on Canary - Open a user pop up - Observe the username font"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b8202bce268953045d98752",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1884,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2TmizyE8",
+ "data": {
+  "system_settings": "Honor 9, Android 8.0.0",
+  "client_settings": "Discord Alpha 7.4.0",
+  "actual_result": "You get redirected to that channel without doing anything.",
+  "expected_result": "Nothing should happen.",
+  "short_description": "If you click on a channel (from a message) you don't have the permissions to see and then get someone to give you the permissions you need then you'll be redirected to that channel without doing anything.",
+  "steps_to_repro": "- Ask someone to send a message including a channel you don't have the permissions to see. - Click on the channel and observe: the screen will update but will take you back to that channel where you were (as intended). - Now have someone to give you the permissions to see that channel and wait."
+ }
+}

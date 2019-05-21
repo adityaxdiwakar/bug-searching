@@ -1,0 +1,24 @@
+{
+ "id": "59f41a5afd5d6ac03f1cbb2c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1330,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5CVpnyMN",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Desktop Stable, build 6444",
+  "actual_result": "Whilst uploading the file the message is in cozy display ()",
+  "expected_result": "Message showing upload progress/details is in compact mode (matches settings)",
+  "short_description": "File uploading message uses cozy display in compact mode",
+  "steps_to_repro": "- Set Message Display to Compact (User Settings > Appearance > Message Display) - Go to text channel - Upload a file - Observe"
+ }
+}

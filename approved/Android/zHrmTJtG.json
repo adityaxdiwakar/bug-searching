@@ -1,0 +1,29 @@
+{
+ "id": "58f7a2150dccf933e83b8394",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 391,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zHrmTJtG",
+ "data": {
+  "system_settings": " 7.1.2 3.6.7",
+  "actual_result": "Both scroll",
+  "expected_result": "Only server drawer scrolls",
+  "short_description": "Scrolling with OTG mouse scrolls chat and server list at the same time",
+  "steps_to_repro": "- Connect OTG mouse - Open server drawer - Scroll "
+ }
+}

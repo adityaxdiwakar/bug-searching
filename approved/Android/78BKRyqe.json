@@ -1,0 +1,24 @@
+{
+ "id": "5a2efd6fdd6d75502549910c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 944,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/78BKRyqe",
+ "data": {
+  "system_settings": "Huawei P8Lite 2017, android 7.0",
+  "client_settings": "5.8.3",
+  "actual_result": "the message \"unknow invite\" appear.",
+  "expected_result": "\"But nothing happens...\"",
+  "short_description": "When you leave the app (and reopen) when we are on the invite expired pop up, the \"Unknow invite\" message reappear.",
+  "steps_to_repro": "- Open it. - Make sure to be on the invite poop lair page. - Leave the app (don't kill it). - Re-open it."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ad37f4fdf3e548f0b0a651e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1850,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/P1CkwYiF",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Discord Canary Build 13622",
+  "actual_result": "The dark grey box that highlights it gets cut off when scrolling to the right",
+  "expected_result": "The dark grey box should be there even when scrolling right but instead gets cut off",
+  "short_description": "When adding a webhook to a long named text channel, the selected text channel appears half dark grey.",
+  "steps_to_repro": "- Create a text channel with a long name - Create a webhook for it - Select the long channel - Scroll to the right with the bar - Observe"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5a023e2880570d2aba74e739",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 878,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VcjSrtKM",
+ "data": {
+  "system_settings": "Android 5.1, Moto E (2nd generation)",
+  "client_settings": "Discord Alpha 5.5.4",
+  "actual_result": "Video disables / disappears by itself, and you cannot get it back until after next call where the pattern repeats.",
+  "expected_result": "Video stays on during call, and you are able to use it.",
+  "short_description": "Video Disappears / Disable Itself During Call (Possible for Android 5.1 ONLY)",
+  "steps_to_repro": " - Start a voice call -Click on to show video - Observe your video showing then disappearing."
+ }
+}

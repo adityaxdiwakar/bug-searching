@@ -1,0 +1,17 @@
+{
+ "id": "5c337e58bdae954aaa3cbb11",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2416,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xn2k5BX6",
+ "data": {
+  "system_settings": "ASUS Zenfone max pro m1 Android 8.1.0",
+  "client_settings": "Alpha 8.2.4",
+  "actual_result": "The Spotify presence from your earlier account gets passed over to the new one (not local)",
+  "expected_result": "There should be nothing out of the ordinary",
+  "short_description": "Spotify statuses pass over to other accounts even if they don't have Spotify connected",
+  "steps_to_repro": "- Have 2 accounts on the same device, one connected to Spotify and the other not. - Play a song on the connected account and listen for a while until discord detects it  - Listen for some more time and switch accounts on the same device  - Check your profile"
+ }
+}

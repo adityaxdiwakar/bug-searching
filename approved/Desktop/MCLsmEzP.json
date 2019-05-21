@@ -1,0 +1,30 @@
+{
+ "id": "5b5168750d22a37c9e4fe6ab",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2348,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MCLsmEzP",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Chrome 67.0.3396.99",
+  "actual_result": "You can enter and save a redirect url",
+  "expected_result": "You shouldn't be able to enter an empty redirect url",
+  "short_description": "[Website Bug] Able to set blank redirect urls",
+  "steps_to_repro": "- Open up the developer portal and go to oauth2 - Click \"Add Redirect\" - Click \"save\""
+ }
+}

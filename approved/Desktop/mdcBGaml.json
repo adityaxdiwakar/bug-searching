@@ -1,0 +1,30 @@
+{
+ "id": "5b50ab5e4c6dbc6010419a02",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2330,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mdcBGaml",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 19006",
+  "actual_result": "Able to select that server from the context menu even though clicking it doesn't send an invite",
+  "expected_result": "No option to invite user to that server since invites are denied in every channel",
+  "short_description": "Able to invite user to server from right click context menu when invite perms are denied by channel even though no invite gets sent",
+  "steps_to_repro": "- Have a server where you have a role that has invite perms enabled in settings but disabled in channel settings - Right click a user that isn't in the server - Mouse over the \"Invite to Server\" option and observe you have the option to invite to that server - Try inviting the user to that server from the right click context menu"
+ }
+}

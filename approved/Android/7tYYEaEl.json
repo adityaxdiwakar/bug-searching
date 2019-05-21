@@ -1,0 +1,17 @@
+{
+ "id": "5bd611d30bb1834fba9735ec",
+ "closed": false,
+ "idList": "57f581ee03d9a5860ecf0e06",
+ "idShort": 2254,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7tYYEaEl",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.8.2",
+  "actual_result": "It doesn't count towards the use frequency of the emote, although it's the case on Desktop.",
+  "expected_result": "The emoji you reacted with should appear in Frequently Used (if relevant)",
+  "short_description": "Unlike Desktop, adding an existing reaction to a message doesn't add the emoji you reacted with in Frequently Used list",
+  "steps_to_repro": "- Find a message with a reaction already added - Click on the reaction directly (do not open the Add Reaction menu, just click the reaction below the message) - Open the emoji picker"
+ }
+}

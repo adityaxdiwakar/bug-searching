@@ -1,0 +1,36 @@
+{
+ "id": "5a33be65c4b40092ae8db086",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 951,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wQh4dTR5",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.8.6",
+  "actual_result": "The unread indicator is still there. To make it diseappear you must scroll up in the chat and then scroll down to the bottom again, or simply use the Mark as Read feature.",
+  "expected_result": "The unread indicator should diseappear on the channel, since you were already at the bottom of the chat",
+  "short_description": "Channels won't mark themselves as read after viewing them even if you were already viewing the latest messages",
+  "steps_to_repro": "- Find a channel with only 1 or 2 unread messages, so the New Messages bar is visible while you are at the bottom of the chat - Exit out of the channel"
+ }
+}

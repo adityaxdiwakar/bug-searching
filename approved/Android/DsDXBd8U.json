@@ -1,0 +1,30 @@
+{
+ "id": "5b46f600845aebd88294a28e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1641,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DsDXBd8U",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 7.0.6",
+  "actual_result": "Rich Presence is not showing anymore",
+  "expected_result": "A Rich Presence should show like it use to",
+  "short_description": "Streaming status no longer shows rp",
+  "steps_to_repro": "- have someone streaming on twitch on desktop - make sure their twitch account is linked and they have a desktop version of Discord opened - open their mini profile/profile"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b5758bfddbdae7eb3199131",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1673,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/BDevrBUA",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 712",
+  "actual_result": "They update at different times. The indicator in the list updates before the indicator in the icon.",
+  "expected_result": "The mention indicator in the icon and the mentions indicator in the list update together.",
+  "short_description": "The mentions indicator in the channel/DM icon and the channel/DM list in the quick switcher update at different times.",
+  "steps_to_repro": "- Have someone spam in your DMs. - Quickly open quick switcher. - Observe."
+ }
+}

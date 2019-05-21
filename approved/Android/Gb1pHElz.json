@@ -1,0 +1,24 @@
+{
+ "id": "5ba97bb6c82fb9193414fa9a",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2007,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Gb1pHElz",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Edge 8.0.0",
+  "client_settings": "Alpha 7.5.5",
+  "actual_result": "They are also white so they are hidden",
+  "expected_result": "They should be easily visible",
+  "short_description": "[Audit Log] White theme buttons/dots are also white so they look invisible.",
+  "steps_to_repro": "- Have white theme on - Go to audit logs - Filter by actions/users - Observe the dots"
+ }
+}

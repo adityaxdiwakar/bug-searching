@@ -1,0 +1,23 @@
+{
+ "id": "58de7718981b10665c8d2afd",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 326,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sKoOPJRm",
+ "data": {
+  "system_settings": " Android 6.0.1, Discord 3.5.7",
+  "actual_result": "The partial word is highlighted.",
+  "expected_result": "Your name is highlighted with the role color.",
+  "short_description": "Pinned message color highlights role color incorrectly if name is also part of message",
+  "steps_to_repro": "- Set your nickname in a server to part of a word found in the pin message - Pin message "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b5b09a970ee16ca8225edf9",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 852,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5UiwxZgs",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.0",
+  "client_settings": "TestFlight 2.3.6 (6059)",
+  "actual_result": "The search appears there and even if you have no bans",
+  "expected_result": "The search shouldn't show in other sections of server settings",
+  "short_description": "If you search for something in the members section in server settings, the same search appears in bans, when you haven't searched any bans and don't have any",
+  "steps_to_repro": "- Go to a server that doesn't have bans - Open server settings - Go to members - Search for something and press return - Press back - Go to the bans section - Observe how the search bar is now there even though you have no bans and it's your previous search there"
+ }
+}

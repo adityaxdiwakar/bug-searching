@@ -1,0 +1,24 @@
+{
+ "id": "598d7fe4e161c9a7741dd6e8",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 616,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RMOkUGON",
+ "data": {
+  "system_settings": "Android 4.4.4, Tablet Allview VivaH8LTE",
+  "client_settings": "DiscordApp, Android Alpha 4.0.4",
+  "actual_result": "There's a difference between how the badge on desktop and Android are positioned",
+  "expected_result": "All discord badges should be perfectly centered on users profiles",
+  "short_description": "Android v4.4.4 Specific Issue: The discord badges are not perfectly centered on users profiles.",
+  "steps_to_repro": "- Search a user that has a badge on their profile (preferable, a discord partner, because the bug is more visible) - Go to their profile - Observe the badge - There's a difference. The badge is not perfectly centered like on any other platform - (Additional: you can also to observe the attachments. A picture is taken on PC/Desktop and one is taken on my device)"
+ }
+}

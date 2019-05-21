@@ -1,0 +1,16 @@
+{
+ "id": "58f8cffef21d13dde1b9d756",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 510,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0Tw6Pk6B",
+ "data": {
+  "system_settings": " Arch 0.15 canary",
+  "actual_result": "they are not in the correct order",
+  "expected_result": "the settings are in the same order on both the right click menu and the settings screen",
+  "short_description": "right click on server settings menu is out of order",
+  "steps_to_repro": "- right click a server you have admin in - look at the order of the settings entries "
+ }
+}

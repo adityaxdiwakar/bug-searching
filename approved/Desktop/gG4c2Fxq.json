@@ -1,0 +1,30 @@
+{
+ "id": "5a31c6a7942eab5a39998625",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1452,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gG4c2Fxq",
+ "data": {
+  "system_settings": "Win10 64x Canary 0.0.182",
+  "client_settings": ">",
+  "actual_result": "The embed has a regular text with `Hyperlink`",
+  "expected_result": "The embed should have a clickable Hyperlink with the text `Hyperlink` that uses the osu:// protocol",
+  "short_description": "Embed links to osu:// no longer result in a clickable Hyperlink",
+  "steps_to_repro": "- Send an embed with `[__**Hyperlink**__](osu://dl/689766)` into a channel - Look at the embed"
+ }
+}

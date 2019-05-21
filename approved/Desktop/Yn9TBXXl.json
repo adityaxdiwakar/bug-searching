@@ -1,0 +1,42 @@
+{
+ "id": "5a8d7f6428f24d48e896b757",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1677,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a860c47f5d021f87f1e5a36",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Images",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Yn9TBXXl",
+ "data": {
+  "system_settings": "Win 7 x64",
+  "client_settings": "Discord, 0.0.300",
+  "actual_result": "File fails to upload.",
+  "expected_result": "File uploads to discord.",
+  "short_description": "Quotes not allowed in file names",
+  "steps_to_repro": "- Create a file with ' in the title - Attempt to upload it to discord."
+ }
+}

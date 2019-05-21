@@ -1,0 +1,30 @@
+{
+ "id": "5b1439fd6b491ebd6a23b979",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2092,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ILrY8WvW",
+ "data": {
+  "system_settings": "Windows 10 x64 (1709)",
+  "client_settings": "Discord Canary 16354",
+  "actual_result": "The user selected appears to be slightly misaligned, it's moved a bit upwards in the input field. Ceiling padding is less than floor padding.",
+  "expected_result": "The user selected should appear in the input field enclosed in a box, which has the same paddings for both above and below it, like any other zoom level.",
+  "short_description": "In 90% zoom level, users to be added into a DM in the DM invite box are slightly moved upwards in the input field.",
+  "steps_to_repro": "- Use Discord in 90% zoom. - Open DM invite box. - Choose any user. - Observe carefully."
+ }
+}

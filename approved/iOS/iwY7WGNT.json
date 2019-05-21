@@ -1,0 +1,30 @@
+{
+ "id": "59e2ad599c9335d6232c1091",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 366,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iwY7WGNT",
+ "data": {
+  "system_settings": "iPhone 6S with iOS 11.0.3 & iPad Air 2 with iOS 11.1 PB 2",
+  "client_settings": "TestFlight 1.9.2 (953)",
+  "actual_result": "It appears multiple times depending on how often you click on the reaction button.",
+  "expected_result": "The window with the reactions should only appear one time.",
+  "short_description": "Clicking multiple times on reaction button opens multiple modal windows",
+  "steps_to_repro": "- Send a message or have any message where you have the permission to add a reaction - Add a reaction to this message - Now the reaction button next to the previous reactions should appear - Click multiple times on the reaction button"
+ }
+}

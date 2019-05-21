@@ -1,0 +1,23 @@
+{
+ "id": "590f2b784509c99b49871963",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 613,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4sPbXj8m",
+ "data": {
+  "system_settings": " Windows 10, Discord Canary",
+  "actual_result": "Both custom emojis are displayed in text (`:NotLikeThis: :whentm:`)",
+  "expected_result": "The custom emoji from the other server will be in text while the custom emoji from the server you sent it will be displayed as an emoji (`:NotLikeThis:` is in text while `:whentm:` is displayed as an emoji)",
+  "short_description": "Using custom emotes/emojis from other servers and in the server you are on in one message will be displayed in text *for non-nitro users*",
+  "steps_to_repro": "- Be in 2 servers where you cannot use the custom emotes anywhere (to put it simply, 2 servers that have custom emotes/emojis) ( Example: Server 1; `:NotLikeThis:` :: Server 2; `:whentm:` ) - In one of the servers (for the example, server 2), use/type an emoji/emote from both servers (make sure to type it out correctly) - Send the message "
+ }
+}

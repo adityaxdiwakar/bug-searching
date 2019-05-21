@@ -1,0 +1,30 @@
+{
+ "id": "5a07f037c8927ede2e2e2d16",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1370,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/e0TFxVwR",
+ "data": {
+  "system_settings": "Windows 10 x64 Fall Creator's Update",
+  "client_settings": "canary, Build Number: 7190",
+  "actual_result": "a box in the corner of the screen appears with the site as another window of the client without any interface",
+  "expected_result": "The video will open on youtube in the user's default browser",
+  "short_description": "the video link in a youtube embed opens up another small window that's part of the client",
+  "steps_to_repro": "- Click play on a youtube embed - Click the \"YouTube\" text"
+ }
+}

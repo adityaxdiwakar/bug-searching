@@ -1,0 +1,17 @@
+{
+ "id": "5bdcb28e2c93de6fe0de7cc5",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3342,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/C7Jf4Uh3",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Build v1803",
+  "client_settings": "Canary Build 27445",
+  "actual_result": "Overlay doesn't launch at all",
+  "expected_result": "Overlay opens",
+  "short_description": "Overlay doesn't connect/launch at all",
+  "steps_to_repro": "- Enable Overlay - Launch a game with any Overlay - After the game is launched, hit your key to open Overlay"
+ }
+}

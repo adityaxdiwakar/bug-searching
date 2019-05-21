@@ -1,0 +1,24 @@
+{
+ "id": "5bb7a070f14f2b730f4dd2d8",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1056,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/b0iyYxz6",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8023)",
+  "actual_result": "Text box falls down, and then rises up",
+  "expected_result": "Text box rises up as the predictive text box is shown",
+  "short_description": "Removing the mention/emoji suggestion drawer on a line break causes the text box to dip down before coming up (Must have predictive text turned on)",
+  "steps_to_repro": "- Type a sentence to get to a line break - Open either the mention suggestion drawer or the emoji suggestion drawer - Close the suggestion drawer, making sure it temoves the like break, and observe the animation of the text box - If this doesn\u2019t happen the first time, try again multiple times using the same steps as before"
+ }
+}

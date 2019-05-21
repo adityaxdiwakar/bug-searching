@@ -1,0 +1,24 @@
+{
+ "id": "59bbd328ac6e0c58ace0dde2",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1131,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pP9soK0A",
+ "data": {
+  "system_settings": "MacBook Air 10.12.4",
+  "client_settings": "Desktop Canary 0.0.154",
+  "actual_result": "You still see \"Add Friend\" and can click it again",
+  "expected_result": "It should say \"Friend Request Sent\"",
+  "short_description": "On user menu friend request box doesn't update",
+  "steps_to_repro": "- Find someone who is not your friend - Open the menu of that person (right click on their name) - Click \"Add Friend\" - Make sure they haven't accepted the request - Reopen their menu - See the \"Add Friend\""
+ }
+}

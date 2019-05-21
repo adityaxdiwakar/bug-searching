@@ -1,0 +1,30 @@
+{
+ "id": "5af225cd8ee2a7ede7853e9b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1953,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/40i9eZTO",
+ "data": {
+  "system_settings": "iMac macOS 10.13.4",
+  "client_settings": "Discord Canary, 0.0.190",
+  "actual_result": "It pastes a previously copied message before the one you attempted to copy.",
+  "expected_result": "It should past the message you attempted to copy.",
+  "short_description": "You cannot right click and copy a message with discord canary.",
+  "steps_to_repro": "- Highlight a message - Right click message - Select copy - Go to message box - Right click and select paste"
+ }
+}

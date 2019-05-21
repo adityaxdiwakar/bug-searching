@@ -1,0 +1,17 @@
+{
+ "id": "5a4c0c67313a44b6db5bc658",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 478,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1nVuTzOo",
+ "data": {
+  "system_settings": "iPod touch 6th generation, ios 10.3.3",
+  "client_settings": "TestFlight 2.2.0 (1910)",
+  "actual_result": "The status bar is not, there and instead the battery is there.",
+  "expected_result": "The status bar should be there, and show everything",
+  "short_description": "Status Bar missing after opening up image in browser in light theme.",
+  "steps_to_repro": "-  Go to your user settings  - Go to appearance  - Change to light theme  - After you have hit back, go to web browser  - Change your browser to the in-app one  - Upload any image to Discord - Click on this image to open image preview  - Click again on this image and open the image in the browser by clicking on the 3 dots  - Click done after the images opens - Observe the status bar, once you are back."
+ }
+}

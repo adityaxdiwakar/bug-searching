@@ -1,0 +1,30 @@
+{
+ "id": "5b9180287a6d231a200b6d18",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1937,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wB4EPLVO",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.4.7",
+  "actual_result": "The emojis keep the same physical size (pixel independency) while the rest of the app is scaled, causing the emojis to appear tiny on low DPI and enormous on high DPI devices (see screenshots)",
+  "expected_result": "Since the rest of the UI is pixel dependent, the emojis should be too",
+  "short_description": "Emojis don't scale properly according to screen pixel density",
+  "steps_to_repro": "- Have two devices with completely different pixel densities OR - Find a setting in your developer options to manually change DPI - Find a channel with a few text and emojis posted - Compare emoji size between the different DPI configurations"
+ }
+}

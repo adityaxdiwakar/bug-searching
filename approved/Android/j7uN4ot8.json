@@ -1,0 +1,30 @@
+{
+ "id": "5ae407d0f3ea65432bfa74a5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1337,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/j7uN4ot8",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 Nougat",
+  "client_settings": "Android Alpha 6.5.8 (658)",
+  "actual_result": "Other roles will eventually glitch and change their positions in an unwanted way, sometimes causing a mess",
+  "expected_result": "Only the moved role should change its positions and nothing else happens",
+  "short_description": "Moving a role's position causes other roles to sometimes glitch and change their positions as well (tested on the conditions of a server with moderate load(500 members) and on edge internet)",
+  "steps_to_repro": "- Go to a pretty big server (tested on one with 550 members) with alot of roles, around 15, and that you can manage roles on it - Navigate to Server Settings then Roles - Get a role, preferably the bottom - Violently move the role"
+ }
+}

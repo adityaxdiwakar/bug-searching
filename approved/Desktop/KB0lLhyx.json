@@ -1,0 +1,24 @@
+{
+ "id": "5989f491148ee3af722aa087",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 951,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KB0lLhyx",
+ "data": {
+  "system_settings": "Windows 8.1 64-Bit 4,00GB Ram ",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "Doesnt do anything (tell me if it works for you)",
+  "expected_result": "It should mute your microphone",
+  "short_description": "Cannot Mute Microphone in Overlay",
+  "steps_to_repro": "- Enable Overlay - Play a Game - Try To Mute/Unmute Your Microphone - etc"
+ }
+}

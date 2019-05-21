@@ -1,0 +1,22 @@
+{
+ "id": "58caf9164f20087e3e0f6333",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 298,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/05i4QWTR",
+ "data": {
+  "actual_result": "\"You have received an invite to join . .\"",
+  "expected_result": "No invite should pop up once you've accepted or declined the invite",
+  "short_description": "the invite bug/glitch happens on stock android discord app on the latest Version.",
+  "steps_to_repro": "- Open browser and get to an invite/code link - Hit join, but make sure you select \"I already have the app\" - Once the app is opened, hit the join button and just use discord like you usually would. - Select \"user settings\", turn your device off/on before reconnecting, open the image selector, have a phone alarm pop up on screen - All stated above will trigger it. "
+ }
+}

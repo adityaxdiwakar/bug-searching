@@ -1,0 +1,17 @@
+{
+ "id": "5ae9040252854e03bf36a26a",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1914,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/j2qhAJVy",
+ "data": {
+  "system_settings": "macOS 10.12.6",
+  "client_settings": "Canary Build 14432",
+  "actual_result": "- The red line doesn't disappear until you enter in a space or type in more words.",
+  "expected_result": "Upon correcting the misspelt word, the red line should immediately disappear",
+  "short_description": "Red line of misspelt words still shows after correcting it",
+  "steps_to_repro": "- Type in a misspelt word such as `tesr` - Right click on the word and choose one of the correct words such as `test` - Observe"
+ }
+}

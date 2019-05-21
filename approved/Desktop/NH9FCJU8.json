@@ -1,0 +1,23 @@
+{
+ "id": "59037889dec0c18a2940ebc2",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 565,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NH9FCJU8",
+ "data": {
+  "system_settings": " Mint 17.3 XFCE on latest Linux client.  It has also been reported on Windows 10 client as well so submitting as a general bug.",
+  "actual_result": "You see encoded characters.",
+  "expected_result": "To see what you type in channel topic",
+  "short_description": "Channel Topic shows encoded symbols if you enter certain characters",
+  "steps_to_repro": "- Enter {https://robertsspaceindustries.com/comm-link/rss},{inchat},{on}} in channel topic - View the channel topic "
+ }
+}

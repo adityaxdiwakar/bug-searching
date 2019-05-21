@@ -1,0 +1,24 @@
+{
+ "id": "59dbbd26d880c66ef88f8f2b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 802,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IuKorSEb",
+ "data": {
+  "system_settings": "Android 4.4.4, Allview Viva H8 LTE",
+  "client_settings": "Alpha 5.3.3",
+  "actual_result": "A message appears saying the Channel order was updated",
+  "expected_result": "No message appears (or one does saying no changes were made)",
+  "short_description": "\"Channel order updated.\" message appears even if there were no changes made",
+  "steps_to_repro": "- Go into the server settings - Go to channels section - Make a few Channels - Go into the channels sorting menu  - Drag a channel around and place it exactly in the same place where it was before, without dropping it anywhere"
+ }
+}

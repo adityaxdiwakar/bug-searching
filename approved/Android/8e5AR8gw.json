@@ -1,0 +1,30 @@
+{
+ "id": "5a6ec9bb93b79a64113c72d0",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1082,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8e5AR8gw",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.1.9 (noticed on 6.1.6)",
+  "actual_result": "You can now edit the channel name and the channel topic. Fortunately when you hit Save it says Missing Permissions",
+  "expected_result": "Nothing special has to be noticed",
+  "short_description": "[Android 7+, seems specific to some devices, can still repro as of 6.1.9] Splitting your screen on channel settings allows you to edit the channel name and topic, regardless of your permissions",
+  "steps_to_repro": "- Go to a server where you don't have Manage channels permission - Pick any channel and go to settings - Split your screen"
+ }
+}

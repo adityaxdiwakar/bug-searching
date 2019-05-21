@@ -1,0 +1,30 @@
+{
+ "id": "5a3fce8bb35541b6422674df",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 997,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hhdRaV4C",
+ "data": {
+  "system_settings": "Android 7.0",
+  "client_settings": "Discord Alpha 5.9.7",
+  "actual_result": "When the pop up appears not even the header bar is fully visible (app probably takes the portrait mode offset into consideration)",
+  "expected_result": "The pop up appears and with its appearance some options for the message  are shown",
+  "short_description": "Long pressing on a message while in landscape mode will cause the pop up to appear lower in the screen than expected",
+  "steps_to_repro": "- Change to landscape mode - Long press on a message - Wait for the pop up to appear"
+ }
+}

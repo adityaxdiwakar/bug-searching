@@ -1,0 +1,30 @@
+{
+ "id": "5b58af4b65a2db3c24d93886",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1679,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eoW6Iry0",
+ "data": {
+  "system_settings": "Coolpad Mega 3, 6.0",
+  "client_settings": "Discord Alpha 713",
+  "actual_result": "It says that you're offline.",
+  "expected_result": "Your status should be what you originally set.",
+  "short_description": "Changing any of the first four settings under the \"Text & Images\" category in user settings shows status as offline in your user settings.",
+  "steps_to_repro": "- Open settings. - Click on text and images. - Make changes to any of the first four options. - Come out of the sub settings to the main settings page. - Observe your status."
+ }
+}

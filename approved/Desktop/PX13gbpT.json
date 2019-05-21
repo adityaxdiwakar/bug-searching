@@ -1,0 +1,16 @@
+{
+ "id": "58d059545b9ea425ab9f29a6",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 442,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PX13gbpT",
+ "data": {
+  "system_settings": " Win 10 Pro x64 AU, super duper latest Canary",
+  "actual_result": "It doesn't and settings opens",
+  "expected_result": "The changelog modal pops up",
+  "short_description": "Changelog doesn't open from the settings button's context menu",
+  "steps_to_repro": "- Right click on the settings cog - Click on Change Log "
+ }
+}

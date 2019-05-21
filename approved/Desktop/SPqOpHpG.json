@@ -1,0 +1,30 @@
+{
+ "id": "5b7138d00930e38d4a06f6b5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2688,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SPqOpHpG",
+ "data": {
+  "system_settings": "Windows 10 Home x64 (1803)",
+  "client_settings": "Web Stable",
+  "actual_result": "The badges get cut off",
+  "expected_result": "The badges aren't cut off on the right side",
+  "short_description": "[Edge] Zooming out to 75% makes badges get cut off on the right side",
+  "steps_to_repro": "- Find a user with badges (night#1337 works well as they have all) - Open their profile - Zoom out to 75%"
+ }
+}

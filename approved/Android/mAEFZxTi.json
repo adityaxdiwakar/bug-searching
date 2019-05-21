@@ -1,0 +1,30 @@
+{
+ "id": "5b92916a32ee0010a64b85f4",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1942,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mAEFZxTi",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.4.7",
+  "actual_result": "You scroll down by a random amount",
+  "expected_result": "You should stay scrolled at the top",
+  "short_description": "When reordering whole categories, your channel list will scroll down by a random amount",
+  "steps_to_repro": "- Have a server with a lot of channels and categories - Make sure you are scrolled all the way up in channel list - Go to Server Settings > Channels - Select Category Sort mode - Move a bottom category to the very top - Close Settings, open your channel drawer and observe"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58ffedc4ceb2e94468ab769e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 558,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PyN5avRo",
+ "data": {
+  "system_settings": " Ubuntu 16.04 LTS, Latest Canary",
+  "actual_result": "The click takes you to the channel (makes it visible) and you can read back to a certain point and then it just stops loading messages completely",
+  "expected_result": "It should either give an error or do nothing",
+  "short_description": "When clicking on a mention of a channel that you can no longer see (ChannelMention = <#197038477953597440> thing)",
+  "steps_to_repro": "- Be in a server where you can see at least 2 channels and are not the owner - Mention a channel that you can see in one of the other channels that you can send messages in - Send the message when you can still see the channel - Change the permissions / make it so that you can no longer see the channel you mentioned (or have someone else do it for you) - Click on the mention for the channel "
+ }
+}

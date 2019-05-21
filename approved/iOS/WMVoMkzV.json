@@ -1,0 +1,30 @@
+{
+ "id": "59d7ee9b91a0e4a001d2a3cd",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 361,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WMVoMkzV",
+ "data": {
+  "system_settings": "iPad Air 2, iOS 11.0.0",
+  "client_settings": "TestFlight 1.5.1 (665)",
+  "actual_result": "The menu expands but the last to boxes have no text",
+  "expected_result": "The menu expands",
+  "short_description": "[iPad only] Holding a message then closing the keyboard caused the text of buttons to disappear",
+  "steps_to_repro": "- Send a message - Click the chat bar, as if to type a message - Hold down on the message you sent before and wait for the menu to appear - Close the keyboard with the button in the bottom right"
+ }
+}

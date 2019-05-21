@@ -1,0 +1,30 @@
+{
+ "id": "5b0057b9e1facdc393e000e1",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 760,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CpdxRGRz",
+ "data": {
+  "system_settings": "iPhone 6S iOS 11.3.1",
+  "client_settings": "Discord TestFlight iOS Build Number (4528)",
+  "actual_result": "The avatar in chat is square shaped. Even after I restarted the app and my phone, it\u2019s still that way.",
+  "expected_result": "The avatar in chat is regular circle shape.",
+  "short_description": "Your avatar is shaped square after you set your avatar to 1 x 1 pixels.",
+  "steps_to_repro": "- Make a 1 x 1 pixel image.- Observe the text chat"
+ }
+}

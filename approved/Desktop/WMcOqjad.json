@@ -1,0 +1,17 @@
+{
+ "id": "5a2f07028aaeb5b83d5c3754",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1440,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WMcOqjad",
+ "data": {
+  "system_settings": "Windows 10 Professional, x64 (Falls Creator Update), Dell Latitude E5540",
+  "client_settings": "Discord Canary 0.0.182 (Build 8423)",
+  "actual_result": "Embed is limited to one line, and has a scrolling bar.",
+  "expected_result": "Embed expands, and shows all text.",
+  "short_description": "Embeds using 3 (the key next to 1 on Windows) Doesn't Expands",
+  "steps_to_repro": "-Type in two or three paragraphs using the embed.-Press Enter, and observe -Can also take a look at bot-help channel where Dabbit gives an example of how to submit a bug."
+ }
+}

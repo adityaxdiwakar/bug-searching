@@ -1,0 +1,30 @@
+{
+ "id": "5b99d1786fed156ef98ae8a2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2977,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/craehTVE",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1803)",
+  "client_settings": "Discord Canary 0.0.211, Build 23554",
+  "actual_result": "The Copy ID option is still present on all past messages until you switch to another area or reload your client (this works vice-verse as well)",
+  "expected_result": "The Copy ID option should no longer be present on messages sent prior to disabling it",
+  "short_description": "Copy ID option in the message context menu doesn't update properly on messages sent prior to changing your Developer Mode setting",
+  "steps_to_repro": "- Have Developer Mode enabled in your User Settings -> Appearance (If you didn't have it enabled previously, then switch to another area of Discord after changing it before continuing the steps)  - Send a message into a chat - Go back into your User Settings and disable Developer Mode - Exit out of your User Settings and click the three dots on the message you had sent prior and observe the \"Copy ID\" option still being present"
+ }
+}

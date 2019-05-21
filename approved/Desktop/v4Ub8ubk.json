@@ -1,0 +1,23 @@
+{
+ "id": "590c4087960788cabce1f2bc",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 600,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/v4Ub8ubk",
+ "data": {
+  "system_settings": " win10 latest canary",
+  "actual_result": "it doesnt",
+  "expected_result": "It submits the data",
+  "short_description": "Pressing enter on profile change doesnt complete.",
+  "steps_to_repro": "- Edit profile (I used name) - Press enter to complete - "
+ }
+}

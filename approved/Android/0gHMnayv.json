@@ -1,0 +1,16 @@
+{
+ "id": "58b3c6259a0e691a3e14cfb4",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 261,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0gHMnayv",
+ "data": {
+  "system_settings": " Android 7.1.1, HTC One M8, Discord 3.3.9-preview",
+  "actual_result": "Status bar completely solid color",
+  "expected_result": "Status bar transparent, server icons drawn with status bar",
+  "short_description": "Server list drawn underneath status bar shadow",
+  "steps_to_repro": "- Open side menu - Scroll servers while watching the status bar "
+ }
+}

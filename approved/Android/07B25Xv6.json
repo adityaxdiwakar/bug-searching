@@ -1,0 +1,30 @@
+{
+ "id": "5a7a0d826fd65a58c3ac5ee2",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1103,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/07B25Xv6",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "620",
+  "actual_result": "status bar is blacked out",
+  "expected_result": "status bar looks normal",
+  "short_description": "light theme status bar becomes blacked out when you open the guild drawer or member list",
+  "steps_to_repro": "- switch to light theme - swipe out the guild drawer or member list - look at your status bar"
+ }
+}

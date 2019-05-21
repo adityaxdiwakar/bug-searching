@@ -1,0 +1,16 @@
+{
+ "id": "585819f9fd0e0d0c2b0a304a",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 149,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DFUpcHkL",
+ "data": {
+  "system_settings": " Android 6.0, Sony Xperia M5 ",
+  "actual_result": "The message, embed, link or code block is above the message looking like the previous person sent the message System Settings: Android 6.0, Sony Xperia M5",
+  "expected_result": "Show the message, embed, link or code block under the message",
+  "short_description": "Embeds, links and code blocks appear above a users message in the chat preview via mentions",
+  "steps_to_repro": "- Send an message, embed, link or code block and mention yourself in the same message with another account - Preview the mention with the mentioned account "
+ }
+}

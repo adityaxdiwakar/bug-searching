@@ -1,0 +1,42 @@
+{
+ "id": "5a8cc101cb98eea7f7248ff9",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1135,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a860cfc8dde10262a3bb6cd",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a8f3d4b370ae07ab675ea8f",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "invites",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kytGHvG2",
+ "data": {
+  "system_settings": "Android 7.0, Huawei P10 Lite",
+  "client_settings": "Discord Android Beta v6.2.7",
+  "actual_result": "The user is shown a message telling them to create an invite to add members to the channel despite not having access to it themself",
+  "expected_result": "The user should be shown a message stating they do not have permission to join the channel",
+  "short_description": "Users are shown screen suggesting to invite new members to voice channels which they cannot access",
+  "steps_to_repro": "- Join a guild with at least one voice channel that you have permission to view but not join - Attempt to join the locked voice channel - Observe the message stating \"Feelin' lonely? Add friends to this voice channel by creating an invite link.\""
+ }
+}

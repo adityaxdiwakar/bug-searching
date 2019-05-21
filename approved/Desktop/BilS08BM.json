@@ -1,0 +1,24 @@
+{
+ "id": "59987a18b8ee247913b868e3",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1017,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BilS08BM",
+ "data": {
+  "system_settings": "Windows 10 Creator Edition",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "It's {username}! Praise the sun! [T]/",
+  "expected_result": "`It's {username}! Praise the sun! \\[T]/`",
+  "short_description": "Welcome messages not escaping backslashes",
+  "steps_to_repro": "- Turn on \"welcome messages\" option in the server settings - Uhhhhhh wait for someone to join with the following message: `It's {username}! Praise the sun! [T]/`"
+ }
+}

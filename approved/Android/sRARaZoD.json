@@ -1,0 +1,17 @@
+{
+ "id": "5b5844d9e1ff79dfb9eaf82b",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1676,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sRARaZoD",
+ "data": {
+  "system_settings": "Asus Zenfone 2 Deluxe (ZE551ML), Android 6.0",
+  "client_settings": "Discord Alpha 7.1.3",
+  "actual_result": "Facebook icon is missing unlike other connection",
+  "expected_result": "Facebook icon shows before their Facebook name, just like in desktop version",
+  "short_description": "Facebook icon is missing from friend suggestion tab",
+  "steps_to_repro": "- Open Friend > Suggestions and make sure one of the suggestion is from Facebook - Observe the Facebook name below their Discord username"
+ }
+}

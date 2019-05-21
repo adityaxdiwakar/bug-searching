@@ -1,0 +1,24 @@
+{
+ "id": "5a7a41a9624827f6fdce9585",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1634,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/71lbqqVa",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit v1709",
+  "client_settings": "Discord Canary, Build 10310",
+  "actual_result": "The SMS Authentication appears disabled in User Settings and you are asked to enter your password if you choose to enable it though this is only a visual bug (reloading the client fixes the problem/SMS Auth doesn't actually get disabled)",
+  "expected_result": "SMS authenticatior shouldn't look like it's disabled",
+  "short_description": "SMS Authentication appears disabled in User Settings after you enter your own profile",
+  "steps_to_repro": "- Click your own user profile (make sure you are in the full profile modal) (optionally, you can load a game or play something on Spotify)- Close full modal and observeClicking to other profiles does not trigger the banner."
+ }
+}

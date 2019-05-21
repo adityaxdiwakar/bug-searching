@@ -1,0 +1,24 @@
+{
+ "id": "5b532c5c807c3abcc99b5d3b",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 2391,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jDofG9bs",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 19429",
+  "actual_result": "The effect isn't applies unless you scroll over the message with the url or switch to another channel and back",
+  "expected_result": "The effect of the embed preference applies correctly when changed",
+  "short_description": "Disabling/Enabling either of the embed preferences in Text & Images don't apply the effects correctly while viewing a channel with links that would be effected",
+  "steps_to_repro": "- Go into a channel that has links to images or website previews posted in - Go into your User Settings -> Text & Images and enable or disable the embed preferences (easiest just to do both) - Exit out of your User Settings and observe that the embeds are still visible/gone"
+ }
+}

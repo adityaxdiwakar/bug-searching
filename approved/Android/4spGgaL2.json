@@ -1,0 +1,30 @@
+{
+ "id": "5a7a0c10c92c4a00186ff5c7",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1102,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4spGgaL2",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "620",
+  "actual_result": "it sort of \"pops\" up jarringly",
+  "expected_result": "there's a smooth animation for grey filter",
+  "short_description": "When you long press on a message while using light theme there is a light grey film that pops onto the screen with the message options instead of smoothly appearing.",
+  "steps_to_repro": "- switch to light theme - long press a message - look at the screen and you should see a transparent grey film slide up onto the screen with the message options"
+ }
+}

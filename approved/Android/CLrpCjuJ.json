@@ -1,0 +1,24 @@
+{
+ "id": "59dd3ff1981c6a7e487e7ffd",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 805,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CLrpCjuJ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.3.3",
+  "actual_result": "It does a slide animation before displaying the modal.",
+  "expected_result": "It should just re-open Discord displaying the confirm modal without doing anything else.",
+  "short_description": "A slide animation is made after minimizing/maximizing the app while the \"Delete Server\" confirm modal is opened",
+  "steps_to_repro": "- Create a new server - Go to Server Settings > Overview > 3dots menu > Delete server. Do NOT confirm the modal yet.  - Minimize the app using the Home button of your Android device - Re-open the app using the Recent Tasks screen. Do NOT re-open it using the icon shortcut on your homescreen or else you will reproduce bug <>"
+ }
+}

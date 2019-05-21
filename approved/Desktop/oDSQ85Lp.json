@@ -1,0 +1,24 @@
+{
+ "id": "59c0233a137f4a3e786ce51e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1167,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oDSQ85Lp",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Canary Build 4361",
+  "actual_result": "After quitting, there are two lists of clients without names",
+  "expected_result": "There should be only one list",
+  "short_description": "The list of players connected to a voice channel gets duped.",
+  "steps_to_repro": "- Join a voice channel - hide the names using the key combo (ctrl+shift+a) - quit the channel"
+ }
+}

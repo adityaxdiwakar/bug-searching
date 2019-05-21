@@ -1,0 +1,24 @@
+{
+ "id": "59f117377d95d23d4d8ce72c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 845,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RT3pZJFJ",
+ "data": {
+  "system_settings": "Android 7.0, Huawei p8 lite 2017.",
+  "client_settings": "Alpha 5.4.7",
+  "actual_result": "We be display in the voice channel.",
+  "expected_result": "We don't display in the voice channel.",
+  "short_description": "We don't leave the vocal when we leave the voice channel via push notifications.",
+  "steps_to_repro": "- Close the app (check the gif) - Leave the voice channel with push notification - Re-open the app'."
+ }
+}

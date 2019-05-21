@@ -1,0 +1,30 @@
+{
+ "id": "5ac42fa126b10dab3ef27c13",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1791,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WbTphbDN",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Release Channel: stable, Build Number: 13009",
+  "actual_result": "the profile view doesn't contain server-specific information, i.e. roles are missing and the server-specific name is switched for the regular Discord name",
+  "expected_result": "The same profile view should open as if you were to click their name anywhere else on the server",
+  "short_description": "server-specific information is missing when you click their picture in a collapsed categoy",
+  "steps_to_repro": "- Collapes a category with a voice channel that has people chatting - click on any one of the people in the voice channel"
+ }
+}

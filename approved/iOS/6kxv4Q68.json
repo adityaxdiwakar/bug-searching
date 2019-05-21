@@ -1,0 +1,30 @@
+{
+ "id": "5a7ca8d2935f2e965d1ecee9",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 572,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6kxv4Q68",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.5 & iPad Air 2, iOS 11.3 PB 2",
+  "client_settings": "TestFlight 2.2.2 (2352)",
+  "actual_result": "Most of the time you don't see any suggestion. They only appear when typing something.",
+  "expected_result": "Some suggestions although without any input should be shown.",
+  "short_description": "Search parameters \"from\" and \"mentions\" don't show any user suggestions without input",
+  "steps_to_repro": "- Go to any server or DM - Open the search - Click on the search option `from:` or `mentions:` - Don't click enter, just observe the result, test if with different servers if you can't reproduce it the first time"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5ba71b6a98f5a376564af8b0",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1028,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZfSDCmsz",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12.1 dev beta",
+  "client_settings": "TestFlight 2.3.8 (7416)",
+  "actual_result": "The 2nd image doesn\u2019t gets opened when u tap it, but instead it opens the first image (your attachment picture)",
+  "expected_result": "The client should open the 2nd image as you want to view that",
+  "short_description": "Sending an attachment (picture) together with a attachment link causes the app to open the first picture instead of 2nd when tapping the 2nd picture",
+  "steps_to_repro": "- Open the app in a text channel - Choose an image with the inline image (don\u2019t send) - Find a different image that\u2019s been send and copy that as attachment url - Paste the copied url into chat and send - Try and tap on the 2nd image and observe the first picture being opened"
+ }
+}

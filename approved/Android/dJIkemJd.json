@@ -1,0 +1,30 @@
+{
+ "id": "5bcc5591cee78165cc161e12",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2211,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dJIkemJd",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.7.8",
+  "actual_result": "When the file finishes uploading, the slowmode starts and then all of the queued messages attempt to send, resulting in all of them failing to send and turning red at once",
+  "expected_result": "Either the app shouldn't let you send more messages until file is uploaded, or the messages should stay queued until the slowmode cooldown is over",
+  "short_description": "Sending a file followed by a bunch of messages doesn't work properly in a channel with slowmode on",
+  "steps_to_repro": "- Go to a channel with slowmode enabled (make sure you're not immune to it) - Send a large file, then send a bunch of message immediately after so they are queued behind the file - Wait for the file to finish uploading"
+ }
+}

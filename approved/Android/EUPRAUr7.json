@@ -1,0 +1,30 @@
+{
+ "id": "5b3437f90fc00bd835da73e3",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1612,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EUPRAUr7",
+ "data": {
+  "system_settings": "Windows 10 x64 and Huawei Y5 II 5.1",
+  "client_settings": "Release Channel: ptb, Build Number: 17491, Version Hash: 94bdaea25aa31a3d69a408a644701345e9ff7a83",
+  "actual_result": "Sometimes, Discord doesn't behave like that. It shows a random point of the room containing the new message",
+  "expected_result": "Discord always show the beginning of the new messages chain (the red line showing: \"New Messages\")",
+  "short_description": "Screen shows messages way above than expected, and need to scroll down to find them",
+  "steps_to_repro": "- activate all messages notification in your phone or computer (both devices fail) - open discord through notification until discord bugges out"
+ }
+}

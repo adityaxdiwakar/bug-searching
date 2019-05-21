@@ -1,0 +1,24 @@
+{
+ "id": "5a6c53a1268d8e5237c54189",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 545,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Sm0SxCIf",
+ "data": {
+  "system_settings": "iPhone 5s - iOS 9.0.2",
+  "client_settings": "TestFlight 2.2.1 (2236)",
+  "actual_result": "The save button infinitely spins, even after leaving the menu and coming back",
+  "expected_result": "The Save button stops loading and can be tapped again",
+  "short_description": "Infinitely loading save button when changing password with 2FA enabled",
+  "steps_to_repro": "- Turn on 2FA - Attempt to change your password - In the prompt that appears asking for your 2FA code, cancel it - Observe the \"Save\" button"
+ }
+}

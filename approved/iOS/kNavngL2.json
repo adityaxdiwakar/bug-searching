@@ -1,0 +1,17 @@
+{
+ "id": "5bac202b1958e665ed046a87",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1031,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kNavngL2",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta",
+  "client_settings": "TestFlight 2.3.8 (7416)",
+  "actual_result": "The preview flashes newer messages for a split second before showing the mention",
+  "expected_result": "The preview loads with the mention at the top",
+  "short_description": "Opening a recent mention preview that is not near the bottom of chat flashes newer messages when loading the preview",
+  "steps_to_repro": "- Have a recent mention that has a lot of messages sent after the mention (Using one from several hours ago should work) - Open your recent mentions drawer - Tap on a mention to open the preview - Observe the messages as the preview loads"
+ }
+}

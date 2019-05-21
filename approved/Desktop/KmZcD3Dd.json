@@ -1,0 +1,17 @@
+{
+ "id": "5b1d305c65b9c4dde27ddde4",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2118,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KmZcD3Dd",
+ "data": {
+  "system_settings": "MacBook Air Early 2015, MacOS High Sierra 10.13.4",
+  "client_settings": "Discord Canary 0.0.192, Build Number: 16727",
+  "actual_result": "The regular right click menu opens, with the option to paste, find languages and toggle spellchecker(actually works)",
+  "expected_result": "Nothing.",
+  "short_description": "With 10 people in a group DM, right clicking the text box in the invite people to DM brings up the right click menu.",
+  "steps_to_repro": "- Have a group DM with 10 people in it - Open the invite friends to DM popup - Right-click the text box within the popup"
+ }
+}

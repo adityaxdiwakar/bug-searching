@@ -1,0 +1,17 @@
+{
+ "id": "59b2fac58c769a8ad7ce1833",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1097,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Os4pOFwJ",
+ "data": {
+  "system_settings": "Windows 7 (x64) Familial Premium",
+  "client_settings": "App Version: 0.0.163 & Build Number: 3994",
+  "actual_result": "A blank appeared in the bottom of the message",
+  "expected_result": "Nothing",
+  "short_description": "maintaining \"cancel\" in a message editing will do a blank on the bottom of your message",
+  "steps_to_repro": "- Put a message with 2 lines or more - Edit this message and maintain the left click in the \"cancel\" button and move your mouse a little."
+ }
+}

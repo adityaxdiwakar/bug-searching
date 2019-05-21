@@ -1,0 +1,30 @@
+{
+ "id": "5afbfa4bcbe9d3cf0b33d4e5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1424,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jr5R0814",
+ "data": {
+  "system_settings": "Samsung Galaxy s5 neo Android 6.0.1",
+  "client_settings": "Alpha/Beta 6.6.9",
+  "actual_result": "username is bolder (doesn't happen if you input it manually tho)",
+  "expected_result": "username should be basted in same font as normal text inputed to field",
+  "short_description": "copying mention syntax to search field pastes it bolded",
+  "steps_to_repro": "- tap someone name to create quick mention - mark username in mention and copy it - open search and paste username"
+ }
+}

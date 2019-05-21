@@ -1,0 +1,22 @@
+{
+ "id": "584841207723470a865ad2e1",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 110,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ALo96n64",
+ "data": {
+  "actual_result": "It deletes the Discord server **and** crashes the Discord app",
+  "expected_result": "It produces an error code and doesn't delete the server",
+  "short_description": "Deleting a Discord server while connected to Voice Chat crashes app (**Must have 2FA enabled**)",
+  "steps_to_repro": "- Go to a server you own - Open server settings - Open Overview - Click \"Delete Server \" - Type a 2FA code that's been used within the past minute or so? "
+ }
+}

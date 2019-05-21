@@ -1,0 +1,15 @@
+{
+ "id": "5865a96123a700629b3672e3",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 299,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/s72SShfI",
+ "data": {
+  "actual_result": "Really really warped.",
+  "expected_result": "No warped imgae",
+  "short_description": "When images are viewd, they warp.",
+  "steps_to_repro": "- send embed or image file - view image. "
+ }
+}

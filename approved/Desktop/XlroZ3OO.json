@@ -1,0 +1,30 @@
+{
+ "id": "5b8b48f2204a5a05d617b83a",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2916,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XlroZ3OO",
+ "data": {
+  "system_settings": "OnePlus 6 (Version 8.1.0)",
+  "client_settings": "Discord Alpha 7.4.5",
+  "actual_result": "The text reappears after vanishing behind the black bar, as there is a space in between two such bars",
+  "expected_result": "The text vanishes behind a black bar",
+  "short_description": "[Website Bug / Android Specific] On the acknowledgement page, the black bar has a space in which the scrolling names are visible",
+  "steps_to_repro": "- go to /acknowledgements or press the acknowledgement button in your android user settings - let the text scroll and observe"
+ }
+}

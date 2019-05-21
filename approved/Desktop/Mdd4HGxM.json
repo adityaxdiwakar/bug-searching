@@ -1,0 +1,17 @@
+{
+ "id": "5ae1f559862045cc53e329ef",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1889,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Mdd4HGxM",
+ "data": {
+  "system_settings": "Arch Linux x64",
+  "client_settings": "stable, build Number: 13994",
+  "actual_result": "The SMS Backup Authentication section still shows as enabled, on account A, but clicking \"Reveal\" shows no number and the account has no phone verification.",
+  "expected_result": "If, and only if, the number should really be removed from account A, the \"SMS Backup Authentication\" section of My Account, account A, should be updated to reflect the removal.",
+  "short_description": "Discord UI still shows 2FA backup phone as enabled, but empty, if phone is removed due to adding it to another account",
+  "steps_to_repro": "- Add 2FA + backup phone number to account A. - Add 2FA + same backup phone number to account B."
+ }
+}

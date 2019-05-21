@@ -1,0 +1,17 @@
+{
+ "id": "5bb8efd2f88f84522221f040",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2117,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/R2MdR0HX",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 763",
+  "actual_result": "The text is centered horizontally.",
+  "expected_result": "Like on desktop or any other modal, the text shouldn't be centered horizontally. It should start from the left corner.",
+  "short_description": "The logout modal has its text centered horizontally.",
+  "steps_to_repro": "- Open Settings. - Cick on logout button. - Observe the text in the modal."
+ }
+}

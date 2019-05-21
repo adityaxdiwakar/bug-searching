@@ -1,0 +1,30 @@
+{
+ "id": "5b7ab5c1f08c6480a7f22d49",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2749,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FTBER1aE",
+ "data": {
+  "system_settings": "Windows 10 (64-bit), Version: 1803",
+  "client_settings": "canary . discordapp . com, Google Chrome 68.0.3440.106",
+  "actual_result": "We see the \"You're being rate limited.\" message, but we also se additional information, most likely used for debugging.",
+  "expected_result": "We expect it to tell us: \"You're being rate limited.\"",
+  "short_description": "Display Debug Information whilst making a Discord Account.",
+  "steps_to_repro": "- Go to:  canary . discordapp . com and make sure you're not signed in. - Hit the \"Open Discord in your Browser\" button. - Create an account, then when a new window pops up to sign in the user, close it. - Go back to canary . discordapp . com and make sure you're still signed out. - Try creating a new account using the \"Open Discord in your Browser\" feature."
+ }
+}

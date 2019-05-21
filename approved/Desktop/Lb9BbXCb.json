@@ -1,0 +1,24 @@
+{
+ "id": "59c2831f139ef3a42859c9b5",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1174,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Lb9BbXCb",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS Sierra 10.12.6",
+  "client_settings": "Discord Canary, 0.0.154",
+  "actual_result": "You will see a \"New unreads\" button although you muted the category and collapsed it.",
+  "expected_result": "There shouldn't be a \"New unreads\" button because you've muted the category.",
+  "short_description": "\"New unreads\" button is shown for channels of a muted category",
+  "steps_to_repro": "- Mute a category - Get a new message in any channel of the muted category - Scroll up a bit in your server to make sure that this channel is out of sight"
+ }
+}

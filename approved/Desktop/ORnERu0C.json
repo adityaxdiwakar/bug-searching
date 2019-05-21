@@ -1,0 +1,30 @@
+{
+ "id": "5b8419a15e895a386063a6e1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2814,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ORnERu0C",
+ "data": {
+  "system_settings": "Windows 10 x64 - Firefox Quantum 61.0.2 - Chrome 68.0.3440.106",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 22333, Version Hash: 76f317c0de4b335c5f692213a60f2fe4d1679c4e",
+  "actual_result": "You join the **server** but do not automatically join the **voice channel**",
+  "expected_result": "You should automatically join the **voice channel**",
+  "short_description": "Invite to **voice channel** does not work when using that invite link to create a new discord account",
+  "steps_to_repro": "- Have an invite link to a voice channel - go to a browser where there is no discord user logged in (like incognito mode) - enter the link and put in a username (make sure it doesnt say beaming info to discord app) - complete the captcha and join the server as a new discord account"
+ }
+}

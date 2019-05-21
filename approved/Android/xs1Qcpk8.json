@@ -1,0 +1,30 @@
+{
+ "id": "5b15a2fc66c0f0575cc92e84",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1495,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xs1Qcpk8",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.7",
+  "actual_result": "Textbox gets cleared and everything you did at step 5 is lost",
+  "expected_result": "You should be able to continue editing your messsage",
+  "short_description": "When editing a message right after jumping to a message, pressing Home button and returning back to Discord erases the textbox",
+  "steps_to_repro": "- Send a message - Tap the manifying glass - Search for the message you just sent and jump to it. Note that it works for any messages, even an older one. As long as you jump to something - Long press your message and Edit it - You can start editing your message, don't send it yet - Press the Home button of your device  - Go back to Discord using the icon in your homescreen (not from Recent Apps or it won't work)"
+ }
+}

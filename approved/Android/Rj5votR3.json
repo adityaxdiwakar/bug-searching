@@ -1,0 +1,36 @@
+{
+ "id": "5a9204f50d43547ec53794b1",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1140,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Rj5votR3",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.8",
+  "actual_result": "It shows \"Network error\" or something",
+  "expected_result": "The same behavior as if you type invalid invite : a \"Unknown invite\" toast",
+  "short_description": "Submitting an empty text field in \"Join server with invite link\" screen will show an expired invite with a Network error toast",
+  "steps_to_repro": "- Scroll all the way down in your server list - Tap the + button - Tap \"Join server with invite link\"  - Without writing anything in the textbox, tap Join at the top right"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b445b8d829cdc150e200ac7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1638,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7dScXGZ9",
+ "data": {
+  "system_settings": "Huawei Honor 9 Lite, Android 8.0.0",
+  "client_settings": "Discord Alpha 7.0.5",
+  "actual_result": "It takes several taps before it appears.",
+  "expected_result": "Change password should appear after you tap it.",
+  "short_description": "You need to tap change password several times before the said fields appears.",
+  "steps_to_repro": "- Go to settings > My Account - Attempt to tap change password - Observe"
+ }
+}

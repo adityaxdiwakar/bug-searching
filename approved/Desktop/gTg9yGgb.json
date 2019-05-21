@@ -1,0 +1,30 @@
+{
+ "id": "5ae4d681c5605f7a7ea64f91",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1903,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gTg9yGgb",
+ "data": {
+  "system_settings": "MS Windows 10 Pro x64 (v1709)",
+  "client_settings": "Canary 14281",
+  "actual_result": "The username and the discriminator in the lower left part of the window get highlighted",
+  "expected_result": "Nothing should happen",
+  "short_description": "When maintaining click and dragging to upper part of the window, the username and discriminator get highlighted",
+  "steps_to_repro": "- Left click and maintain at point a few pixels below the dark menu bar (the one with exit, minimize, and maximize on the right, and \"Discord\" on the left) - Maintain the click while dragging into that dark menu bar"
+ }
+}

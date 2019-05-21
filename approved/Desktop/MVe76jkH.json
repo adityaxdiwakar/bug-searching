@@ -1,0 +1,30 @@
+{
+ "id": "5bf038681a32c91cd7c69c5f",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3401,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MVe76jkH",
+ "data": {
+  "system_settings": "Firefox 63.0.3 Windows 10 Home x64 1803",
+  "client_settings": "Stable Build 28105",
+  "actual_result": "The circle is twice as large as on the desktop app",
+  "expected_result": "The circle is the same size as the desktop app",
+  "short_description": "Circle when loading search results on Firefox is twice as large as normal",
+  "steps_to_repro": "- Go to any server - Search for anything in search - Observe the circle next to \"Searching\" as search loads the results"
+ }
+}

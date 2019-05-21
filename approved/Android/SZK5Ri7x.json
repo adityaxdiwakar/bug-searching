@@ -1,0 +1,30 @@
+{
+ "id": "5989c141d5dbcfd230143625",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 600,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SZK5Ri7x",
+ "data": {
+  "system_settings": "LG X Power, Android Marshmallow 6.0.1",
+  "client_settings": "Android Alpha 4.0.3",
+  "actual_result": "It is not perfectly centered",
+  "expected_result": "The dialog is perfectly centered",
+  "short_description": "Create Channel dialog in Server Settings -> Channels is somewhat off centered",
+  "steps_to_repro": "- Go to a server (any server worked for me) - Tap the server name then Server Settings - Go to Channels - Tap the plus to create a channel - Experience the bug"
+ }
+}

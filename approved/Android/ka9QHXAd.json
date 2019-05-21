@@ -1,0 +1,16 @@
+{
+ "id": "58ee7b32302ff3139c299c44",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 353,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ka9QHXAd",
+ "data": {
+  "system_settings": " Discord 3.6.3 Android 6.0",
+  "actual_result": "Emoji Picker doesn't move",
+  "expected_result": "Should be sent back up the top of Flag Category",
+  "short_description": "Cannot jump to Flag category",
+  "steps_to_repro": "- Open emoji picker - Go to the bottom of the Emoji Picker - Make sure the flag category is still chosen - Click on the flag category at the bottom - Happens when your Custom Emojis isn't long enough "
+ }
+}

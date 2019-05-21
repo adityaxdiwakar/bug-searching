@@ -1,0 +1,36 @@
+{
+ "id": "599324fe459c58e19f522c0c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 993,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dnsZxeyo",
+ "data": {
+  "system_settings": "Windows 8.1 Pro 64-bit 4,00GB RAM",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "It normal calls them. It doesnt Video Call them",
+  "expected_result": "it is supposed to Video Call that person you clicked to Video Call",
+  "short_description": "If you go to the online friends screen,hover over a friend and press Video Call it doesnt actually Video Call them",
+  "steps_to_repro": "- 1. Go to Online in the friends tab - 2. Hover over a friend - 3. Press the Video Call Button."
+ }
+}

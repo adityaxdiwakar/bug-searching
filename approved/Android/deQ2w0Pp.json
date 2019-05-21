@@ -1,0 +1,17 @@
+{
+ "id": "5c279c3d75c18e4c9dd4f3b2",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2404,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/deQ2w0Pp",
+ "data": {
+  "system_settings": "Samsung Galaxy Tab A, Android 7.1.1",
+  "client_settings": "Android Alpha 8.2.2",
+  "actual_result": "You go back to your old profile picture.",
+  "expected_result": "You should still have that default picture chosen.",
+  "short_description": "Choosing a default profile pic, not saving changes , choosing another custom profile pic, resets changes.",
+  "steps_to_repro": "- Go to user settings. - Go to my account. - Ensure you have a custom profile picture set. - Ensure you have more than one photo viewing app, example on Samsung, gallery and Google Photos. - Ensure you haven't any default photo viewing/choosing apps set. - Remove your current set profile picture but don't apply/save changes. - Click that default profile picture to set a custom one. - When asked to choose your photo choosing app, click the back button or anywhere outside of the space they ask you on."
+ }
+}

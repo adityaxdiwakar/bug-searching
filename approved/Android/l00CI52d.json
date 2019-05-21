@@ -1,0 +1,30 @@
+{
+ "id": "5a1602889c3b8fb7ad486272",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 920,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/l00CI52d",
+ "data": {
+  "system_settings": "Android 7.1.2 (Nexus 6)",
+  "client_settings": "Discord 5.6.8",
+  "actual_result": "Device stays in Phone Audio mode, audio quality suffers greatly as a result, especially on lower end Bluetooth Hardware, or builds of Android or devices that do not yet speak a higher quality version of HSP (PHONE AUDIO)",
+  "expected_result": "Discord should hang up the mic input and switch audio output to Android's Media Audio Stream so that you may appreciate the sound quality. The audio shouldn't suck and you shouldn't be in Phone Audio or Call Audio mode",
+  "short_description": "Voice Chat/Video Chat fails to use Media Audio When Muted (BLUETOOTH ONLY)",
+  "steps_to_repro": "- Pair, and connect your favorite Bluetooth Headphones. (THEY MUST SUPPORT A2DP STEREO AUDIO PROFILE)"
+ }
+}

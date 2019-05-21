@@ -1,0 +1,30 @@
+{
+ "id": "5c01086886ae0078238aed39",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2368,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dwsTdXtd",
+ "data": {
+  "system_settings": "Oneplus 3, Android 9",
+  "client_settings": "Alpha 8.0.4",
+  "actual_result": "Layout bound size is not consistent and creates a larger gap between the badge left to it",
+  "expected_result": "Nitro badge's layout bound should be the same size as all the other badges",
+  "short_description": "Layout bound for Nitro badge larger than normal in build 8.0.4, creating inconsistent spacing between other badges left from it",
+  "steps_to_repro": "- Update to 8.0.4 - Head over to somebody's profile with multiple badges, including Nitro  - Observe the spacing"
+ }
+}

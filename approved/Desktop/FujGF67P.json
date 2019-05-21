@@ -1,0 +1,16 @@
+{
+ "id": "589431e0d127c5d02d544c2b",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 369,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FujGF67P",
+ "data": {
+  "system_settings": " Windows 8.1, Latest Canary",
+  "actual_result": "Just the text appears instead",
+  "expected_result": "A thumbs-up reaction!",
+  "short_description": "Cannot use \ud83d\udc4d as a reaction, despite it being an alias for \ud83d\udc4d",
+  "steps_to_repro": "- Step 1 Use +\ud83d\udc4d as a fast reaction "
+ }
+}

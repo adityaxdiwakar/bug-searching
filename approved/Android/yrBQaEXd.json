@@ -1,0 +1,30 @@
+{
+ "id": "5b22fe82554409a9ad97b789",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 1542,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yrBQaEXd",
+ "data": {
+  "system_settings": "OnePlus 6 8RAM 256GB Internal storage Android 8.1 Oxygen OS 5.1.5",
+  "client_settings": "Discord 6.8.7 (687)",
+  "actual_result": "Discord doesn't recognize microphone and I can't talk",
+  "expected_result": "I'll be able to talk just fine",
+  "short_description": "[OnePlus 6 ONLY] Discord doesn't recognize microphone (Can't talk in voice chats/calls)",
+  "steps_to_repro": "- Grant Discord all the permissions it needs on your OnePlus 6 - go to a call/voice chat"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b09aca5875c13bdadbcc9a0",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1474,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PhFunJkJ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.1",
+  "actual_result": "Member list never loads until you scroll around the member list",
+  "expected_result": "Member list of the newly switched server should load",
+  "short_description": "If you switch servers while member list is open, the member list will never load",
+  "steps_to_repro": "- Open both channel drawer and member list at the same time by tapping on both buttons simultaneously  - Wait for member list to load - Switch to another server using the other drawer"
+ }
+}

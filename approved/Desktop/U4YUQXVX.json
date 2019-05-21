@@ -1,0 +1,30 @@
+{
+ "id": "5c085b189d9734877978abc3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3468,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/U4YUQXVX",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Desktop Stable, 2.8.7.9.6",
+  "actual_result": "It Shows the Ban/Kick User Button.",
+  "expected_result": "It shouldnt Show Ban/Kick User.",
+  "short_description": "When youre in a game and are in the overlay the Kick and Ban user button is shown even when you cant kick/ban that person",
+  "steps_to_repro": "- Open the Ingame Overlay - Have permissions to Ban/Kick - click on a Person over your Rang in any Server - it should show Ban/Kick User - It shouldnt work though."
+ }
+}

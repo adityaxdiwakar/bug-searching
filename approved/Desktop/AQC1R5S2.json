@@ -1,0 +1,24 @@
+{
+ "id": "59735d442ba89a6c798fcb5c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 877,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AQC1R5S2",
+ "data": {
+  "system_settings": "windows 7 ultimate x64 , firefox version: 54.0.1 (32-bit)",
+  "client_settings": "2479 (stable)",
+  "actual_result": "the pictures are cut out",
+  "expected_result": "the pictures are normal",
+  "short_description": "the nitro section in user settings has cut out pictures http://i.imgur.com/2zDR9qY.png",
+  "steps_to_repro": "- open firefox - open discord - go to user settings - go to the nitro section - look at the pictures"
+ }
+}

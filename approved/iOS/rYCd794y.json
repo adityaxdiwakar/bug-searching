@@ -1,0 +1,17 @@
+{
+ "id": "5c36d65aa161d43d28a780a4",
+ "closed": false,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 1251,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rYCd794y",
+ "data": {
+  "system_settings": "iPhone XS Max. iOS 12.1.2",
+  "client_settings": "Discord TestFlight 2.4.2 (10573)",
+  "actual_result": "You can't sort the channel",
+  "expected_result": "You should be able to sort the channel",
+  "short_description": "Channels above the highest category can not be sorted.",
+  "steps_to_repro": "- Sort a channel above the highest category - Try to sort it again"
+ }
+}

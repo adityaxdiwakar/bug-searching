@@ -1,0 +1,36 @@
+{
+ "id": "5a26dac878ae696d92aafd9e",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 445,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/etuMAaD3",
+ "data": {
+  "system_settings": "iPhone 7 iOS 11.0.3",
+  "client_settings": "Discord TestFlight 2.0.1",
+  "actual_result": "Keyboard blocks the screen.",
+  "expected_result": "Keyboard goes away.",
+  "short_description": "Keyboard blocks the settings as opened from long press.",
+  "steps_to_repro": "- Type emoji in chatbox halfway, to be sure the list is open. - Long press the user. - Observe"
+ }
+}

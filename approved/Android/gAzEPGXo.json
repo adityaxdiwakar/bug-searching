@@ -1,0 +1,24 @@
+{
+ "id": "59b583f0d27008947dca1eae",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 700,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gAzEPGXo",
+ "data": {
+  "system_settings": "LG Tribute 5, Latest Android OS Version",
+  "client_settings": "Android Alpha 5.1.4",
+  "actual_result": "You get the \"Your settings have not been saved\" message even though it just autosaved.",
+  "expected_result": "The menu closes normally without any warning message",
+  "short_description": "Save Warning does not recognize channel category autosave",
+  "steps_to_repro": "-  Have a channel and a category - Go into the channel settings - change the category - See the text box saying that channel settings have been saved - press the back button"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59abe3fb1b04c0dd23b20d5c",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 316,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9BISO08p",
+ "data": {
+  "system_settings": "Iphone 6s, 10.3.3",
+  "client_settings": "IOS Testflight 1.9.1",
+  "actual_result": "You will notice that the keypad is unresponsive to the numbers entered. At the moment, to fix this, hit \"Back\".",
+  "expected_result": "You should be able to enter it manually.",
+  "short_description": "When on the Two-Factor authentication screen for the IOS Testflight build, keypad is unresponsive after box is clicked.",
+  "steps_to_repro": "- Be sure to have 2-Step-Authorization enabled. - Sign out of your mobile Discord account. (Note this is for IOS Tesfight users) - Login to your account as usual. - Upon entering the 2-Step-Authentication page, click on the first box. - Then try inputting your code given."
+ }
+}

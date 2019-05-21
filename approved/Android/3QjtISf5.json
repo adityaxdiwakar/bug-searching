@@ -1,0 +1,30 @@
+{
+ "id": "5be616eb29ae677c0fc10169",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2295,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3QjtISf5",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.8.6",
+  "actual_result": "It silently fails, you won't know what happened. If you go to user settings > debug, you can notice an error message showing that the error wasn't handled",
+  "expected_result": "It should handle the error properly and show an explicit error message. If it is intended to fail silently, then it should handle it gracefully and not puke an error in debug logs",
+  "short_description": "Inviting to a server someone who has blocked you via the Invite People screen will cause the error not to be properly handled (it fails silently and an error is thrown in debug logs)",
+  "steps_to_repro": "- Make sure you have access to the Invite People feature on Android - Send a DM to someone, so that the user can be found in Invite People search - Have the user block you  - Go to a server and press Instant Invite in channel list - Search the user in Invite People screen - Hit Invite"
+ }
+}

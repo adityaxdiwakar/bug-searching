@@ -1,0 +1,30 @@
+{
+ "id": "5b5381fcd08578ad0fd55251",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1665,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9P0BnIe5",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8 - Android 8.0",
+  "client_settings": "Discord Alpha 7.1.2",
+  "actual_result": "both the member list and server list close at the same time",
+  "expected_result": "only the member list should close as normal",
+  "short_description": "opening both the members list and servers list at the same time then closing out either list causes both lists to close",
+  "steps_to_repro": "- open the member list and server list at the same time using the buttons at the top, provided that your phone supports multi-touch - close out of the member list by swiping it to the right"
+ }
+}

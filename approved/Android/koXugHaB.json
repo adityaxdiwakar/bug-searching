@@ -1,0 +1,36 @@
+{
+ "id": "5a3556d7d2603dbb61f88a40",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 964,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/koXugHaB",
+ "data": {
+  "system_settings": "Oneplus 2, Android 6.0.1",
+  "client_settings": "Discord 5.8.3",
+  "actual_result": "the audio plays on call speakers. Redoing the steps will switch the speakers back.",
+  "expected_result": "the audio plays on system speakers",
+  "short_description": "Changing the \"use speaker\" setting while in-call causes all other audio to switch speakers after the call ends.",
+  "steps_to_repro": "- be in a DM call - open the voice settings - switch the state of the \"use speaker\" setting - exit call - play audio from another app"
+ }
+}

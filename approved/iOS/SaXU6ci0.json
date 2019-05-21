@@ -1,0 +1,17 @@
+{
+ "id": "5b1c5ded001d78d63e8af6e4",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 784,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SaXU6ci0",
+ "data": {
+  "system_settings": "iPhone 6s - iOS 11.4, iPad Air 2 - iOS 11.4.1 PB",
+  "client_settings": "Stable 2.3.3",
+  "actual_result": "It automatically scrolls back in message history. Note: This issue also happens without force closing the app but haven't found steps for it so far. It might happen when the channel must completely reload.",
+  "expected_result": "Chat should keep position (at the beginning of the new unread message).",
+  "short_description": "Chat automatically scrolls back in message history when opening a channel with a very new long message",
+  "steps_to_repro": "- With one account write a very long message (it should go off-screen) and send it in a channel with some message history - With other account open this channel - Don't scroll there, just press the home button after opening the channel - Force close Discord via the app switcher - Go back to Discord"
+ }
+}

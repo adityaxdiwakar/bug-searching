@@ -1,0 +1,30 @@
+{
+ "id": "5a240defd6a0ff2569126f84",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1423,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/70K3S8Cn",
+ "data": {
+  "system_settings": "Windows 10 Fall Creators Update",
+  "client_settings": "Discord Canary 0.0.183",
+  "actual_result": "The text box gets wider and the text fits into one line, but the text box still has the same hight",
+  "expected_result": "The text box gets wider and thinner, because the text fits into one line",
+  "short_description": "Text box height does not adjust",
+  "steps_to_repro": "- Have the search results or member list open - Type something in the text box until you get a new line - Close the search results/member list -"
+ }
+}

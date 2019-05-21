@@ -1,0 +1,30 @@
+{
+ "id": "5a37e36cb1e43d5ca584e264",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 463,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/R0lXW1zL",
+ "data": {
+  "system_settings": "iOS 9.3.5, iPhone 6S",
+  "client_settings": "TF 2.2.0 (1910)",
+  "actual_result": "Hidden categories appear. (i.e. \"Moderators\" in this server)",
+  "expected_result": "Hidden categories should not appear.",
+  "short_description": "Hidden categories appear in server notification settings.",
+  "steps_to_repro": "- Go to server Notification Settings. - In Notification Overrides, tap on \"Add a Channel or Category.\" - Scroll and look at the available categories."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bbb9365bdf24d8290c58c05",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2128,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LJZaqW78",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.6.3",
+  "actual_result": "It still suggests you to join via Desktop app",
+  "expected_result": "It should not show \"Join via Desktop app\" anymore because it no longer makes sense once the party has ended",
+  "short_description": "You are suggested to join via Desktop app a Spotify listen along invite that has ended",
+  "steps_to_repro": "- Have someone send an invite to listen along on Spotify  - Have him end the session so it shows \"Listenning party is over\""
+ }
+}

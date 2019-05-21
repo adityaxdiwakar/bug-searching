@@ -1,0 +1,30 @@
+{
+ "id": "5b7eb807125e6e8dd34d0fef",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1869,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UPWfZMCN",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 740",
+  "actual_result": "The colour of the text almost completely matches to it's surroundings.",
+  "expected_result": "The text is in a colour that can be seen.",
+  "short_description": "The colour of the text above the invite of the Discord Developers server almost completely matches to it's surroundings making it barely visible on light theme and hard to read in dark theme.( this happened after the 740 update; before the update the text was fine. look at the screenshots for reference.)",
+  "steps_to_repro": "- Switch to light theme (you should already be using it). - Scroll to the bottom of your server list and click on the add a server (+) button. - Click on \"Join Server with invite link\". - Observe the text that says \"The invite will look something like these\""
+ }
+}

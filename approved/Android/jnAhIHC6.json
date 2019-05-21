@@ -1,0 +1,17 @@
+{
+ "id": "5b6ab1404c87fa2380c07ff5",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1797,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/jnAhIHC6",
+ "data": {
+  "system_settings": "Android 7.1.1, Samsung Galaxy J3 (2016)",
+  "client_settings": "Android discord version: 7.2.7",
+  "actual_result": "Shows you are playing no game",
+  "expected_result": "It show your game that you are playing",
+  "short_description": "Game detect 7.1.1 no detect game",
+  "steps_to_repro": "- Turn on game detection - Open a game - Done"
+ }
+}

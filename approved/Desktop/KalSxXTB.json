@@ -1,0 +1,30 @@
+{
+ "id": "5b88a451256e4a71e6f37863",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2900,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KalSxXTB",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 22791",
+  "actual_result": "The circles will either all become boxes, or the middle circle becomes a box",
+  "expected_result": "The circles all stay as circles",
+  "short_description": "Circles in the typing indicators in the member list become misshapen on 90 zoom",
+  "steps_to_repro": "- Change your zoom level to 90 - Go to a server where a lot of people are typing - Observe the typing indicators in the member list"
+ }
+}

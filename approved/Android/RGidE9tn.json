@@ -1,0 +1,17 @@
+{
+ "id": "5bfcdbc733332e3682fdaf3c",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2358,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RGidE9tn",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 8.0.1",
+  "actual_result": "Usage access screen appears when you are trying to disable it.",
+  "expected_result": "Usage access should pop up when you are enabling it, as it gives instructions on how to ENABLE it.",
+  "short_description": "Usage access screen only appears when you are trying to disable the game detection, instead of enabling it.",
+  "steps_to_repro": "- Update to 8.0.1. - Enable Game Detection. Notice how the usage access doesn't pop up anymore. - Then, disable it. Notice how usage access pops up."
+ }
+}

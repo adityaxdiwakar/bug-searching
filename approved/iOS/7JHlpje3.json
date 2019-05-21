@@ -1,0 +1,30 @@
+{
+ "id": "593b08242455826749310bd6",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 259,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7JHlpje3",
+ "data": {
+  "system_settings": "iOS 9.3.5 on iPad 4th gen with Discord v1.8.7",
+  "client_settings": "1.8.7",
+  "actual_result": "Link stays as normal and can be tapped as though it exists although messages dont load at the said channel.",
+  "expected_result": "The link appears as #deleted-channel",
+  "short_description": "Hidden channels which are still linked in a public channel can be tapped as though it exists",
+  "steps_to_repro": "- Create a channel in a server. - Get someone to post a link to it. - Make the channel hidden to everyone. - As a non admin user, find the posted link to the now hidden channel."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59ae8af7e1ac979c9ce94e9c",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1088,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7CXD1pqt",
+ "data": {
+  "system_settings": "Windows 7 x64 Professional N",
+  "client_settings": "Desktop Stable 0.0.298",
+  "actual_result": "Audit Log entry states that prune was performed \"For a day of inactivity\"",
+  "expected_result": "Audit Log entry states that action was performed with the \"30 days of inactivity\" option",
+  "short_description": "Audit log displays wrong info about pruning members action",
+  "steps_to_repro": "- Open server settings, Members, click \"Prune\" - Choose the \"more than 30 days ago\" option, confirm \"Prune\" - Open server settings, Audit Log, expand recent prune action entry"
+ }
+}

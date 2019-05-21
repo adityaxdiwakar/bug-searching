@@ -1,0 +1,24 @@
+{
+ "id": "599e9c7e5de157548ff4046c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1035,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7224",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P0: Need an immediate fix",
+   "color": "red"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BM5x967N",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6 (16G29) (iMac Retina 5K, 27-inch, Late 2017)",
+  "client_settings": "Discord Canary 0.0.154 (Build 3571)",
+  "actual_result": "The picker stays, even after the space, and enter doesn't work.",
+  "expected_result": "The picker should disappear.",
+  "short_description": "When you try to link a channel, the picker stays after you finish, making it impossible to send",
+  "steps_to_repro": "- Start typing a channel name to link it - Choose a channel from the picker and click it or press enter, alternatively type out the name and press space"
+ }
+}

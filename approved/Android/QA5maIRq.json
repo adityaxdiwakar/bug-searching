@@ -1,0 +1,29 @@
+{
+ "id": "58c9864d0f5883abe7699df9",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 290,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QA5maIRq",
+ "data": {
+  "system_settings": " Discord app for Android v3.5.1 using Nexus 5x running Android 7.1.2 beta version",
+  "actual_result": "it wil give a notification without displaying the username of the user sending the invite",
+  "expected_result": "it displays the name of the user sending the request",
+  "short_description": "incoming friend request notification not showing who sent the invite",
+  "steps_to_repro": "- Have discord open on your phone either on the background or foreground - Lock your screen - Receive an invite from another user "
+ }
+}

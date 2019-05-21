@@ -1,0 +1,30 @@
+{
+ "id": "59a17e9ac8f8cb26e6f9611e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 659,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GTylJhl4",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.1.1 (506)",
+  "actual_result": "The app crashes",
+  "expected_result": "The app shouldn't crash and a photo should be taken only if the button is pressed when the camera is fully loaded",
+  "short_description": "App crashes when pressing the shutter before the camera fully loads on some devices",
+  "steps_to_repro": "- Go to a server where you have the permission to upload files - Click on the plus button and tap on the camera, then quickly press that shutter button before the camera fully loads (while you still see a grey screen) - Notice that the app crashes"
+ }
+}

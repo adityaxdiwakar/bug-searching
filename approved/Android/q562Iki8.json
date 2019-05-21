@@ -1,0 +1,30 @@
+{
+ "id": "5bd577647468365543798286",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2251,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/q562Iki8",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.8.2",
+  "actual_result": "If you change your phone language into languages which has different type of numbers like Arabic ( 7 =  \u06f7), your tag will appear with that language until you close discord.",
+  "expected_result": "Tag #0000 should've appeard as what discord language is set not phone's.",
+  "short_description": "Discord tag/phone language with different type of numbers",
+  "steps_to_repro": "- Change your phone's language to Arabic (I also tested with Persian/Farsi too, not sure if all phones have it) - Log out your account - Close discord (not very necessary) - Login and check your tag #0000"
+ }
+}

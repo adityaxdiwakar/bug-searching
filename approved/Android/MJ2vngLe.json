@@ -1,0 +1,30 @@
+{
+ "id": "5b6dbc7eee8219315b1209c6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1813,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MJ2vngLe",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.9",
+  "actual_result": "On some devices the keyboard covers the whole screen in Landscape, and since the keyboard won't retract after hitting OK, you are unable to see the error message if the friend request fails",
+  "expected_result": "The keyboard should close as when the friend request sends successfully. This would allow you to see the error message without having to manually close the keyboard. This is particulaly a problem if your keyboard is fullscreen as seen in the attachment",
+  "short_description": "The keyboard does not close when hitting Send if the friend request fails. On some devices this prevents you from being able to see the error message if you're in Landscape mode",
+  "steps_to_repro": "- Switch to Landscape mode and keep this orientation until the end - Go to Friends Tab > Add a friend - Enter an invalid Discord tag - Send while keeping keyboard open"
+ }
+}

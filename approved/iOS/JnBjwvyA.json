@@ -1,0 +1,36 @@
+{
+ "id": "5a0d4b48d99a59850eeccba5",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 431,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JnBjwvyA",
+ "data": {
+  "system_settings": "iOS 11.1, iPhone 7",
+  "client_settings": "TestFlight 2.0.1 (1610)",
+  "actual_result": "The channel where the invite was originally for stays checkmarked until you save the changes.",
+  "expected_result": "The check-mark should have moved to the new channel that you selected for the invite.",
+  "short_description": "Check-mark does not move when changing location of server invite.",
+  "steps_to_repro": "- Create a server invite (using button under server name, not from a channel). - Tap the invite link to go to it's settings. - Tap the Instant Invite Channel. - Select any channel that does not have a check-mark. - Tap the Instant Invite Channel again."
+ }
+}

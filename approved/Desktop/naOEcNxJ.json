@@ -1,0 +1,30 @@
+{
+ "id": "5c2fced20abe352150456f50",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3567,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/naOEcNxJ",
+ "data": {
+  "system_settings": "Linux mint 19",
+  "client_settings": "Release Channel: stable, Build Number: 30386, Version Hash: 964aab50f0eb28f40a69d5d4f1381ac640307481",
+  "actual_result": "Shows the old song playing, before \"Private Session\", counting to the end, freezes and disappears the spotify info",
+  "expected_result": "The information about the current song should update",
+  "short_description": "Incorrect information shown after disabling private session on Spotify",
+  "steps_to_repro": "- Listen to music on spotify (to speed it up, put it at almost the end of the song) - Click on your name, on any chat - Go to spotify and click on \"Private Session\" (similar to #8375) - Change music - Disable \"Private Session\""
+ }
+}

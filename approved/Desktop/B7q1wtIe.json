@@ -1,0 +1,24 @@
+{
+ "id": "59a613c1f25a776f45d4edb1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1065,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/B7q1wtIe",
+ "data": {
+  "system_settings": "Windows 7",
+  "client_settings": "Desktop Canary: 0.0.163",
+  "actual_result": "Recent DMs stays at the previous position.",
+  "expected_result": "Recent DMs list jumps back up to the top to the current conversation.",
+  "short_description": "Recent DMs list positioning error after receiving a new message",
+  "steps_to_repro": "- scroll down in your recent DMs and choose someone at the bottom of the list (don't message them or anything) - Open up a server - have someone DM you - Open the DM notification - the recent DMs list stays at the previous position instead of jumping to the top like it does on mobile."
+ }
+}

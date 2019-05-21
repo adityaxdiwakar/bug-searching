@@ -1,0 +1,24 @@
+{
+ "id": "5bacfd9f7df5e386354320fc",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1032,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oAlNaVDp",
+ "data": {
+  "system_settings": "iPhone SE - iOS 12",
+  "client_settings": "TestFlight 7416",
+  "actual_result": "When the message is behind the previous tag it puts the mention behind",
+  "expected_result": "It should be consistent",
+  "short_description": "Mention button sometimes puts the tag behind current text and sometimes in front",
+  "steps_to_repro": "- find two messages - close down your keyboard - hold down on the messages and select mention - notice where the tags are replaced in relation to which one you click first - clear your keyboard and leave it open - repeat the steps above"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a7cccb97259a25aa0c204f6",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1111,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TiItpoTS",
+ "data": {
+  "system_settings": "AOSP Android Nougat 7.0",
+  "client_settings": "Discord Alpha 6.2.0",
+  "actual_result": "You can still edit the fields behind even while saving",
+  "expected_result": "A loading animation appears and you can't tap the fields behind",
+  "short_description": "Fields are still active when saving profile details",
+  "steps_to_repro": "- Recommended to upload a new avatar with large filesize - Upload an avatar preferrably a gif - Hit save button"
+ }
+}

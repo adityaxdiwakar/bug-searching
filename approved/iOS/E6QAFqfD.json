@@ -1,0 +1,30 @@
+{
+ "id": "5ae3c499da49e3dd4fce3f39",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 708,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/E6QAFqfD",
+ "data": {
+  "system_settings": "iPhone 5s, IOS 11.2.5",
+  "client_settings": "TestFlight 2.3.1 (4040)",
+  "actual_result": "They are shown as offline",
+  "expected_result": "They should also be shown as online in the DM.",
+  "short_description": "online users show up as offline when in DM",
+  "steps_to_repro": "- Go to your recent DM list - Click on someone who you've DMed in the past that is currently on Discord - Notice how when you enter the DM they show as offline"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59eecd33736623dabb1ae712",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 836,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IsRWeBlx",
+ "data": {
+  "system_settings": "Android 7.0 on S6 Edge",
+  "client_settings": "Discord 544",
+  "actual_result": "Discord Crashes and closes.",
+  "expected_result": "An invite is created.",
+  "short_description": "Instant invites crash discord",
+  "steps_to_repro": "- Go to a server - tap \"create instant invite\" located above the channels."
+ }
+}

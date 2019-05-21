@@ -1,0 +1,36 @@
+{
+ "id": "5a31528a41a1bba101ddc30c",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 945,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/v0gfEoap",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 mini, Android Ver. 6.0.1",
+  "client_settings": "Discord Alpha 5.8.4",
+  "actual_result": "You can speak in the Direct Call with the User.",
+  "expected_result": "Connection to the Direct Call fail.",
+  "short_description": "I can't speak in a direct call because the connection failed.",
+  "steps_to_repro": "- Go to the DM Chat with the User you want to call. - Click on \"Start Call\" - The connection to the call should fail."
+ }
+}

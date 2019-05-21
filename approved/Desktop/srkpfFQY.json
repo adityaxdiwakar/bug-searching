@@ -1,0 +1,17 @@
+{
+ "id": "5ba3e184c655c61c4aa91897",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 3012,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/srkpfFQY",
+ "data": {
+  "system_settings": "Win 10 64x",
+  "client_settings": "Canary(24227)",
+  "actual_result": "It appears in a weird place or it does not appear at all",
+  "expected_result": "Emote Picker appears at the normal place",
+  "short_description": "Emote Picker does not appear when you try to react an old Message with emote picker.(Read the full report before trying)",
+  "steps_to_repro": "- Find an old Message - Right click to open the menu - Scroll down without closing the menu - try to open the emote picker from that menu"
+ }
+}

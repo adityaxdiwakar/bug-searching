@@ -1,0 +1,24 @@
+{
+ "id": "599d9dcc113d34940164ddc0",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 643,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZZmOxqZL",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 4.0.9",
+  "actual_result": "they don't",
+  "expected_result": "the reactions update",
+  "short_description": "Reaction page doesn't update when viewing it",
+  "steps_to_repro": "- have a message with reactions - view who reacted to it - while viewing have someone add some reactions"
+ }
+}

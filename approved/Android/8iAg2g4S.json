@@ -1,0 +1,24 @@
+{
+ "id": "59acfdba56acb167c780235c",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 680,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8iAg2g4S",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, 7.0",
+  "client_settings": "Discord 4.0.7",
+  "actual_result": "It tags the person, and also leaves the beginning of their name you typed in order to tag them",
+  "expected_result": "The name is filled in and the user is tagged",
+  "short_description": "When tagging a name, what you typed before clicking the suggestion remains (Samsung specific) (Samsung Stock Keyboard)",
+  "steps_to_repro": "- begin typing a name - click the suggested person - press space"
+ }
+}

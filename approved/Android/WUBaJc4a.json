@@ -1,0 +1,30 @@
+{
+ "id": "5a5cee06e0e15bfa1af60f74",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1037,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WUBaJc4a",
+ "data": {
+  "system_settings": "Nexus 6 Android 7.1.2",
+  "client_settings": "Discord 6.0.8",
+  "actual_result": "Nothing! App does not respond to an expected navigation gesture",
+  "expected_result": "App should paginate to the next emoticon tab.",
+  "short_description": "Reactions screen doesn't respond to navigation gestures",
+  "steps_to_repro": "- Add 2 or more reactions to a message. (Long press message, Add Reaction, pick any emote, do this 2x) - Long press the message again and press Reactions - Swipe from right to left in an empty portion of the screen"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59c653ff65a1d51530f52ac3",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 341,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qOdmdwGG",
+ "data": {
+  "system_settings": "iPhone 6S & iPad Air 2, iOS 11.0",
+  "client_settings": "iOS Discord (Stable), 1.9.1",
+  "actual_result": "Nothing is shown, you just see the buttons for `Yes` and `No`",
+  "expected_result": "A description for the delete action should be shown in the modal dialog.",
+  "short_description": "Delete role modal shows empty description field",
+  "steps_to_repro": "- Go to server settings - Open `Roles` - Click on `Edit` - Delete any role"
+ }
+}

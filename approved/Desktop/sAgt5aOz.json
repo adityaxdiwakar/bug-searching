@@ -1,0 +1,17 @@
+{
+ "id": "5b017b65a59d205a1a008437",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2024,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sAgt5aOz",
+ "data": {
+  "system_settings": "Win 7 x64",
+  "client_settings": "Discord Canary Build Number, 15665, Version Hash: 04bf7d3b2396890be3b25fd50c2465f9c3703c94",
+  "actual_result": "The users avatars disappears",
+  "expected_result": "The user avatar appear",
+  "short_description": "The users avatars disappears when yo right click in  a server icon (Big servers)",
+  "steps_to_repro": "- go to a big server like discord testers - scroll the user list to the middle - right click the server icon - click again"
+ }
+}

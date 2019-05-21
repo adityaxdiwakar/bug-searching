@@ -1,0 +1,30 @@
+{
+ "id": "5975849f3e39f09539cfd473",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 888,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hZfEgDNF",
+ "data": {
+  "system_settings": "Windows 7 Professional Service Pack 1",
+  "client_settings": "Desktop Canary, 0.0.297",
+  "actual_result": "Discord line breaks instead of sends the message.",
+  "expected_result": "Sends message",
+  "short_description": "Typing something, then alt+tabbing out, then tabbing back in and hitting enter acts like you hit shift+enter",
+  "steps_to_repro": "- Type something - Alt+Tab (Or click) out of Discord - Alt+Tab (Or click) into Discord - Hit enter"
+ }
+}

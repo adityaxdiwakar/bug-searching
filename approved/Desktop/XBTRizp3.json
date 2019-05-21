@@ -1,0 +1,17 @@
+{
+ "id": "59eb2b19439f79637a3bf999",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1298,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XBTRizp3",
+ "data": {
+  "system_settings": "Windows 10 Pro 1709 (17017.1000)",
+  "client_settings": "Discord Canary 0.0.167 (Build 6174)",
+  "actual_result": "App crashes and will crash after refresh until you change language back",
+  "expected_result": "Everything works fine",
+  "short_description": "Opening some channels in Russian locale crashes app",
+  "steps_to_repro": "- Switch Discord app language to Russian - Go to any DM or browse channels"
+ }
+}

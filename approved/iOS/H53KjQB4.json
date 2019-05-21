@@ -1,0 +1,17 @@
+{
+ "id": "5b7cb94e60a09f8320a66640",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 932,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/H53KjQB4",
+ "data": {
+  "system_settings": "IOS 11.4.1",
+  "client_settings": "IOS TestFlight 2.3.7 6870",
+  "actual_result": "Sometimes either in DMs, Guild chat or Both, the message you last sent will be retyped but not sent.",
+  "expected_result": "Nothing, each message should send.",
+  "short_description": "Messages retype but not send",
+  "steps_to_repro": "- Type in a guild chat - Then type in Private DMs (do this a few times) - Swap between both between each message."
+ }
+}

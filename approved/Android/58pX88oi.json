@@ -1,0 +1,24 @@
+{
+ "id": "59b456db5d8906920a270204",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 696,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/58pX88oi",
+ "data": {
+  "system_settings": "Samsung Galaxy S2, LineageOS 14.1 (Android 7.1.2)",
+  "client_settings": "Android Alpha 5.1.4 (514)",
+  "actual_result": "It defaults to pure black (#000000), due to this hex being a placeholder for the default role color.",
+  "expected_result": "The role name should be the default gray/grey",
+  "short_description": "Role color is incorrect",
+  "steps_to_repro": "- make a role with default color - go to create a channel - select the option to make it private - look at list of roles"
+ }
+}

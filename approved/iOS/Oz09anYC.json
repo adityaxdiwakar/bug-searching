@@ -1,0 +1,17 @@
+{
+ "id": "5b7d71626f690b021338db42",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 933,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Oz09anYC",
+ "data": {
+  "system_settings": "iPad Mini 1St gen, iOS 9.3.5",
+  "client_settings": "Stable 2.3.6",
+  "actual_result": "Font size applied only to some app elements",
+  "expected_result": "Font size should be as set in iOS settings",
+  "short_description": "font scaling doesn\u2019t work on areas like the messages area below iOS 11",
+  "steps_to_repro": "- Change font scale in iOS settings - Open Discord - Font size changed partially"
+ }
+}

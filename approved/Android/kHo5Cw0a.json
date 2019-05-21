@@ -1,0 +1,30 @@
+{
+ "id": "5b6839afad94a96e31f00af2",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1789,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kHo5Cw0a",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 726",
+  "actual_result": "It starts moving to and fro from it's initial to final position.",
+  "expected_result": "It just stops there.",
+  "short_description": "When you unselect \"Automatically determine input sensitivity\" and move the circular button kind of thing in the bar and stop it, the circular thing flickers.",
+  "steps_to_repro": "- Open settings> Voice and Video. - Unselect \"Automatically determine input sensitivity\". - Move the circular thingy to any side. - Keeping your finger still on the circular thing, stop your finger i.e. move the circular thing no more. - Observe the circular thing."
+ }
+}

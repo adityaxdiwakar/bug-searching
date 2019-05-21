@@ -1,0 +1,22 @@
+{
+ "id": "5848406c697679affc6c1767",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 109,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GSkX0aPF",
+ "data": {
+  "actual_result": "Pressing \"x\" crashes the Discord app",
+  "expected_result": "It closes out of the 2FA Window",
+  "short_description": "Exiting out of a 2FA window crashes Discord (**Must have 2FA enabled**)",
+  "steps_to_repro": "- Go to a server you own - Open server settings - Open Overview - Click \"Delete Server \" - exit out of the 2FA window "
+ }
+}

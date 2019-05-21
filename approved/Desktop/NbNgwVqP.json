@@ -1,0 +1,23 @@
+{
+ "id": "581bc45193832c786e7cc060",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 111,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NbNgwVqP",
+ "data": {
+  "system_settings": " latest Discord Canary <with third-party modifications> ",
+  "actual_result": "The emote picker displays it, but only in frequently used",
+  "expected_result": "The emote doesn't show up in the emote picker",
+  "short_description": "Emotes you don't have permission to use appear in frequently used",
+  "steps_to_repro": "- Go to a server where you don't have permission to use external emotes - Open the emote picker - If a BTTV or subscriber emote is in your frequently used, click on it and send the message. "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5ac4c071067ec1664d3d15d7",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1793,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ARcS9JjK",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1709)",
+  "client_settings": "Discord Canary 0.0.204 (13096)",
+  "actual_result": "Nothing",
+  "expected_result": "It should open the game activity to show what friends are playing the selected game",
+  "short_description": "It's no longer possible to click on game titles/pictures in the user popup to bring up the new game activity window",
+  "steps_to_repro": "- Find a game that has a splash icon (I only know of Rust, Minecraft, Heroes of the storm and Overwatch) - Attempt clicking on the name/picture"
+ }
+}

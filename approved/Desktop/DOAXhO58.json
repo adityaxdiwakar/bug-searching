@@ -1,0 +1,30 @@
+{
+ "id": "5b67aa4e4c6cf15bd657e525",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2635,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DOAXhO58",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Firefox for Android 61.0",
+  "actual_result": "One takes you to Discord's homepage while the other takes you to invalid invite screen",
+  "expected_result": "Both links should take you to the same page, as they have the same invite code",
+  "short_description": "If you open in browser an invite link formatted as `discord(dot)gg/XXXX` with XXXX containing invalid characters (such as ' or &), you will be taken to discord's website homepage, while it does display the invalid invite screen if you're using the `discordapp(dot)com/invite/XXXX` format of same invite",
+  "steps_to_repro": "- Copy the following invite link (make sure to replace (dot) with an actual dot) : `https://discord(dot)gg/abc&def` - Paste it in browser URL bar and hit Enter - Notice how you're redirected to homepage - Now copy the following invite link : `https://discordapp(dot)com/invite/abc&def` - Notice how this takes you to the invalid invite screen"
+ }
+}

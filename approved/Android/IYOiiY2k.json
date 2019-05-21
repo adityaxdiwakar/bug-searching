@@ -1,0 +1,17 @@
+{
+ "id": "5bb7c32130520b86dc7aedca",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2107,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IYOiiY2k",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 mini, Android 6.0.1",
+  "client_settings": "Alpha 763",
+  "actual_result": "create entry shows 4 asterisks",
+  "expected_result": "there shouldn't be any asterisks as they aren't on desktop audit log",
+  "short_description": "[Audit Log] deleting channel topic shows 4 asterisks in audit log entry",
+  "steps_to_repro": "- delete a channel topic - save - observe Audit Log"
+ }
+}

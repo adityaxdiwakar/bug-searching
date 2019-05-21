@@ -1,0 +1,17 @@
+{
+ "id": "5c2d0715ccc54006d23afd50",
+ "closed": false,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 3562,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yZ760vWX",
+ "data": {
+  "system_settings": "Windows 10 home, 1809, 17763.195",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 30302, Version Hash: db622561b65eae5128bc8eab9db7679a4527c3fb",
+  "actual_result": "It hangs for a second and then it shows the \"This is akward discord just crashed\" screen",
+  "expected_result": "Exit the channel settings",
+  "short_description": "When i'm in a text or voice channel and i press the channel settings and then press \"esc\" on my keyboard it crashes",
+  "steps_to_repro": ""
+ }
+}

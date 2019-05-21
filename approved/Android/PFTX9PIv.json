@@ -1,0 +1,23 @@
+{
+ "id": "58c3b7dbfc8c56aa9ad83990",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 281,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PFTX9PIv",
+ "data": {
+  "system_settings": " Discord 3.5.0 Android 5.1",
+  "actual_result": "it remains open",
+  "expected_result": "keyboard closes",
+  "short_description": "keyboard stays up when creating a server in server sorting menu",
+  "steps_to_repro": "- open server sorting - click the plus - create a new server without closing keyboard - observe "
+ }
+}

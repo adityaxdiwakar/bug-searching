@@ -1,0 +1,23 @@
+{
+ "id": "59049a69ef5b1eee9e1e20b4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 575,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aMXzWcDP",
+ "data": {
+  "system_settings": " Windows 10 x64, Latest Canary",
+  "actual_result": "Button blends in with background",
+  "expected_result": "The edit button is clearly visible",
+  "short_description": "Edit button invisible in Webhook menu while using light theme",
+  "steps_to_repro": "- Switch to light theme - Go to a channel and create a webhook - Try finding the edit button "
+ }
+}

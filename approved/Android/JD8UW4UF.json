@@ -1,0 +1,16 @@
+{
+ "id": "58f2036a4c73f26219a010d4",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 373,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JD8UW4UF",
+ "data": {
+  "system_settings": " Android 6.0.1 discord 3.6.5",
+  "actual_result": "Emoji keyboard and normal keyboard stack",
+  "expected_result": "emoji picker closes and normal keyboard shows up",
+  "short_description": "When editing a message the emoji picker stacks on top of the keyboard",
+  "steps_to_repro": "- have the emoji picker open - long press the message and tap edit "
+ }
+}

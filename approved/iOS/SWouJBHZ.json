@@ -1,0 +1,17 @@
+{
+ "id": "5bb525fbf2b9dd1b1e2e29a4",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1051,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SWouJBHZ",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 2 - Windows 10 Home x64 1803",
+  "client_settings": "TestFlight 2.3.9 (7858) - Canary Build 25325",
+  "actual_result": "Developer Mode can be toggled on/off despite having \"sync across clients\" turned off",
+  "expected_result": "Developer Mode toggle doesn't change because \"sync across clients\" is turned off",
+  "short_description": "Developer Mode can be toggled on and off from desktop when \"sync across clients\" is turned off",
+  "steps_to_repro": "- Go into user settings on your phone, and go to appearance - Toggle off the \"Sync across clients\" option - Go into appearance settings on your computer and change your theme - Verify that your theme didn't change on your phone - Toggle Developer Mode off/on from your computer, and observe the toggle on your phone"
+ }
+}

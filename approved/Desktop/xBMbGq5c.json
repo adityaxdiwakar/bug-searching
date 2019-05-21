@@ -1,0 +1,17 @@
+{
+ "id": "59e6f6d92aac228de1c3c2ba",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1280,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xBMbGq5c",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 0.0.165 (6008)",
+  "actual_result": "The text is overlapped with the message preview.",
+  "expected_result": "Emoji Matching box would show properly.",
+  "short_description": "Emoji Matching is Overlapped with the Message Preview",
+  "steps_to_repro": "- Start a game with Rich Presence (eg. Holodrive)  - Go to a channel with Attach permission on - Click Upload (+) - Pick \"Invite #channel-name to Play [game]\" - Start typing an emoji in the message"
+ }
+}

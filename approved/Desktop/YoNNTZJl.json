@@ -1,0 +1,23 @@
+{
+ "id": "58b6094d75072779b3f935ab",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 399,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YoNNTZJl",
+ "data": {
+  "system_settings": " win 7 64bit canary 0.0.153",
+  "actual_result": "Emoji match up with completely unrelated names.",
+  "expected_result": "The emoji that appears matches the name",
+  "short_description": "Numerous emojis are appearing under the incorrect name.",
+  "steps_to_repro": "- write \"bird\" in emoji picker - The penguin emoji appears - Others affected are \"heart, \"tm\" and \"copyright\""
+ }
+}

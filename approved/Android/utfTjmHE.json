@@ -1,0 +1,23 @@
+{
+ "id": "59122d5bc81d6d95538c53c8",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 447,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/utfTjmHE",
+ "data": {
+  "system_settings": " : Samsung Galaxy S6, Andriod 6.0.1, Discord 3.8.2 (380)",
+  "actual_result": "The Highlighted UI trigger twice for both messages and are overlaying",
+  "expected_result": "the UI should trigger once on the first message that was longholded",
+  "short_description": "longholding 2 seperate messages with multitouch triggers Highlighted message UI twice.",
+  "steps_to_repro": "- have a multitouch device - long hold 2 seperate messages - wait for the highlighted UI "
+ }
+}

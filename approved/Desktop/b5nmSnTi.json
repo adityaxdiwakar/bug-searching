@@ -1,0 +1,24 @@
+{
+ "id": "5a8a5d29174edb7a589709f6",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1670,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/b5nmSnTi",
+ "data": {
+  "system_settings": "Windows 8.1",
+  "client_settings": "Release Channel: canary, Build Number: 10796, Version Hash: aa9c45c3c5e19c81e9a87a3132ec50e306685355",
+  "actual_result": "Only the Paste command shows up",
+  "expected_result": "The spell-checking checkbox should appear to be toggled on/off.",
+  "short_description": "Spell-Checking isn't available on Windows 8.1",
+  "steps_to_repro": "- Get a machine running Windows 8.1 - Run the latest Discord Canary (Build Number: 10836) - Right click the Message Box"
+ }
+}

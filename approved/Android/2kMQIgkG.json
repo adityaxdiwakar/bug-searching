@@ -1,0 +1,30 @@
+{
+ "id": "5b029d5fb58fbb8e0a697551",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1441,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2kMQIgkG",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.7.4",
+  "actual_result": "It spams submissions of the code and can rapidly get you rate limited",
+  "expected_result": "It should erase all characters before the last one",
+  "short_description": "If you hold the backspace key when cursor is before the last character in XBox auth code, the app will spam submissions of the code",
+  "steps_to_repro": "- Go to account settings >  Connections - Add > XBox - Enter an invalid code - Place your cursor behind the last character - Hold the backspace key"
+ }
+}

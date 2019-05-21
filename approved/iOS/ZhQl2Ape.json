@@ -1,0 +1,30 @@
+{
+ "id": "59b50bd8e6e2a5cb92339569",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 324,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZhQl2Ape",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 10.3.3",
+  "client_settings": "TestFlight 1.9.1",
+  "actual_result": "User name is cut off in the second line of the kick button. Best solution would be to shorten very long user names.",
+  "expected_result": "User name should be completely shown and not be cut off",
+  "short_description": "Edit a member: Long user name not completely shown for kick button",
+  "steps_to_repro": "- Open server settings - Go to member list - Click on any member with very long user name - Observe the kick button - Make sure you are using an iPhone (not happens with iPad)"
+ }
+}

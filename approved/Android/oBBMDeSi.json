@@ -1,0 +1,17 @@
+{
+ "id": "5a885cdc1cae4fa4d430a820",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1128,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/oBBMDeSi",
+ "data": {
+  "system_settings": "OnePlus 3T Android O (8.0.0)",
+  "client_settings": "Android Alpha 6.4.6",
+  "actual_result": "The DM channel opens up for a (split) second before snapping back to the text channel you where previous active in",
+  "expected_result": "The android app opens up the DM channel the notification is from",
+  "short_description": "Notifications to DMs don't lead to them on press if the app wasn't open prior",
+  "steps_to_repro": "- Have the app closed - Get a notification from a new DM you didn't have open prior to closing the app - Open the notification"
+ }
+}

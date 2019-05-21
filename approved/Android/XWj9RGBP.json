@@ -1,0 +1,17 @@
+{
+ "id": "59eecdd773452252284efa25",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 837,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XWj9RGBP",
+ "data": {
+  "system_settings": "Android 7.0 on S6 Edge",
+  "client_settings": "Discord 544",
+  "actual_result": "nothing happens.",
+  "expected_result": "notification settings open",
+  "short_description": "Notification Settings Do Not Open.",
+  "steps_to_repro": "- open notification settings."
+ }
+}

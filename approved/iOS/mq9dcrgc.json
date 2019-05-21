@@ -1,0 +1,22 @@
+{
+ "id": "584e2ebbe29efa67430b06b4",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 116,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mq9dcrgc",
+ "data": {
+  "actual_result": "message displays with one of the formatting modifiers only (latest canary, iOS 9.3.5, iPod 5th gen)",
+  "expected_result": "message displays correctly",
+  "short_description": "layering text formatting doesn't work",
+  "steps_to_repro": "- open text channel or DM - send message using more than one form of formatting "
+ }
+}

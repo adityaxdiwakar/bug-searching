@@ -1,0 +1,30 @@
+{
+ "id": "5a7a1fca79d5cda0a7532173",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 566,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5S1eTcmO",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.5 & iPad Air 2, iOS 11.3 PB 1",
+  "client_settings": "TestFlight 2.2.2 (2352)",
+  "actual_result": "It isn't bold and often not easy readable.",
+  "expected_result": "The mention and user name should be bold as for the desktop client to be clearly visible and readable.",
+  "short_description": "Mentions and user names aren't bold compared to the Desktop client",
+  "steps_to_repro": "- Mention any user, role, everyone or here or just have a look at the user names in the chat - Observe the user name or role name, user mention, `@everyone`/ `@here` mention font size/style in the mention (not the whole message itself)"
+ }
+}

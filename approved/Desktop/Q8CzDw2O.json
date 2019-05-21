@@ -1,0 +1,30 @@
+{
+ "id": "5b2b3ca61a5113129d5c1f66",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2162,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Q8CzDw2O",
+ "data": {
+  "system_settings": "Windows 10 Home 64 bit",
+  "client_settings": "Release Channel: stable, Build Number: 17395, Version Hash: 7748b21b7d9dfb45697764028f645f06c87c5df2",
+  "actual_result": "After the steps and you hover over a user, it does the over effect for 1 second and stops.",
+  "expected_result": "When hovering over a user on the right side in the user list, it stays in the hovering effect.",
+  "short_description": "Hovering over user will break when scrolling down for a while.",
+  "steps_to_repro": "- Go to a server with a lot of users (Like Discord Testers) - Start scrolling the right side user list really fast (I use a infinite scroll wheel function on my mouse), you know you're going fast enough if the users aren't rendering. - Do this for like 15 - 20 seconds and then stop scrolling - When you're done scrolling and it stopped, hover over a user and don't move your mouse. - When hovering you see that the hover effect disappears after 1 second, what isn't normal."
+ }
+}

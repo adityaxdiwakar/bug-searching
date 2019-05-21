@@ -1,0 +1,24 @@
+{
+ "id": "59f2d9a0958dcd297bb2fd34",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 396,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8tu31cYP",
+ "data": {
+  "system_settings": "iOS 10.3.3, IPod Touch 6 Gen",
+  "client_settings": "TestFlight 1.9.3 (1340)",
+  "actual_result": "Discord crashes right after you login and before you get to the loading screen",
+  "expected_result": "discord should start up and take to the friends page",
+  "short_description": "Discord crashes just after login (on a uninstall & reinstall) on light theme",
+  "steps_to_repro": "- Change discord theme to light theme - delete discord  - Reinstall discord  - Login into discord"
+ }
+}

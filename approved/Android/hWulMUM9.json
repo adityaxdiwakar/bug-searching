@@ -1,0 +1,30 @@
+{
+ "id": "5b742be64e7a555b0308069a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1836,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hWulMUM9",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 731",
+  "actual_result": "The confirmation modal appears in the first case but not in the second.",
+  "expected_result": "The confirmation modal appears in both cases.",
+  "short_description": "When you cancel an ongoing friend request directly through the green button, a confirmation modal appears but when you click on the cancel button in the kebab menu, no confirmation modal appears. The request is directly cancelled.",
+  "steps_to_repro": "- Send someone a friend request. - Click on \"Friend request sent\" in their profile. - Enjoy the modal. - Now, click on the kebab menu in their profile. - Click on cancel."
+ }
+}

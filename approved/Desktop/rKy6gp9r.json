@@ -1,0 +1,16 @@
+{
+ "id": "58fab3fea23f0e402adb7483",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 540,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rKy6gp9r",
+ "data": {
+  "system_settings": ">: macOS 10.12.4, Discord Canary latest",
+  "actual_result": "An unsaved changes popup appears",
+  "expected_result": "No unsaved changes popup appears",
+  "short_description": "Holding left click on a role and moving it a little but not out of order will prompt you that you have unsaved changes",
+  "steps_to_repro": "- Open server settings - Move role a little bit but not out of order "
+ }
+}

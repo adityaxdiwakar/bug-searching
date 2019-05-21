@@ -1,0 +1,17 @@
+{
+ "id": "5afa1d5de80545862b2cb93b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1986,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9gLHc3XF",
+ "data": {
+  "system_settings": "Windows 10 Home x64 v1803",
+  "client_settings": "Canary 15223",
+  "actual_result": "these features do not work; they just make the client focus the message bar",
+  "expected_result": "These essential features work",
+  "short_description": "Any text field that is on screen at the same time as the message field (except quickswitcher) causes client to focus message field",
+  "steps_to_repro": "- List of broken things: - Edit Message - Search - Notes in miniprofile - Quick DM in miniprofile - Unfocusing message field to scroll up and down messages/users using up_arrow or down_arrow - Emoji search via emoji picker - To reproduce, choose any of the broken things and try to type in it"
+ }
+}

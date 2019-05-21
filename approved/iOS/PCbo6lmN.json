@@ -1,0 +1,16 @@
+{
+ "id": "58b14aef3d7dbdf598be5c5a",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 196,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PCbo6lmN",
+ "data": {
+  "system_settings": " iPhone 5s, iOS 9.3.3, TestFlight 70",
+  "actual_result": "Nothing shows up",
+  "expected_result": "A string between colons appears",
+  "short_description": "Words Between Colons That Are Not Emotes Don't Appear",
+  "steps_to_repro": "- Write a string between colons that is not a custom emote or an emote of any sorts (like :thisisateststring: ) "
+ }
+}

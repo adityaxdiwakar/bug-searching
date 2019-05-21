@@ -1,0 +1,30 @@
+{
+ "id": "5ab9e9a10a7fba3983d18de2",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1763,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oGarMfNV",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary 12608",
+  "actual_result": "Discord still shows you as streaming on both the member list and your profile",
+  "expected_result": "Ending the stream should take away streaming status",
+  "short_description": "Streaming status still shows after ending a stream",
+  "steps_to_repro": "- start streaming (i used obs for this) - stream for any amount of time - end the stream after a little while (i streamed for almost three hours but the amount of time should not matter) - look at your status in the member list and your profile"
+ }
+}

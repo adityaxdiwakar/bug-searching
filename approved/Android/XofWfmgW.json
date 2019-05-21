@@ -1,0 +1,17 @@
+{
+ "id": "5ab5a3d690812d5ab2249cbe",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1223,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XofWfmgW",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.2",
+  "actual_result": "Your presence switches gray, but you're still in member list",
+  "expected_result": "You should disappear from member list since offline users aren't shown",
+  "short_description": "You are still hoisted in the member list after switching to Invisible",
+  "steps_to_repro": "- Be online, idle, or dnd - Switch to a server with > 100 members - Go invisible"
+ }
+}

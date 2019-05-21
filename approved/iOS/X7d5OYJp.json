@@ -1,0 +1,15 @@
+{
+ "id": "5840a492f1646e18ccae362a",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 98,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/X7d5OYJp",
+ "data": {
+  "actual_result": "It appears as black text instead",
+  "expected_result": "The link preview is properly formatted",
+  "short_description": "Link previews display as black rather than being properly formatted",
+  "steps_to_repro": "- Find a channel with embed links enabled - Post link that includes the start of an article - Profit??? "
+ }
+}

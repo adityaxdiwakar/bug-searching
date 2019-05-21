@@ -1,0 +1,24 @@
+{
+ "id": "5b58433f40234abbdf7c37b7",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2430,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gO8qnVLh",
+ "data": {
+  "system_settings": "iOS 12 Developer Beta 4, but I also observed it on Windows 10 Home 1803 x64",
+  "client_settings": "New Developer Portal Website",
+  "actual_result": "An error occurs",
+  "expected_result": "You should see the details about your application",
+  "short_description": "[Website Bug] Opening an application in new tab causes error",
+  "steps_to_repro": "- Open Developers Page - Right Click/3D Touch and open in new tab - Observe"
+ }
+}

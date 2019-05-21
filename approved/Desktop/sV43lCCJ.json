@@ -1,0 +1,30 @@
+{
+ "id": "5aca9186ebb1a9178a2892b2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1810,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sV43lCCJ",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Stable, Build: 13315",
+  "actual_result": "Invite tab is producing sound lag for a while",
+  "expected_result": "Invite tab must not produce sound lag",
+  "short_description": "Income sounds (also music) from voice channel gets a laggy for a while when you are opening invite link",
+  "steps_to_repro": "- Have Discord Desktop app - Be in voice channel (Better with music played by bot to see clearly) - In broswer open any link where contain invite link - Notice some lag for a short time when Discord shows you an invite tab"
+ }
+}

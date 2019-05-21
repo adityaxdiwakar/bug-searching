@@ -1,0 +1,30 @@
+{
+ "id": "5bcba05a210a5d1ccfe3d39d",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3250,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WmbH4HZ6",
+ "data": {
+  "system_settings": "Windows 10 Home 64bit",
+  "client_settings": "Canary 26581",
+  "actual_result": "After trying to select your Paypal account, the window closes, and your credit card is still selected",
+  "expected_result": "You should be able to select your Paypal account",
+  "short_description": "Trying to select PayPal to resubscribe to Nitro causes the selection popup to close without actually selecting your Paypal account",
+  "steps_to_repro": "- Have Discord Nitro bought with a credit card, with your subscription still running (Yearly in my case) - Have a Paypal account added through the \"Billing\" tab in settings - Head over to the Discord Nitro tab - Click on the \"Pay For It With\" selection - Try to select your Paypal account"
+ }
+}

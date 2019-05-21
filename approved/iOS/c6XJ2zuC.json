@@ -1,0 +1,30 @@
+{
+ "id": "5a8f4935d14960b59c2b6b04",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 601,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c6XJ2zuC",
+ "data": {
+  "system_settings": "iPhone 7 Plus, iOS 11.3 Public Beta (Should also happen with iOS 11.2.5)",
+  "client_settings": "2.2.4",
+  "actual_result": "The chat will be like \"half slided\" to the left again.",
+  "expected_result": "The chat should be still slided to the right",
+  "short_description": "Apple Maps changes the chat's position",
+  "steps_to_repro": "- Go to Apple Maps - Start a new route  - Go to your home screen - Open Discord  - Slide your chat to the right - Go to your home screen again (without closing Discord) - Go back to Discord"
+ }
+}

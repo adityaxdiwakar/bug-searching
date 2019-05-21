@@ -1,0 +1,17 @@
+{
+ "id": "5b918f66bdd7fb212cd2092a",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 974,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2pjPmE0C",
+ "data": {
+  "system_settings": "iPhone 6s iOS 11.4.1",
+  "client_settings": "TF 2.3.8 (7049)",
+  "actual_result": "Icon is on the top right",
+  "expected_result": "Icon is on the group dm avatar",
+  "short_description": "New add image icon in dm chats is on the top right",
+  "steps_to_repro": "- Open any group dm settings  - Observe the location of the add image icon"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b5d01e1e7c31ed79ce5e3f0",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2478,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/a5y9cFUg",
+ "data": {
+  "system_settings": "OS: Ubuntu 18.04.1 LTS x86_64",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 20174",
+  "actual_result": "The user is stuck in the middle of the chat and stuck there until the user sends a message.",
+  "expected_result": "The user should be brought to the latest message from the channel no matter what.",
+  "short_description": "Right click on unread chat and press mark as read will not bring you to the bottom of the chat",
+  "steps_to_repro": "- Open Discord - Go to a Discord server that has a lot of notifications - While you're in the server that has unread messages, right click one of the unread channels and press mark as read, you'll notice that when you left click on that chat, you won't be taken to the bottom of the chat"
+ }
+}

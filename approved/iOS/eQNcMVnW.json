@@ -1,0 +1,24 @@
+{
+ "id": "5abdd00718592ac4a80e13c9",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 654,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eQNcMVnW",
+ "data": {
+  "system_settings": "iPhone 8 +, iOS 11.3 PB6.",
+  "client_settings": "iOS TestFlight 2.2.7 (3519).",
+  "actual_result": "Image Uploader Bar overlaps unread message bar.",
+  "expected_result": "Both Image Uploader and Unread Message Bars are separate.",
+  "short_description": "Image Uploader Bar overlaps Unread Message Bar.",
+  "steps_to_repro": "- Go to a text channel with many unread messages. - Upload an image to the said channel. - Screenshot as the image is uploading. - View the screenshot and zoom in to see how they overlap."
+ }
+}

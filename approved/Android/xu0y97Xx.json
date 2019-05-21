@@ -1,0 +1,30 @@
+{
+ "id": "59a30875fb11de1ce25bcbea",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 665,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xu0y97Xx",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.1.1 (506)",
+  "actual_result": "You cannot choose a channel after closing and reopening the selection menus a few times",
+  "expected_result": "You should be able to choose a channel no matter how many times you open and close the menus",
+  "short_description": "Selection menus for new member and AFK channels disappear after closing and reopening them a few times",
+  "steps_to_repro": "- Go to a server you have the Manage Server permission for - Go to Server Settings > Overview - Open and close the selection menu for the new member or AFK channels without actually selecting anything - Notice that you are unable to choose any channels after repeating the action a few times"
+ }
+}

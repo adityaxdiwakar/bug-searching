@@ -1,0 +1,22 @@
+{
+ "id": "585ed319408a90c54cfb4f02",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 277,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7vwiOVEp",
+ "data": {
+  "actual_result": "The chat jumps down by a seemingly random amount.",
+  "expected_result": "The chat window does not jump down.",
+  "short_description": "Adding or deleting a reaction on a message out of view causes the chat window to jump down by a varied amount if a new message is sent.",
+  "steps_to_repro": "- Scroll up to a message that's out of view (message history). - Have another user send a message while you are viewing the message history. - Try adding or removing your reaction from a message in the message history. "
+ }
+}

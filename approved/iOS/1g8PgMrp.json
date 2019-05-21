@@ -1,0 +1,17 @@
+{
+ "id": "5aec94b4577054e650aa5272",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 717,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1g8PgMrp",
+ "data": {
+  "system_settings": "iPhone 10, iOS 11.3.0",
+  "client_settings": "Testflight 2.3.1",
+  "actual_result": "The report and pin message buttons appear with the delete message button",
+  "expected_result": "It should have delete message only",
+  "short_description": "When changing your nickname, you are given the option to pin the message",
+  "steps_to_repro": "- Change your nickname in a server you have permission to pin messages with /nick - Hold down on the message and the pin option shows"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "59935c5c395611d6289fb317",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 288,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QuMCc64j",
+ "data": {
+  "system_settings": "iPhone 5S, iOS 9.3.2",
+  "client_settings": "1.8.9 Testflight",
+  "actual_result": "Image gets stuck mid-way through the screen",
+  "expected_result": "The image would either swipe back up covering the full screen or swipe down showing regular chat",
+  "short_description": "Image gets stuck if held there until fully loaded",
+  "steps_to_repro": "- Tap on an unloaded image - Swipe partially down so that the image is still showing and loading but not taking up the full screen - Hold it there until it loads 100% - Let go of the screen"
+ }
+}

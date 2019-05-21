@@ -1,0 +1,17 @@
+{
+ "id": "5ab61d3a8b3d957afda700fe",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1225,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hGtuJ7cO",
+ "data": {
+  "system_settings": "Moto G5 Plus, Android 7.0, security patch Jan 1, 2018",
+  "client_settings": "6.3.4",
+  "actual_result": "Discord froze upon attempting to scroll past the unusual post, prompting the Android \"App not responding\" error handling menu to pop up. Waiting did not resolve this and the app had to be force-closed. As I am an admin on this server I then accessed the channel from the desktop app, found the point where I could not scroll past on Android, and deleted the message. This fixed the issue.",
+  "expected_result": "Scrolling thru past posts should not freeze the app.",
+  "short_description": "User post that was a very long string of \"S.S.S.S.S.\" caused the app to freeze when I attempted to scroll thru the channel it was posted in.",
+  "steps_to_repro": "- User posts a message consisting of hundreds of repetitions of \"S.\" with no spaces. - Navigate to that channel after the message has been pushed off-screen by later messages. - Attempt to scroll up thru past messages in that channel. - Alternatively, while the post is off-screen, jump to a time-point before the unusual post in that channel by jumping to a pinned post. - Attempt to scroll down thru newer posts to the present."
+ }
+}

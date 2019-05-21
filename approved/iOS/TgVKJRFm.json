@@ -1,0 +1,17 @@
+{
+ "id": "5b7165b9d1dfbe4db497c39b",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 900,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/TgVKJRFm",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 5",
+  "client_settings": "TestFlight 2.3.6 (6095)",
+  "actual_result": "Emoji drawer pops in and out, leaving a blank drawer when disappearing",
+  "expected_result": "Emoji drawer slides in and out",
+  "short_description": "Emoji drawer pops in and out when on poor connection, causing a blank emoji drawer when you delete text",
+  "steps_to_repro": "- Make sure you are on poor connection (easy to tell if your connection is poor enough when emoji drawer doesn't slide in) - Start typing an emoji - After typing part of the emoji, wait for the drawer to pop up and observe the motion - After the drawer pops up delete all the typed text and observe the emoji drawer as it disappears"
+ }
+}

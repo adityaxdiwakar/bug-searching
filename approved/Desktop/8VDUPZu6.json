@@ -1,0 +1,30 @@
+{
+ "id": "5b2b06f89a64c92908b130d8",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2160,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8VDUPZu6",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Canary Build 17413",
+  "actual_result": "Names are not displayed.",
+  "expected_result": "Names for sounds are displayed",
+  "short_description": "Sound names do not show up under notification settings [Light theme]",
+  "steps_to_repro": "- Use Light mode - Click user settings - Click Notifications under App Settings  - Scroll down"
+ }
+}

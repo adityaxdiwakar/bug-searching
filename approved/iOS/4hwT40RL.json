@@ -1,0 +1,17 @@
+{
+ "id": "5bd75133ccc5f03f1fe20686",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1130,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4hwT40RL",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8667)",
+  "actual_result": "The second line is slightly indented more to the right than the first line",
+  "expected_result": "Both lines start at the same spot like on desktop",
+  "short_description": "Actions that have a second line in the audit log (giving roles, granting permissions) aren't lined up",
+  "steps_to_repro": "- Go to a server where you can view the audit log and either manage channels or roles - Add a role to a user, or edit channel overrides, anything that will show a subaction in the audit log - Go into the audit log and expand that entry - Observe the beginning of the action line, and the beginning of the action information line (what action was done, and the specific info for the action)"
+ }
+}

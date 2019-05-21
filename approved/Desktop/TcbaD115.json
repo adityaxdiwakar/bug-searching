@@ -1,0 +1,15 @@
+{
+ "id": "585d145bfe7add870e669218",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 269,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/TcbaD115",
+ "data": {
+  "actual_result": "The button goes white until you release hold.",
+  "expected_result": "Nothing happens",
+  "short_description": "Visual bug when holding and dragging the upload button",
+  "steps_to_repro": "- Go to a channel where you have upload permissions - Hold and drag the upload  button. "
+ }
+}

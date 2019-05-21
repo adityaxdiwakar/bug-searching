@@ -1,0 +1,17 @@
+{
+ "id": "5bf76ef994d4118cdde73712",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1168,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FcdnoQJL",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "Popup has extra padding at the top",
+  "expected_result": "Popup does not have extra padding at the top",
+  "short_description": "Data request confirmation popup has extra padding at the top",
+  "steps_to_repro": "- Request a data package in settings > privacy - Observe the popup confirming your request"
+ }
+}

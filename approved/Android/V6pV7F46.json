@@ -1,0 +1,22 @@
+{
+ "id": "584a0b2b058b7a3686ff6f67",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 131,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/V6pV7F46",
+ "data": {
+  "actual_result": "It shows 50+ new messages.",
+  "expected_result": "The amount of new message is shown.",
+  "short_description": "When entering a channel with a new message then deleted, will say 50 new messages.",
+  "steps_to_repro": "- Have there be new messages in a channel. - Have one of those new messages be deleted without marking them as read. "
+ }
+}

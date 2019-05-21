@@ -1,0 +1,30 @@
+{
+ "id": "5b62f1ff8189d8e42dd0f6b3",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 2604,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Zh4jtbgO",
+ "data": {
+  "system_settings": "Windows 10 Home SL 1803 x64",
+  "client_settings": "Canary 20535",
+  "actual_result": "some colored roles does not apply.",
+  "expected_result": "colored roles should apply normally",
+  "short_description": "some colored roles doesn't apply correctly in overlay.",
+  "steps_to_repro": "- remember the user's color in the actual client before proceeding. open overlay from your game - go to a random server. investigate the user's color - repeat it with another server if you cant reproduce in the first server. it just shows as random."
+ }
+}

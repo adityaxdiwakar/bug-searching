@@ -1,0 +1,30 @@
+{
+ "id": "5a883cab2c6ef61668f115f4",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1126,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UkmTntan",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.2.6",
+  "actual_result": "It's always in English",
+  "expected_result": "The \"send\" toast should be translated",
+  "short_description": "The \"send\" toast is always in English regardless of the language you've selected",
+  "steps_to_repro": "- Switch to any non English language - Type a message in the text field and long press the send button. That might be hard as it might open the member list instead."
+ }
+}

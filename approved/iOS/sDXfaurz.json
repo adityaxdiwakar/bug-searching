@@ -1,0 +1,17 @@
+{
+ "id": "5b06c9709461e8e4d7333d25",
+ "closed": true,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 768,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sDXfaurz",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 10.2.1",
+  "client_settings": "TestFlight 2.3.2 (4694)",
+  "actual_result": "The link instantly opens while you're swiping.",
+  "expected_result": "Link only opens if I press and release the link. The left or right menus open normally.",
+  "short_description": "Swiping to open lists while touching on a link instantly opens that link. Maybe iOS 10 only.",
+  "steps_to_repro": "- Scroll to a message with a link. - Swipe left or right to try to open the members or channels list, with the starting touch on the link. - Don't let go."
+ }
+}

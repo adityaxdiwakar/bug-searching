@@ -1,0 +1,15 @@
+{
+ "id": "584214ac7d2c68a181423ae6",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 197,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ND1X16HM",
+ "data": {
+  "actual_result": "Crash and be the only one showing up.  (reported by Robin#0052)",
+  "expected_result": "No crash and see memembers.",
+  "short_description": "changing regions on group dm, the client crashes and the group dm disappears until someone sends a message. it'll only show you as a member",
+  "steps_to_repro": "- change region - relog into discord. "
+ }
+}

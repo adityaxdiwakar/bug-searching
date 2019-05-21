@@ -1,0 +1,24 @@
+{
+ "id": "5a63cd71a163c54489c845c2",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 530,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tHwm1Le1",
+ "data": {
+  "system_settings": "iPhone 6s, 11.2.2",
+  "client_settings": "TestFlight 2.2.1 (2224)",
+  "actual_result": "App crashes",
+  "expected_result": "Opens the notification settings menu",
+  "short_description": "App crashes when going to Notification Setting for a channel",
+  "steps_to_repro": "- Go to any server text channel - Open channel settings - Tap Notification Settings"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "598cfb75d620042878d3f4a3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 969,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3BapbjHs",
+ "data": {
+  "system_settings": "Archlinux",
+  "client_settings": "Web client",
+  "actual_result": "User can see infos they should maybe not be notified about, and can jump to a channel they cannot access (they can't actually send / see messages posted there, but can see the userlist)",
+  "expected_result": "User should at least not be able to jump to the channel, and maybe not be able to see audit log's infos about channels they aren't part of?",
+  "short_description": "Audit log can show infos about, and allows to jump to, a channel the user may not have access to",
+  "steps_to_repro": "- On a non-admin user, get audit log access - Make a channel said user doesn't have access to - As said user, on the audit log, open an entry mentionning the channel they cannot see, right-click on the channel name, click \"Jump to channel\""
+ }
+}

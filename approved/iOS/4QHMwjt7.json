@@ -1,0 +1,24 @@
+{
+ "id": "59e7c5b08a5b89459682d92f",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 376,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4QHMwjt7",
+ "data": {
+  "system_settings": "iPhone 5s, iOS 11.0.3,",
+  "client_settings": "TestFlight 1.9.3 (1165)",
+  "actual_result": "The text isn\u2019t hooked to the top",
+  "expected_result": "The text is hooked to the top",
+  "short_description": "Emojis category text not hooked to the top",
+  "steps_to_repro": "- Go in a text channel - Hold a message - Click on **Add reaction** - Scroll down - Observe the category text"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b5cbcc30a62a59292d667d7",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2474,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SBFRjZ35",
+ "data": {
+  "system_settings": "Windows 10 Home Edition x64",
+  "client_settings": "Canary build 20174",
+  "actual_result": "The profile doesn't close until you click away from it.",
+  "expected_result": "The profile should close like it does on the members list.",
+  "short_description": "The mini user profile doesn't close when scrolling in chat",
+  "steps_to_repro": "- Click on any user's username in chat to open their mini-profile. - Scroll through the chat (up or down)."
+ }
+}

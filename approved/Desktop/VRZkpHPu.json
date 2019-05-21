@@ -1,0 +1,22 @@
+{
+ "id": "587ee78599984cef34425f5a",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 336,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VRZkpHPu",
+ "data": {
+  "actual_result": "More then 50 emotes",
+  "expected_result": "stops at 50.",
+  "short_description": "Add more emotes past the 50 upload limit.",
+  "steps_to_repro": "- highlight more then 50 emotes, (i did 127) - upload them to discord via discord emote page. - see negitive # here (ill show in screenshot. "
+ }
+}

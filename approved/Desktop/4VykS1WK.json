@@ -1,0 +1,15 @@
+{
+ "id": "581c79207a71c61c0f037272",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 115,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4VykS1WK",
+ "data": {
+  "actual_result": "the reactions tab is still there.",
+  "expected_result": "The reactions tab doesn't show up.",
+  "short_description": "Even when having reactions disabled in the menu the reaction tab in message settings still shows up.",
+  "steps_to_repro": "-  Disable reactions in the menu - Right click on a message with reactions on it. "
+ }
+}

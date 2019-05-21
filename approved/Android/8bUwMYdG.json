@@ -1,0 +1,30 @@
+{
+ "id": "5ab1e777ff3bb934cfc276e4",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1217,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8bUwMYdG",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.3.8",
+  "actual_result": "No such option is present so you can't edit them. Note that it's the same for regular channels but you can still access channel settings via the 3 dots menu",
+  "expected_result": "A \"Category settings\" option should be available to let you edit permission overrides for the category",
+  "short_description": "Users with Manage Roles but without Manage Channels cannot edit permission overrides for categories",
+  "steps_to_repro": "- Be in a server with Manage Roles but NOT Manage Channels - long-press a category"
+ }
+}

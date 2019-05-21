@@ -1,0 +1,30 @@
+{
+ "id": "5aedf547b63df3c44718dc4e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1377,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hNqd2dfZ",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.6.1",
+  "actual_result": "You won't see changes unless you click on voice channel to open it.",
+  "expected_result": "You should be able to see the changes they have made right from the left panel",
+  "short_description": "Can't see if a user had muted/unmuted or deafen/undeafen unless you click on vc tab to refresh.",
+  "steps_to_repro": "- Join a voice channel with anyone. - Ask them to either mute/unmute or deafen/undeafen. - Notice the change"
+ }
+}

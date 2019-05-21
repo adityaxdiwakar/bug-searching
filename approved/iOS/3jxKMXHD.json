@@ -1,0 +1,30 @@
+{
+ "id": "5b5b31c093c9bf705d12e655",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 853,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3jxKMXHD",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.0",
+  "client_settings": "TestFlight 2.3.6 (6059)",
+  "actual_result": "Sometimes you need to tap twice",
+  "expected_result": "Should be tappable with one tap",
+  "short_description": "Sometimes you aren't able to tap people in the voice channel with one tap [Might be in a certain area]",
+  "steps_to_repro": "- Join a voice channel - Open the voice channel drawer from the bottom - Start to tap yourself and try it repetitively - Observe how in certain areas you aren't able to tap on yourself with one tap"
+ }
+}

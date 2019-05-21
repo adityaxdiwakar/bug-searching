@@ -1,0 +1,30 @@
+{
+ "id": "59f6ff4daa3dee07938f42c9",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 404,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sQLJpunG",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.0.3 & iPad Air 2 with iOS 11.1 PB 5",
+  "client_settings": "TestFlight 1.9.3 (1340)",
+  "actual_result": "When switching to other channel, the unread message indicator next to the channel name still persists. Only way to fix is to scroll to the bottom in this chat.",
+  "expected_result": "When opening the channel with the new messages, the channel should automatically be marked as read.",
+  "short_description": "Channel won't get marked as read instantly when the new messages are just deleted messages",
+  "steps_to_repro": "- With one account write at least 2 messages in any channel (make sure channel isn't muted for you) and delete all this sent messages - With other account go to this channel with the new messages that are just deleted messages - Switch to other channel in this server"
+ }
+}

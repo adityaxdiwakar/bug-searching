@@ -1,0 +1,30 @@
+{
+ "id": "5be75058641a112898be73a6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2304,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JVtG6gvN",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord alpha 7.8.8",
+  "actual_result": "You are led to some random scrolling spot.",
+  "expected_result": "You should be led to the top of the list, since you never touched your old filter.",
+  "short_description": "When you change filters, scroll down and go back to your old filter, the old filter appears at a random scrolling spot.",
+  "steps_to_repro": "- Go to audit logs. - Select \"Filter by Actions\", and select a filter that has enough results for you to scroll down. - Once you selected that, and the results appear, scroll down a bit. - Then, go back to your old filter (mine was just \"all actions\"). - Observe where it leads you when you go back."
+ }
+}

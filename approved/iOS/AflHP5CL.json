@@ -1,0 +1,17 @@
+{
+ "id": "5b9ac53dd224d3720427a9a2",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 1002,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AflHP5CL",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12",
+  "client_settings": "TestFlight 2.3.8 (7167)",
+  "actual_result": "Emoji picker opens then switches to the keyboard",
+  "expected_result": "Emoji picker opens",
+  "short_description": "Tapping on the emoji picker button opens alphabet keyboard instead",
+  "steps_to_repro": "- Go to a channel - Tap on the emoji picker button"
+ }
+}

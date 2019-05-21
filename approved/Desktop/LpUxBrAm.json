@@ -1,0 +1,30 @@
+{
+ "id": "5b8177e6e038380f58f1da54",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2802,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LpUxBrAm",
+ "data": {
+  "system_settings": "Windows 7 Ultimate 64bit",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 22333, Version Hash: 76f317c0de4b335c5f692213a60f2fe4d1679c4e",
+  "actual_result": ", one_two wont show up until you search for the whole thing. Could be the same for other characters.",
+  "expected_result": "Every composite word should be found when searching for \"one\" or \"two\"",
+  "short_description": "During search some non-alphabetic characters aren't considered to separate words, but link them to one together",
+  "steps_to_repro": "- Post composite words one-two one_two  one+two one~two one(two)"
+ }
+}

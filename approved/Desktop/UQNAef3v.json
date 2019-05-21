@@ -1,0 +1,17 @@
+{
+ "id": "5c324edbba3ff27236ab1f63",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 3575,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/UQNAef3v",
+ "data": {
+  "system_settings": "Macbook Air, macOS Mojave 10.14, Firefox 63.0.3",
+  "client_settings": "Canary 30441",
+  "actual_result": "Selection is almost invisible",
+  "expected_result": "The color is visible and you can see which is selected",
+  "short_description": "[Website] Linux download dropdown menu has almost invisible hover selection color",
+  "steps_to_repro": "- Go to /download - Select Linux - Click the drop-down menu - Hover over both options - Observe the color of selection"
+ }
+}

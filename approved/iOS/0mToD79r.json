@@ -1,0 +1,17 @@
+{
+ "id": "5bb30e4d87b5d132859126ff",
+ "closed": false,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 1046,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0mToD79r",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 12.1 Beta (16B5059d)",
+  "client_settings": "TestFlight 2.3.9 (7731)",
+  "actual_result": "The string actually says \"Slow mode is off.\" despite it being styled as \"slowmode\" everywhere else.",
+  "expected_result": "The string should say \"Slowmode is off.\"",
+  "short_description": "Slowmode is stylized as \"slow mode\" in the Channel Settings",
+  "steps_to_repro": "- Have access to manage a channel. - Enter the channel's settings. - Turn slowmode off if it is on."
+ }
+}

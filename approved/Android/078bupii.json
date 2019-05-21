@@ -1,0 +1,30 @@
+{
+ "id": "5b3433c72a169c0b82b6d732",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1611,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/078bupii",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Edge Android 7.0",
+  "client_settings": "Discord Beta 6.9.7",
+  "actual_result": "you can see all vc(s), including ones hidden from you. Additionally, if the vc does not specifically deny you or a role you are in from connecting, you may join the vc, as well as move others into it",
+  "expected_result": "you should only see the vc(s) that you have access to",
+  "short_description": "Short description: able to see and join hidden vcs",
+  "steps_to_repro": "- Be in a server with \"move members\" permission along with one vc you can join and one that is hidden from you- Join a vc - Long press yourself in the vc and attempt to move yourself to another vc"
+ }
+}

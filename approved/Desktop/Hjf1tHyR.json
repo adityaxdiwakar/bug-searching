@@ -1,0 +1,30 @@
+{
+ "id": "5b2b843bb4e8c29d5ff60ccb",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2165,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Hjf1tHyR",
+ "data": {
+  "system_settings": "macOS 10.13.4",
+  "client_settings": "PTB 17419",
+  "actual_result": "No borders around status icons",
+  "expected_result": "Borders around status icons like everywhere else on Discord",
+  "short_description": "Mention list status icons don't have borders (A11y)",
+  "steps_to_repro": "- Type \"@\" in text box to bring up mention list - Observe"
+ }
+}

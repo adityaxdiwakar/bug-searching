@@ -1,0 +1,15 @@
+{
+ "id": "582de841516da13b93123a9b",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 154,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ys7RbYFz",
+ "data": {
+  "actual_result": "Upload status bar persists, no way to remove it unless you restart discord. Reported for <@217661605603835904>",
+  "expected_result": "Discord must tell you that file could not be uploaded.",
+  "short_description": "File uploading bar persists even if upload has failed",
+  "steps_to_repro": "- Disconnect from internet. - Upload it in a text channel. -Re-connect to internet. "
+ }
+}

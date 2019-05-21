@@ -1,0 +1,17 @@
+{
+ "id": "5ae643e38dcf27567034d635",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1343,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ENfR8y1e",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.5.9",
+  "actual_result": "In the first case the toast is dark with white text and in second case it's white with black text",
+  "expected_result": "They should be exactly the same",
+  "short_description": "Toast isn't the same color between case where friend request input is invalid and case where user hasn't been found",
+  "steps_to_repro": "- Go to Friends tab - Tap Add a Friend icon - Input random characters and submit - Observe toast - Now input a username that doesn't exist but is in valid format (e.g `user#0000`) - Observe toast again"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "582a5a938beea17275035acc",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 144,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ONj9anRK",
+ "data": {
+  "actual_result": "new mentions indicator",
+  "expected_result": "no mention indicator",
+  "short_description": "new mentions indicator appears when there were never any mentions",
+  "steps_to_repro": "- scroll up/down (i'm not sure how to reproduce this) - "
+ }
+}

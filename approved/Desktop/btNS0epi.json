@@ -1,0 +1,17 @@
+{
+ "id": "597a6c29a3e23386bb037c8c",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 905,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/btNS0epi",
+ "data": {
+  "system_settings": "Windows 10 Home",
+  "client_settings": "Discord Canary 0.0.161",
+  "actual_result": "The link has gone back to 'default'",
+  "expected_result": "Link should still be permanent its all good",
+  "short_description": "Permanent Invite link changing itself",
+  "steps_to_repro": "- Set the link on your Discord server to never expire - Wait 30mins to 1 hour - Click 'invite people'"
+ }
+}

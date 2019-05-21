@@ -1,0 +1,29 @@
+{
+ "id": "589c182c06b9b2cf45f49011",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 181,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Q9dmcIFd",
+ "data": {
+  "system_settings": " iphone 6, latest discord testflight, latest ios",
+  "actual_result": "no results",
+  "expected_result": "results show",
+  "short_description": "Searching for an emoji leads to no results",
+  "steps_to_repro": "- type an emoji in a channel or join a channel where you know a certain emoji was been typed - click search - type the actual emoji into the search bar (not using : : form) "
+ }
+}

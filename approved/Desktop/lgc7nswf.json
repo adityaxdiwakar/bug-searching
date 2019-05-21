@@ -1,0 +1,15 @@
+{
+ "id": "586548e787e0162028590823",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 297,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/lgc7nswf",
+ "data": {
+  "actual_result": "Roles shown as `@deleted-role`",
+  "expected_result": "Role mentions appear as links",
+  "short_description": "Role mentions dont work in embeds",
+  "steps_to_repro": "- Watch them not work? "
+ }
+}

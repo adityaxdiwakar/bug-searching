@@ -1,0 +1,16 @@
+{
+ "id": "58f8f010a6b0f42f65434ae3",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 515,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nUMkJNIi",
+ "data": {
+  "system_settings": " Win10 x64 & Latest Canary",
+  "actual_result": "The box doesn't go away, and clicking \"Save Changes\" does not work.",
+  "expected_result": "The \"You Have Unsaved Changes\" box should dismiss itself when you switch back",
+  "short_description": "Manually reverting changes doesnt dismiss \"unsaved changes\" box",
+  "steps_to_repro": "- Go to the Overview tab in server settings - Change the default notification to a different value - Change it back to what you previously had "
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58888000b5a08ba8416e2b64",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 190,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/MAF2BI7c",
+ "data": {
+  "system_settings": " Android 5.1, Discord Alpha v3.2.7",
+  "actual_result": "No autofill feature pops up",
+  "expected_result": "A list of emotes with that name should appear",
+  "short_description": "Emote autofill suggestions will not appear with an @ everyone tag in the message",
+  "steps_to_repro": "- Type `<@&259909937403133953>` - Type part of an emote, but don't finish it "
+ }
+}

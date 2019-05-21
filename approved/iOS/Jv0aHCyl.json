@@ -1,0 +1,36 @@
+{
+ "id": "59987bc380982b3d15d8cb3c",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 293,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Jv0aHCyl",
+ "data": {
+  "system_settings": "iPhone 5s iOS 10.3.1",
+  "client_settings": "1.8.9(83)",
+  "actual_result": "Instead of pressing the member icon and using the gesture,It shows a loading icon then shows the list. Doing it multiple times results in a longer loading icon.",
+  "expected_result": "Instant server member/online list",
+  "short_description": "Loading icon bug on member/online screen. Using the gesture to open it shows a loading icon for a while, but pressing the icon shows it instantly",
+  "steps_to_repro": "- Use swipe left gesture"
+ }
+}

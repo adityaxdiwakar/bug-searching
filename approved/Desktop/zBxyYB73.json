@@ -1,0 +1,30 @@
+{
+ "id": "5b7b353b3bfc71783fc9219f",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2751,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zBxyYB73",
+ "data": {
+  "system_settings": "OS X El Capitan Version 10.11.6",
+  "client_settings": "Build Number: 22189, Version Hash: 81cb192b333eeafe2e866b97813a98b23a3b7931",
+  "actual_result": "The channel has to be manually cleared by clicking on \"Mark as Read\"",
+  "expected_result": "Messages should automatically clear when scrolling to the last message of a channel",
+  "short_description": "Reading / scrolling to the bottom of a channel no longer automatically clears the channel as \"read\"",
+  "steps_to_repro": "- on a MAC - with the latest version of Chrome causes this to occur"
+ }
+}

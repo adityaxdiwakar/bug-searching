@@ -1,0 +1,36 @@
+{
+ "id": "5a84b100d96bc7d247f2225f",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 588,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BoFJojCQ",
+ "data": {
+  "system_settings": "iPhone X, iOS 11.2.5",
+  "client_settings": "TestFlight 2.2.3 (2617)",
+  "actual_result": "The member list remains open and goes blank, with the DM loaded on the side",
+  "expected_result": "The member list should close and you should be shown the DM screen",
+  "short_description": "Server member list remains open when sending a DM",
+  "steps_to_repro": "- Open the members list of any server - Tap on any user - Tap 'Send Message'"
+ }
+}

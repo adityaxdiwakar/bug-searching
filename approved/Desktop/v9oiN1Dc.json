@@ -1,0 +1,30 @@
+{
+ "id": "5b60cddd3272e781c63a372b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2545,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/v9oiN1Dc",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 20373",
+  "actual_result": "Their name text is grey",
+  "expected_result": "Their name text should be white for easier visibility on Dark Theme",
+  "short_description": "Recent Mentions & Pinned Messages name is grey on Dark Theme",
+  "steps_to_repro": "- Open your Recent Messages or Pinned Messages in a server - Observe the name at the top"
+ }
+}

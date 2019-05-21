@@ -1,0 +1,16 @@
+{
+ "id": "58ed15378645249fc4de98a0",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 341,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/J0BiTJ1m",
+ "data": {
+  "system_settings": " Android 6.0.1 Discord Alpha 3.6.0",
+  "actual_result": "Redirected to the channel where we opened the notification",
+  "expected_result": "Be on another channel or server",
+  "short_description": "Redirected to the channel where we opened a notification",
+  "steps_to_repro": " - Open a notfication - try to change server or channel "
+ }
+}

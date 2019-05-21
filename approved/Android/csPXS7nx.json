@@ -1,0 +1,17 @@
+{
+ "id": "5ae75711ba93433ee9cbe67b",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1348,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/csPXS7nx",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.5.9",
+  "actual_result": "You may see duplicated search results as you scroll down deeper through the results",
+  "expected_result": "Search results should always appear once",
+  "short_description": "Some search results gets duplicated as you scroll down",
+  "steps_to_repro": "- Go to any server - Search for anything that produces a lot of results - Swipe up briefly and let it scroll down with a bit of inertia. Do it fast enough so it scrolls down enough to load more results (the scrollbar size should change), but not too fast so you don't see the loading icon - When it stops scrolling, take note of the timestamp of the topmost message in the visible area - Repeat step 3 - Repeat step 4: When it stops scrolling, take note of the timestamp of the topmost message in the visible area.  - Compare it with the timestamp you noted previously. The first times you should see nothing special - Continue repeating steps 3 and 4 until you see results that already occured earlier (noticeable with a jumpback in the message timestamps)"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59eedbf69e6cba8aeed7e9d5",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 839,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4gd5lrNA",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.4.4",
+  "actual_result": "Search results are erased and acts like if you wanted to make a new search",
+  "expected_result": "Search results should still display after rotating",
+  "short_description": "Rotating the screen erases search results",
+  "steps_to_repro": "- Tap the Search icon and search for anything as long as it displays at least 1 result - Rotate the screen"
+ }
+}

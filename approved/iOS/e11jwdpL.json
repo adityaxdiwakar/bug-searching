@@ -1,0 +1,24 @@
+{
+ "id": "5a6e7290f5704f3acbe2ea6c",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 547,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/e11jwdpL",
+ "data": {
+  "system_settings": "(iPad) iOS 11.2.5",
+  "client_settings": "Discord iOS 2.2.1",
+  "actual_result": "Server icon stays a circle",
+  "expected_result": "Server icon should change to a rounded square",
+  "short_description": "Server Icons Stay Circles When Opened Rather Than The Rounded Square",
+  "steps_to_repro": "- Open a server"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bf9cfa0cf9db11edf351844",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 3431,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ClyndB8A",
+ "data": {
+  "system_settings": "Windows 10 64x (1809)",
+  "client_settings": "Canary 28393",
+  "actual_result": "The Slider resets to 0%.",
+  "expected_result": "The Slider stays at the end (As it does when you go too far)",
+  "short_description": "[Overlay] Opacity Slider resets to 0% when you move your mouse a little over the end of the slider.",
+  "steps_to_repro": "- Open a game with Overlay - Open Overlay - Unpin chat - Open the Opacity option in the top right corner of chat - Move the slider to far right, and move a little off the slider area. (Too far and it won't work)"
+ }
+}

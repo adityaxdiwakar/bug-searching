@@ -1,0 +1,17 @@
+{
+ "id": "5afb290886a21ae16046cdfb",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1994,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RLfT6d2L",
+ "data": {
+  "system_settings": "Windows 10, Dell 64x",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 15268, Version Hash: 95844e2173933ff43d556f38545fd7824d95ab55",
+  "actual_result": "The letters will move out of the box to the left",
+  "expected_result": "Normally the letters of the server name needs to be in the middle of the logo",
+  "short_description": "Server logo text moved to the left in mutual server menu",
+  "steps_to_repro": "- Go to mutual friends at the profile of a friend - Make sure the friend is in a server without logo - Look at the logo of the server without logo in the mutual server list"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58ef5f30fe0c2f53964e60e7",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 363,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fXDK2U54",
+ "data": {
+  "system_settings": " Android 6.0 3.6.3",
+  "actual_result": "Avatar doesn't fade at all",
+  "expected_result": "Avatar hides when 1/8 of avatar is left shown",
+  "short_description": "Avatar doesn't fade out anymore when scrolling down",
+  "steps_to_repro": "- Open settings of any user (not you) - Scroll down until avatar is hidden - Scrolling up slowly shows Avatar didn't fade "
+ }
+}

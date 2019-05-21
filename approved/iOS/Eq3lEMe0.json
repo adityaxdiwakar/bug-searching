@@ -1,0 +1,16 @@
+{
+ "id": "58b1276b48d351b3cd69f9b8",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 194,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Eq3lEMe0",
+ "data": {
+  "system_settings": " Newest iOS Testflight, iOS 10.2.1",
+  "actual_result": "App crashes",
+  "expected_result": "The useless guild is gone!",
+  "short_description": "Deleting a guild (not leaving) causes crash",
+  "steps_to_repro": "- Create a new guild of any name - Navigate to delete the guild (Server Settings, Overview, Delete Server) "
+ }
+}

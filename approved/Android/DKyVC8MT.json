@@ -1,0 +1,30 @@
+{
+ "id": "5bdb5cc7bafd1a2e9321ca9f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2280,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DKyVC8MT",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.8.4",
+  "actual_result": "Discord flickers for a second when opening the app",
+  "expected_result": "Discord should open normally without any flickering",
+  "short_description": "reopening the app will cause it to flicker for a second if minimized while a gif is in full screen (can take 2-3 tries)",
+  "steps_to_repro": "- click on any gif to play it in full screen  - minimize the app by clicking on the home button - reopen the app from your recent apps  - notice how the screen flashes for a second"
+ }
+}

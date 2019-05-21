@@ -1,0 +1,30 @@
+{
+ "id": "5a64ee48e8f72ddef5b35634",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1571,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rKnBI84y",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Current stable 0.0.300",
+  "actual_result": "The \"Well, this is awkward Looks like Discord has crashed unexpectedly....\" message pops up and gives you the option to reload. After reloading i can't even enter the emoji tab, the crash message pops up immediately.",
+  "expected_result": "Upload an emoji as usual or edit existing ones",
+  "short_description": "Can't enter the emoji tab or upload an emoji while using Greek as Discord's language",
+  "steps_to_repro": "- Go to user settings and change the language to Greek - Go to server settings and click the Emoji menu/tab - Try uploading an Emoji"
+ }
+}

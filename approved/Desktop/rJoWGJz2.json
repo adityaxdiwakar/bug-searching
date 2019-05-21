@@ -1,0 +1,30 @@
+{
+ "id": "5ba9ae206a13c2499f3689c6",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3027,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rJoWGJz2",
+ "data": {
+  "system_settings": "Win 10 home x64.",
+  "client_settings": "Discord canary 24580.",
+  "actual_result": "The emote list gets cut off.",
+  "expected_result": "It should show the emote list.",
+  "short_description": "Emote list gets cut off",
+  "steps_to_repro": "- open overlay in a game. - open the emote picker in the chat by typing \":laugh\" or whatever emote. - observe."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ab3f541e05010f88fa4a1fa",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1220,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JFkTnETY",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.1",
+  "actual_result": "List refreshes. Note that *only* the user list refreshes, emote tabs and displayed count are still the same. So I don't think the client is trying to look for newest added reactions or something",
+  "expected_result": "List doesn't refresh",
+  "short_description": "User list in reactions refreshes when opening a user profile and going back",
+  "steps_to_repro": "- Find a message with reactions - Long press on it and open Reactions - Open a user profile in the list of people who reacted - Press Back button"
+ }
+}

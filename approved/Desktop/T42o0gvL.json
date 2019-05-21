@@ -1,0 +1,36 @@
+{
+ "id": "5988024911f78876a5070914",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 940,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/T42o0gvL",
+ "data": {
+  "system_settings": "MacOs Sierra Version 10.12.5 MacBook Air",
+  "client_settings": "Mac Discord Canary 0.0.154",
+  "actual_result": "It does not disconnect",
+  "expected_result": "It's supposed to diconnect",
+  "short_description": "Joining a voice channel with one wifi than connecting to another wifi makes the disconnect button not function correctly",
+  "steps_to_repro": "- Join a voice channel - Change your wifi from your current to a different wifi - Try and use the disconnect button"
+ }
+}

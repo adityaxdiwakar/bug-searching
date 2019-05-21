@@ -1,0 +1,30 @@
+{
+ "id": "5a1bff20153ea96b1dce7bc4",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 443,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ffDzhDQQ",
+ "data": {
+  "system_settings": "iPhone 7, iOS 10.3.3 (14G60)",
+  "client_settings": "Discord iOS 2.1.0",
+  "actual_result": "The emoji and all the text after it until a new formatting mark will not be rendered",
+  "expected_result": "The emoji is shown as a part of the sentence",
+  "short_description": "backslash-escaped emojis break rendering of text",
+  "steps_to_repro": "- Have someone post an emoji prefixed by a backslash in a sentence - View it from the iOS app - This might cause it right here, \\\ud83c\udf69 this text will probably not be shown on an iOS device."
+ }
+}

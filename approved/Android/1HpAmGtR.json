@@ -1,0 +1,30 @@
+{
+ "id": "5a63c961604a9a788918043d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1051,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1HpAmGtR",
+ "data": {
+  "system_settings": "LG Xpower 6.0.1",
+  "client_settings": "Alpha 6.1.0",
+  "actual_result": "app exits",
+  "expected_result": "channel drawer should open",
+  "short_description": "if discord is open via share menu back button don't respect setting in behavior tab",
+  "steps_to_repro": "- make sure you have back button set to open channel drawer in behavior tab - go to gallery - select picture and tap \"share\" icon - select discord from list - when app load press back button"
+ }
+}

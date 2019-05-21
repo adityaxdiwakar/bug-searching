@@ -1,0 +1,16 @@
+{
+ "id": "588a0a13369a434f144abf20",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 351,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1zCfVVsY",
+ "data": {
+  "system_settings": " Win10 x64, Canary latest + stable latest",
+  "actual_result": "Everything overlaps",
+  "expected_result": "Nice formatting",
+  "short_description": "Inline code blocks overlaps stuff",
+  "steps_to_repro": "- `Post another line of inline code, make sure it's nice and long` "
+ }
+}

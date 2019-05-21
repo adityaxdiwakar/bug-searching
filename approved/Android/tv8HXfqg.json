@@ -1,0 +1,30 @@
+{
+ "id": "5a325558d53ff0f68d64280c",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 949,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tv8HXfqg",
+ "data": {
+  "system_settings": "tecno c9 android 6.0",
+  "client_settings": "Discord alpha 5.8.4",
+  "actual_result": "filter settings gets cut off.",
+  "expected_result": "filter settings to not cut off",
+  "short_description": "when you are in filters in recent mentions,when you rotate your device the filter settings gets cut off",
+  "steps_to_repro": "-click on filters-rotate your device (you should be in portrait mode first)"
+ }
+}

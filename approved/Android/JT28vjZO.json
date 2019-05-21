@@ -1,0 +1,30 @@
+{
+ "id": "5b9527f65db44065d91feb67",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1954,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JT28vjZO",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0.0",
+  "client_settings": "7.4.2",
+  "actual_result": "They come over themself and get bugged",
+  "expected_result": "The verify phone button and somebody is writing box should not come over",
+  "short_description": "The somebody is writing box gets bugged on verify servers",
+  "steps_to_repro": "- Make your phone not verified on your account - Find a server requires at least 10 minutes verification- Go to a server that you can type also people can type - When they starts to typing , there should be a box like \"Peewd is typing...\" - Now go to verification requirement server and observe verification bar"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b6ca6ee8a9b464c62fc30f7",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 2654,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4aWV7YFp",
+ "data": {
+  "system_settings": "Windows 10 home pro (1803), 64-Bit",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 21425, Version Hash: df47d2bb54e0b94e583d8de5d76ed5b7bb63d267",
+  "actual_result": "The mention-icon/message dissapears after a few seconds like if it was read",
+  "expected_result": "The mention/message should stay visible on the left sidebar until you check it",
+  "short_description": "Mentions in Guilds/DM dissapear in the desktop-client, when a text-overlay is active and opened in a tabbed-out/minimized game",
+  "steps_to_repro": "- click into a channel/dm on the overlay- get a message/dm in that channel- tab out of (e.g. press windows key) or already be tabbed out of the game, but not tabbed into the channel"
+ }
+}

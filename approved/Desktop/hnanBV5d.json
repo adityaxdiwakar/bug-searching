@@ -1,0 +1,24 @@
+{
+ "id": "5b6e0ec0c7e4766c06a913e4",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2665,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hnanBV5d",
+ "data": {
+  "system_settings": "iPhone 6, iOS 10.2.1",
+  "client_settings": "Safari 10.2.1",
+  "actual_result": "The page doesn't load and freezes in the first few seconds",
+  "expected_result": "The page should load without a problem",
+  "short_description": "[Website bug] Can't open licenses using safari",
+  "steps_to_repro": "- Open https://discordapp(dot)com/acknowledgements - Click the View Licenses"
+ }
+}

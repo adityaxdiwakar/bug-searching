@@ -1,0 +1,17 @@
+{
+ "id": "5b775eab2e0e9816bee27dc0",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 922,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Akm1WTgL",
+ "data": {
+  "system_settings": "iPhone X, iOS 12 (Dev Beta 8)",
+  "client_settings": "TestFlight 2.3.7 (6823)",
+  "actual_result": "Keyboard doesn't match color, it's white instead",
+  "expected_result": "Keyboard should be dark to match with dark theme",
+  "short_description": "Keyboard color doesn't correspond with dark theme in Add Friend section",
+  "steps_to_repro": "- Switch to dark theme if you already haven't - Add a friend and open your keyboard"
+ }
+}

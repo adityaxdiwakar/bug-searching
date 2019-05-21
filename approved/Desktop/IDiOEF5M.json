@@ -1,0 +1,24 @@
+{
+ "id": "59b0669561d893a9d0f4c144",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1091,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IDiOEF5M",
+ "data": {
+  "system_settings": "Mac Mini (late 2014) 10.13 Beta (17A360a)",
+  "client_settings": "Canary 0.0.154 Build 3838",
+  "actual_result": "You end up not doing that and Jessica goes to the roller rink with James, leaving you on your lonesome.",
+  "expected_result": "You can become the next DDR sensation and wow your friends with some cool new tricks you learned from your nan",
+  "short_description": "Cannot use the DDR controls in the \"CTRL + /\" menu (CMD + / on Mac) while selected in a chat box. (Also breaks the hh -> nk easter egg in the same manner)",
+  "steps_to_repro": "- Find really any server - Type a message in the chat box (not really required, but basically makes sure that you're doing the right thing - Press CTRL + / (CMD + /) - Try becoming the next DDR sensation"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59daaf9a5c7d1b109ea5442a",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1240,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/u1E2d3tD",
+ "data": {
+  "system_settings": "MacBook Air Early 2014, macOS High Sierra 10.13",
+  "client_settings": "Desktop Canary 0.0.155",
+  "actual_result": "The bar overlaps",
+  "expected_result": "The progress bar is below the icon like all other apps when you download them",
+  "short_description": "The download bar for macOS Canary overlaps the app icon (should be below afaik)",
+  "steps_to_repro": "- Have Canary open during an update push"
+ }
+}

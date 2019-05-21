@@ -1,0 +1,17 @@
+{
+ "id": "5971351ad3145e33e5e8c28a",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 270,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9OXokPI8",
+ "data": {
+  "system_settings": "iPhone 6S+, IOS 10.3.2",
+  "client_settings": "1.8.8",
+  "actual_result": "Nothing happens, unable to review the new TOS.",
+  "expected_result": "Selecting Terms of Service or Privacy Policy open another page so it can be reviewed before accepting.",
+  "short_description": "Unable to review Terms of Service or Privacy Policy for Safety boost 2.0 before accepting",
+  "steps_to_repro": "- Receive Prompt to accept TOS - Unable to select anything besides 'menu' and 'I understand and agree with these terms.'"
+ }
+}

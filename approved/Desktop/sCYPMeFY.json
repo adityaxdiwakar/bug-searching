@@ -1,0 +1,24 @@
+{
+ "id": "59fbc694b07e087ea0e416e0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1344,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sCYPMeFY",
+ "data": {
+  "system_settings": "Windows 7 x64",
+  "client_settings": "Release Channel: stable, Build Number: 6721, Version Hash: 2cdeb5b43fd361c72bf807c299fdf5e286d69361",
+  "actual_result": "The application resizes itself and no longer is maximized.",
+  "expected_result": "Nothing happens, as the resize cursor shouldn't appear.",
+  "short_description": "resize cursor usable at the bottom of window when maximized",
+  "steps_to_repro": "- Maximize the window. - Put mouse on the bottom of the window near the taskbar. - Drag the resize cursor up."
+ }
+}

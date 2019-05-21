@@ -1,0 +1,17 @@
+{
+ "id": "5b211bf1f92b7ae9ce6f43c5",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1532,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NvS8miYq",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.9",
+  "actual_result": "It does show the nicknames as intended, but then the suggestions list gets reordered for no reason",
+  "expected_result": "The nicknames should just appear below the concerned user's name and that's it",
+  "short_description": "When the app loads user's nicknames from mutual servers in the Quick Switcher, the channel suggestions get abruptly reordered",
+  "steps_to_repro": "- First, fill out the suggestions of the Quick Switcher by switching channels and some DMs to users that have nicknames in mutual servers - Minimize the app using Home button, then reopen. This is to trigger the caching process, so now the client will remember the suggestions of the Quick Switcher next time you force-close the app - Force-close the app - Reopen it, and while the app is loading, open Quick Switcher - Wait for the user's nicknames from mutual servers to load"
+ }
+}

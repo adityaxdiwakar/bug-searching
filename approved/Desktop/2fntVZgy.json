@@ -1,0 +1,30 @@
+{
+ "id": "5bd70b43f4882f3fc6667642",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3302,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2fntVZgy",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord Stable, Build: 27050",
+  "actual_result": "It just \"shuts down, as in closing the preview",
+  "expected_result": "It should open a menu saying: \"Restore - Move - Size - Minimize - Maximize - Close (Alt + F4)\"",
+  "short_description": "Rightclicking on \"preview\" of Discord on the Process Bar doesn't work",
+  "steps_to_repro": "- Find Discord on the Process Bar - Hover your mouse of the Icon and a \"preview\" will pop up - Right Click the Preview - Observe"
+ }
+}

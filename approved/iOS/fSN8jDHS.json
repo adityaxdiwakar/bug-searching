@@ -1,0 +1,24 @@
+{
+ "id": "5bffc9698f8c3451d342975a",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1184,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fSN8jDHS",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 12.1.1 Beta (16C5050a) - TestFlight 2.4.0 (9370)",
+  "client_settings": "TestFlight 2.4.0 (9370)",
+  "actual_result": "The app crashes.",
+  "expected_result": "The \"Invite\" button next to users should be disabled, as the Share Link button is below the \"never expire\" toggle.",
+  "short_description": "Trying to send an invite link through the invite screen crashes when you are being rate limited.",
+  "steps_to_repro": "- Be in a server where you can create invites. - Open that server. - Tap \"Invite Members\" - Repeatedly toggle the \"Set this link to never expire\" switch until it says \"You are being rate limited\" - Tap the green \"Invite\" button next to someone's name"
+ }
+}

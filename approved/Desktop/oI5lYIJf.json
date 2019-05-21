@@ -1,0 +1,15 @@
+{
+ "id": "583077f65fa916b00664b82d",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 158,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/oI5lYIJf",
+ "data": {
+  "actual_result": "Emoji doesn't show, just the short-term does. http://i.imgur.com/yLnpY0j.png",
+  "expected_result": "Emoji shows.",
+  "short_description": "Custom emoji do not work in webhook messages",
+  "steps_to_repro": "- Create Webhook - Post to it with emoji as a message (custom server-only one) "
+ }
+}

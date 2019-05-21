@@ -1,0 +1,24 @@
+{
+ "id": "5c0231e8b43cec6b70d36be4",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1197,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZjgEDOsh",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1",
+  "client_settings": "TF 2.4.0 (9477)",
+  "actual_result": "Able to move server with the screen",
+  "expected_result": "Shouldn\u2019t be Able to move server",
+  "short_description": "Able to move Server Icon when Join/Create Server options are present",
+  "steps_to_repro": "- Press on the + to create/join a server - Quickly hold down on any server to move it  (May take a few attempts)  - Notice how able to re order server while in the Create/join server screen"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5b7f447b78137f0991d46cf0",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 942,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FBWcwDYW",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Public Beta 8",
+  "client_settings": "TestFlight 2.3.7 (6914)",
+  "actual_result": "Page closes but flashes the \"No friends found\" page for a split second",
+  "expected_result": "Page closes showing the friends list",
+  "short_description": "\"No friends to invite\" page flashes shortly when closing the create a group DM page",
+  "steps_to_repro": "- Open the \"Create a new group DM\" page - Close the page and observe the screen - (This happens for a very short amount of time and is hard to notice)"
+ }
+}

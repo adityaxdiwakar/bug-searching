@@ -1,0 +1,17 @@
+{
+ "id": "5bf9dfe1ce8b3f01eb29a286",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 3432,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gkWr3fik",
+ "data": {
+  "system_settings": "Windows 10 64x (1809)",
+  "client_settings": "Canary 28393",
+  "actual_result": "The in-game preview is set to the same transparency when the overlay is open.",
+  "expected_result": "The In-game preview updates with movement of the slider.",
+  "short_description": "[Overlay] Opacity Slider no longer works in the In-game Preview",
+  "steps_to_repro": "- Open a game with Overlay - Open Overlay - Unpin chat - Open the Opacity option in the top right corner of chat - Move the slider."
+ }
+}

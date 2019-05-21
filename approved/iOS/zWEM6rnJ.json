@@ -1,0 +1,15 @@
+{
+ "id": "581a83ffff703bf795a3de34",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 60,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zWEM6rnJ",
+ "data": {
+  "actual_result": "The picture is an oval",
+  "expected_result": "The picture becomes your avatar and looks like a perfect circle",
+  "short_description": "When you change your avi with the API, it appears wider on iOS",
+  "steps_to_repro": "- Create and run a self bot on your user account. - Tell the bot to set your avatar as a different picture  "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bda351dcd7f5387c51a69af",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1132,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DTIRd1oi",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.2 Dev Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8841)",
+  "actual_result": "Indicator disappears",
+  "expected_result": "Indicator should not disappear",
+  "short_description": "Moving a server icon while that server is open will remove the indicator showing that you have the server open",
+  "steps_to_repro": "- Tap a server icon - Move the server"
+ }
+}

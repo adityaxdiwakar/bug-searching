@@ -1,0 +1,17 @@
+{
+ "id": "5a74f958e1cf21596ffcc60d",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1619,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SUSsMgFU",
+ "data": {
+  "system_settings": "Windows 7 Professional x86",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 10161, Version Hash: 0f5c4c1402ac821904316100ee08e5f18403295f",
+  "actual_result": "A search bar showing up the calendar like the search options \"antes de:\", \"durante:\" and \"despu\u00e9s de:\".",
+  "expected_result": "A search bar showing up channels where you want to search a message.",
+  "short_description": "Search bar spanish language; shows the calendar for search option \"en: canal\".",
+  "steps_to_repro": "- Set Discord to Espa\u00f1ol in User Settings - In server or DM, click on the search bar and select search option \"en: canal\""
+ }
+}

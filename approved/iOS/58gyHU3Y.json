@@ -1,0 +1,24 @@
+{
+ "id": "5bae37edc36f8d753eb0b703",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1037,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/58gyHU3Y",
+ "data": {
+  "system_settings": "iPhone XS Max - iOS 12",
+  "client_settings": "TestFlight 2.3.8 (7416)",
+  "actual_result": "There is a hovering bar",
+  "expected_result": "There should be no hovering bar",
+  "short_description": "[iPhone X/XS/XS Max] Strange hovering grey bar at the bottom when viewing own profile",
+  "steps_to_repro": "- Open your own profile - Observe the bottom of the screen"
+ }
+}

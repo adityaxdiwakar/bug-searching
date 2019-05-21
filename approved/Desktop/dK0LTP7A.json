@@ -1,0 +1,30 @@
+{
+ "id": "5c01858cee9e3457f923cd44",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3456,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dK0LTP7A",
+ "data": {
+  "system_settings": "Windows 10 Home 64bit",
+  "client_settings": "Release Channel: stable, Build Number: 28533",
+  "actual_result": "The dark overlay from the upload popup is below the server menu and the previous context menu.",
+  "expected_result": "The dark overlay from the upload popup should be on top of everything and the previous context menu should close",
+  "short_description": "The upload popup has a lower z-index than the server menu and previous context menu does not close.",
+  "steps_to_repro": "- Go to any guild - Open the server menu by clicking on the server name (right-clicking anywhere also has the same effect) - Without clicking on discord, either drag a file into discord or paste an image from the clipboard into the message box"
+ }
+}

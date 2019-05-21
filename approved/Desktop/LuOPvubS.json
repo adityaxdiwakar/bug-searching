@@ -1,0 +1,17 @@
+{
+ "id": "5b60a21fb69e35447af3c50d",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2540,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LuOPvubS",
+ "data": {
+  "system_settings": "Windows 10 Home (x64, 1803)",
+  "client_settings": "Stable 20174, Canary 20351",
+  "actual_result": "Glitches into a 90 degree edge for a second",
+  "expected_result": "Remains rounded when dropdown menu clicked",
+  "short_description": "Verification/streamer mode banner changes shape when dropdown menu clicked (easier repro steps)",
+  "steps_to_repro": "- turn on streamer mode (ensure the purple banner at the top of your screen has a rounded edge on the top left corner) - click a server's dropdown menu"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a31bc500d29b932c3e9e88d",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 946,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cteVljET",
+ "data": {
+  "system_settings": "LG Xpower 6.0.1",
+  "client_settings": "Android Alpha 5.8.4",
+  "actual_result": "preview focus on bottom of message list",
+  "expected_result": "preview should focus on messegae you tapped in results",
+  "short_description": "search result preview don't focus on correct message",
+  "steps_to_repro": "- enter search menu - search for message - press on one of results to enter chat preview"
+ }
+}

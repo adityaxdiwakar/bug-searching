@@ -1,0 +1,17 @@
+{
+ "id": "5bdc5f2075b91a2218a257cd",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2283,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YSoP8HOu",
+ "data": {
+  "system_settings": "Samsung Galaxy J3, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.8.6",
+  "actual_result": "You are able to type in the channel, but not able to send.",
+  "expected_result": "You shouldnt be able to type in the channel.",
+  "short_description": "When you click a link to a channel (i.e. #example) that you are unauthorized to type in, Discord allows you to type in the channel, but not send.",
+  "steps_to_repro": "- Tap on a channel link that you are not authorized to type in - Type in the unauthorized channel"
+ }
+}

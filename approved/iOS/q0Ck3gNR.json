@@ -1,0 +1,24 @@
+{
+ "id": "5c02c7b1dfabda5dae72c90b",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1201,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/q0Ck3gNR",
+ "data": {
+  "system_settings": "iPhone 5s iOS 12.1",
+  "client_settings": "TestFlight 2.4.0 (9477)",
+  "actual_result": "The create/join pop-up buttons display and the original pop-up is hidden.",
+  "expected_result": "The initial pop-up should appear and the create/join server one should not show.",
+  "short_description": "When clicking any icon that results in a pop-up, if you tap create server quick enough, it comes up instead.",
+  "steps_to_repro": "- Tap 3 lines in top left so you are viewing servers/channels/small piece of chat from left to right - Tap any icon that results in a pop-up (Server name, invite members, online status, search, recent mentions, user settings) - Immediately tap the create/join server button - Observe how the initial pop-up begins to display, but then the create/join server pop-up is displayed instead"
+ }
+}

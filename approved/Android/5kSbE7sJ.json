@@ -1,0 +1,30 @@
+{
+ "id": "5b92a16f83954a2b0d599cbf",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1944,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5kSbE7sJ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.4.7",
+  "actual_result": "No discriminator. People with similar names are just undistinguishable if you don't remember their pfp",
+  "expected_result": "User name + discriminator of banned users should be listed as on Desktop",
+  "short_description": "No discriminator in ban list",
+  "steps_to_repro": "- Go to a server where you have ban permissions and with a few people banned already - Look at Server Settings > Bans on Android"
+ }
+}

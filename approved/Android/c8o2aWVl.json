@@ -1,0 +1,30 @@
+{
+ "id": "59fde99cfe3cf95afc2a657a",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 869,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c8o2aWVl",
+ "data": {
+  "system_settings": "Nexus 6 android 7.1.1",
+  "client_settings": "default settings",
+  "actual_result": "Video is inverted (left is right, right is left), and Upside down if in landscape view.",
+  "expected_result": "Correct orentation of the video feed",
+  "short_description": "Camera orientation is inverted in video calls (Left becomes right, right becomes left), this is made even more noticable if you try to put the phone in landscape where its always upside down, nomatter which way you turn the phone.",
+  "steps_to_repro": "- just start a voice call and look in the video feed."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "597a2f35dfa602c7062c28aa",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 580,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/c9trLeOS",
+ "data": {
+  "system_settings": "Tablet Allview VivaH8LTE, Android KitKat 4.4.4",
+  "client_settings": "Discord Android Alpha 4.0.2",
+  "actual_result": "Clicking the notifications, it just opens your app, and make the notification disappear without sending you where it should.",
+  "expected_result": "Clicking the notifications you should be redirected to the place from where the notifications came.",
+  "short_description": "Pressing the notifications users are not sent to the place from the channel and server the notifications came",
+  "steps_to_repro": "- Have someone to ping you while you're not in app (or get notifications from messages. Any notifications) - Click the notification - Observe it just opens the app where you left when you closed it. - Observe that you are not sent in the channel and server from where the notifications came."
+ }
+}

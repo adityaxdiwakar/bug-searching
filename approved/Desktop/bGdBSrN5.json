@@ -1,0 +1,24 @@
+{
+ "id": "592f816dfb2d92c85d3d9d7c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 695,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bGdBSrN5",
+ "data": {
+  "system_settings": "Windows 10 HOME",
+  "client_settings": "Discord Canary 0.0.155",
+  "actual_result": "The text gets out of the box ( in this case even out of the screen )",
+  "expected_result": "The text should be in the limits of the box",
+  "short_description": "When deleting a channel with a long name the text gets out of the box",
+  "steps_to_repro": "- Create a channel with the name \"w\"(x100) [To do it fast: copy \" WWWWWWWWWW \" and paste it 10 times] - Once the channel is created you should have recreated the bug \" <https://trello.com/c/3S2jKHGo> \" - Now, go to \"edit channel\" and select \" erase channel \""
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b917e67ebe87142bdc9590e",
+ "closed": true,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 973,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QpKtjkq8",
+ "data": {
+  "system_settings": "iPhone 6s iOS 11.4.1",
+  "client_settings": "TF 2.3.7 (7049)",
+  "actual_result": "Opens keyboard",
+  "expected_result": "Opens emoji picker",
+  "short_description": "After sending an emoji, closing and reopening emoji selector opens keyboard instead",
+  "steps_to_repro": "- Open emoji picker - Send an emoji - Press on the chat to close the emoji picker - Press the emoji picker button again"
+ }
+}

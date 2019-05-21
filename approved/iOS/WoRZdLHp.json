@@ -1,0 +1,30 @@
+{
+ "id": "59c1ab811f9ff8df33e47531",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 338,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WoRZdLHp",
+ "data": {
+  "system_settings": "iOS 10.3.3, iPhone 6",
+  "client_settings": "iOS Testflight 1.9.1 (665)",
+  "actual_result": "You can type a message even though your screen is blocked by the delete message UI",
+  "expected_result": "Nothing should happen when you tap on the keyboard in the delete message UI",
+  "short_description": "Being able to type in delete message UI",
+  "steps_to_repro": "- Send a message - Hold down then hit delete - Start tapping on the letters of the still visible keyboard"
+ }
+}

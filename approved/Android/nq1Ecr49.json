@@ -1,0 +1,17 @@
+{
+ "id": "5bd15f8f930fe41791fccac5",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2237,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nq1Ecr49",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.7.9",
+  "actual_result": "Message pop-up gets cut off to where you scrolled up.",
+  "expected_result": "The message pop-up scrolls down properly.",
+  "short_description": "When you scroll up from message pop-up and scroll down, the top section gets cut off. (Small screen size + low-end devices specific)",
+  "steps_to_repro": "- First, send a message to a server you have administrator permission in. - Then, react to your own message (this is to help increase the amount of options in the pop-up). - Next, long-hold the message to get the message pop-up. - Scroll up all the way to the point you need to scroll to get back down (this is why it's small screen size + low-end devices specific. Newer versions and bigger screen doesn't allow you to scroll on message pop-up). - Scroll back down and observe."
+ }
+}

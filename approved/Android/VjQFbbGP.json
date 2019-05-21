@@ -1,0 +1,17 @@
+{
+ "id": "59d8cd357d4ba27a06f99a74",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 793,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VjQFbbGP",
+ "data": {
+  "system_settings": "Android 7.0",
+  "client_settings": "Discord Beta, 5.3.1",
+  "actual_result": "it does not register the click on a message and will not join",
+  "expected_result": "It registers the click and asks you if you want to join",
+  "short_description": "Short description: it won't let you join invite links in messages",
+  "steps_to_repro": "- Write a message that has a invite link - Try to join the server that you wrote - Only happens when link is after message-"
+ }
+}

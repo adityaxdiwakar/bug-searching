@@ -1,0 +1,22 @@
+{
+ "id": "589803c7996073408ad985b1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 372,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2LF4NRjH",
+ "data": {
+  "actual_result": "It appears as if you are able to remove the role, clicking the X throws errors in the console",
+  "expected_result": "Role doesn't show as removable",
+  "short_description": "Integration roles show as if they can be unassigned",
+  "steps_to_repro": "- Invite a bot and give it permissions via the oauth flow (append something like ?permissions=1 at the end of the invite link) - Open the profile of the bot "
+ }
+}

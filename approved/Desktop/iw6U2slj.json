@@ -1,0 +1,17 @@
+{
+ "id": "5aea0a9a4b1eb1087e5bfbb0",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1924,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/iw6U2slj",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, 14432",
+  "actual_result": "Nitro badge flickers",
+  "expected_result": "Nitro badge is solid and doesn't flicker",
+  "short_description": "Nitro badge flickering (possibly Windows only and works best on your profile)",
+  "steps_to_repro": "- If you have Nitro, open up your profile - Closely observe your Nitro badge"
+ }
+}

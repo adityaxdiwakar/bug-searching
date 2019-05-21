@@ -1,0 +1,24 @@
+{
+ "id": "59bd3e135bef2017bf98734c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 729,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/C8AaJbyQ",
+ "data": {
+  "system_settings": "Android 4.4.4, Allview VivaH8LTE",
+  "client_settings": "Discord Alpha 5.1.7",
+  "actual_result": "The button does nothing",
+  "expected_result": "The blurple + button should be clickable and when pressed, it should bring you to the join a new server menu; or it should be removed",
+  "short_description": "The button for joining a new server/creating a new one, is visible but semi-transparent and not-clickable or working (Android 4.4.4 KitaKat Specific Issue)",
+  "steps_to_repro": ""
+ }
+}

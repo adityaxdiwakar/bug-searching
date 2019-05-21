@@ -1,0 +1,30 @@
+{
+ "id": "5c306ffb051078172686cd27",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2412,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yOIFWlmg",
+ "data": {
+  "system_settings": "Huawei Honor 6X, Android 7.0",
+  "client_settings": "Discord Android Beta 8.2.1(821)",
+  "actual_result": "The first icon only shows the first letter ehich is  the second icon also shows any sign letters/numbers (like \"_)7$\") in the icon regardless if you separated by space button or  sure if this should be like this.",
+  "expected_result": "Both of the icons should be showing the first letter of each word/sign seperated by space button.",
+  "short_description": "Using signs such as \"\u20ac*\u00a1\u00ae>\" in your server's name,will make the server's auto-generated icon work in a different way if you don't upload your own image for as the server's icon.",
+  "steps_to_repro": "- Scroll down on the left side and tap the + button the create a new server. - Enter any regular long name for the server using only normal 't choose any icon for the server. - Create another server but this time also use different signsor numbers in the  your Android keyboard you shoud click on the \"?123\" button to access those signs. - Compare the two icons."
+ }
+}

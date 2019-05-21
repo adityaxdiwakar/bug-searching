@@ -1,0 +1,28 @@
+{
+ "id": "583c811ed2b1358d80239f79",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 181,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fVzj57Pa",
+ "data": {
+  "actual_result": "audio playback of the bot is immediately stopped. Leaving and rejoining the VC will fix the issue. [Submitted for DV8FromTheWorld#6297]",
+  "expected_result": "no change to the audio playback from the bot in the VC of Guild A",
+  "short_description": "Bot disconnecting from an audio server in mutual Guild stops playback in current VoiceChannel",
+  "steps_to_repro": "- Join a VoiceChannel (VC) in Guild A - Have a bot join the same VC in Guild A - Have the bot join a VC in Guild B, a mutually shared Guild - Have the bot play audio in the VC of Guild A. Playback could have also have been started before bot joined VC in Guild B - Have the bot sever the audio connection to the VC in Guild B (leave, not just switch channels) "
+ }
+}

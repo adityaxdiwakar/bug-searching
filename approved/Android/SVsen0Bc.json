@@ -1,0 +1,17 @@
+{
+ "id": "5b6cc06e9994564f5ac2edbf",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1804,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SVsen0Bc",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.8",
+  "actual_result": "The channel is in the same unread state as observed in step 3",
+  "expected_result": "It should show only the messages sent after step 4 as unread",
+  "short_description": "Foreground service for game detection prevents the current channel from being marked as read upon closing/reopening Discord, even after a long time spent on another app",
+  "steps_to_repro": "- Enable Foregound service for game detection - Find a channel with a few unread messages (less than 50) - Switch to that channel. If you see the New messages separator and the X new messages banner at the top, you're good - Close Discord - Open a game and play it for a while. Actually it can be any app, not related to the game detection feature itself - Reopen Discord"
+ }
+}

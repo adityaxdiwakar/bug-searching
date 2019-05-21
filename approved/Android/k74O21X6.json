@@ -1,0 +1,24 @@
+{
+ "id": "592f51297f5944f1e100c8fb",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 493,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/k74O21X6",
+ "data": {
+  "system_settings": "Note 4 Galaxy Android 7",
+  "client_settings": "Discord Normal Android",
+  "actual_result": "Servers move",
+  "expected_result": "Servers stay still",
+  "short_description": "Able to flick through servers for short amount of time when looking at server options",
+  "steps_to_repro": "- Hold down on a server on the sidebar (Where the icon are) - When the options appear keep holding - Swipe either up or down"
+ }
+}

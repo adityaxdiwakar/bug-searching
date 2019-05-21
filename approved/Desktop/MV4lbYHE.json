@@ -1,0 +1,48 @@
+{
+ "id": "5aa85b811cbd9aa604d939dd",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1738,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a8c933b1ce1cddeb01e7110",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Crash",
+   "color": null
+  },
+  {
+   "id": "5aa85ca6046c9b76635cc40f",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "search",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MV4lbYHE",
+ "data": {
+  "system_settings": "Windows 10 home x86",
+  "client_settings": "Discord canary version 11990",
+  "actual_result": "You'll get a loading screen after jumping and a nelly crash when you try to click on a channel",
+  "expected_result": "You should be able to jump to the message as normal and click on other channel's normally",
+  "short_description": "Discord crashes when clicking a channel you search for something in",
+  "steps_to_repro": "- Go to any server - Go to the search option and search anything, for example rick - Attempt to jump to any of the results - After jumping you'll get a screen similar to what you get when you're in a server when you leave it - Click on any channel in the server you searched in, you'll the the nelly crash"
+ }
+}

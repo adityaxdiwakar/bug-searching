@@ -1,0 +1,17 @@
+{
+ "id": "598caf0271ac0baef98561fd",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 286,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FSTVQDLz",
+ "data": {
+  "system_settings": "iPhone 5S iOS 10.3.3",
+  "client_settings": "TestFlight 1.8.9 (83)",
+  "actual_result": "You can call them despite them not being a friend",
+  "expected_result": "You cannot call them",
+  "short_description": "Able to DM call users without being friends with them",
+  "steps_to_repro": "- Find a user who you aren't friends with - Enter a DM with them - Click on their name at the top - Press Start Voice Call"
+ }
+}

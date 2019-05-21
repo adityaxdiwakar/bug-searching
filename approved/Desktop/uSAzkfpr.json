@@ -1,0 +1,17 @@
+{
+ "id": "5994ae1908db91b9947d4f54",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1006,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/uSAzkfpr",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "The Unblock button is overlapped by the typing strip which is not supposed to be there",
+  "expected_result": "The typing strip disappears and the Unblock button is there without being overlapped",
+  "short_description": "Blocking a user while they are typing in a DM and the typing thing appears below the chat box will make the Unblock button to send a message be overlapped by that typing strip",
+  "steps_to_repro": "- Have someone keep typing some message in your DM - Block them while they are typing - Notice the Unblock button on the bottom of the screen being overlapsed"
+ }
+}

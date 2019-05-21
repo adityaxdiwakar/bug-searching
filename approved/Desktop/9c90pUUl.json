@@ -1,0 +1,17 @@
+{
+ "id": "594281425d11519d0efb9e15",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 758,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9c90pUUl",
+ "data": {
+  "system_settings": "Windows 8.1 PRO x64",
+  "client_settings": "Canary Update as of 6/15/17 2:03A MST",
+  "actual_result": "Modal does not close",
+  "expected_result": "Modal goes \"Bye, Bye, Bye\"",
+  "short_description": "clicking outside the \"Privacy Settings\" modal doesn't close it (all other modals close by clicking outside)",
+  "steps_to_repro": "- Click on a server name - Click privacy settings - attempt to close it by clicking outside the box"
+ }
+}

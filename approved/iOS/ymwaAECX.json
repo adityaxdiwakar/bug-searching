@@ -1,0 +1,17 @@
+{
+ "id": "5b52aa626fbb2a16710894e4",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 836,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ymwaAECX",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 4",
+  "client_settings": "Stable 2.3.5",
+  "actual_result": "The outside edge has a slight outline matching the colour of the status",
+  "expected_result": "Outside edge has no other outline (as it is on desktop)",
+  "short_description": "User status in user profile has outline around the gray outline",
+  "steps_to_repro": "- Open the user profile of a user that is in any status except offline/Invisible - Observe the outside edge of the gray outline around the status"
+ }
+}

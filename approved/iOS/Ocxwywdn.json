@@ -1,0 +1,17 @@
+{
+ "id": "5bd1c239faf1b24f18dd3439",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 1117,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ocxwywdn",
+ "data": {
+  "system_settings": "iPhone XS Max running iOS 12.1 Dev Beta 2",
+  "client_settings": "Discord TestFlight 2.4.0 (8616)",
+  "actual_result": "The home bar is overlapping the last action.",
+  "expected_result": "There should be some space between the last action and home bar.",
+  "short_description": "Home bar overlaps the last action in the Audit Logs. [iPhone X specific]",
+  "steps_to_repro": "- Go into Server Settings - Click on Audit Logs - Scroll all of the way down. - Observe."
+ }
+}

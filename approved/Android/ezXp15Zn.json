@@ -1,0 +1,30 @@
+{
+ "id": "5aca65661664de51f145b445",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1255,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ezXp15Zn",
+ "data": {
+  "system_settings": "Moto E4 Plus, Android Version 7.1.1",
+  "client_settings": "Android Discord Client, Version 6.4.6 (646)",
+  "actual_result": "All new messages appear to be above the re-sent message.",
+  "expected_result": "All new messages should be below the re-sent message.",
+  "short_description": "When typing a message after re-sending a failed message, all new messages afterwards are placed above it on the person who re-sent it's client.",
+  "steps_to_repro": "- Have a message fail to send - Re-Send the message - Type new messages."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b52b4665cc3f6eb96994550",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2379,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nHmxrob5",
+ "data": {
+  "system_settings": "Windows 10 Home x64 Version 1803",
+  "client_settings": "Google Chrome Version 67.0.3396.99",
+  "actual_result": "Username breaks out of the modal.",
+  "expected_result": "Username stays inside the modal.",
+  "short_description": "[Website Bug] Long username break out of the \"Logged in as\" modal",
+  "steps_to_repro": "- On the browser, login to an account with a long username ( orlots of W's). - Go to new developer page. - Click your profile picture in the top right."
+ }
+}

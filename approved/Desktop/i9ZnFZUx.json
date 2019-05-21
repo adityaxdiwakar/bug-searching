@@ -1,0 +1,30 @@
+{
+ "id": "5a0638b780da941bbec81c25",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1365,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/i9ZnFZUx",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Desktop Canary 6880",
+  "actual_result": "Channels/Categories stop at a point, leaving a giant empty area below, sometimes without scrollbar",
+  "expected_result": "Channels/Categories should fill in the area until the bottom of the screen",
+  "short_description": "Channels/Categories disappear under the wrong circumstances",
+  "steps_to_repro": "- Have a voice channel in an uncollapsed category, around the top of your server - Have many people, including yourself, in this voice channel - Have hide names off - Be scrolled up to the top - Have enough channels and categories below the voice channel's category to reach off screen(require scrolling) - Collapse the voice channel's category"
+ }
+}

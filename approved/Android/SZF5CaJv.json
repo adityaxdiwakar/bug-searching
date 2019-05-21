@@ -1,0 +1,15 @@
+{
+ "id": "5856e7b0d3fd4e6c305f4408",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 147,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SZF5CaJv",
+ "data": {
+  "actual_result": "Mentions in channels besides <#132680070480396288> appear with your username",
+  "expected_result": "Mentions should use the server nickname",
+  "short_description": "Recent mentions use username in non-general channels",
+  "steps_to_repro": "- Have the latest android alpha - Have a nickname on a server - Be mentioned in the default <#132680070480396288> channel and in a different channel - View recent mentions on said server "
+ }
+}

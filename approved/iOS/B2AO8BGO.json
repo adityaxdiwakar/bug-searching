@@ -1,0 +1,17 @@
+{
+ "id": "5bdf9130cde0313b66c1b966",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1151,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/B2AO8BGO",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.2 Dev Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8900)",
+  "actual_result": "Button is inside safe area",
+  "expected_result": "Button isn't inside safe area",
+  "short_description": "[iPhone X/XR/XS/XS Max] 'Click here to change your email' button is inside safe area",
+  "steps_to_repro": "- Create and log into a new account which requires verification - Ensure that the sent verification email screen appears - Observe the 'Click here to change your email' button at the bottom"
+ }
+}

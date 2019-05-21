@@ -1,0 +1,23 @@
+{
+ "id": "58ee31954018c6e7b1548e7b",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 351,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uYshCFTf",
+ "data": {
+  "system_settings": " Nexus 6P, Android O Preview, Discord 3.5.9 / Nexus 4, Android 5.1.1, Discord 3.5.9",
+  "actual_result": "It takes about a second for your voice to start transmitting, and the animations on the push-to-talk button seem slow as well",
+  "expected_result": "Your beautiful voice comes through loud and clear",
+  "short_description": "Push-to-talk interface lags",
+  "steps_to_repro": "- Make sure you're using push-to-talk - Join voice channel - Hold down the push-to-talk button "
+ }
+}

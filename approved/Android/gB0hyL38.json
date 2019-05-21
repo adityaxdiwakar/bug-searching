@@ -1,0 +1,24 @@
+{
+ "id": "59de7e4489545086b6b2e434",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 806,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gB0hyL38",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.3.5",
+  "actual_result": "It's inconsistent: putting `#` doesn't make channel suggestions but the filter actually works, without `#` it does make suggestions but doesn't work after typing manually.",
+  "expected_result": "It should be consistent: whether you decide to put `#` or not, if it **does** make channel suggestions, then the filter **should** work no matter if you finish to type the channel name manually or pick a suggestion. If it doesn't, then it shouldn't.",
+  "short_description": "Putting the `#` symbol after the \"in:\" search filter doesn't display suggestions, but the filter actually works when you finish to type the channel name by hand, and vice versa",
+  "steps_to_repro": "- In any text channel or DM, click the Search option to open the searchbar - type `in:` to place a channel filter, then place the `#` symbol and start to type the channel name. Observe that it doesn't display suggestions.  - Now, finish to type the desired channel name manually and click Search. Notice that the filter actually works.  - Then, make a new search and insert the `in:` filter again, but this time don't use `#` symbol. When you start to type channel name, it does make suggestions, but the filter doesn't work if you manually finish to type the channel name."
+ }
+}

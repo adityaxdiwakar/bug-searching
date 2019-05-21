@@ -1,0 +1,30 @@
+{
+ "id": "5ac39df9965235ffb26f3e63",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1788,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/y7NyFKmb",
+ "data": {
+  "system_settings": "Windows 10 1803 Build 17133.1",
+  "client_settings": "Discord Canary, 0.0.204",
+  "actual_result": "The text length is not being properly cut off and is being overlapped by the arrow icon",
+  "expected_result": "Have the text be cut off before the ending of the box",
+  "short_description": "Input/Output devices text in Voice & Video settings not being properly cut off",
+  "steps_to_repro": "- have an input device with a certain text length (e.g. Headset Microphone (Steelseries Arctis 7 Chat) - open discord settings  - open Apps Settings - check Input/Output devices under Voice & Video"
+ }
+}

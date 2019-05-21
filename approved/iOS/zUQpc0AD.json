@@ -1,0 +1,17 @@
+{
+ "id": "5bab953a38dcf1737a1bf6de",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1030,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zUQpc0AD",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta",
+  "client_settings": "TestFlight 2.3.8 (7347)",
+  "actual_result": "User icons cover up the voice channel name",
+  "expected_result": "User icons either condense in the space, or ellipse the voice channel name",
+  "short_description": "User icons cover up Voice Channel name when too many users are talking",
+  "steps_to_repro": "- Join a voice channel with at least 6 other users - Have everyone talking or transmitting sound at the same time (Must have at least 7 users to do this) - Observe the user icons in the voice channel drawer"
+ }
+}

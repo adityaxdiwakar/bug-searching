@@ -1,0 +1,17 @@
+{
+ "id": "5b5d5777812fdc24eda8e854",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2485,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/j5mNybAV",
+ "data": {
+  "system_settings": "Samsung S5 neo 6.0.1 and Windows 10 x64 1803",
+  "client_settings": "Android Alpha 7.2.0 and Canary 20174",
+  "actual_result": "channel is marked as readed even while in settigs",
+  "expected_result": "channel shouldn't be \"readed\"",
+  "short_description": "Channels mark as readed when on settings screen",
+  "steps_to_repro": "- select channel on phone and enter user settings - on pc look at channel list while being in other channel than phone - According to kirby also work other way around, but did not test myself"
+ }
+}

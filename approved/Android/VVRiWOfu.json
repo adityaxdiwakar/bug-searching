@@ -1,0 +1,17 @@
+{
+ "id": "5babbf5173acc834a8f004e2",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2042,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VVRiWOfu",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "It shows the value in bps, e.g 64000",
+  "expected_result": "Should show the value in Kbps, e.g 64",
+  "short_description": "[Audit Logs] Wrong unit used for bitrate values",
+  "steps_to_repro": "- Make changes to the bitrate of a voice channel - Go to Audit Logs - Expand the entry corresponding to the bitrate change - Observe value"
+ }
+}

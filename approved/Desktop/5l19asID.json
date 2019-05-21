@@ -1,0 +1,17 @@
+{
+ "id": "5b529614f556acf1fa6039fa",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2377,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5l19asID",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1803",
+  "client_settings": "Firefox Stable v61.01",
+  "actual_result": "You are redirected to the old Developer Portal",
+  "expected_result": "You should be redirected to the new Developer Portal",
+  "short_description": "[Website Bug] Clicking the Developer links at the bottom of  or on the Rich Presence page redirects to the old Developer Portal",
+  "steps_to_repro": "- Go to discordapp(dot)com - Scroll to the bottom - Click a link to the Developer Portal - Alternatively: Go to the Rich Presence page and click Get Started"
+ }
+}

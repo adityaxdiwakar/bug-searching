@@ -1,0 +1,30 @@
+{
+ "id": "5b25dc55626100a88c873597",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1551,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dS0K2y5S",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "The No results manifying glass just fades out and the list of members doesn't come back, everything's empty. Closing/reopening keyboard fixes the issue",
+  "expected_result": "The list of all members should be shown again when erasing search field, and you should be able to make a new search",
+  "short_description": "Everything disappears when cancelling a search that produced no results in Add Member channel override, preventing you from making a new search",
+  "steps_to_repro": "- Pick a channel in a server you can manage roles - Go to channel settings > Permissions > Add member - Input random letters in the search field so it shows No results - Erase the content of the textfield and try to search for something else"
+ }
+}

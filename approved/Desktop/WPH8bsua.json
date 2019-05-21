@@ -1,0 +1,22 @@
+{
+ "id": "5832d96b3727e8e3862e74f0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 166,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WPH8bsua",
+ "data": {
+  "actual_result": "You see your username, which only changes to the server nickname after the upload completed ( reported by Enharmonic#3999 )",
+  "expected_result": "You see your server nickname showing for the message in progress being uploaded",
+  "short_description": "Uploading an image shows your name to be the username, not nickname",
+  "steps_to_repro": "- Set your nickname to be different than your username - Upload an image to Discord "
+ }
+}

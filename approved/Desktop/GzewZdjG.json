@@ -1,0 +1,30 @@
+{
+ "id": "5b70b56a838c2329c310130a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2686,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GzewZdjG",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 21705",
+  "actual_result": "The credit card is falsely considered valid and if you continue adding the payment method, it silently fails at the final step when being declined by Stripe",
+  "expected_result": "The \"There is something wrong with your credit card number\" message displays, or Discord notifies you that the card was declined by Stripe",
+  "short_description": "Certain invalid credit card numbers are considered valid by the \"Add New Payment Method\" dialog",
+  "steps_to_repro": "- Open up the billing page - Click \"Add a Payment Method\" - Enter an invalid credit card number (i.e 111111111111) and notice the error saying something is wrong with the credit card number - Enter one of the following invalid numbers \"1865258576\", \"3054052414\", \"78475108631\", \"13371337133\", \"0160330460\" \u2014 All of these numbers are shorter than the minimum card length that Stripe will accept (13 digits)."
+ }
+}

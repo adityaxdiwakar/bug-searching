@@ -1,0 +1,17 @@
+{
+ "id": "5bda2d7cb1ad81837934ca6e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2272,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Y19k4lwo",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Android 8.0.0",
+  "client_settings": "7.8.3",
+  "actual_result": "Keyboard overlaps so you are not able to reach it .",
+  "expected_result": "Photo selection menu would come up.",
+  "short_description": "The keyboard overlaps the picture selection menu",
+  "steps_to_repro": "- Open server list and press + - Select create a server - Once you clicked **create a server** , after do not touch anything - Wait about 2 secs and your keyboard will come up - After your keyboard comes click the server icon to upload an image to your server - Observe that keyboard overlaps photo selection menu"
+ }
+}

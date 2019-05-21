@@ -1,0 +1,30 @@
+{
+ "id": "5b22bd76c2bdc561df1c651f",
+ "closed": true,
+ "idList": "5b5a5db90b03f5ae3ac3ae87",
+ "idShort": 2138,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KPlRolEb",
+ "data": {
+  "system_settings": "MacOS 10.14 Mojave (18A293u - MacBook)",
+  "client_settings": "Discord 0.0.251",
+  "actual_result": "once the Hard Drive and dedicated memory is filled up, the OS will crash",
+  "expected_result": "Discord uses less than 1GB of memory overall",
+  "short_description": "Discord memory leaks until macOS Mojave (MacBook-specific) is dead",
+  "steps_to_repro": "- Run macOS Mojave Developer Beta (build 18A293u) - Open Activity Monitor - Click on Memory (at the top) then sort by memory (high to low) - Download stable Discord from Discord's website - Launch Discord - sign in to Discord Desktop App - Open Discord Settings - Go down to Voice & Video - Turn off Automatically determine input sensitivity (stay here) - watch Activity Monitor's memory usage"
+ }
+}

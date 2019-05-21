@@ -1,0 +1,17 @@
+{
+ "id": "597b2815fa9ecf99b619433b",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 275,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Guvjzz0F",
+ "data": {
+  "system_settings": "iOS 11.0 Developer Beta",
+  "client_settings": "TestFlight 1.8.9 (82)",
+  "actual_result": "You cannot open that DM because it crashes Discord",
+  "expected_result": "You can open the DM and see the bot's embed right away",
+  "short_description": "Receiving rich embed DMs from bots (and presumably users) crashes Discord when opened (I guess this got denied even though everyone can repro it, so thanks everyone)",
+  "steps_to_repro": "- Find a bot that has rich embeds in DMs - invoke a command (not in DMs) that makes said bot DM you a rich embed - Try to open new message"
+ }
+}

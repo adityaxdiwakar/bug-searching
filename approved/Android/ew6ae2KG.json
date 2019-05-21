@@ -1,0 +1,24 @@
+{
+ "id": "59d3ce72d46ea1f1c26e199c",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 780,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ew6ae2KG",
+ "data": {
+  "system_settings": "Android 5.1.1",
+  "client_settings": "Discord Alpha build 527",
+  "actual_result": "It says \u201cTheme has been updated\u201d",
+  "expected_result": "Have it say something along the lines of \u201cDeveloper Mode Enabled",
+  "short_description": "\"Theme has been updated\" when toggling developer mode",
+  "steps_to_repro": "- Toggle Developer Mode"
+ }
+}

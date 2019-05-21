@@ -1,0 +1,16 @@
+{
+ "id": "58fbfc0271a4a2783660c03b",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 548,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0ZqAbIFP",
+ "data": {
+  "system_settings": " macOS 10.12.4 Discord Canary",
+  "actual_result": "emoji breaks and the prince emoji (wrong skin color) along with a strange square appear on the message box",
+  "expected_result": "emoji  automatically pastes into your message box and when you send the message, it works as expected",
+  "short_description": "emoji breaks when trying to add the prince-skin-tone-1 emoji on MacOS via mac emoji  & symbols picker",
+  "steps_to_repro": "- open Discord on a computer running **MacOS**  - start typing a message in the message box - go to edit --> emojis & symbols - select the male prince emoji with white skin and black hair (skin tone 1)  "
+ }
+}

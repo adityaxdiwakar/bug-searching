@@ -1,0 +1,22 @@
+{
+ "id": "585d075c7cb4d5d0e61e0ed8",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 268,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8AzqduHc",
+ "data": {
+  "actual_result": "You can't move the window",
+  "expected_result": "You can move the window",
+  "short_description": "When I open developer tools I can't move the window at all (macOS)",
+  "steps_to_repro": "- Open developer tools - Try to move window "
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "5916ebd055f0826486ed0445",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 640,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/neFP89cM",
+ "data": {
+  "actual_result": "Discord restarts a few seconds after clicking the play button.",
+  "expected_result": "The video plays normally.",
+  "short_description": "Steam embeds make discord restart after clicking play and waiting a while",
+  "steps_to_repro": "- Link any steam store game page - click the play button - wait a while "
+ }
+}

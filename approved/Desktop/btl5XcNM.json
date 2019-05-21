@@ -1,0 +1,30 @@
+{
+ "id": "5beda66a5734ea3158bfc4c8",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3391,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/btl5XcNM",
+ "data": {
+  "system_settings": "Windows 10 home x64 ver (1803)",
+  "client_settings": "Canary Build Number: 28013",
+  "actual_result": "a \"careful you have unsaved changes\" popup appears",
+  "expected_result": "\"unsaved changed\" popup should only appear when going to another section/tab or exiting (with unsaved changes)",
+  "short_description": "clicking on the same section in setting shows a unsaved changes popup",
+  "steps_to_repro": "- go to server settings - go to overview then make some changes - click on overview again and observe"
+ }
+}

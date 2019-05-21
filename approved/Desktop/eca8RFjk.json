@@ -1,0 +1,17 @@
+{
+ "id": "59aba3d99d599b83ec751c46",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1080,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/eca8RFjk",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "Canary freezes up, and sometimes crashes.",
+  "expected_result": "Started/joined a call.",
+  "short_description": "Canary freezes up occassionally when trying to start or join a call.",
+  "steps_to_repro": "- Start/join a call."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a5c27359aea828afef8f0f0",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 496,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EuqebmKA",
+ "data": {
+  "system_settings": "iPhone X, iOS 11.2.1",
+  "client_settings": "2.2.0 (2080)",
+  "actual_result": "The \"K\" in the word \"Korean\" is cut off (Due to iPhone X's curved display).",
+  "expected_result": "The \"K\" in the word \"Korean\" should not be cut off.",
+  "short_description": "When choosing languages, the K in Korean is slightly cut off (iPhone X ONLY)!",
+  "steps_to_repro": "- Go onto the iOS Discord application - Click on settings (the gear icon) - Click on Language - Scroll all the way down to the bottom"
+ }
+}

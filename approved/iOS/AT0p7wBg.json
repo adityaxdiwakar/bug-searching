@@ -1,0 +1,24 @@
+{
+ "id": "5c08407e94068c47f09ca90b",
+ "closed": false,
+ "idList": "5c082c6e851e73786a479414",
+ "idShort": 1218,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AT0p7wBg",
+ "data": {
+  "system_settings": "iPhone X, iOS 12.1.1 (Dev Beta 3)",
+  "client_settings": "TestFlight 2.4.0 (9370)",
+  "actual_result": "It's being overlapped by a bar slowly sliding up in unison with the in-app notification's timer bar until the in-app notification disappears",
+  "expected_result": "There should be no overlapping",
+  "short_description": "Emote and mention drawer gets overlapped by a slowly sliding bar during in-app notification's presence (Potentially iPhone X exclusive)",
+  "steps_to_repro": "- Receive an in-app notification - Start to mention someone or type an emote to bring out the drawer"
+ }
+}

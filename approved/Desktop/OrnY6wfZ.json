@@ -1,0 +1,30 @@
+{
+ "id": "5b51603fcf89a5f3e1ba3879",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2344,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OrnY6wfZ",
+ "data": {
+  "system_settings": "Windows 10 x64 v1803 - Google Chrome x64 v67.0.3396.99",
+  "client_settings": "None",
+  "actual_result": "The button is overlapping the text",
+  "expected_result": "Not overlapping the text",
+  "short_description": "[Website Bug]The Copy to Clipboard button overlaps the text in update presence code",
+  "steps_to_repro": "- Get a Small Window - Open the Developer Portal - Go to Applications - Click or create a application - Go to Rich Presence - Scroll down the page and press in \"Show Code\""
+ }
+}

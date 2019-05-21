@@ -1,0 +1,17 @@
+{
+ "id": "5baddc8b242bd7243b8775d7",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 3056,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/m7Yb4wiY",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 756",
+  "actual_result": "The timer says 30:0x",
+  "expected_result": "The timer says 00:0x",
+  "short_description": "Places with half hour timezones with respect to GMT (Like +5:30 GMT) have a 30 in place of a 00 in the slow mode timer.",
+  "steps_to_repro": "- Go to/stay in a country with half hour timezone. - Open a channel with slow mode enabled. - Type something and send it."
+ }
+}

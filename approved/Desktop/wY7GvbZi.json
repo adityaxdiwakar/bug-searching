@@ -1,0 +1,30 @@
+{
+ "id": "5b9951bd139acd3d3720e295",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2973,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wY7GvbZi",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit 1803 April Update Build 17134.285",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 23506, Version Hash: 83b0f44e3ea2cfe5dd862bee59ff47b2b219bcae",
+  "actual_result": "Discord crashes and you are forced to Reload",
+  "expected_result": "You should be able to expand the entry to read the full details",
+  "short_description": "Accessing Audit Log entries such as Create Text Channel or Update Text Channel crashes Discord",
+  "steps_to_repro": "- Create and/or Update some Text Channels to generate Audit Log entries - Access Server Settings > Audit Log > Attempt to expand the entries for Create Text Channel or Update Text Channel by clicking on them"
+ }
+}

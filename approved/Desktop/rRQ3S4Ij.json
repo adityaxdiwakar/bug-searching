@@ -1,0 +1,23 @@
+{
+ "id": "590bd9e91f6c5d7fe6119191",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 598,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rRQ3S4Ij",
+ "data": {
+  "system_settings": " MacOS 10.12.4, Discord Canary 0.0.144",
+  "actual_result": "The pop up goes away but the role stays",
+  "expected_result": "Role get's removed without a problem",
+  "short_description": "Can't remove a role after giving it a permission",
+  "steps_to_repro": "- Go to a server where you have admin rights - Go to a text channel - Edit the roles for the channel - Add a role to the channel - Change 1 thing about it's permissions - Press delete role without saving - Pop up comes forward - Press \"Okay\" "
+ }
+}

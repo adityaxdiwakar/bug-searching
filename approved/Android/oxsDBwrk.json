@@ -1,0 +1,17 @@
+{
+ "id": "5baa7a76f536b564e11b3d2e",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2036,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/oxsDBwrk",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "The search doesn't work. You have to close and reopen the filter panel",
+  "expected_result": "The search works",
+  "short_description": "[Audit Logs] Search function stops working after tabbing out to another app and coming back",
+  "steps_to_repro": "- Access Audit Logs - Tap either Filter by users or Filter by actions - Press Home button of your phone - Open Recent Apps and come back to Discord - Input random letters in the search input"
+ }
+}

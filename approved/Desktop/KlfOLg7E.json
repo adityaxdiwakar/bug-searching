@@ -1,0 +1,30 @@
+{
+ "id": "597396e66530946ca282b9fe",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 879,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KlfOLg7E",
+ "data": {
+  "system_settings": "https://cdn.discordapp.com/emojis/338368557001998337.png Ubuntu",
+  "client_settings": "Desktop Canary, 0.0.22",
+  "actual_result": "Row for tall emoji fills the entire screen",
+  "expected_result": "Rows of completion options should have a uniform height",
+  "short_description": "In the emoji autocomplete menu, rows for tall and thin (1x128) emoji fill the entire screen.",
+  "steps_to_repro": "- Add a tall emoji to a server, such as https://cdn.discordapp.com/emojis/338368557001998337.png - Start typing its name in a channel"
+ }
+}

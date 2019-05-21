@@ -1,0 +1,24 @@
+{
+ "id": "59bc3044cdf8342903f40b2c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 722,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hQ6xTCCV",
+ "data": {
+  "system_settings": "Android 4.4.4, Allview VivaH8LTE",
+  "client_settings": "Discord Alpha 5.1.6",
+  "actual_result": "The check mark appear for the both colors; The old and current/new one until you reopen the color picker",
+  "expected_result": "The check mark should appear only for the current color of the role",
+  "short_description": "You can see 2 check marks at the same time in color picker",
+  "steps_to_repro": "- Create a server or go to one where you are admin/owner - Create a new role with the teal/turquoise color(Go to server settings; then to roles section; create a role and give it the teal/turquoise color; save) - Close the app (or go to another server then come back; or just close the color picker) - Open the app/go back to server/reopen the color picker - Go to server settings, then to roles - Go to the role that you made previously, and open the color picker - Select another color (without closing the color picker); Observe the  check mark for the color that the role had previously is stuck until you reopen the color picker - (see attachment for info)"
+ }
+}

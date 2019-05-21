@@ -1,0 +1,30 @@
+{
+ "id": "5aa9708c31146f54b19d2216",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1198,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pKMOPYSJ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.3.7",
+  "actual_result": "it's not suggested, autocompletion area is empty",
+  "expected_result": "The \"has:\" filter should be suggested",
+  "short_description": "When typing \"h\" in the searchbar, the \"has:\" filter is not suggested",
+  "steps_to_repro": "- Go in any channel and tap Search - Type the letter \"f\". You can see that the \"from:\" filter is suggested - Now erase the \"f\" and input \"h\" in the searchbar"
+ }
+}

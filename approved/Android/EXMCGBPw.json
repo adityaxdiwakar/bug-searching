@@ -1,0 +1,17 @@
+{
+ "id": "5bda45bfcd7f5387c51c9059",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2273,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EXMCGBPw",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.8.4",
+  "actual_result": "They became extremely small.",
+  "expected_result": "Normal size emoji, like pre-7.8.4",
+  "short_description": "Emojis are extremely small on 7.8.4.",
+  "steps_to_repro": "- Update to 7.8.4 - Post some emojis and observe."
+ }
+}

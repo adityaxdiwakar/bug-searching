@@ -1,0 +1,30 @@
+{
+ "id": "5b8a61f2d0b00c5478d62154",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1912,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9OQpjsfK",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.4.5",
+  "actual_result": "A grey line left by the new typing status indicator is shown above the textbox. Rotating the screen somehow fixes the issue",
+  "expected_result": "The textbox should be clean",
+  "short_description": "After the typing status has appeared once during the session in any channel, a grey line is left above the textbox when nobody is typing",
+  "steps_to_repro": "- Update to 7.4.5 - Make sure you are in an inactive chat when you start the app. Notice everything's normal above the textbox - Now switch to an active channel with lots of people typing. Notice the new shiny typing indicator design - Now switch back to the inactive channel. Notice the grey line above the textbox"
+ }
+}

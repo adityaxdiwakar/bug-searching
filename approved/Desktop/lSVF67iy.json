@@ -1,0 +1,17 @@
+{
+ "id": "5c3514a78ffbec4bb0f7b217",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3597,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/lSVF67iy",
+ "data": {
+  "system_settings": "MacOs High Sierra 10.13.6 MacBook Pro (Retina, 15-inch, Mid 2014),",
+  "client_settings": "30591",
+  "actual_result": "The dots are really light, making them almost invisible",
+  "expected_result": "The animated dots should be dark-colored",
+  "short_description": "Typing indicator does are almost invisible on light theme",
+  "steps_to_repro": "- Be on light theme - Observe someone typing"
+ }
+}

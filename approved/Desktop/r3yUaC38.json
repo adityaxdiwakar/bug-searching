@@ -1,0 +1,30 @@
+{
+ "id": "5b3dc93a76bb1fb72f92d9d3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2236,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/r3yUaC38",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (18164)",
+  "actual_result": "It gives you an invalid Discord link, and the format is {channelid}/{messageid}",
+  "expected_result": "It's supposed to give you a link to the image like it used to",
+  "short_description": "Rich embed thumbnail images does not point to the image link anymore, instead it points to an invalid Discord link when right clicking then clicking copy link",
+  "steps_to_repro": "- Get a bot to post a rich embed that has a thumbnail image (top right corner) - Right click then copy link - Observe the link"
+ }
+}

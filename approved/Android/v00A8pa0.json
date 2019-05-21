@@ -1,0 +1,24 @@
+{
+ "id": "59c692053a7e2e634b416801",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 762,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/v00A8pa0",
+ "data": {
+  "system_settings": "Samsung Galaxy S6 Android, 7.0",
+  "client_settings": "Discord Alpha 5.2.6",
+  "actual_result": "It will do a weird slide animation.",
+  "expected_result": "It should not do anything since you dont have access to it.",
+  "short_description": "If someone mentions a channel that they have access to and someone who doesn't, is clicking it, it will form a weird slide animation.",
+  "steps_to_repro": "- Make someone that has access to a channel that you dont have access to send the # for it (Example #Mod-Chat) - -Click on the #Mod-Chat"
+ }
+}

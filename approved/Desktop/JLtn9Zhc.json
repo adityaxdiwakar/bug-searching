@@ -1,0 +1,17 @@
+{
+ "id": "5b524d0522231bad1c0f35dd",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2366,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JLtn9Zhc",
+ "data": {
+  "system_settings": "macOS 10.14",
+  "client_settings": "ptb 19084",
+  "actual_result": "The giphy bar haunts me till I start typing a new message",
+  "expected_result": "Giphy bar leaves me alone when I remove the giphy command from the chat box",
+  "short_description": "Giphy bar stays if no results shown once chat box is cleared",
+  "steps_to_repro": "- Search a phrase in chatbox using /giphy that returns no results (\"was it this\" seems to work) - Ctrl/cmd + A and delete all text in chat box - Observe how giphy bar remains - Click out of chat box (giphy bar hides) - Click back in chat box - Observe how the same giphy bar returns - Type any character in chat box to clear bar"
+ }
+}

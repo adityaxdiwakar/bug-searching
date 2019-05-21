@@ -1,0 +1,30 @@
+{
+ "id": "5bbd6c2c57f82c4f5e72e8eb",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2135,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4S9Z0rCx",
+ "data": {
+  "system_settings": "Essential Phone, Android P",
+  "client_settings": "7.6.5",
+  "actual_result": "A discord icon shows in the status bar and no heads up banner shows",
+  "expected_result": "Drop down heads up banner shows the context of the mention and a discord icon shows in the status bar",
+  "short_description": "Heads up notifications only work for DMs",
+  "steps_to_repro": "- Get mentioned in a server with notifications on while outside of the app - Observe notification"
+ }
+}

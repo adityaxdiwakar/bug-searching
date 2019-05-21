@@ -1,0 +1,30 @@
+{
+ "id": "5bdac749363a5c3a50af6ef4",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3330,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CqZCgD60",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Discord Canary 27353",
+  "actual_result": "The bottom of the codeblock and the top of the emoji is actually touching.",
+  "expected_result": "They should be separate.",
+  "short_description": "Bottom of the codeblock is touching the space of the line below.",
+  "steps_to_repro": "- Type in a codeblock on line 1, and a clip emoji (or some emoji that's tall) on line 2 in the same message. - Observe the bottom of the codeblock and the top of the emoji."
+ }
+}

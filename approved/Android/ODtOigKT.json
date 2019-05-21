@@ -1,0 +1,17 @@
+{
+ "id": "5a3cceeee606fd43309f1d31",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 989,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ODtOigKT",
+ "data": {
+  "system_settings": "ZTE zmax pro (Z981) android 6.0.1",
+  "client_settings": "android alpha 5.9.4",
+  "actual_result": "discord app crashes",
+  "expected_result": "pinned messages should open like normal",
+  "short_description": "trying to open pinned messages crashes discord",
+  "steps_to_repro": "- go to a chat channel with pinned messages - try to open pinned messages"
+ }
+}

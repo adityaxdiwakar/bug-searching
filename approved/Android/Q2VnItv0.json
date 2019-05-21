@@ -1,0 +1,30 @@
+{
+ "id": "5bc5c61839abe584b720dd81",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2177,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Q2VnItv0",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 771",
+  "actual_result": "The name doesn't get truncated causing it to get cut off.",
+  "expected_result": "The name gets truncated.",
+  "short_description": "The names of files that have long names don't get truncated in the upload progress modal.",
+  "steps_to_repro": "- Click on the add content button. - Select a file with a long name. - Send it. - Observe the name of the file."
+ }
+}

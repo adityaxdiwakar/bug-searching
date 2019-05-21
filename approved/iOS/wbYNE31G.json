@@ -1,0 +1,30 @@
+{
+ "id": "5af3e834d51390792e09622b",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 731,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wbYNE31G",
+ "data": {
+  "system_settings": "Iphone 6s on iOS 11.3, ipad2 on iOS 9.3.5",
+  "client_settings": "2.3.1",
+  "actual_result": "Immediately after downloading full image, full screen image in portrait mode is still lower res. small details are blurry. Rotating phone to horizontal updates image display to high res. Rotating phone back to portait, it keeps high resolution. See video of reproduction",
+  "expected_result": "After downloading full size image, image display should be native-res.",
+  "short_description": "Full size image loads with lower resolution, changes to high res after rotation of phone",
+  "steps_to_repro": "- Use phone in Portrait Mode- Have an image posted in a discord chat.- be sure to test on an image with small details, large image with small text - example image - Click on Image in the chat channel- Zoom In - look at image text- Rotate Phone to hortizontal - look at image text- rotate Back to portait mode - look at image text."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5a0a49e529ff43e8ccdda471",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 897,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/V8bAUSud",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 5.6.6",
+  "actual_result": "it's just voice",
+  "expected_result": "it should be called Voice & Video",
+  "short_description": "voice & video title is named incorrectly",
+  "steps_to_repro": "- Open user settings - open the voice & video settings - observe the title"
+ }
+}

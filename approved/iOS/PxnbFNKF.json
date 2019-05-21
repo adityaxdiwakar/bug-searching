@@ -1,0 +1,24 @@
+{
+ "id": "5988da4589289e278cc72ec9",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 285,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PxnbFNKF",
+ "data": {
+  "system_settings": "iPod 6 (iOS 10.2.1)",
+  "client_settings": "Discord TestFlight 1.8.9",
+  "actual_result": "only options are \"Profile\" \"Start Voice Call\" Close DM\" and \"Report\"",
+  "expected_result": "`...` button can be used to start group DM",
+  "short_description": "Can't Add friends to DM on new TestFlight Build (No Button)",
+  "steps_to_repro": "- Step 1 Open discord Step 2 Try to add friends to group call"
+ }
+}

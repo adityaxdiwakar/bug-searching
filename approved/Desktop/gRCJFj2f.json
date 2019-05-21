@@ -1,0 +1,16 @@
+{
+ "id": "586ef4a02eed7fbb44426261",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 312,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gRCJFj2f",
+ "data": {
+  "system_settings": " Ubuntu 16.04, Discord Canary",
+  "actual_result": "Search results use Cozy mode",
+  "expected_result": "Search results use Compact mode",
+  "short_description": "Search always shows messages in Cozy mode format",
+  "steps_to_repro": "- Switch to Compact mode - Search for something "
+ }
+}

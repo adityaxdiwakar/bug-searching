@@ -1,0 +1,30 @@
+{
+ "id": "5aa1782a67970c19376df0f8",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1717,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DspXLsPp",
+ "data": {
+  "system_settings": "macOS 10.13.2",
+  "client_settings": "Desktop Canary Build 11585.",
+  "actual_result": "It closes the search menu with no visual indicators that it will.",
+  "expected_result": "It should place a cursor in the search bar and let you edit your search query, do nothing or change the colour of the X button to indicate clicking there would cancel the search.",
+  "short_description": "Clicking near the X button on the search bar but not on it still closes the search menu, the hitbox for it isn't accurate.",
+  "steps_to_repro": "- Search for something. - Go close to the X button so that the cursor is near it but it hasn't changed colour to indicate that it's hovering over it. - Left click."
+ }
+}

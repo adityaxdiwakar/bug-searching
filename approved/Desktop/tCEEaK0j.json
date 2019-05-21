@@ -1,0 +1,30 @@
+{
+ "id": "5bc8cdac14cc366a5bec3927",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3213,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tCEEaK0j",
+ "data": {
+  "system_settings": "Windows 10 Pro 64 bit",
+  "client_settings": "Release Channel: stable, Build Number: 26016",
+  "actual_result": "The \"New Group Dm\" overlaps the \"Find or start a new Conversation\"",
+  "expected_result": "The \"New Group Dm\" Shouldn't overlap the \"Find or start a new Conversation\"",
+  "short_description": "The create group thingy overlaps the \"find or start a new conversation\" Thingy.",
+  "steps_to_repro": ""
+ }
+}

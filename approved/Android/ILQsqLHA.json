@@ -1,0 +1,30 @@
+{
+ "id": "5b807c1920632082bcc249fe",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1879,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ILQsqLHA",
+ "data": {
+  "system_settings": "OnePlus 6, Android 8.1.0 (no root)",
+  "client_settings": "Discord Alpha 7.4.0",
+  "actual_result": "The Croatian language have the US flag",
+  "expected_result": "The Croatian language should have the Croatian flag",
+  "short_description": "The flag on the Croatian language is showing as the US flag",
+  "steps_to_repro": "- Go to User Settings - Go to Language - Select the language - Croatian flag is showing as the US flag"
+ }
+}

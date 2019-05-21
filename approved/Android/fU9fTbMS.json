@@ -1,0 +1,30 @@
+{
+ "id": "5bb9926408ff6967a8b8dd20",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2120,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fU9fTbMS",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Mini Android 6.0.1",
+  "client_settings": "7.6.2",
+  "actual_result": "it shows both edits as edit for the role",
+  "expected_result": "role edit is shown as role edit in audit log and user edit is shown as user edit",
+  "short_description": "[Audit Log] editing user perms after editing role perms in the same channel shows both actions in aufit log as role edit",
+  "steps_to_repro": "- add a role to channel perms and give it a perm - add a user to the same channel perms and give him a different permission"
+ }
+}

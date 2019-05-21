@@ -1,0 +1,30 @@
+{
+ "id": "5a518ef8e7955b4f5a4929b6",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1026,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Leo5Tlh8",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.0.6",
+  "actual_result": "the toast \"Friend request sent successfully\" still appears but Discord closes immediately",
+  "expected_result": "You get back to your friends list",
+  "short_description": "Discord closes after successfully sending a friend request via Add Friend button",
+  "steps_to_repro": "- Go to your friends list - Tap the Add Friend button - In the field type the username of the person you want to send a friend request to - Submit and observe"
+ }
+}

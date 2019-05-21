@@ -1,0 +1,17 @@
+{
+ "id": "59bd31640bd67529647b7b91",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 728,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/6hFAgUko",
+ "data": {
+  "system_settings": "Moto G4 Android 7.0",
+  "client_settings": "Alpha 5.1.7",
+  "actual_result": "It isn't",
+  "expected_result": "the voice chat icon should be on the left next to the channel name",
+  "short_description": "No voice channel icon in \"Channels\" tab",
+  "steps_to_repro": "- Go into a server where you are admin - Go to server settings - Go to channels - Scroll down to voice channels"
+ }
+}

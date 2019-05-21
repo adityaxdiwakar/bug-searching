@@ -1,0 +1,30 @@
+{
+ "id": "5abe0e016bdffba77ccecb40",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1235,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/O6eAvE3j",
+ "data": {
+  "system_settings": "Moto G 4 Play, Android Nougat 7.1.1",
+  "client_settings": "Android Alpha 6.4.5",
+  "actual_result": "You get thrown down into the suggestions list. Keyboard still closes.",
+  "expected_result": "The list should remain where it is, and the keyboard should hopefully close itself.",
+  "short_description": "Clicking enter on the comments typefield in the share screen flings you down the list.",
+  "steps_to_repro": "- Share a file to open the Share screen.  - Select who you're sending it to. - Select the comments typefield.  - Click enter, without typing anything. - Note: It looks like it's trying to get you ready to type in the bar where you select who the file is going to. Just a theory."
+ }
+}

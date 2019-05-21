@@ -1,0 +1,17 @@
+{
+ "id": "5b74d69dcdf1d870922ad993",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 918,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/U9iNQyDt",
+ "data": {
+  "system_settings": "iPhone 6, iOS 10.2.1",
+  "client_settings": "TestFlight 2.3.7 (6784)",
+  "actual_result": "It has a major lag in closing it",
+  "expected_result": "Should close without a problem",
+  "short_description": "After restarting your app, trying to search for a dm and hitting Close will have a major lag",
+  "steps_to_repro": "- Restart your Testflight - Try to search for a dm or friend in the Friends search - Hit close - (In the video, David is spamming close)"
+ }
+}

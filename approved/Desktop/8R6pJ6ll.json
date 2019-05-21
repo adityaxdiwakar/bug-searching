@@ -1,0 +1,16 @@
+{
+ "id": "5880cb2c0e43e3786efda486",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 339,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8R6pJ6ll",
+ "data": {
+  "system_settings": " Win7 ultimate 32 bits",
+  "actual_result": "animation out of sync",
+  "expected_result": "animation staying nicely in sync or at least re-syncing",
+  "short_description": "Visual ripple going out of sync with sound when starting a call with someone",
+  "steps_to_repro": "- call someone - alt-tab twice, with about one or two seconds in between  "
+ }
+}

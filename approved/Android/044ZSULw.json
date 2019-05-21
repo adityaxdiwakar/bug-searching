@@ -1,0 +1,36 @@
+{
+ "id": "5a1577d87854270b03ccb423",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 912,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/044ZSULw",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.7.4",
+  "actual_result": "At least on Dark theme, the text is displayed in white over a blue and white Discord logo, making it barely visible",
+  "expected_result": "The server icon displayed at the top of the Server Settings screen will show the icon text representing the server name drawn on a proper background color",
+  "short_description": "If you open Server Settings in a server with the default icon, the text of the icon will be drawn over the default Discord logo, making it barely visible on Dark theme",
+  "steps_to_repro": "- Create a new server - Go to Server Settings"
+ }
+}

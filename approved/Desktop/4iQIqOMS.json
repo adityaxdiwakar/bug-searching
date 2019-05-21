@@ -1,0 +1,24 @@
+{
+ "id": "5962a94b2ad1afbe4f417bd4",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 835,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4iQIqOMS",
+ "data": {
+  "system_settings": "MacBook Air Early 2014 macOS Sierra 10.12.5",
+  "client_settings": "Desktop Canary Build 0.0.149",
+  "actual_result": "Text is not replaced",
+  "expected_result": "The text is meant to be replaced",
+  "short_description": "On macOS, the custom replace text does not replace on Discord.",
+  "steps_to_repro": "- Create a text replace rule (System Preferences > Keyboard > Text) - Type in Discord following that rule - Observe the lack of change"
+ }
+}

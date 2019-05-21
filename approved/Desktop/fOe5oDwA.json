@@ -1,0 +1,30 @@
+{
+ "id": "5a1cb91bf60946b3ee72e567",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1402,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fOe5oDwA",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary Webclient in Chrome and Desktop Client, build 7692",
+  "actual_result": "Client crashes",
+  "expected_result": "The emoji selector opens",
+  "short_description": "Discord crashes loading emoji menu in DMs",
+  "steps_to_repro": "- Go to a DM - Open the Emoji Selector"
+ }
+}

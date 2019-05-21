@@ -1,0 +1,24 @@
+{
+ "id": "5bda50e2dbe5f809be576f91",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1140,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FENsRe7v",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12.1.1 (dev beta)",
+  "client_settings": "TestFlight 2.4.0 (8841)",
+  "actual_result": "Audit log becomes unresponsive and won\u2019t load instantly",
+  "expected_result": "Audit log should respond fine like it did with (TestFlight 8667)",
+  "short_description": "Audit log becomes unresponsive on a iPhone 6 while checking audit log on a large server with many actions being made",
+  "steps_to_repro": "- Be an owner or admin of a large server (60k+ example) - Have a a bot make many  actions (like changing channel topic a lot) - Go to server settings and tap audit log - Observe audit log becoming unresponsive"
+ }
+}

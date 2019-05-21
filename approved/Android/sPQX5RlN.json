@@ -1,0 +1,30 @@
+{
+ "id": "5ae16bf487f20d37ba40a0d2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1325,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sPQX5RlN",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.5.6",
+  "actual_result": "It's actually saying something like \"The app needs to access your storage so you send attachments\", which is out of context",
+  "expected_result": "Should say something like \"The app needs to access your storage so you can change avatar\"",
+  "short_description": "(Android 6+) Toast showing up when changing avatar without giving the app storage permissions is referring to message attachments",
+  "steps_to_repro": "- Make sure Discord isn't granted permission to access your phone's storage - Go to your account settings where you can change avatar. Also works when changing server and group DM icons  - Tap your avatar - When Discord is requesting access to your storage, choose Refuse - Observe the error toast showing up"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "583af3fbe05b9c4e92190647",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 176,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wKodwTIX",
+ "data": {
+  "actual_result": "This https://www.youtube.com/watch?v=K7L2Nuwv17c&feature=youtu.be",
+  "expected_result": "Chat should be filled with spammy goodness",
+  "short_description": "Retrying a failed to send message that used custom emotes makes the emotes appear as ID number.",
+  "steps_to_repro": "- Type a shit ton of custom emoji - Hit send - Hit Retry "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bcc7263f3a3176392565921",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3256,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/X14qAoYU",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Discord Canary 26655",
+  "actual_result": "It says that you should let the sub expire before choosing a LOWER TIER plan.",
+  "expected_result": "It should say that you should let the sub expire before choosing a HIGHER TIER plan.",
+  "short_description": "When upgrading from $49.99 classic to $9.99 Nitro, the tooltip on $9.99 uses the term \"lower-tier\", when you are actually upgrading to a higher-tier nitro.",
+  "steps_to_repro": "- Have the $49.99 classic nitro plan. - Then, go to Settings>Nitro, and hover your mouse over the $9.99 nitro option. Read the tooltip."
+ }
+}

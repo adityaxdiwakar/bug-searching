@@ -1,0 +1,36 @@
+{
+ "id": "5a23327fbdf443a8d866aa66",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 934,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e9",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can still reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dVGbRC2q",
+ "data": {
+  "system_settings": "LG X Power, Android 6.0.1.",
+  "client_settings": "Android Alpha v5.8.1.",
+  "actual_result": "They appeared black",
+  "expected_result": "The roles should appear white",
+  "short_description": "If A role doesn't have a color, it appears black",
+  "steps_to_repro": "- Have a role that doesn't have any color, as well as the Manage Roles permission - Go to server settings > Members > Tap on any member - Observe the role(s) That do not have a color"
+ }
+}

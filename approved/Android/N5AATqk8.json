@@ -1,0 +1,30 @@
+{
+ "id": "5a3770585d95c8d25e73c8b5",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 972,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/N5AATqk8",
+ "data": {
+  "system_settings": "Tecno c9 Android 6.0",
+  "client_settings": "Discord Alpha 5.8.7",
+  "actual_result": "role name gets cut off.",
+  "expected_result": "the role should be shown just fine ,the box should expand that it can show the largest role without getting cut off.",
+  "short_description": "Names of roles with long names are cut off in roles filter box via members list",
+  "steps_to_repro": "-click on members list under user management.-click on the roles filter box right to the members search bar (note that you should make a role with a long name,like\"HEILDABBITOURMEMELORDSqUad2k17\") :P"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "594ecd064179652da46fb3d5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 525,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/P0Bg8nVn",
+ "data": {
+  "system_settings": "Android 7.0, LG K20 PLUS",
+  "client_settings": "Beta 3.9.6",
+  "actual_result": "When you click Connect nothing happens at first, but when you go back to the chat you can see a \"Disconnected... \" with a loading icon below the chat box, and you can't get rid of it until you enable your internet back or restart the app.",
+  "expected_result": "Nothing happens, or maybe should display an error message saying Failed/Unable to conect",
+  "short_description": "Voice controls show based on if you appear on the connected users list, not if you're actually connected or connecting",
+  "steps_to_repro": "- Make sure Discord is opened and active, and that you are not connected to any voice channel yet- Turn on Airplane mode or disable Wifi/Mobile data- Try to connect to a voice channel"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b5121c82632836bd58685f7",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2338,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vcMyHnCj",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (19237)",
+  "actual_result": "It shows the message context menu",
+  "expected_result": "It should open the member context menu",
+  "short_description": "You can no longer right click user mentions, instead it will open the message context menu",
+  "steps_to_repro": "- Right click on a user mention - Observe the message context menu"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ae961d5b92ae0b8c3bf1e51",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1352,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nhLYMAPG",
+ "data": {
+  "system_settings": "lg Xpower (k220) 6.0.1",
+  "client_settings": "Alpha 6.6.0",
+  "actual_result": "it's scrolled somewhere below, with emotes from previous server still visible",
+  "expected_result": "enote picker should be on top",
+  "short_description": "Closing emote picker and Changing server cause it to scroll to lower point [Android 6.x.x specific]",
+  "steps_to_repro": "- open emote pickee - scroll to custom Emotes from server you are in curently - close emote picker - change server - open emote picker"
+ }
+}

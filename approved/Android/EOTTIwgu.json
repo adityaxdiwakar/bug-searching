@@ -1,0 +1,23 @@
+{
+ "id": "58cb6efde477f67f66c7bef7",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 299,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EOTTIwgu",
+ "data": {
+  "system_settings": " Samsung Galaxy S6 Edge, Android 6.0.1, Discord 3.5.1",
+  "actual_result": "Strange abstract depiction of Grant Permission box, along with inability to press the Grant Permission button.",
+  "expected_result": "Grant Permission box pops up, still able to interact with it",
+  "short_description": "Grant Permissions box stops functioning",
+  "steps_to_repro": "- Deny Discord permission to use Camera from phone settings - Head into app, use camera feature - Hit Grant Permission - Deny on \u201cAllow Discord to take picture and record video?\u201d - Observe "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b75d994be9d3b11ffda33fb",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2718,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/462tGQzF",
+ "data": {
+  "system_settings": "WIN7 Enterprise",
+  "client_settings": "Stable 22011",
+  "actual_result": "It clears itself on reload or filtering",
+  "expected_result": "the @ everyone mention should stay in your recent mentions until you clear it",
+  "short_description": "In recent mentions @ everyone clears itself if the server has @ everyone and @ here suppressed",
+  "steps_to_repro": "- Open discord to any server - mute a server, and suppress @ here and @ everyone mentions - open your recent mentions - have someone @ everyone in the server you suppressed the notifications - note the mention is there - now filter the mentions, or reload your client - clear the filter or re-open the recent mentions"
+ }
+}

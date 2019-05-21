@@ -1,0 +1,17 @@
+{
+ "id": "5c34439db6229a233f2af762",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3587,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Nr6LNSy3",
+ "data": {
+  "system_settings": "Windows 10 Home, OS Build: 16299.846, Version: 1709",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 30566, Version Hash: a6ae4626f56fe71fa3d9ddfbf3ffa72094bee66c",
+  "actual_result": "The x tries to be transparent over the lettering when it is not supposed to do that",
+  "expected_result": "The x is supposed to be in the box",
+  "short_description": "X is not in a box in search bar, it tries to be transparent over what you want to search.",
+  "steps_to_repro": "- Type a long thing out in the search bar like \"from: mentions: has: \" in the thing, but with actual options - click out of the search bar"
+ }
+}

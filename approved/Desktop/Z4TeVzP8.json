@@ -1,0 +1,24 @@
+{
+ "id": "59402d5002b6311e802fae68",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 752,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Z4TeVzP8",
+ "data": {
+  "system_settings": "Mac OSX sierra",
+  "client_settings": "Latest  Discord Build",
+  "actual_result": "The role gets deleted but all changes made to the other roles before saving reset.",
+  "expected_result": "The role should get deleted and all changes that you made in the other roles should stay.",
+  "short_description": "When changing/moving roles, if you delete a certain role before saving all of the changes reset.",
+  "steps_to_repro": "- Move some roles around. - Delete a role."
+ }
+}

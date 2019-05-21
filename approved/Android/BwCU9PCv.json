@@ -1,0 +1,30 @@
+{
+ "id": "5bfffba8b0ff6e51049389f9",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2366,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BwCU9PCv",
+ "data": {
+  "system_settings": "Google Pixel 2 XL, Android 9.0 (Nov Patch)",
+  "client_settings": "Discord Alpha 8.0.2. (802)",
+  "actual_result": "The suggestions dissapear even if you typed something valid",
+  "expected_result": "The list gets narrowed down.",
+  "short_description": "Searching with a specific symbol rather than just plain text for search filters causes unexpected issues",
+  "steps_to_repro": "- Open search in a channel - Use the ``in:`` filter - Type in a ``#`` and then observe that the channels eligible are shown - Type in another character to filter from channels - Notice how all the filtered results go away as if you typed something invalid"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5ae1ffe80b0963ff9d8f1615",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1890,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/eU3peORh",
+ "data": {
+  "system_settings": "GNU/Linux, Windows and possibly Mac",
+  "client_settings": "Mozilla Firefox 59.0.2",
+  "actual_result": "Pastes lines condensed to a single line",
+  "expected_result": "Pastes lines identical to content",
+  "short_description": "Copy/paste doesn't preserve newlines in Mozilla Firefox (Chromium/Chrome work fine, I have not tested the native Linux app)",
+  "steps_to_repro": "- Copy multi-line text - Paste"
+ }
+}

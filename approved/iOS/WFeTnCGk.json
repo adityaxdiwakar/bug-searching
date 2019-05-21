@@ -1,0 +1,35 @@
+{
+ "id": "59131f0452cfb49ab5dec026",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 241,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WFeTnCGk",
+ "data": {
+  "system_settings": " iOS 10.3.1, latest App Store",
+  "actual_result": "infinite loading wheel http://mattbsg.xyz/i/IMG_0539.PNG",
+  "expected_result": "You can't report your own message OR the report menu would display",
+  "short_description": "Trying to report your own message results in report window not loading (or even the ability to report yourself)",
+  "steps_to_repro": "- Tap and hold on a message - Tap report "
+ }
+}

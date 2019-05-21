@@ -1,0 +1,30 @@
+{
+ "id": "5b0aab3c0664744650971ef7",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2062,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lrhZDaXR",
+ "data": {
+  "system_settings": "Win 10 64-bit, x64-based processor",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 16162, Version Hash: 905c666082c26511971c48bdfd2640e44683e187",
+  "actual_result": "Message gets saved without any content, and if you try to edit it it won't even have the space",
+  "expected_result": "Delete modal comes up(as happens if you press enter)",
+  "short_description": "Editing a message to contain only a space and clicking save will save an empty message",
+  "steps_to_repro": "- Send a message - Edit it - Replace the content with a space - Click save"
+ }
+}

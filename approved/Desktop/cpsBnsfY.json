@@ -1,0 +1,17 @@
+{
+ "id": "5c2c0e249cb378823be9dfa7",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 3559,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cpsBnsfY",
+ "data": {
+  "system_settings": "Ubuntu 18.04.1",
+  "client_settings": "Release Channel: canary, Build Number: 30302, Version Hash: db622561b65eae5128bc8eab9db7679a4527c3f",
+  "actual_result": "Store loads indefinitely",
+  "expected_result": "Either the \"view in store\" doesn't appear at all, or the game appear in the store.",
+  "short_description": "Clicking on \"view in store\" for GTA V causes it to flip to the store, then load forever.",
+  "steps_to_repro": "- Find someone playing GTA V - click on \"view in store\" - observe"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "5898b79603bdeedcf667eea2",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 175,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5kggx60q",
+ "data": {
+  "system_settings": " iPhone 6s Plus on iOS 10.2.1, App Store app version 1.8.1 .",
+  "actual_result": "The app glitches, shows whitespace underneath text when navigating, and various other UI features misbehave.",
+  "expected_result": "The app behaves as normal.",
+  "short_description": "App shows whitespace and glitches during usage with extended menubar",
+  "steps_to_repro": "- Get an extended bar, easiest way to make this happen is to enable personal hotspot and connect a device, or go on a call. - Open the app, once the extended menubar is visible. - Navigate the app, especially swiping motions, keyboard up/down and user selection. "
+ }
+}

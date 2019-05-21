@@ -1,0 +1,30 @@
+{
+ "id": "5beb47d2a63ce34329e5b411",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3376,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MFR7mapB",
+ "data": {
+  "system_settings": "Windows 10 home x86",
+  "client_settings": "canary, Build Number: 27933",
+  "actual_result": "server order is messed up and unable to move",
+  "expected_result": "your able to move servers as normal and should be in the order you put them in",
+  "short_description": "servers get mixed up and unable to move them",
+  "steps_to_repro": "- be on latest canary - try to move servers or see if order is messed up - observe"
+ }
+}

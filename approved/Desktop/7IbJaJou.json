@@ -1,0 +1,30 @@
+{
+ "id": "5b83fd519d40518e77d56d25",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2812,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7IbJaJou",
+ "data": {
+  "system_settings": "Windows 10 Home x64 (1803)",
+  "client_settings": "Stable 22333 - EdgeHTML 17.17134 - Firefox Quantum v61.0.2 - Google Chrome Stable 68.0.3440.106 (64-bit)",
+  "actual_result": "You can drag and make it appear as if you're selecting two different options",
+  "expected_result": "There should not be a visual effect as there is none on the desktop version",
+  "short_description": "[Web ONLY] You can drag across multiple options to make it appear as if you're selecting multiple options in the vertical kebab menu",
+  "steps_to_repro": "- Send a message - Click the vertical kebab menu to the right of the message - Click and hold on one option - Drag your mouse over an option while still having the first option selected (held down) - Attempt the same on desktop"
+ }
+}

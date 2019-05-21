@@ -1,0 +1,29 @@
+{
+ "id": "5914e07019a04da93c7f4b5b",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 243,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/u6ZU1eDh",
+ "data": {
+  "system_settings": " iPhone SE, 10.2",
+  "actual_result": "No space.",
+  "expected_result": "A space.",
+  "short_description": "Report Menu Spacing is Off",
+  "steps_to_repro": "- Start a report against someone - Look very closely at the dialogue on the bottom or the attached screenshot "
+ }
+}

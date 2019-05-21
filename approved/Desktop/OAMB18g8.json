@@ -1,0 +1,23 @@
+{
+ "id": "58f934d32a9f42eefda1bdde",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 520,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OAMB18g8",
+ "data": {
+  "system_settings": " Windows 8.1, Canary 0.153",
+  "actual_result": "You can click it",
+  "expected_result": "It be greyed out and unable to be clicked",
+  "short_description": "Can Click On Change Voice Region Without Manage Server Permission",
+  "steps_to_repro": "- Have a permission where you can go to server settings - Go click on Change Voice Region  "
+ }
+}

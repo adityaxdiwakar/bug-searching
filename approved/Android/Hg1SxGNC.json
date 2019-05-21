@@ -1,0 +1,17 @@
+{
+ "id": "5be736e07dd0f720c7479c7a",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2303,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Hg1SxGNC",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.8.8",
+  "actual_result": "Duplicate audit logs at random timing order shows.",
+  "expected_result": "There shouldn't be any duplicated results, and the timeline should be in order from the most recent to the oldest.",
+  "short_description": "Some audit log contents shows duplicate results, in order of wrong timing.",
+  "steps_to_repro": "- Go to audit logs. - Select \"Filter by Action\", and select \"Kick Member\" or \"Ban Member\" (These two are the ones that shows for me). - Notice your results. Some of the logs are duplicated, and ordered in wrong timing. (It may help if your filter doesn't have that many results). - Just a notice: This may not be only limited to Kick and Ban, it can happen elsewhere. Please try other filters as well."
+ }
+}

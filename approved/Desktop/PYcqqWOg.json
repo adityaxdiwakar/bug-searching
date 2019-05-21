@@ -1,0 +1,30 @@
+{
+ "id": "5b9e8cc03774352dc676ad59",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2994,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PYcqqWOg",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 752",
+  "actual_result": "The buttons appear behind the keyboard and go off screen when the keyboard is closed.",
+  "expected_result": "The pop-up appears above the keyboard or at least appears on screen when the keyboard is closed.",
+  "short_description": "[Mobile only] When you name changes to any of your applications on the Discord Developers portal , the buttons on the pop-up that says you have unsaved changes are covered by the keyboard and when you close the keyboard, the buttons go off screen.",
+  "steps_to_repro": "- Open the Developers portal and click on \"Applications\". - Click on any of your applications. - Make changes like removing a character from the application's name description. - Observe the pop-up."
+ }
+}

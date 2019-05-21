@@ -1,0 +1,23 @@
+{
+ "id": "58b26a5fdc3fbeadcc53f185",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 398,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QPDivhra",
+ "data": {
+  "system_settings": " Win10 Canary x64",
+  "actual_result": "You are sometimes redirected, but the window of Discord randomly changes.",
+  "expected_result": "You should be redirected to that mention normally.",
+  "short_description": "Clicking on a notification messes up Discord's Window",
+  "steps_to_repro": "- Go on another Discord Server - Step 2 - Get mentioned on another Discord server - Step 3 - Click on that mention "
+ }
+}

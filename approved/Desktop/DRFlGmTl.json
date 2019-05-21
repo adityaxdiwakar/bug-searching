@@ -1,0 +1,22 @@
+{
+ "id": "58793694e4473ecc6bfff848",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 329,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DRFlGmTl",
+ "data": {
+  "actual_result": "You have an excuse to avoid your aunt's people watching fruit",
+  "expected_result": "You can pause your extremely important Vine to \"listen\" to your aunt tell you gossip about the neighbors",
+  "short_description": "Vine Embeds have no Pause/Stop button",
+  "steps_to_repro": "- Link a Vine (with embeds) - be interrupted by someone wanting your attention - try to pause "
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "58c47e33f7781a57df76f72e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 413,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7T1HwQBc",
+ "data": {
+  "actual_result": "It shows no results. System Settings: Windows 10, Stable",
+  "expected_result": "Either ignore that the search option has been used twice and show results or don't allow the same search option with the same value twice.",
+  "short_description": "Using the same search option (from, mention, has, in (any except those with dates)) with the same value twice will not show any results.",
+  "steps_to_repro": "- Use the search with one of the search options mentioned before (in the description). - Repeat step 1 with the exact same search option and value (eg. in: <#197043770141704193>, in: <#197043770141704193>). "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5aff61e15330558e6f97bff1",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1432,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/W6cB5Z2I",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.7.4",
+  "actual_result": "No autoplay",
+  "expected_result": "Gif preview should autoplay",
+  "short_description": "External GIFs don't autoplay (resubmission of an old CNR archived ticket <https://trello.com/c/wDjwGE2Y>)",
+  "steps_to_repro": "- On Desktop, use the /giphy command and send a GIF link in chat - View the channel where it was posted in on Android"
+ }
+}

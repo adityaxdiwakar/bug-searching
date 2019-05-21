@@ -1,0 +1,30 @@
+{
+ "id": "5b8a3cf0fe2ae954cde6f674",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2909,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ruWBlXbC",
+ "data": {
+  "system_settings": "Widows 10 64x Home",
+  "client_settings": "Windows Canary Build 22978",
+  "actual_result": "You hear '[Username] said \"Underscore Underscore Words Underscore Underscore\"'",
+  "expected_result": "You will hear '[Username] said \"Words\"' as the Underscores are markdown, You can prove that markdown is not supposed to be read allowed by typing \"/tts `**words**` You will hear the narrator just saying \"Words\" instead of \"asterisk asterisk Words asterisk asterisk\"",
+  "short_description": "Underscore markdown is read alowed in /tts",
+  "steps_to_repro": "- In a channel in the same guild type '/tts `__words__`'"
+ }
+}

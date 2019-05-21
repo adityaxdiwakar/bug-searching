@@ -1,0 +1,36 @@
+{
+ "id": "5ac3c8f96c27b99b244a7688",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1790,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5a8c933b1ce1cddeb01e7110",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Crash",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/O9XFKh4e",
+ "data": {
+  "system_settings": "windows 10 x64 build 1709",
+  "client_settings": "Canary build 13034",
+  "actual_result": "after few seconds app refresh with \"ERR_NAME_NOT_RESOLVED\"",
+  "expected_result": "spotify embed should simply not load leaving url alone/show some placeholder",
+  "short_description": "discord app crash if spotify embeed can't connect to (must block via IP/url if using firewall method, Blocking Spotify exe won't work.)",
+  "steps_to_repro": "- be unable to connect to  (firewall block on it via url or ip / some temporary issue) - try to view spotify song embed"
+ }
+}

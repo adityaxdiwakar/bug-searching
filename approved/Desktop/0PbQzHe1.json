@@ -1,0 +1,30 @@
+{
+ "id": "5a916242629de12678d1d2c7",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1686,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0PbQzHe1",
+ "data": {
+  "system_settings": "Dell Latitude E5540 - Windows 10 Professional x64, Fall Creators Update. (Screen resolution was 1920 x 1080)",
+  "client_settings": "Discord Canary Build 11072",
+  "actual_result": "Discord Overlay is MIA (missing in action) / not present.",
+  "expected_result": "Discord Overlay should show with CTRL + ALT (depending on your overlay settings)",
+  "short_description": "Discord Overlay does not appears when having a 1920 x 1080 screen resolution (Can also check other resolutions)",
+  "steps_to_repro": "- Open a game like Surgery Simulation 2013 or League of Legends (there may be others, do play around with that.) - Attempt to toogle overlay."
+ }
+}

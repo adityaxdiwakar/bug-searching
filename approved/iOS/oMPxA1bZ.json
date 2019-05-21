@@ -1,0 +1,24 @@
+{
+ "id": "5aa1a1ed8d6c63424efadea3",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 625,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oMPxA1bZ",
+ "data": {
+  "system_settings": "iPhone X, iOS 11.2.6",
+  "client_settings": "TestFlight 2.2.5 (3022)",
+  "actual_result": "Has a split second pause in the animation before continuing",
+  "expected_result": "Smoothly pulls over",
+  "short_description": "Stutter in member and server list pull-over animation",
+  "steps_to_repro": "- Open a server - Open the members list or server list with a quick pull"
+ }
+}

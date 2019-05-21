@@ -1,0 +1,17 @@
+{
+ "id": "5bc46bf6e2ccbe0d6f03f712",
+ "closed": false,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2175,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XwkjM3NN",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 770",
+  "actual_result": "Only the one with 50 steps pops up; to load the other entries, you'll have to pull down as if you're trying to scroll.",
+  "expected_result": "All entries pop up.",
+  "short_description": "If you have an entry with 50 steps at the top in Audit log and open the log, only the first entry (i.e. the one with 50 steps) loads.",
+  "steps_to_repro": "- Make changes to a role 50 times (or do anything that gives you 50 steps in an entry). - Open Audit log."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59f2fded3ab196a805b6532c",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 854,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6nHnpIB4",
+ "data": {
+  "system_settings": "lg xpower 6.0.1",
+  "client_settings": "alpha 5.5.1",
+  "actual_result": "modal close",
+  "expected_result": "modal should not close ignoring pressing white space",
+  "short_description": "clicking white space in change nickname modal closes it",
+  "steps_to_repro": "- open change nickname modal - tap in white space next to reset nickname button"
+ }
+}

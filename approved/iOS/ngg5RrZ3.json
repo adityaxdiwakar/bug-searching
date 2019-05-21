@@ -1,0 +1,24 @@
+{
+ "id": "5c02848b20666e240adc06e3",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1199,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ngg5RrZ3",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9477)",
+  "actual_result": "You are scrolled to the top",
+  "expected_result": "You aren't scrolled to the top as you cannot interact with the UI while the new create/join server menu is open",
+  "short_description": "When the new join/create server options are open, you can tap the top of the screen to scroll to the top of the channel or server lists",
+  "steps_to_repro": "- Open the new create/join server menu - Tap the very top of the screen, where the time is, above either the server or channel list"
+ }
+}

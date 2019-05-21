@@ -1,0 +1,24 @@
+{
+ "id": "594ebe372fbc836cc8395549",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 523,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tzIYOYqZ",
+ "data": {
+  "system_settings": "LG Stylo 3, Android 7.0",
+  "client_settings": "Android Alpha 3.9.7",
+  "actual_result": "Both open for a second.",
+  "expected_result": "One of the menus open",
+  "short_description": "You can open both side menus at the same time one will close after a second",
+  "steps_to_repro": "- Go to a channel(not pms it will not work there)- press them both at the same time"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b51916ff6be6e04dd0094ae",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2356,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IY0l1oyc",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 19322",
+  "actual_result": "The mention with the emote has the highlight raised while the mention without the emote does not",
+  "expected_result": "Both mentions are centered in the highlights",
+  "short_description": "Mention highlight is raised when message contains an emote",
+  "steps_to_repro": "- Have someone mention you - Have someone mention you again but include an emote in the second mention - Observe the highlights on both messages"
+ }
+}

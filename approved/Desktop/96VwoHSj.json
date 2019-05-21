@@ -1,0 +1,16 @@
+{
+ "id": "58cc66c979f7d492c6efdfee",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 436,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/96VwoHSj",
+ "data": {
+  "system_settings": " Win 10 home x64, Discord Canary",
+  "actual_result": "Still given the error message.",
+  "expected_result": "To see it update in the search menu.",
+  "short_description": "when unblocking a user in search, it doesnt allow you to jump back to an old message",
+  "steps_to_repro": "- Open up search - see blocked user that mentioned you - unblock while search is still open - try to jump back, and find that it still gives you the \"Oh no, unblock the person to jump back to a message\" "
+ }
+}

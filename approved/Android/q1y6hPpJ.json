@@ -1,0 +1,17 @@
+{
+ "id": "5ba97f9b87f1f208c7ddfa96",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2013,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/q1y6hPpJ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "Keyboard covers all the popup",
+  "expected_result": "the popup should move up so the keyboard doesn't cover everything",
+  "short_description": "[Audit Logs] Keyboard completely covers user search in Filter by users",
+  "steps_to_repro": "- Get 7.5.5 update - Access Audit logs - Filter by User - Tap search bar"
+ }
+}

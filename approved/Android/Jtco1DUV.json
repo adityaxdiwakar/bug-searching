@@ -1,0 +1,30 @@
+{
+ "id": "5b34d5a269cc54d59ca85faa",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1614,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Jtco1DUV",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 701",
+  "actual_result": "The message is a little toward the top of the screen.",
+  "expected_result": "The message should be in the middle of the screen.",
+  "short_description": "Searching a long message and jumping to it doesn't keep it centered.",
+  "steps_to_repro": "- Searching for a long message in a channel. - Click on it."
+ }
+}

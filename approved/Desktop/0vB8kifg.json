@@ -1,0 +1,30 @@
+{
+ "id": "5b2cfb0c2ef82a120286146c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2181,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0vB8kifg",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 17478, Version Hash: c0364f591f14520286427ad242e3e6bb9055e5e7",
+  "actual_result": "When i follow the step, Spotify open, but i'm not Synch until the end of the song my friend is currently playing",
+  "expected_result": "Spotify have to open and sync the song",
+  "short_description": "Spotify doesn't synch with other people until the end of the music",
+  "steps_to_repro": "- Close Spotify - Choose a Friend who are in listen - Click for listen with him - See you are on the start of the song"
+ }
+}

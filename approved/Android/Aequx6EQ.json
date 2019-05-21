@@ -1,0 +1,16 @@
+{
+ "id": "5857e155f69c577af49e876b",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 148,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Aequx6EQ",
+ "data": {
+  "system_settings": " Android 6.0, Sony Xperia M5 ",
+  "actual_result": "Only people you have DMed appear in the Member List System Settings: Android 6.0, Sony Xperia M5",
+  "expected_result": "All members of a Group Chat or a Server appear when you open the Member List",
+  "short_description": "Occasionally when clicking a notification, only people you have DMed show up as members of a chat until you click on another server",
+  "steps_to_repro": "- Close Discord - Click a notifiction from a Group Chat or Server "
+ }
+}

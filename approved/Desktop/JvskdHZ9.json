@@ -1,0 +1,16 @@
+{
+ "id": "584919caadfea256d041ad87",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 228,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JvskdHZ9",
+ "data": {
+  "system_settings": " Latest canary windows 10 pro",
+  "actual_result": "It never trusts the domain and keeps prompting",
+  "expected_result": "Domain gets trusted and stops prompting the user.",
+  "short_description": "Masked links in embeds are never considered trusted",
+  "steps_to_repro": "- Have someone send a message with a masked link inside an embed - Click it and select `Trust this domain` "
+ }
+}

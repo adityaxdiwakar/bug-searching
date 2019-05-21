@@ -1,0 +1,24 @@
+{
+ "id": "5bdb17f331916868b4c68eec",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1144,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/K1LoQJg8",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12",
+  "client_settings": "Testflight 2.4.0 (8841)",
+  "actual_result": "Your message will be marked as unread",
+  "expected_result": "Your message shouldn't be marked as unread",
+  "short_description": "Sending an emote from another server in a server will make it as unread (must not have nitro)",
+  "steps_to_repro": "- Try sending an emote to force clyde to send a message - Once you get clyde's message, restart your client by clicking the home button and swiping it up - Open app once again"
+ }
+}

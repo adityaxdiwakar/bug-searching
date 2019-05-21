@@ -1,0 +1,23 @@
+{
+ "id": "5918bf38eff8c364ad3ee2d0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 649,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/s8S2RBTF",
+ "data": {
+  "system_settings": " Latest version of Discord Stable/Public for Windows",
+  "actual_result": "The server name runs into the emotes https://i.imgur.com/d1Vpbit.png",
+  "expected_result": "Emotes shift down below the server name or the server name is shortened with ... at the end.",
+  "short_description": "Long Server Names break Emote List",
+  "steps_to_repro": "- Rename your server to something long - Check your emote list and view that server - etc "
+ }
+}

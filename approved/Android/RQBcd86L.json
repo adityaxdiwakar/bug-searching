@@ -1,0 +1,30 @@
+{
+ "id": "5ae6f7cdf7163480f904196d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1347,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RQBcd86L",
+ "data": {
+  "system_settings": "OnePlus 3T Android 8.0.0",
+  "client_settings": "Discord Beta 6.5.9",
+  "actual_result": "Some images stay and other become transparent (see attached).",
+  "expected_result": "The images should disappear in the image selection menu.",
+  "short_description": "Deleted images appear as transparent",
+  "steps_to_repro": "- Have a folder with a big number of images in it - Check that the images appear in the app - Delete the folder"
+ }
+}

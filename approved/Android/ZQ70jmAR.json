@@ -1,0 +1,36 @@
+{
+ "id": "5a33bed1318e2092ef101ca5",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 952,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZQ70jmAR",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 5.8.6",
+  "actual_result": "it doesn't display/update but it did add it",
+  "expected_result": "it shows that the reaction was added",
+  "short_description": "messages aren't displaying/Updating any reaction adds",
+  "steps_to_repro": "- scroll high enough to cause the \"You are viewing older messages\" banner - add a reaction - observe the message"
+ }
+}

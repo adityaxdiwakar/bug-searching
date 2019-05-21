@@ -1,0 +1,30 @@
+{
+ "id": "5a5e20dc5f00052fa8d9e21d",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1039,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xciWEXSX",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.1.0",
+  "actual_result": "The badge is present but it is embedded into a white background which gives it a white border.",
+  "expected_result": "You should get a red notification badge that looks as it does normally when viewing the server icon when not sorting servers",
+  "short_description": "Notification badge has a white border which makes it look odd while sorting servers",
+  "steps_to_repro": "- Get someone to mention you in a server so that you have the red notification badge - Long press the server icon - Scroll all the way down to sort [server name] and click on it - Scroll to the server in which you have been mentioned  - Observe the notification badge"
+ }
+}

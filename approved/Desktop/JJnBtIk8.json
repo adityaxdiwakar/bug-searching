@@ -1,0 +1,24 @@
+{
+ "id": "59df0309749092d8383eeab9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1253,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JJnBtIk8",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Discord Stable, Build No. 5480",
+  "actual_result": "If you hit the spacebar in between 2 words/characters, the typing indicator goes to back to the last character you typed before you went back to put a space between the other characters. (if needed, I can create a gif showing what happens because I know this is a weird explanation, mainly because it's hard to explain in words... :/",
+  "expected_result": "The spacebar shouldn't make the text you were going to type after go back to the end of the text-channel name and should allow you to keep typing as normal.",
+  "short_description": "When you're making a text-channel and you type some letters and realise you made a mistake, like missed out a space between 1 word and another (which then makes a dash) the rest of the text that you want to type after the space goes back to where your text channel name finishes.",
+  "steps_to_repro": "- Begin to create a text channel and name it - Once you have placed a few characters go back a few characters - Hit the spacebar"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bcc2226746c48030fa4faf2",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3252,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XT4zZrd8",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Canary - build 26655",
+  "actual_result": "The timer gets stuck and you can't type in that channel at all.",
+  "expected_result": "The timer should keep counting down and you'll be able to type again.",
+  "short_description": "Rejoining a server when you have slowmode counting down in a channel makes the timer stuck",
+  "steps_to_repro": "- Type in a channel with slowmode - Leave and rejoin the server while slowmode is counting down - Go back to the slowmode channel"
+ }
+}

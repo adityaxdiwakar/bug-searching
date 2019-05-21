@@ -1,0 +1,16 @@
+{
+ "id": "58b193e0fd04dcb57a4dbca3",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 397,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qNlJxtaJ",
+ "data": {
+  "system_settings": " MacOS, Canary",
+  "actual_result": "Greyple background on Wumpus and text, lighter greyple for rest of background",
+  "expected_result": "Pure greyple background for the Wumpus image, and the text",
+  "short_description": "Background Color is different from \"Nobody's around to play with Wumpus\" text & image",
+  "steps_to_repro": "- Open Friends list - Have no friends online "
+ }
+}

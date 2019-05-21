@@ -1,0 +1,42 @@
+{
+ "id": "59414a0b2ea8905102697726",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 261,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a5e61490661fc1c89f71a0a",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Q1",
+   "color": null
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ECnRLX3G",
+ "data": {
+  "system_settings": "iPhone 7, iOS 10.3.3 (14G5037b)",
+  "client_settings": "iOS App Store, 1.8.7",
+  "actual_result": "The red bar stays and Discord keeps using lots of battery.  Even bringing the app back to the foreground doesn't stop it, you'll need to restart the app.",
+  "expected_result": "The iOS app turns off voice call mode, stopping the large title bar and extra battery usage associated with it.",
+  "short_description": "Auto disconnect doesn't disable voice call mode",
+  "steps_to_repro": "- Connect to a voice chat using the iOS app - Background the iOS app so you see the red bar across the top indicating that the app is in a call - On another device, connect to a voice chat so the iOS app automatically disconnects from its voice chat"
+ }
+}

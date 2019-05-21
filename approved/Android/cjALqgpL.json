@@ -1,0 +1,23 @@
+{
+ "id": "58ed5ce9e9624f6346e8cfbb",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 345,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cjALqgpL",
+ "data": {
+  "system_settings": " discord3.6.2(358) android 7.0",
+  "actual_result": "the emojis just look like text",
+  "expected_result": "message should show the emoji with colons around it",
+  "short_description": "Colons not showing up around emoji when long pressing",
+  "steps_to_repro": "- type message with emoji in it - long press on it for message options "
+ }
+}

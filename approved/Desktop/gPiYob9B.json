@@ -1,0 +1,24 @@
+{
+ "id": "5b743f6b6ea1cd2aac99a9be",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2712,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gPiYob9B",
+ "data": {
+  "system_settings": "Windows 10 1803 x64",
+  "client_settings": "Chrome 68.0.3440.106",
+  "actual_result": "You can't. The website thinks it opens the modal (observe the address link) but the modal doesn't show, exposing the behind-modal, but you can't interact with it.",
+  "expected_result": "You can interact the HypeSquad website after being redirected to HypeSquad page",
+  "short_description": "When you press logout from HypeSquad apply modal, after being redirected, you can't interact the website at all",
+  "steps_to_repro": "- Open HypeSquad website (make sure you have logged in before opening the page) - Click 'Apply Now', press Logout - observe"
+ }
+}

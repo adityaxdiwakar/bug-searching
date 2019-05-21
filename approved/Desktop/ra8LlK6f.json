@@ -1,0 +1,30 @@
+{
+ "id": "5b61fb81992e7886c007897b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2572,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ra8LlK6f",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 20433",
+  "actual_result": "Dots are a little more to the left",
+  "expected_result": "Dots are centered in the box",
+  "short_description": "When joining someone to listen to Spotify, the three dots when it's loading aren't centered",
+  "steps_to_repro": "- Open someone's profile who is listening to Spotify - Click the little person button, to join them - Observe the loading dots' position"
+ }
+}

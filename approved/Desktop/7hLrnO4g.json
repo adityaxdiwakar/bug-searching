@@ -1,0 +1,30 @@
+{
+ "id": "5b29dc54983c14acc81b706f",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2157,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7hLrnO4g",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (17333)",
+  "actual_result": "It will just randomly disappear/reappear in DMs making it look super strange",
+  "expected_result": "There should be a starting animation and an ending animation like in servers",
+  "short_description": "In the recent DM list. The typing indicator animation is not existent. It will just randomly appear/disappear compared to in servers",
+  "steps_to_repro": "- Go to DMs with someone - Observe to the left where all your recent DMs are - Ask someone to write something then stop"
+ }
+}

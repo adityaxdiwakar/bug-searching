@@ -1,0 +1,16 @@
+{
+ "id": "588aa02059ca394ad7ca4f37",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 352,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/axBwlNvm",
+ "data": {
+  "system_settings": " Win 10 x64, latest discord canary",
+  "actual_result": "the call sound stops.",
+  "expected_result": "the call sound should continue even when you change what you're viewing",
+  "short_description": "dm call sound stop when moving of the chat",
+  "steps_to_repro": "- start a direct call to someone - listen to call sound - move to a server - notice the call sound stops "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ac572b63175d91813790132",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1249,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bvV84k8c",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.6",
+  "actual_result": "It's filled with the half typed out message, (in this example, `Hello! My nam`)",
+  "expected_result": "The textfield should stay empty",
+  "short_description": "Following a specific series of steps will cause an old and half-typed text to appear in the textbox",
+  "steps_to_repro": "- Let's imagine you want to send the following message : `Hello! My name is Dabbit.` - Choose a channel and start to type the message: `Hello! My nam` (cut here) - Let's consider you need to search for a message immediately, it cannot wait for you to finish typing the messqge. Tap the magnifying glass and search for anything - In the search results, pick any message and jump to it - Go back to the channel you were typing the message in - Finish typing your message and send it - Now, minimize Discord using the Home button of your phone - Re-open Discord using the shortcut icon on your homescreen (NOT VIA MULTI-TASKING) - Look at the textfield"
+ }
+}

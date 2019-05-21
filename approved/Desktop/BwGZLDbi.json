@@ -1,0 +1,24 @@
+{
+ "id": "5970336a688c312de9812898",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 868,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BwGZLDbi",
+ "data": {
+  "system_settings": "https://youtu.be/Nc_O-xq1mp4 .mp4 Win",
+  "client_settings": "Discord Stable",
+  "actual_result": "A different playback bar appears and the video dosen't play, possibly due to the client trying to interpret it as a \".mp4\" link",
+  "expected_result": "It will play like normal",
+  "short_description": "Youtube links that end in \"mp4\" don't play embedded properly",
+  "steps_to_repro": "- Have a youtube url that ends in \"mp4\" (ex: <https://youtu.be/Nc\\_O-xq1mp4>) - Send it on discord - Click the play button"
+ }
+}

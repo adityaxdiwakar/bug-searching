@@ -1,0 +1,30 @@
+{
+ "id": "5bebd5aa92e6de04ce4775c3",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3381,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MCn7SyxG",
+ "data": {
+  "system_settings": "Windows 10, 1709",
+  "client_settings": "Desktop/Web Canary, build 27964",
+  "actual_result": "Rubber-banding back to the bottom of the channel list",
+  "expected_result": "Scrolling to the top",
+  "short_description": "Cannot scroll back to the top of a channel list once at the bottom of an extensively long one.",
+  "steps_to_repro": "- Scroll to the bottom of a long channel list- Ensure that the \"NEW UNREADS\" message appears at the top of the channel list. - Try scrolling back up"
+ }
+}

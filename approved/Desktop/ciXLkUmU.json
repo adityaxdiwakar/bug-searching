@@ -1,0 +1,24 @@
+{
+ "id": "59cb562a00dc220476b675d8",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1195,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ciXLkUmU",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord Canary 0.0.154",
+  "actual_result": "After someone adding reaction on your chat, you jumped to your chat that got reaction by people",
+  "expected_result": "Nothing should've happened, the chat should've stay where you scrolled on",
+  "short_description": "When someone giving reaction on your post while you scroll up, it scrolled back to your post",
+  "steps_to_repro": "- Post something - Try ask someone to add reaction before you scrolled up the chat - Scroll the chat up"
+ }
+}

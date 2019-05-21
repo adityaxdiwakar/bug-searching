@@ -1,0 +1,17 @@
+{
+ "id": "5bc8302ed2e8ba6c7ddfd39c",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2189,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Hhj19IL5",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.7.5",
+  "actual_result": "The search bar vanishes along with results",
+  "expected_result": "It gives empty results and the searchbar stays in place",
+  "short_description": "If the invite people screen gives no results, the search bar vanishes",
+  "steps_to_repro": "- Go to the new Invite people screen - Write nonsense stuff in the search user box"
+ }
+}

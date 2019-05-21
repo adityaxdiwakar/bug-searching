@@ -1,0 +1,30 @@
+{
+ "id": "5b4bb9d180409a88978b38ca",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 834,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oskCKthG",
+ "data": {
+  "system_settings": "iPhone 8 Plus - iOS 11.4.1, iPad Air 2 - iOS 12 Public Beta 2",
+  "client_settings": "Stable 2.3.5",
+  "actual_result": "It gets added to a random image.",
+  "expected_result": "The comment should be added to the first uploaded file.",
+  "short_description": "Comment gets added to a random image when uploading multiple ones",
+  "steps_to_repro": "- Go to the iOS photos app - Select multiple photos - Click on the share button - Select Discord - Add a comment - Upload them to Discord - Try it again to see the difference"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b5f8c38efa375c8f2486622",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1734,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pJqgpFBD",
+ "data": {
+  "system_settings": "Android 5.1",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "There aren't line after \"leave server\" button",
+  "expected_result": "There are a line after \"leave server\" button because \"copy ID\" isn't same category of \"leave server\" button",
+  "short_description": "Missing line after \"leave server\" button",
+  "steps_to_repro": "- Go in a server - Click on name of the server to acces of settings"
+ }
+}

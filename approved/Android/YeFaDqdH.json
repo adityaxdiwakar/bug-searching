@@ -1,0 +1,30 @@
+{
+ "id": "5ba01065ad2bcd2fe4b13aa5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1988,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YeFaDqdH",
+ "data": {
+  "system_settings": "Android 9.0.0",
+  "client_settings": "Discord Alpha 7.5.2(752)",
+  "actual_result": "The screen goes black for a split-second and the text colour in the message bar gets inverted",
+  "expected_result": "It's supposed to just change the language and not invert the screen",
+  "short_description": "When I change the langauge on discord it goes black for a split-second and the text colour inverts",
+  "steps_to_repro": "- Go to user settings - Scroll down to language settings - Change the language"
+ }
+}

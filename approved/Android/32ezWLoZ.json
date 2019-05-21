@@ -1,0 +1,24 @@
+{
+ "id": "59bd5d0bf68ffe9ea47eb489",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 732,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/32ezWLoZ",
+ "data": {
+  "system_settings": "Android 6.0 on Alcatel 5023F",
+  "client_settings": "Alpha 5.1.6",
+  "actual_result": "There's only a single line which gets cut off.",
+  "expected_result": "The list of people typing should wrap around to the next line",
+  "short_description": "List of people typing gets cut off",
+  "steps_to_repro": "- Have enough people typing such that it doesn't show \"Several people are typing\""
+ }
+}

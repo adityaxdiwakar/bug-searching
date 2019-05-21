@@ -1,0 +1,30 @@
+{
+ "id": "5ade74a0c0299c1a0d46065e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1880,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cF5lK4rA",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1709)",
+  "client_settings": "Discord Canary 0.0.204 (14021)",
+  "actual_result": "The client will instantly crash if you even try to view the ping when the server is on outage",
+  "expected_result": "Not crash and possibly hide the mention since the server is on outage where the ping originates from",
+  "short_description": "If a server is on outage and you try to access recent mentions if you been mentioned in that server, the client will instantly crash upon trying to load the mention",
+  "steps_to_repro": "- Get mentioned in a server - Somehow get that server go on outage - Try to access recent mentions tab (where the mention would show up and the affected server)"
+ }
+}

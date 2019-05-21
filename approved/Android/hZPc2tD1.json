@@ -1,0 +1,17 @@
+{
+ "id": "5addb54ac08158fa124ee4f4",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1313,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hZPc2tD1",
+ "data": {
+  "system_settings": "Samsung Galaxy s7, Android Version 7.0",
+  "client_settings": "Discord Beta App, Version 6.5.6",
+  "actual_result": "They are put in some random order that I cannot find the servers I have placed at the top of my list.",
+  "expected_result": "The emojis should remain in the order of the servers on the left side of the app.",
+  "short_description": "With Nitro, on desktop, the external emoji list is in the order you have put the servers in to the left, however on Android the servers are in a completely random order, not alphabetical, not in the order of my list, not in the order of which servers I have joined first, etc.",
+  "steps_to_repro": "- With Nitro, observe the order of the external emoji servers compared to the list of servers you have. - If possible, compare the list to on desktop, how the order is different from on Android"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5c0540cf11137b345ce617d1",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1205,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lalHiWHy",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9477)",
+  "actual_result": "Channels are displayed one-by-one",
+  "expected_result": "Channels are all displayed at the same time",
+  "short_description": "[iPhone X/XR/XS/XS Max] Channels in closed categories open one-by-one when you close and reopen them",
+  "steps_to_repro": "- Note: this works with the iOS category in the Discord Testers server - Open a channel category at the bottom of the channel list - Ensure that you are scrolled to the bottom of the channel list - Close the category to ensure that there is blank space stuck at the bottom - Reopen the category"
+ }
+}

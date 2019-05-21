@@ -1,0 +1,17 @@
+{
+ "id": "5a9d87b988c6959c36d0de6c",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 622,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/imaUgBV3",
+ "data": {
+  "system_settings": "iPad Air 1st Generation and iPad 2017 Model (5th Generation) running iOS 11.2.6",
+  "client_settings": "Discord TestFlight 2.2.5 (2894)",
+  "actual_result": "Message from previous server and part of image pasters on top.",
+  "expected_result": "You should be able to see the text channel without anything layering on.",
+  "short_description": "[BUG BOUNTY] - https://trello.com/c/YEsq1N0A",
+  "steps_to_repro": "- Before attempting to reproduce the bug, this may be iOS and iDevice specific as it works in some devices, and doesn't on some. To be safe, this bug is restricted (will be changed if needed.) for iPads, iPod 6th Gen, and iPhone 5S running iOS 11.2.5 / 11.2.6. It will take a few attempts. - Make a brand new channel - Send a couple of messages, make sure it reaches to the middle of your screen. - Upload an image, the bigger the image is (width), the better it will be.  - Send a couple more messages to be safe. - Open the image (try with keyboard if it doesn't work without) - Try to slide it down a bit, not too much to exit.  - Rotate to the landscrape, then put the iDevice to sleep as soon it starts to turn. - Close the image, then switch to a text-only channel."
+ }
+}

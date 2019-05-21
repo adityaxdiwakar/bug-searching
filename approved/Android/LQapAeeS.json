@@ -1,0 +1,30 @@
+{
+ "id": "5afeefeb14ac418739aa9c0e",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1431,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5af202d4885b60489848e72d",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P4, unlikely to ever be fixed.",
+   "color": "purple"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LQapAeeS",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 Nougat",
+  "client_settings": "Discord Alpha 6.7.4 (674)",
+  "actual_result": "The amount of gray placeholders is equivalent (or close) to the amount of members in the guild",
+  "expected_result": "The amount of gray placeholders is equivalent (or at least close) to how many people can access that channel",
+  "short_description": "The amount of gray placeholders in members list of a channel where not everyone can read is the amount of members in the guild [Lazy Guild Issue]",
+  "steps_to_repro": "- Open an unloaded lazy guild where you have a private channel - The smaller amount of people who can access that channel the better - Open up that channel - Open up its member list - Scroll down the placeholders quickly"
+ }
+}

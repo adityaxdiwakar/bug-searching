@@ -1,0 +1,17 @@
+{
+ "id": "59c24ae56f2afd636a138fa4",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1172,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/HZ8RlyUA",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6 (16G29) (iMac Retina 5K, 27-inch, Late 2017)",
+  "client_settings": "Discord Canary 0.0.154 (Build 4543)",
+  "actual_result": "It shows in the same area as the close buttons",
+  "expected_result": "The New indicator will show up under the area with the close buttons",
+  "short_description": "On Mac, the New Mentions button in the server list shows up under the close buttons",
+  "steps_to_repro": "- Get a mention in a server above the top of your screen"
+ }
+}

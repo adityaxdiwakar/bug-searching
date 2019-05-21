@@ -1,0 +1,36 @@
+{
+ "id": "5974b5a8202a1ce1d578701e",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 273,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3LMTc3Y2",
+ "data": {
+  "system_settings": "iOS 11.0, iPhone SE, happens on ALL iOS versions.",
+  "client_settings": "1.8.9",
+  "actual_result": "While the animation is showing, the name turns into [object Object]",
+  "expected_result": "The name stays correct while the animation happens",
+  "short_description": "When closing server settings, server name bugs out.",
+  "steps_to_repro": "- Open Server Settings - Close them"
+ }
+}

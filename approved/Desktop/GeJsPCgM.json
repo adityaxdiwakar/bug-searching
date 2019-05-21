@@ -1,0 +1,23 @@
+{
+ "id": "590cc8ff24039a58854c7ea0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 602,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GeJsPCgM",
+ "data": {
+  "system_settings": " MacOS Sierra - Canary 0.0.144",
+  "actual_result": "The server settings pane stays open and overlaps the user settings",
+  "expected_result": "When the user settings menu opens, the server settings pane should close",
+  "short_description": "The individual server settings pane stays open when you open global user preferences on MacOS",
+  "steps_to_repro": "- Click on the server specific Settings Pane - Click on Discord Canary in the Task Bar - Click on preferences "
+ }
+}

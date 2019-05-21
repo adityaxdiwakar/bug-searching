@@ -1,0 +1,23 @@
+{
+ "id": "58fab28b5d941797cfd27d86",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 539,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Yv2TTtU2",
+ "data": {
+  "system_settings": " MacOS 10.12.4, Latest Canary",
+  "actual_result": "Color picker doesn't detect the custom colour and displays #000000 until you click another role first",
+  "expected_result": "Color picker displays the custom colour correctly",
+  "short_description": "Viewing a role with a custom colour doesn't display the correct color in the picker until you click another role",
+  "steps_to_repro": "- Create a role with a custom colour - Exit out of server settings - Re-open server settings - Go to Roles and click on the role with custom colour - Click on the option to choose a custom color (square should be grey) "
+ }
+}

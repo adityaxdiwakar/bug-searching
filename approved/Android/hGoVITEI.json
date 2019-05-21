@@ -1,0 +1,17 @@
+{
+ "id": "5bb461dafee63253869c1e77",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2090,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hGoVITEI",
+ "data": {
+  "system_settings": "LG K7, Android 5.1",
+  "client_settings": "Alpha 7.6.2",
+  "actual_result": "It only shows up the perms that were given/removed",
+  "expected_result": "It should show up the action",
+  "short_description": "[Audit Logs] When channel perms get updated, the log entry doesn't show the action (granted/denied)",
+  "steps_to_repro": "- Update existing channel perms overrides - Open Audit Log - Expand the entry - Observe"
+ }
+}

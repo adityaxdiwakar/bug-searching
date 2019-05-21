@@ -1,0 +1,30 @@
+{
+ "id": "5b087bb3e2e1fff856d3bd60",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2055,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PHetXQhy",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary, Build number: 16104",
+  "actual_result": "your chat box gets blocked and \"marks\" it as a channel where u dont have permission to talk in",
+  "expected_result": "You should be able to edit/type anything in the chatbox",
+  "short_description": "Not being able to type anything or edit your message when right clicking on wumpus [NOTE: Must be on a server where u get the \"hold up!\" when u try to tag everyone/here]",
+  "steps_to_repro": "- Go to your chat box - type atEveryone - press enter - right click the animated wumpus - observe your chat box"
+ }
+}

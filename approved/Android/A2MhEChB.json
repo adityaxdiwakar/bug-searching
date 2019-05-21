@@ -1,0 +1,30 @@
+{
+ "id": "5aa667a72594dfcc06586e21",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1180,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/A2MhEChB",
+ "data": {
+  "system_settings": "Samsung Galaxy Tab P1000, Android 4.4.4",
+  "client_settings": "Discord Alpha 6.3.4",
+  "actual_result": "Ban and kick buttons are missing",
+  "expected_result": "Menu has a ban and kick options",
+  "short_description": "Ban/Kick buttons are missing on offline people with no roles (servers with more than 100 members)",
+  "steps_to_repro": "- Have kick and/or ban permissions on a server - Find a person with no roles, who is currently offline in chat - Tap and hold on their avatar"
+ }
+}

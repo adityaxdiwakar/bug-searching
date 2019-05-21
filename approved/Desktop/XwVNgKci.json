@@ -1,0 +1,17 @@
+{
+ "id": "5bc8d1f487b36a3023b0d612",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 3214,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XwVNgKci",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, 0.0.217",
+  "actual_result": "I'm still salty about this",
+  "expected_result": "A second season",
+  "short_description": "They canceled Firefly",
+  "steps_to_repro": "- sit down on the couch - pull out an ice cold beer/soda - watch 'objects in space' - realize they took the sky from you"
+ }
+}

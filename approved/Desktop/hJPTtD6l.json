@@ -1,0 +1,28 @@
+{
+ "id": "587ab18ca8c3c6b09ad8744a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 679,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hJPTtD6l",
+ "data": {
+  "actual_result": "The image partly covers the 3 dots where you can edit messages and such",
+  "expected_result": "The 3 dots to show",
+  "short_description": "Images cover everything",
+  "steps_to_repro": "- Post an image - click where the 3 dots normally are - see that the 3 dots are covered by the imag "
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58c3188e61cc3cbb7d6f07ee",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 410,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dmzYsZVS",
+ "data": {
+  "system_settings": " MacOS 10.12.2 Latest Canary",
+  "actual_result": "All hidden channels appear and disappear",
+  "expected_result": "Server gets muted/unmuted",
+  "short_description": "Hidden muted channels flicker on server mute",
+  "steps_to_repro": "- Mute at least 4 channels and hide them - Mute the server by right clicking the server icon - Watch channel list "
+ }
+}

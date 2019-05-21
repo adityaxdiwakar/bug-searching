@@ -1,0 +1,17 @@
+{
+ "id": "5a360c2b1b431846b8eba935",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 965,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kcM1us39",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 (2016) - Android 7.0 (2GB RAM)",
+  "client_settings": "Alpha 5.8.6",
+  "actual_result": "At some point the app will stop keeping the call active, users in the channel will be no longer heard, their mute status will remain and your sound will not go through",
+  "expected_result": "You are able to talk normally on the voice channel forever",
+  "short_description": "Inconsistent voice channel chatting in a server",
+  "steps_to_repro": "- Be part of a server where you have permission to join any voice channel - Join any of the ones you have permission to talk on - Talk in there with other members using Voice Activity mode to send your voice (unsure if the bug occurs in PTT mode) - Keep talking for a few minutes in a row"
+ }
+}

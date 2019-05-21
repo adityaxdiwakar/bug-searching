@@ -1,0 +1,24 @@
+{
+ "id": "5978457922abc954ae7bc0cb",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 899,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I5zn9UG1",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit Build 1607",
+  "client_settings": "Discord Stable 0.0.297",
+  "actual_result": "It doesn't",
+  "expected_result": "The link should be highlighted properly when hovered",
+  "short_description": "Placing single line code blocks under a link doesnt highlight the hyperlink when hovered",
+  "steps_to_repro": "- Type out a URL (with https/http in the beginning) - Write a single line codeblocks right under the link in the same message - Try to hover over the link"
+ }
+}

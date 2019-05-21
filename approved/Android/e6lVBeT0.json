@@ -1,0 +1,23 @@
+{
+ "id": "5919e5f4938683e5407b4e99",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 458,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/e6lVBeT0",
+ "data": {
+  "system_settings": " Android 6.0.1, Galaxy S6, Discord 3.8.6",
+  "actual_result": "You get disconnected but your name stays in the preview",
+  "expected_result": "You get disconnected and your name disappears from the preview at the sidebar on who is in the voice channel",
+  "short_description": "Disconnecting from Voice Channel notification doesn't remove you from the voice user list",
+  "steps_to_repro": "- Step 1 Connect to a Voice Channel - Step 2 Close the Discord app (minimise also can) - Step 3 Disconnect from the Discord notification "
+ }
+}

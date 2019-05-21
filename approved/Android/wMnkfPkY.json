@@ -1,0 +1,30 @@
+{
+ "id": "5b5d5476e4f34277a670bfb2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1704,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wMnkfPkY",
+ "data": {
+  "system_settings": "Honor 9 Lite, Android 8.0.0",
+  "client_settings": "Android Alpha 720",
+  "actual_result": "The group cant be found",
+  "expected_result": "The group can be found",
+  "short_description": "You cant find an unnamed group in quick switcher",
+  "steps_to_repro": "- Create an unnamed group. - Use quickswitcher and use search to find the unnamed group. You can try it on desktop as comparison."
+ }
+}

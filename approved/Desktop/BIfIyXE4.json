@@ -1,0 +1,17 @@
+{
+ "id": "5b233e9dffd2ecdd63de1b60",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2141,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/BIfIyXE4",
+ "data": {
+  "system_settings": "macOS Mojave Beta",
+  "client_settings": "Discord PTB",
+  "actual_result": "The app crashes",
+  "expected_result": "The app to run normally",
+  "short_description": "PTB and possibly stable broken on Mojave",
+  "steps_to_repro": "- Launch PTB on macOS Mojave"
+ }
+}

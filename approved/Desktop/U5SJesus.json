@@ -1,0 +1,23 @@
+{
+ "id": "58fb1bdaa5613c65f039d409",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 543,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/U5SJesus",
+ "data": {
+  "system_settings": " Windows 7 Professional 64-bit, Discord Canary Lastest",
+  "actual_result": "The first dropdown menu over the second keybind, making it unable to choose some options.",
+  "expected_result": "The first dropdown menu should go over the second keybind.",
+  "short_description": "Keybinds menu overlapping each other.",
+  "steps_to_repro": "- Create 2 keybinds - Click on the first keybind's dropdown menu, keep it open. "
+ }
+}

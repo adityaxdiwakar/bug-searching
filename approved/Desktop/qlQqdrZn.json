@@ -1,0 +1,24 @@
+{
+ "id": "59be4e3c1f7b7f8b1bd0a09e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1152,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qlQqdrZn",
+ "data": {
+  "system_settings": "macOS Sierra, 10.12.6",
+  "client_settings": "Mac Discord Canary, 0.0.154 (0.0.154)",
+  "actual_result": "The arrow is tiny and in the lower right-hand corner of the box, disproportionate to the actual box and other symbols/characters of the interface.",
+  "expected_result": "The arrow should be larger and in the middle of the box.",
+  "short_description": "Selecting options to customize an invite's duration or number of usages has a tiny, misplaced arrow.",
+  "steps_to_repro": "- Have permission to create an invite for the server (either through administrator or create invite permission). - Click the gear to customize options. - Select an option from \"expire after\" or \"max number of uses\". - Observe that the arrow is tiny and located in the lower right-hand corner."
+ }
+}

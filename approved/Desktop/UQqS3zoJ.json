@@ -1,0 +1,23 @@
+{
+ "id": "58eec9cbb89445537bd75365",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 493,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UQqS3zoJ",
+ "data": {
+  "system_settings": " Win 10 x64, discord canary",
+  "actual_result": "Search: \"hat: link\" (my native language) Result: \"Crap, we dropped the magnifying glass. \"Uh... can you try searching again?\"",
+  "expected_result": "Search: \"has: link\" Result: Posts with Links",
+  "short_description": "Search menu isn't in Discord language, also some functions break searches (i.e. has)",
+  "steps_to_repro": "- Call Search menu (Click on Search Bar or press Ctrl+F) "
+ }
+}

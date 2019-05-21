@@ -1,0 +1,17 @@
+{
+ "id": "5b9084854c3c35188790133a",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1931,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DiIJgXYz",
+ "data": {
+  "system_settings": "OnePlus 5 on Android 8.1",
+  "client_settings": "Discord Alpha 7.4.6",
+  "actual_result": "Shows username#discrim unmentioned",
+  "expected_result": "It should parse and format the mention",
+  "short_description": "If the keyboard is closed down and you quick mention someone fast, it won't parse the mention",
+  "steps_to_repro": "- Close the keyboard - Click on someone's avatar and immediately hit send - Observe how the mention is not parsed"
+ }
+}

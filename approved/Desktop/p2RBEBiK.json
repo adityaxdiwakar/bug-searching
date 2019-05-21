@@ -1,0 +1,15 @@
+{
+ "id": "58289ebef5422fc13fba4543",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 140,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/p2RBEBiK",
+ "data": {
+  "actual_result": "Window can be super tiny",
+  "expected_result": "Window stops resizing after minimal size",
+  "short_description": "Window can be made smaller than minimal",
+  "steps_to_repro": "- Resize window to super small "
+ }
+}

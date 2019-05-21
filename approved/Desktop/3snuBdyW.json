@@ -1,0 +1,23 @@
+{
+ "id": "5889ea11b5c74bad7085acdd",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 349,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3snuBdyW",
+ "data": {
+  "system_settings": " Win10 Canary latest (also repro'd on stable latest)",
+  "actual_result": "Current channel doesn't appear in the list",
+  "expected_result": "Discord autocompletes channel name",
+  "short_description": "Name of the current channel doesn't appear in the # autocomplete list",
+  "steps_to_repro": "- Type `#` and a part of the current channel's name "
+ }
+}

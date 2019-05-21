@@ -1,0 +1,30 @@
+{
+ "id": "5a353e19259c0c19af53a081",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 459,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6QN6nuSr",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.2.1 & iPad Air 2 with iOS 11.2.5 Public Beta",
+  "client_settings": "TestFlight 2.2.0 (1910)",
+  "actual_result": "No formatting is shown.",
+  "expected_result": "Mention/channel link should be formatted with Markdown.",
+  "short_description": "Markdown for mentions and channel links not shown",
+  "steps_to_repro": "- Mention a user/role or link to a channel - Use Markdown for this mention/link like italics, underlined, etc. (everything besides bold should work) - Observe it and compare it with the Desktop version"
+ }
+}

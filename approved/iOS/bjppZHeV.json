@@ -1,0 +1,24 @@
+{
+ "id": "5b086c7a16f9b2e8de5b5912",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 770,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bjppZHeV",
+ "data": {
+  "system_settings": "iPhone 6 - iOS 11.4",
+  "client_settings": "Stable 2.3.3",
+  "actual_result": "Status bar got resized and is tinier now",
+  "expected_result": "Status bar dot shouldn\u2019t resize",
+  "short_description": "Smaller status dots on people their \u201cprofile\u201d and Friends conversations + yourself [2.3.3 **ONLY**]",
+  "steps_to_repro": "- Open discord  - Check your conversations with your friends - Notice the dot is smaller"
+ }
+}

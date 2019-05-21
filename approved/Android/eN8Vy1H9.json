@@ -1,0 +1,17 @@
+{
+ "id": "5bbd8a5fa3b4da6e0193df1b",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2136,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/eN8Vy1H9",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 mini, Android 6.0.1",
+  "client_settings": "Alpha 766",
+  "actual_result": "it shows an ID",
+  "expected_result": "it should say: \"cleared the afk channel\"",
+  "short_description": "[Audit Log] clearing the afk channel shows an ID in audit log entry",
+  "steps_to_repro": "- clear the afk channel (so the afk channel isn't set to any voice channel, only possible on desktop) - observe audit log entry"
+ }
+}

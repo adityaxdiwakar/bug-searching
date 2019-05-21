@@ -1,0 +1,22 @@
+{
+ "id": "58546a82ca541351b5c0f62a",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 123,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Qc8A2Cpg",
+ "data": {
+  "actual_result": "A blank page appears",
+  "expected_result": "One appears and the other is on \"back\"",
+  "short_description": "Double tapping on a recent mention or tapping two in Recent Mentions results in a blank page",
+  "steps_to_repro": "- Go to Recent Mentions - Double tap or tap on multiple messages "
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "id": "5817ce935e9a23f80e03fc47",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 95,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ydtWrXjz",
+ "data": {
+  "actual_result": "Client resets. Found by @85257659694993408",
+  "expected_result": "Server is opened... maybe.",
+  "short_description": "Clicking a server while holding the windows key causes the client to crash",
+  "steps_to_repro": "- Hold the windows key - Click a server. "
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58fa34c2b63ec76d03591814",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 536,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WcZcYL9J",
+ "data": {
+  "system_settings": " Windows 10 x64, latest Canary",
+  "actual_result": "The image is draggable (can be dragged outside of Discord)",
+  "expected_result": "The image should not be draggable",
+  "short_description": "Overview background image can be dragged in Channel settings",
+  "steps_to_repro": "- Edit a text channel - On the 'Overview' page, try dragging the background image "
+ }
+}

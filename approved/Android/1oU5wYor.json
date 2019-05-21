@@ -1,0 +1,30 @@
+{
+ "id": "5b62eb7fdc58c77761bfcf5c",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1759,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1oU5wYor",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 running Android 7.0",
+  "client_settings": "Discord Alpha 7.2.1 (721)",
+  "actual_result": "The button is blue",
+  "expected_result": "The button should be red like all others",
+  "short_description": "On the \"Are you sure you want to discard unsaved changes?\" modal the \"Okay\" button is blue",
+  "steps_to_repro": "- Go to a category or something you can edit, like a role (I used a category, not sure if it works with other models) - Edit something and press back - Observe"
+ }
+}

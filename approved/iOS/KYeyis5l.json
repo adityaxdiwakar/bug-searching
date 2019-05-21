@@ -1,0 +1,24 @@
+{
+ "id": "5a6329656c763e8485fa1ea1",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 526,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KYeyis5l",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.1",
+  "client_settings": "Discord TestFlight 2.2.1 (build 2202)",
+  "actual_result": "The application either crashes upon the first @ or severely slows down with multiple problems and then crashes when pressing to open the Server Settings dropdown in a guild. (I\u2019m sure there are a couple other ways of making it crash as a side effect to this bug).",
+  "expected_result": "The mentions list should load fine when inputting @, as well as load the everyone suggestion fine instead of creating a grey box and crashing/lagging the app.",
+  "short_description": "When typing @ or beginning to mention everyone/here in an empty server, the app will either crash or extremely glitch out forcing you to restart, or will crash in other places as a result.",
+  "steps_to_repro": "- Create a brand new channel (do not post any messages in it). - Open the keyboard and type \"@\"; this should bring up an empty grey mention suggestion box that may result in the app crashing. - If it does not crash, continue typing a couple more characters next to the @ such as every, until the grey rectangle goes down to the regular everyone suggestion size. - The app should now begin to lag/slow down the key presses as you continue typing. - Swiping to the channel list/member list causes the channels or members to appear in an odd way and then constantly flash around for a second or two. - When receiving messages in a channel the message will jump around in a very unintended way, not seen before. - More of the side effects of this bug can be read in 7938 reported by Ghoul."
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58f6b65738e0caf056ec111f",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 501,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/k1abQ6e9",
+ "data": {
+  "system_settings": " macOS 10.12.3 Discord Canary Latest",
+  "actual_result": "dropdown menu contains camera devices",
+  "expected_result": "dropdown menu contains speakers or other output audio devices",
+  "short_description": "macOS Discord Canary output devices are cameras",
+  "steps_to_repro": "- open up Discord Canary on MacOS - go to user settings and select the voice tab - observe the output devices dropdown menu "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "597462d5e69e89fed9616d95",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 883,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Bj1CJsyM",
+ "data": {
+  "system_settings": "Win 7 Professional https://i.imgur.com/25wH9Aj.gif x64",
+  "client_settings": "Discord Stable, 0.0.297",
+  "actual_result": "Discord forces you to stay and decide whether to keep or discard changes you can't approve either way.",
+  "expected_result": "You can't make changes but you can leave the page.",
+  "short_description": "Cannot leave Edit Channel page.",
+  "steps_to_repro": "- Right click on a text channel and Edit Channel - Give channel nswf prefix and save. If the save box stays, keep saving until it is gone. - Click on the NSFW Channel slider. It should stay NSFW due to the prefix. - Click Save Changes once. The dialogue box should stay there. - Quit Discord - Have channel editing permissions removed. - You can now get stuck in the Edit Channel window for that channel."
+ }
+}

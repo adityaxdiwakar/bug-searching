@@ -1,0 +1,17 @@
+{
+ "id": "5ac4f655e0269ebf15638928",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 660,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1O7kX8Dq",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 10.2.1",
+  "client_settings": "Discord stable 2.2.9",
+  "actual_result": "Nothing happens and there is no way to read the entire channel topic.",
+  "expected_result": "Channel Topic should expand to reveal the entire channel topic on some kind of gesture if it is too long.",
+  "short_description": "Channel Topic in Channel Settings screen is cropped if topic is too long",
+  "steps_to_repro": "- Go to a text channel. - Click on the channel name to open the Channel Settings screen. - Read the channel topic."
+ }
+}

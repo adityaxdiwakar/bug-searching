@@ -1,0 +1,15 @@
+{
+ "id": "583492e5bf74b9b4563ecb0a",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 86,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/uc5g5XlI",
+ "data": {
+  "actual_result": "You can't. System: Latest Testflight, latest iOS",
+  "expected_result": "You can exit the menu.",
+  "short_description": "No \"done\" button",
+  "steps_to_repro": "- add a shit ton of roles to someone - click on their profile - no \"done\" button. "
+ }
+}

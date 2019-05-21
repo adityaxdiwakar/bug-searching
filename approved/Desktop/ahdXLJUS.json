@@ -1,0 +1,16 @@
+{
+ "id": "59184b400fd5dc4d7f0fe056",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 644,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ahdXLJUS",
+ "data": {
+  "system_settings": " Win10 Pro x64",
+  "actual_result": "and it will have the day before selected and the current day bolded Client Settings: Latest Canary Release",
+  "expected_result": "Calendar bolds the current day and selects it",
+  "short_description": "Calendar not registering properly if you haven't restarted discord in 24hrs",
+  "steps_to_repro": "- Open discord - Check the before/after in search calendar - Stay up past midnight without restarting discord - Check the before /after in search Calendar again "
+ }
+}

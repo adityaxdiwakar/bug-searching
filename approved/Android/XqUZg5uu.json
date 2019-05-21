@@ -1,0 +1,30 @@
+{
+ "id": "5b0841c98310ded923973971",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1470,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XqUZg5uu",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.8.0",
+  "actual_result": "You don't get push notifications for pinned messages",
+  "expected_result": "You should get push notification for pinned messages",
+  "short_description": "No push notifications for pinned messages even though they are considered as user-sent message",
+  "steps_to_repro": "- Go to any channel and ask your friend to pin any message in that channel, keep notifications settings to \"all messages\" so that you get push notifications for all messages - Press home screen just to minimize Discord while your friend pins a message in that channel"
+ }
+}

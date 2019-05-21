@@ -1,0 +1,17 @@
+{
+ "id": "5aaf4157d20e7cb032357a3e",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 632,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/q8zABvIP",
+ "data": {
+  "system_settings": "iOS11.3DB5, iPhone 6s",
+  "client_settings": "latest version of testflight",
+  "actual_result": "Keyboard slides down",
+  "expected_result": "Client begins typing on the next line without keyboard sliding down",
+  "short_description": "Return key not working properly in camera images",
+  "steps_to_repro": "- tap \u2018take photo or video\u2019 - take a photo - write a caption - press return and observe"
+ }
+}

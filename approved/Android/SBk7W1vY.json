@@ -1,0 +1,30 @@
+{
+ "id": "5baa5dc24763640fb9806194",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2034,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SBk7W1vY",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord 7.5.5",
+  "actual_result": "Option are now collapsed",
+  "expected_result": "Options shouldn't collapse",
+  "short_description": "In Settings > My account, rotating the screen collapses the account management section",
+  "steps_to_repro": "- Go to Settings > My account  - Scroll down and expand the account management section to reveal the disable and delete account options - Rotate screen"
+ }
+}

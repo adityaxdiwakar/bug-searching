@@ -1,0 +1,15 @@
+{
+ "id": "584220aa7109a8f01d5e8b85",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 119,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VGackief",
+ "data": {
+  "actual_result": "Never shows up, even after closing the app and opening it back up again.",
+  "expected_result": "Should appear",
+  "short_description": "once added to a group on discord, it won't show on mobile. since that guild was the one crashing the main client on canary and i'd have to be removed and added back again, it shows on desktop, but it never appeared again on mobile.",
+  "steps_to_repro": "- reproduce the bug in Desktop Canary - get removed and added back to the affected group dm - check on Android if the same group dm appears on mobile "
+ }
+}

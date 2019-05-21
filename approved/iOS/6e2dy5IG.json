@@ -1,0 +1,15 @@
+{
+ "id": "584366542956a22d6009d2b1",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 104,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/6e2dy5IG",
+ "data": {
+  "actual_result": "It breaks browser constraints",
+  "expected_result": "Image loads without breaking the browser constraints",
+  "short_description": "Clicking the \"Open in Browser\" link for an image clips the image out of normal constraints",
+  "steps_to_repro": "- Click on an image - Click the triple dot menu - Open in Browser "
+ }
+}

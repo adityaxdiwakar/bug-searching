@@ -1,0 +1,16 @@
+{
+ "id": "59045cc9ed1cd8520fa05fd9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 571,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Imm0p1fA",
+ "data": {
+  "system_settings": " Latest Canary, Windows 10 CU x64",
+  "actual_result": "You can only access Server Settings from the normal way",
+  "expected_result": "You can access server settings from both menus",
+  "short_description": "Can't access server settings from the right click menu when you have manage nickname",
+  "steps_to_repro": "- Have a rank that just gives you manage nicknames - Check if you can access server settings from the normal way and the right click menu "
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "590c6751cc6c3cbc7018647b",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 430,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/73cHsC2V",
+ "data": {
+  "system_settings": " Android 6.0 3.8.2",
+  "actual_result": "It appears while server loads",
+  "expected_result": "Warning does not reappear",
+  "short_description": "Changing servers while in an NSFW Channel shows the warning temporarily",
+  "steps_to_repro": "- Open an NSFW channel (must be accepted) - Open left drawer and change servers - If you close the server drawer fast enough (press back immediately upon changing servers) you'll see the warning. "
+ }
+}

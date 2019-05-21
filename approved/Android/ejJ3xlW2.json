@@ -1,0 +1,29 @@
+{
+ "id": "5847468b30c9f53412c83fac",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 127,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ejJ3xlW2",
+ "data": {
+  "system_settings": " Android 4.1.2, Samsung Galaxy S2 ",
+  "actual_result": "There's the message about needing to wait 10 minutes there System Settings: Android 4.1.2, Samsung Galaxy S2",
+  "expected_result": "There's nothing on the bottom",
+  "short_description": "When switching from a server with the 10-minute verification level to the friends list while not being able to speak in the server yet, the message about needing to wait 10 minutes stays.",
+  "steps_to_repro": "- Enter a server with 10 minute verification level - Go to your friends list - Go to the server again - Go to the friends list again "
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "58739e1b105c40648d1b5635",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 319,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BIcDejre",
+ "data": {
+  "actual_result": "Nothing happens",
+  "expected_result": "Gif should scrolls horizontally",
+  "short_description": "Discord not allow to scroll gif results of searching via /giphy or /tenor",
+  "steps_to_repro": "- Type /gyphy or /tenor - Add your search request, as example \"lol\" - Try to horizontal scrolling for viewing all results via arrow keys or horizontal scroll in mouse wheel "
+ }
+}

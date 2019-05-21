@@ -1,0 +1,22 @@
+{
+ "id": "5849e1362254f40815274dae",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 129,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AWL6No1o",
+ "data": {
+  "actual_result": "Text has backslash and markdown applied.",
+  "expected_result": "Text should be as written, without the backslash.",
+  "short_description": "Using backslash to avoid any markdown ignores the backslash and reads as though the backslash were just another character.",
+  "steps_to_repro": "- In any client, type with a backslash and markdown. - View text on mobile. "
+ }
+}

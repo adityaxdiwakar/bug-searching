@@ -1,0 +1,30 @@
+{
+ "id": "5b2db3d77c7121f0451c349e",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 808,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/o6ifxlep",
+ "data": {
+  "system_settings": "iPhone SE, iOS 11.4",
+  "client_settings": "TestFlight 2.3.4 (5330)",
+  "actual_result": "The channel you were originally in is highlighted like you are in it,",
+  "expected_result": "The channel shouldn\u2019t be highlighted",
+  "short_description": "Last channel highlighted when you join a different channel on a different device",
+  "steps_to_repro": "- Join a VC on iOS - Join a VC on a different device in the same server"
+ }
+}

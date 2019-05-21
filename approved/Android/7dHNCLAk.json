@@ -1,0 +1,30 @@
+{
+ "id": "5a654cdf6d2429eac4a9fedd",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1053,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7dHNCLAk",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.1.0",
+  "actual_result": "It says \"1 new message(s) since 1 jan. 2015\"",
+  "expected_result": "The banner should say \"1 new message(s) since [current timestamp]\"",
+  "short_description": "Wrong timestamp on the New Messages banner after receiving a DM from someone you never had DMs with before",
+  "steps_to_repro": "- Find a user who never messaged you before (i.e DM chat history must be empty and channel closed) - Get them to send you a DM"
+ }
+}

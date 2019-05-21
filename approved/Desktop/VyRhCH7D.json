@@ -1,0 +1,17 @@
+{
+ "id": "596e6be234c8fa3e452a01e7",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 865,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VyRhCH7D",
+ "data": {
+  "system_settings": "Win 10 Pro x64 v1607",
+  "client_settings": "Desktop Canary 0.0.158 (Build 2330)",
+  "actual_result": "They aren't",
+  "expected_result": "They should be listed",
+  "short_description": "Not all default keyboard combos listed in CTRL+/ menu",
+  "steps_to_repro": "- Open CTRL+/ (keyboard combos) menu - Notice that the secondary combo for opening the quick switcher is not there (CTRL+T) - Notice that the combo for opening settings is not there (CTRL+,)"
+ }
+}

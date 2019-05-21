@@ -1,0 +1,17 @@
+{
+ "id": "59604bfb8eaee668450ae85e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 818,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PvoGQ1B5",
+ "data": {
+  "system_settings": "Windows 10 x64 Creators Update, 1703",
+  "client_settings": "Desktop Canary, 0.0.157",
+  "actual_result": "The text adjusts, but the old message with spaces in front of it is shown for a split second while it is being sent",
+  "expected_result": "The text adjusts, and the spaces are removed in front of the message",
+  "short_description": "You can see Discord adjust a message with spaces in the beginning in front of it for a second",
+  "steps_to_repro": "- Go to a server - Put a bunch of spaces in front of a message i.e \"           (spaces)This is a test\""
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59382b21e4bf804decdcfd01",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 728,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/w91SlN1h",
+ "data": {
+  "system_settings": "Windows 10 x64 1607",
+  "client_settings": "Discord 0.0.155",
+  "actual_result": "Link gets parsed like everything between < > without spaces is a link and when certain characters are in the string the current <location.href> is prefixed to the link",
+  "expected_result": "The < > signs should be shown and the link should be parsed separately.",
+  "short_description": "Using the <> tags for links without spaces parses incorrectly",
+  "steps_to_repro": "Step 1: Post a message with the following content from here: https://pastebin.com/ME4jybGV.Step 2: Copy link or click on link. You will notice the links goes to a discord page that ends with the text that is marked blue"
+ }
+}

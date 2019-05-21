@@ -1,0 +1,30 @@
+{
+ "id": "5a265c99884d5ca44c23458e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1426,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wXmakRiW",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Discord Canary, 0.0.181",
+  "actual_result": "No preview shows in Windows desktop Discord build but in Android Discord build preview shows correctly. Also WebP shows properly in Chrome too which proves WebP file is not invalid. Reason I'm reporting this as bug because some WebP files shows preview correctly but not the ones created with FFmpeg.",
+  "expected_result": "Preview of WebP animated image should show",
+  "short_description": "WebP preview not shows",
+  "steps_to_repro": "- Download latest FFmpeg - Download example x264 video file for testing: [1] - Convert mp4 file to webp using FFmpeg: [2] - Post your WebP file either as url [3] or attachment to Discord chat"
+ }
+}

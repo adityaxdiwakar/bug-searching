@@ -1,0 +1,30 @@
+{
+ "id": "5ac370a9e20d9c2095d86116",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1242,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/G2pYHKBi",
+ "data": {
+  "system_settings": "Huawei P8Lite 2016 \u2022 Android 5.1",
+  "client_settings": "Alpha 6.4.6",
+  "actual_result": "The save button don't disappear",
+  "expected_result": "Nothing happen.",
+  "short_description": "[Can be Huawei specific] If we add a cap of a name channel and save, the save button don't disappear.",
+  "steps_to_repro": "- Edit a name channel by adding a cap. - Save changes."
+ }
+}

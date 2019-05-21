@@ -1,0 +1,30 @@
+{
+ "id": "5be6c269514f8828d74586e0",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2297,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/73gKDGmo",
+ "data": {
+  "system_settings": "Samsung Galaxy S9 8.0",
+  "client_settings": "Discord Alpha 7.8.8",
+  "actual_result": "The fields only allow at max 20 characters to be inputted",
+  "expected_result": "The fields should allow at least up to 32 characters, the username limit",
+  "short_description": "Members & Bans search fields only allow up till 20 characters to be inputted",
+  "steps_to_repro": "- Open the Server Settings of a server you have permission to access the Members or Bans section in - Open one of the section - Tap on the search field and attempt to enter more than 20 characters into the field"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b887afdab1b227697d29782",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 2840,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DgLhn7ik",
+ "data": {
+  "system_settings": "Windows 10, version 1803, build 17134.228",
+  "client_settings": "Release Channel: stable, Build Number: 22658, Version Hash: 3030f47c839a11c3ff30a9197db5b7d4d3af7afc",
+  "actual_result": "The grey background and the area where elements can be moved to only cover part of the screen.",
+  "expected_result": "The overlay-area should stretch the whole display.",
+  "short_description": "Overlay does not cover whole display with custom windows text-scaling",
+  "steps_to_repro": "- Open Windows Display Settings (right click on desktop, Display Settings) - Select anything different then 100% at the drop-down for \"size of text...\" - click on \"sign off to apply\" - sign in to your windows account again, start Discord, start a game - open the overlay"
+ }
+}

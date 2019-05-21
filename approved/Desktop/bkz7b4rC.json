@@ -1,0 +1,17 @@
+{
+ "id": "5b67bb13650d8b2e340e3a1b",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2636,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bkz7b4rC",
+ "data": {
+  "system_settings": "Microsoft Windows 10 Home 64-bit 10.0.17134 Build 17134",
+  "client_settings": "Google Chrome Version 67.0.3396.99 (Official Build) (64-bit)",
+  "actual_result": "The checkbox is there on its own (imgur/L1ftfI1 for screenshot)",
+  "expected_result": "There should be a label to show what the checkbox is there for or the checkbox shouldn't be there.",
+  "short_description": "[Website Bug] Missing text in Bot Permissions section of the Bot page on Developers Portal",
+  "steps_to_repro": "- Create an Application - Go to  and hit the \"Add Bot\" button then confirm with \"Yes do it\" - Scroll to the Bot Permissions Section and look at the Voice Permissions list. - See the check box with no text next to it to label what the checkbox is for."
+ }
+}

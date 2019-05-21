@@ -1,0 +1,16 @@
+{
+ "id": "58b54dbc16687eb9c34acd31",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 264,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/lAA5v7wO",
+ "data": {
+  "system_settings": " Discord 3.3.9, Android 6.0.1",
+  "actual_result": "The names stay white",
+  "expected_result": "The name has the color of the rank",
+  "short_description": "Recent Mentions doesn't respect Role Color",
+  "steps_to_repro": "- Go in the recent mentions - Compare the color of the rank with the text "
+ }
+}

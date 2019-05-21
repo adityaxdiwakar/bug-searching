@@ -1,0 +1,17 @@
+{
+ "id": "5b1c14c71f099ef4df0c9f33",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1516,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IUS4IfWF",
+ "data": {
+  "system_settings": "Honor 9 lite 8.0.0, EMUI 8.0.0",
+  "client_settings": "Android Alpha 6.8.9",
+  "actual_result": "audio quality changes, volume drops and it receives weird audio from a voice channel",
+  "expected_result": "audio should received loud and clear to your ears",
+  "short_description": "voice channel audio quality suddenly changes and drops audio volume (EMUI specific)",
+  "steps_to_repro": "- join in a voice channel - invite a music bot. play something - observe"
+ }
+}

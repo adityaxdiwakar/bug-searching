@@ -1,0 +1,17 @@
+{
+ "id": "5ba65a4f9e21e614c5da868c",
+ "closed": false,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 1027,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/i6PA1qs1",
+ "data": {
+  "system_settings": "iPad Mini 4 iOS 11.4.1 (I quickly tested it in 12.0 after I installed it and the issue persisted.)",
+  "client_settings": "TestFlight 2.3.8",
+  "actual_result": "The client crashes and upon reloading keeps what you had written so far.",
+  "expected_result": "It should allow you to continue typing your message",
+  "short_description": "Client crashes when @mentioning users with formatted names.",
+  "steps_to_repro": "- Make a new account and set the name to \ud835\udce3\ud835\udcee\ud835\udcfc\ud835\udcfd. - Join a Discord you own on this new account. - Give your new account a nickname within the Discord. - Use your new account on your PC/phone and get on your main account on an iPad/iPhone. - Spam some random letters on the new account. - Type @<their whole name except the last letter>- Tap their name that appears in the auto suggest"
+ }
+}

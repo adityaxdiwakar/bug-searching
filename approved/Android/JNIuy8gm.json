@@ -1,0 +1,17 @@
+{
+ "id": "59e819c168637c5f4fa46719",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 818,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JNIuy8gm",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 5.4.0",
+  "actual_result": "the pip doesn't disappear next to the server",
+  "expected_result": "the white tick goes away",
+  "short_description": "marking a server as read doesn't remove the white tick next to it",
+  "steps_to_repro": "- have a server with unread messages  - mark as read or read all the messages"
+ }
+}

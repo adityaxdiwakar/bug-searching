@@ -1,0 +1,30 @@
+{
+ "id": "5b691b332fe9f75a5360b144",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2642,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/do4VR3xK",
+ "data": {
+  "system_settings": "Windows 10 Home Build 17134",
+  "client_settings": "Release Channel: canary, Build Number: 20849",
+  "actual_result": "The first time the overlay is opened in a game after it is launched, it always opens general chat on the top server",
+  "expected_result": "The overlay *should* initially be on the server that the player is in on the canary application",
+  "short_description": "Whenever a new game is played, the discord overlay automatically reverts to the top server on your server list.",
+  "steps_to_repro": "- go to server of choice- open game of choice - press overlay keybind (shift & `)"
+ }
+}

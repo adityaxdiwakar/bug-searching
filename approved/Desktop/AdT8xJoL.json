@@ -1,0 +1,17 @@
+{
+ "id": "596073a1c268c910eb3706eb",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 823,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AdT8xJoL",
+ "data": {
+  "system_settings": "Arch Linux",
+  "client_settings": "Canary 0.0.19",
+  "actual_result": "a tab character is added to the text box before switching",
+  "expected_result": "server is switched",
+  "short_description": "pressing ctrl_tab inserts a tab when switching servers",
+  "steps_to_repro": "- press ctrl +tab to switch to your next server"
+ }
+}

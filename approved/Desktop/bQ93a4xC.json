@@ -1,0 +1,17 @@
+{
+ "id": "5b8959f48cd8111317894ddb",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2907,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bQ93a4xC",
+ "data": {
+  "system_settings": "Windows 10 x64 v1803",
+  "client_settings": "Discord Stable 22658",
+  "actual_result": "The top of the picture is cut off",
+  "expected_result": "The profile picture should be smooth and round",
+  "short_description": "Profile picture in search results cut off",
+  "steps_to_repro": "- Search for a message using the search bar - Observe the profile picture in the search results"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59f011f6f68c86ad7d04b450",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1318,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MdSUgwH1",
+ "data": {
+  "system_settings": "Windows 10 64x",
+  "client_settings": "Desktop app-0.0.298",
+  "actual_result": "A softcrash of discord that reloads UI and then recconects to server (sometimes I also got some error messages but I can't 100% reproduce them)",
+  "expected_result": "The stream either plays or closes and the message is hidden again",
+  "short_description": "Desktop Application Crashes on loading stream content in blocked message",
+  "steps_to_repro": "- Have someone blocked so their messages will not be shown - Have them link you a twitch stream (possibly other media also) - Open the blocked message - Click play on the stream and imidiatly close the blocked message"
+ }
+}

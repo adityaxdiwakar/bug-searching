@@ -1,0 +1,24 @@
+{
+ "id": "5b5f6dc5537320c677d11804",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2522,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SPfnV1fZ",
+ "data": {
+  "system_settings": "MacBook Pro (13\"), macOS 10.13.6",
+  "client_settings": "Canary 20243 - Firefox v61.0.1",
+  "actual_result": "It sends an empty querystring",
+  "expected_result": "A value is passed into the querystring",
+  "short_description": "[Web] Clicking to submit a help request sends a url with an empty querystring",
+  "steps_to_repro": "- Open Discord on Web - Click the ? in the top right corner - Click \"Submit a request\" - Observe how the `platform` querystring is empty compared to it when doing the steps on the desktop app"
+ }
+}

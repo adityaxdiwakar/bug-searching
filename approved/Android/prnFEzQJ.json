@@ -1,0 +1,30 @@
+{
+ "id": "5aa0a5dee77ddb90f7d696a6",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1170,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/prnFEzQJ",
+ "data": {
+  "system_settings": "Pixel XL 2 Android 8.1",
+  "client_settings": "Alpha 6.3.3",
+  "actual_result": "It takes a significantly long time to load the channels (Clearing the cache for the app fixes this issue, so the cache probably got corrupted)",
+  "expected_result": "The channels load in a reasonable amount of time",
+  "short_description": "Server channels take an extremely long time to load after updating",
+  "steps_to_repro": "- Make sure you're not udpdated,  then update - Close out of Discord completely - Open discord - Switch to a server and open the channel drawer"
+ }
+}

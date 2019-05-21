@@ -1,0 +1,17 @@
+{
+ "id": "5afba490693edf190e7b5260",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1423,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QQPTNUxL",
+ "data": {
+  "system_settings": "Nokia 5 Android 8.0.0 (Reported on behalf of Bencey)",
+  "client_settings": "Discord alpha 6.6.8",
+  "actual_result": "Their status is green",
+  "expected_result": "Should appear with the offline status",
+  "short_description": "Users who recently went offline shows up with coloured circle in offline tab",
+  "steps_to_repro": "- Get someone with a green status to go offline  - Check the offline tab - User shows in the offline section but status is still green"
+ }
+}

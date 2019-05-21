@@ -1,0 +1,36 @@
+{
+ "id": "5abe447e2f676bad5896401f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1772,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5a860c5cb7db963103602942",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Bots",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/N4PBIXLO",
+ "data": {
+  "system_settings": "Debian 9 (Stretch)",
+  "client_settings": "Desktop Canary Build 12874",
+  "actual_result": "A 4 pixels-wide tag is there, and appears empty",
+  "expected_result": "The [BOT] tag appears",
+  "short_description": "Bot tag is not readable on compact mode (next to username in chat)",
+  "steps_to_repro": "- Turn on compact-mode - Navigate to a message sent by a bot"
+ }
+}

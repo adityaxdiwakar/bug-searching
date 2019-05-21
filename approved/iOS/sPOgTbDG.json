@@ -1,0 +1,30 @@
+{
+ "id": "5ad66509e4b7ab3380da592e",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 683,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sPOgTbDG",
+ "data": {
+  "system_settings": "iPhone 8 iOS 11.3",
+  "client_settings": "Discord TestFlight 2.3.0",
+  "actual_result": "Sometimes it takes an other option, and then it goes on your previous Option",
+  "expected_result": "It should choose the right option, without any latency",
+  "short_description": "Changing the time in the Prune section (might be because it's a large server, mine was 5k) is slow",
+  "steps_to_repro": "- Go in the Server Settings (a large server would be preferable) - Go in the \"Members\" section - Tap the 3 dots on the top-right of the screen - Tap \"Prune\" - Change fast the options, so, tap on the first and on the second, the third and again, fast"
+ }
+}

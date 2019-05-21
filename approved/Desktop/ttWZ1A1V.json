@@ -1,0 +1,30 @@
+{
+ "id": "5a3888cb47ad5cc3f61baaae",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1475,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ttWZ1A1V",
+ "data": {
+  "system_settings": "Windows 8.1 x86",
+  "client_settings": "canary 8840",
+  "actual_result": "The list keeps opened",
+  "expected_result": "The list should close when the option is clicked",
+  "short_description": "In \"Leave X server\" warning, the dropdown menu keeps opened",
+  "steps_to_repro": "- Click on the options list ``Leave server``"
+ }
+}

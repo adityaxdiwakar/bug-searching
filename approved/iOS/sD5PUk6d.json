@@ -1,0 +1,30 @@
+{
+ "id": "5b254d18fda5461552aadcd7",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 787,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sD5PUk6d",
+ "data": {
+  "system_settings": "iPhone 6s - iOS 11.4, iPad Air 2 - iOS 11.4.1 PB",
+  "client_settings": "Stable 2.3.3",
+  "actual_result": "You will see a no result page for a short amount of time before the results appear.",
+  "expected_result": "You should still see a loading spinner while the results are loading or the same screen as for the Desktop app (before searching we have to index the server/DM)",
+  "short_description": "Not indexed servers and direct messages show the no result message for a short amount of time when searching",
+  "steps_to_repro": "- Find any server or DM where you have never used the search before (they should have some messages) - Click on the search there - Use any filter or keyword and press enter to search - Observe it"
+ }
+}

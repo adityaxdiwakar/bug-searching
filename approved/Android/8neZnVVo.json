@@ -1,0 +1,24 @@
+{
+ "id": "59c7c3df85b8007a64a7a11c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 763,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8neZnVVo",
+ "data": {
+  "system_settings": "LG-D415, Android 5.0.2",
+  "client_settings": "Discord Beta 5.2.6",
+  "actual_result": "The filter changes to all servers",
+  "expected_result": "The filter stays on this server",
+  "short_description": "Rotating your screen on the recent mentions page when on a this server filter changes the filter too all servers",
+  "steps_to_repro": "- Go to the server list - Go to the @ symbol (it is between your name and the settings icon) - Go to the filter icon - Choose this server - Rotate screen"
+ }
+}

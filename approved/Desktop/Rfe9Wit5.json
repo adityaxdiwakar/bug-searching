@@ -1,0 +1,15 @@
+{
+ "id": "5845ac5ee023c7a3362b7b54",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 216,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Rfe9Wit5",
+ "data": {
+  "actual_result": ".gif Tenor Gifs do not embed at all; /raw Tenor Gifs embed only one frame into chat",
+  "expected_result": "The GIF embeds both times and hovering mouse over GIF plays it",
+  "short_description": "Tenor GIFS embed in broken ways",
+  "steps_to_repro": "- Use the /tenor command in discord and paste it - The GIF will fail to embed when you send the message - Click on the link, copy the link address of the GIF itself (ending in /raw) and paste it in chat - The GIF will embed only one frame and the GIF wont play "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b6d7b969b63bd0c4ff8ad86",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 888,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/R2EY4QTm",
+ "data": {
+  "system_settings": "iPod Touch 6th generation, iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.6 (6691)",
+  "actual_result": "The colors on both themes are different",
+  "expected_result": "The colors should not have changed (compared to TestFlight 2.3.6 (6095) and Stable 2.3.5)",
+  "short_description": "Font color on both light and dark theme are wrong as compared to TestFlight 2.3.6 (6095) and Stable",
+  "steps_to_repro": "- Update discord to 2.3.6 (6691) - Observers the text color on both themes"
+ }
+}

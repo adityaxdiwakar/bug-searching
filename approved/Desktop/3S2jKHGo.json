@@ -1,0 +1,22 @@
+{
+ "id": "586d4da36397711e1e34a3b4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 304,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3S2jKHGo",
+ "data": {
+  "actual_result": "Everything except for the search textbox and top right icons goes left off the screen forcing you to switch servers to fix it",
+  "expected_result": "The menu shows up as in a normal server",
+  "short_description": "Ctrl-F on a channel with an extremely long name misaligns the interface",
+  "steps_to_repro": "- Go to a channel with a name so long that it goes past the top right icons in length - Press Ctrl-F "
+ }
+}

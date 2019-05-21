@@ -1,0 +1,30 @@
+{
+ "id": "5b00e55ccd5c507b4e23e79d",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 762,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/97lUagOw",
+ "data": {
+  "system_settings": "iOS 11.3.1 Build 15E302",
+  "client_settings": "Discord 2.3.1",
+  "actual_result": "Picture gets uploaded twice, again on unlocking your screen",
+  "expected_result": "Picture gets uploaded once",
+  "short_description": "Image uploads twice when locking the screen on upload",
+  "steps_to_repro": "- Upload image - Lock your screen right before the image is uploaded - Unlock your screen"
+ }
+}

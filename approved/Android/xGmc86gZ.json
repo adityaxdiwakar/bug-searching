@@ -1,0 +1,30 @@
+{
+ "id": "5a615724244a977accf6dd95",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1045,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xGmc86gZ",
+ "data": {
+  "system_settings": "Pixel XL 2; Android 8.1",
+  "client_settings": "Alpha 6.1.0",
+  "actual_result": "The mention is inserted at the end of the message",
+  "expected_result": "The mention is inserted at the cursor position",
+  "short_description": "Quick mentions (tapping on the profile picture) aren't inserted at the cursor",
+  "steps_to_repro": "- Type a message - Move the cursor into the middle of the message - Quick mention (Tap on the profile picture) someone"
+ }
+}

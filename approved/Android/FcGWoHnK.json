@@ -1,0 +1,15 @@
+{
+ "id": "5867b45653997bd5685d9bc4",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 162,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FcGWoHnK",
+ "data": {
+  "actual_result": "It doesn't. Still works if you get it right, but even a big-letter small-letter difference ruins it, and it's hard to find.",
+  "expected_result": "The helping box shows up so that you can tap anything you wanted to tag or write",
+  "short_description": "Tags and emojis helping box won't appear after tagging a person",
+  "steps_to_repro": "- tag a person in a server - start typing : or # "
+ }
+}

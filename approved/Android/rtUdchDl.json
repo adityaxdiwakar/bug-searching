@@ -1,0 +1,17 @@
+{
+ "id": "5b5e3d5bbe4b2baa801bea1d",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1717,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rtUdchDl",
+ "data": {
+  "system_settings": "Samsung Galaxy A6+, Android 8.0",
+  "client_settings": "Discord 7.2.0",
+  "actual_result": "It shows \"_ New Messages Since Jan 1, 2015",
+  "expected_result": "It should show \"_ New Massages Since [Date]\"",
+  "short_description": "Date isn't correct on the message bar on a new DM",
+  "steps_to_repro": "- Get someone (who never DMed you once) to message you - Look at the new message bar's date"
+ }
+}

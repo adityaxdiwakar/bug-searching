@@ -1,0 +1,24 @@
+{
+ "id": "599b09d15ff609ebde81be67",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 636,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mIWSdet1",
+ "data": {
+  "system_settings": "Google/LG Nexus 5, Android 6.0.1",
+  "client_settings": "Discord Android 4.0.7 (502)",
+  "actual_result": "The option keeps unchanged on all existing Servers",
+  "expected_result": "The new setting should be applied to all existing Servers",
+  "short_description": "Option to change \"Allow direct messages form server members\" on all existing Servers does not work",
+  "steps_to_repro": "- Open the User settings - Go to Privacy & Safety - Change Allow direct messages from server members - Press Yes in the Dialog"
+ }
+}

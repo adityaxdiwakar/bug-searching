@@ -1,0 +1,17 @@
+{
+ "id": "5bc208623fd8ff7383202bc2",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2167,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cRGAEflV",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 770",
+  "actual_result": "The send button doesn't unlock until you add a few characters.",
+  "expected_result": "As you're taken to the add friend screen, the send button unlocks.",
+  "short_description": "Accessing the Add friend screen via the quick switcher doesn't unlock the send button unless you type in more characters.",
+  "steps_to_repro": "- Open Quick switcher. - Type in nonsense stuff that gives no results. - Click on add friend."
+ }
+}

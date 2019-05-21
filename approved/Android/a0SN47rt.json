@@ -1,0 +1,30 @@
+{
+ "id": "5a2bae6a8ec3b7460809099c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 940,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/a0SN47rt",
+ "data": {
+  "system_settings": "S5 Mini, Android 7.1.2",
+  "client_settings": "Discord 583",
+  "actual_result": "You are only for yourself invisible/offline",
+  "expected_result": "You go invisible for everyone",
+  "short_description": "Invisible users shown as online",
+  "steps_to_repro": "- Make sure you are not invisible - Select Invisible - Ask someone if you are offline or online"
+ }
+}

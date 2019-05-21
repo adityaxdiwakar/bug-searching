@@ -1,0 +1,24 @@
+{
+ "id": "5af139fa2cf35d0eed65a8e9",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1383,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZDzhPEvp",
+ "data": {
+  "system_settings": "Pixel XL, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.6.2",
+  "actual_result": "They stay unloaded. Scrolling up or down can fix it.",
+  "expected_result": "The members load shortly after",
+  "short_description": "Lazy guilds can have members never load",
+  "steps_to_repro": "- Open member list in a lazy guild - fling down fast - lock your screen before the scroll finishes - wait 10 seconds - unlock screen"
+ }
+}

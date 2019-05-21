@@ -1,0 +1,24 @@
+{
+ "id": "5a6108690df3a11d2b43b350",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 507,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SYvhdEFE",
+ "data": {
+  "system_settings": "iPhone 6s plus, 11.2.2",
+  "client_settings": "TestFlight 2.2.1 (2147)",
+  "actual_result": "Shows text, without strike through.",
+  "expected_result": "Shows message with strikethrough.",
+  "short_description": "Strike through does not appear.",
+  "steps_to_repro": "- Send a message with `~~` on each end, and it will appear without any strikethrough."
+ }
+}

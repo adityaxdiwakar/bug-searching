@@ -1,0 +1,30 @@
+{
+ "id": "59f86e62df3d13cfaa4a4da7",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 861,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YzrBPsHN",
+ "data": {
+  "system_settings": "lg Xpower 6.0.1",
+  "client_settings": "alpha 5.5.2",
+  "actual_result": "login screen is in system language",
+  "expected_result": "discord login screen ahould be in same language as rest of app (i.e English)",
+  "short_description": "login screen in system language",
+  "steps_to_repro": "- have other system language that set in discord - enter login screen"
+ }
+}

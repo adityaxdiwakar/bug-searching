@@ -1,0 +1,30 @@
+{
+ "id": "5b9ce471651d7844293bf904",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2986,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/b2hKtnC3",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS 10.13.6",
+  "client_settings": "Canary 23836",
+  "actual_result": "You're able to do strange actions that probably shouldn't be visible within the Activity tab.",
+  "expected_result": "Settings like creating channels shouldn't be visible. These settings would be expected to only appear if you're actually inside the server.",
+  "short_description": "You can create a channel through the Activity tab.",
+  "steps_to_repro": "- Own, or have Manage Channels permission on a server. - On that server, have multiple friends join a voice channel and play games so it appears in the Activity tab. - Open the Activity tab. - Find your friends, then right click the name of the voice channel."
+ }
+}

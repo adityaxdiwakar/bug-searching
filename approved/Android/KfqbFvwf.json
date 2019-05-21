@@ -1,0 +1,30 @@
+{
+ "id": "5b70d00af8a4fb0d29a23b4f",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1828,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KfqbFvwf",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, 8.1.0",
+  "client_settings": "Discord Alpha 730",
+  "actual_result": "The total number of members is a template string",
+  "expected_result": "A normal embed that shows the number of online and total users",
+  "short_description": "Invite embed total server user count not showing up properly",
+  "steps_to_repro": "- Post a server invite into a channel - Wait for the embed to pop up"
+ }
+}

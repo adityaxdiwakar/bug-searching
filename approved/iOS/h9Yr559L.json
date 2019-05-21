@@ -1,0 +1,36 @@
+{
+ "id": "59d2b8da416ab5e872e37e00",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 350,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/h9Yr559L",
+ "data": {
+  "system_settings": "Iphone 6s, 16 gb, ios11.0",
+  "client_settings": "Discord TF 1.9.1 (665)",
+  "actual_result": "It goes out of his place for a second",
+  "expected_result": "The text in the textbox would stay in position",
+  "short_description": "When editing a long message, and saving it, the text in the textbox will go out of place for a second",
+  "steps_to_repro": "- Write a big message +-3/4 lines long  - Edit the message - Save it"
+ }
+}

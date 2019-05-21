@@ -1,0 +1,17 @@
+{
+ "id": "5a4f973e524c43afe2d90aa7",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1022,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/arAfpArt",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.0.6",
+  "actual_result": "Modal closes",
+  "expected_result": "Modal should remain opened",
+  "short_description": "Modals such as Change Nickname or Confirm Leave Server will close upon changing screen orientation",
+  "steps_to_repro": "- Go to a server where you can change nickname - Open 3dots menu and change nickname - When the modal pops up rotate your screen  - Do the same but with Leave server instead of Change nickname"
+ }
+}

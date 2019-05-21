@@ -1,0 +1,17 @@
+{
+ "id": "592885f306352c66de5ab971",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 676,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cDtKVhiG",
+ "data": {
+  "system_settings": "Windows 8.1 PRO x64",
+  "client_settings": "Latest Canary, Windows 8.1 PRO",
+  "actual_result": "Verification code is devalidated (as if it \\*was\\* activated) but you still cannot chat",
+  "expected_result": "You can freely chat",
+  "short_description": "Cannot verify phone number, verification code just sits",
+  "steps_to_repro": "- Find a server with that double tableflip on - Verify your phone number"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5a1e977818b4b78e6e260556",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 926,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hAKVSxxW",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "577 Alpha",
+  "actual_result": "The cursor will always snap to the last word in a text string.",
+  "expected_result": "You can scroll smoothly through text to any point you want",
+  "short_description": "Scrolling through the new text box causes the cursor to snap to the end of a text string, and in general scrolling the chat box is not smooth.",
+  "steps_to_repro": "- Type out enough text to have a few lines in the text box, a good size paragraph will do - try to scroll through the text. - notice the cursor snaps the last word in a sentence (I mean the last word on that particular line of text)"
+ }
+}

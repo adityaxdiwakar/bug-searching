@@ -1,0 +1,15 @@
+{
+ "id": "585b856e8dfe9a7023aff42f",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 266,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ydil8J7h",
+ "data": {
+  "actual_result": "You can edit the message even without being able to send messages, which is inconsistent with Discord's permissions system",
+  "expected_result": "Similar to how you cannot edit messages when you are missing Send Messages permissions, it is expected that you cannot edit messages when under Server Verification level restrictions as well",
+  "short_description": "Can Edit Messages without being Verified",
+  "steps_to_repro": "- Send a message - Become unable to send messages because of server verification, either by having the server level raised, or leaving and rejoining a server on the highest (10 minute) level - Attempt to edit your previous message "
+ }
+}

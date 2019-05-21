@@ -1,0 +1,30 @@
+{
+ "id": "5a60d60133ac07b233f98823",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1560,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vokp6XkO",
+ "data": {
+  "system_settings": "Widows 10 Home x64",
+  "client_settings": "Discord Stable 9631",
+  "actual_result": "Welcome text overlaps on multiple lines:",
+  "expected_result": "The text should show up correctly and not overlap",
+  "short_description": "Text display collision on welcome to server message after creation of a discord server with smaller client windows",
+  "steps_to_repro": "- Resize the discord client to a smaller size (the initial bug was found with the client docked to half of a 1920x1080 screen) - Make your name atleast 10-16 characters long - Create a discord server - Check the 'welcome to your server' message."
+ }
+}

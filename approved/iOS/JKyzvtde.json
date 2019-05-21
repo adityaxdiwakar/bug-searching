@@ -1,0 +1,30 @@
+{
+ "id": "5ad8fad1fce01ea2321fc71f",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 685,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JKyzvtde",
+ "data": {
+  "system_settings": "iPhone 7, iOS 10.3.3 (14G60)",
+  "client_settings": "Discord iOS 2.3.0",
+  "actual_result": "The screen you just swiped back from will reappear",
+  "expected_result": "Nothing happens",
+  "short_description": "Swipe back doesn't work properly in Mutual Friend profiles",
+  "steps_to_repro": "- Open the profile of someone you have mutual friends with - Tap on the mutual friends tab -  Tap on a mutual friend - Use the iOS back gesture to go back to the friend list (not the back button in the upper left, but the gesture where you swipe from the left edge of the screen inward) - Wait about two seconds"
+ }
+}

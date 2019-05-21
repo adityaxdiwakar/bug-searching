@@ -1,0 +1,24 @@
+{
+ "id": "5af1a9ea9498a3d5d9629a43",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1386,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/reQJOx2J",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.6.3",
+  "actual_result": "Everytime a user switches between online and offline status, the member list jumps up and down",
+  "expected_result": "The member list should remain static, unless the user who changes presence is visible on screen of course",
+  "short_description": "[Lazy guilds only] Member list jumps up and down whenever someone changes presence",
+  "steps_to_repro": "- Go to a lazy guild, works with DTesters - Scroll down through member list. The further you scroll down, the more intense the effect will be - Stop scroling down, don't touch anything, and observe the member list"
+ }
+}

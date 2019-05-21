@@ -1,0 +1,30 @@
+{
+ "id": "5b60ec0ac2b40ae72ebe8706",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2551,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Pgp6Oe7J",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 20386",
+  "actual_result": "Sometimes (not length dependent), the line will vanish",
+  "expected_result": "You can see the line seperating the name of the channel and the description",
+  "short_description": "At 90% zoom and/or lower, sometimes the line between the channel name and the description will vanish",
+  "steps_to_repro": "- observe different channels that have descriptions while on 90% zoom or lower"
+ }
+}

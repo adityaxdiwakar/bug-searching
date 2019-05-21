@@ -1,0 +1,29 @@
+{
+ "id": "5888890c9428cc177231bd03",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 167,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/x77b1riQ",
+ "data": {
+  "system_settings": " iPad Mini",
+  "actual_result": "The loading percentage acts vertically",
+  "expected_result": "Image loads with no problems",
+  "short_description": "Percentage sign and number acts vertical with vertical-based images while loading them",
+  "steps_to_repro": "- Have an entirely vertical image and attempt to view it "
+ }
+}

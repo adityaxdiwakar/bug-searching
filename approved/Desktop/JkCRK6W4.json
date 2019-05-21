@@ -1,0 +1,24 @@
+{
+ "id": "5bba161d0a83ff8ca449ca61",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 3111,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JkCRK6W4",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Chrome 69.0.3497.100",
+  "actual_result": "The highlight leeks out of the top and the left side.",
+  "expected_result": "The highlight either runs out of all the sides of tab/button or doesn't move out at all.",
+  "short_description": "On the applications page of the Developers portal, when you long press on \"Create An Application\", the blue highlight moves out of the bounds of the box. (Mobile only I guess)",
+  "steps_to_repro": "- Open https(colon)//discordapp(dot)com/developers/applications . - Scroll down to the bottom. - Click on \"Create An Application\" (or long press it to see the highlight for a longer time)."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5af4eac7be6dfecc124a7c09",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 738,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AhvToGOk",
+ "data": {
+  "system_settings": "iPhone 6 iOS 10.3.2",
+  "client_settings": "TestFlight Build 2.3.2 (4331)",
+  "actual_result": "The popup opens up twice",
+  "expected_result": "The popup should only open up once",
+  "short_description": "Option popup opens up twice when holding down a link while in search",
+  "steps_to_repro": "- Tap on the search icon and search using the `has: link` parameter - Find and tap on a post - Hold the link to copy it - Observe"
+ }
+}

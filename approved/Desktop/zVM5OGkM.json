@@ -1,0 +1,24 @@
+{
+ "id": "599e9a4d2cec587a0f49e2e1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1034,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zVM5OGkM",
+ "data": {
+  "system_settings": "Windows 8.1 Pro x64",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "It triggers my OCPD and leaves streamer mode in for like 1  second.",
+  "expected_result": "It should not lag out and keep streamer mode in.",
+  "short_description": "If you right click the settings cog then hover over streamer mode and then hover over appearance then streamer mode stays in appearance for like 1 second (look at gif)",
+  "steps_to_repro": "- Right Click the settings cog - hover over streamer mode - then hover over appearance - and repeat it"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b6acf2121e73247a9c9a408",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2644,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fRHjiYgA",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 20845, Version Hash: e2f3f2bb28e1eff6138a8166fe642141748b3b9b",
+  "actual_result": "When you restart your pc and open discord it goes back to the normal size",
+  "expected_result": "When re-open the client to be with the size you left it before",
+  "short_description": "Discord windows size goes back to defaut",
+  "steps_to_repro": "- restart pc -  open discord client - boom you get defaut size"
+ }
+}

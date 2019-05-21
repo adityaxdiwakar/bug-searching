@@ -1,0 +1,24 @@
+{
+ "id": "5a887628caf9794a42815663",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1129,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1ESIxWtT",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.2.6",
+  "actual_result": "You get switched back to the DM but the problem persists and you can't view a server for more than a few seconds. No matter how many times you switch to a server it jumps back to the DM making it impossible to send messages. I had to reinstall to be able to send messages. If you could not repro try switching as soon as you see the DM and don't wait for the \"connecting\" banner to appear.",
+  "expected_result": "You should stay in the server",
+  "short_description": "Discord jumps back to your last DM, not allowing you to stay in the server for more than a few seconds",
+  "steps_to_repro": "- Go to your lastest DM - Close the discord app (remove it from recent apps) - Open discord and while it's in the \"connecting\" state quickly switch to a server"
+ }
+}

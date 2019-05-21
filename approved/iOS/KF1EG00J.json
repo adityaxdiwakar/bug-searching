@@ -1,0 +1,17 @@
+{
+ "id": "5bbcc00bd3a0ab717e45ff48",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1075,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KF1EG00J",
+ "data": {
+  "system_settings": "iPhone 6s, IOS 12.0",
+  "client_settings": "2.3.8",
+  "actual_result": "Video controls are gone and you can only go back using the \"swipe from left to right\" motion",
+  "expected_result": "Clicking on the share button should not affect the video controls",
+  "short_description": "Video controls not working if Share button has been pressed",
+  "steps_to_repro": "- Click on an uploaded video attachment ( or similar) - Before the video is fully loaded and fullscreened (tiny video, not the white screen) press on the Share button"
+ }
+}

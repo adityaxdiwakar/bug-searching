@@ -1,0 +1,24 @@
+{
+ "id": "59c3d236f521b0656975085b",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 753,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ykdswxz4",
+ "data": {
+  "system_settings": "Sony Xperia Z5 on Android 7.0",
+  "client_settings": "Discord Alpha 5.2.1",
+  "actual_result": "It is replaced with \"Send a Message\" (in grey, system default font) for a split second before the default message reappears.",
+  "expected_result": "The default message should remain on the bar.",
+  "short_description": "Changing screen orientation causes blank message bar to change its text to \"Send a Message\" in grey for a split second before changing back.",
+  "steps_to_repro": "- Clear Message Bar - Rotate Screen - Observe."
+ }
+}

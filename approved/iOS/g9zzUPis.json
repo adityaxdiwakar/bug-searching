@@ -1,0 +1,17 @@
+{
+ "id": "5c07439d0350e573e47aee4c",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1209,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/g9zzUPis",
+ "data": {
+  "system_settings": "Phone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9595)i",
+  "actual_result": "Magnifying glass bounces around",
+  "expected_result": "Magnifying glass moves normally",
+  "short_description": "Magnifying glass when you have no results for inviting people bounces when opening/closing the keyboard",
+  "steps_to_repro": "- Go to a server where you have invite perms - Tap on the \"Invite Members\" button - Search some random text so you have no results - Close and open the keyboard"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5c11e579cdded332e2376dc1",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1233,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SwQXrZ7v",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.2 Dev Beta",
+  "client_settings": "TestFlight 2.4.1 (9907)",
+  "actual_result": "Page doesn't close until Discord fully connects",
+  "expected_result": "Page closes when you try closing out",
+  "short_description": "Opening the \"Create or Join a server\" options while connecting won't let you close them",
+  "steps_to_repro": "- Completely close Discord - Reopen Discord - While Discord is connecting, tap on the three lines in the top left - Tap on the circle icon to create/join a server - Before Discord finishes connecting, attempt to close out of that page"
+ }
+}

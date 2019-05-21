@@ -1,0 +1,30 @@
+{
+ "id": "5af316f4098fd7f82e7db756",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1391,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OFBmWEOB",
+ "data": {
+  "system_settings": "LG G2 - D802, Android 5.0.2",
+  "client_settings": "Discord Alpha 6.6.6 (Probably 6.6.2+ only)",
+  "actual_result": "When clicking \"Edit Catergory\" the Button to save is already there when you didn't edit anything and it doesn't dissapers when clicking on it to save",
+  "expected_result": "The Save Button should only appear when something has changed in settings",
+  "short_description": "When editing a Category the Save Button is there when you didn't edit anything and doesn't dissapers after clicking on it to save",
+  "steps_to_repro": "- Click and hold on a Catergory - Click \"Edit Catergory\" and observe and try to click on it to save"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59939e1454ee3371c4cfcd73",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 998,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hRBltby7",
+ "data": {
+  "system_settings": "Windows 7 Professional",
+  "client_settings": "Discord 0.0.298",
+  "actual_result": "The tooltips don't show up/are invisible.",
+  "expected_result": "When hovering over the mute mic button or turn webcam off the tooltip pops up describing what it does.",
+  "short_description": "Tooltips do not show up in fullscreen mode while sharing webcam.",
+  "steps_to_repro": "- Call someone. - Turn on webcam. - Go into fullscreen. - Hover mouse over any buttons. -"
+ }
+}

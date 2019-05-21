@@ -1,0 +1,24 @@
+{
+ "id": "59f81fb61da11d3b1a173f05",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1335,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IU3EMaZr",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13",
+  "client_settings": "Web Stable, Build: 6568 (Chrome 62.0.3202.75)",
+  "actual_result": "Long username will be cut off.",
+  "expected_result": "Long username should be truncated with \"...\".",
+  "short_description": "Long username cut off for welcome message after creating account",
+  "steps_to_repro": "- Go to the Discord website - Create an account by clicking on `Open Discord in your browser` - Enter a long username like `WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW` - Observe the welcome message after creating the account"
+ }
+}

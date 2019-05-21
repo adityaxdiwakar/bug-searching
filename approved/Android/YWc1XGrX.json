@@ -1,0 +1,30 @@
+{
+ "id": "5b188e5982a7c73b86f61e64",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1499,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YWc1XGrX",
+ "data": {
+  "system_settings": "Android 7.0, Moto G4",
+  "client_settings": "6.8.7",
+  "actual_result": "The member list anticipates a smaller font size and doesn't space things out right.",
+  "expected_result": "The username and status should be shifted up farther, preventing the writing over the line visual bug.",
+  "short_description": "Larger Font Size Members List Visual Bug",
+  "steps_to_repro": "- Set the font size in your Android OS to large or largest - Check the members list of any guild or group - Anyone \"playing\" or \"listening\" will not have a line below their name and icon"
+ }
+}

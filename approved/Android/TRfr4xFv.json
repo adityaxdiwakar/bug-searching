@@ -1,0 +1,23 @@
+{
+ "id": "58949795cc58c2bdfaf66c19",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 210,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TRfr4xFv",
+ "data": {
+  "system_settings": " Android (CM13), alpha v3.3.1",
+  "actual_result": "empty space",
+  "expected_result": "Rendered emoji",
+  "short_description": "Custom emoji not rendered in channel topic",
+  "steps_to_repro": "- Add custom emoji like `<:Cake:232022014515216394>` to channel topic - Close channels settings and look at channel topic "
+ }
+}

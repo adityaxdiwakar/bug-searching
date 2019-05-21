@@ -1,0 +1,22 @@
+{
+ "id": "584346bcc6e53318a144eab9",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 122,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/olqLerDJ",
+ "data": {
+  "actual_result": "Markdown syntax and mentions are lost.",
+  "expected_result": "Mentions and markdown are kept.",
+  "short_description": "Markdown syntax and mentions are lost when a message is edited.",
+  "steps_to_repro": "- Write a message with a mention or markdown syntax. - Edit the message. "
+ }
+}

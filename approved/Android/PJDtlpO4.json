@@ -1,0 +1,24 @@
+{
+ "id": "594534db4e6dbb7b650627b0",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 514,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PJDtlpO4",
+ "data": {
+  "system_settings": "Android 4.2.2",
+  "client_settings": "Discord 3.9.1",
+  "actual_result": "it's below them",
+  "expected_result": "it's above the bars",
+  "short_description": "+ option is behind bars on server sorting menu {Android 4.x.x Only}",
+  "steps_to_repro": "- be on Android 4.x.x - open Server\u200b sorting - observe + option"
+ }
+}

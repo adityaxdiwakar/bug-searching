@@ -1,0 +1,30 @@
+{
+ "id": "5bc43e07f79f5636fb05179f",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 3184,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Of7HEPYa",
+ "data": {
+  "system_settings": "Windows 10 home x64",
+  "client_settings": "Canary 25872",
+  "actual_result": "The playing status doesn't change untill you restart either the game or discord or untill the rich presence updates like in osu!",
+  "expected_result": "The playing status should change.",
+  "short_description": "When toggling \"hide playing status\" for a specific game while playing it, it doesn't update your playing status.",
+  "steps_to_repro": "- Open a game. -  Make sure you have enabled the playing estatus in settings > game activity. - Go to library tab and hide the playing status for the game you are playing. - Observe your playing status with another account or ask someone else if they can see it."
+ }
+}

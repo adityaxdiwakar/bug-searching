@@ -1,0 +1,30 @@
+{
+ "id": "5a50a0525aed76be2a310620",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1024,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wLEgo6rl",
+ "data": {
+  "system_settings": "Oreo 8.1.0 (Pixel 2 XL)",
+  "client_settings": "Android Alpha 6.0.6",
+  "actual_result": "The emoji text remains as text",
+  "expected_result": "The emoji text should be replaced by the emoji image",
+  "short_description": "\u2764 emoji does not appear in a message with other text",
+  "steps_to_repro": "- Send or view a message containing the \u2764 emoji and other text"
+ }
+}

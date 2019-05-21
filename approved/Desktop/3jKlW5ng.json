@@ -1,0 +1,16 @@
+{
+ "id": "582b4a81e2dc554b6d3ac495",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 145,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3jKlW5ng",
+ "data": {
+  "system_settings": "Windows 10",
+  "actual_result": "Name is split into one letter on each line",
+  "expected_result": "Width being wider to show at least some, if not all of the name",
+  "short_description": "CSS width for file names are borked",
+  "steps_to_repro": "- Upload file (.js file in my case) - Observe the file name "
+ }
+}

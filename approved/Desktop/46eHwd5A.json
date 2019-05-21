@@ -1,0 +1,23 @@
+{
+ "id": "58ecffc7f338e5349e6477fd",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 489,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/46eHwd5A",
+ "data": {
+  "system_settings": " 10.12.4 (16E195) Canary (Latest), Soundflower, Blue Yeti, Internal audio",
+  "actual_result": "no audio input is detected",
+  "expected_result": "Mah voice waves should be transmitted across the magic of discord",
+  "short_description": "on MacOS 10.12.4 (16E195) no audio inputs or outputs are detected",
+  "steps_to_repro": "- Start discord and join a voice channel - try to talk - etc "
+ }
+}

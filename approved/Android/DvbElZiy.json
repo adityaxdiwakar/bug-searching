@@ -1,0 +1,30 @@
+{
+ "id": "5ae372f1d6c5e4d6f1160693",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1333,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DvbElZiy",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.5.8",
+  "actual_result": "Each extra character will replace the content of the previous character at the last position, and for each of them a new pair of toasts \"invalid pin\" and \"404 not found\" will be generated",
+  "expected_result": "It should stop attempting to input letters as soon as the last one gets filled",
+  "short_description": "In the screen to enter the XBox Live PIN code, if you enter many characters in the last field, the app will be flooded with toasts",
+  "steps_to_repro": "- Go to your account settings > Connections - Add > XBox Live - Enter the 5 first digits of the code - When you are at the last digit, try to enter many characters before all the fields get erased"
+ }
+}

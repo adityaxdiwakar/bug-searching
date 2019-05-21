@@ -1,0 +1,30 @@
+{
+ "id": "5b5fac4799556b5031d279c3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2526,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZrM1uha1",
+ "data": {
+  "system_settings": "Windows 10, Microsoft Edge",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 20174, Version Hash: 04625290f5fdaf45ed5a94fa00f89b06c9e9a88b",
+  "actual_result": "The entire member list goes grey, with no 'placeholders' to be seen.",
+  "expected_result": "The users should not disappear, or should atleast stay as their blank profile, whilst loading.",
+  "short_description": "The member list goes completely blank, when scrolling down initially on Firefox/Edge.",
+  "steps_to_repro": "- Enter Discord, on Microsoft Edge. - Find a server with large amounts of members. - Scroll down quickly, using the scroll bar, and dragging."
+ }
+}

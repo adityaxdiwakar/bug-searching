@@ -1,0 +1,30 @@
+{
+ "id": "5988bfbb46d57997cb81974a",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 599,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZSyEeNcI",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 edge (SM-G935F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.0.3 (403)",
+  "actual_result": "You cannot view them as if you are unable to scroll down",
+  "expected_result": "You should be able to view the option to grant temporary membership and the \"Create Link\" button, previously possible on 4.0.2 (401)",
+  "short_description": "Unable to view entire settings menu for invitations in landscape mode",
+  "steps_to_repro": "- Go to a server that you can generate invite links for - Tap on \"Create Instant Invite\" - Click the gear icon right next to the invite code - Switch to landscape mode and notice how the option to grant temporary membership and the \"Create Link\" button cannot be viewed as if you are unable to scroll down."
+ }
+}

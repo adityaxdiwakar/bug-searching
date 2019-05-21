@@ -1,0 +1,17 @@
+{
+ "id": "5b308866f64ba10a2af0cc0a",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1595,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nChvBSxu",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 699",
+  "actual_result": "When opening the emoji picker, Discord hangs and finally crashes and a pop-up appears saying \"Unfortunately, Discord has crashed\".",
+  "expected_result": "The emoji picker opens.",
+  "short_description": "When trying to open emoji picker (while keeping keyboard open) when your device is charging, discord crashes [Seems to happen only on devices that get overheated when charging].",
+  "steps_to_repro": "- Start charging your phone. - Keep using Discord (for some time) while your phone is charging (to heat it up a bit). - Keeping you keyboard open, try to open the emoji picker."
+ }
+}

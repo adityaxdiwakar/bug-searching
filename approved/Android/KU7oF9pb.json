@@ -1,0 +1,17 @@
+{
+ "id": "5b9a83092c7ed44443c6169d",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1984,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KU7oF9pb",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.4.8",
+  "actual_result": "Both actions are done at the same time, causing your client to bug out and show a black screen for a second",
+  "expected_result": "Whatever button you pressed second should overpower the button you pressed first",
+  "short_description": "Pressing the share button in the debug menu and your phone's native \"back\" button at the same time causes your screen to flash black for a second",
+  "steps_to_repro": "- Open the debug menu - Press the share button and your phone's native \"back\" button - Observe"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59d698e3d29a9230a8cc23cd",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1227,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oW9bZ7wT",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Discord Canary 0.0.164",
+  "actual_result": "It sends you to the link, instead of photo",
+  "expected_result": "It should just preview the photo in discord",
+  "short_description": "Clicking on the very edge of a picture sent, will directly send u to the link (if u can't reproduce, send me a screenshot of where ur cursor is :p)",
+  "steps_to_repro": "- Go to the very down right and click"
+ }
+}

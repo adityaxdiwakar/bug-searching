@@ -1,0 +1,30 @@
+{
+ "id": "5aa33b080ef174d35761c6e6",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1720,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gD96qyMV",
+ "data": {
+  "system_settings": "Windows 10 Home Version 1709",
+  "client_settings": "Canary 2.0.3 (11842)",
+  "actual_result": "Spellcheck re-enables itself.",
+  "expected_result": "No underline under your horrible misspelling. (Spellcheck stays off)",
+  "short_description": "Spellcheck re-enables itself after CTRL + R",
+  "steps_to_repro": "- Disable spellcheck. - Ctrl + R. - Misspell a word."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "596a8b3c5db6be0b3661d715",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 555,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kZaX6UQ0",
+ "data": {
+  "system_settings": "LG K8, Android 6.0",
+  "client_settings": "Discord 3.9.8 (397)",
+  "actual_result": "Moves to Channel was in before and have mic UnMuted",
+  "expected_result": "Should Stay in The channel that you dont have permission and have your mic unmute normally.",
+  "short_description": "Being Moved Into Channel without Permission.",
+  "steps_to_repro": "- Be Moved into a Channel without Permission to join - Mute Your Microphone - Then you should get moved back to Original Channel."
+ }
+}

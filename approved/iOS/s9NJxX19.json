@@ -1,0 +1,24 @@
+{
+ "id": "5bcdcbf770c11f1de5a0ecf2",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1105,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/s9NJxX19",
+ "data": {
+  "system_settings": "iPod Touch 6th generation, ios 12.0.1",
+  "client_settings": "Stable 2.3.9 and TestFlight 2.3.9 (8441)",
+  "actual_result": "the menu closes and you can not get to the server invite without hitting done on the top left coroner",
+  "expected_result": "you would be directed to the server invite link, like what happens when you select safari",
+  "short_description": "When opening a invite link on the \"open in discord\" option when holding down on a server invite link in the in app browser you are not directed to the link, unlike if you chose safari",
+  "steps_to_repro": "- go to user settings, web browser and select in app  - find a web page link in a discord channel that leads to a page that contains server invite link (like the the Reddit page that has the r/DiscordApp server invite) - find the invite and hold down on it - when the option menu appears select \"open in discord\" - observe what happens"
+ }
+}

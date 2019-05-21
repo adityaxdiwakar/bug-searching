@@ -1,0 +1,24 @@
+{
+ "id": "59e43bff097f75c313d912f3",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 369,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lvoLtSuy",
+ "data": {
+  "system_settings": "iOS 11.0.2, iPhone 7",
+  "client_settings": "TestFlight 1.9.2 (953)",
+  "actual_result": "Conversations tab is blank.",
+  "expected_result": "You see all your conversations.",
+  "short_description": "Find/Continue a conversation tab is blank.",
+  "steps_to_repro": "- Exit Discord. - Close Discord from running processes with double tapping home button menu. - Open Discord. - Click on a friends profile. - Tap to add a note. - Tap on mutual servers. - Close friends profile. - Swipe right to view conversations."
+ }
+}

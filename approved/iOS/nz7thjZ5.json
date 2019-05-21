@@ -1,0 +1,17 @@
+{
+ "id": "5b9bde10e969700f008d93ee",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1015,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nz7thjZ5",
+ "data": {
+  "system_settings": "iOS 12 Developer Beta 12",
+  "client_settings": "TestFlight 2.3.8 (7167)",
+  "actual_result": "It shows the new message banners and doesn't mark it as read, even though you are looking at the chat.",
+  "expected_result": "When someone other than you sends a message, it shouldnt show the new messages banners.",
+  "short_description": "Not marking messages as read while looking at chat",
+  "steps_to_repro": "- Go to any chat - Watch the chat"
+ }
+}

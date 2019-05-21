@@ -1,0 +1,17 @@
+{
+ "id": "5c23c81e90f5c98646fcd87a",
+ "closed": false,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 3546,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SdV1fVQf",
+ "data": {
+  "system_settings": "Windows 10 x64 Home: 1803",
+  "client_settings": "Canary 30302",
+  "actual_result": "The game stays there",
+  "expected_result": "The game disappears from \"playing\"",
+  "short_description": "When closing a window/game that's in Game Activity setting, it stays \"playing\".",
+  "steps_to_repro": "- Open a game - Add it on Game Activity - Close the game - Look what you're playing"
+ }
+}

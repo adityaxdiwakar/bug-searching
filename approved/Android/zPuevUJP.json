@@ -1,0 +1,24 @@
+{
+ "id": "59ee3be25e8d01ccb756eec7",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 835,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zPuevUJP",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.4.3",
+  "actual_result": "Server pictures are all reloaded. You can observe it by noticing that all pictures displays the default Discord icon for a split second after re-opening app or scrolling again through the list, or by checking the mobile data usage of your app each time you repeat the steps above. Also happens with regular user profile pictures that you already loaded before.",
+  "expected_result": "Server pictures shouldn't be all reloaded",
+  "short_description": "Minimizing and maximizing the app reloads all server pictures, which can cause a noticeable (but not so significant) mobile data usage if performed repeatedly and if you are in a lot of servers.",
+  "steps_to_repro": "- Open Discord, and swipe to the right to view the server list. - Scroll through your entire server list to load all pictures - Press the Recent Tasks button on your Android device, then select Discord to return to the app."
+ }
+}

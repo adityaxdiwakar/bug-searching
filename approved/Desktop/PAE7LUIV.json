@@ -1,0 +1,17 @@
+{
+ "id": "5b4d3aef0ca29a5aaf5e1946",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2282,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PAE7LUIV",
+ "data": {
+  "system_settings": "Windows 10 Home, Version 10.0.17134 Build 17134",
+  "client_settings": "Release Channel: canary, Build Number: 18911",
+  "actual_result": "edited tag appears",
+  "expected_result": "no edit tag",
+  "short_description": "Editing a message and no0t changing anything still results in a edited message",
+  "steps_to_repro": "- send a message - edit it but don't change anything, exiting using enter - observe edit tag"
+ }
+}

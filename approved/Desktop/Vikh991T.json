@@ -1,0 +1,17 @@
+{
+ "id": "5b4e9f6b4cd62c0fa8c9bcb5",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2300,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Vikh991T",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 18958",
+  "actual_result": "Emote is moved upwards",
+  "expected_result": "Emote is aligned in the middle of the box",
+  "short_description": "Emotes are moved up in reactions on a message",
+  "steps_to_repro": "- Observe reactions on a message on PTB or Stable and notice the position of the emote in the box - Observe the position of the emote in the box on Canary"
+ }
+}

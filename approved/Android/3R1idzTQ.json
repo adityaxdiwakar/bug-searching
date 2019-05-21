@@ -1,0 +1,30 @@
+{
+ "id": "5bb0b78cff04d673c2ebc153",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2078,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3R1idzTQ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.9",
+  "actual_result": "The modal is much thinner",
+  "expected_result": "Should be regularly sized",
+  "short_description": "Prune members modal is shrinked if the server has a short name",
+  "steps_to_repro": "- To notice it better, set the font size of your phone as small as possible. Also more noticeable on large phone screens - Change the server name to something that has only 2 or 3 letters - Go to Server Settings > Members > Prune - Observe modal"
+ }
+}

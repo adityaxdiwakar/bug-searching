@@ -1,0 +1,28 @@
+{
+ "id": "5883bb0783e8c3fa180d3506",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 344,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VDqHlEgQ",
+ "data": {
+  "actual_result": "Doesnt play.",
+  "expected_result": "gif avatar plays",
+  "short_description": "Gif avatars dont load when going through other peoples profiles.",
+  "steps_to_repro": "-  open the profile of someone that doesnt have a gif avatar- in mutual friends, pick someone that does have one- point of nitro? "
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59cac46975e3f72d3ef8e0f5",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1193,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hotRnAgW",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, latest",
+  "actual_result": "Window scrolls down, past boundaries",
+  "expected_result": "Only the textarea should scroll, not the main container DIV",
+  "short_description": "Window overflow bug",
+  "steps_to_repro": "- Open up channel settings - Click into the channel topic text area - Press `Page UP` key"
+ }
+}

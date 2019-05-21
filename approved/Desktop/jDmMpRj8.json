@@ -1,0 +1,30 @@
+{
+ "id": "5b774edfbf4f7d7175809515",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2734,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jDmMpRj8",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 22112",
+  "actual_result": "The \"x\" isn't centered",
+  "expected_result": "The \"x\" is centered",
+  "short_description": "\"X\" isn't centered in the circle in settings on 50 zoom",
+  "steps_to_repro": "- Open user settings - Go to appearance and change the zoom level to 50 - Observe the close button"
+ }
+}

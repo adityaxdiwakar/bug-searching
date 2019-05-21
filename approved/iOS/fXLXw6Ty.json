@@ -1,0 +1,17 @@
+{
+ "id": "5bfef7cb5be839601dd27da5",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1177,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/fXLXw6Ty",
+ "data": {
+  "system_settings": "iPhone 8 - iOS 12.0.1",
+  "client_settings": "Discord 2.4.0 (9349)",
+  "actual_result": "It doesn't appear in server selecor, but appears when selector is closed",
+  "expected_result": "Popup should appear in server selector",
+  "short_description": "When you are selecting server or channel, notification doesn't appear",
+  "steps_to_repro": "- Open server selection - Let your friend message to DM - You will get sound but no popup - Close server selector - You will recieve that notification"
+ }
+}

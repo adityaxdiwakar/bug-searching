@@ -1,0 +1,24 @@
+{
+ "id": "5a0cab187494952802444ba0",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1377,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fG9lBLK6",
+ "data": {
+  "system_settings": "Windows 10 Version 1607",
+  "client_settings": "Desktop Stable",
+  "actual_result": "the message doesn't show up",
+  "expected_result": "a message like i.e. \"Playing Rocket League\" should be below the name",
+  "short_description": "The \"playing statuses\" on the profile don't show up anymore",
+  "steps_to_repro": "- click one someone's name who is in-game - there should be a status but there isn't"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5aca15cd44b19ee537f92fee",
+ "closed": false,
+ "idList": "57f581ee03d9a5860ecf0e06",
+ "idShort": 1253,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/F2qXXb6r",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8 ,Android Oreo 8.0",
+  "client_settings": "Discord Alpha 6.4.6",
+  "actual_result": "Discord rapidly switching between \"Connect to Voice\" screen and \"Connected\" screen few times, Amount of time may vary",
+  "expected_result": "Call should start properly",
+  "short_description": "Changing from Voice channel to Video Chat spams DM",
+  "steps_to_repro": "- Join voice channel - Video Call to someone via \"Start Video Call\" button"
+ }
+}

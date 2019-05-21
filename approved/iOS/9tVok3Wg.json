@@ -1,0 +1,24 @@
+{
+ "id": "5c1d025cc0ded07dd3d56f49",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1241,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9tVok3Wg",
+ "data": {
+  "system_settings": "iPhone 8 iOS 12.0.1",
+  "client_settings": "TF 2.4.1 (10255)",
+  "actual_result": "The button\u2019s status flickers from on and off, animation occasionally stops halfway.",
+  "expected_result": "Button should work as intended",
+  "short_description": "Connections \u201cDisplay on Profile\u201d buttons stutter and reset occasionally when selecting the button and the \u201cAdd\u201d button at the same time",
+  "steps_to_repro": "- Go into your connections menu - Using two fingers, select the button next to one of your connections AND the \u201cAdd\u201d button on the top right - Observe"
+ }
+}

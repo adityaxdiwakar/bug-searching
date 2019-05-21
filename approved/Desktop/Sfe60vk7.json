@@ -1,0 +1,30 @@
+{
+ "id": "5be3875ea9a2f55446ba41e0",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3360,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Sfe60vk7",
+ "data": {
+  "system_settings": "Microsoft Windows 10 Home 1803, OS Build 17134.345",
+  "client_settings": "Desktop Canary, 27545",
+  "actual_result": "It creates an error message on your screen that you can not exit unless you completely exit Discord's process.",
+  "expected_result": "It is not supposed to do anything. I made this purposefully.",
+  "short_description": "Discord Click-on-Link Crash Bug",
+  "steps_to_repro": "- Post the link/uri in the notes below - Click on it - For all I know, it only works on desktop windows."
+ }
+}

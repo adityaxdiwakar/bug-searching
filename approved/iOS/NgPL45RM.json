@@ -1,0 +1,30 @@
+{
+ "id": "5abd89167eee27cae9c7c3ad",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 653,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NgPL45RM",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 11.2.6",
+  "client_settings": "Discord TestFlight 2.2.7, Build 3519",
+  "actual_result": "The hitbox of the autocorrect bar drops as the emoji picker pops up, so you hit the autocorrect word as the hitbox drops, creating :HAPPY 10000 BUG REPORTS \ud83c\udf89\ud83c\udf89\ud83c\udf89",
+  "expected_result": "It should be :r",
+  "short_description": "iOS autocorrect gets in the way of emoji",
+  "steps_to_repro": "- Go to iOS settings and set the \u201ct\u201d key to autocorrect to \u201cHAPPY 10000 BUG REPORTS \ud83c\udf89\ud83c\udf89\ud83c\udf89\u201d (or in reality, any string) - Test to make sure it works (meaning, typing \"t\" should output your string) - Go into a Discord text channel - Type :r"
+ }
+}

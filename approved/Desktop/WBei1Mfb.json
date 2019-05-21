@@ -1,0 +1,30 @@
+{
+ "id": "5b62d41372ea2cc801870188",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 2599,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WBei1Mfb",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 20540",
+  "actual_result": "The overlay covers up the chat messages. (This may take a few tries to get)",
+  "expected_result": "The overlay pushes up chat like it does on larger resolutions",
+  "short_description": "When the text window in the overlay is at or near the default size, it covers up text on newlines",
+  "steps_to_repro": "- Completely restart the overlay to ensure the overlay size is at its default - Go to any channel, preferably one without any attachments in it - Send enough messages so the chat reaches the bottom of the overlay or resize the overlay vertically so messages are right above the text bar - Insert a bunch of newlines into the text box"
+ }
+}

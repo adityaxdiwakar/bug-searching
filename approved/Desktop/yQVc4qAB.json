@@ -1,0 +1,23 @@
+{
+ "id": "5848c3b36e1cd3a9c59027c1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 226,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yQVc4qAB",
+ "data": {
+  "system_settings": " Latest Canary Win10 Home",
+  "actual_result": "Nothing except copying works",
+  "expected_result": "Delete message, copy message, etc.",
+  "short_description": "Right-click context menu options for removing/adding people in DM group (system messages) do nothing (except ID)",
+  "steps_to_repro": "- Create DM group - Add person so an added person message shows up - Right click on message and try to use the options "
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "5a40ac740692860bf4652388",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1489,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UUqOfvGy",
+ "data": {
+  "system_settings": "Windows 7",
+  "client_settings": "Build 9059",
+  "actual_result": "Discord stops responding.",
+  "expected_result": "Discord should not stop responding",
+  "short_description": "Discord stop responding after ending screensharing and call, then rejoining call.",
+  "steps_to_repro": "- Must have Nitro first - Join a group DM call or 2 people call - Screenshare - Wait for a few mins - stop screen-sharing first then leave call then join again"
+ }
+}

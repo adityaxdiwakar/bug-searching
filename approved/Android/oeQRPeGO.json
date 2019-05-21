@@ -1,0 +1,17 @@
+{
+ "id": "5be7325dbfaad90dac7a723b",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2302,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/oeQRPeGO",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.8.8",
+  "actual_result": "The preview is not shown until you clear the filters",
+  "expected_result": "The User and Action filter preview should still be at the top of the screen",
+  "short_description": "The User and Action filter in Audit Logs disappear when you filter for a non-existant result",
+  "steps_to_repro": "- Find a Filter/User ratio that you know won't produce any results - Observe"
+ }
+}

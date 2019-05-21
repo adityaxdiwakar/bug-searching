@@ -1,0 +1,24 @@
+{
+ "id": "59c39e23a3105a18ffdf7de2",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 752,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OU84mclj",
+ "data": {
+  "system_settings": "Android 7.0",
+  "client_settings": "Android 5.1.2",
+  "actual_result": "Discord stays in a kind of semi-connected state, you can still see your friend list, but servers won't show up, You can think it's bugged because friend list remains open, but you cannot access to any server and the hourglass \"connecting\" keeps showing, Manually killing the process and restarting the phone won't change anything, discord will stay in that kind of limited connected state. until you manually log-off.",
+  "expected_result": "You should get a clear message than your session has changed, or you should get simply disconnected.",
+  "short_description": "If you change password on desktop, discord won't tell anyting on android and will stay in a semi-connected state.",
+  "steps_to_repro": ""
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5acc87fdb6315d1edf6fb566",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1258,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SVjGdy7Z",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.6",
+  "actual_result": "It shows Discord logo",
+  "expected_result": "Should be the default Group logo as shown in DM list",
+  "short_description": "Pictureless Group DMs have wrong logo in the sidebar when you get a new message in this group",
+  "steps_to_repro": "- Find a group DM without picture  - Switch to a different channel - Have a new message in the group - Observe the group icon in the sidebar above server list"
+ }
+}

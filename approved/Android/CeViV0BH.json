@@ -1,0 +1,30 @@
+{
+ "id": "5b05feff70beab31e8cec401",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1455,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CeViV0BH",
+ "data": {
+  "system_settings": "OnePlus 6, Android O (8.1.0)",
+  "client_settings": "Discord Alpha 6.7.7",
+  "actual_result": "The buttons are both blurple though with their original text colour",
+  "expected_result": "The buttons should look normal (red and white)",
+  "short_description": "Buttons on the age barrier on NSFW channels are wrongly coloured",
+  "steps_to_repro": "- Open an NSFW channel you haven't accepted the age barrier of yet"
+ }
+}

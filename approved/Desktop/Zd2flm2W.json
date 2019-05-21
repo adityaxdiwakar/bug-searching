@@ -1,0 +1,17 @@
+{
+ "id": "59818a3568c1fadbb0a48a04",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 920,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Zd2flm2W",
+ "data": {
+  "system_settings": "Windows 10 x64 (no anniv. update)",
+  "client_settings": "Discord Stable 0.0.297",
+  "actual_result": "A loading circle spins endlessly below the header",
+  "expected_result": "The section opens up revealing settings such as switching off \"Friend is playing X\" notifications",
+  "short_description": "Cannot change game notification settings",
+  "steps_to_repro": "- Enter the Settings menu - Open Notifications page - Try to open the \"Game Activity Notifications\" section"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5c0e14f5a368c42d2710e920",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1226,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bSdv9UYf",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9714)",
+  "actual_result": "Discord shows you the \"You must be friends with user to start a group dm\" screen",
+  "expected_result": "You're able to add users to the group DM",
+  "short_description": "Unable to add friends to a group DM if the only other member is not on your friend's list",
+  "steps_to_repro": "- Start a group DM with two other people - Remove one user from the group DM, and remove the other user from your friend's list - Enter the group DM overview, and attempt to add users to the group DM"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b09efa36436fb2f5c5bc2e2",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1475,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/InPVJg1Z",
+ "data": {
+  "system_settings": "LG G5, Android 7.0",
+  "client_settings": "Discord Android main release 6.7.9",
+  "actual_result": "The first paragraph is double-spaced, but all following paragraphs are single-spaced",
+  "expected_result": "All paragraphs have the same amount of spacing between their lines, as displays on desktop",
+  "short_description": "Three-backtick code blocks have uneven spacing in multiple paragraphs",
+  "steps_to_repro": "- View a code block on mobile with multiple paragraphs"
+ }
+}

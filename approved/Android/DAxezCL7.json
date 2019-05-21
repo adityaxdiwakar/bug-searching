@@ -1,0 +1,17 @@
+{
+ "id": "5ae3a3d1389afbf37775d5d4",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1334,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DAxezCL7",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.5.8",
+  "actual_result": "it switches back to ABC mode, and that's for each character typed",
+  "expected_result": "Should stay in 123 mode",
+  "short_description": "Keyboard reverts back to ABC mode after each digit typed in the XBox pin input",
+  "steps_to_repro": "- Account settings > Connections - Add > XBox Live - Switch to numpad (usually it's a \"123\" button on keyboard) - Type 1 digit"
+ }
+}

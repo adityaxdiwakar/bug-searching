@@ -1,0 +1,30 @@
+{
+ "id": "5bdcc7e16213d91615e47a25",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3345,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/G8SKuPNn",
+ "data": {
+  "system_settings": "Windows 10 home x64 version 1803",
+  "client_settings": "Discord Canary Build Number: 27445, Version Hash: 5812111faccb4f77ec0e4bce4f76c94c922fc4cc",
+  "actual_result": "it takes multiple tries to get it to work and its VERY inconsistent compared to stable where it detect numbers from the first try and shows them for way longer",
+  "expected_result": "Windows speech recognition should show number to choose from just like in Stable",
+  "short_description": "Windows speech recognition very inconsistent on canary",
+  "steps_to_repro": "- say \"start listening\" - say \"show number\" - observe that there's no number to choose from are shown - saying \"show number\" multiple times can get it to work but the numbers are very transparent and disappear quickly"
+ }
+}

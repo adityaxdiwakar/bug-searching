@@ -1,0 +1,24 @@
+{
+ "id": "599b51c5ebb95ce143b0883b",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 638,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nmLgTf49",
+ "data": {
+  "system_settings": "LG X Power running Android Marshmallow 6.0.1",
+  "client_settings": "Android Alpha 4.0.8 (503)",
+  "actual_result": "It asks to save changes even though you changed nothing",
+  "expected_result": "It backs out of the channel without asking to save any changes (since you didn't change anything in the first place)",
+  "short_description": "Discord asks you to save changes when there aren't any changes at all",
+  "steps_to_repro": "- Create a channel in a server with around 45 characters in its name - Go to Channel Settings for that Channel - Back out of channel settings (make sure you made no changes before backing out) - It asks you to save changes or discard."
+ }
+}

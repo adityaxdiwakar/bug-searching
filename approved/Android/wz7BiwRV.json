@@ -1,0 +1,24 @@
+{
+ "id": "5962a930204b1db30311990c",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 542,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wz7BiwRV",
+ "data": {
+  "system_settings": "Samsung Galaxy s7 edge, https://discord.gg/gskDSmV Android",
+  "client_settings": "Android Discord Alpha 3.9.8 (397)",
+  "actual_result": "You are unable to enter the code and have to start all over again",
+  "expected_result": "You should be able to just enter the code",
+  "short_description": "Verify phone number window disappears when exiting the app",
+  "steps_to_repro": "- Go to a server that requires phone number verification - Click on Verify Phone - Enter your phone number - Exit the app/press the home button (do not close the app entirely) - Reopen the app and notice that it is gone, if you try completing the verification again, you will get the rate limited error message."
+ }
+}

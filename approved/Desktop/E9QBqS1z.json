@@ -1,0 +1,17 @@
+{
+ "id": "5928fb677fd86676965986cc",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 681,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/E9QBqS1z",
+ "data": {
+  "system_settings": "Windows 10 x64 Creator Update",
+  "client_settings": "Discord Canary 0.0.154",
+  "actual_result": "Connected to the us-east voice server",
+  "expected_result": "Connection to the Brazil server",
+  "short_description": "Setting server to Brazil connects to us-east instead",
+  "steps_to_repro": "- Set server's Region to Brazil - Connect to Voice Channel - Click the connection info button (the `i`)"
+ }
+}

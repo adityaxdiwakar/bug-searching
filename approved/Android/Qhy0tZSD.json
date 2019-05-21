@@ -1,0 +1,30 @@
+{
+ "id": "5b3217a07d530c5cf743c85a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1605,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Qhy0tZSD",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 running Android 7.0",
+  "client_settings": "Discord Alpha 6.9.9 (699)",
+  "actual_result": "You see \"Edit Message\" but the option doesn't do anything",
+  "expected_result": "You don't see \"Edit Message\"",
+  "short_description": "You can select \"Edit Message\" in a channel you can't send messages in, if it's your message, but the option doesn't do anything",
+  "steps_to_repro": "- Send a message in a channel - Have a friend deny you perms to send messages in that channel - Hold down on your message - Observe the option menu"
+ }
+}

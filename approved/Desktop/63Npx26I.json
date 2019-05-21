@@ -1,0 +1,24 @@
+{
+ "id": "5b71cfb32594b33856eea916",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2699,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/63Npx26I",
+ "data": {
+  "system_settings": "iPhone 6, iOS 10.2.1",
+  "client_settings": "Safari",
+  "actual_result": "You click and the drawer will close, but it won't chose it",
+  "expected_result": "You should be able to select it and not have to type it",
+  "short_description": "[Web bug] Cannot select auto suggestions in partners application",
+  "steps_to_repro": "- Go to https://discordapp(dot)com/partners - Answer No, No, Yes - Try selecting a different country (works on language)"
+ }
+}

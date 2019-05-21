@@ -1,0 +1,24 @@
+{
+ "id": "59d733cee6e4a9200cfe6472",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 790,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EF3iqJPK",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Android Alpha 5.2.7",
+  "actual_result": "It scrolled back to the New messages red line separator",
+  "expected_result": "You should be still scrolled at the last sent message",
+  "short_description": "Viewing recent mentions after reading the new unread messages in a channel will scroll you back to the New messages red bar",
+  "steps_to_repro": "- Choose any active text channel, and make sure you're out of it so you can get the unread messages indicator - Wait a few minutes for new messages, then go to this channel. It should bring you to the \"new messages\" red separator. If the last sent message is offscreen, you're good to go. - Scroll down until you reach the last sent message - Without leaving the channel, click the `@` button to see recent mentions - Close the recent mentions panel"
+ }
+}

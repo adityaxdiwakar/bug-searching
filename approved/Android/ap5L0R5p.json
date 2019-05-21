@@ -1,0 +1,30 @@
+{
+ "id": "59d88c3ad8bed7b56583bd93",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 792,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ap5L0R5p",
+ "data": {
+  "system_settings": "Android 4.1 (Samsung galaxy tab 3 lite)",
+  "client_settings": "Android Stable 5.2.6",
+  "actual_result": "discord does crash if you try to download something",
+  "expected_result": "Discord to check if the service is running, and if not running, show an error message",
+  "short_description": "when the download manager service is disabled, discord does crash if you try to download something, rather than checking if all necessary process are active (Possible only with OS 4.x)",
+  "steps_to_repro": "- While something is being downloaded, find the \"downloading file name\" on the android notifications tab - hold it until it pops up a option to see the \"App info\" and select it - you should see a page with the information about the download manager - select the option to turn it off - Open Discord - find a image and click on the download button"
+ }
+}

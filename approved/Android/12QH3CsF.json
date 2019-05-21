@@ -1,0 +1,30 @@
+{
+ "id": "5b9e7e51298b842b75cdf85b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1987,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/12QH3CsF",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.5.2",
+  "actual_result": "You aren't able to back of the modal with your phone's native back button",
+  "expected_result": "You are able to back out of the modal",
+  "short_description": "You cant back out of the \"Turn off customization?\" modal with your phone's native back button",
+  "steps_to_repro": "- Go to your Privacy & Safety Settings - Try to disable the \"Use data to customize my Discord experience\" or \"Use data to improve Discord\" option - When the modal pops up, try and back out of the modal with your phone's native home button"
+ }
+}

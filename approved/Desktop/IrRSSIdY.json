@@ -1,0 +1,17 @@
+{
+ "id": "59c1fa4bf17806c1ec0f9f5c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1171,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IrRSSIdY",
+ "data": {
+  "system_settings": "Windows 10 Pro 15063.608",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "nothing",
+  "expected_result": "It should jump to the message in the channel.",
+  "short_description": "Jump in search/pins no longer jumps",
+  "steps_to_repro": "- go into a channel and search for a past message - try to jump to the message"
+ }
+}

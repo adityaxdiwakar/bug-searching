@@ -1,0 +1,30 @@
+{
+ "id": "5ada2a6ffb5b61ee841842ab",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1870,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yAQNBGro",
+ "data": {
+  "system_settings": "Windows 10 Education 64-bit (10.0, Build 16299)",
+  "client_settings": "stable, Build Number: 13969",
+  "actual_result": "You get taken to the Facebook homepage",
+  "expected_result": "You are taken to the user's Facebook account",
+  "short_description": "Desktop Facebook links from profile, not working",
+  "steps_to_repro": "- Find anyone with Facebook linked to their Discord account and try to check their Facebook account"
+ }
+}

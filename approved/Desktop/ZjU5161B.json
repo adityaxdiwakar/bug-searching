@@ -1,0 +1,17 @@
+{
+ "id": "5b5c22624100e5721e9e29ec",
+ "closed": true,
+ "idList": "5952c5a696b4349f964d3cbd",
+ "idShort": 2464,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZjU5161B",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Canary Build 20174 and Stable Build 20040",
+  "actual_result": "The close button moves to the middle of the screen and when you move the voice box there it disappears",
+  "expected_result": "The close button should move to the the right hand corner again",
+  "short_description": "Moving voice box on top of close button makes the button move and eventually disappears",
+  "steps_to_repro": "- Launch your game and Discord - Turn on your overlay and join a voice channel - Move your voice box all the way to the right hand corner - Move your voice box all the way to the left hand corner"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "5842220b7aa85a46473fc3a3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 198,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7ZarWk7j",
+ "data": {
+  "actual_result": "animated pngs (renamed webp files) and webp auto plays.",
+  "expected_result": "It doesnt autoplay.",
+  "short_description": "webp and animated png files auto play on desktop and android. (not ios?)",
+  "steps_to_repro": "- use the following site. turn gif to webp http://image.online-convert.com/convert-to-webp - make sure the gif is 200 x 181. "
+ }
+}

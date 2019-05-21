@@ -1,0 +1,30 @@
+{
+ "id": "59cbf1def19e31fad76fadbb",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 346,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PZDGs6Hz",
+ "data": {
+  "system_settings": "iPhone 5c, iOS 10.3.3",
+  "client_settings": "TestFlight 1.9.1 (665)",
+  "actual_result": "the Channel Category perms say that they are for text channels",
+  "expected_result": "Channel Category perms are normal",
+  "short_description": "channel category perms are messed up",
+  "steps_to_repro": "- create a channel category - edit its perms - check what they say compared to the desktop client"
+ }
+}

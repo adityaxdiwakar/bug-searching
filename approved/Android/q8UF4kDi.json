@@ -1,0 +1,30 @@
+{
+ "id": "594fc7841fcaa4fb6db1f739",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 527,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/q8UF4kDi",
+ "data": {
+  "system_settings": "Samsung Galaxy S8+ Nougat",
+  "client_settings": "Android 3.9.7 (396)",
+  "actual_result": "The voice channel absolutely loves your company and force joins you right back in.",
+  "expected_result": "You will not be in the voice channel.",
+  "short_description": "If you leave a server while in the voice channel then rejoin, you will still be in the voice channel.",
+  "steps_to_repro": "- Join a server voice channel then promptly leave the server entirely - Join back at any time."
+ }
+}

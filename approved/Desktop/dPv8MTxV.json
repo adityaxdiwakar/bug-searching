@@ -1,0 +1,15 @@
+{
+ "id": "58374ca378d6b9bd4d468d23",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 173,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dPv8MTxV",
+ "data": {
+  "actual_result": "Can also trigger when different combinations of keys are clicked as described above",
+  "expected_result": "Only triggers when control + <any key> is clicked.",
+  "short_description": "Keybinds with control+key will trigger when shift+key or ctrl+shift+key or ctrl+alt+key is pressed",
+  "steps_to_repro": "- Make a keybind for anything, set it to control + <any key> - Try holding shift + <any key> or control + shift + <any key> or control + alt + <any key> - Note <any key> is the same in these examples. "
+ }
+}

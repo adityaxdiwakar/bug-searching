@@ -1,0 +1,30 @@
+{
+ "id": "5bc0eed4e64965368e2acc07",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3165,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bT2wvPqq",
+ "data": {
+  "system_settings": "Windows 10 64x (1809)",
+  "client_settings": "Canary 25872",
+  "actual_result": "Large profile shows even which overlay closed",
+  "expected_result": "Large profile closes",
+  "short_description": "[Overlay] Large profiles still show after closing overlay",
+  "steps_to_repro": "- Open Overlay - Open a Large profile - Close Overlay"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a653f9c7f2516fe2219bf66",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1572,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qtFNuBEF",
+ "data": {
+  "system_settings": "Arch Linux x64, kernel 4.14.9-1-ARCH",
+  "client_settings": "Release Channel: canary, Build Number: 9714, Version Hash: a3bde5eb19401f5ca9732c291f6a01356f543b9d",
+  "actual_result": "Discord navigates to the link in your browser without any prompt",
+  "expected_result": "A prompt appears warning you that \"links are spoopy\", with an option to either go to the link or cancel",
+  "short_description": "Embed thumnail images with link do not show security \"spoopy\" prompt",
+  "steps_to_repro": "- Create an embed with a title link and a thumbnail image (for instance from a bot or a webhook call) - Click the thumbnail in the top-right corner of the embed"
+ }
+}

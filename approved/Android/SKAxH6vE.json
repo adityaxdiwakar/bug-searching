@@ -1,0 +1,30 @@
+{
+ "id": "5b5c7f939a14b095a7d0ba84",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1693,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SKAxH6vE",
+ "data": {
+  "system_settings": "ZTE Blade A602, Android Nougat 7.0",
+  "client_settings": "Android Alpha 7.2.0 (720)",
+  "actual_result": "The button does not change and makes it look like you can send a friend request to nobody.",
+  "expected_result": "The button should be partially greyed out similar to the prune members button",
+  "short_description": "The 'send' button in the add friend modal is too coloured and looks like its meant to be pressed",
+  "steps_to_repro": "- Make sure you are on dark mode if not already"
+ }
+}

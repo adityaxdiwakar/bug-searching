@@ -1,0 +1,30 @@
+{
+ "id": "5bd22948ac0b0373f9757a04",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3283,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qmF3bPFN",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 26952",
+  "actual_result": "The String gets wrapped only if it is touching the right edge of the X button, making the text overlap it if long enough",
+  "expected_result": "The String gets wrapped before the closing X button",
+  "short_description": "Long enough Server Names in the \"Invite Friends to...\" Modal overlaps with the Close Button",
+  "steps_to_repro": "- Create a Server with a long name - Right Click the Server Icon and \"Invite People\" - In the \"Invite Friends to...\" Modal, observe"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b4fca644bedbbef3560c4f7",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2316,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/fcFAChFr",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 19105",
+  "actual_result": "Messages overlap the name and timestamp",
+  "expected_result": "Messages are condensed properly and below the name and timestamp",
+  "short_description": "Messages overlap name and timestamp when chat area is condensed",
+  "steps_to_repro": "- Have some send a long message that has 2-3 lines - Condense the message area (can be done by shrinking the Discord window and opening the search feature) - Observe what happens to the messages"
+ }
+}

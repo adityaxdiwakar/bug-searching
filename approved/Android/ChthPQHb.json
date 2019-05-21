@@ -1,0 +1,30 @@
+{
+ "id": "5bd01a1342cd5659cd79be49",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2234,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ChthPQHb",
+ "data": {
+  "system_settings": "Moto X4 Android 8.1.0",
+  "client_settings": "7.7.9",
+  "actual_result": "The bar showing the progress of a file upload just fills up then reseta",
+  "expected_result": "It should tell you your files are too powerfull",
+  "short_description": "If you send a video that is too large the file bar will be stuck in loop",
+  "steps_to_repro": "- Go to your gallery - Choose a video over the 8mb limit (works with non nitro) - Share with discord - Choose someone's dm - After pressing send while it is loading press the x in the top left corner - (can reproduce)"
+ }
+}

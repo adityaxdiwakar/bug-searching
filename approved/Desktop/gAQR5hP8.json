@@ -1,0 +1,36 @@
+{
+ "id": "59826258ffe72345781a1411",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 922,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gAQR5hP8",
+ "data": {
+  "system_settings": "Windows 10 x64 Creator's Update",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "You get reconnected to the other user without doing anything",
+  "expected_result": "Client does not reconnect call after this long time",
+  "short_description": "Discord call reconnects when your computer awakens from sleep",
+  "steps_to_repro": "- Be in a DM call - Put your computer to sleep - Call will eventually disconnect on the other user's side - Leave your computer in sleep mode for over an hour - let computer resume from sleep for updates"
+ }
+}

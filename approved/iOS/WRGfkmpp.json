@@ -1,0 +1,15 @@
+{
+ "id": "582d613966e18ef8fd2211e1",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 77,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WRGfkmpp",
+ "data": {
+  "actual_result": "the keyboard stays on top",
+  "expected_result": "The profile opens, and the keyboard dismisses",
+  "short_description": "when tapping on a users name and opening their profile, the keyboard doesn't disappear",
+  "steps_to_repro": "- Start typing - While typing tap on a @mention - open the users profile from that mention "
+ }
+}

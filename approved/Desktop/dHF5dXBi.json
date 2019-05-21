@@ -1,0 +1,17 @@
+{
+ "id": "592a4f75656e8724dd533965",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 688,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dHF5dXBi",
+ "data": {
+  "system_settings": "Windows 10 latest",
+  "client_settings": "Discord Canary 0.0.154",
+  "actual_result": "The tooltip goes above the emoji and gets cut off at the top",
+  "expected_result": "The tooltip is missing or appears under the channel topic",
+  "short_description": "Hovering over Emojis in a channel topic cuts off the tooltip",
+  "steps_to_repro": "- Find (or make) a channel with an emoji in the channel topic - Hover over the emoji in the channel topic - Observe"
+ }
+}

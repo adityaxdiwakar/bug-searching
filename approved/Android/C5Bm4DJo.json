@@ -1,0 +1,17 @@
+{
+ "id": "5bf406dcb5a6a24895d7980e",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2335,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/C5Bm4DJo",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.9.6",
+  "actual_result": "Buzzing sound abruptly cuts off.",
+  "expected_result": "Buzzing sound shouldn't cut off.",
+  "short_description": "Nearby-scanning buzzing sound cuts off when you rotate screen.",
+  "steps_to_repro": "- Go to friends, and find the Nearby scanning. - Then, press on \"Start nearby scanning\". The buzzing sound should start. - Once you hear the buzzing sound, rotate your screen."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b8e909d92974433cac2c3ef",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1926,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jCme0wcH",
+ "data": {
+  "system_settings": "OnePlus 2, Android 6.0.1",
+  "client_settings": "Discord Stable 7.4.2 (742)",
+  "actual_result": "The background is blurple",
+  "expected_result": "It should be a gray background",
+  "short_description": "On the quick switcher, server logos with the default logo have a blurple background instead of gray",
+  "steps_to_repro": "- Open  Quick Switcher - Find a server with a default logo (letters on a gray background) - Notice how the background's blurple and not gray"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b515ad397d3d86aae948e9b",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2343,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xU9Z8KbJ",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1803 Firefox Nightly v63.0a1",
+  "client_settings": "Firefox Nightly v63.0a1",
+  "actual_result": "The animation freezes and does not complete.",
+  "expected_result": "The animation completes.",
+  "short_description": "[Website Bug] The exclamation mark animation on the staff page freezes if you move your cursor away from the staff member.",
+  "steps_to_repro": "- Go to the Discord staff page - Scroll down to \"Meet the Squad\" - Hover you mouse over a staff member and remove it until you get the red exclamation mark. - Remove your cursor."
+ }
+}

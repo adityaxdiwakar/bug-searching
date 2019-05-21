@@ -1,0 +1,24 @@
+{
+ "id": "5ae3e4dbb70d08c1cb709fd5",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 709,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/A5oQwxwW",
+ "data": {
+  "system_settings": "iOS 11.3, iPhone 6",
+  "client_settings": "TestFlight 2.3.1",
+  "actual_result": "The blocked persons name disappears leaving a gray space",
+  "expected_result": "The red unblock option should pop up when swiped left",
+  "short_description": "Swiping left on a blocked person in the blocked tab makes the persons name disappear but the \u201cunblock\u201d thing doesn\u2019t appear like it used to",
+  "steps_to_repro": "- Go to the blocked tab - Swipe left on a blocked person  - Notice the \u201cunblock\u201d option doesn\u2019t pop up"
+ }
+}

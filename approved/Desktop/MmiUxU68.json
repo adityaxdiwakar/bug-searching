@@ -1,0 +1,17 @@
+{
+ "id": "5962653a733e49218d435055",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 834,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/MmiUxU68",
+ "data": {
+  "system_settings": "Win 10 Pro x64 v1607",
+  "client_settings": "Desktop Canary 0.0.157 (Build 2137)",
+  "actual_result": "Report option is visible and opens the report UI if clicked, however gets stuck in an infinite load loop (can be exited)",
+  "expected_result": "No report option is available since Clyde is only a client side message",
+  "short_description": "You can open the UI to report messages by Clyde",
+  "steps_to_repro": "- Ensure you have the report experiment enabled (this report can't be reproduced without it) - Invoke Clyde somehow (e.g. sending a message to someone that has you blocked, setting your nickname via /nick, etc.) - Right click the message Clyde throws"
+ }
+}

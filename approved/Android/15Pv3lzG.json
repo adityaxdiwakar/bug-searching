@@ -1,0 +1,30 @@
+{
+ "id": "5a62c2096bebbd94d384453a",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1048,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/15Pv3lzG",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.1.0",
+  "actual_result": "It displays the the search parameter from the last server along with the new parameter",
+  "expected_result": "It should only display the option your clicked on",
+  "short_description": "Search parameters from your last search in another server appear in another server when searching",
+  "steps_to_repro": "- Go to any server - Search using the four search options but do not search for any keyword (like from:B a \u2122\ufe0f a n#7883) - Jump to any message - Go to another server  - Open the search page and click on any search option - Observe the text field"
+ }
+}

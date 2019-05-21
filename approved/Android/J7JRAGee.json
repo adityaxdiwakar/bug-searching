@@ -1,0 +1,30 @@
+{
+ "id": "5b79a1a32073a91051a8901c",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1853,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/J7JRAGee",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, Android 7.0",
+  "client_settings": "Discord Alpha 7.3.8",
+  "actual_result": "Separate screen pops up, saying \"Hole (since I created the inv link) has invited you to join _\" with the Join button, even though you are already in the server.",
+  "expected_result": "You should be led to the channel the invite link was made for.",
+  "short_description": "Invite links for server you already joined leads you to the separate \"Join server\" screen.",
+  "steps_to_repro": "- Send an invite link for the server you are currently in on one of the servers channel - Click on it."
+ }
+}

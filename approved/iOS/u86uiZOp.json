@@ -1,0 +1,15 @@
+{
+ "id": "5812a315a3b4084324b09f6a",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 50,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/u86uiZOp",
+ "data": {
+  "actual_result": "Red Box Remains in chat area Settings: iPhone 6 Plus,  iOS 10.1, Canary Latest Screenshot: http://m.imgur.com/MpNjozb",
+  "expected_result": "RedBox Disappears from View",
+  "short_description": "Miscorrected Text keeps red box in chat window after disappearance",
+  "steps_to_repro": "- 1) Misspell a word - 2)Click on it once to bring up correction dialog - 3) Click or swipe away "
+ }
+}

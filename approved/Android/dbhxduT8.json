@@ -1,0 +1,30 @@
+{
+ "id": "5bb4608b892cde89e2341430",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2089,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dbhxduT8",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord 761",
+  "actual_result": "It gets truncated with just 2 dots which makes it look like the server name gets truncated before the member count in the modal.",
+  "expected_result": "It gets truncated with 3 dots like at every other place.",
+  "short_description": "The server name in the invite modal gets truncated with just 2 dots.",
+  "steps_to_repro": "- Copy an invite for a server with a long name. - Send it in any channel/DM. - Observe the number of dots beside the server name."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b8b97c173426c22bd0be459",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1914,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4ePy8kSg",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 746",
+  "actual_result": "No Icon, just a blank icon",
+  "expected_result": "A loaded icon",
+  "short_description": "Blank Group Dm Icon never loads on DM list",
+  "steps_to_repro": "- be in a group dm with no icon - open channel drawer - observe that group dms on dm list"
+ }
+}

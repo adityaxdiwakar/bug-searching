@@ -1,0 +1,30 @@
+{
+ "id": "5b2b39b2dc08c263d07a2bb5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2161,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/E1rNHgiR",
+ "data": {
+  "system_settings": "Fedora 28",
+  "client_settings": "canary 17413",
+  "actual_result": "You stay in Games tab even when its not showing on the bar",
+  "expected_result": "You should be on Friends tab",
+  "short_description": "[REPOSTED FROM LINUX] If you are in games tab and you disable it, after getting off settings the games tab remains open",
+  "steps_to_repro": "- Go to games tab - On games tab, go to user settings and disable games tab - Exit settings"
+ }
+}

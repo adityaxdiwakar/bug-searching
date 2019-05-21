@@ -1,0 +1,24 @@
+{
+ "id": "5bcde75ba15b520f2b1d74db",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1106,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CjK7ujLu",
+ "data": {
+  "system_settings": "iPad Air 2, iOS 12.1 (PB 4)",
+  "client_settings": "TestFlight 2.3.9 (8385)",
+  "actual_result": "Client resizes (you will see a black bar at the bottom) and predictive text going out of bounds.",
+  "expected_result": "Keyboard and emote picker should look normal without any overlapping or resizing issues.",
+  "short_description": "[iPad Split View] Client resizes and predictive text going out of bounds when changing split screen size with emote picker opened",
+  "steps_to_repro": "- Open another app in Split View mode with Discord - Open the new Discord emote picker - Change the size in Split View mode of the other app with emote picker being still opened (e.g. from 75-25 to 50-50) - Observe the emote picker/keyboard"
+ }
+}

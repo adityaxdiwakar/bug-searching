@@ -1,0 +1,30 @@
+{
+ "id": "5b9bcd4d765e4287ddbb45ae",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1014,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nKI8igRo",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12",
+  "client_settings": "TestFlight 2.3.8 (7167)",
+  "actual_result": "Discord doesn't allow you to type more than 32 characters without using another platform",
+  "expected_result": "Discord will allow you to type more than 32 characters without using another platform",
+  "short_description": "Unable to type more than 32 characters for a role name without using another platform",
+  "steps_to_repro": "- Go to a server you can manage roles - Create a new role - Try to make the role name longer than 32 characters - Additionally, if you have desktop, edit the role name to be more than 32 characters - Go back on iOS and try adding more characters to the role name"
+ }
+}

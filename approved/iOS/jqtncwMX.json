@@ -1,0 +1,35 @@
+{
+ "id": "5882b65c22d7f806608f1502",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 166,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jqtncwMX",
+ "data": {
+  "system_settings": " IPhone 7, iOS 10.2, latest discord",
+  "actual_result": "Status always online",
+  "expected_result": "Status is correct",
+  "short_description": "User status is always online in user settings",
+  "steps_to_repro": "- change your status to anything but online - open user settings "
+ }
+}

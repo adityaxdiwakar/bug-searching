@@ -1,0 +1,24 @@
+{
+ "id": "5a0585b24e900df1ac0167f7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 884,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FCq0Ozab",
+ "data": {
+  "system_settings": "Motorola X Pure running an unofficial lineage OS 14.0 (7.1.2)",
+  "client_settings": "Android Discord Version 5.5.3",
+  "actual_result": "If you're attempting to edit a users roles on the 'Members' section located in 'Server Settings', you can see the roles.",
+  "expected_result": "Usually, role management would only appear if you have the correct permissions.",
+  "short_description": "Even without the perms, you can see the roles if you click on 'Members' and attempt to edit a user.",
+  "steps_to_repro": "- Open Discord - Go onto a dedicated server where you don't have the 'Manage Roles' permission enabled, make sure you're not the creator - Click on 'Server Settings' - Click on 'Members' - Tap on a user"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b93ea8c30daa05a42cc75d2",
+ "closed": false,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 984,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/HfuDpPk2",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 12",
+  "client_settings": "TestFlight 2.3.7 (6968)",
+  "actual_result": "Discord closes out of both profiles but then crashes, giving you the crash screen",
+  "expected_result": "Discord successfully closes out of both profiles",
+  "short_description": "Discord occasionally crashes after loading two mutual friends lists and then closing out of both profiles",
+  "steps_to_repro": "- Go to your friend's list and open the user profile of someone you share mutual friends with - Open the mutual friends page and go to another user profile that you also share mutual friends with - Open the mutual friends page on the second user profile - Close out of both profiles - Does not happen every time, so try multiple times"
+ }
+}

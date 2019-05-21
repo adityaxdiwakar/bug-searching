@@ -1,0 +1,16 @@
+{
+ "id": "58f198c825abf121f2bb6e32",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 369,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KAljWY9u",
+ "data": {
+  "system_settings": " Nexus 6 (shamu) Android 7.1.1 Discord 3.6.5",
+  "actual_result": "- emoji picker is closed and must be reopened -",
+  "expected_result": "- Keyboard or Emoji picker stays open, adapts to new orientation -",
+  "short_description": "Changing orientation closes Emoji Picker and keyboard",
+  "steps_to_repro": "- Open Emoji Picker - rotate phone to landscape(90\u00b0) or reverse portrait (180\u00b0) "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b811f07e59cd14bc0047c2b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2800,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c8jJ46re",
+ "data": {
+  "system_settings": "Windows 10 PRO",
+  "client_settings": "Release Channel: stable, Build Number: 22333",
+  "actual_result": "it's going straight to the \"You've been picked!\" window",
+  "expected_result": "i should get a screen where i need to type my name for the newsletter",
+  "short_description": "hypesquad test doesn't work correctly",
+  "steps_to_repro": "open client ssttings then click Hypesquad and take the test"
+ }
+}

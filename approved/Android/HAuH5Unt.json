@@ -1,0 +1,15 @@
+{
+ "id": "5843480a9eb7c6d0a01872d1",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 123,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/HAuH5Unt",
+ "data": {
+  "actual_result": "It always shows **invalid-user**.",
+  "expected_result": "If you know the user, show the user's username, otherwise show **invalid-user**.",
+  "short_description": "Tagging a user who is not in the guild the author sent it in even when knowing the user in another guild.",
+  "steps_to_repro": "- Copy someone's user ID. - Tag them in a server that the user is not in. "
+ }
+}

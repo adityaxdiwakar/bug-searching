@@ -1,0 +1,17 @@
+{
+ "id": "5b892f9f42a67f1fe31225ad",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2905,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bU8OUq5g",
+ "data": {
+  "system_settings": "MacBook Pro (13\"), macOS 10.13.6",
+  "client_settings": "Canary 22930 - Firefox v61.0.2",
+  "actual_result": "It just shows an embed that only says \"Discord\"",
+  "expected_result": "There should be site data to display in the embed like there is on every other Discord site",
+  "short_description": "[Website Bug] There is no site data for the Rich Presence site",
+  "steps_to_repro": "- Copy the rich presence site URL at /rich-presence - Send the URL to a chat"
+ }
+}

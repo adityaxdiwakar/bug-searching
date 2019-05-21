@@ -1,0 +1,17 @@
+{
+ "id": "5b104feb388131e9bdda50d2",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2081,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1QNPoaRi",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.210, Build 16329",
+  "actual_result": "No highlight is shown for messages jumped to (Pins, Search, Recent Mentions)",
+  "expected_result": "Jumped to message is highlighted as before",
+  "short_description": "Jumping to messages no longer highlights the message",
+  "steps_to_repro": "- Pin a message in chat - Open the Pinned Messages modal and jump to it"
+ }
+}

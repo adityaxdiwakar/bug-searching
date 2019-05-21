@@ -1,0 +1,30 @@
+{
+ "id": "5b1cda01abbf4fbce0a0ddd1",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1520,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MLlYbpAN",
+ "data": {
+  "system_settings": "Xioami Mi Ai, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.8.9",
+  "actual_result": "No toast appears.",
+  "expected_result": "Toast should appear mentioning \"Nickname Cleared.\"",
+  "short_description": "Toast showing \"Nickname Cleared.\" won't show when changing nickname on any server to a space and hit save, unlike when you change nickname just like this of any other user.",
+  "steps_to_repro": "- Go to server settings>members, click on any member having no nickname and in the change nickname text field, hit a space and click on save button. - Notice a toast showing \"Nickname Cleared.\" shows up. - Change your nickname in any server doing the same, adding space and clicking on save."
+ }
+}

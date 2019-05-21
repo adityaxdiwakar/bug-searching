@@ -1,0 +1,17 @@
+{
+ "id": "5afbabf30f2cc5419e754d36",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 751,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/aocwNV8Y",
+ "data": {
+  "system_settings": "iPhone 5s, iOS 9.3.5",
+  "client_settings": "TestFlight 2.3.2 (4460)",
+  "actual_result": "The \"Tap to join server\" text is right aligned, and the online and member count expands out to the right",
+  "expected_result": "The \"Tap to join server\" text is center aligned, and the online and member count is entirely within the modal",
+  "short_description": "Invite modal to servers has mis-aligned text and text that escapes the modal (4\" devices only)",
+  "steps_to_repro": "- Get an invite to a server with lots of members that you have not joined"
+ }
+}

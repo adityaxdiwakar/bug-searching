@@ -1,0 +1,30 @@
+{
+ "id": "5b7e3a6258af1050abca406f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2766,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aPju6L6x",
+ "data": {
+  "system_settings": "MacBook Pro (13\"), macOS 10.13.6",
+  "client_settings": "Canary 22364",
+  "actual_result": "The spacing makes the bottom section too close to the other content",
+  "expected_result": "The spacing should be consistent with the other sections",
+  "short_description": "Spacing under the \"Squad Challenges\" section in HypeSquad settings is too low",
+  "steps_to_repro": "- You do not need to be in HypeSquad to reproduce this bug -   - Open User Settings - Click \"HypeSquad\" - Scroll down so you can see the bottom of the Squad Challenges section - Observe the \"Interested in...\" box (if you're not in HypeSquad), or observe the line under the section (if you have HypeSquad)"
+ }
+}

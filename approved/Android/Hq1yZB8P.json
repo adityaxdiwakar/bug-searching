@@ -1,0 +1,30 @@
+{
+ "id": "5b95ce9827f27940a0b75b74",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1960,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Hq1yZB8P",
+ "data": {
+  "system_settings": "Pixel 2XL, Android 9, Build PPR1.180610.009",
+  "client_settings": "7.4.8",
+  "actual_result": "Dots of the role color will be at the very bottom of the screen as they get stuck on the Navigation Bar",
+  "expected_result": "You scroll with no artifacts.",
+  "short_description": "Role color artifacts at bottom of screen (on top of Navigation Bar) in Server Settings - Members, when scrolling, potentially only on Android 9 as I have mixed CNR and reproduced reports.",
+  "steps_to_repro": "- Have a server with roles, preferably colored - Go to Server Settings - Member list - Scroll down, maybe up, back down"
+ }
+}

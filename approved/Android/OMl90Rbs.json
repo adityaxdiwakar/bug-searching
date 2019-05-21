@@ -1,0 +1,24 @@
+{
+ "id": "59ac5e8d9bc29652702cc8c9",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 679,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OMl90Rbs",
+ "data": {
+  "system_settings": "Android 6.0, LG K8",
+  "client_settings": "Android BETA 4.1.3 (509",
+  "actual_result": "Cuts off the last user on the list.",
+  "expected_result": "Should display the end user fully.",
+  "short_description": "Current voice channel overlaps friends list",
+  "steps_to_repro": "- Join a voice channel with PTT enabled (Push to talk) - Go to friends list - Scroll to bottom"
+ }
+}

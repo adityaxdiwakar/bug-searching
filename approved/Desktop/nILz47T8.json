@@ -1,0 +1,16 @@
+{
+ "id": "58119feb271dc61393c91192",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 72,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nILz47T8",
+ "data": {
+  "system_settings": " Canary ",
+  "actual_result": "reacts with the emoji you don't have https://i.imgur.com/ucQ3Mlr.png  https://i.imgur.com/JNmv4Fu.png",
+  "expected_result": "Can't react with it as don't have the emote",
+  "short_description": "Users can react with emotes they don't have",
+  "steps_to_repro": "- Get someone to react with a BTTV global emote that you don't have - Click it to react "
+ }
+}

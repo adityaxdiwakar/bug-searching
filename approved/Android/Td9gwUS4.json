@@ -1,0 +1,30 @@
+{
+ "id": "5b856f359e85f3706f9724ae",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1895,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Td9gwUS4",
+ "data": {
+  "system_settings": "Honor 9, Android 8.0.0",
+  "client_settings": "Discord Alpha 7.4.0",
+  "actual_result": "You are taken to the top channel of the Server, this happens to all of your other Servers (for example instead of bug-approval-queue you're in rules).",
+  "expected_result": "You are in the last channel you've visited (in the Bug Hunters Server for example bug-approval-queue).",
+  "short_description": "Clicking on a notification will take you to the top channel of every Server.",
+  "steps_to_repro": "- Have someone to send you a message and click on the notification; you have to close the app from the Android button first and make sure you weren't in the Server where you got the notification. - Switch Server and observe the channel, watch the video for any clarification."
+ }
+}

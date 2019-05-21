@@ -1,0 +1,17 @@
+{
+ "id": "5ae896527e43bd197de36604",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 712,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZXxN2DlB",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.3.1 & iPad Air 2, iOS 11.4 PB 2",
+  "client_settings": "TestFlight 2.3.1 (4051)",
+  "actual_result": "You can't use landscape mode for the in-app browser.",
+  "expected_result": "The whole in-app browser should support landscape mode or only for images and videos (like in the Discord app itself).",
+  "short_description": "[iPhone, iPod only] In-App browser doesn't support landscape mode",
+  "steps_to_repro": "- Go to your Discord user settings - Change your web browser to the in-app browser - Find any video, image link - Click on it to open it in the in-app browser - Try to rotate your device to the landscape mode"
+ }
+}

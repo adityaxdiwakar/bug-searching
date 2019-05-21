@@ -1,0 +1,23 @@
+{
+ "id": "58ee3b2f841118e5152edbb8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 491,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VNBHXUSG",
+ "data": {
+  "system_settings": " Windows 10x64, Latest canary.",
+  "actual_result": "Message is stuck when send message perm taken while a mesage is left in text box.",
+  "expected_result": "Text box replaced with the \"You don't have permission\" thing.",
+  "short_description": "Message gets stuck when no send message perm",
+  "steps_to_repro": "- Type a message into the text box - take away the send message perm for the user that has the message unsent in the text box. "
+ }
+}

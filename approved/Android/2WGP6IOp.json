@@ -1,0 +1,30 @@
+{
+ "id": "5aaa9aecc3465d4c452e28af",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1204,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2WGP6IOp",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.3.7",
+  "actual_result": "It doesn't show up as frequently used, even after closing and opening the emote drawer. You have to click on the search icon at the bottom left for it to show up. If you use the emote just once using the search feature it shows up as frequently used instantly.",
+  "expected_result": "It instantly shows up in the emote drawer as frequently used.",
+  "short_description": "Frequently used emotes don't show up if used directly from the emote drawer without searching",
+  "steps_to_repro": "- Be on a server with local emote (or have nitro with external emotes permission) - Open the emote drawer - Send any emote. Send the same emote couple of times. (Do not click on the magnifying glass at the bottom of the emote drawer/search for any emote)"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "595d30db337303ab20ef7963",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 539,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hEbjbhHh",
+ "data": {
+  "system_settings": "Samsung Galaxy S8+ 7.0 Nougat",
+  "client_settings": "Discord Android Alpha 3.9.7 (396)",
+  "actual_result": "Very briefly a Clyde icon appears with a blurple icon, instantly removing itself and switching back to the server initials.",
+  "expected_result": "The icon will not change, besides highlighting colors changing.",
+  "short_description": "Pressing an unselected guild without an icon will briefly flash from a Clyde icon into the initials of the server name.",
+  "steps_to_repro": "- Join a guild that has a long name and no avatar - Place the guild at the top of the list - Select another guild and close the discord app completely - Reopen the app - Select the server you sorted to the top with no icon"
+ }
+}

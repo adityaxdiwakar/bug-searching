@@ -1,0 +1,30 @@
+{
+ "id": "5a6252423182aa84a0bcd278",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1565,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NF0uDqxw",
+ "data": {
+  "system_settings": "Win10 Pro x64",
+  "client_settings": "Stable 0.0.300 - Version 9672",
+  "actual_result": "The embed's footer/author name is cut off.",
+  "expected_result": "The embed should stretch accordingly to the word size/based on the size of the discord window  or atleast flow to a new line like the rest.",
+  "short_description": "Rich Embeds from Bots with long single word footers/author names/title are cut off.",
+  "steps_to_repro": "- Create a Rich Embed builder - Add a very long single word to either the footer or the author name - let the Bot post the embed."
+ }
+}

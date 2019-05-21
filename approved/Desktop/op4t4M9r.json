@@ -1,0 +1,15 @@
+{
+ "id": "58443c45d266ad9a813470b2",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 211,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/op4t4M9r",
+ "data": {
+  "actual_result": "Canary icon is huge.",
+  "expected_result": "should be small icon",
+  "short_description": "Mixer icon in windows is really massive",
+  "steps_to_repro": "- Open vol mixer, scroll to discord "
+ }
+}

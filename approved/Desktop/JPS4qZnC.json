@@ -1,0 +1,30 @@
+{
+ "id": "5b993dd12c511186eb57bac0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2971,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JPS4qZnC",
+ "data": {
+  "system_settings": "Windows 10 Pro",
+  "client_settings": "Release Channel: stable, Build Number: 23327, Version Hash: 155d861ee032dc13e06b22fad3c5b5ab40e190c5",
+  "actual_result": "You can still view and reconnect to the voice channel as long as you dont press the disconnect button",
+  "expected_result": "You should be removed from the private voice channel after leaving and should not be able to view it",
+  "short_description": "Being able to rejoin private voice channels you've been instant invited to but cannot view normally",
+  "steps_to_repro": "- Get an instant invite link to a voice channel you cannot view - Join the channel - leave the channel by going directly to another voice channel (I tested it by going to a different server) - Rejoin the previous private voice channel that you can still see"
+ }
+}

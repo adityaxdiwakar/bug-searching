@@ -1,0 +1,30 @@
+{
+ "id": "5bfeb41697bf78240564ab91",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3444,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jQEPv1C6",
+ "data": {
+  "system_settings": "Windows 10 Pro (64-bit), Creators Update (v1709, Build 16299.547)",
+  "client_settings": "Canary 0.0.224 (Build 28516)",
+  "actual_result": "Colours change very obviously while embed is loaded (similar to typing indicators causing issues in members list).",
+  "expected_result": "Colours would remain normal.",
+  "short_description": "Posting store links with an active embed causes username colours to lighten in chat area",
+  "steps_to_repro": "- Go to a server. - Post, or search for, a message containing a discord store link. - Observe role colours in the chat."
+ }
+}

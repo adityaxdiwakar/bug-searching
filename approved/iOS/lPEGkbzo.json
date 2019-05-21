@@ -1,0 +1,24 @@
+{
+ "id": "5a591e0c8f5a95afcaab1de2",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 493,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lPEGkbzo",
+ "data": {
+  "system_settings": "iPad 4, iOS 10.3.3",
+  "client_settings": "Discord Stable 2.2.0",
+  "actual_result": "The \"Camera Roll\" screen locks itself in portrait mode even if you don't have portrait lock on",
+  "expected_result": "The \"Camera Roll\" screen would show in the corresponding mode (either in portrait or in landscape mode)",
+  "short_description": "(iPad running iOS 10.3.3 or lower) When choosing a picture to upload in the \"Camera Roll\" screen, the screen will lock itself in portrait mode",
+  "steps_to_repro": "- Have the app open either in portrait or landscape mode - Tap the paperclip and select \"Camera Roll\""
+ }
+}

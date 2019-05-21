@@ -1,0 +1,17 @@
+{
+ "id": "592c54c6aaf70306de78ecac",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 691,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XNLOWDcc",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "latest Canary",
+  "actual_result": "It will show a spoopy link warning (if <example.com> wasn't trusted yet)",
+  "expected_result": "Link opens normally",
+  "short_description": "Clicking your own links in own messages in non-friend's DM shows spoopy link warning",
+  "steps_to_repro": "- Go to DM of any non-friend person (or bot) - Send \"<http://example.com/>\" - Click the link"
+ }
+}

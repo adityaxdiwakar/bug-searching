@@ -1,0 +1,30 @@
+{
+ "id": "5b37b54eea93ce5787512e82",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 826,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QyXX8Axn",
+ "data": {
+  "system_settings": "iPhone 7, iOS 11.3",
+  "client_settings": "TestFlight 2.3.4 (5560)",
+  "actual_result": "The iOS spellchecker can \"correct\" the emote code and replace it by some words that it will find \"correct\".",
+  "expected_result": "Once the person clicked on an emote suggestion, the correct emote code is typed in the text bar.",
+  "short_description": "iOS spellchecker autocorrects emotes if the emote preview is chosen instead of typing entirely the emote.",
+  "steps_to_repro": "- Use a spellchecker that will detect emotes as a mistake (the best is to not use English, I used French personally) - Type the first part of an emote - Click on a suggestion of the emote preview - Observe the correction done by the spellchecker - If you use too many times the emote, the spellchecker will learn it and will not \"correct\" it"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58fe56ab7e19bf9e5139fd24",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 555,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6NP1SyCg",
+ "data": {
+  "system_settings": " Windows 10 x64, Latest Canary",
+  "actual_result": "Over 100 char limit stays",
+  "expected_result": "The 100 char limit should go away once either (a) you go under 100 chars (b) you click save changes",
+  "short_description": "Over 100 char limit does go away once gone under",
+  "steps_to_repro": "- Go to Server Settings - Make the server name over 100 characters - Try click save button (limit error should come) - Make the name smaller that 100 chars - Click Save Changes "
+ }
+}

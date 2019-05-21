@@ -1,0 +1,15 @@
+{
+ "id": "586c89d94be02a32c41d5ad3",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 164,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Q7BSa6PT",
+ "data": {
+  "actual_result": "You are at friends list, though the middle is at the new server you joined, and if you go to the server at the left, it works correctly. And if you go to friends, you are at the server still.",
+  "expected_result": "It says that you're in the right server at the moment, everything is fine",
+  "short_description": "Joining a new server messes up",
+  "steps_to_repro": "- Join a new server (made a test channel: https://discord.gg/u7H6uAA ) - Do nothing else - Just look at the left side "
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "590a79d060b5af3a7eb5e1e2",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 594,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/og8jMils",
+ "data": {
+  "system_settings": " Win10 Latest Canary",
+  "actual_result": "It keeps playing",
+  "expected_result": "Gif stops playing",
+  "short_description": "Moving focus to other app keeps playing gif avatars",
+  "steps_to_repro": "- Put program over discord - Move mouse over message with gif avatar - Move to other program "
+ }
+}

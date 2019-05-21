@@ -1,0 +1,23 @@
+{
+ "id": "58d1de8985039e7002bf4753",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 452,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yGOYc39w",
+ "data": {
+  "system_settings": " Arch Linux x64 Latest Canary",
+  "actual_result": "The dialog appears blurry until you interact with the window or about 10 seconds have passed (I assume this is when the animation that occurs when you open the dialog stops)",
+  "expected_result": "Dialog appears normally",
+  "short_description": "Instant Invite Dialog Appears Blurry",
+  "steps_to_repro": "- Create an instant invite with the button that appears when you hover over a channel "
+ }
+}

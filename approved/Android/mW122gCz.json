@@ -1,0 +1,30 @@
+{
+ "id": "5b4996f285136febd50ea580",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1648,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mW122gCz",
+ "data": {
+  "system_settings": "Moto G4, Android 7.0",
+  "client_settings": "Android Alpha 7.0.7",
+  "actual_result": "The video continues on unless you rotate into landscape or exit out",
+  "expected_result": "Video should pause/stop",
+  "short_description": "You can't pause/stop the video in Changelog, only play it",
+  "steps_to_repro": "- Go to User Settings - Scroll down to Changelog - Tap the \"Play\" icon on the video - Tap the video again"
+ }
+}

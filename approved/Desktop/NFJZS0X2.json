@@ -1,0 +1,16 @@
+{
+ "id": "5903e33855aa9c23bac0bbee",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 568,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NFJZS0X2",
+ "data": {
+  "system_settings": " Win 10 Pro x64 1703, latest Canary",
+  "actual_result": "It doesn't show anybody until you click on another tab and go back to Audit Logs",
+  "expected_result": "It shows a list users that did stuff worthy logging",
+  "short_description": "Filter by User shows no users (or users from another server) when opening Audit Logs from a server context menu",
+  "steps_to_repro": "- Right click a server's icon or name where you have permission to view audit logs - Click Filter by User "
+ }
+}

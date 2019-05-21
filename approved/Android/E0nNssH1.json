@@ -1,0 +1,30 @@
+{
+ "id": "5a5510a3927d93904c8bc392",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1030,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/E0nNssH1",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.0.6",
+  "actual_result": "You are in a situation where channel has no unreads but still has a ping indicator. This ping is persistent : it cannot be removed unless you view it on Desktop or wait for new messages to be sent in this channel. Restarting Discord or even clearing the cache doesn't remove it.",
+  "expected_result": "Ping shouldn't remain stuck in anyway",
+  "short_description": "If someone edits a message containing an everyone tag after you restarted the app, the ping indicator will come back and get stuck (Bounty of ticket HIYQTipa)",
+  "steps_to_repro": "- Have user A on Desktop with everyone perms, and user B on Android, both users on same server but viewing different channels - User A sends an @ everyone - User B reads the ping and goes back to a different channel - User B restarts Discord by killing the app from Recent Tasks and reopens it - Have user A edit his message containing the everyone tag"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "58fb9ccf0c759a7ddb9a3770",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 399,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rPxttEY0",
+ "data": {
+  "actual_result": "The dialogs can overlap each other",
+  "expected_result": "Each tap should close the previous dialog",
+  "short_description": "Debug share overlapping",
+  "steps_to_repro": "- Open settings - Tap on Debugging - Tap the share icon rapidly repeatedly "
+ }
+}

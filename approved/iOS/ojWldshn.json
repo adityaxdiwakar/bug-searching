@@ -1,0 +1,24 @@
+{
+ "id": "5b7e3169e6625b6e24d88bd1",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 936,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ojWldshn",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.7 (6902)",
+  "actual_result": "The bar hovers there awkwardly",
+  "expected_result": "There should be no bar at the bottom of the screen",
+  "short_description": "Strange hovering bar at the bottom of notification settings when there are no overrides",
+  "steps_to_repro": "- Go to a server - Open the kebab menu at the top (next to the name) - Tap `Notification Settings` - Remove any overrides if you have any - Observe the bar"
+ }
+}

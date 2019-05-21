@@ -1,0 +1,23 @@
+{
+ "id": "58dcbc81f0ed8c34fddcf748",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 467,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xMNdJ5Ka",
+ "data": {
+  "system_settings": " Windows 8.1x64, Canary 0.0.153",
+  "actual_result": "Clyde says you can't",
+  "expected_result": "You can send the message",
+  "short_description": "Clyde Gives Error For Link With Embeds Enabled",
+  "steps_to_repro": "- Type in `https://wcs.starcraft2.com/en-us/news/20659264/2017-WCS-Challenger-North-America---Ruling/` without any formatting "
+ }
+}

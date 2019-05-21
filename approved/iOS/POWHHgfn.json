@@ -1,0 +1,15 @@
+{
+ "id": "58554463189b29a4ec5d6de1",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 126,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/POWHHgfn",
+ "data": {
+  "actual_result": "Nothing happens.",
+  "expected_result": "The app jumps to that channel when clicked.",
+  "short_description": "Clicking on a channel in the context view for a recent mention does not jump to that channel on Testflight 1.8.0 (with iOS 9.3.5). iPad Pro.",
+  "steps_to_repro": "- Open recent mentions - Click on a mention where a channel is mentioned somewhere in the context - Click on that channel name "
+ }
+}

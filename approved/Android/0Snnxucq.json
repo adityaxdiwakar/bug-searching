@@ -1,0 +1,24 @@
+{
+ "id": "59c0e6fdd87058703cd55a94",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 744,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0Snnxucq",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 5.1.9 (519)",
+  "actual_result": "You get a second user details pop-up",
+  "expected_result": "You shouldn't get another user details pop-up",
+  "short_description": "Second user details pop-up if you exit the app while trying to send someone a message using it",
+  "steps_to_repro": "- Press hold on a user's avatar - Click send message - Exit the Discord by pressing the home button (do not exit the app entirely) - Reopen Discord and notice the you get a second user details pop-up"
+ }
+}

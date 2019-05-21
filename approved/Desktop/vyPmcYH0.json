@@ -1,0 +1,17 @@
+{
+ "id": "5a76bfa73ab573e24e84cce2",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1625,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vyPmcYH0",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary Build 10189",
+  "actual_result": "Discord showed me as streaming but other people saw me as still on Do Not Disturb mode",
+  "expected_result": "Discord shows you as streaming and other people see you as streaming",
+  "short_description": "Discord not registering stream with Bebo",
+  "steps_to_repro": "- Open Bebo on pc - Connect Bebo to your Twitch - Start streaming on Bebo"
+ }
+}

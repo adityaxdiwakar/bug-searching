@@ -1,0 +1,15 @@
+{
+ "id": "5817d020b8ca58b13e7e97f6",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 82,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0hJjvM0R",
+ "data": {
+  "actual_result": "Mismatching sizes",
+  "expected_result": "For profile picture to be size of container and the other way around",
+  "short_description": "On server settings, Server picture dosen't match size of container",
+  "steps_to_repro": "- Open \"Server Settings\" of a Managed server "
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "587fa2bf15d81b693955f805",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 337,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yHFvnVsn",
+ "data": {
+  "actual_result": "The role is not visible",
+  "expected_result": "a visible role -",
+  "short_description": "When the role is set to a white colour, the role is invisible in the user profile modal",
+  "steps_to_repro": "- Create role - Change color to white - Assign the role to any user - click on that users name in the member list - The pop up Profile modal appears "
+ }
+}

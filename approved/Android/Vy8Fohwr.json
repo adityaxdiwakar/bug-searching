@@ -1,0 +1,30 @@
+{
+ "id": "5b02d5a8d776f02e3a77e063",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1443,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Vy8Fohwr",
+ "data": {
+  "system_settings": "Moto E4+, Android 7.1.1",
+  "client_settings": "Discord Alpha 6.7.3",
+  "actual_result": "Some of the text is cut off at the ends of the lines. This even sometimes includes clipping in the middle of a letter, as shown in the attachment. The link is still functional.",
+  "expected_result": "The entire link should display on screen.",
+  "short_description": "Long links not displaying properly",
+  "steps_to_repro": "- Find a text channel with multiple long, hyphenated links sent. - I used <#274590523719811074> in this server. - Observe."
+ }
+}

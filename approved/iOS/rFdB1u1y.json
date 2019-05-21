@@ -1,0 +1,30 @@
+{
+ "id": "59c034bd121884abb95d07bb",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 336,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rFdB1u1y",
+ "data": {
+  "system_settings": "iOS 11, iPhone 6s",
+  "client_settings": "iOS TestFlight 1.9.1(665)",
+  "actual_result": "You crash and sometimes get stuck in a loop",
+  "expected_result": "You should be able to preview the gif without crashing",
+  "short_description": "Discord crashes upon viewing a specific gif",
+  "steps_to_repro": "- Have someone *or yourself* post a gif such as this one  - Preview the gif  - App crashes and sometimes gets stuck in a loop"
+ }
+}

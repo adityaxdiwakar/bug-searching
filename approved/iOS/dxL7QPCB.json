@@ -1,0 +1,17 @@
+{
+ "id": "5bc6a2744c0dd0863b9685cb",
+ "closed": false,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 1093,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dxL7QPCB",
+ "data": {
+  "system_settings": "iPhone 6s IOS 12.0",
+  "client_settings": "Testflight 2.3.9",
+  "actual_result": "The frequently used emojis change to random ones",
+  "expected_result": "The frequently emojis stay the same",
+  "short_description": "Frequently used emojis in emoji bar change",
+  "steps_to_repro": "- Open the new emoji bar - Type something in the search bar - Wait a few seconds  - Delete your text  - The emojis should be changed  - If it doesn\u2019t work the first time try again"
+ }
+}

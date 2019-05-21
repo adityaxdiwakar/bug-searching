@@ -1,0 +1,17 @@
+{
+ "id": "5b36033def13193c551d34c4",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2222,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LWURbtEL",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (17937)",
+  "actual_result": "The member list will be in an infinite loading state until you unmute the channel that caused this",
+  "expected_result": "It should just mute the channel without putting the member list in a loading state",
+  "short_description": "When unmuting many channels in a big guild, the member list all the sudden goes into a forever loading state OR if you right click many times on channels in a big guild",
+  "steps_to_repro": "- Go to a big server (this for me in testers and OGHS) - Right click > Mute channel on a few channels - Observe the member list - OR - Right click a few times on a few channels - Observe the member list"
+ }
+}

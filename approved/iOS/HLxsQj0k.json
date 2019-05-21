@@ -1,0 +1,30 @@
+{
+ "id": "5a73c8c657c76f3ae601ba3b",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 555,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HLxsQj0k",
+ "data": {
+  "system_settings": "iPhone 6 iOS 10.3.2",
+  "client_settings": "TestFlight Build 2.2.2 (2352)",
+  "actual_result": "The status bar and URL bar are cluttered together",
+  "expected_result": "The status bar and URL bar should be spaced out correctly as it normally is.",
+  "short_description": "Status bar and URL bar are cluttered together (iOS 10 only)",
+  "steps_to_repro": "- Optional: change your theme to the light theme so you can observe more easily - Find an image that is uploaded to a channel (not an embed) - Tap on the image and click on the three dots found on the top right - Tap on Open in Browser"
+ }
+}

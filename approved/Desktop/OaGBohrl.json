@@ -1,0 +1,24 @@
+{
+ "id": "598b719ef3f75e4592823e5a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 959,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OaGBohrl",
+ "data": {
+  "system_settings": "Xubuntu 16.04",
+  "client_settings": "Canary 0.0.24",
+  "actual_result": "The list is there including the server you just made, despite the fact you can't make invites for a server without channels.",
+  "expected_result": "The list of servers appears, save for the one without any channels, and thus, no invites",
+  "short_description": "The right click Invite to Server menu contains servers with no channels (text or voice)",
+  "steps_to_repro": "- Create a server - Remove the text and voice channels - right click a user - mouse over Invite to Server"
+ }
+}

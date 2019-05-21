@@ -1,0 +1,17 @@
+{
+ "id": "5af2a43a1f0996fae568cc11",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1388,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7aMxhrx6",
+ "data": {
+  "system_settings": "Samsung Galaxy S8+, Android 8.0.0",
+  "client_settings": "AndroidAlpha  6.6.5",
+  "actual_result": "Tge first time you tap \"Leave Group\" nothing happens no matter how long you wait. Tapping it again brings up an error message that says either \"Access Restricted\" or \"Access Denied (I've already tested this twice and don't want to annoy my friends any longer to try and get a screenshot), but you leave the group and it disappears from your list.  However the people you invited still have the group and if they do anything in it, it reappears in your chat list though you are unable to do anything besides veiw it as if it was read only.",
+  "expected_result": "The group is deleted and you no longer see it in your chat list.",
+  "short_description": "Glitch when trying to leave a group chat you created.",
+  "steps_to_repro": "- Update to 6.6.5 - Create a new group chat with half a dozen members. - In the group settings tap \"leave group\""
+ }
+}

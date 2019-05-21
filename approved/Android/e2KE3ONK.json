@@ -1,0 +1,22 @@
+{
+ "id": "58aa293dcb9161e8e5c6b5b6",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 242,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/e2KE3ONK",
+ "data": {
+  "actual_result": "All users are locked",
+  "expected_result": "Able to modify users roles",
+  "short_description": "Can't edit peoples roles regardless of having the \"Manage Roles\" permission",
+  "steps_to_repro": "- Have \"Manage Roles\" permission, NOT administrator - Go into Server Settings > Members - Observe "
+ }
+}

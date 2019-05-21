@@ -1,0 +1,30 @@
+{
+ "id": "5a7f3be93c5fb7cff4bc757f",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1115,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ySgTQvsa",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.2.4",
+  "actual_result": "It closes",
+  "expected_result": "The emote drawer should remain open",
+  "short_description": "Emote drawer closes on changing screen orientation",
+  "steps_to_repro": "- Open emote drawer by clicking on the emote button - Change your screen orientation (from portrait to landscape or vice versa)"
+ }
+}

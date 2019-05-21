@@ -1,0 +1,30 @@
+{
+ "id": "5a398c3729053d2595663aff",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 464,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RY7sckrO",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.2.1 & iPad Air 2 with iOS 11.2.5 Public Beta",
+  "client_settings": "TestFlight 2.2.0 (Build: 1910)",
+  "actual_result": "It opens the chat with the user.",
+  "expected_result": "It should open the user profile like other \"normal\" mentions.",
+  "short_description": "Mentions in channel topics open the chat with the user instead of the user profile",
+  "steps_to_repro": "- Add a channel topic to a channel containing a user mention (mention must be with the user ID) - Open the channel topic on the right side of the channel (doesn't work for channel settings) - Click on the mention"
+ }
+}

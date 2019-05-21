@@ -1,0 +1,30 @@
+{
+ "id": "5c11af0b7b429801c2917875",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 3482,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/icNPQQwa",
+ "data": {
+  "system_settings": "Mac OS Mojave 10.14.1 (18B75) Firefox Stable (63.0.3) and Firefox Developer (65.0b3)",
+  "client_settings": "Website does not contain Build Number",
+  "actual_result": "Top corners should stay rounded like in Safari and Chrome.",
+  "expected_result": "Top corners keep glitching and become Rounded and Unrounded (Squared) if you keep moving your cursor.",
+  "short_description": "While hovering over a game cover in Check them out section of the nitro marketing page (/nitro) using Firefox the top two corners they no longer become rounded.",
+  "steps_to_repro": "- Visit The Website - Hover over a game icon under the \"Get access to over - Visit"
+ }
+}

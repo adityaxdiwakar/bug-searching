@@ -1,0 +1,42 @@
+{
+ "id": "5a8b6f6f9e3b83c9b539af5c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1131,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860cfc8dde10262a3bb6cd",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a8f40a078d590b57d5a3e98",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "pinned messages",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7NpICyyM",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.7",
+  "actual_result": "You need to scroll up manually to see it",
+  "expected_result": "You should see immediately the latest pinned message",
+  "short_description": "When you pin a message, opening the Pinned messages won't scroll up automatically to the newly pinned message. This applies only if you have already loaded the pinned messages in this channel before",
+  "steps_to_repro": "- Go to any text channel with a lot of messages already pinned - Open Pinned messages - Close Pinned messages  - Have someone pin a new message - Re-open Pinned messages"
+ }
+}

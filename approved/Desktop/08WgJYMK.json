@@ -1,0 +1,15 @@
+{
+ "id": "5828ee0d593f02349ec89419",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 141,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/08WgJYMK",
+ "data": {
+  "actual_result": "A popup appears saying that the link is spoopy, and leads to '!!!!'",
+  "expected_result": "Nothing should happen",
+  "short_description": "If you click on the title of an embed that doesn't have a link, discord's Link Masking popup will appear anyways.",
+  "steps_to_repro": "- Create a a message, webhook or otherwise, with a title, author, or any other element that uses <a> without having a source - Click on the link "
+ }
+}

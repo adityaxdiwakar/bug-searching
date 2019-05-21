@@ -1,0 +1,23 @@
+{
+ "id": "5858ee373664ab719d69e916",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 150,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bWq6GXwY",
+ "data": {
+  "system_settings": " Android 5.0.2 Version 3.2",
+  "actual_result": "Message gets deleted",
+  "expected_result": "Message gets saved",
+  "short_description": "Message written gets deleted when joining server without posting permissions",
+  "steps_to_repro": "- Write something in a channel with posting permissions - Change into a server without posting permissions "
+ }
+}

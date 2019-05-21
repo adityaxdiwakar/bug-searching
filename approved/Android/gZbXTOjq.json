@@ -1,0 +1,15 @@
+{
+ "id": "586ed2295ca08eefe5af126c",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 171,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gZbXTOjq",
+ "data": {
+  "actual_result": "Whole channel is marked as read, without actually having read them all.",
+  "expected_result": "Unread messages aren't marked off because they've yet to be seen.",
+  "short_description": "Unread message notifications disappear before scrolling to newest messages",
+  "steps_to_repro": "- Join a channel with unread messages. - Scroll partially down the channel, without reaching the unread messages at the very bottom. - Switch to a different channel. "
+ }
+}

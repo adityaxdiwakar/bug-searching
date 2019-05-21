@@ -1,0 +1,24 @@
+{
+ "id": "5c1f6b1eacb9b22f9bf0a87e",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1242,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SMX4i3Jg",
+ "data": {
+  "system_settings": "iPhone 8, iOS 12.0.1",
+  "client_settings": "TestFlight 2.4.1 (10255)",
+  "actual_result": "Discord ends up crashing",
+  "expected_result": "You should see a generic \u201cWe couldn\u2019t redeem your gift.\u201d message",
+  "short_description": "Discord crashes if you try to redeem a revoked gift link when it shows up as valid",
+  "steps_to_repro": "- Generate a valid gift link on desktop - Send the gift link in a chat where no one will claim it on your phone - Go back to your inventory on desktop and revoke the gift link - Observe how the link still shows up as a valid gift link on your phone - Tap the link and then tap the accept button. - Observe"
+ }
+}

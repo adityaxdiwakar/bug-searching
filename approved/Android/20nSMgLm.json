@@ -1,0 +1,24 @@
+{
+ "id": "598cafa800c28d015a3d83f2",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 613,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/20nSMgLm",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 edge (SM-G935F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.0.4 (404)",
+  "actual_result": "The bitrate and user limit reset when changing display orientation",
+  "expected_result": "The bitrate and user limit shouldn't reset when changing display orientation",
+  "short_description": "Changing display orientation when editing a voice channel's settings resets bitrate and user limit",
+  "steps_to_repro": "- Go to a voice channel that you have the \"Manage Channels\" permission for - Modify the bitrate and user limit by dragging the sliders to the left/right - Switch to landscape mode (or to portrait mode if you are in landscape) - Notice that the bitrate and user limit were reset"
+ }
+}

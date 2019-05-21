@@ -1,0 +1,24 @@
+{
+ "id": "595072217caa1ffe72b0f026",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 529,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fplttq0x",
+ "data": {
+  "system_settings": "S8+ 7.0",
+  "client_settings": "3.9.7",
+  "actual_result": "It starts dark",
+  "expected_result": "It starts in light mode",
+  "short_description": "Light mode flashes dark before loading light",
+  "steps_to_repro": "- Use light mode - Close and reopen app"
+ }
+}

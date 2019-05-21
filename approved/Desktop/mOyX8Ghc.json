@@ -1,0 +1,16 @@
+{
+ "id": "58e8030c3b08650227fa6fe0",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 483,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mOyX8Ghc",
+ "data": {
+  "system_settings": " Windows 10. Latest Canary. Razer Kraken 7.1 Chroma",
+  "actual_result": "Makes your ears bleed. (very very loud sound)",
+  "expected_result": "Volume raises normaly.",
+  "short_description": "Razer Kraken 7.1 Chroma. Extrodenarly loud sound when clicking mic/deafen icon. https://trello.com/c/JTxcfhWb/194-razer-kraken-chroma-7-1-notification-sounds-randomly-spike-loudly-when-clicking-mic-deafen-icons",
+  "steps_to_repro": "- Join a voice channel. - Open volume mixer - Increase discord's volume so it pushes device volume (or master volume) upward [see video if you are confused]. - Press Mic mute or deafen or disconnect and enjoy having your ears blown out. "
+ }
+}

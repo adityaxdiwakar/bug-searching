@@ -1,0 +1,30 @@
+{
+ "id": "5bc0ad2a3ddd9003224dce68",
+ "closed": false,
+ "idList": "57f581ee03d9a5860ecf0e06",
+ "idShort": 2159,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tNWImTEH",
+ "data": {
+  "system_settings": "Huawei Mate 10 Lite, Android 8.0.0",
+  "client_settings": "7.6.5 (765)",
+  "actual_result": "All our and our caller's voices are being broadcasted onto voice channel, also other people interfere our phone call.",
+  "expected_result": "I should have been auto-disconnected or muted/deafened or had another way that disables Discord activity on our side.",
+  "short_description": "When I accept/make a phone call on Discord Android, I add my mom to voice chat.",
+  "steps_to_repro": "- Connect to any voice channel on Android, - Accept an ongoing phone call/make a phone call, - People in the voice channel can hear all you say and hear through you, - Also Discord's voice channel sound management is treated as a \"call\" type rather than \"media\" so it's minimum possible voice is still too high and requires one to lower every person's voice level around to 30% one by one; this \"call\" type treatment is probably the reason Discord doesn't get suppressed by the phone call and interferes it."
+ }
+}

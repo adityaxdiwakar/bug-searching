@@ -1,0 +1,17 @@
+{
+ "id": "5ad6a97bd2afad5aac62085f",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1289,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Hvm1xve7",
+ "data": {
+  "system_settings": "ZTE Nubia Z7 Max with Android 5.1.1",
+  "client_settings": "Discord Alpha 6.5.0",
+  "actual_result": "Embeds don't show up correctly (Timestamp appears at the top most of the embed)",
+  "expected_result": "Embeds should show up fine.",
+  "short_description": "Embeds are broken with Discord Alpha 6.5.0",
+  "steps_to_repro": "- Update to Alpha 6.5.0 - Go to a channel with embeds - Observe embeds"
+ }
+}

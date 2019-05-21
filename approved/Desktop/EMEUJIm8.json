@@ -1,0 +1,17 @@
+{
+ "id": "5b5c78463b220613df9a1154",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2470,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EMEUJIm8",
+ "data": {
+  "system_settings": "iPhone 8 64GB - iOS 12.0 Public Beta 3 (16A5327f) - Discord TestFlight 2.3.6 (6095)",
+  "client_settings": "Discord Developer Portal",
+  "actual_result": "The fixed header disappears",
+  "expected_result": "The \"Developer Portal\" header should stay remain",
+  "short_description": "Docs page hides header",
+  "steps_to_repro": "- Open documentation in new dev portal - Open hamburger menu in top left - Open a resource - Reopen hamburger menu - Click on an endpoint under selected resource - Observe header"
+ }
+}

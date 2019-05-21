@@ -1,0 +1,24 @@
+{
+ "id": "59924cbd0df129320f6b5c2c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 990,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QglM1yeU",
+ "data": {
+  "system_settings": "Thinkpad x120e with Windows 7 (x64)",
+  "client_settings": "Discord Stable 0.0.298",
+  "actual_result": "It says \"Last Channel.\"",
+  "expected_result": "It should maybe say \"Last DM\" or \"Last Direct Message.\"",
+  "short_description": "If you switch to a server from a DM and open the Quick Switcher (Ctrl+K), the user you were DMing goes under \"Last Channel.\"",
+  "steps_to_repro": "- Go to a random user in \"Direct Messages\" - Switch back to ANY server - Press Ctrl+K"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59a1ebc91e259956ac1b4e0e",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 300,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YoISh2zE",
+ "data": {
+  "system_settings": "iPhone 6s iOS 10.3.2",
+  "client_settings": "iOS testflight 1.9.1 (524)",
+  "actual_result": "Friends list appears as if it's empty",
+  "expected_result": "Added friends will be shown",
+  "short_description": "Friends list appears empty after login",
+  "steps_to_repro": "- While in any server, open the menu and logout of Discord - Log back in (2FA is on) - Tap the right side of screen to display friends list"
+ }
+}

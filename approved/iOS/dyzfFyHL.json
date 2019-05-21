@@ -1,0 +1,30 @@
+{
+ "id": "5a4deedbad35332f454e3fdc",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 482,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dyzfFyHL",
+ "data": {
+  "system_settings": "Phone X, iOS 11.2 (15C114)",
+  "client_settings": "Discord TestFlight: 2.20 (2040)",
+  "actual_result": "Start up page is landscape rather than portrait",
+  "expected_result": "For the discord start up page to be portrait.",
+  "short_description": "iPhone X start up screen starts up as landscape",
+  "steps_to_repro": "- Start up discord on iPhone X- Works every time if you have your iPhone tilted landscape wise, even though iPhone X does not support landscape on discord-"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b6a3056b590a443f7ae1974",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1794,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/HnFwUCtu",
+ "data": {
+  "system_settings": "Oneplus 3, Android 8.1.0",
+  "client_settings": "Alpha 7.2.7",
+  "actual_result": "Switch for Foreground Game Detection service turns itself back on after a few seconds.",
+  "expected_result": "Switch for Game Detection service should stay disabled",
+  "short_description": "Foreground Game Detection service turns itself back on after disabling (visual bug)",
+  "steps_to_repro": "- Open Game settings  - Enable Foreground Service For Game Detection  - Leave settings  - Open a game (in this case Clash Royale)  - Go back to game settings  - Disable Foreground Game Detection  - Wait and observe"
+ }
+}

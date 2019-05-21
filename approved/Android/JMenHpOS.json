@@ -1,0 +1,30 @@
+{
+ "id": "5bb3f5721ef46212ee9d6676",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2088,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JMenHpOS",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.6.2",
+  "actual_result": "You can't expand the panel neither by reopening keyboard nor swiping up",
+  "expected_result": "Regardless of whether there are search results or not, opening the keyboard must expand the panel in fullscreen",
+  "short_description": "If the search in audit log gives less than 2-3 results, it's impossible to expand the panel back in full screen once you close the keyboard",
+  "steps_to_repro": "- Go to Audit Logs - Tap Filter by actions or user - Tap the textfield. Notice how the panel extends to fullscreen when keyboard opens - Type nonsense stuff in the search bar so it gives no results (or write something that gives only 2 or 3 results, works as well) - Close the keyboard - Attempt to make the panel fullscreen again (swipe up, reopen keyboard, etc)"
+ }
+}

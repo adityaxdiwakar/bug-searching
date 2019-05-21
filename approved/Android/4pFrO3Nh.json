@@ -1,0 +1,30 @@
+{
+ "id": "5addeb122d858fec6d8cc27c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1314,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4pFrO3Nh",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.5.6",
+  "actual_result": "It attempts to DM yourself. Of course it doesn't work, the error popping up is similar as described in this report : https://trello. com/c/FHtL3Ugn/",
+  "expected_result": "Same expected behavior as when you tap your mention in chat: nothing",
+  "short_description": "If you are mentionned in a channel topic, tapping your mention will attempt to DM yourself",
+  "steps_to_repro": "- Put your mention in a channel topic - Tap on it in the member sidebar"
+ }
+}

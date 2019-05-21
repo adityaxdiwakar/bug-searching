@@ -1,0 +1,30 @@
+{
+ "id": "5ace84f42a264c97f94fd4b9",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1260,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KhlijbxM",
+ "data": {
+  "system_settings": "Axon 7 Mini with Android 7.1.1",
+  "client_settings": "Discord Alpha 6.4.6",
+  "actual_result": "The loading bar reloads.",
+  "expected_result": "The loading bar shouldn't reload, and should keep displaying normally.",
+  "short_description": "When uploading a gif, switching servers causes the loading bar to reset.",
+  "steps_to_repro": "- Press the plus icon in the chat box. - Pick a gif, and upload it. - After the loading bar starts, quickly switch to another discord server."
+ }
+}

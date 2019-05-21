@@ -1,0 +1,30 @@
+{
+ "id": "5bbbc5000534e70e7b84965a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3116,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9c5vuIVd",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 25661",
+  "actual_result": "Numbers appear cut off at the top",
+  "expected_result": "Numbers are not cut off at the top",
+  "short_description": "Numbers such as 9 and 2 in a user discriminator appear cut off at the top in audit log entries on light theme",
+  "steps_to_repro": "- Go to a server where you can view the audit log - Have a user with a number with a loop at the top in their discriminator create an audit log entry - Switch your theme to light theme, and enter the audit log in server settings - Observe the discriminator in the audit log entry - Switch your appearance to dark theme, and view the entry again"
+ }
+}

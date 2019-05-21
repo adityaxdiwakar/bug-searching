@@ -1,0 +1,30 @@
+{
+ "id": "5c04f90dfd16670b28dfb0d2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3460,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ooa9LIhd",
+ "data": {
+  "system_settings": "Windows 10 1803 Build 17134.407 Pro 64-bit",
+  "client_settings": "Release Channel: stable, Build Number: 28393, Version Hash: 1e9119edf9c09e7b9ce4a7db57acbdfced047df9.",
+  "actual_result": "Desktop client does not animate the PNG unless opening original",
+  "expected_result": "PNG should be animated in both clients",
+  "short_description": "Animated PNGs display differently between Desktop and Web clients. Output by both clients should be consistent.",
+  "steps_to_repro": "- Upload an Animated PNG - Open the Channel/PM the APNG was uploaded to on both desktop and web - Compare"
+ }
+}

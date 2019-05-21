@@ -1,0 +1,30 @@
+{
+ "id": "5928c7062a5457e64917849c",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 484,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zpvyfwPC",
+ "data": {
+  "system_settings": "Google Pixel - Android 7.1.2",
+  "client_settings": "Android Alpha 3.8.8",
+  "actual_result": "Failed upload screen specifying 8MB is the max",
+  "expected_result": "Failed upload screen specifying 50MB is the max",
+  "short_description": "Uploading something larger than 50MB as Nitro shows 8MB instead of 50MB",
+  "steps_to_repro": "- Only Nitro users can repro this bug - Upload something larger than 50MB"
+ }
+}

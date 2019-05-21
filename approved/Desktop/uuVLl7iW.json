@@ -1,0 +1,30 @@
+{
+ "id": "5a3029229047f0dabbfc472d",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1445,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uuVLl7iW",
+ "data": {
+  "system_settings": "Windows 10 Education x64, Builld 1709",
+  "client_settings": "Discord Canary Build 8478",
+  "actual_result": "The red unread message badge still shows even though the option is disabled",
+  "expected_result": "There should not be a red unread message badge over the discord icon",
+  "short_description": "Unread message badge appears even when disabled if there are pending friend requests",
+  "steps_to_repro": "- Have someone send you a friend request - Turn off \"enable unread message badge\" in Notifications settings"
+ }
+}

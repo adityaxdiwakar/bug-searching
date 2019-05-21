@@ -1,0 +1,30 @@
+{
+ "id": "5b2db613047efe283ce0c6a3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2188,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hq9B9CBD",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (17576)",
+  "actual_result": "The video is like, halfway fullscreened under the Discord window (observe GIF)",
+  "expected_result": "It should properly fullscreen the video",
+  "short_description": "Videos inside the mini activity tab modal is weirdly displayed if fullscreened",
+  "steps_to_repro": "- Find a user that plays a game which has a YouTube video or something in the news section - Play it and try to fullscreen it - Observe the weirdness"
+ }
+}

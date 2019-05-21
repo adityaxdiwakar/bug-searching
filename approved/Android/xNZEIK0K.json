@@ -1,0 +1,30 @@
+{
+ "id": "59e2a2b8701a6953a7b93bc4",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 812,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xNZEIK0K",
+ "data": {
+  "system_settings": "LG xpower on android 6.0.1",
+  "client_settings": "alpha client 5.3.8",
+  "actual_result": "app crashes",
+  "expected_result": "channel order should be reverted to one from before starting to move channel",
+  "short_description": "app crash if you try to back from channel sorting [virtual navigation buttons only]",
+  "steps_to_repro": "- On a server you have Manage channels perms- Go to Channels, click the Sort icon and choose Text channel mode.- Hold any channel and move it around. Keep holding it, do NOT release it yet.- Press the Back button of your Android device **while you are still holding the channel**"
+ }
+}

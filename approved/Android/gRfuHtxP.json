@@ -1,0 +1,42 @@
+{
+ "id": "5a8c491a0d444868e1922655",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1133,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a860cfc8dde10262a3bb6cd",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a8f3fb3987d422e04761333",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "virtual keyboard",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gRfuHtxP",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.2.7",
+  "actual_result": "The keyboard opens after closing the menu",
+  "expected_result": "The menu should close and the keyboard should not open",
+  "short_description": "After closing the add content menu the keyboard automatically opens",
+  "steps_to_repro": "- Make sure your keyboard is closed - Click the add content + button - Press the back button"
+ }
+}

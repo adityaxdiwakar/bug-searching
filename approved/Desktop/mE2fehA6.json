@@ -1,0 +1,17 @@
+{
+ "id": "5b675649240bce4029246852",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2633,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mE2fehA6",
+ "data": {
+  "system_settings": "Windows 10 April Update.",
+  "client_settings": "Discord Canary 0.0.211.",
+  "actual_result": "The day separator is above it.",
+  "expected_result": "The day separator should be under the Blocked Messages dropdown.",
+  "short_description": "The day separator overlaps the Blocked Messages dropdown.",
+  "steps_to_repro": "- 1. Find a message that was posted before the day has passed. - 2. Block the user who sent that message."
+ }
+}

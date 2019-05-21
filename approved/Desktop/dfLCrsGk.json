@@ -1,0 +1,16 @@
+{
+ "id": "590611376b98e5531254b38a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 579,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dfLCrsGk",
+ "data": {
+  "system_settings": " W7 x64, Latest Canary",
+  "actual_result": "The permissions tab grays out the screen entirely after removing your user profile",
+  "expected_result": "You get a warning before you delete your user profile that it would revoke permissions, or the permissions tab would close out after it revokes them",
+  "short_description": "Revoking your permission to edit permissions (via user profile deletion) grays the screen completely",
+  "steps_to_repro": "- In a server you do not own OR have Administrator permissions in, have a channel you can manage permissions in - Edit the permissions so that your individual user has permissions to manage permissions, while all other roles you have DO NOT. - Delete your individual  user permission profile "
+ }
+}

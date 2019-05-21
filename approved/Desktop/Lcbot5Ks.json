@@ -1,0 +1,30 @@
+{
+ "id": "5b9196891cc4cb344241550f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2932,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Lcbot5Ks",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 23182",
+  "actual_result": "Custom emoji doesn't work",
+  "expected_result": "Custom emoji works",
+  "short_description": "Custom emojis don't work in dms",
+  "steps_to_repro": "- Go into a DM - Try using a custom emoji"
+ }
+}

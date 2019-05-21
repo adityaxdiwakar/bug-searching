@@ -1,0 +1,24 @@
+{
+ "id": "596860b973b0bef183987505",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 547,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3hGpRYON",
+ "data": {
+  "system_settings": "Android 7.0 Nougat Nvidia Shield Tablet K1",
+  "client_settings": "Alpha 3.9.9 (398)",
+  "actual_result": "Person is still muted after revisiting their user settings",
+  "expected_result": "User should be unmuted",
+  "short_description": "Mutes are Irreversible.",
+  "steps_to_repro": "- Mute Someone - Block then unblock said person - Unmute the user"
+ }
+}

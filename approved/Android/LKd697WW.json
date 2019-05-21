@@ -1,0 +1,30 @@
+{
+ "id": "5b063e13091e9a7ed3669f7d",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1457,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LKd697WW",
+ "data": {
+  "system_settings": "Nokia 5 android 8.0.0",
+  "client_settings": "Discord alpha 6.7.9",
+  "actual_result": "There is a highlight",
+  "expected_result": "There should be no highlight since there is no button there",
+  "short_description": "Random button highlight",
+  "steps_to_repro": "- Request your data - Click request data again and hold your finger to the left of done (Do not click the done button itself click next to it) - There will be a random highlight"
+ }
+}

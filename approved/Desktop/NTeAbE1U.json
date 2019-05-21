@@ -1,0 +1,30 @@
+{
+ "id": "5bb77ae497535e6c4effc00b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3096,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NTeAbE1U",
+ "data": {
+  "system_settings": "Windwos 10 Pro x64",
+  "client_settings": "Canary 25540",
+  "actual_result": "instead it sais: \"set the topic of to _text_\"",
+  "expected_result": "entry should say: \"set the topic to _text_\"",
+  "short_description": "[Audit Log] setting channel topic for the first time is incorrectly shown in audit log",
+  "steps_to_repro": "- set a channel topic in a channel, that never had a topic before (if u arent sure bout that, just create a new channel) - save - observe audit log entry"
+ }
+}

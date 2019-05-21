@@ -1,0 +1,34 @@
+{
+ "id": "5851fc7203553467125b1480",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 120,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/g26ZH65y",
+ "data": {
+  "actual_result": "It doesn't let you paste from the clipboard.",
+  "expected_result": "It would paste the text",
+  "short_description": "Cannot paste if you are \"@\" mentioning something.",
+  "steps_to_repro": "- Press the @ symbol as if you were mentioning someone - Try pasting text instead of mentioning a user - Note that you cannot do so "
+ }
+}

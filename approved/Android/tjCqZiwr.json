@@ -1,0 +1,30 @@
+{
+ "id": "5b9292c12a9c50647bec288a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1943,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tjCqZiwr",
+ "data": {
+  "system_settings": "Coolpad Mega 3, 6.0",
+  "client_settings": "Discord Alpha 746",
+  "actual_result": "When you come out of settings and you're still connecting, the in app notification does not appear at all no matter how much more time Discord takes to connect.",
+  "expected_result": "The in app notification appears when you come out of the settings. (As far as my understanding goes, the in app notification does appear but fails to show up because you're in settings. So, this bug could also be framed like \"The in app floating notification doesn't float over settings).",
+  "short_description": "You do not get the in app notification (that appears when you have a poor connection) when you open settings (or the notification probably vanishes when you're viewing the settings).",
+  "steps_to_repro": "- Stimulate a poor connection (such that Discord takes at least more than 10 seconds to connect). - Open Discord. - While it's connecting, open settings (also works with server settings, notification settings, etc.) - Stay in the settings for around 10 to 12 seconds then exit settings."
+ }
+}

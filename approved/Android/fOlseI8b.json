@@ -1,0 +1,24 @@
+{
+ "id": "5a1ef8418cbef75c8dace7c4",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 929,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fOlseI8b",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.7.9",
+  "actual_result": "Sometimes the \"You are being rate limited\" toast pops up for no reason",
+  "expected_result": "The screen does just rotate and nothing else happens",
+  "short_description": "When you repeatedly rotate your screen while viewing pinned messages, you may see some \"You are being rate limited\" toasts appearing randomly",
+  "steps_to_repro": "- Go to any text channel - View pinned messages - rotate your screen several times in a row"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bbb95d571e2f304286bc04b",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2130,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/H0FnngHh",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.6.3",
+  "actual_result": "The text gets too close to the song info area, and it can even overlap it in some cases",
+  "expected_result": "The \"Join via Desktop app\" footer text should have a constant padding with the song info area",
+  "short_description": "Spotify Listen Along embed messes up near the \"Join via Desktop app\" text if you mess with font size/DPI and/or if you change language with long translations",
+  "steps_to_repro": "- Have someone send a Spotify Listen Along embed in chat - Observe on Android client - Method 1: change your language to one where the header is long enough to take two lines, e.g French - Method 2: In your phone settings, set a large font size (not necessarily the maximum), and / or set a lower screen pixel density in your Android developer options"
+ }
+}

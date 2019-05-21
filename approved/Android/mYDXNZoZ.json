@@ -1,0 +1,30 @@
+{
+ "id": "5b721576e392dd89c314be8f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1830,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mYDXNZoZ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.3.0",
+  "actual_result": "Their behavior are inconsistent between each other: one clears the query upon going back while the other keeps it",
+  "expected_result": "Going back from either Add Friend or Join Server should have a similar behavior",
+  "short_description": "In Quick Switcher, when your query gives no results, going back from Add a Friend screen won't have the same behavior as going back from Join a Server screen",
+  "steps_to_repro": "- Open Quick Switcher - Type nonsense stuff in the input box to have no results - Tap the Add Friend button - Go back. Notice you still have the text in the input box  - Now tap the Join Server button - Go back. Notice how the contents of the QS got reset"
+ }
+}

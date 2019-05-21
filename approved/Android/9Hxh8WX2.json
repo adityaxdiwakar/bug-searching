@@ -1,0 +1,30 @@
+{
+ "id": "5ad4c6322499c7af38ba7a06",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1285,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9Hxh8WX2",
+ "data": {
+  "system_settings": "Discord Alpha 6.4.9",
+  "client_settings": "Moto G5 Plus Android 8.1",
+  "actual_result": "It asks if you want to save your unsaved changes.",
+  "expected_result": "It should exit the menu.",
+  "short_description": "Rotating the channel settings menu causes it to believe you have unsaved changes.",
+  "steps_to_repro": "- Open channel settings. - Rotate your device. - Click the back button."
+ }
+}

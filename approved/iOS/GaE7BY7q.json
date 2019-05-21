@@ -1,0 +1,17 @@
+{
+ "id": "5b89fa1f4577f95bbf2a99f7",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 961,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/GaE7BY7q",
+ "data": {
+  "system_settings": "iPhone X, iOS 12 Developer Beta 12",
+  "client_settings": "TestFlight 2.3.7 (6968)",
+  "actual_result": "New line is started in the middle of a sentence",
+  "expected_result": "Sentence should continue to the end of the line",
+  "short_description": "[iPhone X] Server AFK Settings description starts a new line during a sentence",
+  "steps_to_repro": "- Open Server Settings - Select Overview - Observe the description below AFK Settings"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59ad1742000ecc685b28e86d",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1084,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uLfJCzxF",
+ "data": {
+  "system_settings": "Windows 10 Pro",
+  "client_settings": "Stable 0.0.298",
+  "actual_result": "Scrollstate gets reseted",
+  "expected_result": "Scroll state should be saved like when switching servers",
+  "short_description": "When scrolling down in a server and then switching to DM then back to server its state is not saved.",
+  "steps_to_repro": "-Scroll down in a server-channel-overview -Switch to direct messages-Switch back to the same server"
+ }
+}

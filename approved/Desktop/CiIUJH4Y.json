@@ -1,0 +1,30 @@
+{
+ "id": "5c2d64f27b61508368bb697e",
+ "closed": false,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 3563,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CiIUJH4Y",
+ "data": {
+  "system_settings": "macOS 10.14.1",
+  "client_settings": "0.0.251",
+  "actual_result": "It isn't highlighted and must be copy/pasted to follow the link, unless it has a slash at the end.",
+  "expected_result": "The URL should be highlighted blue and clickable as a link. Even when it has no trailing slash.",
+  "short_description": "IPv6 IP URLs are not recognized as URLs",
+  "steps_to_repro": "- Enter an IPv6 address URL in the form of https://[fe80::1:1]"
+ }
+}

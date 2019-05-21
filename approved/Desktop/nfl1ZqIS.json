@@ -1,0 +1,17 @@
+{
+ "id": "593787da877d3be2963c969a",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 725,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nfl1ZqIS",
+ "data": {
+  "system_settings": "Windows 8.1 x64",
+  "client_settings": "Discord Canary 0.0.155",
+  "actual_result": "Discord crashes.",
+  "expected_result": "Either it toggles on or off, depending on how you have it.",
+  "short_description": "Discord Canary Crashes if you Remove Battle.net Friend Sync, Re-Add it, and Show It On Profile",
+  "steps_to_repro": "- If you don't have friend sync on, turn it on - Turn it off - Click show on profile"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "5846a41a9e66353fdce71821",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 220,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/swSvy9xX",
+ "data": {
+  "actual_result": "Emojis extends",
+  "expected_result": "Emojis get cut off.",
+  "short_description": "the good shit copy paste extends out of the server icon.",
+  "steps_to_repro": "- paste the following in the name server optian <> - see extending text from icon. "
+ }
+}

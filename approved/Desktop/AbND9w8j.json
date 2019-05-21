@@ -1,0 +1,30 @@
+{
+ "id": "5b7f611463b4fb1f010f2583",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2782,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AbND9w8j",
+ "data": {
+  "system_settings": "Widows 10 64x Home",
+  "client_settings": "Canary Build 22496",
+  "actual_result": "They are slightly disproportionate to eachother.",
+  "expected_result": "They are suppost to be the same as Twitter or Spotify",
+  "short_description": "Youtube, Twitter, Steam, Reddit & Twitch Connection 'X' marks are strange, on 125% zoom +",
+  "steps_to_repro": "- look at the 'X' button."
+ }
+}

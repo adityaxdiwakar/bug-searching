@@ -1,0 +1,17 @@
+{
+ "id": "5b77c15c349e021af4db7692",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 925,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XwocixgN",
+ "data": {
+  "system_settings": "Iphone SE IOS 12 Beta 5",
+  "client_settings": "Discord 2.3.6 (6771)",
+  "actual_result": "The list keeps loading and you\u2019re not able to select a member",
+  "expected_result": "the list loads in one time and you\u2019re able to select a user and edit them",
+  "short_description": "[poor connection bug] Discord keeps loading users and I\u2019m not able to touch any button. I can only close the app.",
+  "steps_to_repro": "- Go to a large server (Like Discord API)- Go to Server settings - Go to Members - See the list keeps loading in users - Try every button on the screen. No one working!"
+ }
+}

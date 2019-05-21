@@ -1,0 +1,30 @@
+{
+ "id": "5bdb383dd454e658a66bec70",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3332,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sgsT1noo",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803 (OS Build 17134.345)",
+  "client_settings": "Stable, 27353, 7e6eedd73f7ecf28176c8c36324a509674ada42f",
+  "actual_result": "It should say showing Relevant searches instead of Recent. It says \"Recent\" filter and shows \"Relevant\" searches",
+  "expected_result": "It shouldn't show \"Recent\" as selected and show \"Relevant\" searches. It should stay on the filter you clicked on.",
+  "short_description": "Searching for something in the filter in the search bar.. clicking off then the filter changes by itself",
+  "steps_to_repro": "- Step 2: Click on \"Relevant\" searches - Step 3: Now click onto another server - Step 4: Now go back to the same server you searched in - Step 5: Now it goes back to \"Recent\" and shows \"Relevant\" searches"
+ }
+}

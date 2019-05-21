@@ -1,0 +1,30 @@
+{
+ "id": "5bda883305723a5f9341be34",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2275,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6suFGiRW",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.8.4",
+  "actual_result": "no green circle indicating who is talking",
+  "expected_result": "i should be able to see a green circle on the profile picture of the person actively talking",
+  "short_description": "in a screen share enabled vc, users talking wont have a green circle on their names if they are screen sharing",
+  "steps_to_repro": "- join a voice chat and ask someone to share their screen - notice how there isn't a green circle on their name when they talk or audio from the shared window is transmitted"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59abe62a529cc2277f3d7e72",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 318,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kwFl45t2",
+ "data": {
+  "system_settings": "iPhone 5S, iOS 10.3.3",
+  "client_settings": "testflight 1.9.1",
+  "actual_result": "you see \"no text channels\" when it's loading because discord thinks it's coming from a server",
+  "expected_result": "When loading, you see the \"wumpus has no friends page\" or something else",
+  "short_description": "When getting a DM notification, discord thinks it's coming from a server",
+  "steps_to_repro": "- Completely close out of discord - have a friend dm you - click on the notification"
+ }
+}

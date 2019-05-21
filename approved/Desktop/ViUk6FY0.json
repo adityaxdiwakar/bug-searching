@@ -1,0 +1,17 @@
+{
+ "id": "5c36b9c1771b1d6e4ec84df0",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3612,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ViUk6FY0",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1809)",
+  "client_settings": "Discord Canary 0.0.227 (30700)",
+  "actual_result": "There is two odd mention banners, one is at the \"Discord home button\" one at the \"create a server\" button",
+  "expected_result": "There should only be one NEW mentions banner pointing to the server you get mentioned in",
+  "short_description": "If you have an unread mention in a server, you'll have two \"NEW\" banners going two opposite direction, one underneath the create a server button, one above the \"Home\" button",
+  "steps_to_repro": "- Get mentioned in a server - Observe the two odd \"NEW\" mentions banners"
+ }
+}

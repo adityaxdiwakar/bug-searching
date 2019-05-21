@@ -1,0 +1,17 @@
+{
+ "id": "5b88a4111dbf267d464ec371",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2899,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EwwjTexn",
+ "data": {
+  "system_settings": "Desktop Windows 10",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 22658, Version Hash: 3030f47c839a11c3ff30a9197db5b7d4d3af7afc",
+  "actual_result": "It'll join back in the call after you restart and lanuch discord",
+  "expected_result": "You're not supposed to get back in the call after you left",
+  "short_description": "When I join a discord call after that I left and restart my computer I joined back in the call again",
+  "steps_to_repro": "- join call - leave call - restart computer - Lanuch discord"
+ }
+}

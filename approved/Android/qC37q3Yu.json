@@ -1,0 +1,24 @@
+{
+ "id": "5b6a4d8fa3976b5f84b10e2d",
+ "closed": false,
+ "idList": "5b65390c05de8f6af6fe13e9",
+ "idShort": 1796,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qC37q3Yu",
+ "data": {
+  "system_settings": "Coolpad Mega 3, 6.0",
+  "client_settings": "Discord Alpha 728",
+  "actual_result": "You're taken to the last channel/DM you visited. This happens with all settings i.e. server settings, etc.",
+  "expected_result": "You're taken to the settings page.",
+  "short_description": "Going to settings and then clicking on the game detection service notification and then clicking on back closes the settings.",
+  "steps_to_repro": "- Open settings. - Click on the game detection service notification. - Click on back in the game subsettings."
+ }
+}

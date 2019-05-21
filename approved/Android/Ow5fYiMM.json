@@ -1,0 +1,30 @@
+{
+ "id": "5bc03e5094d2bc5814078d35",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2154,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ow5fYiMM",
+ "data": {
+  "system_settings": "Google Pixel 2, Android 9",
+  "client_settings": "Android Alpha 7.6.8 (768)",
+  "actual_result": "two or three messages go through despite cooldown",
+  "expected_result": "only one message should have gone through as slowmode is enabled",
+  "short_description": "using share feature you can send a message twice within a slowmode cooldown",
+  "steps_to_repro": "- enter a channel with slowmode enabled, preferably one with a longer cooldown - open SMS or other app and share a message to discord. - click the channel with the slowdown enabled - click share multiple times rapidly - return to channel and observe"
+ }
+}

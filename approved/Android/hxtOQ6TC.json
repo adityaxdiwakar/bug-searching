@@ -1,0 +1,17 @@
+{
+ "id": "5bfd6d8a22178b4541b44ad7",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2363,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hxtOQ6TC",
+ "data": {
+  "system_settings": "Samsung Galaxy S4, Android 7.1.2 (LineageOS)",
+  "client_settings": "Discord Alpha 8.0.1",
+  "actual_result": "should stay connected",
+  "expected_result": "reconnecting",
+  "short_description": "Discord App reconnecting ( losing internet connection) [ only experiencing this issue with Discord Alpha 8.0.1 ]",
+  "steps_to_repro": "- open discord - go back to home  - wait for about 10 seconds - open discord again, and notice that connection thingy on top loading"
+ }
+}

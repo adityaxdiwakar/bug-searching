@@ -1,0 +1,17 @@
+{
+ "id": "59ab0e2a5458d28a59d4d89f",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 315,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/HZjnjDCE",
+ "data": {
+  "system_settings": "iOS 10.3.3, iPad Mini 2.",
+  "client_settings": "TestFlight 1.9.1",
+  "actual_result": "It is able to be toggled.",
+  "expected_result": "It is not able to be toggled.",
+  "short_description": "Muting in a Suppressed Voice channel",
+  "steps_to_repro": "- Go to a voice channel where you are suppressed - you should see that the mute icon in \"Users in the Voice Channel\" can be  different than the Mute button."
+ }
+}

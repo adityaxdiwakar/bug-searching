@@ -1,0 +1,30 @@
+{
+ "id": "5b033fa02b8e7dcfcd744a40",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2037,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KM7uWlw6",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.7.4",
+  "actual_result": "The channel topic panel on the top right expands with nothing on it. A blank message which you can scroll up and down as well (depending upon how many new lines you've added, more new lines, more scrollable)",
+  "expected_result": "The channel topic should be \"No topic set.\" since new lines shouldn't be considered as characters.",
+  "short_description": "Putting just new lines in channel topic and saving it afterwards makes the channel topic as a blank message. [A cross platform bug]",
+  "steps_to_repro": "- Go to any text channel settings. - Clear the channel topic of the text channel (if any) and keep adding new lines just by pressing enter. - Click on save and exit the channel settings menu, and notice the channel topic."
+ }
+}

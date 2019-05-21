@@ -1,0 +1,17 @@
+{
+ "id": "5b775f039c0c8562cffc6c1f",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 924,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ldfSfTXH",
+ "data": {
+  "system_settings": "iPhone 6 11.4.1",
+  "client_settings": "Testflight 2.3.7 (6823)",
+  "actual_result": "It doesn't show back button to get back to your freinds.",
+  "expected_result": "Their is supposed to have a back button.",
+  "short_description": "In light theme there is no back on the send freind request on iOS",
+  "steps_to_repro": "- Have light theme on and go to add new friend and try to go back you will see that their is no back button."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5bb91ae0e807c28f63c997f1",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1062,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wjIcIVNq",
+ "data": {
+  "system_settings": "iPhone 8 Plus - iOS 12 & iPad Air 2 - iOS 12.1 Public Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8085)",
+  "actual_result": "It just opens the app.",
+  "expected_result": "Push notification should open the profile (or chat with) of the user.",
+  "short_description": "Push notifications for accepted friend requests no longer open the profile of the user",
+  "steps_to_repro": "- Send a friend request to any user - Close the app - Let the user whom you have sent a friend request accept it - Click on the push notification for the accepted friend request"
+ }
+}

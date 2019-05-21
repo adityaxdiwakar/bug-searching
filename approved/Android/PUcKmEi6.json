@@ -1,0 +1,17 @@
+{
+ "id": "5ab016f50efd21d8094e330f",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1213,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PUcKmEi6",
+ "data": {
+  "system_settings": "Samsung Galaxy J3 Emerge, Android 6.0.1",
+  "client_settings": "Android Alpha 6.3.8",
+  "actual_result": "It rotates, as if it was just being closed as you scroll up. This doesn't happen 100% of the time, I got it to happen about 75% of the time.",
+  "expected_result": "The arrow next to the category doesn't rotate, since it is already closed",
+  "short_description": "Collapsed category indicator changes when it shouldn't",
+  "steps_to_repro": "- Go to a server that 1. Has a category at the very top and 2. Has many other channels below it, enough to scroll quite a bit. You can uncollapse other categories to make the list longer. - Collapse the top category. - Scroll to the very bottom of the channels list. - Scroll back up quickly and look at the arrow next to the top category. You are able to catch it rotating sometimes. - For this example I used DTesters by collapsing the information category. Depending on your roles, you may be seeing more or less channels than I am."
+ }
+}

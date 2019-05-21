@@ -1,0 +1,30 @@
+{
+ "id": "5bf42783898d4b56153c9cbe",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3412,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gR6K7IzS",
+ "data": {
+  "system_settings": "Windows 10 home x64 (1803)",
+  "client_settings": "Canary, Build Number: 28226",
+  "actual_result": "nothing and no error message",
+  "expected_result": "it should take me to Dtesters since im already a member of that server",
+  "short_description": "attempting to join a server you're already in using the new join/create modal does not take you to that server if you're in 100 servers",
+  "steps_to_repro": "- be in 100 servers - scroll down the servers list to see the (+) icon or (ctrl + shift + n) - click on join server type in \"Discord-testers\" - click on join - observe"
+ }
+}

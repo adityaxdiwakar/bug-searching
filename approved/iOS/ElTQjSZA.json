@@ -1,0 +1,17 @@
+{
+ "id": "5bf66ec6a643aa44857b0608",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1167,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ElTQjSZA",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.2 Dev Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "There is a dark bar at the bottom of the screen",
+  "expected_result": "There isn't a dark bar at the bottom of the screen",
+  "short_description": "[iPhone X/XS/XR/XS Max] Deleting a server while you are in a voice chat in that server will leave a dark bar at the bottom of your screen",
+  "steps_to_repro": "- Join a voice chat on a server - Go into server settings and delete the server - Observe the bottom of the screen"
+ }
+}

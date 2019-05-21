@@ -1,0 +1,30 @@
+{
+ "id": "5984e09b7362e88d4c3720df",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 927,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Wtmw6TjU",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 15063.483",
+  "client_settings": "Desktop DiscordPTB, 0.0.33",
+  "actual_result": "Discord doesn't switch inputs correctly",
+  "expected_result": "Discord should switch to CABLE Output and use as such",
+  "short_description": "Discord not using correct input",
+  "steps_to_repro": "- Have VB-CABLE (Audio Device driver) installed - Have something using CABLE Input device to output audio - Be in voice channel - Switch Discord Input Device to CABLE Output"
+ }
+}

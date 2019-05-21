@@ -1,0 +1,30 @@
+{
+ "id": "5bae37bb571ca41fddcc69a7",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3057,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/24XtjaoB",
+ "data": {
+  "system_settings": "Windows 8.1 x64",
+  "client_settings": "Release Channel: stable, Build Number: 24492, Version Hash: 13b18e92b24be4f83ed124a4d09b6267810b7605",
+  "actual_result": "Incorrect, supposedly English position-wise equivalent keys are shown even when the \"correct\" hotkeys are registered.",
+  "expected_result": "The preview for the hotkey should show exactly the keys you pressed.",
+  "short_description": "Hotkey settings preview doesn't show correct key I'm pressing on German keyboard",
+  "steps_to_repro": "- have Discord Desktop set to German and have a German keyboard - go anywhere where you can set hotkeys, e.g. settings>hotkeys or >overlay->hotkeys - click on edit/add hotkey where it then goes into key input recording mode - input one of the certain keys that differ between German QWERTZ and English QWERTY keyboards, e.g \"\u00c4\" or \"#\""
+ }
+}

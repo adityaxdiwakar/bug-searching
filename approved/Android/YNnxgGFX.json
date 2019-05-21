@@ -1,0 +1,17 @@
+{
+ "id": "5bb582131818107aa76f6bee",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2096,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YNnxgGFX",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 762",
+  "actual_result": "The colour of the text is bit white shifted which makes it a bit hard to read.",
+  "expected_result": "The colour of the text is like the one before.",
+  "short_description": "The text in the expanded view of the Audit log is now more lighter which makes it more difficult to see on light theme.",
+  "steps_to_repro": "- Switch to light theme. - Open Audit log and expand an entry."
+ }
+}

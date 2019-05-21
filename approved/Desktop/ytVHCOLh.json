@@ -1,0 +1,30 @@
+{
+ "id": "5c2ec33b05cbc632429510e4",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3565,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ytVHCOLh",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 30387 Host 0.0.226",
+  "actual_result": "Gift button enlarges then shrinks slightly and moves to the bottom left, getting cut off",
+  "expected_result": "Gift button enlarges are you are hovering over it",
+  "short_description": "When hovering over the gift button, it shifts to the bottom left and gets cut off",
+  "steps_to_repro": "- Go into any channel you can type in - Hover over the gift button on the message bar - Observe the gift button"
+ }
+}

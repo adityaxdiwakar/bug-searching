@@ -1,0 +1,22 @@
+{
+ "id": "5813481cb03ab885510eec20",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 79,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DdJv7WMc",
+ "data": {
+  "actual_result": "They stay at the bottom of the chat",
+  "expected_result": "Messages are deleted locally",
+  "short_description": "App can't keep up with frequent Message Delete dispatches",
+  "steps_to_repro": "- Use a bot's prune  "
+ }
+}

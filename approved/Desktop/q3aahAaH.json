@@ -1,0 +1,30 @@
+{
+ "id": "5b37f8ae57596998a1fad7d5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2224,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/q3aahAaH",
+ "data": {
+  "system_settings": "Macbook Air (Early 2015), macOS Sierra 10.12.6",
+  "client_settings": "Discord Canary (Build 18043)",
+  "actual_result": "The lines are missing, also, a couple of lines are missing at 90% zoom level",
+  "expected_result": "The lines are still supposed to be there regardless your zoom level",
+  "short_description": "When creating a private channel at 80% zoom level, the lines between the roles are missing",
+  "steps_to_repro": "- Be on 80% zoom level - Start to create a channel - Tick private channel - Observe the lines between the roles"
+ }
+}

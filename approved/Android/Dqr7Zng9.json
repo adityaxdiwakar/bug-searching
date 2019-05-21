@@ -1,0 +1,30 @@
+{
+ "id": "5b6ff9e4664078457f3c7688",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1826,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Dqr7Zng9",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 729",
+  "actual_result": "If you're really fast enough, you see a 20 seconds countdown at first and then the 24 hour countdown starts.",
+  "expected_result": "The invite shows a 24 hour countdown.",
+  "short_description": "When you create a new server and jump into Server settings>Instant invites within the first 20 seconds, the countdown is a bit strange [Android 5.x specific]",
+  "steps_to_repro": "- Quickly jump into Server settings>Instant invites. Observe the countdown."
+ }
+}

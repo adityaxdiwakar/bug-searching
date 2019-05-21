@@ -1,0 +1,16 @@
+{
+ "id": "58d926d4c9b2fa6957b43fdc",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 463,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pA2W8zjH",
+ "data": {
+  "system_settings": " Windows x64, Latest Canary",
+  "actual_result": "Your Mouse Wheel does nothing",
+  "expected_result": "It scrolls your message with your mouse wheel",
+  "short_description": "Not able to scroll when sending a long message",
+  "steps_to_repro": "- Go to the send message box - Write an essay - Realise the only way you can see the start is if you use your arrow keys to scroll to the top (bug as it does in Stable) and using your scroll wheel won't work "
+ }
+}

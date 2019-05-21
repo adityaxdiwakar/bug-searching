@@ -1,0 +1,17 @@
+{
+ "id": "5bbc6b53dce5e338c317a4b3",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2132,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/o3RB7ybd",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 mini, Android 6.0.1",
+  "client_settings": "Alpha 766",
+  "actual_result": "it shows null",
+  "expected_result": "it shows u the channel u set it to",
+  "short_description": "[Audit Log] setting the afk channel to a voice channel shows the null in audit log entry",
+  "steps_to_repro": "- set the afk channel to a voice channel - observe audit log entry"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b8e7c7eb30789551fb6c2ad",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2921,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1pI3Wwkc",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS 10.13.6",
+  "client_settings": "Canary 23018",
+  "actual_result": "You are still able to click the Share button. Doing so makes the screenshare be loading forever.",
+  "expected_result": "The share button should be made unclickable again like it was before selecting anything at all.",
+  "short_description": "If you quit an application while it's selected to screenshare, you can still click to Share",
+  "steps_to_repro": "- Open an application you won't mind closing (without unsaved work, safe to close) - Go to screenshare (tested originally on guild screenshare) - Click to turn on Screenshare - Click \"Application Window\" in the modal that appears - Click the application from step 1 - Fully quit that application - Go back to Discord and click Share"
+ }
+}

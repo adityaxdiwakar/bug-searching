@@ -1,0 +1,30 @@
+{
+ "id": "5b0ef0b43b5fa7b8ddf11402",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1484,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LamI2TWh",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.7",
+  "actual_result": "It pulls the banner upwards",
+  "expected_result": "Autocomplete menu should either appear above the banner or hide/cover it like on Desktop",
+  "short_description": "Autocomplete menu pulls the \"You're viewing older messages\" banner upwards",
+  "steps_to_repro": "- Go to a channel where you are allowed to type and where you can scroll through a long message history - Go to a point of the history where you can see the \"You're viewing older messages\" banner - Focus the textbox and insert @ or : character"
+ }
+}

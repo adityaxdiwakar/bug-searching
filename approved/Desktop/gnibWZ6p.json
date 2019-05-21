@@ -1,0 +1,24 @@
+{
+ "id": "5b5f113fea4639807c375203",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2511,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gnibWZ6p",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit 1803, Chrome Version 67.0.3396.99",
+  "client_settings": "Desktop Canary 20174",
+  "actual_result": "it says \"sync your Mixed subscribers to a role.\"",
+  "expected_result": "It should say \"Mixer subscribers\"",
+  "short_description": "[WEBSITE] Typo in Mixer section of streamkit",
+  "steps_to_repro": "- scroll down to the mixer section - read the first line"
+ }
+}

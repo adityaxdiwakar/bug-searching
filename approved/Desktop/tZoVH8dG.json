@@ -1,0 +1,16 @@
+{
+ "id": "58271e4ff2df00682dbd5937",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 133,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tZoVH8dG",
+ "data": {
+  "system_settings": " Windows 10 Canary",
+  "actual_result": "GIF Autoplays ( Example: http://i.imgur.com/iSOtuNv.gif#1 )",
+  "expected_result": "GIF doesn't autoplay",
+  "short_description": "GIFs with `#(something)` on the end autoplay",
+  "steps_to_repro": "- Find a link to a GIF - Put something like `#1` on the end "
+ }
+}

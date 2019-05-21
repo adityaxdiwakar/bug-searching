@@ -1,0 +1,30 @@
+{
+ "id": "5ae01f85b30b82c32dec2d16",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1319,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bPDqDdCy",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Beta 6.5.6",
+  "actual_result": "It shows all those search history results which you searched earlier in those servers.",
+  "expected_result": "When you press back the button, it should return to DM chat.",
+  "short_description": "Back button doesn't work correctly while in DM call.",
+  "steps_to_repro": "- You have to be connected in voice call in DM to anyone. - Go to a random server and a random text Channel, Search in message history any word, and click on any of the old results to jump to that time of chat, then open top left drawer and go to another channel of other server and do the same. (Don't click on \"you're viewing older messages\" banner at the bottom) - Open drawer again and go to DM call, click on small arrow button on bottom right so to open person's profile saying ongoing call - Click on back button to go back to DM chat."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59eddb5afe609f8d3b0162b3",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 834,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qJAwqqZK",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.4.3",
+  "actual_result": "At random times, the response message sent by the bot is displayed above your message containing the command",
+  "expected_result": "All messages should be sorted by timestamp with a precision of 1 millisecond",
+  "short_description": "When two messages are sent almost simultaneously with less than ~30 milliseconds of delay, the messages seem to be displayed in a random order (or possibly alphabetically with the message content, not sure)",
+  "steps_to_repro": "- There are many ways to reproduce, but I think the easiest is to find a bot with a really fast response time, and that introduces a ping command. A fast internet in terms of ping is also recommended. - Go to a channel where you have perms to send messages and where the bot is operating - Run the ping command several times, and pay more attention to those which display a response time < 30 ms"
+ }
+}

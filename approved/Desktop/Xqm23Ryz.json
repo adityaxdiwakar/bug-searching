@@ -1,0 +1,24 @@
+{
+ "id": "59f1f12794fadec5320afc72",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1323,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Xqm23Ryz",
+ "data": {
+  "system_settings": "Ubuntu Studio 17.04/Linux 4.10.0.-37-lowlatency",
+  "client_settings": "Discord Canary 0.0.24 ( Build 6420 )",
+  "actual_result": "Just nothing happens ( You can't talk in the voice chat)",
+  "expected_result": "Your microphone gets activated (your profile pic in the voice chat gets green surrounded)",
+  "short_description": "Push to talk key doesn't work",
+  "steps_to_repro": "- Select Push to Talk as Input mode in the Voice & Video Settings - Set any key for Push to Talk - join a voice channel - press the Push to Talk key"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b63457093c0b74c293f546f",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2607,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lVlamRvb",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Discord Canary 20540",
+  "actual_result": "The more options popup appeared a little far away from the More Options button",
+  "expected_result": "The more options popup should appear right below the More Options button",
+  "short_description": "More options popup misplaced when zoomed in",
+  "steps_to_repro": "- Zoom in to the maximum using the Ctrl and the equal button - Right click on a user - Click on Profile - Click on the More Options button (that 3 dots next to the \"Send Message\" button)"
+ }
+}

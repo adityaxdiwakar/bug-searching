@@ -1,0 +1,30 @@
+{
+ "id": "5b6a0f2821e73247a9a42ce0",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 877,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/N1wEfDZw",
+ "data": {
+  "system_settings": "iPhone 6+ iOS 11.4",
+  "client_settings": "2.3.6 (6427)",
+  "actual_result": "Crash",
+  "expected_result": "Allows you to speak without crash.",
+  "short_description": "Crashing when trying to push to talk in a voice channel",
+  "steps_to_repro": "- Have Push to Talk enabled. - Join a VC - Press the Blue Push to Talk button"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "583b32b341f022faa1347554",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 178,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CLmJUbSx",
+ "data": {
+  "actual_result": "Shows some other random icon",
+  "expected_result": "Call icon shows the default icon for groups",
+  "short_description": "In the call menu, the group icon is broken if it doesn't have an icon",
+  "steps_to_repro": "- Find a group without an icon - Ask a member to start a call "
+ }
+}

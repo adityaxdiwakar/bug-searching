@@ -1,0 +1,23 @@
+{
+ "id": "58534815b1dccbcabe23d07e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 249,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3YIpxaEB",
+ "data": {
+  "system_settings": " MacOs Sierra, Latest Canary.",
+  "actual_result": "You can't move the server down any further.",
+  "expected_result": "The list scrolls down as you move the server down.",
+  "short_description": "Unable to scroll down server list (when moving another server) when there is a mention on a server currently not visible on the bar",
+  "steps_to_repro": "- Attempt to move a server down this list (past the list you can see) - Realize you can't. "
+ }
+}

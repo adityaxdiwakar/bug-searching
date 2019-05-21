@@ -1,0 +1,24 @@
+{
+ "id": "59d690203cb962c319a77ce5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1224,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2AlewOi8",
+ "data": {
+  "system_settings": "MacBook OSX 10.12.6",
+  "client_settings": "Discord Canary 0.0.155",
+  "actual_result": "The position in the text is behind the accented character with the original character being there. (e.g. a\u00a6\u00e4)",
+  "expected_result": "It type the character, removes the original character and places your position in the text at the end. (e.g. if character \u00e4 for it to be like \u00e4\u00a6 [with the \u00a6 being  position in text])",
+  "short_description": "Error with typing accented characters in search on OSX",
+  "steps_to_repro": "- Click search - Type a character that has an accented form by holding the key down and selecting the accent you want."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5c011289c008e1281d8e4ef3",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2369,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yaG2zyFm",
+ "data": {
+  "system_settings": "Samsung Galaxy a5, Android 8",
+  "client_settings": "Android alpha version 802.",
+  "actual_result": "no red action buttons appear. if the server mute permission is granted, all 3 of the buttons appear.  conversely, if a user has server mute permissions, but not move or deafen perms, all 3 buttons will appear anyway.",
+  "expected_result": "the 'move user' and 'server deafen' buttons should appear in red.",
+  "short_description": "server deafen and move user buttons are tied to the server mute permission",
+  "steps_to_repro": "- be on a server where you have move user and server deafen permissions - long press on a user in a voice chat - observe the user menu that appears"
+ }
+}

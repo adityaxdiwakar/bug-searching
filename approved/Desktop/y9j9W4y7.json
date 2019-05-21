@@ -1,0 +1,30 @@
+{
+ "id": "5baf88d67f1f5f185c6f6727",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3062,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/y9j9W4y7",
+ "data": {
+  "system_settings": "MacBook Pro 13\", macOS High Sierra 10.13.6",
+  "client_settings": "Canary 24978",
+  "actual_result": "The mini window just appears in the middle with a black background",
+  "expected_result": "The grey background should fill to the edges of the screen",
+  "short_description": "[macOS] Dragging the mini loading window to create a new window in Mission Control will show a black background around the central animation and text",
+  "steps_to_repro": "- Close and reopen Discord so that the mini loading window shows - Open Mission Control - Drag the mini window to the top and hold, so that it becomes full-screen - Click on it at the top and observe"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "589ab874727286df7d05b8fa",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 373,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3MUBkvas",
+ "data": {
+  "system_settings": " Windows 10 64x, Canary",
+  "actual_result": "Animated Avatar continues animating.",
+  "expected_result": "Animated avatar stops animating",
+  "short_description": "Embeds that have an animated avatar for the embed author icon will continue to animate the avatar even without hover over.",
+  "steps_to_repro": "- Send an Embed with an animated avatar set as the embed author icon - Attempt to hover over then hover away from embed,  "
+ }
+}

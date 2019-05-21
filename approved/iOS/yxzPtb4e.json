@@ -1,0 +1,30 @@
+{
+ "id": "59b8fef6358ffa6c43aa8f4d",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 328,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yxzPtb4e",
+ "data": {
+  "system_settings": "iOS 11 Developer Beta 10, iPhone 7+",
+  "client_settings": "iOS TestFlight v1.9.1 (629)",
+  "actual_result": "Delete prompt only shows ellipses",
+  "expected_result": "Delete prompt to show part of the URL cut off by ellipses",
+  "short_description": "message content not shown in delete prompt when only URL and exceeding 80 characters",
+  "steps_to_repro": "- Get a URL of 81 or more characters (recommended: Google search url) - Send it as a message with no other content - open the delete message confirmation prompt"
+ }
+}

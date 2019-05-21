@@ -1,0 +1,30 @@
+{
+ "id": "59e84927c3a808b88ec2327e",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 377,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AVHmqohz",
+ "data": {
+  "system_settings": "iPad Mini 4, iOS 11.0.3.",
+  "client_settings": "TF iOS Discord 1.9.3 (1165)",
+  "actual_result": "The text for the search either gets cut off or does not extend to the multiscreen size. To make it fit, you have to search your specific phrase or thing again.",
+  "expected_result": "Everything on that page would fit and sync with your splitscreen size.",
+  "short_description": "Splitscreen sizing does not sync for searching keywords, phrases etc.",
+  "steps_to_repro": "- Split your screen in between Discord and another app.- Go on the search magnifying glass.- Search for a specific phrase, sentence (if you could find one) or keyword and look at your options.- Now change the splitscreen split size. Change from a quarter of the screen to half of the screen."
+ }
+}

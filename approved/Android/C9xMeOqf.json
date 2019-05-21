@@ -1,0 +1,22 @@
+{
+ "id": "5839563a5cea6c61e4e44b35",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 108,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/C9xMeOqf",
+ "data": {
+  "actual_result": "/me shows up and does not italicized anything",
+  "expected_result": "/me to be hidden and words to show italicized",
+  "short_description": "Using /me shows it typed out",
+  "steps_to_repro": "- start off sentence with \"/me\"  "
+ }
+}

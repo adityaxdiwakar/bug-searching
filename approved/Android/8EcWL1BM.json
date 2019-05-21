@@ -1,0 +1,17 @@
+{
+ "id": "5b02c7b6dc5447c4011c4e57",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1442,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8EcWL1BM",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 6.7.4",
+  "actual_result": "The notification has the sender as **Discord** even if the search shows that the message was by the user who joined.",
+  "expected_result": "The notification should have the username of the member who has joined.",
+  "short_description": "The default welcome messages by Discord when searched, are apparently the message of the user who has joined but the notification shows the message was sent by Discord.",
+  "steps_to_repro": "- Set the notification settings of a server to all messages. - Close Discord app(don't kill it) - Ask a member to join the server. - Check the notification (it says the message was sent by Discord). - Go to the server where the member has joined. - Search the messages sent by the use."
+ }
+}

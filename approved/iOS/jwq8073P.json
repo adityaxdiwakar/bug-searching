@@ -1,0 +1,30 @@
+{
+ "id": "5a4e8e05da5f229476299963",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 483,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jwq8073P",
+ "data": {
+  "system_settings": "iPhone X, iOS 11.2.1",
+  "client_settings": "TestFlight 2.2.0 (2042)",
+  "actual_result": "The group member screen appears in landscape and is partially obstructed by the notch",
+  "expected_result": "The screen should be padded to avoid the notch, or should automatically switch to portrait like the voice settings screen",
+  "short_description": "Title bar/member avatars obstructed on the group DM member list",
+  "steps_to_repro": "- Go to a group DM - Start or join a video call - Rotate to landscape (anticlockwise) - Tap the ellipses (3 dots) and then tap Members"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b60b49ecf232cb9b7fd7de5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2544,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/usXf7OpQ",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 20351",
+  "actual_result": "The code block is invisible, but in a different color than in dark mode",
+  "expected_result": "The code block should be visible",
+  "short_description": "Code Blocks in Light Mode are almost invisible",
+  "steps_to_repro": "- Turn your Discord into Light Mode - Send a message containing a code block or view a message that has one - observe"
+ }
+}

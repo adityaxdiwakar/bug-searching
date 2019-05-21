@@ -1,0 +1,24 @@
+{
+ "id": "59d3683a318e64d91096ca88",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 777,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JDAYl0bw",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 5.2.7",
+  "actual_result": "it's still there",
+  "expected_result": "highlighting is gone",
+  "short_description": "@ here and @ everyone Highlighting stays instead of disappearing",
+  "steps_to_repro": "- have someone else mention you with a everyone or here and text - have the user edit out the mention - observe the message"
+ }
+}

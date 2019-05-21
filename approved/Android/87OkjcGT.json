@@ -1,0 +1,17 @@
+{
+ "id": "5ba97b4deba5ff2a7e55f01a",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2006,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/87OkjcGT",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "Still dark",
+  "expected_result": "Shou'd be white",
+  "short_description": "[Audit Logs] Filter popup always in Dark Theme",
+  "steps_to_repro": "- Switch to Light theme - Access Audit logs - Tap on Filter button"
+ }
+}

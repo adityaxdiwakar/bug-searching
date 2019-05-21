@@ -1,0 +1,24 @@
+{
+ "id": "59bc2bf84e95b96b356d1fe5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 721,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/e2ccn0nW",
+ "data": {
+  "system_settings": "Android 4.4.4, Allview VivaH8LTE",
+  "client_settings": "Discord Alpha 5.1.6",
+  "actual_result": "The color doesn't show up anymore in the color picker",
+  "expected_result": "The color should be available in the color picker",
+  "short_description": "The last color from color picker (role colors) doesn't show up anymore if you selected another color and then want to change it back",
+  "steps_to_repro": "- Create a new server (or go to one where you're owner/admin) - Go to server settings, then to roles section - Create a new role - Open the color picker; Observe the current color of role - Change the role color to something else - Open the color picker again; Observe: the last color from picker (the default one which the role had when it was created) doesn't show up anymore"
+ }
+}

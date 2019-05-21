@@ -1,0 +1,24 @@
+{
+ "id": "5b6b32ff338bd4275e6ea5fa",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1800,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/b6GmaVzn",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.8",
+  "actual_result": "The box turns green as if a game was detected",
+  "expected_result": "Besides the known bugs involving UI elements being misplaced/missing after toggling split screen, the box should stay grey at least to show that no games are detected",
+  "short_description": "The box where detected game appears in Games settings turns green when toggling split screen",
+  "steps_to_repro": "- Go to Settings > Games  - Make sure no game is being detected - Toggle split screen (Android 7 feature)"
+ }
+}

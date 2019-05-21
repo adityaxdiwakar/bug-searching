@@ -1,0 +1,17 @@
+{
+ "id": "5a7381d4813265bf79270d97",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1613,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NBwpbpJa",
+ "data": {
+  "system_settings": "Windows 10 Pro build 15063",
+  "client_settings": "Discord Canary build 10141",
+  "actual_result": "It continues showing the song info",
+  "expected_result": "It should stop showing the song info",
+  "short_description": "Spotify integration ignores private session",
+  "steps_to_repro": "- Listen to music - Turn on private session"
+ }
+}

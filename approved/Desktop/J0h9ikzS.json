@@ -1,0 +1,30 @@
+{
+ "id": "5b3f3e57b5f4e1c20a1cfab2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2240,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/J0h9ikzS",
+ "data": {
+  "system_settings": "macOS 10.13.4",
+  "client_settings": "0.0.251",
+  "actual_result": "Discord ignores the Graphite setting and stays in color",
+  "expected_result": "Discord's window controls switch from green, yellow, and red, to shades of grey and black, as directed in Apple's Human Interface Guidelines",
+  "short_description": "Graphite switching on Mac doesn't take in Discord",
+  "steps_to_repro": "- Open System Preferences and switch from Blue to Graphite- Open Discord"
+ }
+}

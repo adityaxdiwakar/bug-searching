@@ -1,0 +1,30 @@
+{
+ "id": "5ba03df15b804b2b75711c7f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1990,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DTXLRuKP",
+ "data": {
+  "system_settings": "Huawei P8 lite, 6.0.0",
+  "client_settings": "Discord Alpha 752",
+  "actual_result": "A \"50+ New Messages\" appears on the top of the screen, even if there has been only 1 deleted message",
+  "expected_result": "Since you have no new messages, well, you do not have a new messages banner",
+  "short_description": "If an x number of messages in deleted in one channel while it is out of focus, the \"50+ New Messages\" banner appears",
+  "steps_to_repro": "- Go in a channel where messages are deleted frequently (for example <#232568032394870784>) - Make sure a message is deleted while you are focused on a different server - Go to that channel - Obs\u00e8rve"
+ }
+}

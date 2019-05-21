@@ -1,0 +1,30 @@
+{
+ "id": "5adcb88c259474471acde483",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 687,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/10NfG9OG",
+ "data": {
+  "system_settings": "iPhone 6, 11.2.3",
+  "client_settings": "Testflight 2.3.0",
+  "actual_result": "It\u2019ll change my messages time to my phone time, but everyone else\u2019s time will be of my time zone. My messages also won\u2019t combine.",
+  "expected_result": "It\u2019ll all either stay with my time zone, or will move with my phone clock time",
+  "short_description": "Change of time without change of time zone will result in your time being mixed up with the time zones time, and your messages don\u2019t combine until later.",
+  "steps_to_repro": "- Go to setting, General, date/time - Go and turn off \u201cSet automatically\u201d - Stay in your time zone, and change the time an hour forward"
+ }
+}

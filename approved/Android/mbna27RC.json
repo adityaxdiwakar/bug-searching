@@ -1,0 +1,30 @@
+{
+ "id": "5b30c8ec3de1402e604ae20a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1600,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mbna27RC",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.9",
+  "actual_result": "Keyboard doesn't close and stays open without anything in focus",
+  "expected_result": "Keyboard should close after selecting user",
+  "short_description": "[Incoming Share] Selecting a channel/user doesn't close keyboard",
+  "steps_to_repro": "- Share something into Discord from an external source - Focus the channel/user search textfield. You can type something but that's optional, just make sure the textfield is focused and keyboard open  - Select a channel/user"
+ }
+}

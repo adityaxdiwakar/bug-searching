@@ -1,0 +1,17 @@
+{
+ "id": "5aeedcff9779eb62492a3213",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1943,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SzaI2fp1",
+ "data": {
+  "system_settings": "Windows 8.1 64bit \u2022 Chrome Version 66.0.3359.139",
+  "client_settings": "Stable \u2022 Build Number: 14651",
+  "actual_result": "The Drag n Drop dialogue appears, but then disappears when file is dropped.",
+  "expected_result": "The upload dialogue appears, and the image can be uploaded.",
+  "short_description": "When drag and dropping images from chrome's download bar, the image doesn't upload.",
+  "steps_to_repro": "- Download an image from the internet. - Drag the file from the download bar into Discords window."
+ }
+}

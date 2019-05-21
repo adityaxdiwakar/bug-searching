@@ -1,0 +1,30 @@
+{
+ "id": "59f1ce291bd6c1f5f83a22c1",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 850,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RRc49RNG",
+ "data": {
+  "system_settings": "Android 6.0.1 (LineageOS 13.0), Alcatel Idol 3 4.7 (6039Y)",
+  "client_settings": "Android Alpha 5.4.8",
+  "actual_result": "All join messages are the same",
+  "expected_result": "Different join messages",
+  "short_description": "Same join messages in other than English locales",
+  "steps_to_repro": "- Switch your locale to other than English  - Go to channel with system join messages"
+ }
+}

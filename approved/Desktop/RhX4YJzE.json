@@ -1,0 +1,30 @@
+{
+ "id": "5b8f813aaf8e553c041dce8b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2925,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RhX4YJzE",
+ "data": {
+  "system_settings": "iMac (Retina 5K, 27-inch, Late 2015) macOS High Sierra 10.13.6",
+  "client_settings": "Desktop Canary 23017",
+  "actual_result": "Icons and messages become unaligned for a second",
+  "expected_result": "Scrolls up and down smoothly",
+  "short_description": "Jumping to a message and scrolling up and down causes the icons and messages to become unaligned (might be Mac specific)",
+  "steps_to_repro": "- Search anything, and jump to a message - Scroll up and down the moment you jump"
+ }
+}

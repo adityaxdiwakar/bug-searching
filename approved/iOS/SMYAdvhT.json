@@ -1,0 +1,24 @@
+{
+ "id": "5b6b3e3d4f52834fdd5b2c95",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 880,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SMYAdvhT",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 6",
+  "client_settings": "TestFlight 2.3.6 (6427)",
+  "actual_result": "Chat position is scrolled up upon leaving the image",
+  "expected_result": "Chat position is in the same spot as when you opened the image",
+  "short_description": "Switching to landscape mode and back to portrait mode when viewing an image while the blue new messages bar is at the top causes chat to scroll up after exiting the image",
+  "steps_to_repro": "- Make sure you have a lot of new messages with images so that you can scroll without losing the blue new messages bar - Scroll down a little bit until you get to an image - Observe the chat position and then open the image - Switch to landscape mode and back to portrait mode - Close out of the image and observe the chat position"
+ }
+}

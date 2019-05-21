@@ -1,0 +1,30 @@
+{
+ "id": "5a7a06ce18f2a03096a6db94",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1101,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wW1GIlIB",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "620",
+  "actual_result": "there is some clipping",
+  "expected_result": "no clipping",
+  "short_description": "The text indicator clips into the M of Message X place (most noticeable on light 7heme)",
+  "steps_to_repro": "- change to light theme - look at the little text line indicator in the text box - notice it is slightly clipping into the M of Message"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5ba98a3986383802b428a6b3",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2023,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gVR5XN1r",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 running Android 8.1.0",
+  "client_settings": "Discord Alpha 7.5.5 (755)",
+  "actual_result": "Users that were kicked/banned from the server appear in Filter by User",
+  "expected_result": "Only users that are in the server should appear",
+  "short_description": "[Audit Log] users that were kicked/banned from the server appear in Filter Users in the audit log",
+  "steps_to_repro": "- Go to audit log - Click the three lines in the top right - Click Filter by User - Observe"
+ }
+}

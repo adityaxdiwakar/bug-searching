@@ -1,0 +1,30 @@
+{
+ "id": "5ab99cf04906fa5685f509fd",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1762,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hxTZyjVa",
+ "data": {
+  "system_settings": "macOS 10.3.3, Windows 10 Home x64 Version 1709",
+  "client_settings": "Discord Canary 0.0.186",
+  "actual_result": "ESC doesnt work.",
+  "expected_result": "ESC should exit the Edit Settings",
+  "short_description": "Can't exit menu with ESC after opening it while using Keyboard Combos (etc.)",
+  "steps_to_repro": "- Right click a channel - Open the keyboard combos. - Click edit settings - Use ESC to exit the Keyboard Combos"
+ }
+}

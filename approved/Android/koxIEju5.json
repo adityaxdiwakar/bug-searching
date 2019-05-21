@@ -1,0 +1,30 @@
+{
+ "id": "5b6d1c6cbf0a6810c1392106",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1805,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/koxIEju5",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 729",
+  "actual_result": "You can insert as many characters as you want, pushing the wumpus off screen",
+  "expected_result": "Text should stopped being added or a error saying that it \"Must be 32 characters or  less\"",
+  "short_description": "There's no character limit in the add friend screen",
+  "steps_to_repro": "- Click on the add friend option - On the search friend screen open the keyboard - insert more than 32 characters"
+ }
+}

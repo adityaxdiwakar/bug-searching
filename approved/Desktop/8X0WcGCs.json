@@ -1,0 +1,17 @@
+{
+ "id": "59cc6d5ba7b3edc7979d38cb",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1199,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8X0WcGCs",
+ "data": {
+  "system_settings": "macOS High Sierra 10.13 (17A365) (iMac Retina 5K, 27-inch, Late 2017)",
+  "client_settings": "Discord Canary 0.0.154 (Build 4923)",
+  "actual_result": "It gives the attached message, saying you can't deny the permission because you will lose it.",
+  "expected_result": "It gives you a message saying you can't grant a permission you don't have, or it actually grants the permission",
+  "short_description": "When granting a permission you don't have, it will give you a message saying you can't deny the permission",
+  "steps_to_repro": "- Pick a server which you are missing a permission, such as Send Messages - Click Edit Channel (the gear) - Go to the Permissions section - For any role, click the check (attached) next to the permission you don't have."
+ }
+}

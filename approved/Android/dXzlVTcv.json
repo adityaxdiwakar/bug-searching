@@ -1,0 +1,30 @@
+{
+ "id": "5b9507da46ba985a8dc79c2d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1952,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dXzlVTcv",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 748",
+  "actual_result": "The error message vanishes.",
+  "expected_result": "The error message stays.",
+  "short_description": "Switching orientation in the add screen after clicking the send button (without typing anything) causes the error message to disappear.",
+  "steps_to_repro": "- Open add friends screen. - Do not type in anything and hit send. - Switch orientation."
+ }
+}

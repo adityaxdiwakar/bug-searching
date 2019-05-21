@@ -1,0 +1,30 @@
+{
+ "id": "5944b89e9a236f782106b1ed",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 513,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/r7Weiv3K",
+ "data": {
+  "system_settings": "Moto G4 Play, Android 6.0.1",
+  "client_settings": "Android Alpha 3.9.1",
+  "actual_result": "Your name has its last letter cut off mid-letter",
+  "expected_result": "Your name has \"...\" appended to it",
+  "short_description": "Long names will have their last letter cut off mid-letter",
+  "steps_to_repro": "- Set your nickname to something that is 18 letters long (\"STUPID EGG SANDWICH\", in all capitals, works) - Send a message and look at your name"
+ }
+}

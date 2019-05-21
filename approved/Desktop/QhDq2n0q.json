@@ -1,0 +1,30 @@
+{
+ "id": "5b70bf72013c514391fe48f7",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2687,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QhDq2n0q",
+ "data": {
+  "system_settings": "MacBook Pro (13\"), macOS 10.13.6",
+  "client_settings": "Canary 21705",
+  "actual_result": "The text says \"Show on Games Tab\"",
+  "expected_result": "The text should say \"Show on Activity Tab\"",
+  "short_description": "\"Show on Games Tab\" should probably say \"Show on Activity Tab\" with the rename of the area",
+  "steps_to_repro": "- Right click on a user - Observe the text being inconsistent with the actual name of the tab"
+ }
+}

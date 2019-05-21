@@ -1,0 +1,22 @@
+{
+ "id": "5883c1d86554f2bfb5be207b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 345,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gxpFNM7Q",
+ "data": {
+  "actual_result": "It's on one line only and it can't display properly",
+  "expected_result": "text should be on 2 lines",
+  "short_description": "\"X friends are online\" text is out of place in a non-english language",
+  "steps_to_repro": "- Change your language to Bulgarian - Look at the \"online friends\" text "
+ }
+}

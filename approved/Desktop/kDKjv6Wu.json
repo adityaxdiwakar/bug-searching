@@ -1,0 +1,17 @@
+{
+ "id": "5af38f56d09a0d41e70f08f9",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1961,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kDKjv6Wu",
+ "data": {
+  "system_settings": "Windows 10 Home x64 v1709",
+  "client_settings": "Discord Canary, 0.0.208",
+  "actual_result": "The message says [ :bugbutton: ]()",
+  "expected_result": "The message should say [ <:bugbutton:268365281846362112> ]()",
+  "short_description": "Custom emotes in which are typed within a link markdown structure do not get resolved",
+  "steps_to_repro": "- Send `[ :emote: ]()` in a message. I'll use <:bugbutton:268365281846362112> in this example."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bd36cc4860f0a14f66c27ef",
+ "closed": false,
+ "idList": "5bd36c952694a17407444958",
+ "idShort": 3286,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7zsJNDUw",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 26991",
+  "actual_result": "Long Strings are displayed with a \"...\", making it hard to understand what the option means",
+  "expected_result": "Long Strings like \"Hide Muted Channels\" wrap into a new line, like e.g the message rightclick modal already does",
+  "short_description": "Right Click Modals do not wrap with non-English Strings but instead get truncated",
+  "steps_to_repro": "- Set your language to German - Rightclick a Server - Observe"
+ }
+}

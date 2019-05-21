@@ -1,0 +1,17 @@
+{
+ "id": "5b505b7960c9d25b21bfe8e5",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2326,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KNQlQR5J",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 19154",
+  "actual_result": "You're unable to exit full screen mode and are forced to disconnect from the voice channel",
+  "expected_result": "After going to full screen you're able to exit full screen",
+  "short_description": "Full screening while screensharing in a server makes every button unresponsive forcing you to disconnect",
+  "steps_to_repro": "- Join a voice channel on a server with screenshare - Start screensharing - Click on the server name on the RTC modal on the bottom above your name to open the screenshare - Go to fullscreen mode on the screenshare - Attempt to click the button to exit full screen"
+ }
+}

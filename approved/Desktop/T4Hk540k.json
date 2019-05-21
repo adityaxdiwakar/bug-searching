@@ -1,0 +1,17 @@
+{
+ "id": "5b2f33f100b6623898226518",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2193,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/T4Hk540k",
+ "data": {
+  "system_settings": "Windows 10 x64 1803",
+  "client_settings": "Discord Canary (Build 17576)",
+  "actual_result": "It identifies as Half-Life",
+  "expected_result": "Identify the game as Counter-Strike",
+  "short_description": "CS 1.6 detects as Half-Life in Games Tab",
+  "steps_to_repro": "- Start CS 1.6 - See your games tab or in your settings"
+ }
+}

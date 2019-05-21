@@ -1,0 +1,29 @@
+{
+ "id": "5895fdb7baae6d4dd4914050",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 172,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cnFGr2vX",
+ "data": {
+  "system_settings": " iPhone SE, iOS 10.2, client 1.8.1.",
+  "actual_result": "The typed one shows up fine, but the emoji just sent shows up improperly to desktop users.",
+  "expected_result": "Both messages, typed and emoji, look the same on both ends.",
+  "short_description": "Number emojis aren't sent properly if sent from the Emoji keyboard (typed is fine)",
+  "steps_to_repro": "- Go to any text channel - Send `:six:` - Confirm it looks normal on desktop - Send the six emoji from the symbols tab on the emoji keyboard "
+ }
+}

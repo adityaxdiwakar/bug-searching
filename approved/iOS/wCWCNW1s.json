@@ -1,0 +1,17 @@
+{
+ "id": "5b7f40a4c94c2e14d37b5886",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 940,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wCWCNW1s",
+ "data": {
+  "system_settings": "IPhone 8 iOS 12 public beta 7",
+  "client_settings": "TestFlight 2.3.7(6914)",
+  "actual_result": "Wimpus has flickering black lines",
+  "expected_result": "Shouldn\u2019t have black lines",
+  "short_description": "Wunpus has black lines flicked in find friends nearby",
+  "steps_to_repro": "- Go to add friends tab, click nearbye"
+ }
+}

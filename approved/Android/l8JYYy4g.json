@@ -1,0 +1,24 @@
+{
+ "id": "5b0e33c3fe15e1a8357aab65",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1479,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5af202d4885b60489848e72d",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P4, unlikely to ever be fixed.",
+   "color": "purple"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/l8JYYy4g",
+ "data": {
+  "system_settings": "Samsung Galaxy S9, Android 8.0 (Marshmallow)",
+  "client_settings": "Android Alpha 6.8.7",
+  "actual_result": "The attached inconsistency is observed",
+  "expected_result": "The notification bar and Guild/Channel Selecter are Flush",
+  "short_description": "Notification Bar and Discord Sidebar 1px Difference",
+  "steps_to_repro": "- Locate where the top of guild selector and the channel list (friends list) meet - Locate this same point on the notification bar"
+ }
+}

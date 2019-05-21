@@ -1,0 +1,30 @@
+{
+ "id": "5b5b950aa16278ede26fc05b",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 856,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5UkH90U7",
+ "data": {
+  "system_settings": "iPhone X, iOS 12 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.6 (6095)",
+  "actual_result": "The emoji category bar is partially covered by the home indicator and screen corners making it hard to select some of the categories",
+  "expected_result": "The emoji category bar should be padded to float above the home indicator area like other parts of the app",
+  "short_description": "Emoji category bar gets obstructed by the iPhone X home indicator",
+  "steps_to_repro": "- Tap and hold on any message - Tap Add Reaction - Tap Search to dismiss the keyboard"
+ }
+}

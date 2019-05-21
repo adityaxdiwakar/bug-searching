@@ -1,0 +1,30 @@
+{
+ "id": "5ae4e97842be70bd8110052b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1904,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YPArDlMW",
+ "data": {
+  "system_settings": "MS Windows 10 Pro x64 (v1709)",
+  "client_settings": "Canary 14281",
+  "actual_result": "If the \"member profile\" is too high and touch the upper part of the window, it get stucks",
+  "expected_result": "The \"member profile should disapear\" when",
+  "short_description": "When a \"member profile\" is shown (from the server memberlist) from a member that has a rich presence activity if the window is to small, the \"member profile\" gets stuck",
+  "steps_to_repro": "- Reduce your window size - Click on any person that has a rich presence activity at the top of the memberlist - Resize your window to full screen"
+ }
+}

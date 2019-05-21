@@ -1,0 +1,24 @@
+{
+ "id": "5b5beedf5cfac6e09268c996",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2463,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0tXdKJ6I",
+ "data": {
+  "system_settings": "iOS 12 (PTB #3)",
+  "client_settings": "Safari from iOS 12 PTB 3",
+  "actual_result": "You get left at discordapp . com / developers, which is a blank screen",
+  "expected_result": "You get redirected to discordapp . com / developers/applications",
+  "short_description": "[iOS WEBSITE BUG] Discord Developer Portal Redirect after login is broken",
+  "steps_to_repro": "- log out of discord on mobile browser- go to discordapp . com- click \"developer portal\" on the dropdown menu- sign in"
+ }
+}

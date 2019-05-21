@@ -1,0 +1,30 @@
+{
+ "id": "5bca443a8161e033ac87908c",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 3237,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IdJKjGYJ",
+ "data": {
+  "system_settings": "Firefox Nightly 64.0a1 (2018-10-19), macOS 10.14.0 (Mojave)",
+  "client_settings": "This applies to the documentation site, N/A",
+  "actual_result": "The `!wumpus` and `Log in with Discord` text is added within the page at a place it presumably shouldn't be.",
+  "expected_result": "This text wouldn't appear randomly within the page.",
+  "short_description": "`!wumpus` and `Log in with Discord` are appended, (seemingly randomly?), to a part of the docs page.",
+  "steps_to_repro": "- Go to the intro page () - Using the sidebar, go to the Rich Presence Best Practices page () - Look for some text within the page that says `!wumpus` and `Log in with Discord`"
+ }
+}

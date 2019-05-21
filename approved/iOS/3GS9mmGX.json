@@ -1,0 +1,24 @@
+{
+ "id": "5b87f52f06d4a14063340cb3",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 958,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3GS9mmGX",
+ "data": {
+  "system_settings": "iPad Air 2, iOS 12 Public Beta 9",
+  "client_settings": "TestFlight 2.3.7 (6968)",
+  "actual_result": "For 70:30 split view the member list is completely blank, for 50:50 and 30:70 cut off.",
+  "expected_result": "The member list should be displayed without any visual issues (being cut off, not shown, etc.)",
+  "short_description": "[iPad only] Opening member list in Split View mode shows it blank or cut off",
+  "steps_to_repro": "- Go to any text channel - Force close Discord (close it via the app switcher) - Go back to Discord - Open another app in split view mode (size doesn't matter) - Now swipe left to open the member list - Observe it"
+ }
+}

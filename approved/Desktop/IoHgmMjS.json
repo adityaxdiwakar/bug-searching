@@ -1,0 +1,24 @@
+{
+ "id": "59bf0df9430e7526dc0da5ef",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1163,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IoHgmMjS",
+ "data": {
+  "system_settings": "Windows 7 Professional x64",
+  "client_settings": "Discord Stable 0.0.298",
+  "actual_result": "The padding remains the same, as if the second line didn't even exist. This fixes itself halfway down the line.",
+  "expected_result": "The top/bottom padding on the message bar will be properly adjusted to accomodate the new line",
+  "short_description": "Filling the message bar with a single character for 1.5 lines causes the top/bottom padding to be broken",
+  "steps_to_repro": "- Click the message bar, in any channel you have the permission to do so - Hold shift (or turn on Caps Lock) - Hold down any of the letter keys (A, B, C, etc.) - Observe the padding when a new line is started"
+ }
+}

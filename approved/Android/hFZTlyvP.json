@@ -1,0 +1,24 @@
+{
+ "id": "5af251db9906a17a41e1a134",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1387,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hFZTlyvP",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "664",
+  "actual_result": "Discord acts as if it is constantly losing connection even if it doesn't say \"connecting\" and even if your connection to the internet is perfectly fine",
+  "expected_result": "Discord functions as you'd expect",
+  "short_description": "Connection issues on 664",
+  "steps_to_repro": "- update to 664 - load Discord - notice name colors aren't loading, Discord loses connection and then reestablishes it and messages flash randomly"
+ }
+}

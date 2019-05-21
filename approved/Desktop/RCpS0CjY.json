@@ -1,0 +1,23 @@
+{
+ "id": "58aee32eef3f3d21a08f743f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 396,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RCpS0CjY",
+ "data": {
+  "system_settings": " Win 10 x64, Latest Canary",
+  "actual_result": "Preview does not match and is misleading",
+  "expected_result": "Image preview should match the result after upload.",
+  "short_description": "Discord Avatar upload preview incorrectly scales GIFs rather than cropping them",
+  "steps_to_repro": "- Open User Settings - Click to upload a new avatar - Select a GIF that has a longer width than height or vice versa ( Test Images: http://i.imgur.com/b6Gf3rK.gif / http://i.imgur.com/F44L9Nv.gif )  - Upload said GIF and it will correctly display, despite the preview image. "
+ }
+}

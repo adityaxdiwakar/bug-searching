@@ -1,0 +1,30 @@
+{
+ "id": "5aeebe428d1ee3755ebb5246",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 720,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/h09p6PAs",
+ "data": {
+  "system_settings": "iphone 5s ios 11.3.1",
+  "client_settings": "2.3.1",
+  "actual_result": "it still exists and telling users that it\u2019s oversize.",
+  "expected_result": "message warning that\u2019s its over the limited should be gone after you click save.",
+  "short_description": "Message that suggest server name is over size appears although the name isn\u2019t",
+  "steps_to_repro": "- create a server with random name, open the server and start editing for a new name, type long server name over 100 characters and press save, message saying that it must exist in between 2-100 characters appears. -delete characters and press save -message still appears"
+ }
+}

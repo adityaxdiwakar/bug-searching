@@ -1,0 +1,30 @@
+{
+ "id": "5ba289aacc540254d03d373b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3008,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LiXLZ6MX",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 23837",
+  "actual_result": "There is a \"Time Played\" segment, it might not always show, can require multiple purchases to successfully reproduce",
+  "expected_result": "It doesn't show time played since Nitro doesn't have that",
+  "short_description": "Nitro purchases in the billing tab show up with a  \"Time Played\" [Monthly option only]",
+  "steps_to_repro": "- Have Nitro purchased with the monthly option - Go to the Billing tab - Expand one of the purchases made with the monthly option and that it's refund eligibilty has expired - The purchase must be expired, that means you must not have Nitro from that purchase anymore - Observe what it says next to \"Purchase Date\""
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bce49be9bb405646fd3f753",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2221,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QM5cquIV",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.7.8",
+  "actual_result": "The notification is \"frozen\": it stays on screen forever until you manually close it",
+  "expected_result": "Nothing should happen",
+  "short_description": "Can retain an in-app notification by swiping down on it",
+  "steps_to_repro": "- Receive an in-app notification  - Hold your finger on it and swipe down"
+ }
+}

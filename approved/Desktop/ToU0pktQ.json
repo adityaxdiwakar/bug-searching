@@ -1,0 +1,30 @@
+{
+ "id": "5c139d9917c37464429150dd",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 3495,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ToU0pktQ",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1809)",
+  "client_settings": "Discord Canary 0.0.224 (29653) discord_overlay2 version 60",
+  "actual_result": "No overlay",
+  "expected_result": "There should be a pretty overlay. \u2728",
+  "short_description": "[Overlay] The overlay is completely broken if you log out and in and it doesn't render keybinds or the overlay itself besides the QS.",
+  "steps_to_repro": "- Log out - Log back in to your account - Start a game - Open your overlay with your keybind - Observe how where it says \"ESC\" is just \"???\"  also there is really no overlay besides that the client gets bit darkened.\u200b"
+ }
+}

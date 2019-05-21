@@ -1,0 +1,16 @@
+{
+ "id": "58d14747ec29d733c1af41d1",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 313,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/I6leRhwn",
+ "data": {
+  "system_settings": " Android 7.1.1 Discord 3.5.3",
+  "actual_result": "@invalid-user is mentioned on Android client",
+  "expected_result": "@webhookusername is mentioned, as per desktop client",
+  "short_description": "Mentioning webhooks produces @invalid-user on mobile",
+  "steps_to_repro": "- Execute a webhook - Have a bot user mention the webhook user "
+ }
+}

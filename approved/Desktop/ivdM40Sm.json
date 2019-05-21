@@ -1,0 +1,24 @@
+{
+ "id": "59c382c29bd75a59ed472a99",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1177,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ivdM40Sm",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord windows desktop client",
+  "actual_result": "It does not wrap it, and instead a few characters are cut off",
+  "expected_result": "It wraps antidisestablishmentarianism correctly",
+  "short_description": "Word wrapping failure with text after a code block",
+  "steps_to_repro": "- Have monitor on 1440x900 resolution - Have discord fullscreen on that - Enable compact mode on Discord - Type in a codeblock, and then an amount of text after it, and it will fail to wordwrap towards the end sometimes - My test phrase: This phrase might just run off of the page because it's a bit longer than stuff that gets discord antidisestablishmentarianism display - Put that after an empty or even full code block, but on the same line as the \\`\\`\\`"
+ }
+}

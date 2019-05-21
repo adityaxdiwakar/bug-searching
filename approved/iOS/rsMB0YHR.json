@@ -1,0 +1,30 @@
+{
+ "id": "5a352b9a4ac05727b5cc7104",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 458,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rsMB0YHR",
+ "data": {
+  "system_settings": "iPhone 5s, iOS 10.0.1",
+  "client_settings": "2.1.2",
+  "actual_result": "The box around the override doesn't expand, making the text overlap existing overrides.",
+  "expected_result": "The box seperating the overrides should expand, making space for the category with a long name.",
+  "short_description": "Notification Overrides' text overlap, if category name is too long.",
+  "steps_to_repro": "- Create a new category with at least 20 characters. - Create a new text channel in that category. Length of name is not important. - Go to Notification Settings. - Scroll down to Notification Overrides. - Create an override for that text channel, that is in the category."
+ }
+}

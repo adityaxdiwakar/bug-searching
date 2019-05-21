@@ -1,0 +1,17 @@
+{
+ "id": "5bf76541cf45dc854bccfb71",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2348,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LShOz4Br",
+ "data": {
+  "system_settings": "Google Pixel 2 XL, Android 9.0.0 (November Patch)",
+  "client_settings": "Discord Alpha 8.0.0 [800]",
+  "actual_result": "The app crashes",
+  "expected_result": "You should be taken to the add friend page",
+  "short_description": "[Android 9.0 Specific] Pressing on the Add Friend button crashes application",
+  "steps_to_repro": "- Try to add a friend - Observe"
+ }
+}

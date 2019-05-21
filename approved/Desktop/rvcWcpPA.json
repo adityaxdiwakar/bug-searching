@@ -1,0 +1,17 @@
+{
+ "id": "5b536b99608338efdd3660f1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2397,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rvcWcpPA",
+ "data": {
+  "system_settings": "Windows 7 SP 1",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 19429, Version Hash: f643c55ccbe40c6fa080eb0e57ff42dbe89bbe87",
+  "actual_result": "Edit menu comes up in the channel and in the search results section (not clickable btw)",
+  "expected_result": "Edit menu should come up only in the channel",
+  "short_description": "Edit menu appears in search",
+  "steps_to_repro": "- Find a message in search. - Without closing the search results section try to edit the message you've found"
+ }
+}

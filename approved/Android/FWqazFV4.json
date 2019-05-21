@@ -1,0 +1,30 @@
+{
+ "id": "5b7a86a2f8a50367295f317d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1855,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FWqazFV4",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 738",
+  "actual_result": "It's in the second position in the server list and when you force close and reopen Discord, it moves back to top again.",
+  "expected_result": "It's in the top of the server list.",
+  "short_description": "When you make changes in role overrides or create new roles (or basically anything related to roles) in a freshly created server just after you join a new server, the server moves to the second place in the server list and when you close and reopen Discord, it moves back to the top.",
+  "steps_to_repro": "- Make sure that you have sorted your server list at least once (ever). - Join a server. - Create a new server. - Open Server settings>Roles. - Keep on spamming the + button until it creates too many roles. - Exit out the server settings. - Observe the position of the server."
+ }
+}

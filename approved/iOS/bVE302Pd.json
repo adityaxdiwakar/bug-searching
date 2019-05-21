@@ -1,0 +1,30 @@
+{
+ "id": "59b712df977234c8047f2d6f",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 327,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bVE302Pd",
+ "data": {
+  "system_settings": "Ipad Air 2, IOS 10.3.2",
+  "client_settings": "Discord for IOS 1.9.0, Ipad Air 2",
+  "actual_result": "Notifications from closed account",
+  "expected_result": "Block/Disable all notifications in the account",
+  "short_description": "When your account is closed you still get all notification alerts on ios so you can still read all incoming messages",
+  "steps_to_repro": "- Create account, join some servers and allow Discord to send notifications - Get Discord to close your account and watch the notifications - etc"
+ }
+}

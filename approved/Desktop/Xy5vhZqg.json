@@ -1,0 +1,30 @@
+{
+ "id": "5af1bd37d37caf2e8abb2f39",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1951,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Xy5vhZqg",
+ "data": {
+  "system_settings": "Win 10 64-bit, x64-based processor, Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz, 8GB RAM",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 14651, Version Hash: 05273b109bbf775536938c01a1ba710d1c61d86c",
+  "actual_result": "The warning doesn't close, but instead a new one is brought up, and you can still type while having the warning on your screen",
+  "expected_result": "The warning closes and it lets you edit again like it does when sending a message(instead of editing)",
+  "short_description": "Pressing enter while having more than 2000 characters while editing a comment brings up a new warning instead of closing the last one",
+  "steps_to_repro": "- Type a message - Send the message - Edit the contents so it has more than 2000 characters - Press enter or click save - Press enter again"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5be70addd1a0433b812d9ce5",
+ "closed": false,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 1159,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/u0z5RBLm",
+ "data": {
+  "system_settings": "iPhone SE, iOS 12.1",
+  "client_settings": "TestFlight 2.4.0",
+  "actual_result": "A message is posted with a link to the first webpage",
+  "expected_result": "A message is posted with a link to the new webpage",
+  "short_description": "Sharing Link from In-App Browser Only Shares Link to First Page",
+  "steps_to_repro": "- Tap on a message with a link to open the in-app browser (mine was a youtube video, but seems to happen in general) - Tap on a link in that webpage, such as a recommended video on youtube - Tap the share button at the bottom of the browser, and post the link"
+ }
+}

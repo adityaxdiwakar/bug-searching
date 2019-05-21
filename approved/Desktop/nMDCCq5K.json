@@ -1,0 +1,15 @@
+{
+ "id": "5855c36fcd9adf503e2870ec",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 257,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nMDCCq5K",
+ "data": {
+  "actual_result": "Clyde only sends the message once per session, you'd have to restart discord for him to send it again.",
+  "expected_result": "Clyde messages you once again after trying to use the emoji.",
+  "short_description": "Clyde only shows the \"That emoji you just used doesn't work here because it's from a different server.\" message only once per session, unlike when the \"don't share a server with the recipient or you disabled direct messages on your shared server, recipient is only accepting direct messages from friends, or you were blocked by the recipient.\" shows up, it can show up as many times as you try.",
+  "steps_to_repro": "- Use an emoji from another server and see the message clyde sent - send an emoji from another server again. "
+ }
+}

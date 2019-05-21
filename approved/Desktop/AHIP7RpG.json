@@ -1,0 +1,17 @@
+{
+ "id": "5aeb84500ceebe94b80387e4",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1931,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AHIP7RpG",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Discord Canary, 14558",
+  "actual_result": "Part of the profile picture shows up to the right of the user's name",
+  "expected_result": "You see part of the profile picture and the name only",
+  "short_description": "Extra profile picture in mutual friends tab",
+  "steps_to_repro": "- Go to the profile of someone you have multiple mutual friends with (i'd say 8 or more so that you can scroll) - Make sure the bottom user is slightly visible (where you can see part of the profile picture) - Observe to the right of the user's name"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58a4be650b2690c3571e084a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 384,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/weRAfsu0",
+ "data": {
+  "system_settings": " Windows 8.1x64, Canary 0.0.153",
+  "actual_result": "It doesn't, and only refreshing Discord will show it",
+  "expected_result": "Steam appears as a choosable game/is already detected",
+  "short_description": "Game Detection not Detecting Some Processes Opened After Discord is Opened Up",
+  "steps_to_repro": "- Have Discord run at launch - Open up Steam "
+ }
+}

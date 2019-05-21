@@ -1,0 +1,30 @@
+{
+ "id": "5b0887469d20af9b151ddee6",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 771,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6mo5W7rM",
+ "data": {
+  "system_settings": "iPhone 8, iOS 11.3",
+  "client_settings": "TestFlight 2.3.2 (4760)",
+  "actual_result": "it writes \u201cokay\u201d on english language.",
+  "expected_result": "\u201cokay\u201d button should be translated to your language.",
+  "short_description": "Disabled server sign with changed language",
+  "steps_to_repro": "- 1) change language - 2) find disabled server - 3) tap on it."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b62d694c24fdc5586714f3e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2600,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Az7QrMnI",
+ "data": {
+  "system_settings": "Windows 10 1803 x64",
+  "client_settings": "Discord Canary 20540",
+  "actual_result": "It's reset to previous window size",
+  "expected_result": "Discord remember last text chat window size",
+  "short_description": "Discord does not remember text chat window size",
+  "steps_to_repro": "- Open Discord overlay text chat - Reposition (and/or resize) text chat window - After resize, close overlay and reopen it - NOTE: If this does not reproduce, try it again a few times (with different position and size combination)"
+ }
+}

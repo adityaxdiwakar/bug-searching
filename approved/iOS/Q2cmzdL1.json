@@ -1,0 +1,17 @@
+{
+ "id": "5b9b4667d3e6022449e8b5d3",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 1012,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Q2cmzdL1",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12",
+  "client_settings": "TestFlight 2.3.8 (7167)",
+  "actual_result": "Typing indicator is placed after the colon",
+  "expected_result": "Typing indicator is at the very start of the message box",
+  "short_description": "Typing out part of an emoji, closing the keyboard, and tapping the top of the message box misplaces typing indicator",
+  "steps_to_repro": "- Type a colon followed by a few letters of an emoji - Close out of the keyboard - Tap the top of the message box to bring up the keyboard - Observe the position of the typing indicator"
+ }
+}

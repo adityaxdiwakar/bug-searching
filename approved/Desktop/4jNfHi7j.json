@@ -1,0 +1,17 @@
+{
+ "id": "59e682fbd731e445f2678f63",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1272,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4jNfHi7j",
+ "data": {
+  "system_settings": "windows 10 64bit",
+  "client_settings": "canary Build Number: 5972",
+  "actual_result": "It is in the top right",
+  "expected_result": "The help tip is centred",
+  "short_description": "When there is no channels in a server the help tip is not centred in the middle of the screen",
+  "steps_to_repro": "- Create a server with no channels in it - Look at background help tip"
+ }
+}

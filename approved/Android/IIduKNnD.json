@@ -1,0 +1,30 @@
+{
+ "id": "5a98d29ecae2f05dd5e5c73b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1156,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IIduKNnD",
+ "data": {
+  "system_settings": "Moto G5 Plus Android 7.0",
+  "client_settings": "Discord Alpha 6.2.9",
+  "actual_result": "It is inserted into a channel in which you don't have permissions for. However, you are not able to send such GIF in the channel.",
+  "expected_result": "The GIF does not get inserted into the channel.",
+  "short_description": "Inputting a GIF into the search allows adds the GIF to a channel in which Send Message permissions are not granted.",
+  "steps_to_repro": "- Go to a channel in which you are not able to send messages - Open the search menu in the channel -Using Google Keyboard insert a GIF"
+ }
+}

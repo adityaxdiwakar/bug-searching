@@ -1,0 +1,30 @@
+{
+ "id": "5b934e995334e570e4125362",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1946,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/x9y9ltav",
+ "data": {
+  "system_settings": "Honor 9, Android 8.0.0",
+  "client_settings": "Discord Alpha 7.4.7",
+  "actual_result": "The text is highlighted and stays so even if you interact with something else.",
+  "expected_result": "The message doesn't have any highlight since you're not clicking on it anymore.",
+  "short_description": "Clicking on the \"Server status\" link in the connection problems message will cause the link to stay highlighted if you don't follow it.",
+  "steps_to_repro": "- Get the connection problems pop-up. (Switching to 2G only on your phone settings and restarting Discord should trigger it) - Click on \"Server status\" and then click out."
+ }
+}

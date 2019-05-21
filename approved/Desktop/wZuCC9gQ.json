@@ -1,0 +1,17 @@
+{
+ "id": "59e79b25d74c436f515ba260",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1288,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wZuCC9gQ",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (Build 1607)",
+  "client_settings": "Discord Canary 0.0.165 (Build 6015)",
+  "actual_result": "it closes down the dev tools and scrolls the serverlist all the way to the top",
+  "expected_result": "It should close the dev tools and not scroll the serverlist all the to the top",
+  "short_description": "If you close down the chromium dev tool window, it will scroll your serverlist all the way to the top",
+  "steps_to_repro": "- Scroll down in your server list a bit - Open the chromium dev tools (CTRL + SHIFT + I) - Press the \"x\" to close it down"
+ }
+}

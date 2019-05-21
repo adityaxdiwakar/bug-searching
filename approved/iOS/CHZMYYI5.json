@@ -1,0 +1,34 @@
+{
+ "id": "58696ff1540521d3d24540b1",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 150,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "5a5e61490661fc1c89f71a0a",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CHZMYYI5",
+ "data": {
+  "actual_result": "You are unable to talk or hear anyone until you leave and rejoin the voice channel",
+  "expected_result": "You can talk as normal",
+  "short_description": "Opening Siri in a voice channel blocks you from talking until you leave and rejoin the voice channel",
+  "steps_to_repro": "- Go in a voice channel with your mic enabled - Open and close Siri"
+ }
+}

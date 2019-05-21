@@ -1,0 +1,17 @@
+{
+ "id": "5b519c87b5b027ce3c40f567",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2357,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/BeycKAUk",
+ "data": {
+  "system_settings": "iOS 11.4.1, iPhone 7",
+  "client_settings": "Stable (mobile)",
+  "actual_result": "The value you copied is never actually copied, so you either paste in something that is \u201cold\u201d on your clipboard, or you don\u2019t paste anything at all",
+  "expected_result": "The value you copied on the developers website should be pasted into the text channel typing box",
+  "short_description": "Copying in the app/on the developer website doesn\u2019t actually copy",
+  "steps_to_repro": "- Go to the discord developers website, make sure you are using discord\u2019s web browser (on mobile) - Go to applications and open up one - Click one of the copy buttons - Exit out of the browser, back to discord - Paste into a text channel"
+ }
+}

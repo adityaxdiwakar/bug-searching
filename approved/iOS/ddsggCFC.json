@@ -1,0 +1,36 @@
+{
+ "id": "59f07b7f76665f38c47d3f47",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 386,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfafc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod can reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ddsggCFC",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.0.3 & iPad Air 2 with iOS 11.1 PB 5",
+  "client_settings": "TestFlight 1.9.3 (1286)",
+  "actual_result": "It automatically scrolls up a bit and changes chat position.",
+  "expected_result": "The chat position should stay when adding a reaction.",
+  "short_description": "Chat scrolls up a bit when adding a reaction",
+  "steps_to_repro": "- Find a very long (the longer the better) message with some reactions - Scroll a bit in this channel (bug doesn\u2019t work when you are at the end of the chat) - Try to add a reaction by clicking on present reactions (I would recommend to try it with the first row reactions)"
+ }
+}

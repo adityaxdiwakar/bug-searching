@@ -1,0 +1,15 @@
+{
+ "id": "581bdb5447fc9d79be2cacb6",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 112,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mqNtf617",
+ "data": {
+  "actual_result": "Folder attempts to upload and gets stuck uploading",
+  "expected_result": "Folder is uploaded or the file size limit is reached and the file doesn't attempt to upload",
+  "short_description": "Uploading folders doesn't work and causes the uploading progress to be stuck on screen",
+  "steps_to_repro": "- Drag and Drop a folder onto discord - Click upload "
+ }
+}

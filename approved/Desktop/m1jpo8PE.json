@@ -1,0 +1,22 @@
+{
+ "id": "587e387df95519bc08a77e91",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 334,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/m1jpo8PE",
+ "data": {
+  "actual_result": "The textbox only displays a single line of text and must be scrolled with the cursor keys",
+  "expected_result": "The textbox should resize to fit the newly wrapped text",
+  "short_description": "Textbox does not resize correctly",
+  "steps_to_repro": "- Type a message with wide characters (\uff46\uff55\uff4c\uff4c\uff57\uff49\uff44\uff54\uff48\u3000\uff43\uff48\uff41\uff52\uff41\uff43\uff54\uff45\uff52\uff53 or just lots of wide capital letters), enough to fill about a line of the textbox - Continue typing until the text wraps "
+ }
+}

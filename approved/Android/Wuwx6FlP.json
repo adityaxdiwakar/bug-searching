@@ -1,0 +1,30 @@
+{
+ "id": "5b9374131544df70794c412a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1947,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Wuwx6FlP",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 747",
+  "actual_result": "They are in the same shades of black. (If you're using light theme like I normally do, the bar will be in white).",
+  "expected_result": "Like on desktop, the button and the background of the message should be in different shades of black.",
+  "short_description": "The bar/button/header that says the number of blocked messages is of the same shade of black as the message when expanded on Android whereas it's of a different shade of black when expanded on desktop.",
+  "steps_to_repro": "- Block someone. - Find a message sent by them and expand it by clicking the \"<number> Blocked messages\" button. - Observe the shade of black used as background on the message and the one used as background on the button."
+ }
+}

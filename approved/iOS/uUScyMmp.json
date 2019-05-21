@@ -1,0 +1,30 @@
+{
+ "id": "5acea9db746d74466657846b",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 673,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uUScyMmp",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.3 & iPad Air 2, iOS 11.4 PB 1",
+  "client_settings": "TestFlight 2.3.0 (3740)",
+  "actual_result": "You will always see the same avatar/icon (the Discord logo) for the users and user with now own avatar/icon.",
+  "expected_result": "The correct server icon und user avatar should be shown for the share extension",
+  "short_description": "Share extension: Wrong default server icon and user avatar shown",
+  "steps_to_repro": "- Open any iOS app (e.g. the Photos app) that has the ability to share something with other apps - Select something (e.g. a photo) - Click on the share button and choose Discord - Tap on `Share in` and search for a server that has no own icon but the default one - Also select Direct Messages, tap on `Share to` and search for users with default avatars"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "5a885967a435b6c91e36fd71",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1127,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a860cff9df9dc4700682cdd",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "text chat",
+   "color": null
+  },
+  {
+   "id": "5a860cfc8dde10262a3bb6cd",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Client side",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mYn66wN7",
+ "data": {
+  "system_settings": "Moto G5+, Android 7.0; January 1, 2018 security patch",
+  "client_settings": "Android Alpha 6.2.6 (626)",
+  "actual_result": "it's in English",
+  "expected_result": "it should be translated",
+  "short_description": "Missing translation if locked out of typing",
+  "steps_to_repro": "- Go switch translation to a language with an approved translation for the permission send messages (eg Dutch) - Go to a channel where you're locked out of typing - See the text"
+ }
+}

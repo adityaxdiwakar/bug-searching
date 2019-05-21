@@ -1,0 +1,24 @@
+{
+ "id": "5b80a77f1518ef3fedfac97b",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 944,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I36UONX2",
+ "data": {
+  "system_settings": "iPhone 6 iOS 11.4.1",
+  "client_settings": "Discord TestFlight 2.3.7 (6930)",
+  "actual_result": "Attempts to search, but doesn\u2019t work",
+  "expected_result": "Error Message for WiFi being off",
+  "short_description": "Nearby friends attempts to search with WiFi off, but doesn\u2019t work",
+  "steps_to_repro": "- Go to add friends page - Turn off WiFi (and mobile/cellular data) - Press find friends"
+ }
+}

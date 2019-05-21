@@ -1,0 +1,30 @@
+{
+ "id": "5b9992618d29834acda6949d",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2976,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VxTg5YID",
+ "data": {
+  "system_settings": "Windows 10 64x (1803)",
+  "client_settings": "Canary 23506 (Client build 0.0.211)",
+  "actual_result": "Mouse is unlocked from Window as if Overlay were to open. (Clicking anywhere goes back to game)",
+  "expected_result": "Nothing",
+  "short_description": "[Overlay] Not hitting the Reload overlay after the Overlay crashes, hitting the overlay still unlocks the mouse as if there was an overlay.",
+  "steps_to_repro": "- Crash Overlay (Effective method check Bug 19502) - Leave the Reload overlay to timeout (roughly 5-10 seconds) - Try to open Overlay (I would HIGHLY recommend a FPS where it's noticeable when the mouse is exited, I used Rocket league in this example)"
+ }
+}

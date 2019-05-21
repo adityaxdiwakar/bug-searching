@@ -1,0 +1,17 @@
+{
+ "id": "5b244663e6f424b72df9f4c1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2145,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kDPnsHqK",
+ "data": {
+  "system_settings": "MacBook Pro (Retina, 13-inch, Early 2015) - macOS Majave 10.14 Beta (18A293u)",
+  "client_settings": "Canary 16727",
+  "actual_result": "Discord Crash",
+  "expected_result": "Update download successfully without crashine",
+  "short_description": "[macOS Mojave Only] Canary crashed when trying to download update.",
+  "steps_to_repro": "- get macOS Mojave - turn on screen saver - wait for an update to discord canary - observe"
+ }
+}

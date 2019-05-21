@@ -1,0 +1,17 @@
+{
+ "id": "59296f3bd3081fa12187816a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 686,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hC8ZEkOv",
+ "data": {
+  "system_settings": "Microsoft Windows Version 1703 (15063.296)",
+  "client_settings": "Windows Desktop Stable 0.0.297",
+  "actual_result": "The last translation in the bottom \"Embed this HTML on your [...]\" isn't translted even if on Crowdin's Project the translation is approved since 2 years ago",
+  "expected_result": "This exact translation should be displayed : \"Int\u00e9grez ce code HTML sur votre site web afin d'utiliser le widget pr\u00e9-construit de Discord. Si vous avez acc\u00e8s aux utilisateurs de votre site, vous pouvez ajouter &username= dans le code.\"",
+  "short_description": "An approved translation since 2 years ago isn't applied on Discord French",
+  "steps_to_repro": "- Go to User Settings - Go to Language - Set French Language - Go to any server settings - Go to Widget"
+ }
+}

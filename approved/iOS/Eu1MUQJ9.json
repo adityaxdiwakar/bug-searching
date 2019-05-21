@@ -1,0 +1,17 @@
+{
+ "id": "5b72292e73f12275d447ca68",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 904,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Eu1MUQJ9",
+ "data": {
+  "system_settings": "iPhone 6, iOS 10.2.1",
+  "client_settings": "Testflight 2.3.6 (6795)",
+  "actual_result": "Discord crashes",
+  "expected_result": "Discord should work fine",
+  "short_description": "Discord crashes after clicking in a chat or waiting a bit",
+  "steps_to_repro": "- Restart your app - Try to dm someone and click done - Your keyboard will hover, now hit close - Click at a channel or keep on changing channels"
+ }
+}

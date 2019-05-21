@@ -1,0 +1,22 @@
+{
+ "id": "58784854f0d671b67c0cfe76",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 325,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/260E73zO",
+ "data": {
+  "actual_result": "The mute tick-box only displays in a server's voice channel",
+  "expected_result": "The mute tick-box displays in all instances of the context menu",
+  "short_description": "Cannot toggle personal mute in DMs",
+  "steps_to_repro": "- Mute (or unmute) user in a server's voice channel - Join a DM call with the user - Right-click user profile to show context menu - The mute tick-box is missing "
+ }
+}

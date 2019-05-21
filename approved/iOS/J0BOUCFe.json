@@ -1,0 +1,24 @@
+{
+ "id": "5bbd325fad97618a4a682130",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1078,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/J0BOUCFe",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8116)",
+  "actual_result": "Some of the text you type gets deleted from your message box",
+  "expected_result": "Nothing happens to the text",
+  "short_description": "Putting Discord in the background for a few minutes while new messages are sent, then coming back and typing, will remove some of the text you\u2019ve typed",
+  "steps_to_repro": "- Open Discord and go to a channel where people are actively sending messages - Put Discord in the background for around 2-3 minutes, and open an app you had open in the background - After the 2-3 minutes have passed, go back to Discord, making sure the app hasn't refreshed from being in the background for too long - Start typing right as you get back to the app, and continue typing up through when Discord loads the messages received while in the background - Observe the text you're typing as the messages load in, but make sure to continue typing, even as the messages are being loaded in"
+ }
+}

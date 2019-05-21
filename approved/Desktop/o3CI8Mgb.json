@@ -1,0 +1,30 @@
+{
+ "id": "5afa19eee33cafde93b6aa3a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1985,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/o3CI8Mgb",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Desktop Canary 15120",
+  "actual_result": "Anyone except you and the people you can see in the Member List show up as offline",
+  "expected_result": "Everyone shows up with the correct status",
+  "short_description": "Members in the recently spoken list while attempting to mention show up as offline despite being online (has to be a big server, and the member cannot be within view in the member list)",
+  "steps_to_repro": "- Enter a big server- Choose someone online you can't see on the Members List (to the right), including above and below view. You cannot have an open DM channel with this user)- Restart Discord- Have this user speak- Type \"@\"- Observe the Mentions List that appears and the user's presence bubble in this list- Click on this user's name in chat"
+ }
+}

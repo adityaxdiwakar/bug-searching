@@ -1,0 +1,30 @@
+{
+ "id": "5a6aa128e83511668dbfd90d",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1585,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ed5QQ5BP",
+ "data": {
+  "system_settings": "Win 10 x64 Latest Version",
+  "client_settings": "Discord Canary, 9918",
+  "actual_result": "You stop hearing the bot",
+  "expected_result": "You keep hearing the bot",
+  "short_description": "You stop hearing bot accounts if you see them leaving voice channels in a different server",
+  "steps_to_repro": "- Join a voice channel in Server 1 and make a bot play a song - Join a voice channel in Server 2 and make the same bot play a song - Go back to Server 1 or stay in Server 2 - Look at other server and make the bot leave VC"
+ }
+}

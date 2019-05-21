@@ -1,0 +1,24 @@
+{
+ "id": "59b37d1cdcfa3d7b5f87757f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1101,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OX5yhVpf",
+ "data": {
+  "system_settings": "Win 10 x64 Build 1607",
+  "client_settings": "Opera Stable 46.0.2597.57 (PGO)",
+  "actual_result": "Image breaks and looks weird",
+  "expected_result": "Image would look correct like it does in the app",
+  "short_description": "Image for \"no friends in common\" is broken on web canary",
+  "steps_to_repro": "- Open someones profile - Go to mutual friends - Observe image"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5c1c50e91b21ca15aeee213e",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1240,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/365WBgJM",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.2 Dev Beta",
+  "client_settings": "TestFlight 2.4.1 (10225)",
+  "actual_result": "The gif icon doesn\u2019t show",
+  "expected_result": "The gif icon should show to indicate that it\u2019s a gif",
+  "short_description": "Gif icon no longer appears for Discord\u2019s cdn gif links",
+  "steps_to_repro": "- Copy the link of a gif, the cdn link, not the website link - Send the link in a channel - Observe the thumbnail for the gif icon"
+ }
+}

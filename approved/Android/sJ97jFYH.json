@@ -1,0 +1,30 @@
+{
+ "id": "5a9b3eb9a8f654cdadba57e6",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1165,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sJ97jFYH",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.3.1",
+  "actual_result": "Sometimes you get throwed back by 20-30 messages, forcing you to scroll up like crazy to retrieve the latest meme you were viewing",
+  "expected_result": "You should be able to continue reading your memes without interruption",
+  "short_description": "When you scroll up very slowly through a channel with a lot of images, sometimes you will suddenly be shooted back down by a few messages",
+  "steps_to_repro": "- Find a channel with a chat history full of images (in my case a #memes channel) - Scroll up very slowly. Personnally I stop scrolling for 5 seconds per image so I have time to see/read them and laugh a bit on them (if they are dank memes) - Continue for a few minutes, you should start observing it soon after the \"you are viewing older messages\" appears."
+ }
+}

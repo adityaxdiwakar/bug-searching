@@ -1,0 +1,30 @@
+{
+ "id": "5938722460e1a085e209207c",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 257,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UPXR4wp9",
+ "data": {
+  "system_settings": "iOS 10.3.2 iPhone 6 and iPhone 5",
+  "client_settings": "iOS 1.8.7",
+  "actual_result": "Client crashes",
+  "expected_result": "Menu should allow you to sort channels",
+  "short_description": "Discord crashes a few seconds after the sort channels button is pressed",
+  "steps_to_repro": "- Open server settings  - Go into the channel menu - Press sort- Wait a few seconds"
+ }
+}

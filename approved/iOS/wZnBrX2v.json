@@ -1,0 +1,15 @@
+{
+ "id": "5823f41b59fa7c6f383c41d7",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 67,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wZnBrX2v",
+ "data": {
+  "actual_result": "Upload hangs, does not resume Settings: iPhone 6s Plus,  iOS 10.1.1 Latest Testflight 1.7.8 (43)",
+  "expected_result": "Upload resumes or restarts",
+  "short_description": "Upload fails to resume on network connection change",
+  "steps_to_repro": "- 1) Start upload and interupt the connection - 2)Restore the connection or provide alternative (Wifi connection is lost and celluar takes its place) "
+ }
+}

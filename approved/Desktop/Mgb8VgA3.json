@@ -1,0 +1,30 @@
+{
+ "id": "5bd879a63ebf0f6fe14bcec0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3313,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Mgb8VgA3",
+ "data": {
+  "system_settings": "Windows 10 home 64 bit version 1803",
+  "client_settings": "Stable 27065",
+  "actual_result": "the warning get stuck",
+  "expected_result": "the warning should be removable by clicking on the X since there is no call to reconnect to",
+  "short_description": "[Stable] `connected at another location` warning gets stuck after leaving the group/server while in call",
+  "steps_to_repro": "- join the same call using a IOS/Android device - notice how a *dismissible* warning shows on top of your screen with the option to reconnect - leave the GDM/server without leaving the call on the other device - try to remove the warning by clicking on reconnect or the X in the top right corner"
+ }
+}

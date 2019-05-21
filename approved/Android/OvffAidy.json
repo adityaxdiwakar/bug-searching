@@ -1,0 +1,30 @@
+{
+ "id": "5b8758708b5be1324ed9ff69",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1900,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OvffAidy",
+ "data": {
+  "system_settings": "Samsung galaxy S9+ Android 8.0.0",
+  "client_settings": "Android Alpha 7.4.0",
+  "actual_result": "The red mention counter shows up but you cant find the mention anywhere",
+  "expected_result": "Group shows up where new dms show up and you get a red mention",
+  "short_description": "Mentions from muted groups dont show up in server list",
+  "steps_to_repro": "- Create a group dm - Mute it - Have someone mention you"
+ }
+}

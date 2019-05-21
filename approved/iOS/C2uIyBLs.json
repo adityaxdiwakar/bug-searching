@@ -1,0 +1,17 @@
+{
+ "id": "5af345b508dd7b542d4582c3",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 728,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/C2uIyBLs",
+ "data": {
+  "system_settings": "iPhone X iOS 11.1.2",
+  "client_settings": "2.3.2 (4280)",
+  "actual_result": "Typed letters randomly get deleted. Even backspace keys won't register properly.",
+  "expected_result": "Let's you type and search the emoji.",
+  "short_description": "Keyboard input does not work in reaction search.",
+  "steps_to_repro": "- Long press a message and choose Add Reactions - Try to search emoji"
+ }
+}

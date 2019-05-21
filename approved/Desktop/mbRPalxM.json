@@ -1,0 +1,30 @@
+{
+ "id": "5ad1172cb017632edee220b1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1843,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mbRPalxM",
+ "data": {
+  "system_settings": "Windows Pro 1009 x64 and iPhone 6 iOS 10.2.1",
+  "client_settings": "Canary 13548",
+  "actual_result": "You stay in both voice channels while being able to hear and speak, you also show in both voice channels",
+  "expected_result": "You get disconnected from the first device you connected",
+  "short_description": "You can join 2 voice channels at the same time",
+  "steps_to_repro": "- open discord in 2 different devices with the same account - join a voice channel with one of your device - join another voice channel in another guild with the other device - observe"
+ }
+}

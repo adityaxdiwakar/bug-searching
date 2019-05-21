@@ -1,0 +1,24 @@
+{
+ "id": "5937f314f002982571309696",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 727,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tfXbvP21",
+ "data": {
+  "system_settings": "Windows 7 x64 Professional",
+  "client_settings": "Discord Canary 0.0.155",
+  "actual_result": "The tooltip is pushed upwards about 15% of the screen, or 15% downward if you zoom in.",
+  "expected_result": "The tooltip is pushed downward to match up with the buttons",
+  "short_description": "Tooltip moves drastically upward when zooming",
+  "steps_to_repro": "- Hover over the \"Mute\", \"Deafen\", or \"User Settings\" buttons at the bottom. - Use the Ctrl-Subtract key combo to zoom out, WITHOUT moving your mouse."
+ }
+}

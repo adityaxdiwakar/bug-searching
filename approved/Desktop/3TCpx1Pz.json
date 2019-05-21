@@ -1,0 +1,24 @@
+{
+ "id": "5ba2c8088f35a627ec4b3c15",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3009,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3TCpx1Pz",
+ "data": {
+  "system_settings": "Windows 10 Home 64bit, version 1803",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 24174, Version Hash: 97840fe46aaded0f78d61ad5c388582a9118ecb3",
+  "actual_result": "Nothing at all. It stays on whatever it was previously. Even removing all images before adding a new one doesn't work.",
+  "expected_result": "The image should change to the image you opened, aka your profile picture should be updated.",
+  "short_description": "Trying to change your profile picture shows you cannot change the profile picture in any way.",
+  "steps_to_repro": "- Press your cogwheel and click your profile image to change it - try to change it with any other image."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59881c99f7b346ed45a400c5",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 593,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AE2m1O5J",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 4.0.3",
+  "actual_result": "crashes",
+  "expected_result": "opens the invite dialogue",
+  "short_description": "Crashing when clicking on create instant Invite",
+  "steps_to_repro": "- be in a server that allows you to make on Invites - click on create a instant Invite"
+ }
+}

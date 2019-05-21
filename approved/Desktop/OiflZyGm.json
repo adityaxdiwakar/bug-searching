@@ -1,0 +1,24 @@
+{
+ "id": "593d02b2e71908e7a5954a35",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 742,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OiflZyGm",
+ "data": {
+  "system_settings": "Windows 10 x64 bit",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "The module completely vanishes behind the HEX value box.",
+  "expected_result": "The context menu appears over the color selector.",
+  "short_description": "Context Menu appears under the Color Selector.",
+  "steps_to_repro": "- Make a custom HEX for a role - Right click the text entry field"
+ }
+}

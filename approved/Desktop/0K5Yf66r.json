@@ -1,0 +1,16 @@
+{
+ "id": "58f8eaf4425e0c2f7a8f2c27",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 514,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0K5Yf66r",
+ "data": {
+  "system_settings": " Windows 10 x64, Latest Canary",
+  "actual_result": "No button which allows you to transfer ownership of your server",
+  "expected_result": "Transfer Ownership button is found and you can transfer ownership",
+  "short_description": "No option to transfer ownership in new Server Settings menu",
+  "steps_to_repro": "- Have a server in which you're the owner, with at least one other member - Open the server settings menu and go to the Members list - Click on the options menu for the non-owner member and try to find the Transfer Ownership button "
+ }
+}

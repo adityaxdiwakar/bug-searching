@@ -1,0 +1,24 @@
+{
+ "id": "591bc4bc9cf14781434f2276",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 465,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xHsjOYrF",
+ "data": {
+  "system_settings": "Android",
+  "client_settings": "3.8.6",
+  "actual_result": "Nothing happens in both ways, you will only see the invitation pop-up when you close these search screens and return to normal chat.",
+  "expected_result": "You see invitation pop-up right after you clicked the invitation link (in both ways: in search results and in expanded messages)",
+  "short_description": "Search screens lie over invite pop-ups",
+  "steps_to_repro": "- Search for messages with invites to other servers (you can search them with \"<discord.gg>\") and found one (or create them by yourself) - Click the message's invite link in search results - Click the message to jump to it - Click the invite link again - Close the search screens and return to normal chat"
+ }
+}

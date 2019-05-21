@@ -1,0 +1,24 @@
+{
+ "id": "5a4f0a5986d521028479ea0f",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 484,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SNklrMxx",
+ "data": {
+  "system_settings": "iPhone X, iOS 11.2.1",
+  "client_settings": "TestFlight 2.2.0 (2073)",
+  "actual_result": "Both a thumbnail and image are displayed in the embed. Additionally, if the bot/hook included both fields then the image will overwrite both",
+  "expected_result": "The embed should only have a thumbnail or an image displayed",
+  "short_description": "Rich embeds containing either a thumbnail or image will duplicate into the other field",
+  "steps_to_repro": "- Use a bot or webhook to post a rich embed containing a thumbnail OR an image - Observe the embed"
+ }
+}

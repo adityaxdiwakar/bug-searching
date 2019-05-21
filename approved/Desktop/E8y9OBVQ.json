@@ -1,0 +1,23 @@
+{
+ "id": "58c6e21ce72c01ede33e3d64",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 418,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/E8y9OBVQ",
+ "data": {
+  "system_settings": " Windows 8.1 Canary 0.0.153",
+  "actual_result": "You're able to join VC",
+  "expected_result": "Not be able to join VC because the time limit hasn't run out",
+  "short_description": "Having higher verification levels (such as tableflip) doesn't stop people from entering VC",
+  "steps_to_repro": "- Join a server with tableflip enabled - Step 2 - Try to join VC "
+ }
+}

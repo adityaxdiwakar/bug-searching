@@ -1,0 +1,24 @@
+{
+ "id": "59b6ecb23f93e2ae00e64ab7",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 703,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZbZkZJCO",
+ "data": {
+  "system_settings": "Android 4.4.4, Tablet Allview Viva H8 LTE",
+  "client_settings": "Alpha 5.1.4",
+  "actual_result": "The button is white and you cannot see it",
+  "expected_result": "The button to create the category should be a more visible color (black/grey)",
+  "short_description": "The \"done\"/\"create\" category button is invisible",
+  "steps_to_repro": "- Turn on light theme - Create a server - Press the 3 dots that are near the server name/press and hold on server - Select create a category - Observe there's like no button to create the category - (the button is somewhere in the top right corner, but it's invisible)"
+ }
+}

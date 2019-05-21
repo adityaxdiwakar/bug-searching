@@ -1,0 +1,17 @@
+{
+ "id": "5ab688c8943e4daec996cff9",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1226,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IdzUQ1jz",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.4",
+  "actual_result": "Infinite loading",
+  "expected_result": "Should fail saying the file is deleted",
+  "short_description": "Infinite loading when attempting to share a file that doesn't exist anymore",
+  "steps_to_repro": "- Open your file explorer  - Pick a file and share to Discord - While being on the share screen, minimize Discord and go back to the file explorer - Delete the file - Go back to Discord - Select a channel and Send"
+ }
+}

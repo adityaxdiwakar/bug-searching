@@ -1,0 +1,30 @@
+{
+ "id": "5bd4dee75527f604b4548026",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3294,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/k6CVWM7U",
+ "data": {
+  "system_settings": "Windows 10 Pro 64bit",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 27040, Version Hash: b630e547429da7fbd071f5d67abf1367976d42cc",
+  "actual_result": "Nothin will happen. The PopUp will close but the role override will stay there",
+  "expected_result": "The role override should be gone/deleted",
+  "short_description": "Cannot remove a role from the permission override in a channel",
+  "steps_to_repro": "- Press \"Edit Channel\" to edit any channel - Go to \"Permissions\" - Make sure you have a Roles/Members override (If not create one) - Edit the permissions of any Role/Member or @everyone - Do not press the \"Save Changes\" that pops up - Switch to any other Role/Member override - Scroll down and press \"Remove \" - On the PopUp press \"Okay\""
+ }
+}

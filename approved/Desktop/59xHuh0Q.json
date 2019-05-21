@@ -1,0 +1,30 @@
+{
+ "id": "5b7caa45bb555407ed440da4",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2759,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/59xHuh0Q",
+ "data": {
+  "system_settings": "Windows 10 17134.288",
+  "client_settings": "canary, Build Number: 22241",
+  "actual_result": "Bar extends past message box, outside of app in some cases",
+  "expected_result": "bar goes to end of message box",
+  "short_description": "play bar extends past the message space and out of the app",
+  "steps_to_repro": "- press replay multiple times"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b59f792a59b70785d9a821f",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 848,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RihdLE55",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.6 (6095)",
+  "actual_result": "Text doesn\u2019t wrap when hitting the scroll bar area, creating a bleeding effect where the text and scroll bar overlap",
+  "expected_result": "Text wraps before the scroll bar area",
+  "short_description": "Text overlaps scrollbar in message fields, and ban reasons (requires the right amount of characters to repro with your screen size)",
+  "steps_to_repro": "- Type a message in the message field long enough to generate a scroll bar (I found copy pasting the example bug report worked for me) - Make sure you you characters that go onto right edge of the message area - After you get enough text to generate a scroll bar, start scrolling up and down, watching the scroll bar - If you can\u2019t repro on the first try, try typing enough text to where the last character moves the word to a new line, and try replacing it with letters until you find one that doesn\u2019t go to a new line"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "id": "585a9815a89738f24c463caf",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 135,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XaX8Jed6",
+ "data": {
+  "actual_result": "Visual bug",
+  "expected_result": "Nothing",
+  "short_description": "When pressing and holding a link and dragging the highlighter is bugged",
+  "steps_to_repro": "- Click and hold a link then drag left "
+ }
+}

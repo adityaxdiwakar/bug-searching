@@ -1,0 +1,17 @@
+{
+ "id": "5b5da882c23b2f753b0dabf9",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1710,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1S62ewhk",
+ "data": {
+  "system_settings": "Android 7.0, U16 Max",
+  "client_settings": "Discord Android Alpha 7.2.0",
+  "actual_result": "The emoji appears twice or more, each alias matching the search shows up",
+  "expected_result": "The emoji appears once in the autocomplete list",
+  "short_description": "Built-in emoji with multiple aliases can appear multiple times in the autocomplete",
+  "steps_to_repro": "- Start typing an emoji with multiple aliases, for example ':thinking' or ':hug'"
+ }
+}

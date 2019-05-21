@@ -1,0 +1,30 @@
+{
+ "id": "5b062b4b08895f30d506a1af",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2050,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cH5PgEUy",
+ "data": {
+  "system_settings": "Windows 10 home x86",
+  "client_settings": "canary, Build Number: 16032",
+  "actual_result": "it shows the response you'd get if you clicked on delete account",
+  "expected_result": "it should show the correct response when clicking disable account",
+  "short_description": "Clicking on disable account shows the delete account response",
+  "steps_to_repro": "- go into user settings and find the option to delete or disable your account - click on disable account - observe what shows up"
+ }
+}

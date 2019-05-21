@@ -1,0 +1,16 @@
+{
+ "id": "581b79fd03796754edbb7b47",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 108,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5AzaSH3Y",
+ "data": {
+  "system_settings": " Latest Canary ",
+  "actual_result": "Its still there",
+  "expected_result": "No red dot notification",
+  "short_description": "Pins get unmarked as read",
+  "steps_to_repro": "- have a pinned message - look at the pins tab to get rid of the red dot - Refresh Discord (cntrl + r)  - look at the pins "
+ }
+}

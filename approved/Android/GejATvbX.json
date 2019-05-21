@@ -1,0 +1,17 @@
+{
+ "id": "5aeda01432f9660230177664",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1374,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/GejATvbX",
+ "data": {
+  "system_settings": "OPPO f1, Android 5.1.1",
+  "client_settings": "Discord Alpha 6.6.1",
+  "actual_result": "You will able to click/press enter",
+  "expected_result": "You should not able to press/click enter",
+  "short_description": "You can press/click enter while Changing your nickname",
+  "steps_to_repro": "- Get on any server where you can change your nickname - Hold server icon & then click on Change Nickname - Type anything and then press/ click enter  - Observe"
+ }
+}

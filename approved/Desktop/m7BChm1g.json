@@ -1,0 +1,30 @@
+{
+ "id": "5ad8ef28ba2792d1b53de36b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1864,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/m7BChm1g",
+ "data": {
+  "system_settings": "Macbook Air (Early 2015), macOS 10.12.6 Sierra",
+  "client_settings": "Discord Canary (Build 13912)",
+  "actual_result": "The category name goes out of the box",
+  "expected_result": "The category name is supposed to display correctly",
+  "short_description": "Having a long named category and editing a channels permissions in it messes up the \"Permissions synced with\" box.",
+  "steps_to_repro": "- Have a long named category - Create a channel in it - Edit it's permissions - Observe the \"Permissions synced with\" box"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5be36ecc9d7a353989e71fbf",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1155,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DvmuzZxe",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 1",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "\"I want emoji to move and groove\" is not underneath the toggle",
+  "expected_result": "\"I want emoji to move and groove\" appears underneath the toggle",
+  "short_description": "\"Play animated emoji\" toggle is missing a phrase",
+  "steps_to_repro": "- Go into Text & Images in user settings - Observe the \"Play animated emoji\" toggle - If possible, observe the same toggle on desktop"
+ }
+}

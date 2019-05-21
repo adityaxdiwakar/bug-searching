@@ -1,0 +1,17 @@
+{
+ "id": "5c388b6913ce1453d92ccb34",
+ "closed": false,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2421,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QWlsJChP",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 6.0.1",
+  "client_settings": "Alpha 8.1.9 (819)",
+  "actual_result": "Discord does not display half of the screen",
+  "expected_result": "Discord should display normally on the entire screen",
+  "short_description": "Keyboard disappears when i click on the google voice (SAMSUNG KEYBOARD SPECIFIC)",
+  "steps_to_repro": "- Open your keyboard - Click on Google Voice - Click on the cross - After the last step, fast swipe from left to right"
+ }
+}

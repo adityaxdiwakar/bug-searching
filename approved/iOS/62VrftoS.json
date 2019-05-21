@@ -1,0 +1,30 @@
+{
+ "id": "5b2a82decb72b4d74e7bd739",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 788,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/62VrftoS",
+ "data": {
+  "system_settings": "iPhone X, iOS 11.3",
+  "client_settings": "TestFlight 2.3.2 (4760)",
+  "actual_result": "You return to general account settings which is not part of the call settings / dm call.",
+  "expected_result": "To return to the call from voice settings directly",
+  "short_description": "When you access voice settings from a call, then click the back button to return to the call you return to general account settings instead of returning to the call",
+  "steps_to_repro": "- Get in a DM call - Click the three dots - Click voice settings  - Press back in the top left hand corner  - Observe that it takes you to general account settings"
+ }
+}

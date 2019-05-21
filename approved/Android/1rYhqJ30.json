@@ -1,0 +1,24 @@
+{
+ "id": "594423c63eeefc69858b233b",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 512,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1rYhqJ30",
+ "data": {
+  "system_settings": "Samsung Galaxy S8+ 7.0 Nougat",
+  "client_settings": "Android Alpha 3.9.1 (389)",
+  "actual_result": "Your message will be replaced with Clyde saying your were either blocked by the recipient or do not share the same server with them.",
+  "expected_result": "Your message will be sent.",
+  "short_description": "Changing DM settings on android a few times breaks DM'S completely",
+  "steps_to_repro": "- Head to settings and tap \"Allow server DM's from server members\" 5 or 8 times. - Attempt to DM someone not on your friends list. - Make sure the setting is turned on when you message someone."
+ }
+}

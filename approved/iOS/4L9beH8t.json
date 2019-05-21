@@ -1,0 +1,17 @@
+{
+ "id": "5b36cf1d1c380afdeee9f2e9",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 823,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4L9beH8t",
+ "data": {
+  "system_settings": "iOS 11.0.3 (15A432)",
+  "client_settings": "Discord iOS TestFlight 2.3.4 (5548)",
+  "actual_result": "Unable to scroll down all the way; eventually multiple messages are invisible",
+  "expected_result": "Be able to see perfectly fine up until the latest message",
+  "short_description": "Unable to scroll all the way down to latest message while in a Voice Channel and having sent a message",
+  "steps_to_repro": "- Join a Voice Channel - Send a message - Try to scroll all the way down - (Opening and closing the keyword will allow you to see even less of the latest messages) - (Only fixed upon app restart)"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bf49052fbb6847b3a53e4b5",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2336,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RnRYIYDC",
+ "data": {
+  "system_settings": "Zte Blade Zmax Nougat 7.1.1",
+  "client_settings": "Android Alpha 7.9.7",
+  "actual_result": "Blank spots where they used to be",
+  "expected_result": "Headers should still be there unchanged",
+  "short_description": "Headers are blank via channel or username in dms.",
+  "steps_to_repro": "- Update to 7.9.7  - Look in an dm or in a channel in a server look at the header"
+ }
+}

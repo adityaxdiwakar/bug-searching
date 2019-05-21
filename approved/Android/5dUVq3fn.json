@@ -1,0 +1,24 @@
+{
+ "id": "59bd25300ee001e141af723e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 727,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5dUVq3fn",
+ "data": {
+  "system_settings": "Android 4.4.4, Allview VivaH8LTE",
+  "client_settings": "Discord Alpha 5.1.7",
+  "actual_result": "The categorys name go through the + breaking it",
+  "expected_result": "The categorys name should touch / go through the + for creating new channels",
+  "short_description": "Making a category with a long name, make the name go through the + for creating new channels",
+  "steps_to_repro": "- Go to a server where you can create categories - Make a category with a long name (use max characters limit of you want); save - Go back to channels list and observe the categories name: it goes through the + for creating new channels in that category - (optional see the attachment)"
+ }
+}

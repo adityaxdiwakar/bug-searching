@@ -1,0 +1,22 @@
+{
+ "id": "587178bcc2e08060926f63c0",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 173,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/84TBLMhp",
+ "data": {
+  "actual_result": "It shows pinned messages and message notifications, as if it were a text channel",
+  "expected_result": "It should be treated as a voice channel",
+  "short_description": "Accessing voice channel settings from \"Server settings\" treats it as a text channel.",
+  "steps_to_repro": "- Go into Channels. - Select a voice channel"
+ }
+}

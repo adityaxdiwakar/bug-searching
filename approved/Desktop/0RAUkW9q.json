@@ -1,0 +1,17 @@
+{
+ "id": "5b62816cf722f32d5d58d504",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2586,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0RAUkW9q",
+ "data": {
+  "system_settings": "Windows 10 Enterprise E3 x64",
+  "client_settings": "Discord Canary Build 20535",
+  "actual_result": "Either nothing happens or you edit your last message on the channel",
+  "expected_result": "Move text cursor one line up",
+  "short_description": "Up arrow cannot be used to navigate in text box",
+  "steps_to_repro": "- Write text with a linebreak or a long text - Press up arrow key"
+ }
+}

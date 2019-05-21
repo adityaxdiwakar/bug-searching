@@ -1,0 +1,30 @@
+{
+ "id": "5adbecc9c4ecfaba5b44c0e5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1305,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/H6Jg8EaW",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.5.5",
+  "actual_result": "Android won't parse content if a codeblock is present",
+  "expected_result": "Content recognition feature of Android should work regardless of the presence of a codeblock",
+  "short_description": "Android's content recognition feature won't work if there's a codeblock somewhere in the message",
+  "steps_to_repro": "- Write a message with a content that the Android system is able to parse into a link. For example, a link without HTTP, a phone number, or a Google Map address - Send the message, you will see it working as normal (the content will render as a clickable link - Now either edit the message, or create a new one with the same content, and add a codeblock anywhere in the message (works with both single line and multi line codeblocks) - Send and observe"
+ }
+}

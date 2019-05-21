@@ -1,0 +1,30 @@
+{
+ "id": "5b31f0929e9cff8f4615c6aa",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1604,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/K9pfFbGY",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.9",
+  "actual_result": "The client will retry to join infinite times until it succeeds, and every tap on the Join button will create a new loop of retries. You can say R.I.P to your Debug log. If you enable your Internet now, it will show \"No text channels\" screen while it's purging the request loops (those requests will actually reach the API and spam it, surprisingly without causing ratelimit errors), and then you will be taken to the new server.",
+  "expected_result": "It should give up if it doesn't succeed after a while, or at least retry at a decent rate",
+  "short_description": "If tap the Join button in an invite embed and fails to join for whatever reason (e.g you lose internet connection), the client will retry in an infinite loop until it succeeds, causing the debug log to get insanely spammed and the API to get spammed as well when you get your connection back",
+  "steps_to_repro": "- Find a message with a valid invite to a server you are not in - Turn off your Internet connection - Tap the button once. Notice it doesn't work (which is normal) - Let's imagine you don't know what's going on, so try tapping the button multiple times. The more times you will tap it, the more intense the bug will be - Go to Debug log in your user settings"
+ }
+}

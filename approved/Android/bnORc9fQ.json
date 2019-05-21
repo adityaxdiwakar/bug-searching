@@ -1,0 +1,17 @@
+{
+ "id": "5bfd1401287f4746dd5a4b16",
+ "closed": false,
+ "idList": "5b65390c05de8f6af6fe13e9",
+ "idShort": 2360,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bnORc9fQ",
+ "data": {
+  "system_settings": "Razer Phone, Android 8.1.0",
+  "client_settings": "Discord Alpha 7.9.9",
+  "actual_result": "Discord detects me as playing the game which I got notifications from",
+  "expected_result": "Discord should not be detecting a game that I'm not playing even if I am receiving notifications from it",
+  "short_description": "If you receive a notification from a game that you're not playing, Discord's game detection will think you're playing it",
+  "steps_to_repro": "- Close all games currently open on your phone - Wait to receive a notification from a game (I got one from FFRK for example) - Check your Discord Game Detection Service - It says I am currently playing a game (FFRK in my case) even though I don't have it open"
+ }
+}

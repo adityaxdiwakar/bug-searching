@@ -1,0 +1,17 @@
+{
+ "id": "5bb9751de6d06b3631a41acf",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 3106,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qiNzLLtL",
+ "data": {
+  "system_settings": "iPad Mini 2, iOS 11.0.3",
+  "client_settings": "Safari iOS 11.0.3 (Safari Version is the same as the iOS version). TestFlight 2.3.9",
+  "actual_result": "The country does not select.",
+  "expected_result": "The specified country should select.",
+  "short_description": "Selecting language for partnership on iOS does not select the specified language when tapping with your finger. iOS ONLY.",
+  "steps_to_repro": "- Open Safari. - Search \u201cDiscord Partnerships\u201d. - Go onto the actual partnership website. - Login with your Discord Details. - Tap \u201cApply\u201d. - Select any box (as you aren\u2019t actually applying but reproducing). - Select the Country section. - Search any country, e.g. United Kingdom - When searched, tap the country with your finger"
+ }
+}

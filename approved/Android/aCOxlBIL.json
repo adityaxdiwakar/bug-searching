@@ -1,0 +1,16 @@
+{
+ "id": "588943952ce9ec735cdb1a35",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 191,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/aCOxlBIL",
+ "data": {
+  "system_settings": " Android 5.1, Discord Alpha v3.2.8",
+  "actual_result": "Neither gif nor the comment sends",
+  "expected_result": "Gif along with any comments made will upload",
+  "short_description": "Gifs will not upload on Android",
+  "steps_to_repro": "- Attempt to upload a gif "
+ }
+}

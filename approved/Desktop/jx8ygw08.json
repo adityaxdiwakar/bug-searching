@@ -1,0 +1,24 @@
+{
+ "id": "5b5c7dc508abdd8129fd8d80",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2471,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jx8ygw08",
+ "data": {
+  "system_settings": "iPhone 8 Plus - iOS 11.4.1, iPad Air 2 - iOS 12 Public Beta 3",
+  "client_settings": "(Mobile) Safari",
+  "actual_result": "It is always 0.",
+  "expected_result": "The correct numbers for every platform should be shown.",
+  "short_description": "[Website bug] [Safari specific] Discord partner page shows 0 for every platform",
+  "steps_to_repro": "- Go to the Discord Partners page - Scroll down to `THE TYPICAL DISCORD PARTNER HAS` - Observe the numbers for every platform there"
+ }
+}

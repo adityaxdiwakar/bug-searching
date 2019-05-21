@@ -1,0 +1,17 @@
+{
+ "id": "5afcae5f907850c45ffbd4cc",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2005,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gw0rjeBr",
+ "data": {
+  "system_settings": "Windows Home x64",
+  "client_settings": "Discord Canary  15376",
+  "actual_result": "Their name only gets changed on one of the two",
+  "expected_result": "Their name would sync between the two",
+  "short_description": "When changing others nicknames, the nickname doesn't sync between member list and voice chat",
+  "steps_to_repro": "- Change a users nickname - Check the difference between their name in member list and voice chat - etc"
+ }
+}

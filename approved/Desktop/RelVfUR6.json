@@ -1,0 +1,23 @@
+{
+ "id": "58c8ab06e087dc15b668ae16",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 427,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RelVfUR6",
+ "data": {
+  "system_settings": " Windows 7, Canary",
+  "actual_result": "Nothing is highlighted",
+  "expected_result": "Result would be highlighted or just the underscore excempted",
+  "short_description": "text does not highlight in search if you put a underscore between words",
+  "steps_to_repro": "- Put an underscore instead of a space between 2 words - Search for that term "
+ }
+}

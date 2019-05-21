@@ -1,0 +1,30 @@
+{
+ "id": "59d53f1101e15f1ab992a52d",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 783,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tit3AUmb",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Android Alpha 5.2.7",
+  "actual_result": "The sound will be played through the speaker for a split second after disconnecting",
+  "expected_result": "It just disconnects you from the voice channel and nothing else happens",
+  "short_description": "Disconnecting from a voice channel when you have \"Use speaker\" option disabled will play the sound through the speaker for a split second",
+  "steps_to_repro": "- Make sure you have the \"Use speaker\" option **disabled** in your voice settings - Connect to any voice channel, and either have someone else make noise or play a song using a music bot - Disconnect from the voice channel"
+ }
+}

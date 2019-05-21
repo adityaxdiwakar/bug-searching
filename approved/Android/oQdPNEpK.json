@@ -1,0 +1,30 @@
+{
+ "id": "5be1bb01c6579c1dfee1e871",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2287,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oQdPNEpK",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.8.6",
+  "actual_result": "Notifications item is missing on the action sheet, meaning that you can't configure notification frequency preferences for the category if you can't manage channels",
+  "expected_result": "There should be a \"Notifications\" item on the action sheet, because if you have Manage Channels in this server and enter category settings, you can see that notification frequency preferences are configurable for categories",
+  "short_description": "On categories, you can't edit notification frequency preferences (All messages, mentions only, etc), unless you have manage channels permission, because \"Notifications\" item is missing on the category long-press sheet",
+  "steps_to_repro": "- Go to any server with a category - Long press on a category in channel drawer"
+ }
+}

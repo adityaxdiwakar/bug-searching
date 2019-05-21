@@ -1,0 +1,24 @@
+{
+ "id": "597abd23358f92fb3d103eb0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 906,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/w4dG1Yr9",
+ "data": {
+  "system_settings": "Win. http://i.imgur.com/bdHjQ8v.jpg 10",
+  "client_settings": "Canary, 0.0.162",
+  "actual_result": "That specific emoji is basically transparent unlike the others.",
+  "expected_result": "not a transparent emoji. Like this one, http://i.imgur.com/bdHjQ8v.jpg",
+  "short_description": "when hovering over the changing emoji, the `:rage:` emoji is basically transparent. http://i.imgur.com/JVqOUPg.jpg",
+  "steps_to_repro": "- Keep hovering over the changing emoji until you get to the \\`:rage:\\` one."
+ }
+}

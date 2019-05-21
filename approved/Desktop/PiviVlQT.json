@@ -1,0 +1,22 @@
+{
+ "id": "5900ffa4f79ea5d7cb4c0cc8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 559,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7224",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P0: Need an immediate fix",
+   "color": "red"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PiviVlQT",
+ "data": {
+  "actual_result": "The notification remains indefinitely.",
+  "expected_result": "The notification is removed automatically",
+  "short_description": "Notifications to not disappear automatically on Windows 8.x",
+  "steps_to_repro": "- Be running Win 8.xx - Receive a notification - Wait "
+ }
+}

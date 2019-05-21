@@ -1,0 +1,30 @@
+{
+ "id": "5ba811340649d12e6131bff5",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 3023,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tiVswXJm",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 1803, OS Build 17134.285",
+  "client_settings": "Desktop stable, Build Number: 24302",
+  "actual_result": "The mouse cursor changes to a closed hand with extended finger as though you were hovering over a hyperlink but moving further away from the backup code takes it back to a regular pointer",
+  "expected_result": "The cursor should change from a text selection cursor to the regular mouse pointer",
+  "short_description": "When hovering mouse over 2FA backup codes the cursor changes from a text selection to the hyperlink hand",
+  "steps_to_repro": "- Go to your User Settings - Have 2FA enabled - Click \"View Backup Codes\" & enter your password - Move the mouse over a backup code & move the mouse slowly to just below a code"
+ }
+}

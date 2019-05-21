@@ -1,0 +1,23 @@
+{
+ "id": "58fae40b74db4e4050989bd2",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 541,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/R2y3F1kD",
+ "data": {
+  "system_settings": " Windows 10, Canary App Latest",
+  "actual_result": "A marker is present, and only disappears when switching to the same server and back.",
+  "expected_result": "Server has no unread marker",
+  "short_description": "Sending a message and switching to another channel sometimes leaves the unread marker",
+  "steps_to_repro": "- Click on a server that with an unread message marker, where only one channel has an unread message.  - Type a message - Switch to another server immediately "
+ }
+}

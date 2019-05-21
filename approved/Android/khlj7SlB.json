@@ -1,0 +1,17 @@
+{
+ "id": "5ba97b1f89aa50347036cef1",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2005,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/khlj7SlB",
+ "data": {
+  "system_settings": "Samsung's Galaxy J7 Sky Pro Android 6.0.1",
+  "client_settings": "Android Alpha 7.5.5",
+  "actual_result": "Audit log option doesn't show",
+  "expected_result": "Audit log option shows in settings",
+  "short_description": "Audit logs don't show up in servers you don't own yet have perms to view them",
+  "steps_to_repro": "- Go to a server you're not owner in but have view audit log perms - Open settings and the audit log option doesn't show"
+ }
+}

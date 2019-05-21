@@ -1,0 +1,23 @@
+{
+ "id": "58caa527735f21c1550412c4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 430,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/B6hZ0IiB",
+ "data": {
+  "system_settings": " Windows 10 64bit, Discord canary build",
+  "actual_result": "shows the clickable cursor",
+  "expected_result": "should show not allowed symbol cursor",
+  "short_description": "when i hover over locked voice channels, i get not allowed symbol but when i move over to the text of the locked channel, it changes to clickable",
+  "steps_to_repro": "- hover over a locked voice channel text "
+ }
+}

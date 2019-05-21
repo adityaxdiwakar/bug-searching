@@ -1,0 +1,17 @@
+{
+ "id": "5b77eebd4ecba78ccd7480f0",
+ "closed": true,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 926,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/alcv0jwY",
+ "data": {
+  "system_settings": "iPhone 6s+ iOS 12 Public Beta 5",
+  "client_settings": "Testflight 2.3.7 (6823)",
+  "actual_result": "Filter Options stay open as the mention is also opened",
+  "expected_result": "Filter options do not come up and the mention is opened as normal",
+  "short_description": "Filter Options opens when tapped immediately after tapping a mention",
+  "steps_to_repro": "- Open Recent mentions - Tap on a mention and then quickly tap the filter settings button - Observe"
+ }
+}

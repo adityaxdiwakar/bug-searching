@@ -1,0 +1,17 @@
+{
+ "id": "5af5a9540db2ec1e028cae72",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1399,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0909tmgv",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 Nougat",
+  "client_settings": "Discord Alpha 6.6.7",
+  "actual_result": "Their data will never load unless you attempt to mention them, load them in the members list, or hold on their profile, exit the menu, and wait for several seconds",
+  "expected_result": "Their data will eventually load",
+  "short_description": "Member's data (nickname, roles, etc..) won't load if they are far up in the channel history you are viewing [Lazy Guild Only]",
+  "steps_to_repro": "- Find a lazy server - Find a channel with a pretty long message history, ~70ish - Scroll up until you find someone you know has a colored name (with a role) or a nickname - Realize they aren't colored, nicknames aren't displayed, and their status is offline even if they aren't when you hold on their name or profile picture"
+ }
+}

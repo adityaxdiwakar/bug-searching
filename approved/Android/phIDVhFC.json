@@ -1,0 +1,23 @@
+{
+ "id": "58ef4015f3492485cd2fd8ec",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 362,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/phIDVhFC",
+ "data": {
+  "system_settings": " Android 6.0 - Discord 3.6.4",
+  "actual_result": "The username is dependent on the playing status' left",
+  "expected_result": "The playing status and the username are both centered",
+  "short_description": "The name of users with longer playing status than the username won't be in the center",
+  "steps_to_repro": "- Open someone's profile with a long playing status - Get your OCD destroyed "
+ }
+}

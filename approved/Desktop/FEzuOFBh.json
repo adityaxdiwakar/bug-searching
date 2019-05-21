@@ -1,0 +1,17 @@
+{
+ "id": "5949f3a51f9e94f8362551cd",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 780,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FEzuOFBh",
+ "data": {
+  "system_settings": "Windows 10 Creators Update",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "Nothing happens",
+  "expected_result": "It opens the content",
+  "short_description": "New Reactions Menu Makes Most things Un-clickable",
+  "steps_to_repro": "- Find a post with reactions - Right Click on it - Click Reactions - Right click a user in the menu - Exit Menu - Try to change channels/change servers"
+ }
+}

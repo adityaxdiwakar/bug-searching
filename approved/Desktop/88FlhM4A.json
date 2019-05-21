@@ -1,0 +1,17 @@
+{
+ "id": "598ae70375b6d1b1a6499be0",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 957,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/88FlhM4A",
+ "data": {
+  "system_settings": "Windows 10 Pro v1703 (Build 15063.413)",
+  "client_settings": "Desktop Canary 0.0.163",
+  "actual_result": "As noted in steps: At no point does Discord switch to the new default sound device, even when the device it is using is disabled by Windows.",
+  "expected_result": "As soon as device B is set to default, Discord should switch audio to device B. Failing that, it should at least update when the device is explicitly disabled.",
+  "short_description": "Discord does not update voice output device when the system default changes.",
+  "steps_to_repro": "- Set device A as default output device. - Set Discord's output to default. - Verify voice chat from device A. - Set device B as default output device. - Reconnect to voice server. - Verify voice chat is still from device A. - Disable device A. - Verify loss of voice output."
+ }
+}

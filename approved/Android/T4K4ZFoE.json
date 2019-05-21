@@ -1,0 +1,23 @@
+{
+ "id": "58b0e7f3cde87ad3263a9d39",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 257,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/T4K4ZFoE",
+ "data": {
+  "system_settings": " Nexus 6P, Android 7.1.1",
+  "actual_result": "Search opens without keyboard, requires search field to be tapped again",
+  "expected_result": "Search opens with the keyboard, to start typing immediately",
+  "short_description": "Keyboard remains down when search is opened",
+  "steps_to_repro": "- Tap the search icon "
+ }
+}

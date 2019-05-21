@@ -1,0 +1,30 @@
+{
+ "id": "59b455ad39d6f12419d59028",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 695,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I8JoHpHF",
+ "data": {
+  "system_settings": "Android 7.0 Moto G4 Plus",
+  "client_settings": "Android alpha 5.1.4",
+  "actual_result": "Create channel dialog opens with \"Text channel\" selected",
+  "expected_result": "Create channel dialog should open with \"Voice channel\" selected",
+  "short_description": "Create voice channel selects \"Text channel\" in Channel creation page",
+  "steps_to_repro": "- Go to channels in server settings - Click + - Click create voice channel"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58abb63b0d74665df3dd6bd1",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 390,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0KIbnCtB",
+ "data": {
+  "system_settings": " Win 10 x64 education, discord canary 0.153",
+  "actual_result": "a few pixels, probably less than 5 are hidden by the task bar",
+  "expected_result": "no portion of discord is hiddin by the task bar",
+  "short_description": "thin sliver of selected server indicator is hiddin under the taskbar when taskbar is on side of screen",
+  "steps_to_repro": "- full screen discord with icon or windowskey+ \u2b06 "
+ }
+}

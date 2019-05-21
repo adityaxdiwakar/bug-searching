@@ -1,0 +1,17 @@
+{
+ "id": "5c021e7db7607218bd3c290d",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1194,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/N7faiQpQ",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1",
+  "client_settings": "TestFlight 2.4.0 (9477)",
+  "actual_result": "The button takes you to the other screen",
+  "expected_result": "The button takes you to the expected screen",
+  "short_description": "Join Server/Create Server screens switched",
+  "steps_to_repro": "- Click on the circular + button in the guild navigator - Click on \"Join Server\" or \"Create Server\""
+ }
+}

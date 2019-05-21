@@ -1,0 +1,22 @@
+{
+ "id": "587ea0a63df37e26dbe99add",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 335,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WLr92h1z",
+ "data": {
+  "actual_result": "The roles are randomly ordered.",
+  "expected_result": "The roles are ordered normally with the one desired change",
+  "short_description": "Roles get ordered incorrect when creating several in succession",
+  "steps_to_repro": "- Progress to the Roles menu for any sever - Create the first role and without clicking anything, name it \"1\" - Create the 2nd role name \"2\", repeat until 5 - Create a 6th role - drag the 6th role to the middle of the roles "
+ }
+}

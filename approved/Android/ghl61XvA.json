@@ -1,0 +1,30 @@
+{
+ "id": "5b47d28e317fb70aea32f538",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1645,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ghl61XvA",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 706",
+  "actual_result": "It shows the channel you're in too.",
+  "expected_result": "It should show the second last/most frequently visited channel.",
+  "short_description": "The Quick switcher suggests the channel you're in too in the suggestions.",
+  "steps_to_repro": "- Go to a channel (even DMs work). - Open Quick switcher. - Look at the first channel in suggestions."
+ }
+}

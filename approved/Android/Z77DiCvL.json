@@ -1,0 +1,17 @@
+{
+ "id": "5b724eefc70e40312a959a84",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1831,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Z77DiCvL",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 730",
+  "actual_result": "You're taken to the my account subsettings again and the disable account highlights twice like it has been clicked twice.",
+  "expected_result": "The request data modal pops up.",
+  "short_description": "When you open Settings>My Account and expand the \"Account Management\" thing (or whatever you call it) and exit the My Account subsettings and then open the Privacy & Safety subsettings and then click on Use data to make Discord work (the text itself not the paragraph below it), you're taken back to settings and it automatically hits the \"Disable account\" button twice.",
+  "steps_to_repro": "- Open Settings>My Account and expand \"Account Management\". - Exit out My Account subsettings. - Open Privacy & safety subsettings. - Click on \"Use data to make Discord work\" (the text itself not the paragraph below it)."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5acb6c2466f8171bf595c1ad",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1812,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PZFPcmv9",
+ "data": {
+  "system_settings": "Ubuntu 17.10 with GNOME and Xorg.",
+  "client_settings": "Discord stable 0.0.4 and Discord-ptb 0.0.7.",
+  "actual_result": "You doesn't appear on the menu first, then after someone else joined, you'll appear.",
+  "expected_result": "you should appear on the list when you're the only user and when you're two on it.",
+  "short_description": "You doesn't appear on filter by user server logs menu while you're the only user on it",
+  "steps_to_repro": "- Create a server. - Do some logged actions (create role for example). - Look to the server logs: your actions should appear. - Look on the filter by user menu. - After, invite someone on thee server and redo the previous steps."
+ }
+}

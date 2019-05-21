@@ -1,0 +1,22 @@
+{
+ "id": "586191ca7974bf3b783af003",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 286,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bxOe34BS",
+ "data": {
+  "actual_result": "Full name is shown, breaking window",
+  "expected_result": "Name gets truncated to fit window",
+  "short_description": "Users with super long names break the members panel in server settings",
+  "steps_to_repro": "- Find server with user that has massively long name (using zalgo or something like that) - Go to members in server settings - Find user. WIndow will \"grow\" to fit name, and you lose the ability to kick/ban user. "
+ }
+}

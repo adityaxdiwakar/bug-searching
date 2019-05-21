@@ -1,0 +1,29 @@
+{
+ "id": "58b58cb069c6bf7a4ac89c32",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 209,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TtND4QLT",
+ "data": {
+  "system_settings": " iOS 1.10.2 Newest TestFlight Build",
+  "actual_result": "the role is formatted as @deleted-role",
+  "expected_result": "Before deleting the role you should see the roles name.",
+  "short_description": "Deleting an at role mention shows deleted-role",
+  "steps_to_repro": "- Make sure you're on a guild with multiple roles and the delete messages permission -(@) mention a role and delete the message. "
+ }
+}

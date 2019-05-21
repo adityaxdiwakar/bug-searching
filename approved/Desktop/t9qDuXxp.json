@@ -1,0 +1,24 @@
+{
+ "id": "59db71c5a58711d9668051e0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1242,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/t9qDuXxp",
+ "data": {
+  "system_settings": "Mac OSX 10.11.6",
+  "client_settings": "Desktop Canary (0.0.155 - version: 5517)",
+  "actual_result": "The ring tone stops",
+  "expected_result": "The ring tone continues",
+  "short_description": "Ring tone stops in private call when you switch channel views.",
+  "steps_to_repro": "- Initiate a private call with anyone in your friends list - When the call begins and ring tone plays, click on a server in your server list"
+ }
+}

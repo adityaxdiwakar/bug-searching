@@ -1,0 +1,36 @@
+{
+ "id": "5a4610c53d87b55f55742a2e",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 470,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/31CuN2Dt",
+ "data": {
+  "system_settings": "iOS 11.2.1, iPhone 8 Plus",
+  "client_settings": "Discord 2.2.0 (1982)",
+  "actual_result": "You are unable to edit the group DM name because it keeps resetting itself",
+  "expected_result": "You should be able to edit the group DM name, it shouldn't keep resetting itself",
+  "short_description": "Group DM name resets when attempting to edit it",
+  "steps_to_repro": "- Open a group DM - Try editing its name by removing/adding characters"
+ }
+}

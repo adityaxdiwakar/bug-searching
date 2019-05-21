@@ -1,0 +1,30 @@
+{
+ "id": "5c09df5a0c1fe410a0a65d35",
+ "closed": false,
+ "idList": "5bff454fc1362f86e67cc48b",
+ "idShort": 3472,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OOwGoZrn",
+ "data": {
+  "system_settings": "Windows 10 Home 1803",
+  "client_settings": "Release Channel: stable, Build Number: 28970, Version Hash: 4fdb14779d8bec822f8620df712b787e62091c9b",
+  "actual_result": "Discord crashes",
+  "expected_result": "Discord shouldn't crash and instead handle the error normally",
+  "short_description": "Spamming an image and trying again crashes the client",
+  "steps_to_repro": "- Take a snapshot of something so you have an image on your clipboard (Not a link). Windows + Shift + S for something quick. - Get to a channel where you can spam without getting punished for it and you can post images at. - Spam paste the image, Ctrl + V and then enter until an error pops up. (Don't hit enter when the error pops up or else it will pop up again and you may not be able to recreate the error!) - When the error pops up, *quickly* click on \"Click here to retry the upload\" button. Please mind you may fail to recreate the bug on the first try, try more than once!"
+ }
+}

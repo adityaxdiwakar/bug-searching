@@ -1,0 +1,15 @@
+{
+ "id": "5840b7d7421c41acf98746c4",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 100,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/GmBi2upM",
+ "data": {
+  "actual_result": "The client tries to render a non existent emote and thus creates an invisible/blank message",
+  "expected_result": "You see the raw :text: message",
+  "short_description": "incorrect emotes get converted to invisible messages",
+  "steps_to_repro": "- Start typing a message with : - Type anything that comes to mind so long as it's not a valid emote and it doesn't contain spaces - End the message with : "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b5ca174a2231592d2cb8ea0",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1695,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JNN0NKIc",
+ "data": {
+  "system_settings": "OnePlus 6 (Version 8.1.0)",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "After unlocking, you see the last dm you were in but after a second it jumps to the last server channel you viewed",
+  "expected_result": "After unlocking, you will see the same channel you left off of",
+  "short_description": "Locking your phone on a dm and then unlocking it after waiting a bit makes you jump to the last server",
+  "steps_to_repro": "- look at a channel in a server (I tried with very active ones that had messages come in while I was reproing this bug) - go to a dm with someone (or group dm) - lock your phone and wait a few minutes (!, won't happen immediately) - unlock again and observe"
+ }
+}

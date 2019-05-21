@@ -1,0 +1,15 @@
+{
+ "id": "58120109142914ec4ec648b9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 75,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vikPcQ5E",
+ "data": {
+  "actual_result": "not working.",
+  "expected_result": "working reactions",
+  "short_description": "Users without a role cannot add reactions, even though @everyone gives this permission.",
+  "steps_to_repro": "- See the reaction dissapear. "
+ }
+}

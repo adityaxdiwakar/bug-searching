@@ -1,0 +1,30 @@
+{
+ "id": "5a16086944f12d06c60f3c8c",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 921,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wDjwGE2Y",
+ "data": {
+  "system_settings": "Xiaomi Mi 5 Nougat 7.0",
+  "client_settings": "Discord Alpha 5.7.5",
+  "actual_result": "The  image not playing automatically, you need to press the  image to play the",
+  "expected_result": "image should be playing as previous version usually play the  automatically",
+  "short_description": "Gif not playing when pasting .gif link or uploading gif image (not with Giphy link)",
+  "steps_to_repro": "- Upload a  image or copy paste  to discord and post it - Observe"
+ }
+}

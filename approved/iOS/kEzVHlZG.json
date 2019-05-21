@@ -1,0 +1,17 @@
+{
+ "id": "5ad3597b150469beb3f687e3",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 680,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kEzVHlZG",
+ "data": {
+  "system_settings": "iPhone SE: iOS 11.3",
+  "client_settings": "TF 2.3.0 (3817)",
+  "actual_result": "Serveral menus pop up.",
+  "expected_result": "One menu pops up and the rest of the taps don\u2019t do anything.",
+  "short_description": "Mutiple menus show up when you tap \u201c...\u201d many times in quick succession (Could be iOS 11.3 or greater only)",
+  "steps_to_repro": "- Open up Discord - Go to a fairly large server (that you didn\u2019t start on) - Hit the \u201c...\u201d button many times in a quick succession"
+ }
+}

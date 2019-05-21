@@ -1,0 +1,36 @@
+{
+ "id": "5a89f9d3ab06659ab2165f29",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1130,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860cff9df9dc4700682cdd",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "text chat",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZudiUnLj",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.7",
+  "actual_result": "The message containing the mention will automatically appear under a new instance of your username + avatar",
+  "expected_result": "The two messages should be grouped together under your avatar and username",
+  "short_description": "Messages containing a mention won't group with other consecutive messages by same author (CNR with @ everyone and @ here mentions though)",
+  "steps_to_repro": "- Go to a channel you can write - Send a random message - Immediately send another message but with a mention in it"
+ }
+}

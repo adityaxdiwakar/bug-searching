@@ -1,0 +1,17 @@
+{
+ "id": "5b4e9f403e0e3d3219e02247",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2299,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/lzHCry6O",
+ "data": {
+  "system_settings": "Macbook Air (Early 2015), macOS Sierra 10.12.6",
+  "client_settings": "Canary 18958",
+  "actual_result": "It copies an extra line with the message",
+  "expected_result": "It's only supposed to copy the actual message",
+  "short_description": "If you copy someone's message, it copies an extra empty line (18958 specific)",
+  "steps_to_repro": "- Select someone's message - Paste it in the chat box again - Observe the extra line on top or on the bottom"
+ }
+}

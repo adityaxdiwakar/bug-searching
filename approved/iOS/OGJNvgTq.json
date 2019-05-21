@@ -1,0 +1,36 @@
+{
+ "id": "5b2c4564da9d573a53c96952",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 801,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfafe",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P0 - Need an immediate fix",
+   "color": "red"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OGJNvgTq",
+ "data": {
+  "system_settings": "iPhone 7, iOS 11.4",
+  "client_settings": "TestFlight 2.3.4 (5330)",
+  "actual_result": "You see the screen that appears when you aren't connected at all",
+  "expected_result": "You should see the voice call/video call properly",
+  "short_description": "Incorrect screen when joining a DM call",
+  "steps_to_repro": "- Step 1 - Start/Join a call in a DM or Group DM Step 2 - Observe the results"
+ }
+}

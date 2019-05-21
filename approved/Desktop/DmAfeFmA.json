@@ -1,0 +1,17 @@
+{
+ "id": "597a6413b84f98bb37d56c0c",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 904,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DmAfeFmA",
+ "data": {
+  "system_settings": "Win. 10 x64",
+  "client_settings": "Discord Canary, 0.0.161",
+  "actual_result": "White and Gray text overlap.",
+  "expected_result": "no overlaping, with gray text mirrored.",
+  "short_description": "When using Arabic text to add a friend,  the white text overlaps with the gray text. http://i.imgur.com/tPdMVxY.jpg",
+  "steps_to_repro": "- Get any arabic text - paste into add friend text box"
+ }
+}

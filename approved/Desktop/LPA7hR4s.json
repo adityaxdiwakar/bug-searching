@@ -1,0 +1,16 @@
+{
+ "id": "58117b7b1e9b2285691a8f3d",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 69,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LPA7hR4s",
+ "data": {
+  "system_settings": " Canary ",
+  "actual_result": "gif will continuously play until moused over again",
+  "expected_result": "Gif stops playing after mouse rolls off gif",
+  "short_description": "Gif's stuck playing",
+  "steps_to_repro": "- Click on a user and quickly scroll over gif at the same time - See this gif: http://i.imgur.com/K96j0Mh.gif "
+ }
+}

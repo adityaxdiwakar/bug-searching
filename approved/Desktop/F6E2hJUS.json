@@ -1,0 +1,17 @@
+{
+ "id": "5bcb1cd0f13ddd2cca00c50c",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 3245,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/F6E2hJUS",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6",
+  "client_settings": "Desktop Canary 0.0.197, Build Number: 26655, Version Hash: 830388f8932a64b8afd00254454d2715fa679c33",
+  "actual_result": "Discord internally crashes and nothing happens.",
+  "expected_result": "Redirect to the authorisation page.",
+  "short_description": "Paypal payment method not possible.",
+  "steps_to_repro": "- Navigate to the Billing Tab. - Try to add a PayPal as a payment method."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b7e578a3dab97260015ef44",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2767,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RagOPidt",
+ "data": {
+  "system_settings": "MacBook Pro (13\"), macOS 10.13.6",
+  "client_settings": "Web Stable 22333 - Firefox Nightly v63.0a1 (2018-08-22, 64-bit)",
+  "actual_result": "The Next button is gone",
+  "expected_result": "There should be a Next button",
+  "short_description": "[Firefox ONLY] The \"Next\" button when confirming your Credit Card information is missing",
+  "steps_to_repro": "- You must NOT have Nitro to test this (or be on an account that doesn't have it) -   - Go to User Settings - Click \"Discord Nitro\" - Click \"$4.99 / Month\" (or the equivalent in your region/locale) - Enter in fake details - Observe how there's no Next button in the space where it should be"
+ }
+}

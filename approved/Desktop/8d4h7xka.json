@@ -1,0 +1,30 @@
+{
+ "id": "5ade04bad02c494dd529f1fa",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1879,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8d4h7xka",
+ "data": {
+  "system_settings": "Windows pro x64",
+  "client_settings": "Discord canary build 14021",
+  "actual_result": "Mute and \"all notifications\" are both checked",
+  "expected_result": "Mute won't be mark in the same time \"all notifications\" does",
+  "short_description": "Notification settings for specific channel behaves different than it should be when you assign \"all notifications\" and mute from right clicking the channel",
+  "steps_to_repro": "- Go to server notifications settings  - Add a channel to notifications overrides- Click on \"all\"- Go to the server- Right click same channel- Press mute- Go to servers notifications again"
+ }
+}

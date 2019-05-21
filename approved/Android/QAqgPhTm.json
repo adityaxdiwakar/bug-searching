@@ -1,0 +1,23 @@
+{
+ "id": "588ff7f480a77dc2b85e84e5",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 206,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QAqgPhTm",
+ "data": {
+  "system_settings": " Android 5.1.1, Discord 3.3.1",
+  "actual_result": "Link is left normal and first set of `**` is removed while second is left.",
+  "expected_result": "The link is bold.",
+  "short_description": "Links with `**` at either end (`**[link text](http://url.url)**`) remove the first set of `**` and dosnt make link bold",
+  "steps_to_repro": "- Post a link in any channel with webhook or bot using the following format `**[text](url)**` "
+ }
+}

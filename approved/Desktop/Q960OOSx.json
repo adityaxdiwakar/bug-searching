@@ -1,0 +1,17 @@
+{
+ "id": "593fbb7de3c4fe66e4ad6299",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 750,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Q960OOSx",
+ "data": {
+  "system_settings": "Win 7 SP1",
+  "client_settings": "Desktop Discord Canary 0.0.157",
+  "actual_result": "It shows the channel id instead of the name",
+  "expected_result": "It should show the name of the channel that the invite will lead to",
+  "short_description": "Changing the invite channel for the widget creates an audit log entry involving the channel id not name",
+  "steps_to_repro": "- Change the invite channel for the widget - Go to audit log - Expand the most recent entry"
+ }
+}

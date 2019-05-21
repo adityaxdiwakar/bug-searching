@@ -1,0 +1,30 @@
+{
+ "id": "5a04db77e1da60af679b9834",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 883,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e9",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can still reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZYNNsoQ5",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.6.2",
+  "actual_result": "In the typing box, the content of the message will appear with the unicode system emoji (e.g \\\ud83e\udd14)",
+  "expected_result": "In the typing box, the content of the message will appear with the emoji alias between `::` (e.g **\\:thinking\\:**)",
+  "short_description": "Editing a message containing default emojis will always display the unicode system emoji instead of the alias in the typing box",
+  "steps_to_repro": "- Send a message containing a default emoji using the Discord emoji picker (e.g \ud83e\udd14) - Long press on message and press Edit"
+ }
+}

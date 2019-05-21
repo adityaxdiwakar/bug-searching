@@ -1,0 +1,17 @@
+{
+ "id": "596046c76b26b2f06a2e6158",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 816,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EBnlHXpu",
+ "data": {
+  "system_settings": "Windows 10 (Creators Update) x64",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "The mention is shown at the top of the modal",
+  "expected_result": "The mention is not shown, but if the role exists it is.",
+  "short_description": "Everyone/Here mention is shown with you lack permissions",
+  "steps_to_repro": "- Goto a server you do not have <@&259909937403133953> perms on - Type @every"
+ }
+}

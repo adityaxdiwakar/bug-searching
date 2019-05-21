@@ -1,0 +1,30 @@
+{
+ "id": "5ae0d550a403c65fa62122ed",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1887,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/r9Bd5zZY",
+ "data": {
+  "system_settings": "Windows 10 Enterprise x64 (build 1709)",
+  "client_settings": "Discord Canary 14116",
+  "actual_result": "Copies the name but adds a space and a \"-\"",
+  "expected_result": "copies the name and maybe adds a space",
+  "short_description": "Highlighting the name of a user with the space after it than copying it adds a \"-\" to the name",
+  "steps_to_repro": "- Highlight someone's name on a chat message (make sure to include the space next to it)- Paste it somewhere"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58ef2ddb1db4b791435a7460",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 360,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4Z7kQUTN",
+ "data": {
+  "system_settings": " Android 5.0.2, Discord v3.6.4",
+  "actual_result": "There's two people and you might want to add a new friend to your life",
+  "expected_result": "There's a clipboard",
+  "short_description": "The \"Copy text\" icon does not corresponds",
+  "steps_to_repro": "- Find a great text meme you want to copy - Long press the message so you get the beautiful menu - Look at the left side of the \"Copy text\" text "
+ }
+}

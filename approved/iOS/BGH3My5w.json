@@ -1,0 +1,30 @@
+{
+ "id": "59e668b008765e5cf609e51a",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 371,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BGH3My5w",
+ "data": {
+  "system_settings": "iPhone 6s Plus",
+  "client_settings": "iOS 11.1 (Dev Build 2), Discord TestFlight 1.9.2(953)",
+  "actual_result": "You will be scrolled down to the new messages",
+  "expected_result": "You can read the messages normally",
+  "short_description": "Cannot scroll to bottom of chat window because every new message auto scrolls back to New Message line.",
+  "steps_to_repro": "- Get on a Discord where many people write many messages (1msg per sec is minimum I think)- Try scrolling up"
+ }
+}

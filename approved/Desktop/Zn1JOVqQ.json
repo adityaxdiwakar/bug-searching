@@ -1,0 +1,17 @@
+{
+ "id": "5b5d951a7a61532916620e49",
+ "closed": true,
+ "idList": "5b60f57c86cd0b5178e3e650",
+ "idShort": 2488,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Zn1JOVqQ",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6, Firefox Quantum 61.0.1 (64-bit)",
+  "client_settings": "Canary 20174",
+  "actual_result": "The box stays where the role originally was",
+  "expected_result": "The box updates to where the role goes",
+  "short_description": "When rearranging roles, and changing their position, the box where it will go doesn't update like on the app [Firefox]",
+  "steps_to_repro": "- Open Discord on Firefox - Go to a server -> server settings -> roles -  Create a few roles - Start re-arranging them"
+ }
+}

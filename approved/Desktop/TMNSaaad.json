@@ -1,0 +1,30 @@
+{
+ "id": "5bb6ba695dbf8779f6c80c56",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3094,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TMNSaaad",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Discord PTB, Build Number 25439",
+  "actual_result": "You can delete the server without entering the server name.",
+  "expected_result": "It should ask you to enter the server name that is saved, not the unsaved one.",
+  "short_description": "You can delete your server without entering the server name for confirmation",
+  "steps_to_repro": "- Go to your server settings - Remove the server name, don't click save. - Click Delete Server - The confirmation box will pop up asking you to type the server name. You don't have to type anything though and can click Delete Server because you removed the name."
+ }
+}

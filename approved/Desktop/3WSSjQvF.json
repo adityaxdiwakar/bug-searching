@@ -1,0 +1,30 @@
+{
+ "id": "5b629acb439caab9ef463c57",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2590,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3WSSjQvF",
+ "data": {
+  "system_settings": "Fedora 28 with KDE & 4.17.7-200 x86_64 Kernel",
+  "client_settings": "Discord Canary 20540",
+  "actual_result": "Attempts to edit the latest message in the channel, wiping all unsaved changes, does nothing if you have text in the prompt or crashes the client",
+  "expected_result": "It to go up in the text in the current edit prompt or go up in menus/selectors",
+  "short_description": "Up-arrow attempts to edit last message no matter what is selected",
+  "steps_to_repro": "- Be attempting to edit a message that wasn't your latest or be doing anything in the list belowPossible locations:Edits: User Settings, Server Settings, Channel Settings, RTC Debug, User Popout, Full Profile, Viewing Channel Topic, Other messages being edited, Some context menusCrashes: Search Bar - Hit the Up arrow key"
+ }
+}

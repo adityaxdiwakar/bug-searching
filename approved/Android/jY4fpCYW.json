@@ -1,0 +1,30 @@
+{
+ "id": "5a6781daf04fb89829ce0699",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1055,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jY4fpCYW",
+ "data": {
+  "system_settings": "Galaxy S8+",
+  "client_settings": "Android Beta 6.1.0",
+  "actual_result": "Horizontal icon clipped to square.",
+  "expected_result": "Embed footer present identically across platform.",
+  "short_description": "Android clips footer icon",
+  "steps_to_repro": "- Add horiztonal or wide ratio Embed Footer icon url."
+ }
+}

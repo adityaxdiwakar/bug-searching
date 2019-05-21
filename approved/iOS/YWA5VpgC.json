@@ -1,0 +1,30 @@
+{
+ "id": "5a330628f11b710482cf7420",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 456,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YWA5VpgC",
+ "data": {
+  "system_settings": "iOS 11.2 on 10.5\" iPad Pro",
+  "client_settings": "iOS Stable 2.1.1",
+  "actual_result": "Message box is stuck under the keyboard, messages are not visible and the keyboard must be hidden before you can send.",
+  "expected_result": "Message box should slide up above the keyboard to remain visible while the keyboard is shown (similar to split view)",
+  "short_description": "Unlike split view, the message box does not slide up to become visible when Discord is in Slide-Over popup",
+  "steps_to_repro": "- Open Discord above an app in Slide-Over mode - Press the message box."
+ }
+}

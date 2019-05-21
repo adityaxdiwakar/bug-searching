@@ -1,0 +1,15 @@
+{
+ "id": "5827a2722f216b28e1f49001",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 136,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/OmWpoENT",
+ "data": {
+  "actual_result": "emote appears broken",
+  "expected_result": "walking skin tone 3 works",
+  "short_description": "Broken emote (walking)",
+  "steps_to_repro": "- type a message with `:walking::skin-tone-3:` - emote errors "
+ }
+}

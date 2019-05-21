@@ -1,0 +1,15 @@
+{
+ "id": "583e57d429ddf80b6fc446ce",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 93,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/V1orb5o6",
+ "data": {
+  "actual_result": "Chat shows on both sides as connected but can't hear each other on both sides System: Testflight 1.7.8 (47), iOS 10.2 Beta 4",
+  "expected_result": "Hear the other person talking or be able to talk to the other person",
+  "short_description": "Muting and exiting Discord DCs call but shows as still in call.",
+  "steps_to_repro": "- Start a Direct call with someone - mute on iOS - exit app and go back into it  "
+ }
+}

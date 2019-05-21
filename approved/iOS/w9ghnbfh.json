@@ -1,0 +1,15 @@
+{
+ "id": "5828de201ed91136fd0cdf52",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 70,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/w9ghnbfh",
+ "data": {
+  "actual_result": "you have to scroll up and down to force an ack.",
+  "expected_result": "Message is ack'd.",
+  "short_description": "Messages do not get ack'd properly when viewing channels",
+  "steps_to_repro": "- get a new message. - view the channel "
+ }
+}

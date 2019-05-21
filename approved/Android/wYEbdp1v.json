@@ -1,0 +1,30 @@
+{
+ "id": "5bc5ca12374a9672fefd9a92",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2180,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wYEbdp1v",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 771",
+  "actual_result": "It's colour matches to it's surrounding colours.",
+  "expected_result": "It's in a colour that can be seen.",
+  "short_description": "The upload symbol in the upload progress modal is almost completely invisible on light theme.",
+  "steps_to_repro": "- Switch to light theme.- Click on the add content button. - Select a file and send it. - Observe the upload icon."
+ }
+}

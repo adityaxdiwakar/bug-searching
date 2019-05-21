@@ -1,0 +1,30 @@
+{
+ "id": "5abf9c3c87758441a1f50ca7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1236,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xHlmgmNW",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.5",
+  "actual_result": "They are duplicated",
+  "expected_result": "The log messages aren't duplicated",
+  "short_description": "Everytime you open and close the Share menu in Debug, it duplicates a part of the debug log",
+  "steps_to_repro": "- Close the app and reopen it to clear the debug log - Go to Debug screen in account settings. Observe the log messages - Now hit the Share button and close the menu. You can do that several times to make it more noticeable"
+ }
+}

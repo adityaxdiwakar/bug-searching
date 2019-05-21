@@ -1,0 +1,30 @@
+{
+ "id": "5ae0dbc2461ced0909b44c88",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1322,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/m9KWjlj1",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.5.6",
+  "actual_result": "No error toast at all",
+  "expected_result": "Same error toast as for regular voice call",
+  "short_description": "(Android 6+) No error toast when attempting to start a video call without giving the app voice and camera permissions",
+  "steps_to_repro": "- Revoke permissions from Discord to use microphone and camera - Go to a DM with someone - First, select \"Start voice call\". When Discord requests microphone access, an error toast will show up if you choose Refuse.  - Now do the same but with \"Start video call\" instead: when it requests access to camera/microphone choose Refuse"
+ }
+}

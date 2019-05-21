@@ -1,0 +1,30 @@
+{
+ "id": "5b68f0c5f8a2b17a26dd4456",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 873,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EI3W7NRI",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 5",
+  "client_settings": "TestFlight 2.3.6 (6095)",
+  "actual_result": "\u201cMessage channel\u201d message appears before the typing indicator is moved back fully to the left, causing the typing indicator to appear in the message",
+  "expected_result": "\u201cMessage channel\u201d doesn\u2019t appear until the text is fully deleted",
+  "short_description": "\u201cMessage channel\u201d appears before text is fully deleted and typing indicator flashes in the message when deleting text (happens for a split second and is easier to see on poor connection)",
+  "steps_to_repro": "- Type some text in a channel (I find it works better with a long continuous string of text) - Delete the text you\u2019ve typed, making sure to hold the backspace button - Observe the left side of the message bar as the typing indicator deletes the last of the text - If you don\u2019t notice it, watch closely and try again (you can also take a screen recording and go through frame by frame to see it if testing on good connection) - If testing on poor connection it also works with deleting the text character by character depending on how poor your connection is"
+ }
+}

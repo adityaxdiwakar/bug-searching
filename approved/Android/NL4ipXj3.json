@@ -1,0 +1,17 @@
+{
+ "id": "5be8006817a1eb0dd1239b13",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2311,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NL4ipXj3",
+ "data": {
+  "system_settings": "One plus 6 android 9.0",
+  "client_settings": "7.8.8",
+  "actual_result": "Doesn't actually show any no.",
+  "expected_result": "Red box should show actual no of unread mantion or 9+",
+  "short_description": "Notification no. Not showing for more then 9 notification",
+  "steps_to_repro": "- Have less then 9 notification till then you can see total no of notification on top left corner - Now as soon as those total notification goes over 9 you can't see no. Of notification just empty red box instead"
+ }
+}

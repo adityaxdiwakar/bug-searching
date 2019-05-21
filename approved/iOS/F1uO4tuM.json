@@ -1,0 +1,30 @@
+{
+ "id": "5b689ff438adde6904a05629",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 868,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/F1uO4tuM",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 5",
+  "client_settings": "TestFlight 2.3.6 (6095)",
+  "actual_result": "Link is bolded",
+  "expected_result": "Link should be unbolded",
+  "short_description": "When deleting a message with a link causes the link to appear bold in the delete message popup",
+  "steps_to_repro": "- Post a link where you have perms to delete messages - Delete the link - Observe the thickness of the link in the delete message confirmation"
+ }
+}

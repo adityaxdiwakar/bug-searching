@@ -1,0 +1,30 @@
+{
+ "id": "5967250f169b8ee246ad44ba",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 845,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DUAKxGDa",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit Build 1607",
+  "client_settings": "Discord Stablle 0.0.297",
+  "actual_result": "The discord client get's highlighted as if you had the online status",
+  "expected_result": "Your discord client shouldn't get highlighted in the taskbar while being DnD",
+  "short_description": "The discord application gets highlighted when you get a friend request even if you are DnD",
+  "steps_to_repro": "- Have discord open in the background - Recieve a friend request"
+ }
+}

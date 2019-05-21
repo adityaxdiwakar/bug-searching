@@ -1,0 +1,30 @@
+{
+ "id": "5a80e700e4a2ba1df3054b45",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 578,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1yZBqWTJ",
+ "data": {
+  "system_settings": "iPhone 6 iOS 10.3.2",
+  "client_settings": "TestFlight Build 2.2.2 (2352)",
+  "actual_result": "The first letter of the sentence doesn't get capitalised",
+  "expected_result": "The first letter of the word should be capitalised at the start of a sentence.",
+  "short_description": "Auto-capitalise doesn't auto-capitalise in Channel Topic and Notes",
+  "steps_to_repro": "- Prerequisite: Enable Auto-Capitalisation in Settings> General> Keyboard - Go to a server you have manage channels permission and open the channel setting by holding on a channel - Tap on the Channel Topic Field. - Type some text, and some punctuations etc. - Similarly, open a profile of a user and type in some text in the Note field"
+ }
+}

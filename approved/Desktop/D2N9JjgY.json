@@ -1,0 +1,30 @@
+{
+ "id": "5a38278f4710f11124ab27e8",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1473,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/D2N9JjgY",
+ "data": {
+  "system_settings": "windows 10 x64 home build 1709",
+  "client_settings": "Discord Canary build 8782",
+  "actual_result": "dropdown list shows both channels and categories",
+  "expected_result": "i shouldn't be able to select category for invite target",
+  "short_description": "Able to set Instant invite to category in widget settings",
+  "steps_to_repro": "- enter server settings and widget submenu - open dropdown menu for instant invite"
+ }
+}

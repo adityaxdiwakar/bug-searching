@@ -1,0 +1,24 @@
+{
+ "id": "5b818eb6bc14b56a2213af81",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 950,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0xO8vpcb",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.7 (6930)",
+  "actual_result": "Caps lock turns itself off and you have to turn it back on",
+  "expected_result": "Caps lock should stay on and you can still type in caps",
+  "short_description": "Caps lock turns itself off after sending a message",
+  "steps_to_repro": "- Turn your caps lock on - Type a message with the caps lock - Send the message without turning caps lock off"
+ }
+}

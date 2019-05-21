@@ -1,0 +1,24 @@
+{
+ "id": "59e2789dbecc9fbafa7bd721",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1257,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BAtfZOvW",
+ "data": {
+  "system_settings": "Win 10 (Build 10240) x64 Opera 48.0.2685.39 (PGO)",
+  "client_settings": "0.0.298",
+  "actual_result": "Discord Crashes and displays a button to reload it.",
+  "expected_result": "Going back to where you were and simply not uploading anything.",
+  "short_description": "Trying to upload a second File in a row but cancelling instead Crashes Discord",
+  "steps_to_repro": "- Go to any channel/DM and upload 1 file - Stay in that same Channel/DM - Click the file uploader button again - Click Cancel/X instead of uploading a second file."
+ }
+}

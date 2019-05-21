@@ -1,0 +1,30 @@
+{
+ "id": "5aeda3185e28667890831910",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1375,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/X1OnqTNL",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.6.1",
+  "actual_result": "Only the [1] disappear, not the dot",
+  "expected_result": "[1] badge + unread dot disappear",
+  "short_description": "Marking a DM as read via Quick Switcher does remove the [1] badge but doesn't remove the unread white dot",
+  "steps_to_repro": "- Receive a DM from someone but don't read it - Open Quick Switcher  - Long-press the user's avatar who DMed you, located just below the search bar on the left - Mark as Read"
+ }
+}

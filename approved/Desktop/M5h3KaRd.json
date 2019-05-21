@@ -1,0 +1,24 @@
+{
+ "id": "59dccfa005eb415d019e4c65",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1246,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/M5h3KaRd",
+ "data": {
+  "system_settings": "Windows 7 Pro SP1 64bit",
+  "client_settings": "Canary 0.0165",
+  "actual_result": "Discord client flashes",
+  "expected_result": "Emoji window should appear normally, without discord flashing.",
+  "short_description": "When you click the emoji icon, the discord client flashes. Only like the top half.",
+  "steps_to_repro": "- Press the emoji icon"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "5839b48ffaa35ee715124a38",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 175,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/aPnsGnU1",
+ "data": {
+  "actual_result": "Text flashes in a bit more vivid red color",
+  "expected_result": "Text remains unchanged in any way",
+  "short_description": "Kick/Ban button text flashes when hovering on usernames",
+  "steps_to_repro": "- Right click on username who you can ban/kick - Hover over messages and usernames "
+ }
+}

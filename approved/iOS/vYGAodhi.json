@@ -1,0 +1,24 @@
+{
+ "id": "5bcf736c7ab0337f8b97f25d",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1107,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vYGAodhi",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.0.1",
+  "client_settings": "2.3.9 Testflight",
+  "actual_result": "Doesn\u2019t reappear until re-entering chanel",
+  "expected_result": "The Slowmode bar reappears",
+  "short_description": "Slowmode Bar disappears after putting # twice in one message",
+  "steps_to_repro": "- Go to a chat with SlowMode - Press # twice - Observe where the bar should be"
+ }
+}

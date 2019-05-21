@@ -1,0 +1,15 @@
+{
+ "id": "586db95fbaf47b65524118eb",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 167,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2Ia51eGA",
+ "data": {
+  "actual_result": "The message that gets the tag is separated from the others, both before and after. (on mobile https://images.discordapp.net/.eJwFwcsNwyAMANBduAPmH2eNDlAhgiBSAhF2T1V373tf8VmX2EVnfmjX-jipzHUo4rlyq6rN2a6an5NUmbfOzLn0uw4mbcEhpGBdAtzQx5C0jdEhOhsTgt8cJtCvsmod1Ce_LZgkwUjw0hoZgvSgntHE7w9eVCgF.otMoGoyBPXDZ6sPa9upmM2gLIII) ( on pc: https://images.discordapp.net/.eJwFwdENhCAMANBdGIACFhC3IUjQqJTQmvu43O733le981abOkQGbwD7yYXmrllo5lZ1I2p3zeNkXeiBLJLL8dQuDM4syUTvlmjSmjD4CC4ENAbRWhu8Q48e3n51-nQ9elO_PwbVItY.bEc6sffD4ngwbSG8SQ5SgRer9eY)",
+  "expected_result": "The message with the tag belongs to the same message header as the others, keeping it smooth and with just one timestamp",
+  "short_description": "When tagging, message headers (?) get separated for that message only",
+  "steps_to_repro": "- Send two or more messages, so that you get a message header with two messages inside - Tag someone in your message - Send some more messages afterwards "
+ }
+}

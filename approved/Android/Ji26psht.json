@@ -1,0 +1,17 @@
+{
+ "id": "5babf56b5063366fbc312439",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2046,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ji26psht",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Mini Android 6.0.1",
+  "client_settings": "7.5.5",
+  "actual_result": "it shows: Passed ownership to 3115832... (User ID)",
+  "expected_result": "once you have expanded the server change entry, it should show: Passed ownership to (user) l",
+  "short_description": "passing ownership to another user shows id number in audit log instead of use name",
+  "steps_to_repro": "- grand someone else owndership of your server - open audit log"
+ }
+}

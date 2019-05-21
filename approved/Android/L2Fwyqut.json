@@ -1,0 +1,30 @@
+{
+ "id": "5ae6b3a3671ac1bdb31f6e12",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1344,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/L2Fwyqut",
+ "data": {
+  "system_settings": "Huawei MediaPad M2 - Android 5.1.1",
+  "client_settings": "Discord Alpha 6.5.6",
+  "actual_result": "You are not disconect and you go back to the main menu (While keeping Deafen/Mute)",
+  "expected_result": "You will be disconect and went back to your main menu",
+  "short_description": "Cannot Leave a voice channel while you get Deafen or mute",
+  "steps_to_repro": "- Join a voice channel - Tap on Deafen or Mute button - Tap on your disconect to voice (Do the 2 ''Tap Button'' Steps very quickly)"
+ }
+}

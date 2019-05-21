@@ -1,0 +1,30 @@
+{
+ "id": "5ad4b8f7db21155622de18ab",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1284,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6gPKbB4F",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.9",
+  "actual_result": "On Android they are sorted in the following way: 1) Users you are friends with, sorted by userID ; 2) Users you are NOT friends with, sorted by userID, including yourself",
+  "expected_result": "As on Desktop, users should be sorted from first to last person who added reaction",
+  "short_description": "Users in reactions list are not sorted in the same way as desktop client",
+  "steps_to_repro": "- Find a message with a lot of reactions  - Open the reactions list"
+ }
+}

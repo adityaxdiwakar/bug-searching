@@ -1,0 +1,17 @@
+{
+ "id": "5a73f61da2c4d6367976668b",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1616,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/R17zrBe6",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS x64",
+  "client_settings": "Canary build 10141",
+  "actual_result": "The channel messages scroll in the background",
+  "expected_result": "The changelog should scroll like it does with the arrow keys",
+  "short_description": "Page Up/Down scrolls the messages instead of the changelog",
+  "steps_to_repro": "- Wait for an update / make Discord open the changelog on top of the messages (so, not from settings) - Press Page Up/Down"
+ }
+}

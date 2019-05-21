@@ -1,0 +1,30 @@
+{
+ "id": "5bd2b1e4292c2b0fccff10b2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2241,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cHjja7Ht",
+ "data": {
+  "system_settings": "LG fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.8.0",
+  "actual_result": "The second account doesn't show.",
+  "expected_result": "You should see two different accounts.",
+  "short_description": "Two different accounts with the same profile picture in group DM only shows 1 account.",
+  "steps_to_repro": "- Have an alt with the same username and discriminator (Hole#0001, hole#0001) - Add your alt to your Group DM, and check the Guild DM list."
+ }
+}

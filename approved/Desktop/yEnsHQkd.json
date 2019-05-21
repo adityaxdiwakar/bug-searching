@@ -1,0 +1,24 @@
+{
+ "id": "59c2d4e2a5660ae06f589bea",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1176,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yEnsHQkd",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Latest Discord PTB",
+  "actual_result": "It does nothing",
+  "expected_result": "It should scroll the channels page down",
+  "short_description": "\"NEW UNREADS\" button stopping channels from being dragged",
+  "steps_to_repro": "- Go to a server where you have Manage Channels so you can reorder them - Get an unread notification on a channel that you must scroll down to get to - Drag a channel and move it down and try to make it scroll down - Notice it doesn't"
+ }
+}

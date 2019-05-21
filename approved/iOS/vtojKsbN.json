@@ -1,0 +1,17 @@
+{
+ "id": "5bda3aacc150705d9347edce",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1138,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vtojKsbN",
+ "data": {
+  "system_settings": "Phone 6s iOS 12.1 Dev Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8841)i",
+  "actual_result": "User tag is the same colour of the name",
+  "expected_result": "User tag is darker than the name",
+  "short_description": "User tags aren't darkened when filtering by users in audit log",
+  "steps_to_repro": "- Go to a server where you can view the audit log - Select the filter by user option - Observe the colour of the user tags"
+ }
+}

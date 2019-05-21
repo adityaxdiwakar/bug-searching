@@ -1,0 +1,24 @@
+{
+ "id": "5b96ee955733b2233934188a",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 995,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/j7XBf9P1",
+ "data": {
+  "system_settings": "iPad 2nd Gen iOS 9.3.5",
+  "client_settings": "Stable 2.3.7",
+  "actual_result": "The eyes disappear",
+  "expected_result": "Nothing happens",
+  "short_description": "Eyes in the wumpus image in Nearby disappears in landscape mode (iPad only)",
+  "steps_to_repro": "- Go to your friends list - Open the \"Add Friend\" page - Switch to landscape mode and watch the image of wumpus"
+ }
+}

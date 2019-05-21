@@ -1,0 +1,30 @@
+{
+ "id": "59c0b0e8d345016910562e5d",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 742,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cWD4O4Af",
+ "data": {
+  "system_settings": "Android 7.0 Moto G4",
+  "client_settings": "Alpha 5.1.8",
+  "actual_result": "The \u26a0\ufe0f shows on Desktop but it's a \ud83d\udd12 on Android",
+  "expected_result": "Even though only a certain role can access it, the \u26a0\ufe0f should still show",
+  "short_description": "NSFW channel icon isn't consistent across clients",
+  "steps_to_repro": "- Make a new channel - Have it so only a certain role can access it - After that mark it as NSFW"
+ }
+}

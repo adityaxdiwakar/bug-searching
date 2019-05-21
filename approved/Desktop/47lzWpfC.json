@@ -1,0 +1,30 @@
+{
+ "id": "5bc5fa7228f8a14bf2a61817",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3191,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/47lzWpfC",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1803)",
+  "client_settings": "Discord Canary 0.0.215, Build 26299",
+  "actual_result": "You're unable to select multiple files, as if you lack permission to override the Slow Mode",
+  "expected_result": "You should be able to select multiple files to upload as you have permission to override the Slow Mode",
+  "short_description": "Cannot select multiple files to upload in a Slow Mode channel when you have permission to override it",
+  "steps_to_repro": "- Have Manage Channel permission in a server - Enable Slow Mode in a channel in the server - Click the plus icon to open the File Explorer - Attempt to left click drag to highlight multiple files and observe"
+ }
+}

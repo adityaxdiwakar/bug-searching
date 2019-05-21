@@ -1,0 +1,30 @@
+{
+ "id": "5aa231965a068910259e7ee0",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1177,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Rg89Xk9a",
+ "data": {
+  "system_settings": "Moto G 4 Play, Nougat 7.1.1",
+  "client_settings": "Discord Alpha Build 6.3.4",
+  "actual_result": "You're able to open both menus, switch servers, and click buttons while the Discord loading screen (splash screen) remains. Seems to cause lag and make things take longer to load. This doesn't work until the notification bar loads in during the start up screen.",
+  "expected_result": "You should not be able to open either of the menus before Discord finishes loading in.",
+  "short_description": "You're able to open the server bar and member list before Discord finishes starting up.",
+  "steps_to_repro": "- Have Discord completely closed - Open Discord, while swiping left or right to open the server list or member list as you would if it were open."
+ }
+}

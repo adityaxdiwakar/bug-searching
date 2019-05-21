@@ -1,0 +1,17 @@
+{
+ "id": "5bd4653df9cc5c27c49f3389",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2248,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/uUZZxEml",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.8.2",
+  "actual_result": "It doesnt close QS after redirecting to the channel the in-app notification was from",
+  "expected_result": "It should take you to the channel and close QS",
+  "short_description": "Opening an in-app notification while Quick Switcher is open doesn't close Quick Switcher",
+  "steps_to_repro": "- Open Quick Switcher via double-tap on the back button, (otherwise you can't get in-app notifs). Make sure you've set \"Back button opens channel drawer\" for that. - Get an in-app notification - Open it"
+ }
+}

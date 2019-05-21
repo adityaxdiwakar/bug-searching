@@ -1,0 +1,30 @@
+{
+ "id": "5b6e81a07739502957221c52",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1816,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3WfZrtSx",
+ "data": {
+  "system_settings": "Android oreo LG G6+",
+  "client_settings": "Discord android alpha 7.2.9",
+  "actual_result": "Notes bar is highlighted with text line",
+  "expected_result": "Notes bar should not be highlighted with text line",
+  "short_description": "Notes show up as highlighted with text line on user profile if you swipe from user info to mutual and back while the notes header is partially or completely covered",
+  "steps_to_repro": "- Find a user with 6+ connected accounts  - Open their profile  - Scroll down on the user info tab so that the notes header is partially or completely covered  - Make sure the notes themselves or the bar where your type notes is fully visible  - Swipe right to mutual servers  - Swipe back to user info"
+ }
+}

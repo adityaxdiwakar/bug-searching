@@ -1,0 +1,17 @@
+{
+ "id": "5bb94336b4a65168d930ccd7",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1066,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1En9Mbo4",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12",
+  "client_settings": "TestFlight 2.3.9 (8085)",
+  "actual_result": "Bottom bar overlaps bottom role (@everyone)",
+  "expected_result": "Bottom bar shouldn't overlap bottom role (@everyone)",
+  "short_description": "[iPhone X/XS/XS Max] Bottom bar overlaps roles on servers with many roles",
+  "steps_to_repro": "- Open Server Settings - Tap Roles - Create enough roles so that you need to scroll down to view them all - Scroll down to the bottom"
+ }
+}

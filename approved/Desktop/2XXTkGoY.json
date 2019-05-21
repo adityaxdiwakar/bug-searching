@@ -1,0 +1,17 @@
+{
+ "id": "5bedeea7d1b0bb45feed0764",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3394,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2XXTkGoY",
+ "data": {
+  "system_settings": "Windows 10 64x (1809)",
+  "client_settings": "Canary 28013",
+  "actual_result": "Shows Disconnected",
+  "expected_result": "Shows Voice Connected",
+  "short_description": "[Overlay] Opening a Game with overlay while in a VC, causes it to show as Disconnected",
+  "steps_to_repro": "- Join a VC! - Open a game with overlay - Open overlay, and check the status at the bottom of channel list"
+ }
+}

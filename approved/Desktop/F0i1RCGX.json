@@ -1,0 +1,15 @@
+{
+ "id": "587a28f15981c38c87e2eb90",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 331,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/F0i1RCGX",
+ "data": {
+  "actual_result": "Weird black box behind the picture.",
+  "expected_result": "Nothing show up behind the picture",
+  "short_description": "Black box appearing when opening a .png picture with transparent background",
+  "steps_to_repro": "- Send a .png image without background  - Click on the picture "
+ }
+}

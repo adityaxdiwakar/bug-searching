@@ -1,0 +1,30 @@
+{
+ "id": "5b8edc2a13ba60862338b145",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2922,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IhYWMW2K",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 23018",
+  "actual_result": "Role name resets back to \"new role\" without any message",
+  "expected_result": "Role name saves",
+  "short_description": "Saving a role with too long a name resets the name with no message",
+  "steps_to_repro": "- Create a new role on a server that has two words - Make the first word something short, and just hold down the \"l\" button for about five seconds - After letting go of the button, click the save button and observe the role name"
+ }
+}

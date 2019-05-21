@@ -1,0 +1,30 @@
+{
+ "id": "5ba2df8520d52e466ded577f",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1023,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Zma30yUp",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta",
+  "client_settings": "TestFlight 2.3.8 (7308)",
+  "actual_result": "User avatars and status indicators shrink more with each time you change the size of the drawer",
+  "expected_result": "User avatars and status indicators stay the same size",
+  "short_description": "User avatars and status indicators shrink in the mention drawer when repeatedly changing the size",
+  "steps_to_repro": "- Go into a channel where multiple users have sent messages - Open the mention drawer, and type some letters that will shrink the drawer but not close it - Delete the letters you typed and observe the mention drawer - Repeatedly do this multiple times in a row and observe the user avatars and status indicators as you do so"
+ }
+}

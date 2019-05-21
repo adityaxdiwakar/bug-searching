@@ -1,0 +1,16 @@
+{
+ "id": "58f9fbdb236a8aca28635622",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 530,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wxLFZXnw",
+ "data": {
+  "system_settings": " Win 10 x64 build 16170, Discord Canary",
+  "actual_result": "Only the cursor changes, and no error appears. This is confusing to the user.",
+  "expected_result": "The error \"Disabled for @ everyone\" should appear",
+  "short_description": "When hovering over the toggle switch for a permission option, disabled role settings don't show their error. Hovering over descriptions works fine",
+  "steps_to_repro": "- Go to Server Settings -> Roles - Select @ everyone - Hover your cursor over THE ON/OFF TOGGLE SWITCH (not the description) for \"Allow anyone to mention this role\" "
+ }
+}

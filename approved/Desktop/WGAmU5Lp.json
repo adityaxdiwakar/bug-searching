@@ -1,0 +1,30 @@
+{
+ "id": "5b968c9cebe6a2128c08e084",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2955,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WGAmU5Lp",
+ "data": {
+  "system_settings": "Edition: Windows 10 Pro Version: 1803 OS Build: 17134.228",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 23017, Version Hash: ff85ea5ba61f12b4cac137b048a25ed0dd5648de",
+  "actual_result": "On your status, the song will continue to count the time left until the song ends like the song is still playing.",
+  "expected_result": "It should stop and show nothing, just like it does if you were to pause the song without it being on repeat",
+  "short_description": "When your spotify song is on loop and you pause it, it will be paused on spotify but it will continue counting on status",
+  "steps_to_repro": ""
+ }
+}

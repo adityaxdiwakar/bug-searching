@@ -1,0 +1,30 @@
+{
+ "id": "5be7edded2cefc5e530d9c5a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3372,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IN5MTAO1",
+ "data": {
+  "system_settings": "Windows 10 home 64-bit (1803)",
+  "client_settings": "Discord Canary build: 27811",
+  "actual_result": "Discord detects \"on\" from \"von\" as a filter and puts a space after the letter v",
+  "expected_result": "search history should stay the same no matter the language you change to",
+  "short_description": "using the search filter `von` in German then changing the language to English adds a space after v in search history",
+  "steps_to_repro": "- click on the search bar and start a search - type (von:) which means from to filter by user - select a random user then start a search for it to save in history - go to language settings and change the language back to English - open the search bar and observe - (this can be done with other filters/languages if the older language contains filters from the new one just like \"von\" contains \"on\")"
+ }
+}

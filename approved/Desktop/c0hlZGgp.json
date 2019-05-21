@@ -1,0 +1,17 @@
+{
+ "id": "5c1f9ccfbf136b8af2791a41",
+ "closed": false,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 3536,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/c0hlZGgp",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 30290, Native Host 0.0.226",
+  "actual_result": "The music continues forever and you can play it to your friends",
+  "expected_result": "After 30 consecutive seconds, spotify is automatically stopped and the red spotify banner appears on top of your client",
+  "short_description": "Spotify will continue to play after 30 seconds of consecutive transmitting in voice chat",
+  "steps_to_repro": "- Join a cool voice chat - play spotify through your phone or your computer and make sure it shows as your playing status! - transmit 30 consecutive seconds. This can be either spotify from your phone, or any other creative way (like playing a video while spotify is also playing)"
+ }
+}

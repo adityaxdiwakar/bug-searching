@@ -1,0 +1,24 @@
+{
+ "id": "5c0406be7ac42b24238f41ff",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1203,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WmYrN41I",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9477)",
+  "actual_result": "Shift key flashes",
+  "expected_result": "Shift key doesn\u2019t flash",
+  "short_description": "Removing the closing set of colons on an emoji causes the shift button to flash",
+  "steps_to_repro": "- Make sure you have auto-caps turned on in settings - Type the name of an emoji - Remove the closing colon several times, observing the shift key each time"
+ }
+}

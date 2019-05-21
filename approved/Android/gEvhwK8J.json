@@ -1,0 +1,23 @@
+{
+ "id": "583358c03962b51acef97cab",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 104,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gEvhwK8J",
+ "data": {
+  "system_settings": " Android 6.0.1 ",
+  "actual_result": "Says that you're still in voice chat and shows to others that you're still in voice chat too System Settings: Android 6.0.1",
+  "expected_result": "Should remove you from voice chat when you disconnect",
+  "short_description": "Disconnecting from voice using the disconnect button in the dropdown menu doesn't remove you from voice chat, but does disconnect you",
+  "steps_to_repro": "- Join voice chat - Disconnect from the notification bar (image) - Look at voice chat from mobile "
+ }
+}

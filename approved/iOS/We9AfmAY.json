@@ -1,0 +1,17 @@
+{
+ "id": "59d287e3ef6418bd6ff128d5",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 349,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/We9AfmAY",
+ "data": {
+  "system_settings": "iPhone 7 10.2.1",
+  "client_settings": "1.9.1",
+  "actual_result": "The application crashes",
+  "expected_result": "The area code dropdown appears and is interactable",
+  "short_description": "Changing area code on phone verification pop up crashes app.",
+  "steps_to_repro": "- Get account flagged - The \"You must Verify your Phone Number\" screen appears - Tap on the phone icon - Tap on the area code drop down"
+ }
+}

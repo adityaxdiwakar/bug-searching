@@ -1,0 +1,30 @@
+{
+ "id": "5b794f73c58a8269e2764e8b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2744,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LyXcAoPG",
+ "data": {
+  "system_settings": "Microsoft Windows [Version 10.0.16299.611]",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 22189, Version Hash: 81cb192b333eeafe2e866b97813a98b23a3b7931",
+  "actual_result": "It shows the dialogue to confirm deleting that message",
+  "expected_result": "Directly delete the message",
+  "short_description": "Shift clicking `Delete` on the menu given by the three dots on the message doesn't skip the delete confirmation menu",
+  "steps_to_repro": "- Send a message or pick a message you have permissions to delete - Click on the three dots on the side of the desired message - Shift click the `Delete` button"
+ }
+}

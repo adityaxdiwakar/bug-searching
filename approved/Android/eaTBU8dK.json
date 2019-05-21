@@ -1,0 +1,30 @@
+{
+ "id": "5adcc81d284fba2b749aeba1",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1312,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eaTBU8dK",
+ "data": {
+  "system_settings": "LineageOS 15.1 (Android 8.1) on Asus Zenfone 2 Laser (ZE550KL)",
+  "client_settings": "Beta 6.5.5",
+  "actual_result": "Instead, it's showing as 'Date Time' (e.g, 21 apr 2018 15:04). Also, 'Today' is not shown for messages sent that day. **Note, when switching between languages, due to another bug, you may need to restart the client.**",
+  "expected_result": "Message is showing as posted 'Yesterday at etc.'",
+  "short_description": "'Yesterday' not showing in Italian locale",
+  "steps_to_repro": "- Change your language to Italian (if it already isn't) - Check a message sent the day before"
+ }
+}

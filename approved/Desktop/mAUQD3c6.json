@@ -1,0 +1,24 @@
+{
+ "id": "596084d5124e20b2e84a9388",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 826,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mAUQD3c6",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-Bit Build 1607",
+  "client_settings": "Discord Canary 0.0.157 Build 2121",
+  "actual_result": "Doesn't show anything it shows only their avatar",
+  "expected_result": "Should show what their status is (Online, Away, DnD, Offline)",
+  "short_description": "In the mention list it doesn't show the status of users (Online, Away, DnD, Offline)",
+  "steps_to_repro": "- Go to a chat - Press '@'"
+ }
+}

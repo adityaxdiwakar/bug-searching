@@ -1,0 +1,30 @@
+{
+ "id": "5bca68618161e033ac8bcab7",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3239,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8uYsp5nq",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Release Channel: stable, Build Number: 26433, Version Hash: 10db165fe35858dfb89d6508a46717c1296b3ebc",
+  "actual_result": "The discord window grows in size every time it's bought back from being closed or minimised.",
+  "expected_result": "The discord window would remember it's size and location",
+  "short_description": "Discord window grows every time it's opened (after being closed or minimised)",
+  "steps_to_repro": "- Set Windows 10 display scale to a custom factor (eg. 120%) - open discord - minimise discord - restore discord window"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b997f32ee888c0e8ad1451c",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 1000,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/806dXeG8",
+ "data": {
+  "system_settings": "iPad Air 2, iOS 12 Public Beta 10",
+  "client_settings": "TestFlight 2.3.8 (7049)",
+  "actual_result": "They don't use the full space of the category bar. Also it is scrollable now even though there is nothing to scroll.",
+  "expected_result": "There should be more padding between them to use the full width of the category bar.",
+  "short_description": "[iPad only] Wrong/missing padding between emoji categories in the emote picker",
+  "steps_to_repro": "- Go to any text chat - Click on the emote picker symbol - Observe the padding/spacing between the emoji categories"
+ }
+}

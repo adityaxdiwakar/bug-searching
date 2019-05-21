@@ -1,0 +1,17 @@
+{
+ "id": "5b6ebda6e48135632250d143",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2669,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SY6Z3Uaq",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Stable 21681",
+  "actual_result": "A \"veto\" or \"cross\" error appears (described this way by users).",
+  "expected_result": "The image upload screen appears as normal.",
+  "short_description": "Unable to drag and drop images while in Admin mode",
+  "steps_to_repro": "- Run Discord as Admin - Drag an image into the text bar"
+ }
+}

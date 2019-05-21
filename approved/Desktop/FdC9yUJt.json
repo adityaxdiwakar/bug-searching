@@ -1,0 +1,16 @@
+{
+ "id": "584d31b6abfdc77d19d5c6b7",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 236,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FdC9yUJt",
+ "data": {
+  "system_settings": " Windows 10 Professional, Discord Canary. (Submitted on behalf of LackingAGoodName#1740)",
+  "actual_result": "Returns \ud83d\udd70 emote.",
+  "expected_result": "Return an emote for \"piece\", if that were to exist",
+  "short_description": "':piece' Emote search returns \ud83d\udd70Emote",
+  "steps_to_repro": "- Type :piece into the message field "
+ }
+}

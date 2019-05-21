@@ -1,0 +1,17 @@
+{
+ "id": "5af4a42523f8200196680910",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 735,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9JsQhlmx",
+ "data": {
+  "system_settings": "iPad Pro, iOS 11.3.1",
+  "client_settings": "TestFlight 2.3.2 (4280)",
+  "actual_result": "only one of them shows up, sometimes the servers can be random on which ones show up",
+  "expected_result": "the two servers show up without problem",
+  "short_description": "if you search for two servers with the same name only one shows up",
+  "steps_to_repro": "- create/join 2 servers with the same name - search them up with quick switcher"
+ }
+}

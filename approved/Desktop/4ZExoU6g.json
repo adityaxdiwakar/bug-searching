@@ -1,0 +1,30 @@
+{
+ "id": "5b2c39cebf2ebf5bfa006edc",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2174,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4ZExoU6g",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 17481",
+  "actual_result": "Context menu appears way too far up, going out of view if the channel is near the top of the server",
+  "expected_result": "Context menu appears next to where you right-clicked",
+  "short_description": "Right-click context menus appear way too far up",
+  "steps_to_repro": "- Right-click a server far down in your server list (it takes me 11 servers down to trigger this, but it may take you more or less) to open its Context Menu - Now Right-click on a channel to have its Context Menu appear"
+ }
+}

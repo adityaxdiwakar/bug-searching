@@ -1,0 +1,24 @@
+{
+ "id": "591f3b93f76500e0b449c027",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 472,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TMnjqm5j",
+ "data": {
+  "system_settings": "-a",
+  "client_settings": "discord alpha 3.8.8",
+  "actual_result": "the app reloads",
+  "expected_result": "it quits app",
+  "short_description": "opening settings and pressing back button puts it in a inifite loop and can't quit app",
+  "steps_to_repro": "- open settings - make sure you are on 3.8.8 - try to exit app using the back button"
+ }
+}

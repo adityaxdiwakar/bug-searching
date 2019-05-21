@@ -1,0 +1,30 @@
+{
+ "id": "5a85cd450b201920cdb14273",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 591,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cKT0Ewt2",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.5 & iPad Air 2, iOS 11.3 PB 2",
+  "client_settings": "TestFlight 2.2.3 (2617)",
+  "actual_result": "All lines except the last one don't have centered strikethrough.",
+  "expected_result": "The whole text should use centered strikethrough.",
+  "short_description": "Strikethrough for multiple lines looks more like an underline",
+  "steps_to_repro": "- Go to any text channel - Write any message that is longer than 1 line - Use strikethrough for the whole text`~~` - Send the text and observe it"
+ }
+}

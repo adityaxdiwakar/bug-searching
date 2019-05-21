@@ -1,0 +1,15 @@
+{
+ "id": "5825fc5d8eee56152d23ee46",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 68,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1WF4Z1Ac",
+ "data": {
+  "actual_result": "Only the link has a gif tag System: Latest testflight ios 10.2 PB2",
+  "expected_result": "Both have a gif tag",
+  "short_description": "Embedded gifs don't show the gif tag while uploads do",
+  "steps_to_repro": "- Upload a gif to a chat - Paste a link to a gif in the chat - Notice the difference "
+ }
+}

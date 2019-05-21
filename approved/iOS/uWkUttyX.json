@@ -1,0 +1,30 @@
+{
+ "id": "5ae29e185cc9f586296f5640",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 699,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uWkUttyX",
+ "data": {
+  "system_settings": "iPhone SE, iOS 11.3",
+  "client_settings": "TestFlight 2.3.1 (4025)",
+  "actual_result": "The text is moving up/down and getting blocked by other text.",
+  "expected_result": "The text should go up and down normally.",
+  "short_description": "Text moves strangely when linking xbox live account.",
+  "steps_to_repro": "- User settings - Connections - Add new connection - Select Xbox live - When the keyboard is up, press return - Observe the \u201cEnter the code...\u201d text."
+ }
+}

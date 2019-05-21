@@ -1,0 +1,30 @@
+{
+ "id": "5b4d3d3d8cb1f836a422ebb1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2283,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/J5UQvGR3",
+ "data": {
+  "system_settings": "Macbook Air (Early 2015), macOS Sierra 10.12.6",
+  "client_settings": "Discord Canary (Build 18866)",
+  "actual_result": "It does a weird flash",
+  "expected_result": "It should just change without a weird flash/animation",
+  "short_description": "You can notice a very poor animation/flash when changing status from online to dnd and vice versa",
+  "steps_to_repro": "- Change your status from online to dnd - vice versa - observe what happens in between of the change"
+ }
+}

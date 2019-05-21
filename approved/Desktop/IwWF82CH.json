@@ -1,0 +1,30 @@
+{
+ "id": "5a6cf8600a6648c77344006a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1598,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IwWF82CH",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Release Channel: stable, Build Number: 10000, Version Hash: 76aba7c3404b6a837eb59234deda9b5180ca43d3",
+  "actual_result": "The Pop-up stays open",
+  "expected_result": "The Pop-up should close",
+  "short_description": "Channel Pop-up doesn't close upon server switching",
+  "steps_to_repro": "- Make sure you have unread messages - Right click on a channel - Use alt+shift+\u2b06\u2b07 to go to another server"
+ }
+}

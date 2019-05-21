@@ -1,0 +1,22 @@
+{
+ "id": "582468c25c1fea82dc6def74",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 90,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IrzwNVax",
+ "data": {
+  "actual_result": "Discord says [user] left the group Reported by LeeCareGene#7659",
+  "expected_result": "Discord says [user] removed [another user] from the group",
+  "short_description": "Discord says [user] left the group when someone is removed from the group by the user on PC",
+  "steps_to_repro": "- Remove someone from a group on PC "
+ }
+}

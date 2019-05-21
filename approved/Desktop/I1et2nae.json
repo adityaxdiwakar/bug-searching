@@ -1,0 +1,30 @@
+{
+ "id": "5bc9472fc5af0c0e8b2108fc",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3222,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I1et2nae",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1809",
+  "client_settings": "Discord Canary 26538",
+  "actual_result": "It does not truncate and the modal breaks. You can click the middle of the modal to be able to access the toggle.",
+  "expected_result": "The username correctly truncates in the modal.",
+  "short_description": "Long usernames break the Transfer Ownership modal",
+  "steps_to_repro": "- Have a user with a long username such as \"WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\" - Go to Members in Server Settings - Right click on the user and click Transfer Ownership"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b5b2ba99339ace0b10a97ff",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2453,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RxFkhS45",
+ "data": {
+  "system_settings": "Win 10 x64 Home",
+  "client_settings": "Canary build 9931",
+  "actual_result": "Flash's a white bar at the top",
+  "expected_result": "Should not flash",
+  "short_description": "When in a group dm then clicking screen share and choosing application window, a white bar flash's at the top of discord.",
+  "steps_to_repro": "- Go to group dm - start a call - click screen share - pick application window - observe"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "587a53df4cc36e8ef5f671eb",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 332,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RV7peiaJ",
+ "data": {
+  "actual_result": "A  yellow outline.",
+  "expected_result": "no yellow outline",
+  "short_description": "the add role search box has a yellow field outline",
+  "steps_to_repro": "- go to someone's profile - press the \"+\" - search for a role to add "
+ }
+}

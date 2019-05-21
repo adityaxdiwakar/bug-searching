@@ -1,0 +1,24 @@
+{
+ "id": "5c190db4097e512d3a07090b",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1238,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fU99E9F9",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.2 Dev Beta",
+  "client_settings": "TestFlight 2.4.1 (10175)",
+  "actual_result": "Keyboard switches back to the ABC keyboard",
+  "expected_result": "Keyboard stays on the 123 keyboard",
+  "short_description": "Inserting characters from the 123 keyboard before a mention switches the keyboard",
+  "steps_to_repro": "- Type out a user mention - Move your typing cursor in front of the @ symbol - Switch to the 123 keyboard and type a character - Observe the keyboard"
+ }
+}

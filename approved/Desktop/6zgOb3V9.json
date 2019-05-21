@@ -1,0 +1,30 @@
+{
+ "id": "5c1fa2022f35f969eb9ea4a0",
+ "closed": false,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 3537,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6zgOb3V9",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Desktop Canary, 30284",
+  "actual_result": "The voice lines don't disappear when your microphone off.",
+  "expected_result": "The voice lines don't disappear even though your microphone off.",
+  "short_description": "When you turn off your microphone, the voice lines stay there.",
+  "steps_to_repro": "- Go to User Settings > Voice & Video - At the MIC TEST press the \"Let's Check\" button. - Talk and off your microphone. - Press \"Stop Testing\" button. - Press again the \"Let's Check\" button. - The voice lines stay there."
+ }
+}

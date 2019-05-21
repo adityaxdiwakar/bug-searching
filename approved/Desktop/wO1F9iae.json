@@ -1,0 +1,30 @@
+{
+ "id": "5bb5c81c734d7b7bf4367550",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3084,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wO1F9iae",
+ "data": {
+  "system_settings": "Windows 10 1803",
+  "client_settings": "Desktop Canary Build 25325",
+  "actual_result": "The underline is the colour of the role before highlighted",
+  "expected_result": "The underline should be the same color or white as the rest of the name",
+  "short_description": "When you highlight someone's name in a server the underline stays the role colour whereas the rest is highlighted",
+  "steps_to_repro": "- Give a user a role and must be a coloured role - Highlight/hold down left click and select a user with a role - Move your mouse away from the highlighted member - Move your mouse over the name and observe it's a role colour of the server member and not highlighted blue (or grey if you click on another page)"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5b5d30c02aa9ef7a2de9a746",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1699,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5af202d4885b60489848e72d",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P4, unlikely to ever be fixed.",
+   "color": "purple"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PrmRiyro",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8\u25aaAndroid 8.0",
+  "client_settings": "Discord Alpha 7.1.2",
+  "actual_result": "the blue highlight doesn't show",
+  "expected_result": "A blue highlight should overshadow the text written `like this`, as it does with normal text",
+  "short_description": "Unable to highlight text in single backtick codeblocks with S pen.",
+  "steps_to_repro": "- type a message `in this format` (optional: leave some normal text next to it) - copy the text with your S pen"
+ }
+}

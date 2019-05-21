@@ -1,0 +1,30 @@
+{
+ "id": "5bf95f1b2d3f1f4bc97b35fa",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3430,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4NRdnNkA",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 28393",
+  "actual_result": "The channel does not automatically get marked as read",
+  "expected_result": "The channel gets marked as read",
+  "short_description": "Channel does not automatically get marked as read when any audio track is uploaded to Discord",
+  "steps_to_repro": "- Ask your friend to upload some cool beats - Click on the channel and scroll to the bottom"
+ }
+}

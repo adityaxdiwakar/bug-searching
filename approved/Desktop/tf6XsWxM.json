@@ -1,0 +1,23 @@
+{
+ "id": "59093a545c2f1cb05d8efb02",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 587,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tf6XsWxM",
+ "data": {
+  "system_settings": " Win10, latest canary and Xubuntu 16.04, also latest canary",
+  "actual_result": "Your entire window goes black--well, not black...but whatever color you have depending on your theme.",
+  "expected_result": "Uhm...I dunno, maybe you just lose the option or smth?",
+  "short_description": "Getting your permission denied while viewing the Audit Logs causes the whole window to go blank",
+  "steps_to_repro": "- Get your permission to view it denied "
+ }
+}

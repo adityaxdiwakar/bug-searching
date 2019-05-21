@@ -1,0 +1,30 @@
+{
+ "id": "5a1c4e85619fa83a99b7afa3",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 1400,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aLzajE3B",
+ "data": {
+  "system_settings": "Windows 8.1 x64",
+  "client_settings": "Canary build 7653, version 0.0.180",
+  "actual_result": "A few small leters will apear under the invite",
+  "expected_result": "Invite shoud look fine",
+  "short_description": "Servers with a very long name has a two or more letter word under the invite",
+  "steps_to_repro": "- Make a server with a very long name with like 36 words that doesn't have a server icon.- Make a invite and post it in a DM or server"
+ }
+}

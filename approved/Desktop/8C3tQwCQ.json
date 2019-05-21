@@ -1,0 +1,16 @@
+{
+ "id": "58fa29436c812ea3d7f04405",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 535,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8C3tQwCQ",
+ "data": {
+  "system_settings": " Canary, Windows 10 x64",
+  "actual_result": "All of the above happens and the Esc label under the X button moves to the left temporarily until the shaking effect is over.",
+  "expected_result": "The screen shakes, etc. without the Esc label moving around",
+  "short_description": "The \"Esc\" label under the X button on server settings will move to the left while the screen is shaking if you try to escape settings without saving your changes",
+  "steps_to_repro": "- Open server settings - Change anything to bring the save changes pop-up - Click on the X button (**DO NOT HIT THE ESCAPE KEY**) "
+ }
+}

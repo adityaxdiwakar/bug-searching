@@ -1,0 +1,30 @@
+{
+ "id": "5a6ba1dee299712944a62da2",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 544,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tvNNTgkz",
+ "data": {
+  "system_settings": "iPhone 8 +, iOS 11.3 Beta",
+  "client_settings": "Discord TestFlight 2.2.1 (2236)",
+  "actual_result": "When you scroll down too fast, you will notice that some members will smash up against the role, aka Online - number",
+  "expected_result": "Member list should go up as its being scrolled down, and nothing is being smashed.",
+  "short_description": "Users Fly Upwards and Smashes with Role Name when Scrolling Down Too Fast",
+  "steps_to_repro": "- Go to an huge server such as DTesters, DFeedback, DDevs, etc. - Make sure you are in a general channel. - Scroll down the member list slowly at first to observe, then scroll down as fast that you possibly can."
+ }
+}

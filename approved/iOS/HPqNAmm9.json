@@ -1,0 +1,30 @@
+{
+ "id": "5ac52cf33331468da940b86e",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 661,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HPqNAmm9",
+ "data": {
+  "system_settings": "iPad (4th Generation), iOS 10.3.3 (Final supported OS by Apple)",
+  "client_settings": "Stable 2.2.8",
+  "actual_result": "Keyboard will split, and increase message area height to match the lower boundary of the split keyboard.",
+  "expected_result": "Keyboard should split, while keeping message area height the same.",
+  "short_description": "Splitting the keyboard results in an enlarged message area. Potentially OS specific.",
+  "steps_to_repro": "- While on Landscape mode: On any chat dialogue, tap on the message area. - Split the keyboard. - Observe."
+ }
+}

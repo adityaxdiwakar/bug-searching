@@ -1,0 +1,17 @@
+{
+ "id": "59bc4383384e2ae962d2a137",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1133,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qRxyAZLp",
+ "data": {
+  "system_settings": "Windows 10 x64 version 1703",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "The button isn't clickable...",
+  "expected_result": "Messages should be marked as read",
+  "short_description": "the \"mark as read\" button isn't clickable in a category if there are new messages.",
+  "steps_to_repro": "- Make a category with a subtextchannel - Have someone to type in the subtextchannel - Right-click the category and click on \"mark as read\""
+ }
+}

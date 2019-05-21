@@ -1,0 +1,24 @@
+{
+ "id": "59974b8cc23ccf2039637247",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1014,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lX8pB907",
+ "data": {
+  "system_settings": "Windows 7 64x SP2",
+  "client_settings": "Stable 0.0.298",
+  "actual_result": "Audit Entry displays \"Set new member notification to \\*\\*\"",
+  "expected_result": "Audit Entry to say \"Disabled New Member Message\" or similiar",
+  "short_description": "Disabling New member messages creates a weird AuditLog",
+  "steps_to_repro": "- Go to the Guild settings and set New Member message to \"No New Member Message\" - Visit the audit log and expand the server change entry."
+ }
+}

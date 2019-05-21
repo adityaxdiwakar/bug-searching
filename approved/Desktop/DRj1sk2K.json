@@ -1,0 +1,24 @@
+{
+ "id": "5b612e0ac6bb3a025e51c70f",
+ "closed": true,
+ "idList": "5b61224086cd0b5178e8f10c",
+ "idShort": 2561,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DRj1sk2K",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Canary Build 20433",
+  "actual_result": "The green dot doesn't show at all",
+  "expected_result": "The green dot should show next to your name once you have switched",
+  "short_description": "Green dot doesn't show if you immediately switch from PTT keybind to PTT Priortiy keybind",
+  "steps_to_repro": "- Switch to Push to Talk - Set it to one key like G - Go to Keybinds - Assign Push To Talk Priority a different key like Mouse 3 - Go into a voice channel with friends - Hit your push to talk keybind and immediately switch to your Priorty keybind"
+ }
+}

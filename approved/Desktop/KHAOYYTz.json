@@ -1,0 +1,29 @@
+{
+ "id": "590bd6cfb3990ea592f5c61f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 597,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KHAOYYTz",
+ "data": {
+  "system_settings": " Windows 10 x64, latest Canary (0.0.153)",
+  "actual_result": "The invite points to the default channel",
+  "expected_result": "The invite should point to the channel you edited (like those created via the quick invite button)",
+  "short_description": "Invites created under channel settings always point to the default channel",
+  "steps_to_repro": "- Edit a non-default text channel - Go to the Invites page and use the create link - Dismiss the invite link box - Note that the created invite is visible in the invites list - Leave and re-enter the channel's settings - Note that the created invite is now missing on the Invites page - Access the Invites page under Server settings - Note that the created invite belongs to the default channel "
+ }
+}

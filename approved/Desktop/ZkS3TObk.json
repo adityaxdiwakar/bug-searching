@@ -1,0 +1,30 @@
+{
+ "id": "5bb03ca4bf159d602d68b905",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3063,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZkS3TObk",
+ "data": {
+  "system_settings": "MacOS Mojave 10.14, 13-inch MacBook Air 2017",
+  "client_settings": "Stable build #24972",
+  "actual_result": "The game icon appears; however, there is a sliver of a duplicate game icon under the original icon.",
+  "expected_result": "There should be one game icon next to the game's name in the Games tab.",
+  "short_description": "Game icons duplicate at bottom of icon",
+  "steps_to_repro": "- Set Discord's zoom to 67% (setting chat font scaling to 80% may help with repros) - Have a friend play a game that can appear in the Games tab (reproduced with Undertale and osu!, can only be reproduced with some game icons) - Open Games tab - observe"
+ }
+}

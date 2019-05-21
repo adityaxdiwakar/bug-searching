@@ -1,0 +1,17 @@
+{
+ "id": "5be8bc5d5ec41b65b2a482bf",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 3374,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/a8eC4t1i",
+ "data": {
+  "system_settings": "Fedora 28 x64 with 4.18.16-200 kernel",
+  "client_settings": "Canary 27818 on Google Chrome 70.0.3538.77 & Canary 27818 on Firefox Quantum 63.0",
+  "actual_result": "Never get sets.",
+  "expected_result": "Icon to be set",
+  "short_description": "[Browser Exclusive] Group icon won't upload",
+  "steps_to_repro": "- Create a DM group or use a preexisting one - Right click group - Set the icon"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58d05cb63e5d9fba2ecbeda2",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 443,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qvtx6Vu4",
+ "data": {
+  "system_settings": " Linux Mint 18 KDE, Discord Linux Canary.",
+  "actual_result": "Old settings UI opens",
+  "expected_result": "New Settings UI should open",
+  "short_description": "pressing ctrl +, open the old settings menu",
+  "steps_to_repro": "- Press ctrl+,  "
+ }
+}

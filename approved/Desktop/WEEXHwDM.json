@@ -1,0 +1,42 @@
+{
+ "id": "5a89f7a60158540d9a0e2309",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1669,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a860c4c7cb31e20a3d90bad",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Modals",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WEEXHwDM",
+ "data": {
+  "system_settings": "MacBook Pro 15\" (2017) - macOS High Sierra 10.13.3",
+  "client_settings": "Canary 10904",
+  "actual_result": "The message disappears until you switch channels or reload",
+  "expected_result": "The welcome message stays",
+  "short_description": "The \"Welcome to your Server\" message disappears if the channel is renamed",
+  "steps_to_repro": "- Create a new server or navigate to the first channel in the list (where the\"Welcome to your server\" message is) - Rename the channel"
+ }
+}

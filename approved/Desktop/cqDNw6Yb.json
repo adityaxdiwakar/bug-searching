@@ -1,0 +1,17 @@
+{
+ "id": "5984a48e07a131da6d73cd80",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 926,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cqDNw6Yb",
+ "data": {
+  "system_settings": "Windows 7 Home x64",
+  "client_settings": "Desktop 0.0.297",
+  "actual_result": "User will be shown as their new username for everyone on the server, until people reload/refresh, at which point user will be shown again with their actual enforced nickname. Since users can change username twice per hour, they could constantly update it to keep appearing under a different nickname for everyone else online.",
+  "expected_result": "For users with a nickname set to keep being shown as that user.",
+  "short_description": "Nicknames visual display bug",
+  "steps_to_repro": "- Set a server with nickname permission disabled for all roles - Add a user to observe server - Add a user with the username RandomNick and nickname ThemedNick to server - Have the user change his username to ThemedNick. - Have the user change his username to BadWord. - From observer account, observe that user who changed their username to BadWord now appear as BadWord in the online list."
+ }
+}

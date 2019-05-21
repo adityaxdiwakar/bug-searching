@@ -1,0 +1,30 @@
+{
+ "id": "5c35e3b2f1234c6eb119b5ef",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3604,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yvT5oG1Z",
+ "data": {
+  "system_settings": "macOS 10.14.2",
+  "client_settings": "Release Channel: canary, Build Number: 30620, Version Hash: 65f87ec0a31989626ca947a146d682739a75ec20",
+  "actual_result": "The DM disappears from the sidebar. But: When you go to the previously marked as unread DM, the message is still unread.",
+  "expected_result": "The sidebar should still have the DM with an unread message in it.",
+  "short_description": "Manually \"marked-as-unread\" DMs disappear after reloading the client.",
+  "steps_to_repro": "- Open an already read DM - With ALT pressed, click on any message (of your chat partner) that the chat is being marked as unread and the users avatar pops up in the sidebar again - Reload your client with Ctrl+R/CMD+R"
+ }
+}

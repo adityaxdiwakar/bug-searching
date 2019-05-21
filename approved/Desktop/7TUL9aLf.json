@@ -1,0 +1,30 @@
+{
+ "id": "5bc9153ae4ae357b6be4e225",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3219,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7TUL9aLf",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "stable, Build Number: 26433",
+  "actual_result": "Nothing happens",
+  "expected_result": "Channel should have the category permissions",
+  "short_description": "\"Sync Permissions\" doesn't work when there is too many roles.",
+  "steps_to_repro": "- create category with 180 roles - enable each role with a certain permission - create channel within that category - go to channel settings and press sync permissions"
+ }
+}

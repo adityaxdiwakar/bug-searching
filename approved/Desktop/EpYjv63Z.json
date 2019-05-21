@@ -1,0 +1,17 @@
+{
+ "id": "596db47644d01bba5bcc662a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 860,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EpYjv63Z",
+ "data": {
+  "system_settings": "Windows 10 64Bit",
+  "client_settings": "Discord Canary, 0.0.158",
+  "actual_result": "Its so small that you can hardly see it",
+  "expected_result": "eg. \"Eltontay is typing\" appears just like how it appears in Stable, big and clearly visible",
+  "short_description": "Carary \"User is typing\" is small",
+  "steps_to_repro": "- Get your friend to type something"
+ }
+}

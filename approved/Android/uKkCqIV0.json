@@ -1,0 +1,30 @@
+{
+ "id": "5bc883a4943f6a47992cc4a4",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2191,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uKkCqIV0",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.7.5",
+  "actual_result": "Following the steps above will send an empty discord. gg link to the user",
+  "expected_result": "It shouldn't let you use the invite feature if no invite link could be generated",
+  "short_description": "If you go to the invite screen and for some reason it fails to generate an invite (e.g max invites reached), tapping the Invite button on any user in the list will send an empty discord. gg link to their DMs",
+  "steps_to_repro": "- Find a server where you can create invites, and where maximium number of invites is reached (personally tested with Emote List server) - Select any user and tap Invite - Observe the message sent to the user's DMs"
+ }
+}

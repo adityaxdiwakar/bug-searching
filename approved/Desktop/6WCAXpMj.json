@@ -1,0 +1,17 @@
+{
+ "id": "59d9172bf1ef1c71144ace0c",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1233,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/6WCAXpMj",
+ "data": {
+  "system_settings": "Windows 10, 64-Bit, Version 1703",
+  "client_settings": "Desktop Canary, 0.0.164",
+  "actual_result": "The windows makes a weird effect and decreases you fps / Discord will start lagging",
+  "expected_result": "The window should normaly close.",
+  "short_description": "Pressing the \"Enter\" key in the spam protection window causes a weird effect and the FPS decrease.",
+  "steps_to_repro": "- Spam somewhere until you get the spam protection window - Press & hold Enter"
+ }
+}

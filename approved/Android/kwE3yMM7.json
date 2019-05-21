@@ -1,0 +1,23 @@
+{
+ "id": "58e92d7335c85ba3e09d3dd4",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 335,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kwE3yMM7",
+ "data": {
+  "system_settings": " Nexus 4, Android 5.1.1, Discord 3.5.7",
+  "actual_result": "You see your user settings and can tap through to your profile, can attempt to message yourself and send yourself a friend request (both of which fail/give errors)",
+  "expected_result": "It brings you to your account settings like everywhere else in the app",
+  "short_description": "Able to see your own user settings & profile",
+  "steps_to_repro": "- Connect to a server voice channel on another device, e.g. desktop - Try to connect to the same voice channel on your mobile device - \"Connect to Voice\" screen appears with list of people in channel, including yourself - Tap the 3-dot menu by your name "
+ }
+}

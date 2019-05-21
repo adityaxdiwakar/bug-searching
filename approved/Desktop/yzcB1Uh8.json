@@ -1,0 +1,24 @@
+{
+ "id": "59f28802f927130e67033d48",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1327,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yzcB1Uh8",
+ "data": {
+  "system_settings": "Windows 10 64-bit Version 1607",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 6372, Version Hash: 7c5da37cdd5f3d46b2f9b244ba6856e08585f4da",
+  "actual_result": "Close window icon stays red until cursor is back on discord window",
+  "expected_result": "Close window reverts back to original color",
+  "short_description": "The Close window icon appears red when cursor passes discord window",
+  "steps_to_repro": "- Have discord in windowed mode - have open space for right side of screen - move mouse on top of close window icon - move mouse horizontally right of the discord window then move it freely along the open space"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59b2caf10bee549af68106dd",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1096,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tSap2m1M",
+ "data": {
+  "system_settings": "Discord Stable 5.0.1",
+  "client_settings": "App Version: 0.0.163 Build Number: 3994",
+  "actual_result": "Don't resize and then we have a popup out of the space it must be",
+  "expected_result": "Resize the popup",
+  "short_description": "click on the name of a person and change the size from big to small won't resize the popup",
+  "steps_to_repro": "- Step 1) Go to a discord server and put discord in a bigger size, like double clicking on it and it will be in fullscreen - Step 2) Click on a person then you will have him roles, name etc.. - Step 3)Go resize to a smaller size"
+ }
+}

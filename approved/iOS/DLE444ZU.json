@@ -1,0 +1,24 @@
+{
+ "id": "5a87204228e558a2f3f2b0db",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 593,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DLE444ZU",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.5 & 11.3 PB 2",
+  "client_settings": "TestFlight 2.2.3 (2617)",
+  "actual_result": "The DM won't be opened in full screen mode because the left sidebar with all your direct messages and servers is opened. You have to click again on the DM to close the sidebar.",
+  "expected_result": "The DM should be opened in full screen mode like it used to be.",
+  "short_description": "[iPhone, iPod only] Direct Messages with new messages won't be opened in full screen mode",
+  "steps_to_repro": "- Get a new direct message - Click on the DM with new messages below the friends icon (it doesn't work when you open it in your direct message list) - Observe it"
+ }
+}

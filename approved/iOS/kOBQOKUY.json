@@ -1,0 +1,24 @@
+{
+ "id": "5bb0c053135c8e3ee6ced179",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1038,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kOBQOKUY",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta",
+  "client_settings": "TestFlight 2.3.8 (7416)",
+  "actual_result": "Connections page pops in the first time you open it after restarting the app",
+  "expected_result": "Connections page slides in when you open it",
+  "short_description": "Connections page in settings pops in when opening it for the first time after restarting the app",
+  "steps_to_repro": "- Completely close and reopen Discord - Go into user settings - Open the connections page, and observe the animation - Close the connections page, and then reopen it - Observe the animation the second time you open the page"
+ }
+}

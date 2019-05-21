@@ -1,0 +1,30 @@
+{
+ "id": "5c0eb384e218fa75da5b570d",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2380,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gVkTMgbJ",
+ "data": {
+  "system_settings": "Android 8.0",
+  "client_settings": "8.1.0",
+  "actual_result": "Always use 150-160 Kbps, choppy on slow connection (50Kbps)",
+  "expected_result": "Use the set bitrate, clear on slow connection (close to that bitrate)",
+  "short_description": "voice chat's bitlate setting is not working",
+  "steps_to_repro": "- set bitrate to something - monitor actually bitrate - listen on slow connection"
+ }
+}

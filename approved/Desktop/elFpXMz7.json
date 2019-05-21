@@ -1,0 +1,30 @@
+{
+ "id": "5bb963380b78dc0d7c58f7ce",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3105,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/elFpXMz7",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 25623",
+  "actual_result": "The window is not covering the whole vertical Client, leaving a grey bar. You can see the color of the Member list and scroll chat with it",
+  "expected_result": "After re-entering the DM, the Screenshare window is covering the whole vertical Client",
+  "short_description": "Grey bar under expanded Screenshare/Video window when in a Group DM",
+  "steps_to_repro": "- Create a Group DM with your two (or more) best friends and start a call - Have one User Video- or Screenshare and expand the feed via the button on the bottom left - Go to a different DM/Server and then come back to one with Expanded Feed - Observe"
+ }
+}

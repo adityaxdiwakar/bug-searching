@@ -1,0 +1,17 @@
+{
+ "id": "5b60a0aa7cbfa1c8fe3a234b",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1743,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mKS5cnGv",
+ "data": {
+  "system_settings": "Android 5.1",
+  "client_settings": "Discord Alpha 7.2.1",
+  "actual_result": "Move in \"Create Instant Invite\" menu",
+  "expected_result": "Stay in \"Create Instant Invite\" settings",
+  "short_description": "When rotate screen in \"Create Instant invite\" settings move in \"Create Instant invite\" menu",
+  "steps_to_repro": "- Go in \"Create Instant invite\" menu - Go in \"Create Instant invite\" settings - Rotate your device"
+ }
+}

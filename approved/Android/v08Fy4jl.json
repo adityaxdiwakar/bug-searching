@@ -1,0 +1,30 @@
+{
+ "id": "5a62c203eac9150e65553b89",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1047,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/v08Fy4jl",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android Alpha 6.1.0",
+  "actual_result": "You see a blank page",
+  "expected_result": "You should see the 4 search options",
+  "short_description": "The search page is empty and does not display the four search options",
+  "steps_to_repro": "- Go to a server and search for a keyboard using the 4 options like (from:b a \u2122\ufe0f a n#7883 hi) - Jump to any message - Go to another server and click on the search icon - Observe"
+ }
+}

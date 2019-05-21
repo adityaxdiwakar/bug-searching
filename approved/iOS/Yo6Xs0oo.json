@@ -1,0 +1,17 @@
+{
+ "id": "5c0565632d2e6b1d38cc0cfc",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1206,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Yo6Xs0oo",
+ "data": {
+  "system_settings": "iPhone 5s, iOS 10.3.3",
+  "client_settings": "TestFlight 2.4.0 (9477)",
+  "actual_result": "Welcome message is cropped on devices with smaller screens.",
+  "expected_result": "Welcome message shouldn't be cropped on smaller screen devices",
+  "short_description": "Server welcome message is cropped to the right of the screen [Devices with smaller screen specific aka iPhone 5, 5S and the SE]",
+  "steps_to_repro": "- Be on TestFlight 2.4.0 (9477) - Create a new server and observe the welcome message. (update server icon and invite friends)"
+ }
+}

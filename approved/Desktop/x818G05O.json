@@ -1,0 +1,16 @@
+{
+ "id": "58fd4ca4f870d8e5d92f0243",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 554,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/x818G05O",
+ "data": {
+  "system_settings": " Win 10 x64, Latest Canary",
+  "actual_result": "It sends a blank message",
+  "expected_result": "Something displays",
+  "short_description": "Using this `\u0489` character creates blank text",
+  "steps_to_repro": "- Step 1: Copy the text `\u0489` - Step 2: Paste just the text in the message box and hit enter - etc "
+ }
+}

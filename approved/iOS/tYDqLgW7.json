@@ -1,0 +1,24 @@
+{
+ "id": "5c0585d17ce44c2ed2921f09",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1207,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tYDqLgW7",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9477)",
+  "actual_result": "Discord attempts to upload the image despite not having perms and your message gets lost",
+  "expected_result": "Your message with text sends",
+  "short_description": "Pasting an image in a channel you can't upload files, and then sending a message will fail to send the message",
+  "steps_to_repro": "- Go to a channel where you can't upload files - Copy an image from your phone or the web - Paste the image in that channel, making sure it doesn't show up - Type some text so the send button highlights, and send the message - Observe your screen after sending the message"
+ }
+}

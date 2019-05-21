@@ -1,0 +1,36 @@
+{
+ "id": "5b60af831010475d39ffc4df",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1744,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pVTowXb1",
+ "data": {
+  "system_settings": "Samsung Galaxy J5 2017",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "The addition is there",
+  "expected_result": "The addition shouldn't be there.",
+  "short_description": "An addition above the server and channel list when split screen(Samsung Galaxy J5 2017 Specific)",
+  "steps_to_repro": "- Swipe to right to open the server and channel list - Observe the top of the list"
+ }
+}

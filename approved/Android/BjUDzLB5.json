@@ -1,0 +1,30 @@
+{
+ "id": "5bc5c8fe056cd36ab09bae06",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2179,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BjUDzLB5",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.7.1",
+  "actual_result": "After some time the message pops up in chat out of nowhere",
+  "expected_result": "Should cancel the upload",
+  "short_description": "Deleting a message while it's sending doesn't cancel the upload",
+  "steps_to_repro": "- Send a lot of messages so you can get some ones queued. Also works with pictures.  - Delete them while queued"
+ }
+}

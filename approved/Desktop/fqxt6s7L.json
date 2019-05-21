@@ -1,0 +1,17 @@
+{
+ "id": "5b5b06ba34eefb743e2ccd7d",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2452,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/fqxt6s7L",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "PTB Latest (user did not report build no.)",
+  "actual_result": "The Overlay displays the users' Discord Tags instead",
+  "expected_result": "The Overlay should display the user's server nicknames",
+  "short_description": "Overlay displays Discord Tags rather than server nicknames",
+  "steps_to_repro": "- In a server where individuals have nicknames, open the voice chat - Open the overlay in any game"
+ }
+}

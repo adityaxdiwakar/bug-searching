@@ -1,0 +1,24 @@
+{
+ "id": "59befed89f3e328b7a1fe878",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1162,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4LJmWuSg",
+ "data": {
+  "system_settings": "Windows 7 Ultimate 64-bit SP1",
+  "client_settings": "Windows Canary Build 4358",
+  "actual_result": "Discord Client goes fullscreen, but video is smaller than non-fullscreen",
+  "expected_result": "Fullscreen with video stretching to discord size",
+  "short_description": "Fullscreen for video calling has a small preview",
+  "steps_to_repro": "- 2 users join guild voice chat - User one starts a video call - User two joins as a video call - User two fullscreen"
+ }
+}

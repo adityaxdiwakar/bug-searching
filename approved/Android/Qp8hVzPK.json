@@ -1,0 +1,24 @@
+{
+ "id": "5943a33058e70366cd123d4a",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 509,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Qp8hVzPK",
+ "data": {
+  "system_settings": "Android 5.0.2 Huawei Honor",
+  "client_settings": "Discord 3.9.1",
+  "actual_result": "It stays open behind the other menu since 3.9.1",
+  "expected_result": "Three button menu closes",
+  "short_description": "Server Menu stays up when opening Privacy settings or Nick menu",
+  "steps_to_repro": "- Go to a server - Press the three button menu - Select either change nick or privacy settings"
+ }
+}

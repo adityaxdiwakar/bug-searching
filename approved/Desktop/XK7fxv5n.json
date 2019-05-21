@@ -1,0 +1,24 @@
+{
+ "id": "59da5c0acf86c3601548cacd",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1239,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XK7fxv5n",
+ "data": {
+  "system_settings": "Win 10 Pro x64 v1607",
+  "client_settings": "Canary Web (Build 5517) - Chrome Stable 61.0.3163.100 x64",
+  "actual_result": "While typing, at seemingly random intervals your message box will be cleared",
+  "expected_result": "You should be able to type and send a message easily",
+  "short_description": "Message seems to delete itself while typing",
+  "steps_to_repro": "- Go to any text channel where you have permission to speak - Start typing, doesn't matter what"
+ }
+}

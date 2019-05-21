@@ -1,0 +1,30 @@
+{
+ "id": "5bcb5f19e6742222c61c40ac",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2208,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/s05XRNhM",
+ "data": {
+  "system_settings": "Pixel 3 XL, Android 9",
+  "client_settings": "Discord Canary 774",
+  "actual_result": "Discord draws in the large notification bar, and hides part of the search box under the notch, as well as draws the Friends button above the notch",
+  "expected_result": "Discord draws things below the notch instead of cramming the top",
+  "short_description": "Discord places objects in Pixel 3 XL notch",
+  "steps_to_repro": "- [Possibly for non-P3XL Devices] In Android Developer settings, enable Tall Notch mode. - Open discord on a tall-notch device - Open server/channel drawer"
+ }
+}

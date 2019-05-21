@@ -1,0 +1,15 @@
+{
+ "id": "582841c9e8fc8b13d5a25099",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 139,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LfmBl24v",
+ "data": {
+  "actual_result": "The channel won't load and there's an error in the console",
+  "expected_result": "The channel loads",
+  "short_description": "Posting an emoticon in a masked link content through a webhook prevents the channel where the webhook posted the link from loading",
+  "steps_to_repro": "- use Canary or PTB, the issue isn't present in the stable build - Create a webhook - Post on the webhook with {content: \"[:emoticon:](link)\"} - Refresh your client (CTRL+R) - Look at the channel "
+ }
+}

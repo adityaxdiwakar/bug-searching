@@ -1,0 +1,15 @@
+{
+ "id": "584396c275052b110cc8a173",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 210,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yjHLChr8",
+ "data": {
+  "actual_result": "Posts '#{VOICE CHANNEL NAME}' which is unclickable. ~ Submitted for JoeZwet#1704 (97172171259904000)",
+  "expected_result": "Post unchanged text",
+  "short_description": "Mentionable Voice Channels",
+  "steps_to_repro": "- Enable Developer Mode in the Appearance tab of the User Settings. - Right click a voice channel and click Copy ID. - Type '<#{PASTE VOICE CHANNEL ID HERE}>' and hit enter. "
+ }
+}

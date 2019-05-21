@@ -1,0 +1,17 @@
+{
+ "id": "5be3c3376e180547979d6a53",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2290,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NpFLGrc4",
+ "data": {
+  "system_settings": "OnePlus 5 Android 8.1",
+  "client_settings": "Discord Alpha 7.8.6",
+  "actual_result": "It's enormous",
+  "expected_result": "It should not be very massive like before",
+  "short_description": "When hold tapping the + button in the server list (The create a server/join a server button) the blue circle animation is big and massive",
+  "steps_to_repro": "- Scroll down all the way to the bottom of your precious server list - Press & hold the + button - Observe the massive blue circle animation"
+ }
+}

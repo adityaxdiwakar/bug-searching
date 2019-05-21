@@ -1,0 +1,30 @@
+{
+ "id": "5a3c4f228e7ca743566f3eed",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 980,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/F2dDzDUD",
+ "data": {
+  "system_settings": "Samsung s5 with android 7",
+  "client_settings": "Android alpha 5.9.2",
+  "actual_result": "Your name is applied, but your profile picture is removed",
+  "expected_result": "Your name should be applied and your profile picture would stay",
+  "short_description": "Changing your username to emoji's only causes you profilepicture get removed",
+  "steps_to_repro": "- Go to your settings where you can change your username, profile and email. - Change your username to emoji's"
+ }
+}

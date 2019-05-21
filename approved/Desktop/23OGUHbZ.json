@@ -1,0 +1,30 @@
+{
+ "id": "5bfb3f157f90f036e0aa9d13",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3437,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/23OGUHbZ",
+ "data": {
+  "system_settings": "Windows 7 Pro 64bits, build 7601",
+  "client_settings": "Desktop Canary, build 28393",
+  "actual_result": "There may be invisible characters. Clicking on them prevents scrolling. Clicking may open a user's profile card.",
+  "expected_result": "No invisible characters",
+  "short_description": "When having compact appearance, there may be invisible characters under or overlapping with *some* messages",
+  "steps_to_repro": "- Have compact appearance - Hover your cursor under messages - Repeat until it appears (precise positions of the invisible characters depend at least on chat position and console width)"
+ }
+}

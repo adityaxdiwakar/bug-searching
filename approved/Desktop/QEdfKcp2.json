@@ -1,0 +1,30 @@
+{
+ "id": "5b5e10ae54d70d139e24a2aa",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2496,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QEdfKcp2",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord Canary, Build 20174",
+  "actual_result": "The dropdown menu is fully visible and can be interacted with it",
+  "expected_result": "The dropdown menu is closed and cannot be interacted with it",
+  "short_description": "Dropdown menu of a server doesn't disappear when clicking \"Leave Server\"",
+  "steps_to_repro": "- Go to a server - Click the server's name so it opens the dropdown menu - Click \"Leave Server\" - Notice how the dropdown menu is still visible and you can interact with it"
+ }
+}

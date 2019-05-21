@@ -1,0 +1,17 @@
+{
+ "id": "5bc2f3810c860d31dc47d1ed",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 2170,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/lPNxiGG8",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1 (main), Samsung Galaxy Tab A, Android 7.1.1 (alt)",
+  "client_settings": "Discord Alpha 7.6.7",
+  "actual_result": "Infinite searching. Nearby Scanning does not catch the user (However, you can send the friend request by manually typing the discord user, so I can confirm that it should catch).",
+  "expected_result": "It should catch your friend's account or your alt.",
+  "short_description": "Nearby Scanning doesn't work.",
+  "steps_to_repro": "- Have a real life friend (or a second device if you are lonely like me :D) ready with different accounts (I used my alt to test). - On both devices, head to \"Add Friend\" and click on the \"Start Nearby Scanning\". - Observe."
+ }
+}

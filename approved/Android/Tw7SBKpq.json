@@ -1,0 +1,17 @@
+{
+ "id": "59e905276de90bc76c9473c1",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 827,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Tw7SBKpq",
+ "data": {
+  "system_settings": "Samsung Galaxy J5 2016, Android 6.0.1",
+  "client_settings": "Discord Beta 5.4.1 (541)",
+  "actual_result": "The mentions don't appear",
+  "expected_result": "The mentions should display properly",
+  "short_description": "Mentions do not appear when Discord is not opened",
+  "steps_to_repro": "- After you are mentioned, when you come back, there are no mentions appearing - Do note that mentions you receive while in Discord will still be visible and will stay after reopening the app"
+ }
+}

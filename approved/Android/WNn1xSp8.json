@@ -1,0 +1,17 @@
+{
+ "id": "59e82620a2305ce0a83bdcf1",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 821,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WNn1xSp8",
+ "data": {
+  "system_settings": "Lenovo TAB 3 Essential 5.0.1",
+  "client_settings": "Android Alpha 5.4.0",
+  "actual_result": "It says 'missing permissions' when I click the call button in a channel of my server",
+  "expected_result": "It should've connected the call",
+  "short_description": "When I click the call button in a channel of my/other's server it says 'missing permissions'",
+  "steps_to_repro": "- Go to a random channel of your server - click the call button - it says 'missing permissions'"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b1953c7eec227cdb149b913",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2102,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JO37KOKo",
+ "data": {
+  "system_settings": "Windows 8 (6.2) Build 9200 x64",
+  "client_settings": "Canary Build 16581",
+  "actual_result": "It says you have to download the desktop client because the browser is not compatible",
+  "expected_result": "You can setup all about video and screenshare",
+  "short_description": "Screen Share & Video Settings and Mentions menu don't work [Belows windows 10]",
+  "steps_to_repro": "- Be on the last canary client (not in browser) see"
+ }
+}

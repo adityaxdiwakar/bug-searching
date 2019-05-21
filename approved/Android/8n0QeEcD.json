@@ -1,0 +1,30 @@
+{
+ "id": "5b5163c1a04c3c8821af02a2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1662,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8n0QeEcD",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0.0",
+  "client_settings": "Discord Stable 7.0.5",
+  "actual_result": "Discord shows in a seemingly random order that's Oldest to Newest save for some minor out-of-order exceptions",
+  "expected_result": "Discord should show the photos in your camera roll from newest to oldest",
+  "short_description": "Camera roll shows photos in the incorrect order",
+  "steps_to_repro": "- Attempt to upload a photo to a channel using the recent photos feature"
+ }
+}

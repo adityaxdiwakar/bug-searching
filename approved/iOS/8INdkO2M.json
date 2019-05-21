@@ -1,0 +1,17 @@
+{
+ "id": "5ba3a3a566ca806f9909cef9",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1025,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8INdkO2M",
+ "data": {
+  "system_settings": "iPhone SE - IOS 12",
+  "client_settings": "TestFlight 7347",
+  "actual_result": "The error jumps to the top of the screen",
+  "expected_result": "The error should be in the center of the screen like it normally is",
+  "short_description": "\"Failed to load image\" error jumps to the top of an unloaded gif",
+  "steps_to_repro": "- Find a GIF (only works on gifs) - Start loading the gif - While it's still loading switch your WiFi on and off -  Notice the position of the error"
+ }
+}

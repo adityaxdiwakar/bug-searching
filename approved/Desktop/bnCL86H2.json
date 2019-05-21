@@ -1,0 +1,30 @@
+{
+ "id": "5bb609e7be3bf3201dad69b4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3088,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bnCL86H2",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Canary 25434",
+  "actual_result": "parts of the pfp are white",
+  "expected_result": "profile picture of ur friend (above the \"leave call\" button) should be transparent as well",
+  "short_description": "calling a friend whose profile picture is part transparent, will make part of __his__ (not ur own) pfp on your screen white (also happens on that call popup if u __get called__ by someone with transparent pfp)",
+  "steps_to_repro": "- have someone in ur friendlist who has a profile picture in which some parts are transparent - call him - observe call header"
+ }
+}

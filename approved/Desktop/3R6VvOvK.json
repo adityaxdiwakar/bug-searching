@@ -1,0 +1,30 @@
+{
+ "id": "5b19e7a73a7a15117c63c3db",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2109,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3R6VvOvK",
+ "data": {
+  "system_settings": "Win 10 x64 version 1803 build 17134.48, tested in osu! (fullscreen) and League of Legends (fullscreen borderless)",
+  "client_settings": "canary, Build Number: 16487",
+  "actual_result": "Entire window goes pink",
+  "expected_result": "discord overlay closes",
+  "short_description": "Game window with discord overlay becomes pink when discord crashes",
+  "steps_to_repro": "- start a game with discord overlay - discord crashes - entire window goes pink"
+ }
+}

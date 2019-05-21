@@ -1,0 +1,30 @@
+{
+ "id": "5b80f1eb24fffe1277b75f36",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2796,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cRrEqvHa",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 22587",
+  "actual_result": "The emojis fail to copy over",
+  "expected_result": "Emojis copied through Discord's copy option should be copied like when using ctrl + c",
+  "short_description": "Emojis in embeds cannot be copied with the right-click option",
+  "steps_to_repro": "- Have a bot send an embed with emojis (can be custom or default) and some text in a field value - Highlight the emojis and text - Right-click over the text (so you don't attempt to copy the emoji's link) and click copy - Paste what you copied into your text field and observe"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "58648571671819e8187ce0d7",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 295,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yTeGebRq",
+ "data": {
+  "actual_result": "The green ring signaling voice activity remains in its place.",
+  "expected_result": "The green ring signaling voice activity should disappear",
+  "short_description": "If you exit a group voice chat whilst someone is talking the green ring that signals voice activity around their profile picture stays green.",
+  "steps_to_repro": "- Join a voice chat in direct messages - Leave the call while the other participant is speaking "
+ }
+}

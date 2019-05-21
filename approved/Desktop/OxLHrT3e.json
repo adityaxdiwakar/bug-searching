@@ -1,0 +1,30 @@
+{
+ "id": "5a5f37904224729779c0583c",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1551,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OxLHrT3e",
+ "data": {
+  "system_settings": "MacBook Pro (late 2013), macOS Sierra 10.12.1",
+  "client_settings": "Discord Canary 0.0.185 (build 9591)",
+  "actual_result": "The CP does not hide, causing it to crash when interacting with it during the reload.",
+  "expected_result": "Discord should hide the CP when reloading, as it does when you leave a call/voice channel.",
+  "short_description": "[most likely macOS specific] Discord crashes when joining a call, reloading the client and then interacting with the properties of the \u201cTop Secret Control Panel\u201d in the menu bar.",
+  "steps_to_repro": "- Make sure the control panel icon is visible in the menu bar at the top of your screen. - Join a voice channel or call. - Without leaving the call press CMD/Ctrl + R - Discord should/will now reload and the application will reappear within a couple seconds. - When the discord logo starts to spin, click on the \u201cTop Secret Control Panel\u201d dropdown icon. - Quickly press \u201cMute\u201d & \u201cDeafen\u201d a couple times before Discord finishes reloading. - Discord should now abort the reload and crash. - This may require a couple of attempts as the interaction with the Control Panel (CP) fails sometimes."
+ }
+}

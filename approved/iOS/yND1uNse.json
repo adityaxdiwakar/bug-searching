@@ -1,0 +1,15 @@
+{
+ "id": "581b44d291fd449953a6dd6a",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 62,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yND1uNse",
+ "data": {
+  "actual_result": "It still has the cache and the storage requirement isn't changed",
+  "expected_result": "Discord stops eating my storage space",
+  "short_description": "'Clear cache' doesn't actually clear cache",
+  "steps_to_repro": "- Check settings on how many space Discord takes up (Note the 'Documents and files' section) - Have a decent sized cache of stuff from Discord - Press 'Clear cache' - Recheck settings "
+ }
+}

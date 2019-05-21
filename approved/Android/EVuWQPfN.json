@@ -1,0 +1,30 @@
+{
+ "id": "5a779e51616b83e322a6049f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1097,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EVuWQPfN",
+ "data": {
+  "system_settings": "Lenovo Moto G5 Plus, 7.0",
+  "client_settings": "Discord 6.1.9",
+  "actual_result": "The area is freezed only showing who was talking in the past Vc and you (when you talk)",
+  "expected_result": "The area that show users talking (under the text box) should change",
+  "short_description": "When moving to another voice channel, the area that shows who was talking is frozen like you were in the past channel",
+  "steps_to_repro": "- Enter to a voice channel (I entered in a music one) - Go to another voice channel"
+ }
+}

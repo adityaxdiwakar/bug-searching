@@ -1,0 +1,30 @@
+{
+ "id": "5b9f1181547b8c5f76b0639e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2998,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Otq5Z1dj",
+ "data": {
+  "system_settings": "Windows 10 Pro version 1803",
+  "client_settings": "Windows 10 Stable, build number 23837",
+  "actual_result": "Discord un-maximizes or un-minimizes, stealing focus despite the fact you closed a completely unrelated window..",
+  "expected_result": "Discord isn't supposed to be stealing focus or changing window size when you're working in other windows.",
+  "short_description": "When opening Steam URL links like for Steam Controller configurations, after closing the window Discord will un-maximize",
+  "steps_to_repro": "- Send this URL in a message in Discord: steam://controllerconfig/750920/1514956276 - Click the link - When the window pops up, close it."
+ }
+}

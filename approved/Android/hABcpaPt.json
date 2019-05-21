@@ -1,0 +1,17 @@
+{
+ "id": "5b05ed6e4f27387676a1791a",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1454,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hABcpaPt",
+ "data": {
+  "system_settings": "Huawei Y5 II 5.1.0",
+  "client_settings": "android alpha 6.7.6",
+  "actual_result": "the name and icon appear white as if loading from lazy guild and never show name and icon until status is changed again",
+  "expected_result": "name and icon will load as normal",
+  "short_description": "name won't load in online list after changing from invisible to DnD",
+  "steps_to_repro": "- change status to offline - look at online list in server - change status to do not disturb - check online list on server"
+ }
+}

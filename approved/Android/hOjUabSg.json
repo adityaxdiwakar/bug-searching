@@ -1,0 +1,30 @@
+{
+ "id": "5b98278fabf86086d6555682",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1976,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hOjUabSg",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 748",
+  "actual_result": "The in app notification still shows up.",
+  "expected_result": "The connection problems in app notification doesn't show because you have successfully connected.",
+  "short_description": "Allowing Discord to disconnect itself by keeping it in background then opening it through the recent apps and opening search and then searching something, waiting until Discord reconnects causes the connection problems in appear even if you've connected.",
+  "steps_to_repro": "- Have a poor connection that is enough to show you the connection problems in app notification. - Close Discord but keep it running in background. - Open it after it has disconnected itself(not killed. Just disconnected). - While it's connecting, click on search and search something that gives results. - Stay on the results page for a while. - When Discord has reconnected, close the search."
+ }
+}

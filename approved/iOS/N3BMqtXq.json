@@ -1,0 +1,15 @@
+{
+ "id": "585597f11d29e2ba779c087c",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 127,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/N3BMqtXq",
+ "data": {
+  "actual_result": "Nothing happens",
+  "expected_result": "You should get a pop-up menu",
+  "short_description": "Can\u2019t delete messages from webhook bots (iPhone 6s, iOS 10.2)",
+  "steps_to_repro": "- Create a webhook on desktop - Make the webhook bot post - Hold down on the post on iOS "
+ }
+}

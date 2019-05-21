@@ -1,0 +1,22 @@
+{
+ "id": "58405fea588c40054810e73e",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 114,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LDfdkmJz",
+ "data": {
+  "actual_result": "can attempt to upload file but get error.",
+  "expected_result": "Upload feature removed when Send File permission is missing (as in the app).",
+  "short_description": "\"Paper Clip\" icon is present and functional even without Send File perms.",
+  "steps_to_repro": "- In the Android app, open a channel you can't upload a file to. - tap the Paper Clip. - Choose a file and add a message. - hit the Send button - \"An unknown network error has occured\". "
+ }
+}

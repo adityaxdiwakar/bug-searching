@@ -1,0 +1,30 @@
+{
+ "id": "5af1defcf1a6bc6f788d3914",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1952,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FLL4gfU5",
+ "data": {
+  "system_settings": "Windows 10 x64 v1709",
+  "client_settings": "Discord Canary (Build 14720)",
+  "actual_result": "The text appears",
+  "expected_result": "Should not appear the text",
+  "short_description": "\"Game supports game invite\" appearing when you got no permission to embed links/messages",
+  "steps_to_repro": "- Get in a channel which you got no send message permissions/embed links - Play a game which supports game invites"
+ }
+}

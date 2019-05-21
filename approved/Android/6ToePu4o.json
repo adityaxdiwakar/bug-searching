@@ -1,0 +1,23 @@
+{
+ "id": "591785dbcfc835964d2dc61b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 456,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6ToePu4o",
+ "data": {
+  "system_settings": " Android v. 4.4.2 Discord (Beta) 3.8.4",
+  "actual_result": "The name resets to what it was previously before editing",
+  "expected_result": "The edited name stays",
+  "short_description": "The name resets itself to previous name",
+  "steps_to_repro": "- Edit a voice channel's name - Keep editing and flip the smartphone horizontally "
+ }
+}

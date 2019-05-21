@@ -1,0 +1,15 @@
+{
+ "id": "58911c2b806865298f2b740b",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 170,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KlvrPP92",
+ "data": {
+  "actual_result": "Your name and image are gone until you stop focusing on the channel.",
+  "expected_result": "The message is deleted and everything is fine",
+  "short_description": "Sending two messages in a blank/new channel and deleting the first causes your name to disappear until you change channels. Only works with no other messages. (only for the viewer)",
+  "steps_to_repro": "- Go in an empty channel - Send two messages - Delete the first "
+ }
+}

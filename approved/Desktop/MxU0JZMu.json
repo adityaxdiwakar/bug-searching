@@ -1,0 +1,22 @@
+{
+ "id": "584b78307a7de3854df05a3c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 235,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MxU0JZMu",
+ "data": {
+  "actual_result": "It replaces it with tagging a role (if a role is the same name), or the user's name and discrim.",
+  "expected_result": "Either it removed the UUID after the user's name, or keeps the tag.",
+  "short_description": "When tagging a user who is not in a server with ID's, editing the message removes the tag.",
+  "steps_to_repro": "- Find a server without the user in it. - Tag the user in that server using ID's. - Edit the message. "
+ }
+}

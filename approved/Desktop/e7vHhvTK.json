@@ -1,0 +1,30 @@
+{
+ "id": "5a827962a63681a8a616c231",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1650,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/e7vHhvTK",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit",
+  "client_settings": "Discord Canary 0.0.202, Build 10620",
+  "actual_result": "\"Change\" button is slightly smaller",
+  "expected_result": "\"Change\" button is sized the same as it is if you had Manage Server permission",
+  "short_description": "The \"Change\" button when viewed from Overview in Server Settings on a server you lack permission for Manage Server, is smaller than when you have permission",
+  "steps_to_repro": "- Go into Overview in a server you lack Manage Server permission in, but have Audit Log permission"
+ }
+}

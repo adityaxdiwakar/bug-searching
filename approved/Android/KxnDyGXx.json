@@ -1,0 +1,17 @@
+{
+ "id": "5ba984150c2fcb3bcb0b7e39",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2016,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KxnDyGXx",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "Filters are reset and all entries are shown again",
+  "expected_result": "Filters should stay active",
+  "short_description": "[Audit Logs] Rotating screen resets filters",
+  "steps_to_repro": "- Access Audit Logs - Apply any filter (action or user)  - Rotate screen"
+ }
+}

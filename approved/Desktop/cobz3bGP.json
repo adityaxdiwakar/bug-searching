@@ -1,0 +1,30 @@
+{
+ "id": "5b74a9b9fa2d647f06bc7f17",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2714,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cobz3bGP",
+ "data": {
+  "system_settings": "windows 10 home single language 64-bit",
+  "client_settings": "Canary, Build Number:  21931",
+  "actual_result": "only you can see the blank playing status and for others it doesn't show you playing anything. (Note: this time I used 2 different accounts in 2 different devices and also asked other people and I'm still getting the same results. Also you may need to restart the 2nd client to see that the playing status has disappeared )",
+  "expected_result": "when the playing status is just blank, it should say \"playing a game\" for everyone or you shouldn't see a playing status or it shouldn't let you leave a blank space",
+  "short_description": "inconsistency showing playing status",
+  "steps_to_repro": "- open a program that isn't verified (in my case I'm using google chrome) - go to games in user settings - add the program manually by clicking the blue text \"add it\" - select the program - exit and look your playing status - now your game status should be the name of the program (google chrome for me) - go back where you added the program and click its name to change it and backspace leaving the text box blank - exit the settings and observe your game status - observe your playing status with another account in another device"
+ }
+}

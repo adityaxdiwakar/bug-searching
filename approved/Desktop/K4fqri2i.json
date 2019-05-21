@@ -1,0 +1,30 @@
+{
+ "id": "5b900c6b54562a5f4d8a7983",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2927,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/K4fqri2i",
+ "data": {
+  "system_settings": "Win 10 x64, 17034",
+  "client_settings": "Discord Canary 23018",
+  "actual_result": "It shows you the border of your client, not your unread dms",
+  "expected_result": "[new] icon should point up to your dms, not to the border of your client",
+  "short_description": "Ping indicator [new] is stuck above your home menu",
+  "steps_to_repro": "-scroll down, so the ping indicator [new] appears-switch servers-whils scrollign and switching servers, hold the [ESC] key <- important to hold it all the time-scrol up again to see the [new] indicator being stuck above the home icon"
+ }
+}

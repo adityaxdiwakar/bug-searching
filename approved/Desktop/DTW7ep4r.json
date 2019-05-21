@@ -1,0 +1,17 @@
+{
+ "id": "5ae912e5b91be19be0d34301",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1915,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DTW7ep4r",
+ "data": {
+  "system_settings": "Win10 x64",
+  "client_settings": "Build Number: 14432, Version Hash: b1e0325580b21e818cad6c7aae22115a1ca8b7d8",
+  "actual_result": "lags",
+  "expected_result": "more discord awesomness",
+  "short_description": "lattency/lag on low spec computers (typing, vids, screenshare, etc)",
+  "steps_to_repro": ""
+ }
+}

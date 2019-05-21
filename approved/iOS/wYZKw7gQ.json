@@ -1,0 +1,24 @@
+{
+ "id": "5bb7099c1389f068098c996e",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1054,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wYZKw7gQ",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8023)",
+  "actual_result": "Text is pasted but adds a space at the beginning",
+  "expected_result": "Text pastes right after what\u2019s typed with no space",
+  "short_description": "Typing a word/character, and then pasting text adds a space at the beginning",
+  "steps_to_repro": "- Copy any sort of text (message, ID, etc) - Type a word/character - Paste the copied text"
+ }
+}

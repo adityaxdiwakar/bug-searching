@@ -1,0 +1,30 @@
+{
+ "id": "5bd8c13e78f98558f3e7df4f",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3316,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bbW0CHiJ",
+ "data": {
+  "system_settings": "Microsoft Windows Version 1803 (OS Build 17134.376) [For build of Discord, this also works on Chrome 70.0.3538.77]",
+  "client_settings": "Microsoft Edge 42.17134.1.0 Microsoft EdgeHTML 17.17134 / [BUILD INFO] Release Channel: stable, Build Number: 27065",
+  "actual_result": "The quiz breaks for half of a second",
+  "expected_result": "The quiz is not supposed to break for half a second",
+  "short_description": "HypeSquad quiz glitches out",
+  "steps_to_repro": "- Go to User Settings > HypeSquad - If you are in HypeSquad, press \"Take the test again\", but if you are not in HypeSquad, press \"Join HypeSquad\" - You will be in the quiz modal and should be able to take a quiz - Answer and press \"Next question\" as fast as you can - Do this multiple times - The quiz will sometimes get out of place"
+ }
+}

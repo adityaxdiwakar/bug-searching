@@ -1,0 +1,15 @@
+{
+ "id": "585eb27496cdd503fd03a68f",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 275,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/i9Io2KSL",
+ "data": {
+  "actual_result": "The message changes from `User1 and User2 reacted with :emoji:` to `User1 and 1 other reacted with :emoji:` (implying that there are 2 total reactions, not just one). By moving your mouse (and leaving the popup), and returning, the correct message is displayed. Example of the incorrect message: <http://i.imgur.com/knDGSPr.png>",
+  "expected_result": "The message should change from `User1 and User2 reacted with :emoji:` to `User1 reacted with :emoji:`",
+  "short_description": "Incorrect description of reaction count",
+  "steps_to_repro": "- Have two people react to a message - Hover over the reaction to show the usernames (`User1 and User2 reacted with :emoji:`) - Without moving your mouse and losing the popup, have one user remove their reaction, so only one reaction remains "
+ }
+}

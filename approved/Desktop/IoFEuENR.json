@@ -1,0 +1,30 @@
+{
+ "id": "5a1450ff022b73629e2e6537",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1385,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7224",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P0: Need an immediate fix",
+   "color": "red"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IoFEuENR",
+ "data": {
+  "system_settings": "Windows 10 Pro 1709 (17035)",
+  "client_settings": "Discord Canary 0.0.180, Build 7557",
+  "actual_result": "Discord falls into infinite cycle with error of loading ru locale, causes high cpu and memory usage",
+  "expected_result": "Locale changes to Russian",
+  "short_description": "Changing locale to Russian causes infinite loading cycle",
+  "steps_to_repro": "- Change your locale to Russian"
+ }
+}

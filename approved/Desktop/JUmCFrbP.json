@@ -1,0 +1,17 @@
+{
+ "id": "5b4fbacf71febe3c28fde37e",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2313,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JUmCFrbP",
+ "data": {
+  "system_settings": "Windows 8.1 x64",
+  "client_settings": "Canary 19105",
+  "actual_result": "Size depends on the global zoom instead",
+  "expected_result": "Size is changed",
+  "short_description": "Text size is not set by appearance's setting",
+  "steps_to_repro": "- Update to last Canary - Set the text size in appearance different from 100"
+ }
+}

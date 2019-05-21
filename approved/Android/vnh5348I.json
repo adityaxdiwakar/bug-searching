@@ -1,0 +1,30 @@
+{
+ "id": "5af6b2dbbc8397e8d0a6c653",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1401,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vnh5348I",
+ "data": {
+  "system_settings": "Cherry Mobile Spin Max 6.0.1",
+  "client_settings": "Android Alpha 6.6.7",
+  "actual_result": "The emote reaction has long rectangle border. If you observe the screenshot, the bubble size looks like for tens but it only have 1 reaction count. Sometimes it can be a hundreds size but still have 1 digit count.",
+  "expected_result": "The emote is normally displayed.",
+  "short_description": "Emote reaction bubble is wider than the original (Originally Reported and reproduced on 6.6.2 and 6.6.6).",
+  "steps_to_repro": "- Go to a server and load a text channel that has small reactions or add a reaction in a writeable text channel if it does not have any. Move to another server and text channel and do the same thing. - Go back and forth to servers that has or where you added reactions. Keep doing this until you get the bug. Observe the reaction bubbles."
+ }
+}

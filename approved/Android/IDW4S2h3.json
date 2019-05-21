@@ -1,0 +1,30 @@
+{
+ "id": "5a16dbb71ba99306b9d0a571",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 923,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IDW4S2h3",
+ "data": {
+  "system_settings": "Lenovo P2, Android 7.0",
+  "client_settings": "Android Alpha 5.7.4",
+  "actual_result": "Nothing happens unless you click on it again",
+  "expected_result": "A new subsettings tab should open",
+  "short_description": "Subsettings in User Settings not opening on first click after scrolling all the way up or down",
+  "steps_to_repro": "- Open User Settings - Scroll all the way down very quicky as if you had to scroll through 500 messages - Click on any of the visible subsettings (Languages, Behavior, etc)"
+ }
+}

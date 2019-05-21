@@ -1,0 +1,36 @@
+{
+ "id": "5a7dca9a3d1a270585b46820",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 573,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jJikz0Di",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.5 & iPad Air 2, iOS 11.3 PB 2",
+  "client_settings": "TestFlight 2.2.2 (2352)",
+  "actual_result": "Discord crashes.",
+  "expected_result": "Server settings should close.",
+  "short_description": "Discord crashes when quickly closing out of channels in server settings",
+  "steps_to_repro": "- Go to any server where you have manage channels permission - Open the server settings - Open the section `Channels` - Hit the close/back button as fast as you can - Try it multiple times with different servers when you can't reproduce it with the first try"
+ }
+}

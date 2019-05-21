@@ -1,0 +1,36 @@
+{
+ "id": "5b19310da6efbbb8bb54546f",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1504,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WWxeUnLx",
+ "data": {
+  "system_settings": "Xioami Mi Ai, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.8.8",
+  "actual_result": "Channel topic height remains as it is making the members list below it extremely difficult to navigate",
+  "expected_result": "Channel topic height should adjust (become) smaller and members list below channel topic is easily scrollable",
+  "short_description": "Channel topic panel doesn't adjust according to screen size when using split screen mode.",
+  "steps_to_repro": "- Go to any channel settings and in the channel topic, type one letter in each line so that channel topic panel size increase to it's max size that makes it's scrollable [approx 10-20 lines channel topic] - Split screen your device and keep Discord to the minimum size. Notice the channel topic size doesn't change accordingly"
+ }
+}

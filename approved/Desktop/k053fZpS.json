@@ -1,0 +1,36 @@
+{
+ "id": "5a2f4b232ba9e4b7bc898a65",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1441,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/k053fZpS",
+ "data": {
+  "system_settings": "macOS 10.13.1, MacBook Pro 13\"",
+  "client_settings": "Desktop Canary, 8440",
+  "actual_result": "Discord crashes",
+  "expected_result": "The \"Reactions\" popup should close",
+  "short_description": "Removing all reactions on a message causes Discord to crash",
+  "steps_to_repro": "- Open a channel where you have \"Manage Messages\" permission - Press the 3 dots next to a message with 2 or more reactions - Delete all the reactions by everyone, so there are none left - Discord will crash when it's loading after you've deleted all reactions"
+ }
+}

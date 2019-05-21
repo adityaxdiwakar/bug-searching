@@ -1,0 +1,36 @@
+{
+ "id": "5a9bf1d236a40a8cd0471c0c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1706,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qBnii0sa",
+ "data": {
+  "system_settings": "windows 10 1709 x64, Acer aspire VX,  Discord canary - Build number: 11585",
+  "client_settings": "Discord canary - Build number: 11585",
+  "actual_result": "the selector goes outside of the visible area, and it select a friend that is currently not visible for you",
+  "expected_result": "The friendlist scrolls down when reaching the last visible person on your friends list",
+  "short_description": "Using alt + arrow down key in DM list, the highlight goes out of visible part of screen",
+  "steps_to_repro": "- go to your friends list, select any friend, does not matter what position- use alt + down arrow to scroll down in your friends list - keep alt button pressed and use the arrow key to scroll down, some users need to do it fast others slow- After 10 - 15 Friends this bug happens, the first friends all work fine.- watch as how the selector goes down and scroll past the boundaries of the visible part of the screen"
+ }
+}

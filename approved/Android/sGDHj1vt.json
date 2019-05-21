@@ -1,0 +1,15 @@
+{
+ "id": "586ba6d4200bcdfa58fa9efc",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 163,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sGDHj1vt",
+ "data": {
+  "actual_result": "Enters a new line",
+  "expected_result": "Should either do nothing or enter the name",
+  "short_description": "Can add new line in Creating or joining server textbar UI",
+  "steps_to_repro": "- Go to the Add server menu - Enter text into either Create server or Join server- Press enter "
+ }
+}

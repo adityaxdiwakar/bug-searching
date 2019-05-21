@@ -1,0 +1,30 @@
+{
+ "id": "5b2df166f13a9b4ff74f5072",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1582,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kn7WrwJg",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 698",
+  "actual_result": "The embed always says resolving instant invite.",
+  "expected_result": "The embed says invalid invite (as on desktop).",
+  "short_description": "The instant invite embeds say resolving instant invite even if the invite is invalid or has expired or of a server you're banned from.",
+  "steps_to_repro": "- Update to 698. - Get out of the friends tab as soon as possible to avoid crash. - Type out a fake invite. - Observe the embed."
+ }
+}

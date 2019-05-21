@@ -1,0 +1,30 @@
+{
+ "id": "599c4dc9db8084f26c377c59",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1030,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2begc1Tu",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.3 (16D32)",
+  "client_settings": "Discord Canary 0.0.154",
+  "actual_result": "The join server button shows but there is also an embed below it",
+  "expected_result": "The join server button would show and the embed would not show",
+  "short_description": "Bolded invite links cause an embed to show as well as the join server button",
+  "steps_to_repro": "- Obtain an invite link (for example <discord.gg/testers>) - Send the invite link like this (include \\*s for bold) \\*\\*<https://discord.gg/testers>\\*\\* - Observe the added embed"
+ }
+}

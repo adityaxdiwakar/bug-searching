@@ -1,0 +1,17 @@
+{
+ "id": "5bcc71bbcfed5756e6f023d7",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 3255,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SNAs6voW",
+ "data": {
+  "system_settings": "Windows 10 Pro, Intel Core I5 2.30GHz, 4.00Go RAM, 64Bits.",
+  "client_settings": "Release Channel: canary, Build Number: 26655, Version Hash: 830388f8932a64b8afd00254454d2715fa679c33",
+  "actual_result": "A grey box appear at the down side of Discord. This works with maximised and non-maximised discord.",
+  "expected_result": "Nothing. Spotify just appear with the song bar and everything.",
+  "short_description": "When you DM someone with a lot of roles from a server and he play a song on Spotify, the UI interface messes up.",
+  "steps_to_repro": "- Create a server - Create some roles (around 6/7) with long names - Invite a friend and give him all of those roles - Open DM menu (Left click on his profile and Start writing a DM without leaving the server nor sending it) - Make him play a song on Spotify (For the bug to work, he need to play a song AFTER you open the menu and write a DM, the game detection need to be empty before opening the menu)"
+ }
+}

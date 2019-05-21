@@ -1,0 +1,17 @@
+{
+ "id": "5bce5dfa08789851e6e99544",
+ "closed": false,
+ "idList": "5bce5ef037eb6904d727c502",
+ "idShort": 2223,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DAYicIoz",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.7.8",
+  "actual_result": "Icon is blank",
+  "expected_result": "Icon should have the initials of the server name as usual",
+  "short_description": "If you receive an in-app notification from a server without icon, the icon will appear blank",
+  "steps_to_repro": "- Enable All Messages notifications on a server without icon - Get someone to send a message in the server"
+ }
+}

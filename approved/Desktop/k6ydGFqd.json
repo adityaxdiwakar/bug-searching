@@ -1,0 +1,17 @@
+{
+ "id": "5990a0f8336d258a42a0400d",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 988,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/k6ydGFqd",
+ "data": {
+  "system_settings": "Firefox 54.0.1",
+  "client_settings": "Build Number: 3183",
+  "actual_result": "The Change Log modal goes outside of the viewport, making both the (X) and previous change logs link unclickable.",
+  "expected_result": "The Change Log modal should be contained within the viewport, such that the (X) is clickable and the \"Missed an update? Check out our previous change logs\" message is visible.",
+  "short_description": "Change Log modal height goes beyond viewport height",
+  "steps_to_repro": "- Log into Discord to view the Change Log - Alternatively, right click the User Settings gear and select Change Log from the menu - Alternatively, open User Settings and click on Change Log"
+ }
+}

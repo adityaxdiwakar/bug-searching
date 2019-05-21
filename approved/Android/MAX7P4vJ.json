@@ -1,0 +1,24 @@
+{
+ "id": "598fa45dec109723cfb7fdd3",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 619,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MAX7P4vJ",
+ "data": {
+  "system_settings": "Android 6.0",
+  "client_settings": "Discord Alpha 4.0.3",
+  "actual_result": "The server icon is moved down for a few pixels",
+  "expected_result": "The server icon is normally placed",
+  "short_description": "Mutual server icon on online/all friend list and other tabs' member list member is off if the server has no icon and the letters don't fit in the icon when the user appears for the first time in the list",
+  "steps_to_repro": "- Be a member of a server with no server icon and a big name causing text overflow in the server icon - Have someone else that appears in one of those friend lists be a member of that server as well - Change tab as many times as needed so that the user appears in the list without being in the previous list - Look at the mutual server icon being moved down"
+ }
+}

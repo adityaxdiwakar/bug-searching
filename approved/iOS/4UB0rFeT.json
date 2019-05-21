@@ -1,0 +1,30 @@
+{
+ "id": "5abb0faad9a4bc60b399bb2f",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 651,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4UB0rFeT",
+ "data": {
+  "system_settings": "iPad Air 1st Generation running iOS 11.2.5 (also used my iPhone 8 +, iOS 11.3 PB3 to change password.)",
+  "client_settings": "TestFlight 2.2.5 (2798)",
+  "actual_result": "Indefinite loading. If you switch to another app then come back, the application will crash. You will need to force close it then open it again which will load the friend list normally.",
+  "expected_result": "iOS device logs in and shows the friends list.",
+  "short_description": "Discord Login has indefinite loading upon logging in after being logged out and inactive on the iDevice for at least 3-6 hours.",
+  "steps_to_repro": "- Leave your device for the night, but allow Discord to run in the background. - Using another device, change your password which will log out the iOS device (you don\u2019t need to check it as it will do it.) - Wait for at least 3 to 6 hours, probably a good time to sleep if it\u2019s late. - Come back to the iOS device, log in as usual. - Observe"
+ }
+}

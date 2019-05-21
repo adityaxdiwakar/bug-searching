@@ -1,0 +1,30 @@
+{
+ "id": "5b5f4c7ed5caaefaa19b5893",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1728,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/A4rlVWvg",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 720",
+  "actual_result": "The invite does embed but never gets resolved.",
+  "expected_result": "The invite embeds and gets resolved.",
+  "short_description": "If you captitalise the first letter and the and the first letter after a hyphen in link that contains a hypen, the invite embed doesn't come out of the resolving state.",
+  "steps_to_repro": "- In an invite link that contains hyphens, capitalize \"d\" of discord, the first letter of the invite and the first letter aftee the hypen. - Send the invite somewhere. - Look at the embed."
+ }
+}

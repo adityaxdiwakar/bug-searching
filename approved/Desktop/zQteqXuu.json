@@ -1,0 +1,30 @@
+{
+ "id": "59bc317e17d819b95cfbe29d",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1132,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zQteqXuu",
+ "data": {
+  "system_settings": "windows 10 v1703 2017-09",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "the application does not appear",
+  "expected_result": "the application should appear in the list",
+  "short_description": "cannot screenshare fullscreen apps",
+  "steps_to_repro": "- open a fullscreen app, a game for example - look for it in the choose application menu in screenshare - etc"
+ }
+}

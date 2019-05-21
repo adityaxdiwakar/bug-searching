@@ -1,0 +1,17 @@
+{
+ "id": "5b213ceafdcf029014896278",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2132,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cxVJHtup",
+ "data": {
+  "system_settings": "Windows 10 Pro x64; 1803.",
+  "client_settings": "Canary; Build 16868",
+  "actual_result": "You can \"use\" them, however, they do not apply.",
+  "expected_result": "You shouldn't be able to right click, or just be able to use them, instead of being able to use it without it applying",
+  "short_description": "Can right click on messages that are pending send, however, none of the options other than Copy ID are working",
+  "steps_to_repro": "- Have a slow internet connection, or send way too many messages, so you've got enough time until they send (like spam \"a\" over and over, which is what I did in this case) - Right click it before it gets fully white, and sends - Try and use a feature other than Copy ID while it's still pending, the right click menu will close once it's fully sent - Observe that while you can still use them, they still don't apply (for instance, adding an reaction will only add it for less than a second, or editing & attempting to delete via editing won't edit it or delete it)"
+ }
+}

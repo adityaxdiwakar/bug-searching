@@ -1,0 +1,30 @@
+{
+ "id": "5bb04be2d46d0357274bb5f6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2075,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qtaIzCzJ",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 759",
+  "actual_result": "The \"No text channels\" screen pops up for a fraction of a second.",
+  "expected_result": "The tab opens up and shows your friends like it used to do before.",
+  "short_description": "Everytime you open the friends tab, the \"No text channels\" screen shows up for a fraction of a second.",
+  "steps_to_repro": "- Open the friends tab."
+ }
+}

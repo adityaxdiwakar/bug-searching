@@ -1,0 +1,30 @@
+{
+ "id": "5bee12b03a6d70378dea1a38",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3395,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OdZnUL1t",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 28048, Version Hash: d11cb6891fca7d9da64b49828189cd6bc78b60c8",
+  "actual_result": "discord will be in fullscreen",
+  "expected_result": "discord would not go into fullscreen",
+  "short_description": "opening a video embed like youtube and closing it switches discord client to fullscreen",
+  "steps_to_repro": ""
+ }
+}

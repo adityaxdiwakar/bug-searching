@@ -1,0 +1,17 @@
+{
+ "id": "5a45d0f7a9fe9b0f308ae57f",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1006,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/OOhEPkvz",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0.0",
+  "client_settings": "Android alpha 5.9.9",
+  "actual_result": "Nothing happens",
+  "expected_result": "The emote name should appear for some time",
+  "short_description": "Emote name does not appear on long pressing",
+  "steps_to_repro": "- Open the emote drawer - Long press on any emote"
+ }
+}

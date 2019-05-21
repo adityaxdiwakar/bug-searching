@@ -1,0 +1,30 @@
+{
+ "id": "5b4909b049abd353a72d5dff",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1646,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WclKMTaF",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 706",
+  "actual_result": "It's a bit towards the right side.",
+  "expected_result": "The icon is centered in the highlighted box.",
+  "short_description": "The server icon in the box isn't centered in the mutual friends tab in a profile.",
+  "steps_to_repro": "- Go to the profile of a person you share servers with. - Click on the mutual friends tab. - Long press on any any friend in the tab. - Observe the server icons."
+ }
+}

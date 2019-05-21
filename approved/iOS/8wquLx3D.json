@@ -1,0 +1,17 @@
+{
+ "id": "5b7ff561fd73e91412e28dad",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 943,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8wquLx3D",
+ "data": {
+  "system_settings": "ipod Touch 5th generation, ios 9.3.3",
+  "client_settings": "TestFlight 2.3.7 (6914)",
+  "actual_result": "a red banner will appear like you screen recording, for a few seconds",
+  "expected_result": "nothing should appear on the top of your screen",
+  "short_description": "A red banner flashes across the screen after hit cancel in nearby friends",
+  "steps_to_repro": "- start up discord  - go all the way up to the top of your server list and click on the three heads - select friends and tap on the right of your screen - now go to the top right corner and select the head with a + sign  - click find a friend a follow any prompts it might give you - once you have done those hit find friends again and during the searching progress hit close and observe the top of your screen"
+ }
+}

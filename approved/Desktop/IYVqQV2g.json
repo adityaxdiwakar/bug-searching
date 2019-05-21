@@ -1,0 +1,30 @@
+{
+ "id": "5a0a66046165a9848197836d",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1375,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IYVqQV2g",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Desktop Stable build 7157",
+  "actual_result": "There is no date shown for when the first message (or any messages on the first day) were originally posted",
+  "expected_result": "Shows a line break with the date just above the first message",
+  "short_description": "Compact mode does not display the date for the first message in a text channel",
+  "steps_to_repro": "- Change view to Compact (User Settings > Appearance > Message Display) - Scroll up to the top of any text channel"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b3772751e67d9695a2aa6b9",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1627,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/agDfsIBk",
+ "data": {
+  "system_settings": "Xioami Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 7.0.3",
+  "actual_result": "It shows as separate message for a split second",
+  "expected_result": "When you put your mention between codeblock, it should merge with previous messages and NOT show as separate message with date and time even for a split second",
+  "short_description": "Mentions enclosed in single codeblock appear as separate messages for split second before merging with the previous ones as a group.",
+  "steps_to_repro": "- Go to any text channel and type a message of one word in one line. - Notice after you send 6 messages each in one line, in a row, the 7th Message is a separate one with date and time on it. - Notice if you mention yourself, it always makes a new message with date and time. - Now type one message per line upto 2-3 messages. Mention yourself and put it between single codeblock."
+ }
+}

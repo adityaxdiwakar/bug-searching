@@ -1,0 +1,24 @@
+{
+ "id": "59b9270d689fa279452e8c9e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1122,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/348BlmYt",
+ "data": {
+  "system_settings": "HP, Windows 10 Home , Version 1703",
+  "client_settings": "Discord Canary (Desktop), 0.0.163",
+  "actual_result": "Sound notification is not given to user, when they join a voice channel.",
+  "expected_result": "Notification sound prompting user that they joined voice channel, helps when user joins accidentally.",
+  "short_description": "Discord Canary, does not notify the user that they have joined a new servers voice channel.",
+  "steps_to_repro": "- Create a server or join a server or go to existing server- If user creates a server, they will automatically join voice channel, else user goes to existing server and joins voice channel-"
+ }
+}

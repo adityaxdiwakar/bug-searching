@@ -1,0 +1,17 @@
+{
+ "id": "5b337428f2ffcf31210a7193",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 817,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hF9kVjlE",
+ "data": {
+  "system_settings": "iPhone 7 iOS 12 Developer Beta 2",
+  "client_settings": "Discord TestFlight 2.3.4 (5425)",
+  "actual_result": "It allows you to scroll up forever which shouldn't happen",
+  "expected_result": "When you try to scroll if it doesn't allow you to and sets you back",
+  "short_description": "You can scroll up forever if the keyboard is opened at the beginning of a chat",
+  "steps_to_repro": "- Open Discord and start a new conversation with a new user or scroll up to the beginning of an existing conversation - Open the keyboard and scroll up"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b194a358b9b5e89acccb236",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1506,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/P9KXf0Li",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.8",
+  "actual_result": "New Mentions button still appears at the bottom and does nothing when you press on it",
+  "expected_result": "New Mentions appears only if channel is offscreen",
+  "short_description": "New Mentions button appears and does nothing on tap if you're switching from a server with almost no channels to the server where you were pinged",
+  "steps_to_repro": "- Create a new server and delete all categories and the voice chat to keep only the text channel - Switch to the server you just created if not already - Get pinged in a different server, in one of the top visible channels of the server (except the very first one) - Switch to the server where you were pinged"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "5842bf3d7689e9e773b16626",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 206,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kbRTv9hm",
+ "data": {
+  "actual_result": "Needs to change Overwatch to windows mode outside of OW.",
+  "expected_result": "Doesnt need to change to windows mode outside of overwatch to get the overlay.",
+  "short_description": "Overlay doesnt appear on overwatch. Bug Bounty: <https://goo.gl/MpZjA9>",
+  "steps_to_repro": "- Restart computer if already on. (Since i played OW this morning trying to repro this bug) - Open up overwatch. See no overlay. - to get overlay, open up GeForce Experiance and click revert settings (windowed mode) - Load up overwatch, see overlay. - change to Fullscreen. Overlay works again. "
+ }
+}

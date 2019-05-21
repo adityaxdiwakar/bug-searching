@@ -1,0 +1,17 @@
+{
+ "id": "5b6c93bc490ea9623fbd7452",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2650,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Aps1zRIv",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 21209",
+  "actual_result": "Animation for the circle is broken and causes part of the circle to appear as a square when it reaches the other side",
+  "expected_result": "The animation for the circle is smooth",
+  "short_description": "Toggle animation in server settings is broken",
+  "steps_to_repro": "- Go to \"Text & Images\" in your user settings - Toggle any of the choices on/off - Observe the circle as you toggle an option on/off"
+ }
+}

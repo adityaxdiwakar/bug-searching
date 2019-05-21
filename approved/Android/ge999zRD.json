@@ -1,0 +1,16 @@
+{
+ "id": "58a87e80c664c7be9a2b7d98",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 234,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ge999zRD",
+ "data": {
+  "system_settings": " Google Nexus 5x Discord Alpha",
+  "actual_result": "Nothing",
+  "expected_result": "Members are automatically filtered out via the chosen role",
+  "short_description": "Unable to filter members by role in server settings",
+  "steps_to_repro": "- Step 1 - Go to Server Settings --> Members Step 2 - Sort by specific role "
+ }
+}

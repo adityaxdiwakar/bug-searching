@@ -1,0 +1,17 @@
+{
+ "id": "5b7c426e0540a60ef5b45897",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 930,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/b7YP9qNp",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12 (dev beta 8)",
+  "client_settings": "TestFlight 2.3.7 (6823)",
+  "actual_result": "The gif emote has a static png and doesn\u2019t disappear properly",
+  "expected_result": "The gif emote should cycle normal in the preview and thus should disappear properly",
+  "short_description": "Gif emotes not cycling correctly in emote preview but do show correctly in chat [Nitro required!]",
+  "steps_to_repro": "- Be in the unofficial hypesquad balance server so u have their emotes - Create a server or have an existing one - Go to your chatbox and type `:dontfeelsobalanced:` - Observe how it looks odd in the emote preview, but does look normal when pasting in chat."
+ }
+}

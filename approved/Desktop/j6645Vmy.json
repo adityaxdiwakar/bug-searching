@@ -1,0 +1,24 @@
+{
+ "id": "5943ff3bf51debe570e56fcd",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 770,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/j6645Vmy",
+ "data": {
+  "system_settings": "Ubuntu 14.04.5 LTS",
+  "client_settings": "0.0.1",
+  "actual_result": "`ac`",
+  "expected_result": "`a c`",
+  "short_description": "Using the substitution syntax for message editing (`s//`) breaks if you want to replace with a string featuring trailing spaces",
+  "steps_to_repro": "- Send a message, e.g., `abc` - Do substitution to replace with a string with trailing spaces, e.g., 's/b/ '"
+ }
+}

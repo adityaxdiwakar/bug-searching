@@ -1,0 +1,16 @@
+{
+ "id": "58ed97016735f2610f4cf704",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 347,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tNybWEUO",
+ "data": {
+  "system_settings": " Discord 3.6.2(358) Android 6.0",
+  "actual_result": "First letter of Flag will be shown such as \ud83c\udde6",
+  "expected_result": "Whole flag emoji gets erased",
+  "short_description": "Erasing one character brings first letter",
+  "steps_to_repro": "- Pick any flag from Emoji Picker - Erase one character from the flag - First letter of Flag is shown "
+ }
+}

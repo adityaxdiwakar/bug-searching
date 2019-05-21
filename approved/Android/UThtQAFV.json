@@ -1,0 +1,30 @@
+{
+ "id": "59fdf6fd826f54b5f03cd8c6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 870,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UThtQAFV",
+ "data": {
+  "system_settings": "SMGH530AZ 6.0 Android",
+  "client_settings": "Android Alpha 5.5.5 (555)",
+  "actual_result": "The roles modal briefly flashes with out of place items before minimizing back to normal.",
+  "expected_result": "The roles modal will be normal.",
+  "short_description": "Opening the roles modal repeatedly results in a glitched interface",
+  "steps_to_repro": "- View a guild's online list with at least 1,000 users. - Select each user down the list at a steady pace. - Continue step 2 until results are produced"
+ }
+}

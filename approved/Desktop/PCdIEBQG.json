@@ -1,0 +1,30 @@
+{
+ "id": "5a59a0cecf97a35b86ea0602",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1541,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PCdIEBQG",
+ "data": {
+  "system_settings": "MacBook Pro (late 2013), macOS Sierra 10.12.1",
+  "client_settings": "Discord Canary, 0.0.185 (build 9532)",
+  "actual_result": "The menu does not hide but still placing the profile card or DM below the reactions menu making interaction with the window behind impossible.",
+  "expected_result": "The Reactions menu is supposed to hide allowing you to see the profile card or DM window as every other navigation option does.",
+  "short_description": "Right clicking a user from the reactions menu and selecting \"Add Note\" or \"Message\" does not hide menu, displaying the new/intended destination improperly.",
+  "steps_to_repro": "- React to a message / find a message with one or more reactions on it - Click the three dots to the right of the message - Click \"Reactions\" - Right click on a user to bring up the User Options - Click \"Add Note\" or \"Message\" - Stand back and be amazed"
+ }
+}

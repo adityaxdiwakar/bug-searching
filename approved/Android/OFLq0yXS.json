@@ -1,0 +1,17 @@
+{
+ "id": "5b76a723c632561514763814",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1844,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/OFLq0yXS",
+ "data": {
+  "system_settings": "Zte grand x4 z956 android 6.0.1",
+  "client_settings": "Discord 733",
+  "actual_result": "Shows invisible / offline circle",
+  "expected_result": "Should show actual status (online,dnd,idle)",
+  "short_description": "Status in profile page shows as invisible",
+  "steps_to_repro": "- Open b1nzy's profile - click broken badges - reopen b1nzy's profile - boom shows it as invisible / offline"
+ }
+}

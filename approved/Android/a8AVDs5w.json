@@ -1,0 +1,30 @@
+{
+ "id": "5b60687d9113e51b24dd1768",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1737,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/a8AVDs5w",
+ "data": {
+  "system_settings": "Android 5.1",
+  "client_settings": "Discord Alpha 7.2.1(721)",
+  "actual_result": "The text field cannot be see",
+  "expected_result": "The text field can be see same as in dark theme",
+  "short_description": "The text field in quick switcher cannot be seen",
+  "steps_to_repro": "- Switch to light theme - Go in the quick switcher - See the text field"
+ }
+}

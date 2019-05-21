@@ -1,0 +1,36 @@
+{
+ "id": "5b61ea666b21e4a9fe7c2974",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1751,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fUURi1dq",
+ "data": {
+  "system_settings": "Samsung Galaxy J5 2017, Android 7.0 Nougat",
+  "client_settings": "Discord Alpha 7.2.1",
+  "actual_result": "The bottom of the logo is cut.",
+  "expected_result": "The logo shouldn't be cut on the bottom.",
+  "short_description": "The Discord logo gets cut when split screen on Login/Register screen.",
+  "steps_to_repro": "- Split your screen and make the Discord part of the screen the smallest - Observe the bottom of the logo"
+ }
+}

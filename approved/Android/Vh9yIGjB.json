@@ -1,0 +1,30 @@
+{
+ "id": "5a33c11b249f582528bc761f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 954,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Vh9yIGjB",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.8.6",
+  "actual_result": "You have to scroll up by 20/30 messages to retrieve it",
+  "expected_result": "you should still be jumped to the old message you picked at step 2",
+  "short_description": "After jumping to message, the chat will scroll down itself a bit if you load messages in another channel and then come back",
+  "steps_to_repro": "- Pick a channel - Jump to an old message - Switch to another channel with *unloaded* messages - Go back to the previous channel"
+ }
+}

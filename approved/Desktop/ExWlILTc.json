@@ -1,0 +1,30 @@
+{
+ "id": "5a5896f079f14d126de331e0",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1536,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ExWlILTc",
+ "data": {
+  "system_settings": "MacBook Pro (late 2013), macOS Sierra 10.12.1",
+  "client_settings": "Discord Canary 0.0.185 (build 9486)",
+  "actual_result": "The application bounces on the dock when receiving the call, unlike what happens in DnD.",
+  "expected_result": "The application should not bounce as Streamer Mode behaves the same as DND.",
+  "short_description": "[macOS specific] When receiving a call in Streamer Mode whilst in another window, the application bounces on the dock.",
+  "steps_to_repro": "- Enable Streamer Mode. - Click/CMD+Tab into another window. - Have someone call you. - Notice the application bounce. - If nothing happens, try full screening the application you navigate to, then repeat the steps."
+ }
+}

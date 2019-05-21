@@ -1,0 +1,30 @@
+{
+ "id": "5bc8dfbefa7dd120c463e02f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2195,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9gWq39yh",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.7.3",
+  "actual_result": "The text of the draft is still there, but all files that were attached to your message are gone",
+  "expected_result": "Your message draft should be left intact",
+  "short_description": "If you change your language on Desktop while you have a message draft saved on Android, the draft will lose all files attached to it",
+  "steps_to_repro": "- Enable Sync across clients in Language settings - In a text channel, write something in the textbox, select some files to attach and keep the message in your drafts (i.e don't send the message) - Change your language using the Desktop client - Wait for the new language to apply on Android"
+ }
+}

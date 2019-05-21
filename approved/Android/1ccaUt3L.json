@@ -1,0 +1,30 @@
+{
+ "id": "5a7a5f5e4a89b46cc9a26a3d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1106,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1ccaUt3L",
+ "data": {
+  "system_settings": "AOSP Android Nougat 7.0",
+  "client_settings": "Discord Alpha 6.2.0",
+  "actual_result": "Suggestions still appear",
+  "expected_result": "Suggestions disappear",
+  "short_description": "Emoji suggestions still happen on new lines",
+  "steps_to_repro": "- Input \":\" - Make a new line or hit enter (not send) - Input any character - Move the cursor before the new character"
+ }
+}

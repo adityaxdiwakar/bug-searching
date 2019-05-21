@@ -1,0 +1,30 @@
+{
+ "id": "5a4ca9f91f192ccc2c0b2621",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1504,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vq5oPgDl",
+ "data": {
+  "system_settings": "Windows 10 Home",
+  "client_settings": "Release Channel: canary, Build Number: 9193, Version Hash: 31f89b7031d4d4a65c5cd6bf42cf81dcb6e3fcb7",
+  "actual_result": "the box was out of screen and you cant scroll down to it",
+  "expected_result": "The box is fully on screen or you should be able to scroll down to it",
+  "short_description": "The join server modal is offscreen when viewing on a 17.3inch 1600x900 monitor",
+  "steps_to_repro": "- Turn font size and zoom to the max - Click the + at the bottom of the list - select join - the join box will be out of screen"
+ }
+}

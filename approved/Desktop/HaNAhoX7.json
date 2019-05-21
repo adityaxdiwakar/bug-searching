@@ -1,0 +1,30 @@
+{
+ "id": "5b8177f6234d6f63579d9341",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2803,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HaNAhoX7",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 22587, Version Hash: e36737e578784941abb28e35a9941857e653b6b7",
+  "actual_result": "The volume tab stays on screen after closing the overlay with the keyboard shortcut",
+  "expected_result": "The volume tab should disapper, since the overlay has been closed",
+  "short_description": "When opening the volume tab for a user in the overlay, and closing the overlay, the volume tab stays visible",
+  "steps_to_repro": "- open the discord overlay in a game - left click or right click on an user to open the volume tab, including youself - close the discord overlay using the keyboard shortcut -profit"
+ }
+}

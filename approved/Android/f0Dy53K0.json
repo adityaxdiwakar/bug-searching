@@ -1,0 +1,17 @@
+{
+ "id": "5be3c29cbb3075416d79dc6b",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2289,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/f0Dy53K0",
+ "data": {
+  "system_settings": "OnePlus 5 Android 8.1",
+  "client_settings": "Discord Alpha 7.8.6",
+  "actual_result": "It doesn't autocorrect your sentence besides from giving you suggestions in the suggestion box",
+  "expected_result": "Autocorrect should work",
+  "short_description": "Autocorrect does not work in search and in the share modal at all, besides from the suggestion box",
+  "steps_to_repro": "- Share an image to get the share modal - Type something grammatically wrong or a typo. For an example \"im\" instead of \"I'm\" it should autocorrect to \"I'm\" but it doesn't but instead only suggests it in the suggestion box in gboard - Try the following steps above as well for search."
+ }
+}

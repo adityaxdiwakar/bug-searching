@@ -1,0 +1,24 @@
+{
+ "id": "5995db4494c522aee1fb28aa",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1011,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/j0CmKMns",
+ "data": {
+  "system_settings": "Windows 10, 64 bit",
+  "client_settings": "Discord Web Client",
+  "actual_result": "pop-up text box contains \\_@X with the cursor at the beginning",
+  "expected_result": "pop up text box should contain @X\\_ with the cursor at the end where the underscore is",
+  "short_description": "Cursor goes to wrong place in friends search",
+  "steps_to_repro": "- Go to <discordapp.com/channels/@me> - click the box labeled \"Find or start a conversation\" in the upper left - type a letter into the box, X for example"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59433bf5dd86ae66164ae99c",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 768,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rLcPWVnj",
+ "data": {
+  "system_settings": "MAC OSX Sierra Latest",
+  "client_settings": "Discord 0.0.157",
+  "actual_result": "The [ BOT ] tags have different colors. The on with the role shows as a greyish blue.",
+  "expected_result": "The [ BOT ] tags should be the same color regardless of their roles.",
+  "short_description": "When offline the blue [BOT] tag changes based if it has a role or not.",
+  "steps_to_repro": "- Get two offline bots - Give one a role. (the color I used was #6FE29D)"
+ }
+}

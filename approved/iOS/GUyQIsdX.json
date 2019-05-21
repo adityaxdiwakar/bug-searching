@@ -1,0 +1,24 @@
+{
+ "id": "5bad634adf99584f5e0fe18a",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1033,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GUyQIsdX",
+ "data": {
+  "system_settings": "IPhone 7, iOS 12",
+  "client_settings": "Stable 2.3.8",
+  "actual_result": "Text in channel is stuck behind keyboard",
+  "expected_result": "The chat should rescale with the open keyboard for writing the message",
+  "short_description": "Text stuck behind keyboard",
+  "steps_to_repro": "- Have predictive text disabled in your keyboard settings - Start writing a message in a channel - Long press a message in the current channel for the menu - Open add reaction - Click on cancel"
+ }
+}

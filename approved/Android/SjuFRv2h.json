@@ -1,0 +1,30 @@
+{
+ "id": "5b8a178ada8f4619d32416ef",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1908,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SjuFRv2h",
+ "data": {
+  "system_settings": "Honor 9 Lite",
+  "client_settings": "Alpha 744",
+  "actual_result": "there is... nothing.",
+  "expected_result": "playing status should be displayed",
+  "short_description": "there is no user playing status in DM list",
+  "steps_to_repro": "- check a user's playing status in member's list in a server. open their DM. - swipe to right to open the DM list. observe"
+ }
+}

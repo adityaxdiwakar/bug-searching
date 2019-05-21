@@ -1,0 +1,30 @@
+{
+ "id": "59f1b02395908fc57011d332",
+ "closed": false,
+ "idList": "5a26e8ae7bfa06f5f1507b63",
+ "idShort": 391,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5poWZRnV",
+ "data": {
+  "system_settings": "iOS 11.1 Public Beta 4",
+  "client_settings": "TestFlight 1.9.3",
+  "actual_result": "The number pad doesn\u2019t go down",
+  "expected_result": "Normal",
+  "short_description": "Keyboard doesn't hide after verifying phone number.",
+  "steps_to_repro": "- Don\u2019t verify your phone in discord - Join a Server which needs phone verification - Verify"
+ }
+}

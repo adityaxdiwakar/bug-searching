@@ -1,0 +1,17 @@
+{
+ "id": "5b6e270b94a53a0ceaaa8afa",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 893,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8J8WGEMv",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 6",
+  "client_settings": "TestFlight 2.3.6 (6691)",
+  "actual_result": "Back button has no arrow (confirmed with an iOS dev that it is a bug)",
+  "expected_result": "Back button should have an arrow by it",
+  "short_description": "Back button has no arrow when opening a user profile from mutual friends",
+  "steps_to_repro": "- Open a user\u2019s profile that you have mutual friends with - Go to mutual friends and select a user - Look at the back button"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a79d2ebdfe6a42cad929986",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1633,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fwUdJusS",
+ "data": {
+  "system_settings": "Yoga 11e Chromebook on Chrome OS",
+  "client_settings": "Release Channel: canary, Build Number: 10310, Version Hash: b7d76eb0e5a4960a112a7be1b19bfe159950269a",
+  "actual_result": "The profile clips out of the screen",
+  "expected_result": "The profile should pop up like normal",
+  "short_description": "Profile clips out if you click on a person and names are hidden in voice chat.",
+  "steps_to_repro": "- Right click on a voice chat and press hide names - Left Click on the person's profile picture - etc"
+ }
+}

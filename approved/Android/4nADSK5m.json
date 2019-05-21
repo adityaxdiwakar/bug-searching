@@ -1,0 +1,22 @@
+{
+ "id": "58a90994b0b889e51d9ca297",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 237,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4nADSK5m",
+ "data": {
+  "actual_result": "Crash",
+  "expected_result": "Some sort of choose image dialog",
+  "short_description": "Attempting to change server icon crashes the app",
+  "steps_to_repro": "- Attempt to change a server icon "
+ }
+}

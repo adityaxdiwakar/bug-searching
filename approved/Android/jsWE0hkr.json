@@ -1,0 +1,24 @@
+{
+ "id": "59d34da3faaf26ebba088953",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 775,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jsWE0hkr",
+ "data": {
+  "system_settings": "Android 6.0.1 Xiaomi REDMI 4",
+  "client_settings": "Discord Alpha 5.2.7",
+  "actual_result": "The message highlight disappears",
+  "expected_result": "The message highlight should remain as it is",
+  "short_description": "If a user reacts on a message that has his role mentioned,the highlight disappears",
+  "steps_to_repro": "- Find a message that has your role mentioned - React to the message"
+ }
+}

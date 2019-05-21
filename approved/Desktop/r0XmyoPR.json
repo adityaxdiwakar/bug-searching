@@ -1,0 +1,24 @@
+{
+ "id": "5923be41f1fe354ef54b704b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 668,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/r0XmyoPR",
+ "data": {
+  "system_settings": "Windows 8.1",
+  "client_settings": "Desktop Discord Canary/1.4.12",
+  "actual_result": "'hello' and 'goodbye' are a single space apart, following normal html whitespace collapsing rules.",
+  "expected_result": "'hello' and 'goodbye' should have a wide space between them",
+  "short_description": "Whitespace in messages is unexpectedly collapsed when using >100% font size",
+  "steps_to_repro": "- set Chat Font Scaling to a value above 100% - send 'hello      goodbye' in chat (several spaces between the two words)"
+ }
+}

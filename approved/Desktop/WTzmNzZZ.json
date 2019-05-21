@@ -1,0 +1,30 @@
+{
+ "id": "5ae978e367e0d3bf82f4dfe1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1916,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WTzmNzZZ",
+ "data": {
+  "system_settings": "Windows 10 Home",
+  "client_settings": "Stable 14308, can also repro on Canary 14432",
+  "actual_result": "custom color and default color are both selected",
+  "expected_result": "Color picker should not allow #000000 to be chosen, and only display default as selected",
+  "short_description": "attempting to change role color to #000000 using the mouse results in custom color and default color being selected",
+  "steps_to_repro": "- *Roles cannot be #000000 (NAB)* - must have permission to edit role - enter edit role screen - use color picker to customize role color - use mouse to drag color to #000000 (black in corner) - drag mouse outside color picker box - release mouse - role color now shows as both default and #000000"
+ }
+}

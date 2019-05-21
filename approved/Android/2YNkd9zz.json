@@ -1,0 +1,30 @@
+{
+ "id": "5bfa19ccf5b0e97a2361160a",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2352,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2YNkd9zz",
+ "data": {
+  "system_settings": "Asus Zenfone max pro m1 Android 8.1.0",
+  "client_settings": "Discord alpha 8.0.0",
+  "actual_result": "Audit logs show \"ownership transferred to null\" although if you filter results via \"update server action\" you can see the actual person",
+  "expected_result": "Audit logs will show you who the ownership was transferred to",
+  "short_description": "Server transfership in audit logs shows variable results.",
+  "steps_to_repro": "- Be a server owner - Transfer ownership to another person and quickly leave server - Go to a \"non owner account\" and view audit logs."
+ }
+}

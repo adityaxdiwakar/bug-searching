@@ -1,0 +1,30 @@
+{
+ "id": "5a9472cbe18f48a752a323b7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1146,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XHwIMlyH",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.8",
+  "actual_result": "Search feature is unusable for more than 1 user",
+  "expected_result": "You should be able to search for as many users as you want, aslong as you haven't reached the limit of 10 users for the group",
+  "short_description": "In the \"Add friends to Group DM\" screen, it's impossible to use Search again if a user has already been selected using Search",
+  "steps_to_repro": "- Go to your friends list - Tap on the icon with two bodies with a + (Add friends to Group DM) - Tap on the search bar, and input the first characters of a friend - When your desired friend shows up, select it - Attempt to search for a second user"
+ }
+}

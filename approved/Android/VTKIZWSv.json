@@ -1,0 +1,17 @@
+{
+ "id": "5ba97f2175566454c46417a9",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2010,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VTKIZWSv",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 7.5.5",
+  "actual_result": "Blank",
+  "expected_result": "the No Logs Yet image shows",
+  "short_description": "The no logs yet image doesn't appear",
+  "steps_to_repro": "- Have a server with audit logs - choose a filter that has no audit logs at all - observe"
+ }
+}

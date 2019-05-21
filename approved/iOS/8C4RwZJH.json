@@ -1,0 +1,17 @@
+{
+ "id": "5b9ae8273a8e9a2c63ee0c39",
+ "closed": false,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 1006,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8C4RwZJH",
+ "data": {
+  "system_settings": "Ipad pro (2018) iOS 11.4.1",
+  "client_settings": "Testflight 2.3.8",
+  "actual_result": "The menu stays open and wont close",
+  "expected_result": "The menu should close after a few seconds",
+  "short_description": "Menu when swiping your friends to left stays open",
+  "steps_to_repro": "- Go to the Friends Tab - Click on \"All\" - Swipe a lot of your friends to the left so that the \"more\" and \"message\" menu opens (swipe them fast)"
+ }
+}

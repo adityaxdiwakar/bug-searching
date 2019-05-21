@@ -1,0 +1,30 @@
+{
+ "id": "5b5ee8b62ac25edb9ff6b4dd",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1719,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wx74g5Vr",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 720",
+  "actual_result": "It's a bit towards the top.",
+  "expected_result": "It lies exactly in between the two lines above and below it or is aligned with the arrow.",
+  "short_description": "The change password text that leads to the change password modal isn't centered between the lines above and below it",
+  "steps_to_repro": "- Open settings. - Click on \"My Account\". - Observe the change password text."
+ }
+}

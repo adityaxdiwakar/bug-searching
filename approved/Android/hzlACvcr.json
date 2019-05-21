@@ -1,0 +1,22 @@
+{
+ "id": "584fce1edd668b649b14471a",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 136,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hzlACvcr",
+ "data": {
+  "actual_result": "the channel is mentioned",
+  "expected_result": "the code block contains  '<#{CHANNEL ID }>'",
+  "short_description": "mentioned channels using the id format in code blocks show up as mentioned channels",
+  "steps_to_repro": "- On pc get the id of any channel in your current server - create a code block containing '<#{CHANNEL ID}>' - switch over to android and view the message you sent from pc "
+ }
+}

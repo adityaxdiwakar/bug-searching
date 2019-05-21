@@ -1,0 +1,24 @@
+{
+ "id": "59c0370873b9f8bc459d197c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1169,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aXKbPAOW",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Canary Build 4361",
+  "actual_result": "Notice that \"Hide names\" is unchecked and clicking it doesn't do anything",
+  "expected_result": "\"Hide names\" is checked and clicking it toggles the name visibility",
+  "short_description": "The visibility of a voice channel player list can't be managed by mouse when hidden with key combo",
+  "steps_to_repro": "- Join a voice channel - hide the names using the key combo (ctrl+shift+a) - Right click on the joined voice channel"
+ }
+}

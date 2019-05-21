@@ -1,0 +1,24 @@
+{
+ "id": "599b67a9b396d0f293834c0a",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1027,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4Kz2JZR9",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, 0.0.297",
+  "actual_result": "I can't video chat, webcam does not show up as a camera in voice & video settings. It does however show up as a mic, and also works in the browser version of discord just fine",
+  "expected_result": "I can actually video chat",
+  "short_description": "Logitech C170 webcam detected for video chat in browser version but not in desktop",
+  "steps_to_repro": "- own a Logitech C170 (also seen it reported with a C270) - try to video chat"
+ }
+}

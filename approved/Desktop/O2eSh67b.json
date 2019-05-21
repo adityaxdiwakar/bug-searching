@@ -1,0 +1,22 @@
+{
+ "id": "586d0d718f7489b91b5b7519",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 302,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/O2eSh67b",
+ "data": {
+  "actual_result": "The tab closes, without being able to have enough time to read the error.",
+  "expected_result": "after clicking done the error would pop up without closing the tab",
+  "short_description": "When editing a voice channel, going beyond the character limit and pressing done would show the error, but will quickly close the tab, acting like the name change was saved.",
+  "steps_to_repro": "- go to a voice channel and edit it - go beyong the character limit - click done "
+ }
+}

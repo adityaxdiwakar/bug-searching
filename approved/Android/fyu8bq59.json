@@ -1,0 +1,17 @@
+{
+ "id": "5a736d27192ba0a96665e1e5",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1090,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/fyu8bq59",
+ "data": {
+  "system_settings": "Samsung Galaxy S8+ Android 7.0",
+  "client_settings": "Discord Alpha 6.1.7",
+  "actual_result": "text is over the album cover image",
+  "expected_result": "message that invites you to listen to Spotify music",
+  "short_description": "Text out of place in the join to listen to Spotify message",
+  "steps_to_repro": "- listen to music on Spotify and invite others to listen"
+ }
+}

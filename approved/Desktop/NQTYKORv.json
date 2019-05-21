@@ -1,0 +1,24 @@
+{
+ "id": "59cbc599d5dc66c273a42565",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1196,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NQTYKORv",
+ "data": {
+  "system_settings": "MacOS High Sierra",
+  "client_settings": "Discord Canary, 0.0.154",
+  "actual_result": "Text overflows",
+  "expected_result": "Should wrap",
+  "short_description": "Tweets with the new extra chars don't wrap",
+  "steps_to_repro": "- Link this tweet :"
+ }
+}

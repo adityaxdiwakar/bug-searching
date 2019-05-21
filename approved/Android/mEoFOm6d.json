@@ -1,0 +1,17 @@
+{
+ "id": "5af9bbe871bdc63a91c4c0eb",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1415,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mEoFOm6d",
+ "data": {
+  "system_settings": "Samsung j7 Android 7.0",
+  "client_settings": "6.6.1 (661)",
+  "actual_result": "The audio gets muffled like it is when you're in a call",
+  "expected_result": "The audio should be muffled like it is when you're in a call",
+  "short_description": "When I leave a call and go to the homescreen then open up any app and watch a video the audio is muffled just like it is when im in a call",
+  "steps_to_repro": "- Leave a call on discord - Press the home button and go to your hom screen - Open any video hosting app/website and watch a video"
+ }
+}

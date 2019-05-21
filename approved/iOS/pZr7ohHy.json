@@ -1,0 +1,15 @@
+{
+ "id": "58b26122624a1a2340d2d7f4",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 202,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pZr7ohHy",
+ "data": {
+  "actual_result": "Discord app crashes, and the channel is not deleted. System settings: iPhone 6S Plus iOS 10.3 Beta 3 TestFlight 1.8.3(70)",
+  "expected_result": "Channel should be deleted.",
+  "short_description": "Deleteing channels on iOS causes app crash.",
+  "steps_to_repro": "- Tap a channel. - Tap the channel name at the top of chat. - Tap Delete Channel. "
+ }
+}

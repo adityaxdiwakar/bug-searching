@@ -1,0 +1,17 @@
+{
+ "id": "5aef118c6649d76bfb516672",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1945,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WXLe7qPW",
+ "data": {
+  "system_settings": "Windows 10 Pro (64-bit), Creators Update (v1709, Build 16299.248)",
+  "client_settings": "Canary 0.0.208 (Build 14720)",
+  "actual_result": "The animation brings the pop-out modal across the users and cropping over avatars.",
+  "expected_result": "The pop-out modal is flush with the left-side of the highlightable box when hovering over users.",
+  "short_description": "When clicking a user in the online list, the pop-out modal overlaps across the other members",
+  "steps_to_repro": "- Go to any discord server. - Click a user in the list. - Observe the pop-out modal."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5984bc6b3e6a454afe1e19a6",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 591,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pKHNzCF6",
+ "data": {
+  "system_settings": "Android 5.1, Huawei CUN 29 Note: this bug does not occur on Android 7.0, but it does on lower version devices so please dont deny with android 7.0.",
+  "client_settings": "Version 4.0.2",
+  "actual_result": "It freezes. Note: It doesnt freezes randomly , so please try a few times(atleast 30 times) before adding an approve/deny",
+  "expected_result": "It should open, so you get to add emojis",
+  "short_description": "App randomly freezes while opening emoji picker",
+  "steps_to_repro": "- This bug does not happen on devices over Android 5.1. - Open emoji picker"
+ }
+}

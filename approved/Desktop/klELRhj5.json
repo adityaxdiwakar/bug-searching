@@ -1,0 +1,24 @@
+{
+ "id": "5b5a50fa7756e6bb22e299d0",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2446,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5bd3724565f4570ad2d714ba",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "MOJAVE!",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/klELRhj5",
+ "data": {
+  "system_settings": "MacOS Mojave Version 10.14 Beta (18A326h)",
+  "client_settings": "Release Channel: stable, Build Number: 18361, Version Hash: 371c12d03e2c2bd6ceef25cb885e8d66748ac6f2",
+  "actual_result": "Discord lags to the point it's unusable.",
+  "expected_result": "After you join the voice channel, Discord should operate normally without lagging.",
+  "short_description": "When joining any voice channel, either on a private call or a discord voice channel, your whole Discord app lags a lot.",
+  "steps_to_repro": "- Open Discord - Open any server or DM chat - Call your friend via DM or join a voice channel on a server - Watch Discord lag"
+ }
+}

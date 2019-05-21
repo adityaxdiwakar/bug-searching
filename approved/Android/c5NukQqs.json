@@ -1,0 +1,23 @@
+{
+ "id": "58a237b588596e22ce2f964e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 221,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c5NukQqs",
+ "data": {
+  "system_settings": " CM13 (on idol347), Discord Alpha v3.3.3",
+  "actual_result": "shows confirmation window on every rotate",
+  "expected_result": "nothing",
+  "short_description": "Rotation causes invite confirmation",
+  "steps_to_repro": "- Open invite URL (https://discord.gg/discord-testers for example) in browser and click on blue button - App will be opened with confirmation to join - Click on background (close confirmation) - Rotate screen in landscape mode "
+ }
+}

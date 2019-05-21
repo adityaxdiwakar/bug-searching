@@ -1,0 +1,30 @@
+{
+ "id": "5a3a9f33cfd7b16ede736f0a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1481,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jPugesdO",
+ "data": {
+  "system_settings": "Windows 7 x64",
+  "client_settings": "Release Channel: canary, Build Number: 8941",
+  "actual_result": "Shows white flag",
+  "expected_result": "Show the Croatian Flag",
+  "short_description": "Croatian language has a white flag, instead of the Croatian flag",
+  "steps_to_repro": "- User Settings - Language - Croatian"
+ }
+}

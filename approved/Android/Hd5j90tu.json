@@ -1,0 +1,17 @@
+{
+ "id": "5ab92d00cfee4c5abec88ddf",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1229,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Hd5j90tu",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.4",
+  "actual_result": "It is here, and when pressed you will see a loading icon for a second. If you press it repeatedly you may see a \"Unable to preprocess file\" toast appear",
+  "expected_result": "The Send button shouldn't be there in the first place",
+  "short_description": "Attempting to share a space character will enable the Send button, and will trigger a \"Unable to preprocess file\" toast if pressed repeatedly",
+  "steps_to_repro": "- Share something to Discord that isn't a file - Delete the content of the \"comment\" box - Input a space character in the comment box - select a server text channel and Send"
+ }
+}

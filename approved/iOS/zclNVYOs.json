@@ -1,0 +1,29 @@
+{
+ "id": "58d4031a76a9c719e816acdd",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 220,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zclNVYOs",
+ "data": {
+  "system_settings": " iOS 10 Discord App",
+  "actual_result": "Members text and edit text merges",
+  "expected_result": "No merged text. \"Edit\" (assumably) should disappear",
+  "short_description": "Edit and Members buttons merge",
+  "steps_to_repro": "- Be on iOS app - Find server you have admin to - Go to server settings - Go to members - Click a user - Edit their roles - Press save - See merged text of \"Members\" and \"edit\" "
+ }
+}

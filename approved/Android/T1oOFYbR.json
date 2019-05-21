@@ -1,0 +1,30 @@
+{
+ "id": "5b5bf6afa92d026157133029",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1690,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/T1oOFYbR",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 719",
+  "actual_result": "It's colour almost completely matches with it's surroundings.",
+  "expected_result": "It is in a colour that can be seen on light theme.",
+  "short_description": "The prune text in the prune members modal is almost completely invisible on light theme when you have nobody to prune. Android lollipop specific.[Android 5.0 specific]",
+  "steps_to_repro": "- Switch to light theme.  - Give everyone a role in your server. - Open server settings> Members. - From the 3 dots, click on prune members. - Look at the prune button in the modal."
+ }
+}

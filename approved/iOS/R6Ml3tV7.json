@@ -1,0 +1,30 @@
+{
+ "id": "5a95295f0e5ff356d3be71f4",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 610,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/R6Ml3tV7",
+ "data": {
+  "system_settings": "iPhone X, iOS 11.2.5",
+  "client_settings": "TestFlight 2.2.3 (2671)",
+  "actual_result": "The keyboard comes up with a padded pagination bar above it",
+  "expected_result": "The keyboard should come up with a regular sized pagination bar above it",
+  "short_description": "[iPhone X only] Search pagination bar has excessive padding with the keyboard up",
+  "steps_to_repro": "- Open search within any channel or DM - Search for anything with more than 25 results - Tap the search field again"
+ }
+}

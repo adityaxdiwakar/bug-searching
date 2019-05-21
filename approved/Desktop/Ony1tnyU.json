@@ -1,0 +1,15 @@
+{
+ "id": "583c8588287c0a7e13eebfb5",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 183,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ony1tnyU",
+ "data": {
+  "actual_result": "https://discord.gg/G9hqvEr/",
+  "expected_result": "https://discord.gg/G9hqvEr",
+  "short_description": "Invites with trailing forwardslash have WebSite Embed",
+  "steps_to_repro": "- See Results; Expected is normal, Actual is with trailing "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59a022eeaafe2a9cbe8e7de3",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 653,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/I59SlEho",
+ "data": {
+  "system_settings": "Galaxy Note 10.1 GT-N8000, Cyanogen Marshmallow 6.0",
+  "client_settings": "Android Alpha 4.0.9",
+  "actual_result": "There's big gap between statusbar and discord's upside, also a lil broken line on the server list",
+  "expected_result": "There's no gap between statusbar and discord's upside",
+  "short_description": "Big gap between statusbar and discord's upside on discord's landscape (Tablet Only)",
+  "steps_to_repro": "- Open Discord - Tilt to Landscape"
+ }
+}

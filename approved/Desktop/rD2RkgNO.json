@@ -1,0 +1,30 @@
+{
+ "id": "5b956fa3c02aba722708f8e6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2951,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rD2RkgNO",
+ "data": {
+  "system_settings": "macOS High Sierra 10.13.6",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 23017, Version Hash: ff85ea5ba61f12b4cac137b048a25ed0dd5648de",
+  "actual_result": "The bar which marks your cursor's location flashes/flickers at uneven, random intervals which have significant changes.",
+  "expected_result": "The flashing/flickering, as I believe, is supposed to flash/flicker at an even, constant rate between intervals.",
+  "short_description": "Cursor location flashing/flickering vertical thin bar is flashing/flickering at uneven intervals.",
+  "steps_to_repro": "- Look at the message bar at the bottom of the screen where it says \"Message #nameOfTextChannel\" - Look at the flickering bar where it marks your cursor's location - Observe the rate at which it clickers"
+ }
+}

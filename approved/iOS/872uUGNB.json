@@ -1,0 +1,24 @@
+{
+ "id": "5b2c237c9d247c0e132fc067",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 791,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/872uUGNB",
+ "data": {
+  "system_settings": "iPhone 6 iOS 10.3.2",
+  "client_settings": "TestFlight Build 2.3.4 (5330)",
+  "actual_result": "The typing cursor is under the `M` in `Message`",
+  "expected_result": "The typing cursor should not be under the `M` in `Message`",
+  "short_description": "Typing cursor is under the text",
+  "steps_to_repro": "- Open up a text channel where you have permission to send messages - Observe the text box"
+ }
+}

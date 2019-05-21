@@ -1,0 +1,24 @@
+{
+ "id": "5b5f107167cc28194164aa28",
+ "closed": true,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2509,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nyxVuaRJ",
+ "data": {
+  "system_settings": "iPhone 6, iOS 10.2.1",
+  "client_settings": "Safari 10.2.1",
+  "actual_result": "artwork doesnt show up",
+  "expected_result": "Artwork should appear without a problem",
+  "short_description": "[Safari only] Rich presence doesnt load the artwork",
+  "steps_to_repro": "- go to discord(dot)com/rich-presence - observe the strange place where the artwork is located at"
+ }
+}

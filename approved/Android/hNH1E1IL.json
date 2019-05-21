@@ -1,0 +1,30 @@
+{
+ "id": "59e3bda6ac6220538d1808b2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 814,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hNH1E1IL",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.3.9",
+  "actual_result": "The text between `**` is displayed non-bold",
+  "expected_result": "The markdown should be escaped/ignored as it's not supported in Playing status",
+  "short_description": "Markdown bold syntax (`**text**`) is parsed in Playing Status text",
+  "steps_to_repro": "- You need two accounts : one logged in on Desktop, another one on an Android device - On Desktop, change the Playing status to something that contains text between `**` (only works with bold Markdown syntax, doesnt work with `~~text~~` or `__text__` for example)  - On your Android device, observe the Playing status of your other account"
+ }
+}

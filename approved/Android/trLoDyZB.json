@@ -1,0 +1,30 @@
+{
+ "id": "5af844bf5356ed851bac99b0",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1409,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/trLoDyZB",
+ "data": {
+  "system_settings": "Moto G3 - Android 6.0.1",
+  "client_settings": "Discord 6.6.1 Beta",
+  "actual_result": "It is displaying the small dot",
+  "expected_result": "It must display only the box",
+  "short_description": "Small dot under Rich presence box",
+  "steps_to_repro": "- Open account with Rich presence in mobile - Able to see small dot in right bottom corner"
+ }
+}

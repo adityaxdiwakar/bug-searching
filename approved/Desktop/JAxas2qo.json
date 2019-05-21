@@ -1,0 +1,30 @@
+{
+ "id": "596073dabd0a36a31ae875a1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 824,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JAxas2qo",
+ "data": {
+  "system_settings": "Windows 10 Pro",
+  "client_settings": "Discord Canary 07/07/17 update",
+  "actual_result": "Emoji sometimes appear as if they overlap or misshapen (easy to see when the client previews the \ud83d\ude21 emoji)",
+  "expected_result": "The emojis appear as circles no matter what emoji is previewed for the toggle",
+  "short_description": "Hovering over the emoji picker UI toggle sometimes are misshapen at any zoom other than default",
+  "steps_to_repro": "- Ctrl+R to recieve the new UI update - Set the zoom level to any non-default- hover over the emoji picker - note that certain emoji are overlapping"
+ }
+}

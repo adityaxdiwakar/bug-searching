@@ -1,0 +1,30 @@
+{
+ "id": "5be5e756db84dd38da071f3c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2293,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oAxGE1Nw",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0.0",
+  "client_settings": "7.8.6",
+  "actual_result": "The bottom of both are compared is too different",
+  "expected_result": "They should be same",
+  "short_description": "The bottom of the ban settings is too long compared with other",
+  "steps_to_repro": "- Now , you should have 2 server for it. The 1. should be your ownership and in the 2. Not yours but you need admin roles to see server settings - Go to 1. Server (which you have ownership) , go to server settings scroll the bottom and see the blanket is too short below of bans setting - Now go to the 2. Server which you have admin perms but not owned. Scroll to the bottom and observe below of thr bans settings - Compare it, the 2. Server will have very long bottom - That is caused by the ' Security ' settings in the up. If theres a security settings the bottom would be short"
+ }
+}

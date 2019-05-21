@@ -1,0 +1,16 @@
+{
+ "id": "58f2b57518474d634148ab83",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 227,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ICZv5gWq",
+ "data": {
+  "system_settings": " iPad 4, iOS 10.3.1, Discord 1.8.3",
+  "actual_result": "Blocks it from deleting.",
+  "expected_result": "Deleting it fast.",
+  "short_description": "Holding the delete button on a mention (On keyboard), partially stops it from deleting.",
+  "steps_to_repro": "- Mention someone in text, do **not** send it. - Hold the delete button "
+ }
+}

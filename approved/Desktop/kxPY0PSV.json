@@ -1,0 +1,17 @@
+{
+ "id": "5b517c564aa752b0413e6077",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2355,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kxPY0PSV",
+ "data": {
+  "system_settings": "iPhone 6S - iOS 11.3.1",
+  "client_settings": "Safari",
+  "actual_result": "Page stops scrolling",
+  "expected_result": "Page continues scrolling",
+  "short_description": "[Website Bug] Scrolling on mobile stops when finger is released",
+  "steps_to_repro": "- Open up the developer portal on mobile - Scroll up/down any page with your finger - Release finger while it\u2019s still scrolling"
+ }
+}

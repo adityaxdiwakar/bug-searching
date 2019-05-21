@@ -1,0 +1,17 @@
+{
+ "id": "5b5ef720cc72ee4ffbfeb14b",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2503,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/L9QVii4R",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "NA",
+  "actual_result": "The third link is cut off.",
+  "expected_result": "You should either be able to see the whole map or it should be scrollable.",
+  "short_description": "[Website bug][Mobile only] On https://support(dot)discordapp(dot)com/hc/en-us, clicking on any of the options down (example:- Announcements) then clicking on another option from the selected page(eg:- [Resolved] Connecting issues) makes the map that tells where you are, cut off.",
+  "steps_to_repro": "- Open https(colon)//support(dot)discordapp(dot)com/hc/en-us . - Click on \"Announcements\". - Click on [Resolved] Connectivity issues. - Observe the map that tells where you are."
+ }
+}

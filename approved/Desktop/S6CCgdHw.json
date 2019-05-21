@@ -1,0 +1,30 @@
+{
+ "id": "5b35f4f645bdc0c553524dca",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2220,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/S6CCgdHw",
+ "data": {
+  "system_settings": "macOS High Sierra Version 10.13.5 (17F77)",
+  "client_settings": "0.0.251 macOS",
+  "actual_result": "Client crashes.",
+  "expected_result": "Discord will keep quitting and re-opening",
+  "short_description": "Constantly reloading the application (macOS) causes an error",
+  "steps_to_repro": "- Open Discord- Repeatedly press CMD + R (or press and hold)  -"
+ }
+}

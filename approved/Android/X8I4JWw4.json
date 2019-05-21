@@ -1,0 +1,30 @@
+{
+ "id": "5a2658c297035c02ae61ec29",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 935,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/X8I4JWw4",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 5.8.3",
+  "actual_result": "it's just a blank icon",
+  "expected_result": "should show the server letters",
+  "short_description": "iconless servers are blank on server drop down menu",
+  "steps_to_repro": "- hold down or a iconless servers or open the option menu - observe the icon"
+ }
+}

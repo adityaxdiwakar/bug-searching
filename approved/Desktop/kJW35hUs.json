@@ -1,0 +1,30 @@
+{
+ "id": "5ae23106a1481286dc5f9af4",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1893,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kJW35hUs",
+ "data": {
+  "system_settings": "MS Windows 10 Pro x64 (v1709)",
+  "client_settings": "Canary 14116",
+  "actual_result": "The loading image animation is \"cropped\"",
+  "expected_result": "No loading animation should be there, or an adapted version",
+  "short_description": "Loading image icon is cropped if an image is too small",
+  "steps_to_repro": "- Take a non cached image URL (a new, so) that is very small like 24 x 24 for example - Send it in a text channel"
+ }
+}

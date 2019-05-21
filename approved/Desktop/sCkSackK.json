@@ -1,0 +1,30 @@
+{
+ "id": "5a91432de95e9de23247fcd0",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1685,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sCkSackK",
+ "data": {
+  "system_settings": "windows 10 home x64 fall cu",
+  "client_settings": "canary 11072",
+  "actual_result": "randomly it wont have a suggestion",
+  "expected_result": "all the right clicks should a suggestion/suggestions",
+  "short_description": "a misspelled word may not have a suggestion/suggestions all the time",
+  "steps_to_repro": "- misspell a word you know can be corrected - right click - see word(s) that it can be corrected to - keep right clicking"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "585dbc3ebab667caf11490f6",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 272,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ii1q3gni",
+ "data": {
+  "actual_result": "Keyboard shortcut skips the now visible channel",
+  "expected_result": "Keyboard shortcut switches to the now visible channel",
+  "short_description": "Keyboard shortcuts fail to switch to hidden but visible channels",
+  "steps_to_repro": "- Mute a channel - Hide muted channels - Get pinged in a muted channel - Try using keyboard shortcuts to switch to now visible channel "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59a35abfb48cea05d64018a0",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1060,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sSOIi1VG",
+ "data": {
+  "system_settings": "Windows 10 x64 Creators Update",
+  "client_settings": "Desktop Canary, 0.0.163",
+  "actual_result": "it tries to resend the message, so you get the error again",
+  "expected_result": "when you get the error and press enter, it closes the message",
+  "short_description": "When you are editing a message and get the \"too long\" error, pressing Enter attempts to resend the message instead of closing the warning",
+  "steps_to_repro": "- Send a message - Edit it so it's too long - Get the too long error - press enter multiple times"
+ }
+}

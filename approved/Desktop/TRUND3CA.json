@@ -1,0 +1,30 @@
+{
+ "id": "5b95554260d4c530446f1e98",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2949,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TRUND3CA",
+ "data": {
+  "system_settings": "macOS 10.3.6, MacBookPro 14,3",
+  "client_settings": "Stable 23017",
+  "actual_result": "Discord changes the tabs to spaces, and the code pastes into an external app with spaces rather than tabs",
+  "expected_result": "Discord should recognize the tabs as separators and maintain them in copied text",
+  "short_description": "Code blocks change tabs to spaces upon copying out of Discord",
+  "steps_to_repro": "- Create a code block using the tab key as a separator between two pieces of text (copy this in from an external source, IE a programming tool) - Post it - Attempt to copy and paste it from Discord into another app (IE said programming tool)"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "5841dba0a5f0386ac1823dfc",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 196,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5Xz2QtlE",
+ "data": {
+  "actual_result": "stays in recent mentions.",
+  "expected_result": "It gets removed.",
+  "short_description": "When user edits a user mention out of a message, it stays in recent mentions",
+  "steps_to_repro": "- mention user. - remove user from mention. "
+ }
+}

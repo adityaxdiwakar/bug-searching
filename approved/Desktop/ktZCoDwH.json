@@ -1,0 +1,30 @@
+{
+ "id": "5aef07db28487ec51cf5a946",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1944,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ktZCoDwH",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Discord Canary 0.0.208 Build 14720",
+  "actual_result": "nothing",
+  "expected_result": "you should minimize, maximize, or close",
+  "short_description": "none of the buttons on login menu work",
+  "steps_to_repro": "- be logged out - press minimize, maximize, or close"
+ }
+}

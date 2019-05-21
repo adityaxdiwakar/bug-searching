@@ -1,0 +1,17 @@
+{
+ "id": "5927affffe5f911587394478",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 479,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wHSZ9sSr",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Android 6.0",
+  "client_settings": "Beta 3.8.9",
+  "actual_result": "They enter their phone number, enter the code they were sent, and then get told \"You are being ratelimited!\"",
+  "expected_result": "They enter their phone number, enter the code they were sent, and then are able to interact with the server like normal",
+  "short_description": "Double Tableflip servers don't allow you to actually do anything after you enter your verification code",
+  "steps_to_repro": "- ANDROID BETA 3.8.9 SPECIFIC \\*\\*DO NOT DENY IF YOU DO NOT HAVE THE MOST RECENT BETA.\\*\\* - Create a server - Set it to Enhanced Tableflip, aka Double Tableflip - Have a user attempt to join"
+ }
+}

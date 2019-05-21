@@ -1,0 +1,17 @@
+{
+ "id": "5b846e62a1454b4d0be7193f",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 954,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xj048Rjc",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Public Beta 8",
+  "client_settings": "TestFlight 2.3.7 (6930)",
+  "actual_result": "Your scroll position is reset to the top of user settings",
+  "expected_result": "You should still be scrolled down to where the change log is",
+  "short_description": "Closing the image/video in change log resets user settings position",
+  "steps_to_repro": "- Go into user settings and open the Change Log - Tap on the image/video in Change Log - Close out of the image/video and exit the Change Log section - Observe your position in settings"
+ }
+}

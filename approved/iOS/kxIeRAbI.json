@@ -1,0 +1,17 @@
+{
+ "id": "5af10e6e830d557fee0485e2",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 723,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kxIeRAbI",
+ "data": {
+  "system_settings": "iOS 10.2.1",
+  "client_settings": "TestFlight 2.3.1 (4051)",
+  "actual_result": "it flickers and sometimes go above",
+  "expected_result": "To have a nice scroll with no flickering and it going above the tab under channel description",
+  "short_description": "Lazy loading makes member list flicker a bit",
+  "steps_to_repro": "- open a guild with lazy working - scroll to where some users haven't loaded yet - observe under the topic description"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59e6f4e6eaa6471aa01f05f5",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1279,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5JCUJYBa",
+ "data": {
+  "system_settings": "win 10",
+  "client_settings": "canary",
+  "actual_result": "Notice discord logo goes off center.",
+  "expected_result": "Doesn't go off center.",
+  "short_description": "font scaling causes discord logo to be off center",
+  "steps_to_repro": "- Increase font scaling in user settings -> appearance"
+ }
+}

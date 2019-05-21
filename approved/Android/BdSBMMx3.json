@@ -1,0 +1,17 @@
+{
+ "id": "596a58f8c84836b811f411da",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 554,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/BdSBMMx3",
+ "data": {
+  "system_settings": "Android 6.0.1",
+  "client_settings": "Discord 3.9.9",
+  "actual_result": "your name shows in the vc tab but can't speak, hear, leave or join it back",
+  "expected_result": "should be able to join the same vc back",
+  "short_description": "cannot join back vc after the app stops functioning while playing a game",
+  "steps_to_repro": "- Join vc with other people and talk with them - close discord app - open a game - play it till you stop hearing voices of other people - remove discord from multitasking - try to join the same vc back"
+ }
+}

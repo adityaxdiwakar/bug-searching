@@ -1,0 +1,16 @@
+{
+ "id": "58d2e38399a81e2db3a7d749",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 457,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/jaqPt2wJ",
+ "data": {
+  "system_settings": " Windows x64, Canary",
+  "actual_result": "It just moves the servers without leaving a gap",
+  "expected_result": "It still works and has the dotted circle selection thingy",
+  "short_description": "Dragging server order not working",
+  "steps_to_repro": "- Grab a server (I chose one near the top) - Drag it down so your servers start to scroll - Drag the server upwards - Notice You can't properly move the server anymore unless it's the original spot "
+ }
+}

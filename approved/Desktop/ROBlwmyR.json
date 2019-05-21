@@ -1,0 +1,24 @@
+{
+ "id": "59f48c41dd5035e941670c51",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1331,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ROBlwmyR",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Discord canary 0.0.167",
+  "actual_result": "The category doesn\u2019t collapse // button isn\u2019t even clickable",
+  "expected_result": "You should collapse the category",
+  "short_description": "While being in discord overlay, u can\u2019t collapse the category",
+  "steps_to_repro": "- Go to settings > Overlay > make sure overlay is enabled - Go into your overlay by using the keybind - Try to collapse the category"
+ }
+}

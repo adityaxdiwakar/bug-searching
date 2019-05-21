@@ -1,0 +1,30 @@
+{
+ "id": "5bfc3a109139392bb32f9361",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2356,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4kmmFYmh",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 8.0.0",
+  "actual_result": "When you spam the keyboard, it highlights the back button. (Check the vid).",
+  "expected_result": "Either it types in what you have spammed, or it does nothing.",
+  "short_description": "In Group DM create screen, when you spam your keyboard after pressing \"next\" after someone has been selected, highlights the back button. (LG Keyboard specific)",
+  "steps_to_repro": "- Go to Group DM creating screen. - Search, and select someone. - Then, press on NEXT button to get rid of the typing indicator (This is why it's LG specific, because only LG keyboards have the \"NEXT\" button). - Spam your keyboard."
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "5810131c1af08fb342084ded",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 62,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5AWv1xLy",
+ "data": {
+  "system_settings": " Canary ",
+  "actual_result": "Who do you think you are, making me click one more time to do what I want???",
+  "expected_result": "skip confirmation",
+  "short_description": "Shift-delete does not skip confirmation of messages with attachments",
+  "steps_to_repro": "- Send picture - Hold shift while clicking MessageGear => Delete "
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59471598d9fa10e86d2349ff",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 774,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xcLZYzxt",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Desktop PTB, 0.0.32",
+  "actual_result": "You hover on <span class=\"image-gif\"></span> and javascript not work with it. For solving need simple add to CSS rule to \".image .image-gif\" selector: \"pointer-events: none;\" (so hover will work on canvas and you can click through it).",
+  "expected_result": "Gif should play and responce on clicks",
+  "short_description": "Hovering on GIF label on embeded gif in chat and clicking on it as well not make any action (play/open in browser)",
+  "steps_to_repro": "- Post gif with small height or any other gif - Hover on GIF label (for gif with big height you need to do it fast) - You will see this bug (label not dissappear and gif not play and click not work)"
+ }
+}

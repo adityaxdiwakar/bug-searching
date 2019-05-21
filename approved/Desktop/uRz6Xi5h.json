@@ -1,0 +1,24 @@
+{
+ "id": "59cc83d6820b27ada4a51e36",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1201,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uRz6Xi5h",
+ "data": {
+  "system_settings": "Windows 10 Creators Update, x64 version",
+  "client_settings": "Desktop Canary, 0.0.163, build 4923",
+  "actual_result": "The \u00b4 character is detected as a slash, therefore opens the command list when you press CTRL + \u00b4",
+  "expected_result": "The \u00b4 character is not detected as a slash",
+  "short_description": "Discord detects the Acute Accent (U+00B4, `\u00b4`) character as a slash character and Diaresis (U+00A8, `\u00a8`) (using Czech keyboard, press `\\` on English keyboard) as a backslash character in keybinds",
+  "steps_to_repro": "- Get a keyboard layout that does has the acute accent character on it (In this report, I'll use the Czech one) - Press CTRL + \u00b4 (on Czech keyboard it should be the equal sign character, assuming you have English keyboard) or go to User Settings -> Keybinds -> Add a Keybind, press the record button, and press the aforementioned \u00b4 character."
+ }
+}

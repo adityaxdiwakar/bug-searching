@@ -1,0 +1,30 @@
+{
+ "id": "5bb2002392426b69968ac9ce",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2083,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3j5p3Dnf",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Mini Android 6.0.1",
+  "client_settings": "Alpha 7.6.0",
+  "actual_result": "the \"never expiering\" link is listed at the top",
+  "expected_result": "the 24h link should be listed above the \"never expiering\" link, because it is newer",
+  "short_description": "\"recreating\" a never expiering invite that already existed, will show it as the newest invite",
+  "steps_to_repro": "- make sure there is no invite in the server settings \"instant invites\" section  - create an invite - toggle never expiering - delete the 24h invite - create a new invite - toggle never expiering a few times on and off, [the \"old\" never expiering link will appear if its toggled on] - as soon as you leave the \"create invite box\", make sure \"never expiering\" is toggled on - observe \"instant invites\" in server settings"
+ }
+}

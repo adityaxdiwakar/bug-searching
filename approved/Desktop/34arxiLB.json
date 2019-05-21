@@ -1,0 +1,15 @@
+{
+ "id": "583b560dc023f2a724436280",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 179,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/34arxiLB",
+ "data": {
+  "actual_result": "You do get prompted about the spoopy link the second time you click the masked link",
+  "expected_result": "You should not be prompted about the spoopy link the second time you click the masked link",
+  "short_description": "Can't seem to trust domains for masked links?",
+  "steps_to_repro": "- Create an embed with a masked link - Click on the masked link - Click 'Trust This Domain' - Click on the masked link again"
+ }
+}

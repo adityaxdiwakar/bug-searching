@@ -1,0 +1,30 @@
+{
+ "id": "5bd89c6214da343f6624d32b",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3315,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kI0j1go0",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1809)",
+  "client_settings": "Chrome 70.0.3538.77",
+  "actual_result": "The modal is off-center and all the way to the right and half the page is darkened",
+  "expected_result": "It should be centered",
+  "short_description": "[Chrome 70 Specific] When deleting an application in the developer portal, the modal is off-center",
+  "steps_to_repro": "- Go to the developer portal - Select an app to delete - Observe the verification modal being off-center (The modal about writing the app's name + 2FA code)"
+ }
+}

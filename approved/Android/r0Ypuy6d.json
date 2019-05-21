@@ -1,0 +1,17 @@
+{
+ "id": "5afb5c635899f277f9443f72",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1422,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/r0Ypuy6d",
+ "data": {
+  "system_settings": "LG Bello, 5.0.2",
+  "client_settings": "Discord Alpha 6.6.8",
+  "actual_result": "Your profile won't load and you cannot click on your profile",
+  "expected_result": "Your profile should load normally and you will se it on online list",
+  "short_description": "After going invisible and going back online in a short amount of time your profile won't load in online list (must be on top of online list )",
+  "steps_to_repro": "- Note:Works only with users that have higher role than you or if you are at the top of online list- Go to a server where you or someone with higher rank than yours is at the top of online list  - Go to invisible status/or ask higher role person to do it - Go back to online status - Discord will put you or him to online list but you won't be able to see your profile loaded (only gray lines)"
+ }
+}

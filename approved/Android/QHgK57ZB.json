@@ -1,0 +1,30 @@
+{
+ "id": "5aea29bb0598c3143a8fc528",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1357,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QHgK57ZB",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.6.0",
+  "actual_result": "The width of the tab remains expanded even after clicking on short named role when u select it after clicking on long role. (Approx 14 roles above or below, the width remain the same as according to long named role and not to the selected role)",
+  "expected_result": "The width of the tab should reset according to role name length.",
+  "short_description": "Irregular and improper width of navigate role tab in server settings>members",
+  "steps_to_repro": "- Create a role in a server with a name with the max possible chatacters/ a really long named role. - Go to server settings of a server you have admin perms in and navigate to members setting. - Right next to the text field where you can search members, there's a tab to sort/navigate members role. - Click on a role with short name, now click on the role with really long name and notice the difference in the width. - Just after clicking the long named role, click on any role above."
+ }
+}

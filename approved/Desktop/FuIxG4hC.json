@@ -1,0 +1,17 @@
+{
+ "id": "5a72a0906774543a210ea684",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1608,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FuIxG4hC",
+ "data": {
+  "system_settings": "iPhone 7, iOS 11.2.2",
+  "client_settings": "TestFlight 2.2.2",
+  "actual_result": "You are able to paste letters",
+  "expected_result": "It shouldn\u2019t allow you to paste letters into it",
+  "short_description": "You can copy and paste letters into the number discriminator when adding a friend",
+  "steps_to_repro": "- Open add a friend - Put in the # symbol - Copy some letters and paste them in"
+ }
+}

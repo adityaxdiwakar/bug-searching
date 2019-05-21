@@ -1,0 +1,24 @@
+{
+ "id": "5c1123468715d772acd9564c",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1230,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hW5GL2sZ",
+ "data": {
+  "system_settings": "iPhone 7 iOS 12.0",
+  "client_settings": "Stable 2.4.0 and TestFlight 2.4.0 (9714)",
+  "actual_result": "The chat window stops receiving any input from the user but the rest of the app still works.",
+  "expected_result": "The window closes and you can continue to use the chat window",
+  "short_description": "If you press the search icon 2 or more times fairly quickly and then press cancel you can no longer interact with any chat window.",
+  "steps_to_repro": "- Press the search icon 2 or more times quite quickly before it loads up. - Press cancel"
+ }
+}

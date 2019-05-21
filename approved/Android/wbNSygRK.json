@@ -1,0 +1,30 @@
+{
+ "id": "5bc8899bdbf34c51ca8d636f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2192,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wbNSygRK",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 775",
+  "actual_result": "The invite page opens and shows the invite for DDevs server. You can even try to edit the invite and all that stuff but nothing really happens. You can't even copy or share the invite.",
+  "expected_result": "Nothing happens.",
+  "short_description": "When you click on the Create instant invite button on the invite modal of an expired/invalid invite in a server in which you don't have create instant invite permission (or a DM), the invite page opens and the place where the invite sits, shows the invite for the Discord Developers server.",
+  "steps_to_repro": "- Create an invite for a server and paste it in a DM. - Revoke the invite and restart Discord. - Click on the create new invite on the invite modal."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5c018b7ca863c95b163a8d4d",
+ "closed": false,
+ "idList": "5c082c6e851e73786a479414",
+ "idShort": 1192,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5a26f22b1f02c2f5d2bc6902",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Needs impact analysis",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VEBj65e7",
+ "data": {
+  "system_settings": "iPhone 5s - iOS 12.1",
+  "client_settings": "TestFlight 2.4.0 (9370)",
+  "actual_result": "The timer bar stops moving until you stop typing.",
+  "expected_result": "The timer bar should continue to decrease.",
+  "short_description": "While typing a mention, the timer bar for in-app notification freezes. (and goes to correct position when you stop.)",
+  "steps_to_repro": "- Receive an in-app notification - Start typing a mention - Continue typing (ensure you are pressing letters quick enough) - Observe the blue timer bar on in-app notification"
+ }
+}

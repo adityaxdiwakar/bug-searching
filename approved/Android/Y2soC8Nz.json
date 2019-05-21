@@ -1,0 +1,23 @@
+{
+ "id": "590c9398fb94d817636d473a",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 432,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Y2soC8Nz",
+ "data": {
+  "system_settings": " Android 7.0 Discord 3.8.2",
+  "actual_result": "Nothing happens",
+  "expected_result": "User is taken to notification settings",
+  "short_description": "Notifications button in user settings doesn't work",
+  "steps_to_repro": "- Go to user settings - Tap on Notifications "
+ }
+}

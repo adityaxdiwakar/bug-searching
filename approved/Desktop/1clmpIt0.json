@@ -1,0 +1,24 @@
+{
+ "id": "591dd7ff88c83ef6f8bb44c5",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 661,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1clmpIt0",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Canary 0.0.154",
+  "actual_result": "Nothing happens",
+  "expected_result": "It should zoom",
+  "short_description": "Using the numpad keys for the new Discord zoom level doesn't work",
+  "steps_to_repro": "- Try to use the zoom shortcut keys (Ctrl +/-/0) on the numpad"
+ }
+}

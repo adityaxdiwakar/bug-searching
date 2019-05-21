@@ -1,0 +1,17 @@
+{
+ "id": "5ac02cbd5f6f986de39af05b",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 657,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tH6QLQ8x",
+ "data": {
+  "system_settings": "iPhone 5c, iOS 10.3.3",
+  "client_settings": "Stable, 2.2.8",
+  "actual_result": "Discord doesn't respond to most if not all taps and when it does respond it's with a ridiculous delay.",
+  "expected_result": "Discord responds to every tap without a very noticeable delay.",
+  "short_description": "Discord becomes mostly unresponsive when viewing member list in certain channels on large servers.",
+  "steps_to_repro": "- Go to the Discord Testers server - Go to the <#197038744908333066> chat - Tap on Member List - Try to tap anything."
+ }
+}

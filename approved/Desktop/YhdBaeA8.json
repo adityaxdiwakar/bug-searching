@@ -1,0 +1,29 @@
+{
+ "id": "58f9351a36fcaaa3a1c40a91",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 521,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YhdBaeA8",
+ "data": {
+  "system_settings": " Latest Canary, Windows 10",
+  "actual_result": "It gets stuck at the \"new\" box, forcing you to mark as read",
+  "expected_result": "The server moves just fine past it",
+  "short_description": "If you have the \"New\" square when you get a mention, you can't drag servers past it",
+  "steps_to_repro": "- Have enough servers to where if you get a mention in a lower one while your in a higher one, you'll get the \"New\" toast thingie - Get the Toast notification - Try dragging a server past the toast "
+ }
+}

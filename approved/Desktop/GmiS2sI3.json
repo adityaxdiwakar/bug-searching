@@ -1,0 +1,17 @@
+{
+ "id": "5a3af4bdba5739039d30fd2c",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1483,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/GmiS2sI3",
+ "data": {
+  "system_settings": "Windows 10 Pro, Fall Creators Update",
+  "client_settings": "Discord Canary 0.0.191 (Build 8941)",
+  "actual_result": "Card is still present, but no new windows show up.",
+  "expected_result": "Card should exit (temporary like nickname change), and window should show up with the settings.",
+  "short_description": "User Profile Card Doesn't Closes When Viewing Notification / Privacy Settings",
+  "steps_to_repro": "- Be on a server. - Go over to the Member List, and click on someone's profile (Ex. Dabbit's on DTesters) - View the profile, and click on Mutual Servers - Right click another server (ex. DFeedback) - Click on Notification or Privacy Settings"
+ }
+}

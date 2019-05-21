@@ -1,0 +1,17 @@
+{
+ "id": "5bac67ebb26c4f49410ad6a2",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2052,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/OhwY7Mqt",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.5.6",
+  "actual_result": "The position of the previously selected action has transitioned into the new filter",
+  "expected_result": "The new filter results should not be selected at all",
+  "short_description": "Selecting a certain action from the \"Filter by Actions\" section (make sure you keep the position of the action in mind and the one you selected is expandable) using any filter (I used \"All Actions in my case\") then switching action filters (make sure the 2nd filter you choose also has expandable messages (ex: Update Server)) causes the message you selected before you changed filters causes the new filter's message (depens on the position from the top) to also highlight, even though you havent selected it",
+  "steps_to_repro": "- Go into the \"Filter by Actions\" filter of the Audit Logs - Select a random, expandable message (keep track of how far away it is from the top) in the Action Log (could be any filter; I'm using \"All Actions\" filter in this case) - Without deselecting the action you chose, filter for another action (I used \"Update Server\") - Observe"
+ }
+}

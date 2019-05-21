@@ -1,0 +1,17 @@
+{
+ "id": "5b4ff2651a70a337b3d99388",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2319,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/MuXcqicf",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1803",
+  "client_settings": "Discord Canary 19105",
+  "actual_result": "The bot tags appear cutoff at the bottom.",
+  "expected_result": "The bot tags should appear correctly.",
+  "short_description": "Bot tags do not display properly in the mini profile and full profile.",
+  "steps_to_repro": "- Open a bot's mini profile and observe the bot tag. -  Open a bot's full profile and observe the bot tag."
+ }
+}

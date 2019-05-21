@@ -1,0 +1,24 @@
+{
+ "id": "59fbaf51e73d43741508e0fb",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1343,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TRZrYQkG",
+ "data": {
+  "system_settings": "OS X Yosemite, 10.10.5",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 6721, Version Hash: 2cdeb5b43fd361c72bf807c299fdf5e286d69361",
+  "actual_result": "The desktop app has lost keyboard focus, and you need to either click within the text area or hit Tab to get focus.",
+  "expected_result": "You should have the keyboard focus in the text field ready for entering text.",
+  "short_description": "Loosing keyboard focus when using keyboard to switch channels",
+  "steps_to_repro": "- Open a random text channel \u2013 Hit \u2318-K (cmd-K), and select another channel"
+ }
+}

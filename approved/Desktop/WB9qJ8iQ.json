@@ -1,0 +1,15 @@
+{
+ "id": "5850a4e8441e6fac28cc8546",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 242,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WB9qJ8iQ",
+ "data": {
+  "actual_result": "Message isn't deleted System Settings: Win10 x64, Canary",
+  "expected_result": "Message is deleted as if you pressed Delete",
+  "short_description": "Pressing `enter` while the \"Delete Message\" popup is open does nothing.",
+  "steps_to_repro": "- Press the up arrow while in the chat to edit your latest message - Delete everything and press enter - Press the enter key while the delete message popup is showing "
+ }
+}

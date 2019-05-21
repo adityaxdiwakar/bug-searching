@@ -1,0 +1,17 @@
+{
+ "id": "5931d29cb6c2f360aa573b42",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 495,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2zL6vql4",
+ "data": {
+  "system_settings": "Android 6.0.1 J6 (2016)",
+  "client_settings": "Discord Alpha last ver.",
+  "actual_result": "The keyboard goes up on the warning.",
+  "expected_result": "The keyboard shouldn't go up",
+  "short_description": "Short description: Keyboard goes up when is not supposed to do.",
+  "steps_to_repro": "- Create a NSFW channel - Tap the bottom of the warning"
+ }
+}

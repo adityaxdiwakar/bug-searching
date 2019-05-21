@@ -1,0 +1,30 @@
+{
+ "id": "59a316f6260404db837253e4",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 304,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/T7JZ6HO1",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 10.3.3",
+  "client_settings": "TestFlight 1.9.1",
+  "actual_result": "Channel topic is not scrollable. You can only scroll there when you have permission to edit it.",
+  "expected_result": "You should be able to scroll through the whole channel topic there.",
+  "short_description": "Channel topic in channel settings not scrollable when you don't have permission to edit it",
+  "steps_to_repro": "- Find or create a channel with very long channel topic (e.g. #bug-hunter-general) - Click on the channel name and go to channel settings - Observe the long channel topic"
+ }
+}

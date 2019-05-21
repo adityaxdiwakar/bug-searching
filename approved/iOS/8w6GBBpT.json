@@ -1,0 +1,24 @@
+{
+ "id": "5ab2e1ec52287846eb266a1b",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 637,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8w6GBBpT",
+ "data": {
+  "system_settings": "iPad(4th generation), iOS 10.3.3",
+  "client_settings": "Discord iOS Release 2.2.5",
+  "actual_result": "Discord will crash instead",
+  "expected_result": "The In-App browser should just open the link and direct you to this Wikipedia article on \u52e4\u653f\u6bbf",
+  "short_description": "The in-app browser doesn't work when the URL has certain chars",
+  "steps_to_repro": "- Open a link like this one here: https: \u52e4\u653f\u6bbf (remove whitespace) using the in-app browser"
+ }
+}

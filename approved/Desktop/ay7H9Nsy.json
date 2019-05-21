@@ -1,0 +1,30 @@
+{
+ "id": "5bec71e57c2ca73b16ffb0cf",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3385,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ay7H9Nsy",
+ "data": {
+  "system_settings": "Windows 10 home 64-bit (1803)",
+  "client_settings": "Discord Canary build: 27967",
+  "actual_result": "i can send files in NSFW channel before accepting that im 18+",
+  "expected_result": "i shouldn't be able to send files in a NSFW channel without accepting that im 18+",
+  "short_description": "you can access the upload modal and send files in NSFW channels where you haven't accepted the +18 warning yet",
+  "steps_to_repro": "- create a NSFW channel - go to the channel and don't interact with the warning - drag a Discord meme from your desktop and drop it in that channel - send it and observe"
+ }
+}

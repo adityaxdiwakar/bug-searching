@@ -1,0 +1,30 @@
+{
+ "id": "5b767d9d9e8e7e1ce32665b8",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1842,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8dQTYGaa",
+ "data": {
+  "system_settings": "Coolpad Mega 3, 6.0",
+  "client_settings": "Discord Alpha 720",
+  "actual_result": "They're in a colour which is extremely dark.",
+  "expected_result": "They're in a colour that can be seen.",
+  "short_description": "The login and register buttons' colour almost completely matches to it's surroundings. [Coolpad specific]",
+  "steps_to_repro": "- Log out. - Look at the login and register buttons."
+ }
+}

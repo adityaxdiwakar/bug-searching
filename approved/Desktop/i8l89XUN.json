@@ -1,0 +1,17 @@
+{
+ "id": "5b526bdb697c61ad638e95d9",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2370,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/i8l89XUN",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 19322",
+  "actual_result": "The message with the mention is slightly indented",
+  "expected_result": "Both messages start at the same point",
+  "short_description": "Messages containing a mention are moved slightly to the right",
+  "steps_to_repro": "- Send a message in a server - Mention someone/yourself in the next message making sure the mention is at the beginning - Observe the spacing between the start of the line and each message"
+ }
+}

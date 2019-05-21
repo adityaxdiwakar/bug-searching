@@ -1,0 +1,24 @@
+{
+ "id": "59c441c52227ca3ba570ac70",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1179,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4qKm9NZE",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, B4674",
+  "actual_result": "The servers scroll with your mouse wheel",
+  "expected_result": "The servers should not start scrolling",
+  "short_description": "Scrolling past the end of the list up or down in a Spotify playlist embed will make the server list scroll on Discord",
+  "steps_to_repro": "- Post a Spotify playlist in chat - Scroll down to the bottom and keep scrolling - Watch your servers start scrolling"
+ }
+}

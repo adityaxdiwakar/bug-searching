@@ -1,0 +1,30 @@
+{
+ "id": "5c080b086e11858257b988dc",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2377,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gDYzH5GK",
+ "data": {
+  "system_settings": "Samsung Galaxy A7 2017, Android 8.0.0",
+  "client_settings": "Discord Alpha 8.0.9",
+  "actual_result": "The text looks like a normal bolded text",
+  "expected_result": "The message sent should be observed as the word \"test\" with two italicised asterisks on both sides of the text",
+  "short_description": "Text formatting is not displayed similar to that of the Discord App on PC",
+  "steps_to_repro": "- Go to any text channel - Start typing - Type ``****test****`` and send it - Observe and compare with the Discord App on PC"
+ }
+}

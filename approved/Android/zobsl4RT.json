@@ -1,0 +1,17 @@
+{
+ "id": "5bbb93dcc5c8fc048b4f3b7f",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2129,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zobsl4RT",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 mini, Android 6.0.1",
+  "client_settings": "Alpha 763",
+  "actual_result": "create entry shows: \"User created channel override #name\"",
+  "expected_result": "Audit Log entry shows: \"User created channel override vor name\"",
+  "short_description": "[Audit Log] creating, editing and deleting a voice channel or a category override puts a \"#\" in front of the name",
+  "steps_to_repro": "- create / delete / edit a channel override for a voice channel or a category - observe Audit Log"
+ }
+}

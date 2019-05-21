@@ -1,0 +1,36 @@
+{
+ "id": "5b269ab848cb0ea6393ea6df",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1556,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MLDUVEa3",
+ "data": {
+  "system_settings": "Xioami Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "You can open and operate two duplicate Discord apps",
+  "expected_result": "You shouldn't be able to open up two discord apps in a single session",
+  "short_description": "Able to open Discord App twice making it possible to use both screens at the same time in split screen.",
+  "steps_to_repro": "- Force close and open Discord app and toggle split-screen. - Keep it in half of your screen and click on quick switcher icon at the bottom after focusing on the Discord app screen. - Notice the keyboard pops up, leave it as it is and click on any last channel you visited that's shown there as soon as the quick switcher opens up. - Notice that new Discord app launches in the bottom half of the screen, the upper half reloads and quickly opens up in full screen. - Click on recent app to view list and notice there are two Discord windows which you can access simultaneously using split screen (although both respond exactly the same) - Force close and again start from step one if can't able to reproduce it in the first attempt."
+ }
+}

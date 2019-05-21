@@ -1,0 +1,17 @@
+{
+ "id": "5a7cb771cd08f1e6b901754e",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1110,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YSAzFldT",
+ "data": {
+  "system_settings": "ZTE Nubia Z7 Max (NZ505J), Android 5.1.1",
+  "client_settings": "Discord 6.1.7",
+  "actual_result": "it just show emoji's text like `: capital_abcd :`",
+  "expected_result": "It should've shown the emoji like on PC",
+  "short_description": "\ud83c\udf81 \ud83c\udfc6 Emoji inside bot's embed not working",
+  "steps_to_repro": "- Make sure the bot posting emoji inside embed(Tittle) - Observe"
+ }
+}

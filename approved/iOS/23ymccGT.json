@@ -1,0 +1,17 @@
+{
+ "id": "5bdae6b61e73448e2b437f86",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1142,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/23ymccGT",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.2 Dev Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8841)",
+  "actual_result": "Bottom bar overlaps bottom result",
+  "expected_result": "Bottom bar shouldn't overlap bottom result",
+  "short_description": "[iPhone X/XR/XS/XS Max] Bottom bar overlaps bottom option when filtering by action/user in audit log",
+  "steps_to_repro": "- Filter by user/action in audit log"
+ }
+}

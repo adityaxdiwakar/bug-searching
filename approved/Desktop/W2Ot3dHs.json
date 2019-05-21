@@ -1,0 +1,16 @@
+{
+ "id": "590121e33d15f08a508159a8",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 560,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/W2Ot3dHs",
+ "data": {
+  "system_settings": " Windows 10 x64 Latest Canary.",
+  "actual_result": "Menu stays and can cause overlaps (in Ctrl+shift+/ and Ctrl+shift+n)",
+  "expected_result": "The menu you see after right clicking a message in chat goes away after using TAYNE like it does when you click away.",
+  "short_description": "Right clicking on a message then using TAYNE does not remove the right click menu, causing overlap.",
+  "steps_to_repro": "- Right click on a message in chat. - Use a TAYNE keyboard shortcut that opens a menu or moves your channel. (ex. Ctrl+shift+n) "
+ }
+}

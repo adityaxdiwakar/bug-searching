@@ -1,0 +1,24 @@
+{
+ "id": "5b2c2a478468511197cd6877",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 797,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aN3GbkL2",
+ "data": {
+  "system_settings": "iPhone X, iOS 12 Dev Beta 2",
+  "client_settings": "TestFlight 2.3.4 (5330)",
+  "actual_result": "The typed text has a background colour different to the field",
+  "expected_result": "The typed text should have a transparent background",
+  "short_description": "Text in certain search fields has an alternate background colour",
+  "steps_to_repro": "- Go to a server you can manage members on - Open Server Settings - Tap Members - Tap in the search field and type anything"
+ }
+}

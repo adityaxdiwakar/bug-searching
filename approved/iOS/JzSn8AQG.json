@@ -1,0 +1,24 @@
+{
+ "id": "5bb7e6c677f1c53210c7a0d5",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1059,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JzSn8AQG",
+ "data": {
+  "system_settings": "iPhone 8 Plus - iOS 12 & iPad Air 2 - iOS 12.1 Public Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8055)",
+  "actual_result": "You don't get an option to copy the ID.",
+  "expected_result": "You should get the option to copy the ID of the voice channel and category.",
+  "short_description": "Copy ID option missing for voice channels and categories",
+  "steps_to_repro": "- Make sure Dev Mode is enabled - Go to a server - Long hold a voice channel and a category"
+ }
+}

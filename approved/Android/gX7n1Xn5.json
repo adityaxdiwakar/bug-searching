@@ -1,0 +1,24 @@
+{
+ "id": "59253005e83ebc7b4bcceea7",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 476,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gX7n1Xn5",
+ "data": {
+  "system_settings": "Tablet Lenovo A3500-FL, Android 4.4.4 KitKat",
+  "client_settings": "Discord-Beta 3.8.8 (386)",
+  "actual_result": "The proposal bare doesn't appear correctly, it's necessary to do one space for see it.",
+  "expected_result": "The proposal bar appear correctly when you add the `@`",
+  "short_description": "When you have text and you want to insert a mention in, the proposal bar does not display correctly",
+  "steps_to_repro": "- Launch Discord. - Go to one channel in which you can write. - Write a text - You forgot to insert a mention `@WolfGang1710#6782`, insert it."
+ }
+}

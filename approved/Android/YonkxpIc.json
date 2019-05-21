@@ -1,0 +1,30 @@
+{
+ "id": "5b5406cdd92d296b95e2617f",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1667,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YonkxpIc",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 7.1.2",
+  "actual_result": "its named group, despite it still being named Unnamed on desktop",
+  "expected_result": "it should be named Unnamed like desktop",
+  "short_description": "Unnamed Group dm's that you own are named as Group and not Unnamed",
+  "steps_to_repro": "- Create a group dm with two other users - Remove the users you added too the group dm - observe the name of the group dm"
+ }
+}

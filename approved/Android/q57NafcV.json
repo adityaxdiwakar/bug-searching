@@ -1,0 +1,30 @@
+{
+ "id": "598fcb98e905eaa821fc938a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 620,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/q57NafcV",
+ "data": {
+  "system_settings": "HTC Desire 526 5.1",
+  "client_settings": "4.0.7(502)",
+  "actual_result": "It does, But, the \"No Text Channels\" Screen appears",
+  "expected_result": "The DM will close and the \"Online\" Friend List will appear",
+  "short_description": "When closing a DM chat the app shows \"No Text Channels\" Screen for 2 or 3 seconds",
+  "steps_to_repro": "- Go into any DM you have - Tap the three dots at right-top corner - Choose \"Close\""
+ }
+}

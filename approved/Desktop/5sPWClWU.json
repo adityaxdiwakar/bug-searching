@@ -1,0 +1,24 @@
+{
+ "id": "59be930bed34790679dde282",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1153,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5sPWClWU",
+ "data": {
+  "system_settings": "ZorinOS 12.2 based off of Ubuntu 16.04",
+  "client_settings": "Discord Canary 0.0.24",
+  "actual_result": "Discord doesn't shut down, rather crashes with an error message in the client. (Pic of message: ) This can be fixed by control + r or fully exiting the client and relaunching it.",
+  "expected_result": "To go back to the last channel I was in,",
+  "short_description": "Discord Canary In-client crash when quickswitching out of group DM with only yourself.",
+  "steps_to_repro": "- Control + K into a group DM with only yourself. - Control K and hit enter to go back to the last channel as fast as possible."
+ }
+}

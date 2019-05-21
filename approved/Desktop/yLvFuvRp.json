@@ -1,0 +1,30 @@
+{
+ "id": "5b2b927a2f829ab4b28dcf1e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2166,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yLvFuvRp",
+ "data": {
+  "system_settings": "Windows 7 x64",
+  "client_settings": "Discord Canary, Build Number: 17413, Version Hash: d338e6b2bd0050db47d807d5634d8d7dfa2aaa44",
+  "actual_result": "The white check mark is misaligned in the blurple check box.",
+  "expected_result": "The white check mark is aligned to the centre of the blurple check box.",
+  "short_description": "Check marks are de-aligned in check boxes in zoom levels >100% and below.",
+  "steps_to_repro": "- Change the zoom level of your client to 90% or below. - Right click on a user (can be yourself) and check Mute or any other check boxes in any location."
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "58a98b002f0f046f285fb1d8",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 188,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/n945Qien",
+ "data": {
+  "system_settings": " iPad Mini",
+  "actual_result": "The magnifying glass stops and shows the channel list",
+  "expected_result": "The zoom continues as normal",
+  "short_description": "In any message you typed (edited, unsent, etc. must be in send message area), zooming (holding on text and moving) over a # causes the magnifying glass to glitch a small bit.",
+  "steps_to_repro": "- Type in a # (don't have to send) at the Send Message area - Zoom in at it (usually happens to the right) "
+ }
+}

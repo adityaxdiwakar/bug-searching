@@ -1,0 +1,30 @@
+{
+ "id": "5b9978811f67918e35e68173",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 999,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KDPTPgHO",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 12",
+  "client_settings": "TestFlight 2.3.8 (7106)",
+  "actual_result": "Nothing happens to the message, it sends as it was before trying to edit",
+  "expected_result": "Either shouldn't be able to edit the message while sending, or message gets edited",
+  "short_description": "Able to edit a message while it's sending, even though nothing happens",
+  "steps_to_repro": "- Make sure you have a connection where messages take a few seconds to send, but is still stable connection - Type a message and send it - While the message is sending, long press and tap \"Edit message\" - Edit the message and press save - Check the message once it sends to see if any changes were made"
+ }
+}

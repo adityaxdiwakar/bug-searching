@@ -1,0 +1,30 @@
+{
+ "id": "5bda7034f3eccb264ca47f22",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3328,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/A3DBFfZC",
+ "data": {
+  "system_settings": "Microsoft Windows Version 1803 (OS Build 17134.376)",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 27349",
+  "actual_result": "The text of the person is black",
+  "expected_result": "The text of the person talking should be white and not black",
+  "short_description": "If you talk in a voice channel using Discord Canary, the talking user's text is black instead of the standard white",
+  "steps_to_repro": "- Open Discord Canary - Go to a voice channel - Start talking - You'll notice that the name of the person talking is black (I've only tried with myself) - Someone else tried with other users and confirms it works with them also"
+ }
+}

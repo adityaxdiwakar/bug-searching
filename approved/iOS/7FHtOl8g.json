@@ -1,0 +1,15 @@
+{
+ "id": "5835ee76803be729875daf7c",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 88,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7FHtOl8g",
+ "data": {
+  "actual_result": "UI Reads \"Take Photo\" System: iPhone 7, iOS 10.1.1 (14B100)",
+  "expected_result": "UI Reads \"Take Photo or Video\"",
+  "short_description": "Misleading UI for capturing media",
+  "steps_to_repro": "- Enter a text channel where you have post media permissions - Tap the attachment button "
+ }
+}

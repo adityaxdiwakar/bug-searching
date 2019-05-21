@@ -1,0 +1,30 @@
+{
+ "id": "5bd16453baa40762accff40f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3277,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Kr3K9uaD",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1803)",
+  "client_settings": "Discord Canary Webclient, Build 26915, Google Chrome 70.0.3538.77 (64-bit)",
+  "actual_result": "The elements are misplaced from the download options",
+  "expected_result": "The elements are correctly placed over the download options",
+  "short_description": "[Chrome, Version 70.0.3538.77 specific] Desktop application download modal's elements are misplaced",
+  "steps_to_repro": "- Click on the Download Apps at the bottom of your server list - Move your mouse over the download options and observe"
+ }
+}

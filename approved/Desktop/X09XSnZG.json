@@ -1,0 +1,30 @@
+{
+ "id": "5b8d8298a4153d33deab5487",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2918,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/X09XSnZG",
+ "data": {
+  "system_settings": "MacBook Pro 15\" (2017) - macOS High Sierra 10.13.6",
+  "client_settings": "Canary 23031",
+  "actual_result": "No lock icon appears",
+  "expected_result": "A lock icon appears next to the channel as it's no longer a public channel",
+  "short_description": "Lock doesn't show up on text channels when denying \"Read Text Channels & See Voice Channels\" permission for the `@everyone` role",
+  "steps_to_repro": "- Be in a server where at least one channel is public - Go to Server Settings > Roles - Turn off \"Read Text Channels & See Voice Channels\" for the `@everyone` role - Ensure you have permission still to view the channel - Look at the channel's icon"
+ }
+}

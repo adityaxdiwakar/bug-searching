@@ -1,0 +1,24 @@
+{
+ "id": "5b6b5b2d97ff4d72e9addc72",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 881,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/D8Iiq2J5",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 6",
+  "client_settings": "TestFlight 2.3.6 (6427)",
+  "actual_result": "The loading symbol and \"100%\" appears even after the image is fully loaded instead of disappearing when it's fully loaded",
+  "expected_result": "Image fully loads and the loading symbol and \"100%\" don't appear afterwards",
+  "short_description": "When viewing an image on poor connection the loading symbol and \"100%\" appears after the image is fully loaded",
+  "steps_to_repro": "- Send an image in chat, or have someone send a message in chat - Tap on the image to view the image - Observe the image as it loads"
+ }
+}

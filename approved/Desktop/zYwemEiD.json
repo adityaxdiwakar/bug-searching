@@ -1,0 +1,30 @@
+{
+ "id": "598a98f67df762de54f6b2ec",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 955,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zYwemEiD",
+ "data": {
+  "system_settings": "win 10 x64",
+  "client_settings": "Canary, 0.0.163",
+  "actual_result": "discord shows an empty channel without messages and a non functioning more messages at the top, and shows a list of who can see the channel normally at the right.",
+  "expected_result": "discord shows intented screen when no text channels are available",
+  "short_description": "discord shows improper screen when joining a server with no channels you are allowed to see",
+  "steps_to_repro": "- make a server - turn all text channels so everone can't read messages - invite someone"
+ }
+}

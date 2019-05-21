@@ -1,0 +1,16 @@
+{
+ "id": "59166f7cb8c5df4a77c907c9",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 636,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rAvhjNwf",
+ "data": {
+  "system_settings": " arch 0.16 canary",
+  "actual_result": "the image loads, then disapears.",
+  "expected_result": "the image loads and displays",
+  "short_description": "zoom levels lower than 90 cause clicking on images to not work",
+  "steps_to_repro": "- click on a image uploaded to discord - "
+ }
+}

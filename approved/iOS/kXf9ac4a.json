@@ -1,0 +1,24 @@
+{
+ "id": "59e754e61d3b155d679dea33",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 374,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kXf9ac4a",
+ "data": {
+  "system_settings": "IPhone 5S, iOS 11.0.2",
+  "client_settings": "iOS Testflight 1.9.3 (1165)",
+  "actual_result": "The Color menu is cut off and you can\u2019t change the color.",
+  "expected_result": "The role color menu pops up normally and you can change the color.",
+  "short_description": "Role Color Visual Bug",
+  "steps_to_repro": "- Access your roles settings - Tap on an existing role - Try to change the role color"
+ }
+}

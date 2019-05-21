@@ -1,0 +1,24 @@
+{
+ "id": "595905fde0612d140a38bd32",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 802,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/B7C7UyNu",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.5",
+  "client_settings": "Discord Canary 0.0.149",
+  "actual_result": "After clicking on \"services\" nothing happens, so I can't see the list of available services. It is working just fine on other apps",
+  "expected_result": "There should be list of available services",
+  "short_description": "Can't use \"services\" on the macOS",
+  "steps_to_repro": "- Clicking on the Discord Canary in the top left corner - Clicking on Services"
+ }
+}

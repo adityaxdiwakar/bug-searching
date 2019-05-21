@@ -1,0 +1,17 @@
+{
+ "id": "5b4e27805001b07ea8d2efaa",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2290,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0KCShAvC",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 18958",
+  "actual_result": "User's name and timestamp are out of line with each other",
+  "expected_result": "User's name and timestamp are inline with each other",
+  "short_description": "User's name and timestamp aren't inline with each other",
+  "steps_to_repro": "- Observe the name and timestamp of a user's message from an older build of Canary - Update to Canary 18958 - Observe the name and timestamp of a user's message again"
+ }
+}

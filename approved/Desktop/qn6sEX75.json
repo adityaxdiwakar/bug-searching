@@ -1,0 +1,30 @@
+{
+ "id": "5b5a2b07f46b5434d84ffb98",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2441,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qn6sEX75",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 19931",
+  "actual_result": "The arrow moves a little and gets distorted",
+  "expected_result": "No distortion and presses normally like on 100% zoom",
+  "short_description": "When pressing the buttons (with your mouse) in the keyboard combos modal, some specific keys such as the arrow key get distorted when clicked on 90% zoom",
+  "steps_to_repro": "- Have 90% zoom - Open the keyboard combos - Press with your mouse the arrow keys next to a combo, observe the key when pressed"
+ }
+}

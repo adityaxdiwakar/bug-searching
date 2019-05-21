@@ -1,0 +1,30 @@
+{
+ "id": "597548fc8ebe77818288973a",
+ "closed": true,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 274,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/92gB5sSZ",
+ "data": {
+  "system_settings": "iOS 10.3.3, iPhone SE",
+  "client_settings": "Discord for iOS 1.8.8",
+  "actual_result": "Colour doesn't change (tested with red)",
+  "expected_result": "You see your name in a light grey colour",
+  "short_description": "Name is shown in the wrong colour when setting to invisible",
+  "steps_to_repro": "- Go in a channel - Set you to invisible - Stay in your channel and take a look in the offline list."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "599b9263d6046ff8fd1f1701",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 294,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/McxIYP3d",
+ "data": {
+  "system_settings": "iPhone 5S, iOS 10.3.3",
+  "client_settings": "1.8.8",
+  "actual_result": "You aren't able to scroll down, making the ban button super hard to press because it's cutoff by the screen.",
+  "expected_result": "You should be able to scroll down, and easily press the ban button.",
+  "short_description": "Ban button is cutoff and you can't scroll down when banning users. [4 inch only]",
+  "steps_to_repro": "- Click the server name - Go to server settings - Go to members - Select a member that you want to ban"
+ }
+}

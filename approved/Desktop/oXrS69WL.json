@@ -1,0 +1,30 @@
+{
+ "id": "5ad79c88630aa59e9f4aced3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1861,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oXrS69WL",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Version 1709",
+  "client_settings": "Stable Build Number: 13744",
+  "actual_result": "In the first try you can't slide the server, in the second try it works",
+  "expected_result": "You can slide the file normally like nothing has happened",
+  "short_description": "You can't slide any server after canceling the upload of a dropped file",
+  "steps_to_repro": "- Drag and drop any file into discord from an external window - Click in \"Cancel\" button - Now try to slide any server in the servers bar"
+ }
+}

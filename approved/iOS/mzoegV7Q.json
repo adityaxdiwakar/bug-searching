@@ -1,0 +1,24 @@
+{
+ "id": "5c08cc70e640e17bd0818f49",
+ "closed": false,
+ "idList": "5c082c6e851e73786a479414",
+ "idShort": 1219,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mzoegV7Q",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9648)",
+  "actual_result": "Ellipses highlight if there's a mention after the ellipses in the message",
+  "expected_result": "Ellipses don't highlight at all",
+  "short_description": "Ellipses in in-app notifications highlight if there's a mention after the ellipses",
+  "steps_to_repro": "- Turn notifications for a channel to \"All messages\" - Have someone send a long enough message that it ellipses - Verify that the ellipses isn't highlighted - Have the same person send the same message again, but this time ping you at the end - Observe the ellipses in the in-app notification"
+ }
+}

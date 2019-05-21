@@ -1,0 +1,30 @@
+{
+ "id": "5bc7ae40c8ab9e7c36903d78",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 3206,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dG4ZZajH",
+ "data": {
+  "system_settings": "Windows 10 64x (1809)",
+  "client_settings": "Canary 26432",
+  "actual_result": "Message shows in White text, same as",
+  "expected_result": "The message shows in red text",
+  "short_description": "[Overlay] Unsent messages looked like normal messages when in a Pinned chat!",
+  "steps_to_repro": "- Open a game with overlay - Send a message that fails to send (This can be seen by it's red text) - Pin chat and close overlay"
+ }
+}

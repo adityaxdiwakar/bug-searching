@@ -1,0 +1,24 @@
+{
+ "id": "591a96f976aa95cf1395ca8b",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 460,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zE0C7idu",
+ "data": {
+  "system_settings": "Discord 3.8.6",
+  "client_settings": "Android 6.0.1 Galaxy S6",
+  "actual_result": "Group icon doesn't even get removed Video: <https://streamable.com/mdgn6>",
+  "expected_result": "Icon turns into initials of the channel title",
+  "short_description": "Server Settings Remove Server Icon not working",
+  "steps_to_repro": "- Go to Server Settings of a server that you have Manage Server permission - Try to remove the channel icon"
+ }
+}

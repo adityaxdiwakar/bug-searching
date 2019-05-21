@@ -1,0 +1,17 @@
+{
+ "id": "5b2eb640451c3e91e80def81",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 809,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4rEt9Dgt",
+ "data": {
+  "system_settings": "iOS 11.4, Apple iPad Air 2",
+  "client_settings": "TestFlight 2.3.4",
+  "actual_result": "The letters I type in a different part of the text become capitalised, which is annoying.",
+  "expected_result": "The letters I type in a different part of the text won\u2019t become capitalised and I keep type normally.",
+  "short_description": "When typing a message and having a new empty spot (pressing the \u201creturn\u201d button), letters you are typing which are not on that line become capitalised.",
+  "steps_to_repro": "- Go to any discord where you have permissions to send text messages - Type a sentence - Press the return button and don\u2019t type anything there - Go back to the previous sentence and try to type other stuff, it should keep switching to capitalised letters."
+ }
+}

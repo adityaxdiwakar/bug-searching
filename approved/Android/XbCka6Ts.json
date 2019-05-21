@@ -1,0 +1,30 @@
+{
+ "id": "5b2e4ce412544f058de82445",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1588,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XbCka6Ts",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.9",
+  "actual_result": "You are taken to the server, but in the latest channel you visited, since you visited `channel-b` at step 3 then you will be taken to `channel-b`, regardless of the actual channel the invite points to. This also mean that if you post the link in the same server but in a different channel, the Joined button won't work at all",
+  "expected_result": "You should be taken to the channel the invite points to, in this case `channel-a`",
+  "short_description": "When tapping the \"Joined\" button of an invite embed to a server you are already in, it switches to the server but doesn't switch to the channel the invite points to",
+  "steps_to_repro": "- Have a server with two channels: `channel-a` and `channel-b` - Create an instant invite that points to `channel-a` - Switch to `channel-b` - Switch to a different server and post the invite link - Tap the \"Joined\" button"
+ }
+}

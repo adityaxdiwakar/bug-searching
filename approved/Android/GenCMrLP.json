@@ -1,0 +1,30 @@
+{
+ "id": "5b15a979e5fa63c3ca946113",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1497,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GenCMrLP",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.8.7",
+  "actual_result": "Toast shows minimum password length to be 6 in one case and 1 in another",
+  "expected_result": "Toast should either say the minimum length of password to be 6 (more suitably) or 1",
+  "short_description": "Toast asking for correct input password length varies when entering a really long password in current password field and when entering a single letter password in new password field in account settings>change password",
+  "steps_to_repro": "- Go to user settings>change password - First, click on change password and in current password text field, type a really long password (anything longer that 128 characters). Click on change password and notice the toast saying \"must be between 1 and 128 in length\" - Now go back, click on change password again, and enter a password in current password (not long, for example type sjsjdkdkd) and in new password type a single letter (for example \"a\"), click on change password and notice the toast saying \"password must be 6-128 characters long\""
+ }
+}

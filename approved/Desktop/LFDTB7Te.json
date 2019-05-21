@@ -1,0 +1,17 @@
+{
+ "id": "5b49496dcc861ea3265b5201",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2263,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LFDTB7Te",
+ "data": {
+  "system_settings": "Win 10 Pro x64",
+  "client_settings": "Release Channel: canary, Build Number: 18749",
+  "actual_result": "The mouse disappears once you move it but you can still navigate the overlay",
+  "expected_result": "The mouse should stay visible and you can navigate the overlay easily",
+  "short_description": "Mouse disappears in Minecraft when using the Overlay (tested on 1.12.2 without any mods)",
+  "steps_to_repro": "- Make sure you are using the latest version of Canary which has the new Overlay - Turn the Overlay on and start Minecraft - In Minecraft press the keybind you set to open the overlay - Move your mouse cursor - The mouse should disappear"
+ }
+}

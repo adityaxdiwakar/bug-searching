@@ -1,0 +1,16 @@
+{
+ "id": "58a8210f99f3bd6142148182",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 230,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FIiilDQc",
+ "data": {
+  "system_settings": " Android 5.1.1 Discord 3.3.4",
+  "actual_result": "They don't send, and you're there, laughing by yourself like a retard",
+  "expected_result": "They get them, get triggered, or have some fun time",
+  "short_description": "Multiple files not sending",
+  "steps_to_repro": "- Go to a friend on DM - select two or more memes you'd like to send - go ahead, send em - let them feel the dank memes "
+ }
+}

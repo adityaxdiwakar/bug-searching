@@ -1,0 +1,30 @@
+{
+ "id": "5af747adb4e4327794845741",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1978,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TiBPAXeq",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.208, Build 15120",
+  "actual_result": "No context menu appears",
+  "expected_result": "A context menu appears like with MP4 files",
+  "short_description": "Cannot open the right-click context menu on MP3 files",
+  "steps_to_repro": "- Upload an MP3 File to a chat - Right-click the icon or title"
+ }
+}

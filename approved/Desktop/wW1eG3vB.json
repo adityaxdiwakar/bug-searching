@@ -1,0 +1,30 @@
+{
+ "id": "5adf852b90de81d615081a28",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1884,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wW1eG3vB",
+ "data": {
+  "system_settings": "Windows 10 Home SL 1709 x64",
+  "client_settings": "Canary 14021",
+  "actual_result": "the unread message stays even if you clicked the unread message at the channel list.",
+  "expected_result": "the unread message disappears if the channel is declared as read.",
+  "short_description": "new unread message from channel list appears and stays",
+  "steps_to_repro": "- go to a channel in your server - try to experiment on scrolling the channel list down. make sure that the channel list is long enough to reproduce it properly - start chatting - watch out for unread messages in the channel list. click it and scroll down."
+ }
+}

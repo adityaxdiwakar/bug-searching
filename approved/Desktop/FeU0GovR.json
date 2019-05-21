@@ -1,0 +1,24 @@
+{
+ "id": "595d2d5c82625acc7cc3abd2",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 809,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FeU0GovR",
+ "data": {
+  "system_settings": "MacBook Pro, mid-2012, macOS Sierra (Version 10.12.5), Google Chrome, https://discordapp.com Version",
+  "client_settings": "Web <(https://discordapp.com>) - I can't figure out how to get the exact web version.",
+  "actual_result": "It is prepended to the top of your server list as the first server.",
+  "expected_result": "It should be where it was previously moved to in the order of your server list.",
+  "short_description": "When a previously-offline server comes back online, it is prepended to the top of the list rather than where it was previously",
+  "steps_to_repro": "- Join a server that periodically goes offline (usually because it has hit its user cap).- Move it somewhere in the middle of your server list (anything except the first one. I personally put it 4th out of my 40-some servers.) - Observe it going offline and subsequently giving you the (!) icon at the bottom of your server list. - When it comes back online, it is prepended to the top of your server list as the first server, rather than where it was previously moved to."
+ }
+}

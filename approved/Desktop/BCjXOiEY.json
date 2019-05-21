@@ -1,0 +1,30 @@
+{
+ "id": "5a1602de45b30a5497c7fd6e",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1391,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BCjXOiEY",
+ "data": {
+  "system_settings": "Win 7 Ulti x64",
+  "client_settings": "Desktop Canary, build 7569",
+  "actual_result": "Desktop app crashes",
+  "expected_result": "Desktop app should reload and use new language",
+  "short_description": "Desktop app crashes on language change if viewing My account in User settings",
+  "steps_to_repro": "- On desktop app, click on User Settings which should open My Account tab - On android device, open Language tab in User Settings - Make sure \"Sync across clients\" on your android device is enabled - Using your android device, change the language"
+ }
+}

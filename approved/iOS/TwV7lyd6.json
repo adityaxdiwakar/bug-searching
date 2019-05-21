@@ -1,0 +1,17 @@
+{
+ "id": "59925bc3f4ecbc45f47b4202",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 287,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/TwV7lyd6",
+ "data": {
+  "system_settings": "iOS 10.3.3",
+  "client_settings": "Discord 1.8.8",
+  "actual_result": "A friends list shows on the right",
+  "expected_result": "Default channel to be open, usually '#general'",
+  "short_description": "Friends list shows instead of a channel on newly created servers",
+  "steps_to_repro": "- Create a new server - Open up the newly created server, if not opened yet"
+ }
+}

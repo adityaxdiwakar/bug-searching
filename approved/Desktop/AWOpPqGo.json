@@ -1,0 +1,30 @@
+{
+ "id": "5b6b7f5b3ff2cf1db319fbdb",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2648,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AWOpPqGo",
+ "data": {
+  "system_settings": "macOS 10.13.6",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 21209, Version Hash: 0e9a9eda44de8784629a66474a833187e2651740",
+  "actual_result": "The icon does not change; the maximize icon remains as the displyed icon.",
+  "expected_result": "The maximize icon (two opposing triangles) should change to a plus icon (+) while the option key is held.",
+  "short_description": "Holding option key (\u2325) on macOS while hovering over the green \"maximize button\" does not change it to a plus icon.",
+  "steps_to_repro": "- Hover over the green maximize button in the top-left of the window (next to the red and yellow close and minimize buttons), such that the icons appear - Hold the option (\u2325) key while still hovering over the green button"
+ }
+}

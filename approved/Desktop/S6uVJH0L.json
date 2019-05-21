@@ -1,0 +1,15 @@
+{
+ "id": "581b0ccd45fa881c14c4c82e",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 106,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/S6uVJH0L",
+ "data": {
+  "actual_result": "No messages, users or voice statusses gets loaded. Users become visible as their statusses change and messages can be loaded manually. You can even join a voice channel and listen to spooky ghost users that aren't visible.",
+  "expected_result": "Users, voice statusses and messages are loaded as normal",
+  "short_description": "Joining a *large* guild while invisible will cause messages, users and voice channel statusses to not load",
+  "steps_to_repro": "- Go invisible - Join a large guild with over ~100 users "
+ }
+}

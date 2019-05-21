@@ -1,0 +1,17 @@
+{
+ "id": "5bea0d293f2b2714ce5cbee9",
+ "closed": false,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 1161,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mgJadO96",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 2",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "The empty category shows up and allows you to create notification overrides",
+  "expected_result": "The empty category doesn't show up because it has no channels",
+  "short_description": "Empty categories show up in notification overrides",
+  "steps_to_repro": "- Create an empty category on a server - Go into notification settings on desktop and look at the available categories to create overrides for (optional to verify the category doesn't show) - Go into notification settings on iOS and view the available categories to create overrides for"
+ }
+}

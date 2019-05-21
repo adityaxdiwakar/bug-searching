@@ -1,0 +1,30 @@
+{
+ "id": "5bb5134eeafdd850809679c6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3073,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/N1TidGT0",
+ "data": {
+  "system_settings": "Windows 7 x64 Build 7601",
+  "client_settings": "Canary Build 25202 x64",
+  "actual_result": "I am unable to send messages",
+  "expected_result": "The user should be able to send messages with slowmode and rate limiting not affecting them.",
+  "short_description": "Sending a lot of messages till the point of rate limiting, and toggling slowmode makes you unable to send messages",
+  "steps_to_repro": "- send a bunch of messages till you get rate limited - toggle slow mode on, then off - the user will be unable to send messages, even with rate limitting and slowmode not preventing them"
+ }
+}

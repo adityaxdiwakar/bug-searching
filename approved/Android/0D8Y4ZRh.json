@@ -1,0 +1,24 @@
+{
+ "id": "59f6f078ce074773e27f6d4a",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 860,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0D8Y4ZRh",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.5.1",
+  "actual_result": "You can't reconnect to this voice channel as it still shows the \"Mute/Deafen/Disconnect\" controls instead of the Connect button. The only way to reconnect to this VC is to switch to another VC or restart the app",
+  "expected_result": "It should've disconnected you completely from the voice channel and you should be able to reconnect to the same VC",
+  "short_description": "Unable to reconnect to voice channel after being forcibly disconnected due to internet issues",
+  "steps_to_repro": "- Connect to any voice channel - While you are connected, turn off the internet connection of your device (disable wifi or enter airplane mode)  - Try to disconnect from voice channel as well using the Disconnect button (this step is important)  - Enable your internet back"
+ }
+}

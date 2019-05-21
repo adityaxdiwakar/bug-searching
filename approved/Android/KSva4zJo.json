@@ -1,0 +1,24 @@
+{
+ "id": "59c0b124f092957aaa8820ce",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 743,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KSva4zJo",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 5.1.9 (519)",
+  "actual_result": "It goes to the user's settings",
+  "expected_result": "It should go straight to the user's profile",
+  "short_description": "The Profile button in the new user details goes to the user's settings instead of their profile",
+  "steps_to_repro": "- Click on someone in the member list or press hold on their avatar in a text channel - Swipe up in the new user details - Click on Profile"
+ }
+}

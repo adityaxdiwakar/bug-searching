@@ -1,0 +1,30 @@
+{
+ "id": "5b0c437e7360cd7f36d1a787",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 2064,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3V9bIsz4",
+ "data": {
+  "system_settings": "Linux : Ubuntu 16.04 LTS",
+  "client_settings": "0.0.51",
+  "actual_result": "APNG is for everyone, Nitro and non Nitro users",
+  "expected_result": "APNG is for only Nitro users",
+  "short_description": "APNG formats, Gif for non nitro users",
+  "steps_to_repro": "- Add APNG format on emojies server - Send message with this emoji (No need Nitro)  - APNG is animated"
+ }
+}

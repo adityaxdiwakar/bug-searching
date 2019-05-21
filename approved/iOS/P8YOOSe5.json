@@ -1,0 +1,24 @@
+{
+ "id": "5bd227f812f11f3de6b8a066",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1123,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/P8YOOSe5",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 12.1 Beta (16B5084a) - TestFlight 2.4.0 (8616)",
+  "client_settings": "TestFlight 2.4.0 (8616)",
+  "actual_result": "The error message shows failed markdown.",
+  "expected_result": "The error message shouldn't attempt to use markdown.",
+  "short_description": "When denied changing your nickname in Server Settings' Members list, the error message attempts to use markdown but it doesn't work.",
+  "steps_to_repro": "- Create a new server on an alternate account (can be done on desktop). - On that new server, allow the `@everyone` role to View Audit Log, and deny Change Nickname & Manage Nicknames (can be done on desktop). - Join the server (all following steps on iOS). - Make sure you don't have any additional roles. - Open Server Settings. - Tap Members. - Tap yourself. - Try to change your nickname."
+ }
+}

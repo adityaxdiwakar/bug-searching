@@ -1,0 +1,24 @@
+{
+ "id": "59bc9cfbb1d2ddc518e4c9a0",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1138,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NENQvD3V",
+ "data": {
+  "system_settings": "Windows 10 64Bit Anniversary",
+  "client_settings": "Canary 4331",
+  "actual_result": "discord crashes (see attached screenshot)",
+  "expected_result": "Integration message pops up",
+  "short_description": "Discord Canary crashes with Logitech G Applet",
+  "steps_to_repro": "- have discord canary - have logitech mouse/keyboard - install logitech gaming software - make sure that discord integration under authorized app doesnt exist yet - enable discord integration"
+ }
+}

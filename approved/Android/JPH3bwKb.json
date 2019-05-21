@@ -1,0 +1,30 @@
+{
+ "id": "5b030e99d825bea11108b9cc",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1444,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JPH3bwKb",
+ "data": {
+  "system_settings": "Alcatel U5 (4G) 5044Y, Android Marshmallow 6.0",
+  "client_settings": "Android Alpha 6.7.4",
+  "actual_result": "The right side drawer stutters (or lags) before opening",
+  "expected_result": "The right side drawer should open seamlessly",
+  "short_description": "Swiping left from the right side drawer causes a stutter or lag to happen",
+  "steps_to_repro": "- Open discord - Go to any channel - Swipe left from the right side of the screen"
+ }
+}

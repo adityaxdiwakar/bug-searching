@@ -1,0 +1,17 @@
+{
+ "id": "5b91b1a9b743a96b761ad9fc",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 976,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/r1dKFBNa",
+ "data": {
+  "system_settings": "iPad 2018, iOS 11.4.1",
+  "client_settings": "2.3.8 (7049)",
+  "actual_result": "The emoji picker is left aligned to the width of the Discord window.",
+  "expected_result": "The emoji picker shouldn\u2019t be limited to the Discord screen size, but the keyboard width.",
+  "short_description": "iPad split view controls emoji picker size rather than keyboard width.",
+  "steps_to_repro": "- Split view Discord with another application. - Open the emoji picker."
+ }
+}

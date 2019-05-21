@@ -1,0 +1,16 @@
+{
+ "id": "58a687b1bfe5c41af0b43eec",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 386,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/y0gyydAc",
+ "data": {
+  "system_settings": " macOS 10.12.3 Discord Canary",
+  "actual_result": "1 random channel is above the rest of the channels which are sorted alphabetically (the random channel on top is different each time)",
+  "expected_result": "voice channels listed in alphabetical order",
+  "short_description": "Quick Switcher shows random voice channel before alphabetical list",
+  "steps_to_repro": "- open quick switcher - type ! in the search bar (to pull up voice channels) - notice results "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ace7034e4176876145fe01e",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1833,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jJ3B9ZTx",
+ "data": {
+  "system_settings": "macOS 10.12.6",
+  "client_settings": "Canary Build 13405",
+  "actual_result": "Nothing happens. You have to tap hold the maximise button on a different app before you can choose the Discord app",
+  "expected_result": "After holding the maximise button, you should get the option to put the app on the left or right side of the screen",
+  "short_description": "Can't enable Split View by holding down the maximise button [macOS only]",
+  "steps_to_repro": "- Click and hold on the green maximise button on the top left - Observe"
+ }
+}

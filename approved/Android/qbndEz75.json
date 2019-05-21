@@ -1,0 +1,30 @@
+{
+ "id": "5b818ca4a2bc926a30a3375c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1883,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qbndEz75",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 740",
+  "actual_result": "The bar changes size and everything below it moves a bit up.",
+  "expected_result": "Like all other elements on screen, the bar does not change size.",
+  "short_description": "When you switch orientation from portrait to landscape when you're in the DM list, the \"Find or start a conversation\" bar that leads to the quick switcher changes size.",
+  "steps_to_repro": "- Open the DM list. - Switch orientation. - Observe the black bar or whatever that leads you to the QS."
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "5a15d0da4dfe9cba20187884",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1386,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lgaPYuGi",
+ "data": {
+  "system_settings": "Macbook Air 13 inch, macOS High Sierra",
+  "client_settings": "macOS High Sierra , discord canary 0.0.170",
+  "actual_result": "Discord reloads/crashes",
+  "expected_result": "You should leave/join the call",
+  "short_description": "[Mac Only] When you spam click the join / leave call discord crashes",
+  "steps_to_repro": "- Start a call and get somebody to join it - Spam click the join / leave call buttom"
+ }
+}

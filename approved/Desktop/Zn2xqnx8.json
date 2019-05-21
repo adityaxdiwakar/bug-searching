@@ -1,0 +1,30 @@
+{
+ "id": "5b01e87578232e85201c5423",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2027,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Zn2xqnx8",
+ "data": {
+  "system_settings": "Windows 10 (10240)",
+  "client_settings": "Canary, Build Number: 15665",
+  "actual_result": "GIF continue to play, even if you closed the profile",
+  "expected_result": "GIF should stop, and restart when you reopen the profile by left-clicking on it",
+  "short_description": "GIF profile picture continue to be played while you're not on the profile",
+  "steps_to_repro": "- Left click on a Nitro user (profile of Mikesky#0001 is perfect to reproduce this bug), the latter SHOULD have a GIF as profile picture - wait 1-2 second - Close the pop-up - Left click on the SAME user you clicked previously"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "591acc9521ea99abb225a53b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 462,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NeCHfUTe",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 2016 Android 6.0.1 Marshmallow",
+  "client_settings": "Discord Android 3.8.6",
+  "actual_result": "Notification doesn't show",
+  "expected_result": "Notification shows up",
+  "short_description": "When you use landscape screen. The notification disappear",
+  "steps_to_repro": "- Have some notification (Without reading) - Rotate to landscape"
+ }
+}

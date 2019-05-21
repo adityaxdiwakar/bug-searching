@@ -1,0 +1,30 @@
+{
+ "id": "5b41d0644ce798fd5ff5fce6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1634,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SjcuFQOd",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 704",
+  "actual_result": "The ban reason is in a single line with spaces in the places where you had pressed enter. You should either not be able to add new lines on Android or the new lines should show up on PC.",
+  "expected_result": "The ban reason contains new lines.",
+  "short_description": "When banning a user with a reason that contains new lines and checking the ban reason on Desktop doesn't show new lines. It shows spaces instead.",
+  "steps_to_repro": "- Ban a user on Android with a reason that contains new lines. - Look at the ban reason on PC."
+ }
+}

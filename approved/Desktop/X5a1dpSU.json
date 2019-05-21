@@ -1,0 +1,22 @@
+{
+ "id": "585d2a93584c8b3448fe100b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 270,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/X5a1dpSU",
+ "data": {
+  "actual_result": "effects the actual set color value, but not the color picker's position.",
+  "expected_result": "The color should stay the same regardless of #",
+  "short_description": "Failing to include the # causes an incorrect color in choosing role colors, even though the color picker position stays correct",
+  "steps_to_repro": "- Go to your role color picker - Type in a value like FFAABB - Place a # before the HEX code and remove it - Observe that the color picker position stays the same, but the actual color changes "
+ }
+}

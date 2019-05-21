@@ -1,0 +1,30 @@
+{
+ "id": "5b5f5dde94470caa1e44bc59",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2515,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SZbnlVcI",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Stable 20174, Edge 42.17134.1.0 / EdgeHTML 17.17134",
+  "actual_result": "There is a typing indicator and you can even type something into the textbar behind the user settings",
+  "expected_result": "No typing indicator is visible on the bottom left where the textbar is",
+  "short_description": "[Edge] When closing a popup (e.g. Change Log), there will be a typing indicator in the user settings (bottom left)",
+  "steps_to_repro": "- log in to your Discord account via Edge 17 - Go to your user settings and click on \"Changelog\", \"View Backup Codes\" or other options that bring up popups - Close the popup (press x, esc or just clicking out of it) and observe"
+ }
+}

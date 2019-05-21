@@ -1,0 +1,23 @@
+{
+ "id": "58c423e701d27cc949e015d2",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 283,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/F7TcXvv4",
+ "data": {
+  "system_settings": " Samsung Galaxy Tab 3 /Android 4.4.2/Version 3.5.0 Latest alpha build",
+  "actual_result": "App crashes",
+  "expected_result": "You can normally sort the servers",
+  "short_description": "Server sorting bug. NOTE:Not reproducable on all devices.",
+  "steps_to_repro": "- Enter the server sorting menu "
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5ae09b8d2278983e9c53dd99",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 693,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/X3njXWbf",
+ "data": {
+  "system_settings": "iOS 11.3 iPhone 7",
+  "client_settings": "Testflight 2.3.0 (3817)",
+  "actual_result": "Discord crashes",
+  "expected_result": "Profile opens",
+  "short_description": "Xbox link on profile crashes iOS",
+  "steps_to_repro": "Open profile of user with xbox link (example: Andy#7194)"
+ }
+}

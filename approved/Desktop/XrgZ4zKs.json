@@ -1,0 +1,24 @@
+{
+ "id": "59c5f847ec1d3669ba016a1c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1185,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XrgZ4zKs",
+ "data": {
+  "system_settings": "iMac mid-2011, macOS 10.12.6 \"Sierra\"",
+  "client_settings": "Desktop Canary, 0.0.154 (0.0.154)",
+  "actual_result": "The selection box stays in the last selected emoji, and if you click the box will update but nothing will happen",
+  "expected_result": "After hovering the mouse over an emoji, the selection box should update as you scroll down the emoji list",
+  "short_description": "When hovering over the emoji picker UI, selection box won't update unless you move the mouse/click",
+  "steps_to_repro": "- Hover the mouse over any emoji - Scroll down - (Optional) scroll down and click (nothing will happen)"
+ }
+}

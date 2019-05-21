@@ -1,0 +1,16 @@
+{
+ "id": "58111ab73f4d0c53524b2030",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 66,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FMqBK2e5",
+ "data": {
+  "system_settings": " canary ",
+  "actual_result": "Window is brought to the front but has been resized.",
+  "expected_result": "Window comes to the front and is not resized.",
+  "short_description": "Clicking on a DM notification resizes the window",
+  "steps_to_repro": "- Switch to a different window. - Have someone DM you. - Click on DM to see what it was. "
+ }
+}

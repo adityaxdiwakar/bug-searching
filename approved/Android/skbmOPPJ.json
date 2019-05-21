@@ -1,0 +1,22 @@
+{
+ "id": "581a2cd0f472fb0b16e29076",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 86,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/skbmOPPJ",
+ "data": {
+  "actual_result": "its cut off",
+  "expected_result": "it extend fully",
+  "short_description": "The channel name in the submit box is cut off instead of extending fully",
+  "steps_to_repro": "- Be in a friends group with a very long name (not sure about a long channel name) "
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "584f4862e7585786da526e1f",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 135,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0Eig1rg9",
+ "data": {
+  "actual_result": "look at shreenshot",
+  "expected_result": "normal looking shiz",
+  "short_description": "some assets that settings uses doesnt exist on 4.1.2",
+  "steps_to_repro": "- go settings on 4.1.2 "
+ }
+}

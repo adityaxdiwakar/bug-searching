@@ -1,0 +1,30 @@
+{
+ "id": "5a2ab4c7ed1c3545bd6abb0b",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 1435,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YiWNt9Ea",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (Build 1607)",
+  "client_settings": "Discord Canary 0.0.182 (Build 8227)",
+  "actual_result": "It jumps into the category like if it was a text channel, (check GIF)",
+  "expected_result": "There shouldn't be a \"Jump to channel\" button for categories",
+  "short_description": "You can \"enter/look inside\" a category if you click on \"Jump to channel\" from the audit logs.",
+  "steps_to_repro": "- Create a category or at least get the category show in the audit logs - Right click then \"Jump to Channel\" - Enjoy the view of the inside of a categoryl"
+ }
+}

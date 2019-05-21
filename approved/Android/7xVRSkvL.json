@@ -1,0 +1,30 @@
+{
+ "id": "5b784cba98dc4b0d3f4f369c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1849,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7xVRSkvL",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 738",
+  "actual_result": "The name of the badge is like \"<insert house name here>\" and the toast says \"HypeSquad <insert house name here>\".",
+  "expected_result": "Like all other badges (except nitro) the apparent name of the badge and the name of the badge in the toast should be the same.",
+  "short_description": "The Hypesquad house badges are the only badges that have different toasts saying their name (Discord nitro badge is an exception because it works completely differently).",
+  "steps_to_repro": "- Open someone's profile with a Hypesquad house badge. - Observe the name of the badge. - Click on the badge. - Observe the toast."
+ }
+}

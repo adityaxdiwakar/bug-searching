@@ -1,0 +1,17 @@
+{
+ "id": "5b56cfb886e31f55165b0ce6",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2413,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/o2xGZSWt",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Canary Build 19588",
+  "actual_result": "It shows as \"Disconnected\" and jumps you back up to the top of the DM list on the overlay",
+  "expected_result": "It shouldn't do anything or an error message should happen",
+  "short_description": "When calling a bot it doesn't stop you or give an error message",
+  "steps_to_repro": "- Get a bot account to DM you or message a bot - Launch a game  - Launch the Discord Overlay - Go over to the Friends/Start A Call icon - Call the bot"
+ }
+}

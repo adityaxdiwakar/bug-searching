@@ -1,0 +1,30 @@
+{
+ "id": "5bd21b63da95a216976c4141",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2239,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HtilOi2s",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, android 8.0.0",
+  "client_settings": "7.7.9",
+  "actual_result": "2. Looks bigger",
+  "expected_result": "Their highlight should be same because they are same texts.",
+  "short_description": "Double everyone and here pings, the second one's text is bigger",
+  "steps_to_repro": "- Create a server or use an existence server - Ping everyone double times (do everyone send, do it again) - 2. Would have bigger highlight."
+ }
+}

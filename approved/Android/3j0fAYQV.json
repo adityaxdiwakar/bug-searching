@@ -1,0 +1,17 @@
+{
+ "id": "596a2e4dbfb359a653aa55b9",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 552,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3j0fAYQV",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 edge (SM-G935F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 3.9.9 (398)",
+  "actual_result": "The app closes.",
+  "expected_result": "The app should take you back to the user profile.",
+  "short_description": "Pressing the back button while in a server accessed from the Mutual Servers tab exits the app",
+  "steps_to_repro": "- Ensure that you do not have the back button opens channel drawer option enabled in User Settings > Behavior - Go to the user profile of a friend that is in one or more servers you are a member of - Go to Mutual Servers - Press on one of the servers and wait for the app to open it - Press the back button on your mobile phone"
+ }
+}

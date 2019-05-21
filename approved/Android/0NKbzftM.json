@@ -1,0 +1,30 @@
+{
+ "id": "5b64727e78a4c51ba2b33a77",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1768,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0NKbzftM",
+ "data": {
+  "system_settings": "Samsung Galaxy S8, 7.0",
+  "client_settings": "Discord Beta 7.1.8",
+  "actual_result": "Emoji picker disappears",
+  "expected_result": "Emoji picker should still be there",
+  "short_description": "Emoji picker disappears after going to task view",
+  "steps_to_repro": "- Go to any text channel or DM - Click on the emoji icon (picker) - Go to task view - Go back to discord - Observe"
+ }
+}

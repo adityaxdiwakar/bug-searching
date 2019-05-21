@@ -1,0 +1,30 @@
+{
+ "id": "59abe4f48d39dc27628bff19",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 317,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Q7Qxe7Hr",
+ "data": {
+  "system_settings": "iphone 5S iOS 10.3.3",
+  "client_settings": "Discord testflight 1.9.1",
+  "actual_result": "It takes you back to the page where you enter your auth code",
+  "expected_result": "Discord should prompt you that the backup code is wrong (it does this if you enter a wrong code)",
+  "short_description": "Giving a backup code a null value will not give you an error message",
+  "steps_to_repro": "- Enable 2FA on your discord account - Logout of discord - Click Login - Enter your credentials - Click the three dots in the top right corner - Click backup codes - Leave the box blank and click ok"
+ }
+}

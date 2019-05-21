@@ -1,0 +1,30 @@
+{
+ "id": "5b04ae48bec97e4022760217",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2048,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7PAkhglk",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Edge, Android 7.0",
+  "client_settings": "Android Alpha 6.7.4",
+  "actual_result": "The game still appears as being played.",
+  "expected_result": "The game should stop appearing as being played.",
+  "short_description": "Xbox game presence stays on profile even when game isn't being played.",
+  "steps_to_repro": "- Link Discord account to Xbox account - Start playing a game, have the game show up on your profile as being played - Stop playing game"
+ }
+}

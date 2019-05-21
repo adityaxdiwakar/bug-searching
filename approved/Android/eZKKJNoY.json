@@ -1,0 +1,36 @@
+{
+ "id": "5a9e955fda1dc1b223e827fe",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1168,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eZKKJNoY",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Alpha 6.3.2",
+  "actual_result": "Delete messages period options are light grey on white.",
+  "expected_result": "The options should be black on white. By the way, the whole modal is white on Dark theme, i don't know if that's just a missing theme or a bug though",
+  "short_description": "Delete messages period options are light colored in Ban user modal",
+  "steps_to_repro": "- Go to a server you have ban perms - Open Ban menu on any user"
+ }
+}

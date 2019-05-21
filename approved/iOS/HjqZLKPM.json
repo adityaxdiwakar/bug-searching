@@ -1,0 +1,17 @@
+{
+ "id": "5b72fb5b04a9a8571b81800b",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 908,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/HjqZLKPM",
+ "data": {
+  "system_settings": "Iphone SE IOS 12 Beta 5",
+  "client_settings": "Discord 2.3.6 (6755",
+  "actual_result": "the button moves 3 times (one to the right one, then back and then again to the right one)",
+  "expected_result": "the button just turns 1 time",
+  "short_description": "If you disable/enable to view a linked app on your profile the button switches twice.",
+  "steps_to_repro": "- go to settings - go to connections - add a connection (or use an exist one) - turn the show on profile button to the other side - you see it will turn back and then it goes to the right side"
+ }
+}

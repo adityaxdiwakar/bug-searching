@@ -1,0 +1,17 @@
+{
+ "id": "5bb9ed5a8e5b9b1d76a361ec",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1069,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/eB5oybbz",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8055)",
+  "actual_result": "The letters are cut off",
+  "expected_result": "The letters should not be cut off",
+  "short_description": "Lowercase letters such as p and y cut off in names on instant invites page in server settings",
+  "steps_to_repro": "- Go into a server where you can manage instant invites - Make sure that the server has an invite created by a user with a lowercase p, y, q, j, or g in their name - Observer the bottom of those letters in the invite information box - Note: This also happens with unknown unicode boxes"
+ }
+}

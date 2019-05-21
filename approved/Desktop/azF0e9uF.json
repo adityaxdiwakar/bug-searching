@@ -1,0 +1,24 @@
+{
+ "id": "59c482f87d8dc3ec0d643412",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1180,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/azF0e9uF",
+ "data": {
+  "system_settings": "Windows 8.1 x64 Lenovo B50-30",
+  "client_settings": "Discord Stable 0.0.298",
+  "actual_result": "A paste menu comes up",
+  "expected_result": "Nothing should happen",
+  "short_description": "Right clicking on a checkbox has Paste popup",
+  "steps_to_repro": "- Open settings - Right click a checkbox"
+ }
+}

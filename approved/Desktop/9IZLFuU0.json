@@ -1,0 +1,30 @@
+{
+ "id": "5afcc4d7cfb56f3bdd1c1b03",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2006,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9IZLFuU0",
+ "data": {
+  "system_settings": "Windows 10 Home x64 (Original Reporter: Vortrix#1330)",
+  "client_settings": "15413",
+  "actual_result": "It either open the edit box for the message you sent, or doesn't move at all.",
+  "expected_result": "Be able to move in your server list.",
+  "short_description": "The arrow keys to move in the server list aren't working.",
+  "steps_to_repro": "- Use the up and down arrow keys to move in your server list."
+ }
+}

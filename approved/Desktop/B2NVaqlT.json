@@ -1,0 +1,24 @@
+{
+ "id": "59d92acced07158244917267",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1234,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/B2NVaqlT",
+ "data": {
+  "system_settings": "Windows 10 Home",
+  "client_settings": "Discord Canary, 0.0.164",
+  "actual_result": "The preview is gone",
+  "expected_result": "The preview will still show up",
+  "short_description": "When you bold a link, the preview will either not show up, or will show up like the first thing in the GIF attached.",
+  "steps_to_repro": "- Post a link in chat - Turn it bold `**text**` - Result"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59d8d29de10d77d0628aa7c7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 794,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QJSVWYTR",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Android Alpha 5.2.8",
+  "actual_result": "The transparent background is rendered black",
+  "expected_result": "The image thumbnail/preview renders with the transparent background",
+  "short_description": "The transparent background of PNG images renders black in the Attach file image preview",
+  "steps_to_repro": "- Make sure you have at least one PNG image with transparent background in your phone/tablet storage - Go to any channel you can type in - Click the plus sign to add a file - Scroll through the image file picker to find the PNG image"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a08a5928cf7cdc4da1e47a5",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1372,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/acoYyK4O",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.1",
+  "client_settings": "Discord Canary 0.0.167, Build: 7194",
+  "actual_result": "The notification setting changes when clicking on it but you can't see the change instantly. You must reopen the settings to see it.",
+  "expected_result": "The change for the notification settings should be instantly shown.",
+  "short_description": "Notification setting changes for servers not instantly shown",
+  "steps_to_repro": "- Go to any Discord server - Open the notification settings - Try to change your settings like muting/not muting the server - Observe it"
+ }
+}

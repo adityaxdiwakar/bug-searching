@@ -1,0 +1,17 @@
+{
+ "id": "5a829a685b731ad050743f5c",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1651,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/D89wEZZm",
+ "data": {
+  "system_settings": "Windows 7 x64",
+  "client_settings": "10620",
+  "actual_result": "Discord crashes (requiring to reload it)",
+  "expected_result": "The Invite Link should not crash the discord app, and should open in the app allowing you to join a server.",
+  "short_description": "Opening invite link in chrome crashes discord app.",
+  "steps_to_repro": "- Open Internet Browser - Visit discord.gg/discord-testers OR discord.gg/quikblend (Other links may/may not crash too) - The Discord client will crash."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "592494ca0b6e6db96ea2076e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 475,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bEfKhnxP",
+ "data": {
+  "system_settings": "Android 6.0.1 Samsung S5",
+  "client_settings": "Android alpha 3.6.7",
+  "actual_result": "your old nickname will still show up",
+  "expected_result": "Your nickname would show up correct",
+  "short_description": "Changed Nickname wont show correct in VC",
+  "steps_to_repro": "- Change your nickname - look in vc"
+ }
+}

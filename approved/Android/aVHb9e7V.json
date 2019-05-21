@@ -1,0 +1,30 @@
+{
+ "id": "5b04534ef7f7cf1a328f770d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1445,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aVHb9e7V",
+ "data": {
+  "system_settings": "Acer Iconia One 10 B3-A20, Android 5.1",
+  "client_settings": "Discord Alpha 6.7.4 and Chrome 66",
+  "actual_result": "Invite box shows an empty server icon and a join server button for a few seconds before switching to expired invite link. Also, the text at the left/top shows up after.",
+  "expected_result": "Page shouldn't fully load and have nothing show up.",
+  "short_description": "Invites saying they are expired on Android Chrome. BUG BOUNTY.",
+  "steps_to_repro": "- Click on an invite link. - Have your internet connection disconnect for a few seconds while loading the page. - Look at the invite box."
+ }
+}

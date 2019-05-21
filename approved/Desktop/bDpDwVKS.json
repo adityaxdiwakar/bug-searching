@@ -1,0 +1,30 @@
+{
+ "id": "5a6882bec7beba96544fe0fa",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 1581,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bDpDwVKS",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord stable 0.0.300 9672",
+  "actual_result": "The icon appears for a split second then disappears",
+  "expected_result": "I'd assume that the icon should appear when the game is not compatible with the overlay but shouldn't appear if it works fine",
+  "short_description": "While hovering the cursor over the added games in \"user settings\">\"games\" the overlay warning icon appears for a split second and then disappears.",
+  "steps_to_repro": "- Go to User Settings>Games - Hover over the added games (as shown in the Video)"
+ }
+}

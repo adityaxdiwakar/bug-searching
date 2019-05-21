@@ -1,0 +1,30 @@
+{
+ "id": "5b6339fb1e0b381e6c49e0e7",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 862,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/P8oCyiuX",
+ "data": {
+  "system_settings": "iPod Touch 6th generation, iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.6 (6095)",
+  "actual_result": "The status bar is missing except for if you are charging your battery",
+  "expected_result": "The status bar is there as it is on dark theme",
+  "short_description": "The status bar is missing on the quick switcher [Light Theme Only]",
+  "steps_to_repro": "- Go to user settings, navigate down to appearance, and select light theme  - Hit close and go to the left to the quick switcher  - Now open the quick switcher.  - Observe the top where the status bar should be.."
+ }
+}

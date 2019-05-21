@@ -1,0 +1,15 @@
+{
+ "id": "5821b4513ea41c3e0364a14b",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 64,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/c3ZPDJ14",
+ "data": {
+  "actual_result": "It appears as if you're able to ban/kick the webhook and DM it, trying to DM it will result in an empty Group DM, and trying to ban it will bring up the ban modal.",
+  "expected_result": "Either user settings is not there or it does nothing.",
+  "short_description": "You can open user settings on a webhook",
+  "steps_to_repro": "- Long-press on a webhook's message - Select user settings "
+ }
+}

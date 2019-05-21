@@ -1,0 +1,36 @@
+{
+ "id": "5a31c875934491d6eabde0a2",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 452,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/q1XACVMf",
+ "data": {
+  "system_settings": "iPhone 8 +, iOS 11.2",
+  "client_settings": "Discord TestFlight 2.2.0 (1910)",
+  "actual_result": "Picture is tiny (see attached image)",
+  "expected_result": "Picture is big and fits the username better",
+  "short_description": "Profile Picture in user settings Is smaller than text",
+  "steps_to_repro": "- Go to your user settings  - Look at your picture and observe"
+ }
+}

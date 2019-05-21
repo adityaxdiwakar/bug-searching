@@ -1,0 +1,22 @@
+{
+ "id": "5863765326792ea1747c32f5",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 290,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1q5rNzvC",
+ "data": {
+  "actual_result": "It does.",
+  "expected_result": "It doesn't show things that you can do to a normal message",
+  "short_description": "You have options to do things you can do to a normal message when right clicking the message that pops up after you pin a message",
+  "steps_to_repro": "- Pin a message - Right click and see all the things it says you can do to it that you can't - etc "
+ }
+}

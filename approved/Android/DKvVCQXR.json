@@ -1,0 +1,17 @@
+{
+ "id": "5bd69d22809075425b439b89",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2255,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DKvVCQXR",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0.0",
+  "client_settings": "7.8.2",
+  "actual_result": "Emoji settings opens but it should not be because its in background",
+  "expected_result": "It should press settings or go back",
+  "short_description": "You can open emoji section while you were on server list",
+  "steps_to_repro": "- Press 3 dots on the left up to open servers  - Press the line between settings and emoji  - Try it , the emoji menu will open while its in background"
+ }
+}

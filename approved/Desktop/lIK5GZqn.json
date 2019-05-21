@@ -1,0 +1,30 @@
+{
+ "id": "5b8fa40214c03b7a228bddc0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2926,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lIK5GZqn",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6, Firefox Quantum 61.0.2",
+  "client_settings": "Canary 23018",
+  "actual_result": "It goes a little bigger",
+  "expected_result": "It stays the same size",
+  "short_description": "Note box goes bigger when you start typing [Firefox]",
+  "steps_to_repro": "- Open Discord on Firefox - Open someone's profile - Type in the note box - While you type the first letter observe the box"
+ }
+}

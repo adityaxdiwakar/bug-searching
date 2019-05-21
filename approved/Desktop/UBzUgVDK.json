@@ -1,0 +1,30 @@
+{
+ "id": "59b1dc4dbd9245f876dd3e91",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1094,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UBzUgVDK",
+ "data": {
+  "system_settings": "Windows 10 x64 Home CU and LineageOS 14.1 (Android 7.1.2)",
+  "client_settings": "Discord Canary 0.0.163 and Android Alpha 5.1.2",
+  "actual_result": "nothing works (not even esc), and you are forced to do ctrl/cmd +r",
+  "expected_result": "should cancel",
+  "short_description": "App becomes unresponsive after deleting a server that was deleted on mobile.",
+  "steps_to_repro": "- make a server on android - on pc, go to server settings - go to delete server - do not type in the server name - go back to android - delete the server using android - go back to pc - hit cancel"
+ }
+}

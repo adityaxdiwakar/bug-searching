@@ -1,0 +1,22 @@
+{
+ "id": "58361c1583b65524b0f62e62",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 171,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ovwG7pCd",
+ "data": {
+  "actual_result": "shows Emoji String `:warning:`, which breaks the mention on save",
+  "expected_result": "Edit box showx Unicode Chat",
+  "short_description": "Unicode/Emoji in name breaks mention on edit",
+  "steps_to_repro": "- Have friend put \u26a0 (Unicode char) in name - Mention them - Edit message "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59feebee22085da0e6b63c71",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 874,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LRpzVQh1",
+ "data": {
+  "system_settings": "Android 7.0 Moto G4",
+  "client_settings": "Alpha 5.5.6",
+  "actual_result": "The screen automatically scrolls down showing connections and hiding their profile picture",
+  "expected_result": "Their profile should open and not move at all",
+  "short_description": "Profile screen automatically scrolls down",
+  "steps_to_repro": "- Open member list - Hold down someone's pfp that is playing a game - Scroll up and tap \"Profile\""
+ }
+}

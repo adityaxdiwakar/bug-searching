@@ -1,0 +1,17 @@
+{
+ "id": "5b9ac56a4e0e0b4d40419df9",
+ "closed": true,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 1003,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NpI09WBq",
+ "data": {
+  "system_settings": "iOS 12, iPhone 7 Plus",
+  "client_settings": "TF 7167",
+  "actual_result": "Input bar is too tall",
+  "expected_result": "Input bar is one row tall",
+  "short_description": "Input bar too tall",
+  "steps_to_repro": "- Open a channel you can't type in"
+ }
+}

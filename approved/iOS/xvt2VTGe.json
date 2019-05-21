@@ -1,0 +1,30 @@
+{
+ "id": "5a48aa597f78d877edc52a5b",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 472,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xvt2VTGe",
+ "data": {
+  "system_settings": "iPhone 8 Plus, iOS 11.2.1",
+  "client_settings": "Discord 2.2.0 (1982)",
+  "actual_result": "No Mention nor User Settings options",
+  "expected_result": "There should be Mention and User Settings options like on the desktop client and like on servers on iOS",
+  "short_description": "You can't mention users/open user settings by long tapping on avatars in group DMs",
+  "steps_to_repro": "- Go to a group DM - Long tap on a user's avatar"
+ }
+}

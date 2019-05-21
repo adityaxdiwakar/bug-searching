@@ -1,0 +1,17 @@
+{
+ "id": "5a6173bade48bb37687d6470",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1562,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1U9Ex4Ff",
+ "data": {
+  "system_settings": "MacBook Pro (late 2013), macOS Sierra 10.12.1",
+  "client_settings": "Discord Canary 0.0.185 (build 9640)",
+  "actual_result": "The tick appears, then immediately or within 1-2 seconds disappears and does not set the link to never expire.",
+  "expected_result": "The tick should appear in the checkbox, and modify the link to be permanent the first time, not after multiple tries/spamming.",
+  "short_description": "Trying to set invite link to permanent automatically unticks the checkbox and does not change the link.",
+  "steps_to_repro": "- Find a server that has create invite links enabled. - Click on the server name in the top-ish left. - Click \"Invite People\". - Press the checkbox marked \"Set this link to never expire\". - This may take one or two tries, if it fails just exit out of the menu and recreate the invite. - Watch as your dreams collapse, showing you'll never get your hands on a precious permanent invite link."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b261143cb5412f257c5f5fa",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2150,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/jAdyPLop",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1803",
+  "client_settings": "Discord PTB 17012",
+  "actual_result": "It closes the popout and does not update the popout's location on the screen.",
+  "expected_result": "The popout should remain open when maximized or minimized and dynamically update it's location in the app when the window is resized.",
+  "short_description": "In the new Games tab, the game popout will disappear when maximizing or minimizing the window, and will not dynamically move itself when the window is resized.",
+  "steps_to_repro": "- Have the Games tab experiment. (This is the hardest step.) - Open a game so it displays in the Quick Launcher - Click above the play button on the game. - Maximize or minimize the window. - Reopen the popout and then try to resize the window."
+ }
+}

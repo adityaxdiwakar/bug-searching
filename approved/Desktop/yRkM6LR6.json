@@ -1,0 +1,30 @@
+{
+ "id": "5b75e514a8a51b11ca46fd38",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2720,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yRkM6LR6",
+ "data": {
+  "system_settings": "MS Windows 10 Pro x64 (v1803)",
+  "client_settings": "21931",
+  "actual_result": "The sent message looks like (replace by asterisk)(the embeddable link)(replace by asterisk) but the link is not clickable (not in blue), not in italic and the link escaping chars <> are gone (wtf ?). It seems like the link escaping chars <> have escaped the markdown chars (which they shouldn't) and the clickability of the link at the same time (which it shouldn't also)",
+  "expected_result": "An italic link should be sent, and no embed because it is escaped",
+  "short_description": "Markdown and escaping link has weird behavior",
+  "steps_to_repro": "- Be in a text channel - Send a message containing : <(replace by an asterisk)(replace by embeddable link, a link that should normally makes an embed)(replace by an asterisk)>"
+ }
+}

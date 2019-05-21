@@ -1,0 +1,17 @@
+{
+ "id": "5a09f2f92dc452fbe48aa2d8",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 894,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LjIBVngF",
+ "data": {
+  "system_settings": "Android Marshmallow 6.0.1 BLU Life One X2",
+  "client_settings": "Android Alpha 5.6.2 (562)",
+  "actual_result": "You get an error from Clyde sometimes but the user can still see your DM that you sent.",
+  "expected_result": "You get an error from Clyde or the box is grayed out.",
+  "short_description": "You can DM people you blocked on mobile and they will receive a notification for it.",
+  "steps_to_repro": "- Block someone - DM them a few messages"
+ }
+}

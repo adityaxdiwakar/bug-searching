@@ -1,0 +1,17 @@
+{
+ "id": "5b1035f54b337c71da7aaeac",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2077,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zkPUJ2sb",
+ "data": {
+  "system_settings": "Win 10 Pro  17677.1000",
+  "client_settings": "Release Channel: stable, Build Number: 16162, Version Hash: 905c666082c26511971c48bdfd2640e44683e187",
+  "actual_result": "Completely Bypasses the 30 sec auto pause feature and breaks Spotify's ToS in the process",
+  "expected_result": "It shouldn't allow you to share spotify's sound",
+  "short_description": "User's can play spotify through their microphone without the auto pause function working",
+  "steps_to_repro": "- Screenshare Spotify by using the Share Application and Sound Function on - Witness the ToS Breaking Stuff Going on"
+ }
+}

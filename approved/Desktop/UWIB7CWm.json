@@ -1,0 +1,30 @@
+{
+ "id": "5b2b4bfee87e98b2673c40ff",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2163,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UWIB7CWm",
+ "data": {
+  "system_settings": "Windows 10 Home x64, Build 16299.492",
+  "client_settings": "Desktop Canary, Build 17413",
+  "actual_result": "The offline icon uses the non-colorblind, filled gray icon.",
+  "expected_result": "The offline icon (next to \"n members\") should use the outlined icon style seen in the status menu, DM list, and friend list.",
+  "short_description": "Server invite embeds ignore colorblind setting in offline icon",
+  "steps_to_repro": "- Enable colorblind mode in Settings > Appearance. - Create a new server invite link or retrieve an existing unexpired one. - In a text channel where you have embed permissions, send the invite link. - The invite link is embedded, showing the server title and member counts."
+ }
+}

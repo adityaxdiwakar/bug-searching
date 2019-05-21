@@ -1,0 +1,17 @@
+{
+ "id": "5bb7d63b90da3a87cf06c61b",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 2110,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Zh15P8t6",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Mini Android 6.0.1",
+  "client_settings": "Alpha 7.6.3",
+  "actual_result": "it shows that you denied a perm AND it shows that u granted a perm, but without perm underneath",
+  "expected_result": "latest entry should only show that u denied a perm",
+  "short_description": "[Audit Log] denying a channel permission of a role after granting it will create an \"granted permission for role\" without a permission underneath it",
+  "steps_to_repro": "- create a channel - add a role to channel permission - grant it one permissiom - save - deny exact that channel permission u granted to that role - expand newest audit log entry"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58fc54e3b69e7e7a1fd21ec1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 550,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OreLAFqG",
+ "data": {
+  "system_settings": " Win10, latest canary",
+  "actual_result": "The role glitches back to it's previous position.",
+  "expected_result": "The role should successfully move to the role under you.",
+  "short_description": "Unable to move roles to the role right under yours",
+  "steps_to_repro": "- Make sure you're on a server where you can manage roles (you must **not** be owner) - Attempt to move a role to the one under the role you're in - Click **Save Changes** "
+ }
+}

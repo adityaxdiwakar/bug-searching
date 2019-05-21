@@ -1,0 +1,30 @@
+{
+ "id": "5c1d9bebd6dbac20b2a8051e",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2391,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5Z4G5aYC",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 8.1.2",
+  "actual_result": "The option is in the wrong section",
+  "expected_result": "Reset Notification settings option has nothing to do in Channel settings, it should be in Notifications",
+  "short_description": "\"Reset Notification settings\" is under Channel settings instead of Notifications",
+  "steps_to_repro": "- Expand the overflow menu - Go to Notifications - Notice the Reset Notification settings option is not there - Go back and open Channel settings instead - Now it's here"
+ }
+}

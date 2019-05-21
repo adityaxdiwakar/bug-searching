@@ -1,0 +1,23 @@
+{
+ "id": "58546a0e5cdfdc2cece4e0f8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 253,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vFfqJ8lo",
+ "data": {
+  "system_settings": " Discord Canary (latest), Windows 10 x64 Pro.",
+  "actual_result": "Nothing whatsoever is loaded until the mouse wheel stops spinning or pressure is no longer applied.",
+  "expected_result": "Content is persistently loaded.",
+  "short_description": "Can't scroll up if mouse wheel unlocked or has pressure",
+  "steps_to_repro": "- Unlock your mouse wheel or consistently apply pressure to the mouse wheel to scroll up - Scroll until you see a loading box. "
+ }
+}

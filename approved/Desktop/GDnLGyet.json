@@ -1,0 +1,30 @@
+{
+ "id": "5c063dc4d674ae8a05f8b086",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3463,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GDnLGyet",
+ "data": {
+  "system_settings": "Windows 10, ver: 1709, build: 16299.431",
+  "client_settings": "Desktop Stable, 28393",
+  "actual_result": "AFK user does not move after going AFK on other user's end. AFK user will be stuck in AFK channel. Can still talk to each other despite being in different channels visually.",
+  "expected_result": "User is moved from AFK to main channel after coming back from AFK.",
+  "short_description": "Get moved to AFK + mic gets muted, come back but remained in AFK channel. Never left main voice chat on other user's view.",
+  "steps_to_repro": "- Disallow a user to join the AFK channel - Go AFK - System attempts to move the user - If user had their mic muted before going AFK, mute icon will remain despite rejoining main voice channel -"
+ }
+}

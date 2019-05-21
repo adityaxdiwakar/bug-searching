@@ -1,0 +1,30 @@
+{
+ "id": "5a9953f835eb6437cd8e0987",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1699,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AYFIrc4L",
+ "data": {
+  "system_settings": "Windows 10 Fall Creators Update",
+  "client_settings": "Release Channel: stable, Build Number: 11460, Version Hash: 368fc8fa6626eb89e55c3a6ef388567796990e33",
+  "actual_result": "Presssing the Save Changes button results in no change being made or error being shown. The save changes button remains in the same location.",
+  "expected_result": "The server name should change/An error message should pop up saying that you can't make a server name with a space",
+  "short_description": "Trying to save a server name with leading spaces results in no change made or error being given",
+  "steps_to_repro": "- Go to server overview - Change the server name to something that has a space as its first character - Save changes"
+ }
+}

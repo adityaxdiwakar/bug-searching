@@ -1,0 +1,30 @@
+{
+ "id": "5b61e8ce1adc55200eb3fb3f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1750,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KNsELAdi",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 721",
+  "actual_result": "No animation appears and the search fails for the first time. You need to exist the search screen and re-search for the results to appear.",
+  "expected_result": "The \"Before searching this server....\" animation appears as it used to show.",
+  "short_description": "Searching something in a DM or a server in which you haven't searched anything ever before doesn't say \"Before searching in this server.....\" anymore instead, the search just fails.",
+  "steps_to_repro": "- Create a server. - Send in some random messages. - Click on the magnifying glass to start a search and search something that'll give result."
+ }
+}

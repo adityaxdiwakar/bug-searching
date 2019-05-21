@@ -1,0 +1,30 @@
+{
+ "id": "5a9acc4bf9e651e45002e6a5",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1161,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2cmUStUS",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "631",
+  "actual_result": "Discord pops up but no video link is in the message field; your friends remain un-Rick rolled",
+  "expected_result": "Your video is shared and you can Rick Roll your friends",
+  "short_description": "Sharing to Discord from another app doesn't work ex: YouTube",
+  "steps_to_repro": "- Open your YouTube app - find a video you want to share, perhaps a classic from Rick Astley - hit the share button on the video, select share to Discord"
+ }
+}

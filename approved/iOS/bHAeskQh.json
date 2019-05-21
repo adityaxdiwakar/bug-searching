@@ -1,0 +1,17 @@
+{
+ "id": "5b9acf644cffea3e59050fce",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 1004,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bHAeskQh",
+ "data": {
+  "system_settings": "iPod Touch 6th generation, iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.8 (7",
+  "actual_result": "there Is no line",
+  "expected_result": "There should be a line between the text box an media picker",
+  "short_description": "There is no line separating the text box and the media picker",
+  "steps_to_repro": "- Open discord  - Go to a channel - Observer the text box"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bd97b36120ca512fc9646f5",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2266,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/TsSL8Ml1",
+ "data": {
+  "system_settings": "Sony Xperia XZ, Android ver 7.0",
+  "client_settings": "7.8.2 Android Beta",
+  "actual_result": "The button is positioned above the popout button.",
+  "expected_result": "The direct message button could be positioned elsewhere and not disturb what's below.",
+  "short_description": "Direct message icon blocking the way of the last links of users with 4 connected accounts or two with Spotify open and playing.",
+  "steps_to_repro": "- Find an user with 4 connected accounts or two but with Spotify running.  - Scroll down to the bottom of their profile page.  - Realize direct message button is blocking the last link under connected accounts."
+ }
+}

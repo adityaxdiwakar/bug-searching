@@ -1,0 +1,30 @@
+{
+ "id": "5a99d1f5f1379209fc04ba10",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1157,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/n6hKnGZw",
+ "data": {
+  "system_settings": "Alcatel A3 XL, Android 7.0, Latest Alpha",
+  "client_settings": "Android Beta 629",
+  "actual_result": "You stay in the voice chat",
+  "expected_result": "You get kindly removed from the channel, into the AFK zone.",
+  "short_description": "You do not get kicked from voice chat due to inactivity.",
+  "steps_to_repro": ""
+ }
+}

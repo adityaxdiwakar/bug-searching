@@ -1,0 +1,30 @@
+{
+ "id": "5ad8aeb5c4d7212e65946b09",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1297,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1pLSEAC4",
+ "data": {
+  "system_settings": "Oukitel k6000plus, Android 7.0",
+  "client_settings": "Discord Alpha 6.5.2",
+  "actual_result": "Popup saying: Account settings successfuly updated",
+  "expected_result": "popup like enter password",
+  "short_description": "Wrong popup when trying to change password to nothing",
+  "steps_to_repro": "- Open account settings - My account - Change password - Tap change password button"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "583d11e236f704dda2c0c72c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 184,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gwORzDky",
+ "data": {
+  "actual_result": "Infinitely tries to load the pins. [ Submitted for Hi. Joy.#6042]",
+  "expected_result": "Old pinned messages should display, and new ones should be pinnable.",
+  "short_description": "Pinned messages don't display in DM's.",
+  "steps_to_repro": "- Pin a message - Step 2 - Try to view it "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a653180037cdef5c63f109e",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 537,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rQhWjEjZ",
+ "data": {
+  "system_settings": "iPod touch 6 generation, iOS 10.3.3",
+  "client_settings": "TestFlight 2.2.1 (2224)",
+  "actual_result": "There is noticeable typing/input lag",
+  "expected_result": "There shouldn't be any typing lag (the keyboard is slow to your input)",
+  "short_description": "When Adding Reactions, Search seems to lag slightly",
+  "steps_to_repro": "- Find a post you want to add a reaction to (announcements is always a good one) - Click on the add reactions smiley face - Type something you think might be a reaction - Observe the what happens as you type"
+ }
+}

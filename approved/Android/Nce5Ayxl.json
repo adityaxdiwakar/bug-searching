@@ -1,0 +1,30 @@
+{
+ "id": "5be4b0f21af5b11e63bd2122",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2291,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Nce5Ayxl",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0.0",
+  "client_settings": "7.8.6",
+  "actual_result": "It acts like you clicked once",
+  "expected_result": "It shouls came back to the first situation",
+  "short_description": "Toggling on/off a notification settings, double clicking will make it as you clicked 1 time",
+  "steps_to_repro": "- Go to a channel, channel settings , notification settings , mute channel - Remember the initial toggling position (If its toggled on, keep in mind that its toggled on) - Double click it - After we double clicked, It would come the initial position  - It acts like you clicked once"
+ }
+}

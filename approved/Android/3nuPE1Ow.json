@@ -1,0 +1,17 @@
+{
+ "id": "5ba9a1262033be76285ec3b4",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2028,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3nuPE1Ow",
+ "data": {
+  "system_settings": "Android 7.0.0",
+  "client_settings": "Android Alpha 7.5.5",
+  "actual_result": "The role name is empty",
+  "expected_result": "The audit log entry of the role update will show the role's name",
+  "short_description": "Updated role's name is blank after the role is deleted",
+  "steps_to_repro": "- Create a role - Edit it's permissions but don't edit the name - Delete the role"
+ }
+}

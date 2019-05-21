@@ -1,0 +1,17 @@
+{
+ "id": "5b5f2a3f7fda431fbb56f519",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 859,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1g5ITmEV",
+ "data": {
+  "system_settings": "iPhone 7, iOS 11.4.1",
+  "client_settings": "Testflight 2.3.6 (6095)",
+  "actual_result": "The AssistiveTouch button makes room for the keyboard, but blocks the \"Send\" button by doing so.",
+  "expected_result": "The AssistiveTouch button slides up to make room for the keyboard and the \"Send\" button.",
+  "short_description": "AssistiveTouch button blocking the \"Send\" button - youtu (.be) /BGU7sJXJR84",
+  "steps_to_repro": "- Enable AssistiveTouch in your device's settings and put it in the bottom right corner. - Open Discord and start typing a chat message. The AssistiveTouch button slides up to make room for the keyboard, but this causes the \"Send\" button to be blocked. - Compare this behaviour to another app like Apple's Messages app where doing this does not block the \"Send\" button."
+ }
+}

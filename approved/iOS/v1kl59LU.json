@@ -1,0 +1,24 @@
+{
+ "id": "5ad0ee3808723f964c6229c7",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 675,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/v1kl59LU",
+ "data": {
+  "system_settings": "iOS 11.2.6",
+  "client_settings": "TestFlight, 2.3.0",
+  "actual_result": "The red bar doesn't disappear and Discord still registers you as in a call even though the app shows you not in the call",
+  "expected_result": "The red bar at the top of the screen disappears",
+  "short_description": "Discord registers you in call still",
+  "steps_to_repro": "- Join a call or VC in Discord on your phone - Go to the homescreen on your phone while having Discord open in the background - Transfer the call to another device (I used my laptop) - Watch for the red bar showing you still connected to Discord to disappear"
+ }
+}

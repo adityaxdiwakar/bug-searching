@@ -1,0 +1,30 @@
+{
+ "id": "5ae324cd321f9eee3120d3d9",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1331,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CEm5T2Dv",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 Nougat",
+  "client_settings": "Discord Alpha 6.5.8(658)",
+  "actual_result": "The typing cursor goes behind the first character as soon as he changes it",
+  "expected_result": "You can continue editing his username",
+  "short_description": "Your typing cursor will move behind the first character if a person you are trying to change the nickname of changes his nickname while you are doing it",
+  "steps_to_repro": "- Have permissions to change a friend's nickname in a server - Hold on your friend's profile picture - Click Manage User - Click on the nickname box - Tell your friend to change his nickname"
+ }
+}

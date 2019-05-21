@@ -1,0 +1,30 @@
+{
+ "id": "5b8da72ebfba1463a32be4f9",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2919,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/P8kIFIWB",
+ "data": {
+  "system_settings": "macOS Mojave",
+  "client_settings": "[BUILD INFO] Release Channel: ptb, Build Number: 23017, Version Hash: ff85ea5ba61f12b4cac137b048a25ed0dd5648de",
+  "actual_result": "When you only want to copy their username, you end up copying everything.",
+  "expected_result": "You're only supposed to copy and paste their username, nothing else.",
+  "short_description": "When copying Discord usernames, you end up copying everything.",
+  "steps_to_repro": "- First, go into any Discord server. - Find any player in the player list on the right. - Left click their name in the server so you get their player card. - Scroll over to their username, and highlight the whole username (name and #) by left clicking it twice with your mouse. - Once highlighted, press \"Command\" and \"C\" to copy the highlighted text. - Once copied, go into the chat bar and press \"Command\" and \"V\" to paste it. - You'll see that instead of only copying the user's username, you copied everything that was present in the user's card, i.e. their roles, what game they were playing."
+ }
+}

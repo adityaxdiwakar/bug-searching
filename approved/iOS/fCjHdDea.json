@@ -1,0 +1,23 @@
+{
+ "id": "580ffd4062a7f9b7a4a6b2d7",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 47,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fCjHdDea",
+ "data": {
+  "system_settings": " iOS 9.3.3, iPhone 6 ",
+  "actual_result": "The text entry box stays where it would if you were typing, but the keyboard isn't there. System settings: iOS 9.3.3, iPhone 6",
+  "expected_result": "The text entry box goes down.",
+  "short_description": "Text Entry Box stays where it would be if the keyboard was out even when it's away after accessing the camera roll with the keyboard out",
+  "steps_to_repro": "- Press the text entry box. - Press teh paper clip icon. - Press the camera roll box. - Exit out of the camera roll. - Press the entry box. - Press outside of the text entry box. "
+ }
+}

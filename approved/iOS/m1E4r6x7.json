@@ -1,0 +1,15 @@
+{
+ "id": "5855ddda67493959cd1bd748",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 128,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/m1E4r6x7",
+ "data": {
+  "actual_result": "Menu glitches like so http://i.imgur.com/Qv29qgJ.png",
+  "expected_result": "Nothing happens",
+  "short_description": "Pinned message links still work in between menu switching",
+  "steps_to_repro": "- Open the pinned messages menu.- Click the back button, and before it takes you back, click on a pinned message."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5ba988f80d7d0078fae6497c",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2020,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9juR3Mzw",
+ "data": {
+  "system_settings": "Google Pixel 2 ; Android 9",
+  "client_settings": "Android Alpha 7.5.5",
+  "actual_result": "the audit states \"set the server name TO 'old name'",
+  "expected_result": "the audit states \"set the server name FROM 'old name'",
+  "short_description": "changing server name's 'step' says \"set the server name to 'old name's\"",
+  "steps_to_repro": "- change server name - open audit log and click on the audit"
+ }
+}

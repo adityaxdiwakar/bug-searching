@@ -1,0 +1,30 @@
+{
+ "id": "5b2d1b43f35f269be0534ff6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1578,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ENRlxvoP",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.6",
+  "actual_result": "Discord crashes",
+  "expected_result": "Sorting action simply cancels",
+  "short_description": "Discord crashes while sorting a channel or a role that gets deleted from another client (new steps)",
+  "steps_to_repro": "- Go to Server Settings > Channels OR Server Settings > Roles - Tap and hold a channel/role to move it. If you're in channel settings you must select the text channel sorting mode first - Move the channel up and down, keep doing that back and forth at a decent speed without releasing finger, and while you're doing that, have someone else delete the channel/role. It won't work if the channel/role isn't moving while it's being deleted"
+ }
+}

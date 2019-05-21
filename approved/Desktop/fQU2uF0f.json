@@ -1,0 +1,24 @@
+{
+ "id": "59be2c201fffc00667815fb6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1150,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fQU2uF0f",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord Canary, 0.0.163",
+  "actual_result": "It lets you put a space, and cuts off the colon",
+  "expected_result": "It's supposed to either not let you put a space, or not count in the emoji",
+  "short_description": "When you add a space to the end of an emoji name when creating one, the colon (:emoji:) moves to the bottom.",
+  "steps_to_repro": "- Go to the emojis menu in server settings - put an image - set a name and put a space at the end of it - the colon for the emoji name is gone to the bottom"
+ }
+}

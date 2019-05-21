@@ -1,0 +1,17 @@
+{
+ "id": "5b78b77707b20c291197e4fd",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1850,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YlAsOHIt",
+ "data": {
+  "system_settings": "Redmi 4X Android 8.1",
+  "client_settings": "7.2.0",
+  "actual_result": "It doesn't fit correctly and when you change apps, the emoji tab closes",
+  "expected_result": "It should fit correctly and shouldn't close the emoji tab after changing to the other app in split screen.",
+  "short_description": "When using split screen, the emoji tab doesn't fit very well and disappear when you change between apps",
+  "steps_to_repro": "- Split your screen with discord and other app - Now go to discord and open the emoji tab. It doesn't fit very well (first problem) - With the emoji tab open, change to the other app in the split screen - The emoji tab should close and you have to reopen it"
+ }
+}

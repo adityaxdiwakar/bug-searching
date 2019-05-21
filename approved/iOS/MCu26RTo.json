@@ -1,0 +1,30 @@
+{
+ "id": "59f7337a80128d6c21511f59",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 407,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MCu26RTo",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.0.3",
+  "client_settings": "Stable 1.9.4",
+  "actual_result": "Discord crashes.",
+  "expected_result": "Discord should only upload one image, or allow the user to upload multiple images in succession.",
+  "short_description": "Spam-tapping an image when uploading from Camera Roll crashes Discord",
+  "steps_to_repro": "- Tap the paper clip. - Choose to upload from Camera Roll. - Spam-tap an image from the Camera Roll a considerable amount of times."
+ }
+}

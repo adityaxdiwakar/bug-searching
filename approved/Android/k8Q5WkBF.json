@@ -1,0 +1,30 @@
+{
+ "id": "5b5d47cdb99a6bbb708b1b45",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1702,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/k8Q5WkBF",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "it says \"1 members\" underneath the group name",
+  "expected_result": "It should say \"1 member\" underneath the group name",
+  "short_description": "Groups with only one person in them say \"1 members\" instead of \"1 member\"",
+  "steps_to_repro": "- Find a way to get into a group by yourself (I dm'ed a webhook, but you can also make a group dm with other people then kick them) - Go to your Direct Messages list - Observe the number of people in the group"
+ }
+}

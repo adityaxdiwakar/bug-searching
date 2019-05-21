@@ -1,0 +1,22 @@
+{
+ "id": "5889fa63ea9f4067f38fb76f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 350,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kxVSPiZc",
+ "data": {
+  "actual_result": "http://i.imgur.com/k9BFP8m.png",
+  "expected_result": "Looks like a normal mention",
+  "short_description": "Mentions in Embed use Light Theme while in Dark Theme",
+  "steps_to_repro": "- Use Dark Theme (if you aren't already part of the Dark Theme Masterrace) - Look at a User Mention in an Embed "
+ }
+}

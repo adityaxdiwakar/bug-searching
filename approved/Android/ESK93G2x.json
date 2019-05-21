@@ -1,0 +1,24 @@
+{
+ "id": "59da5456c28c2decd0897cbf",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 800,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ESK93G2x",
+ "data": {
+  "system_settings": "MacBook Air 10.12.4",
+  "client_settings": "Stable 5.2.6",
+  "actual_result": "You can view the profile and initiate a DM",
+  "expected_result": "You cannot view the profile of a webhook",
+  "short_description": "Webhook Profile Can Be Viewed and DM can be initiated (Mobile Only)",
+  "steps_to_repro": "- Find a webhook - Press and hold the name to open the pane that would usually show roles - Click \"profile\" - Click the message icon"
+ }
+}

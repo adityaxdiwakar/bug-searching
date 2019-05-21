@@ -1,0 +1,17 @@
+{
+ "id": "5af7f93c9857a2dd21b2192d",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1408,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DamsNiha",
+ "data": {
+  "system_settings": "Android 6.0.1",
+  "client_settings": "Discord 6.6.1 (661) Beta",
+  "actual_result": "We can mention multiple times in normal channel and in unauthorised channel",
+  "expected_result": "Able to mention ones and not in unauthorised channel",
+  "short_description": "Able to mention multiple times, and mention in text box which is unauthorised channel",
+  "steps_to_repro": "- Open any channel - Select the user that you want to mention multiple times -  Try the same in unauthorised channel"
+ }
+}

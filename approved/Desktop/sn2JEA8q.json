@@ -1,0 +1,30 @@
+{
+ "id": "5b282d90013908f815e3f3f8",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2153,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sn2JEA8q",
+ "data": {
+  "system_settings": "Macbook Pro 13\" (2017 - With Touchbar), macOS High Sierra - Version 10.13.4",
+  "client_settings": "Discord Canary for Mac OS - 0.0.193 (0.0.193) - Build Number: 17063",
+  "actual_result": "The 'this channel doesn't have any pins' screen appears for a few seconds before pins load, without the loading symbol.",
+  "expected_result": "A loading symbol should appear as it loads, or pins should appear immediately.",
+  "short_description": "When clicking a pinned message button with unread pins, the \"no results' page appears for a couple of seconds before the pins load",
+  "steps_to_repro": "- Go to any server where there is a channel with unread pins - Click on the pin button  - Observe the results page"
+ }
+}

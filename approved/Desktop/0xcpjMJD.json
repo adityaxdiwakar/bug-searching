@@ -1,0 +1,30 @@
+{
+ "id": "5adb2d19b3f69e32beef8a9c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1872,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0xcpjMJD",
+ "data": {
+  "system_settings": "Windows 10 Home x64, Version 1709",
+  "client_settings": "Discord Canary, Build 13990",
+  "actual_result": "At the very bottom of the flag the top of the flag is visible",
+  "expected_result": "The flag should be normal and not repeat",
+  "short_description": "Server Region Flag begins to Repeat at the bottom when at 90 zoom",
+  "steps_to_repro": "- Go to Appearance in user settings and set zoom to 90 - Go to a server you have access to manage server on - Set the region to a region that has a flag with a different color at the top compared to the bottom (Such as Australia) - Observe"
+ }
+}

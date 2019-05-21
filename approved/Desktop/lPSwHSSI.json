@@ -1,0 +1,15 @@
+{
+ "id": "587a559047e7a6ac5053da72",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 333,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/lPSwHSSI",
+ "data": {
+  "actual_result": "A little bit of the image is cut off on the side",
+  "expected_result": "The embedded image appears in full",
+  "short_description": "Embedded images don't fully show in Search.",
+  "steps_to_repro": "- Post an Image In any Channel - Search for that message- Observe the embed in the search menu"
+ }
+}

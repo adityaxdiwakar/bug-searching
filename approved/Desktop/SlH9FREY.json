@@ -1,0 +1,17 @@
+{
+ "id": "5ae52408194443877d3ce9e0",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1905,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SlH9FREY",
+ "data": {
+  "system_settings": "Windows 7 64bit",
+  "client_settings": "Discord 4.1.2018",
+  "actual_result": "Status is different",
+  "expected_result": "Status to be the same",
+  "short_description": "User is online but offline when you click on their profile. (not in your friends list)",
+  "steps_to_repro": "- Open Discord - Open A Conversation (user must be online and not a friend) - Open there profile"
+ }
+}

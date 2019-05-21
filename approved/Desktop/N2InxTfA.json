@@ -1,0 +1,17 @@
+{
+ "id": "5b5b9fae2c814477b345c01d",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2458,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/N2InxTfA",
+ "data": {
+  "system_settings": "Tested on: - Windows 10 Pro x64 1803",
+  "client_settings": "Tested on: - Discord Canary Desktop v20088 -",
+  "actual_result": "Number emojis don't render in code blocks and frustrates the user",
+  "expected_result": "Number emojis are supposed to render in code blocks, other emojis work",
+  "short_description": "Discord cannot output emoji in code blocks",
+  "steps_to_repro": "- Use this: ```if (('`123')) {        ('1\u20e3')(r => {            ('2\u20e3')(r=> {                ('3\u20e3');            });        });    }``` - You will see that the emojis don't output correctly - Try to copy the 1 2 3 boxes and it will output correctly outside of the code blocks - If you copy from the code blocks above to VSC or Atom, it will show the text as it is, try Googling the 2 Emoji and paste it into Discord, VSC, and Atom, they will render it correctly, Discord cannot render the number emojis in code blocks but renders basically everything else - REMEMBER TO COPY AND REPLACE 2\u20e3 WITH 2\ufe0f\u20e3"
+ }
+}

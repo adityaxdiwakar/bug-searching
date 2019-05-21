@@ -1,0 +1,30 @@
+{
+ "id": "5bfc8b10fc34ee8b0dd2dd71",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3441,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wkZTuCdn",
+ "data": {
+  "system_settings": "Windows 10 Pro (64-bit), Creators Update (v1709, Build 16299.547)",
+  "client_settings": "Canary 0.0.224 (Build 28421)",
+  "actual_result": "The first server you load follows you all over Discord, so you can no longer effectively edit your channel/category permissions.",
+  "expected_result": "You would see the list of roles and permissions for the server you're viewing.",
+  "short_description": "You cannot edit permissions in categories or channels because permissions from another server follows you everywhere else",
+  "steps_to_repro": "- Go to a server where you have admin/ability to manage roles. - Go to the Permissions tab on a channel or category. - Now go to another server where you have the same access and repeat. - Observe the list of roles in the channel permissions."
+ }
+}

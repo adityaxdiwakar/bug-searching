@@ -1,0 +1,17 @@
+{
+ "id": "5afb2893cb6a79e6cc61ec29",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1993,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/M0y8OLPA",
+ "data": {
+  "system_settings": "Windows 10 64 Bit Pro",
+  "client_settings": "Canary 15268",
+  "actual_result": "It looks abnormal",
+  "expected_result": "It should look normal",
+  "short_description": "Weird looking loading image",
+  "steps_to_repro": "- Send media - If it is a large file and needs to load, the weird looking loading icon will appear"
+ }
+}

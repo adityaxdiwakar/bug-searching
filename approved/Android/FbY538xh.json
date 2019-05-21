@@ -1,0 +1,23 @@
+{
+ "id": "58b0cc07ccdb51e4ee73b39a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 255,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FbY538xh",
+ "data": {
+  "system_settings": " Android 5.1 Discord 3.3.8",
+  "actual_result": "it places you at new messages",
+  "expected_result": "should remain where you left off in chat",
+  "short_description": "closing search launches you back to the top of new messages",
+  "steps_to_repro": "- Have a good amount of new messages (around 20-30; cannot be 50+)- Open search - search for something - close out of it "
+ }
+}

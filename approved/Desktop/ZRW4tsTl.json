@@ -1,0 +1,24 @@
+{
+ "id": "59b14c0e455f60be27a71d65",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1093,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZRW4tsTl",
+ "data": {
+  "system_settings": "Windows 10 Home (Version: 1703 Build Number: 15036.540)",
+  "client_settings": "Desktop Canary, 0.0.163",
+  "actual_result": "Discord crashes.",
+  "expected_result": "Discord tells you the image has a resolution too high.",
+  "short_description": "Pasting a low in size, VERY HIGH in resolution image will crash discord upon pasting it into chat with ctrl+v.",
+  "steps_to_repro": "- Create a new image with the dimensions 15129 x 14280 - Fill it entirely with white so the size of the file is under 8MB- ctrl+a and ctrl+c in the image editor - ctrl+v in Discord chat."
+ }
+}

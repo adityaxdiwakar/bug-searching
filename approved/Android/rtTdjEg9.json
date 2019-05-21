@@ -1,0 +1,30 @@
+{
+ "id": "5b77d343bfd34378548fbfaf",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1847,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rtTdjEg9",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.3.5",
+  "actual_result": "The HS badge looks huge in height, leaving almost no top/bottom padding with the white container",
+  "expected_result": "Badge should be equally sized as on Desktop",
+  "short_description": "The attendee HS badge looks huge in height compared to the other badges",
+  "steps_to_repro": "- Find a user who has multiple badges including the orange HypeSquad one - Compare height of the badge"
+ }
+}

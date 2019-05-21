@@ -1,0 +1,17 @@
+{
+ "id": "5ab5b1de9c7b2a066ab2998b",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1224,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ohx5bVOP",
+ "data": {
+  "system_settings": "ZTE obsidian, Android 5.1",
+  "client_settings": "Discord alpha 6.4.2",
+  "actual_result": "the button is missing or invisible",
+  "expected_result": "there should be a button to exit the share screen",
+  "short_description": "on light theme you can't see the \"X\" to exit the intermediate screen for incoming shares",
+  "steps_to_repro": "- go to YouTube (or any other websites where you can share links)- share any video on discord- try to find the \"X\" to exit the share screen"
+ }
+}

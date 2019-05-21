@@ -1,0 +1,30 @@
+{
+ "id": "5b6def52bf857e720839f1a7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1815,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Si3b7pMQ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.9",
+  "actual_result": "After successfully sending a friend request, everything stay on screen so you can keep pushing the Send button to spam-send the same friend request. This also forces you to manually clear the textfield if you want to input another user",
+  "expected_result": "The old Add Friends modal used to close after successfully sending a friend request. In this new screen I believe it is supposed to either close or at least clear the contents of the textfield",
+  "short_description": "[Add Friends screen] Nothing is cleared after successfully sending a friend request",
+  "steps_to_repro": "- Go to Friends tab and open Add Friends screen - Input a valid Discord Tag - Press Send"
+ }
+}

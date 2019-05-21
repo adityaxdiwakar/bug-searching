@@ -1,0 +1,30 @@
+{
+ "id": "5ad24147554c6fe67b7e5eb9",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1279,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AFyWocGy",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Android 7.0",
+  "client_settings": "discord\u00a0 6.4.9",
+  "actual_result": "the first emote is normal but the second emote shows up as the 1st emotes followed by numbers (most likely an ID) inside triangular brackets",
+  "expected_result": "the emotes work as normal and are shown as expected in chat",
+  "short_description": "when sending 2 emotes with a duplicate name but are seperate emotes (i.e \"donkey\" and \"donkey-1\" the first emote is normal but the second emote shows up as the 1st emote followed by numbers (most likely an ID) inside triangular brackets",
+  "steps_to_repro": "- make sure you have 2 emotes with a duplicate name (the other one should/will have a -1 at the end) and type both of them into that - send what you have typed - observe"
+ }
+}

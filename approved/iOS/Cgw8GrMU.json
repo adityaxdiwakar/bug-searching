@@ -1,0 +1,15 @@
+{
+ "id": "583ddf125491b8bc2be7c0a4",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 92,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Cgw8GrMU",
+ "data": {
+  "actual_result": "The app seems to ignore its existence",
+  "expected_result": "The corresponding emote appears as if it were a normal emoji in the list",
+  "short_description": "custom emotes don't show up in the emoji list",
+  "steps_to_repro": "- Start typing a message with `:` - Continue with the name of an emote "
+ }
+}

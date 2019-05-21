@@ -1,0 +1,24 @@
+{
+ "id": "5ba32c14091f697994504a55",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1024,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BJCA6igt",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta",
+  "client_settings": "TestFlight 2.3.8 (7308)",
+  "actual_result": "The message from the other user do not group until you switch out of the channel and back in after you have sent a message",
+  "expected_result": "The messages from the other user are supposed to group",
+  "short_description": "Messages from the same user fail to group if the red new messages bar is between them and disappears",
+  "steps_to_repro": "- Go into a channel with another user - Have the user send a message or two while you are actively viewing the channel on your phone (make sure you do not have any other devices set to this channel) - After the user sends a message or two, switch to a second channel and have the user send a message in the first channel (easier if you have another channel to communicate in while testing) - After they have sent another message or two, go back into the first channel - Make sure their messages are separated by the red \"New Messages\" line, and then send a message in that channel - After sending a message, observe the messages that the user had sent"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59f7a575279b78f8fb3468ae",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 408,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/De54vCiq",
+ "data": {
+  "system_settings": "iOS 10.3.3 iPhone 7",
+  "client_settings": "1.9.4 release",
+  "actual_result": "The message just contains @username#1234 and doesn't turn into a mention",
+  "expected_result": "The user should be mentioned and notified",
+  "short_description": "s/ edits with mentions do not actually mention",
+  "steps_to_repro": "- Type a message (any message)  - Use the s/text/newtext edit shortcut to add a mention"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5995bd42276f73bfdf47fc98",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1009,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PhdfoQml",
+ "data": {
+  "system_settings": "Windows 10 x64 (Home 1703)",
+  "client_settings": "Desktop Stable, 0.0.298",
+  "actual_result": "The keybind changes to \"Ctrl+UNK3\" and you cannot use that keybind (your friends do not hear you speaking and your icon doesn't light up).",
+  "expected_result": "Ctrl+Scr LK is set as your keybind and you are able to speak in the voice channel using that keybind.",
+  "short_description": "Using \"ctrl+scrn lk\" key will change to Ctrl+ UNK3 and you won't be able to use the keybind.",
+  "steps_to_repro": "- Open User Settings - Open Keybinds - Click \"Add a Keybind - Select PTT - Record Keybind - Press \"Ctrl\" (either left or right) and \"SCR LK\" keys on your keyboard - Click Stop Recording - ESC to a server voice channel - Join voice channel - Press the PTT keybind."
+ }
+}

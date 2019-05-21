@@ -1,0 +1,30 @@
+{
+ "id": "5ac4d20dc0b948c24abe643a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1245,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QEZq9sog",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.6",
+  "actual_result": "The scrolling stops, and you have to swipe down again to load more messages and continue scrolling down",
+  "expected_result": "When it reaches the end of cached messages, it should be immediately loading more messages and lets you continue to scroll down, exactly like in regular chat",
+  "short_description": "When you use inertia to scroll down in Recent Mentions, the scrolling will brutally interrupt instead of loading more messages, making you think there is no more messages",
+  "steps_to_repro": "- Open Recent mentions (@ icon at the bottom of channel sidebar) - Swipe up and release your finger to make it scroll down with inertia"
+ }
+}

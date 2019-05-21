@@ -1,0 +1,23 @@
+{
+ "id": "58fc194004c9c40fd552cf74",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 549,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sZ64J1Gc",
+ "data": {
+  "system_settings": " Discord Latest Canary, Xubuntu 16.04, also tested on Win10 Stable",
+  "actual_result": "Their indicator stays green until they are unmuted and they stop talking.",
+  "expected_result": "Their indicator greys out",
+  "short_description": "When muting a user in a group DM, if their indicator is green, it will stay way until they are unmuted and it turns grey again",
+  "steps_to_repro": "- Be in a group call - Mute someone who's indicator is green "
+ }
+}

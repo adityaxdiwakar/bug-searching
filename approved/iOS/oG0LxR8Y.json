@@ -1,0 +1,30 @@
+{
+ "id": "5ad11f540b651318516e0831",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 676,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oG0LxR8Y",
+ "data": {
+  "system_settings": "<IOS 11.2.5, iPad mini 4>",
+  "client_settings": "<Discord 2.2.9>",
+  "actual_result": "<A part of the list is buggy. You can only see part of the profile picture>",
+  "expected_result": "<You should see the nicks list correctly>",
+  "short_description": "Display bug with multitasking on the nicks list",
+  "steps_to_repro": "- Step 1 : Open Discord- Step 2 : Go to the main menu with the home button- Step 3 : Start any application-Step 4 : Use multitasking"
+ }
+}

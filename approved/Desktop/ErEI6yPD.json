@@ -1,0 +1,17 @@
+{
+ "id": "5b9b487eff9d346bcbf19ef9",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2983,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ErEI6yPD",
+ "data": {
+  "system_settings": "Windows 10 64x (1803)",
+  "client_settings": "Canary 23554 (Client: 0.0.211)",
+  "actual_result": "Default Mouse",
+  "expected_result": "You get a Click mouse button (with the finger) or the Microscope with a + Mouse",
+  "short_description": "[Overlay] Hovering over an image doesn't show the zoom mouse.",
+  "steps_to_repro": "- Open Overlay - Find Image - Hover over"
+ }
+}

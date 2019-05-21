@@ -1,0 +1,17 @@
+{
+ "id": "5bec32c5845736413d9244d3",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2323,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ReX96MUK",
+ "data": {
+  "system_settings": "Android 8.0.0",
+  "client_settings": "Android Alpha 7.9.0",
+  "actual_result": "The audit logs shows that 'read messages' permission was denied as it was a text channel although its not",
+  "expected_result": "The audit logs should show that the permission 'view channel' was denied for the given voice channel",
+  "short_description": "Audit logs on mobile shows wrong info for voice channel view permission",
+  "steps_to_repro": "- Create a VOICE channel with default settings - Update the 'everyone' role and DENY 'view channel' perm - Check audit logs on mobile. It might also be problematic on pc too I didn't test"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59a41bdd37eb945565030a07",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 308,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dbR7sQb3",
+ "data": {
+  "system_settings": "iPhone 6+, iOS 10.2",
+  "client_settings": "TF 1.9.1",
+  "actual_result": "A noticeably different font (probably the default system one) is used instead",
+  "expected_result": "Text area content uses same font as the rest of the app",
+  "short_description": "Text areas in Channel Settings have wrong font",
+  "steps_to_repro": "- Open channel settings - Observe \"Channel Name\"/\"Channel Topic\" fields"
+ }
+}

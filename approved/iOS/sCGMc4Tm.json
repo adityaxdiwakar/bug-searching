@@ -1,0 +1,36 @@
+{
+ "id": "5ab11f329a1812d9b8ad16f1",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 633,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sCGMc4Tm",
+ "data": {
+  "system_settings": "iPhone 7",
+  "client_settings": "Discord TestFlight Latest",
+  "actual_result": "When the panel closes the little black line because bold for a sec",
+  "expected_result": "The panel should close and the little black line should not become bold for a sec",
+  "short_description": "Discord mention panel closing cause black line to flash",
+  "steps_to_repro": "- Type \"@\" in your server - Delete the \"@\" in your server - Watch **very** carefully"
+ }
+}

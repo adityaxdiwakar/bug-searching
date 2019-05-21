@@ -1,0 +1,30 @@
+{
+ "id": "5b0228481c3479c3de799be3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2028,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VSIniXoA",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.209, Build 15665",
+  "actual_result": "Channel name appears cut off",
+  "expected_result": "Channel name truncates with \"...\"",
+  "short_description": "Long channel names don't truncate properly in the Invites section of Server Settings",
+  "steps_to_repro": "- Create a channel with a somewhat lengthy name - Create an invite directed to that channel - Enter the Invites section of Server Settings and observe the cut off channel name"
+ }
+}

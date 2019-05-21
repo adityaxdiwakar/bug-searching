@@ -1,0 +1,30 @@
+{
+ "id": "5a1e5cd562b3851308dd8ee8",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 925,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/q9VS8j8e",
+ "data": {
+  "system_settings": "LG X Power, Android 6.0.1.",
+  "client_settings": "Android Alpha v5.7.7",
+  "actual_result": "THe text Box stays one line",
+  "expected_result": "The Textbox should scretch around the third line",
+  "short_description": "Regression: Textbox doesn't expand after switch away and back to app",
+  "steps_to_repro": "- GO to a DM and Restart the App - Type enough Text (Can be anything) To trigger a second line of text - Observe and Eat Cake"
+ }
+}

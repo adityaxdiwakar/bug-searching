@@ -1,0 +1,17 @@
+{
+ "id": "5bc6fa9fc35b4d599325010e",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2188,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cv5o4BOL",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.7.3",
+  "actual_result": "You have \"Select Everyone\" and your user as options.",
+  "expected_result": "There should only be a \"Select Everyone\" option, like desktop.",
+  "short_description": "In a 1-user server Audit log, Filter Users gives you the option of Everyone and user.",
+  "steps_to_repro": "- Create a server without anyone being in it. - Go to Audit logs, and select \"Filter by Users\". - Observe."
+ }
+}

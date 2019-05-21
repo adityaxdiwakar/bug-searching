@@ -1,0 +1,30 @@
+{
+ "id": "5b9b161761a74d2c322b4917",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1007,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zqO83vNK",
+ "data": {
+  "system_settings": "iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.8 (7167)",
+  "actual_result": "The tooltip is top-anchored and does not wrap",
+  "expected_result": "The tooltip should be completely visible and readable",
+  "short_description": "Tooltip for roles cut off in some instances",
+  "steps_to_repro": "- Go to a channel - Start typing a role name - Notice the tooltip beside the role name - Note: can only replicate on the role in image, shorter or longer roles weren't having same affect)"
+ }
+}

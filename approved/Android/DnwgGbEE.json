@@ -1,0 +1,30 @@
+{
+ "id": "5b6d7e438a6d2557dbd55866",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1809,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DnwgGbEE",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 729",
+  "actual_result": "The profile picture does not animate.",
+  "expected_result": "Like the message action pop-up, the profile picture should animate.",
+  "short_description": "When you long press on a person's username (who has an animated avatar) in the DM list, the profile picture does not animate.",
+  "steps_to_repro": "- Start a DM with a person who has an animated avatar. - Open DM list. - Long press on their name. - Observe the pop-up."
+ }
+}

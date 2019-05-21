@@ -1,0 +1,30 @@
+{
+ "id": "5babc03b2c227304d0c7b107",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 3041,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MCQKMpjF",
+ "data": {
+  "system_settings": "Windows 10 Home SL x64",
+  "client_settings": "Canary 24683",
+  "actual_result": "it closes the mini profile and does not work. other badges works fine except for nitro",
+  "expected_result": "if you click the nitro badge, it should ask you to redirect somewhere",
+  "short_description": "[OVERLAY] clicking nitro badge does nothing",
+  "steps_to_repro": "- Open overlay from a game. Find a user that has active badges (includes nitro) - Open their user profile, click those badges. Observe"
+ }
+}

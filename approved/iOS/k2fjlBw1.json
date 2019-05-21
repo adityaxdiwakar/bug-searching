@@ -1,0 +1,24 @@
+{
+ "id": "5b7238ccafa22131d0695c46",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 905,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/k2fjlBw1",
+ "data": {
+  "system_settings": "iOS 11.4.1 on iPad Pro 2nd Gen",
+  "client_settings": "Discord via TestFlight (v2.3.6, Build 6755)",
+  "actual_result": "It shows NaN for the numbers.",
+  "expected_result": "The embed shows online/member counts.",
+  "short_description": "Invite embeds show NaN in place of the online/total member counts",
+  "steps_to_repro": "- Go to a large discord server. - Post the invite to it, or another server. - Observe the embed."
+ }
+}

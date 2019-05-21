@@ -1,0 +1,30 @@
+{
+ "id": "5c3773f414ffaa6befa6c650",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3618,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HOzkmj30",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS v10.14.2 (Mojave)",
+  "client_settings": "Canary 30702",
+  "actual_result": "The screen doesn't change the name to appear valid until you re-open the screen.",
+  "expected_result": "The screen should update the name when it's invalid.",
+  "short_description": "Attempting to submit an invalid emote name makes the invalid name remain until you re-open the screen.",
+  "steps_to_repro": "- Upload an emote or have an emote already added. - Rename the emoji to one character, or without a name at all. - Observe the name stay the same as you submitted. - Click to another tab, then re-open \"Emoji.\""
+ }
+}

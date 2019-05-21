@@ -1,0 +1,30 @@
+{
+ "id": "5af9e39a802992483a6a59b6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1416,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WbYb39oa",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.6.8",
+  "actual_result": "On Android it's converted to emoji. This is particularly annoying in codeblocks because when I wanted to share a certain string of data to a friend last day, it messed up because some sections of the string was made of `:`'s and `1`'s. I had to grab my PC and send it from the Desktop client to do it",
+  "expected_result": "It shouldn't convert to emoji, because the correct emoji alias is `+1` not `1`, also it doesn't happen on Desktop client",
+  "short_description": "On Android, :1: is converted to the \ud83d\udc4d emoji",
+  "steps_to_repro": "- Go to a text channel with send message perms - Write any text containing [colon]1[colon]"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5c1712a589489528bb6dc4f3",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3508,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MDtQNhDC",
+ "data": {
+  "system_settings": "Window 10 home x64 v.1803",
+  "client_settings": "Canary 0.0.224 - 29791",
+  "actual_result": "it sends what i typed before clicking on a suggestion",
+  "expected_result": "it should react to the message before the invite and not send the invite",
+  "short_description": "when using the react to the last message shortcut (+:emoji:) in a Spotify invite you can't select any emoji suggestions",
+  "steps_to_repro": "- send a random message if the channel is empty - click on the \"+\" to send a Spotify invite - in the comment box, type e.g. \"+:reg\" - click on one of the suggestions and observe"
+ }
+}

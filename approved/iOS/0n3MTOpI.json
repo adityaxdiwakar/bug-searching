@@ -1,0 +1,17 @@
+{
+ "id": "5b0448ee7b489c718e7260b0",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 763,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0n3MTOpI",
+ "data": {
+  "system_settings": "iPhone 6 - iOS 11.4",
+  "client_settings": "TestFlight 2.3.2 (4694)",
+  "actual_result": "Picture doesn\u2019t fit and is too big",
+  "expected_result": "Wumpus picture should be small and should fit in the screen",
+  "short_description": "Wumpus picture out of shape when going into suggestions settings (might be different on other devices)",
+  "steps_to_repro": "- Open discord - go to suggestions - Observe"
+ }
+}

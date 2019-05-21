@@ -1,0 +1,30 @@
+{
+ "id": "5bcf31e42c2cfb1008f08adc",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2231,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KTDChICu",
+ "data": {
+  "system_settings": "Android 7, Redmi 4",
+  "client_settings": "Android Aplha 7.7.9",
+  "actual_result": "It Says You Are Viewing Older Messages",
+  "expected_result": "It Should Highlight The Text and do nothing",
+  "short_description": "When A new Member DM's you, it says Viewing Older Messages",
+  "steps_to_repro": "- Tell A Guy Who Hasnt DM'd You Until Now - Click The In-App Notification - Observe"
+ }
+}

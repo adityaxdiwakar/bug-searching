@@ -1,0 +1,15 @@
+{
+ "id": "582624927021e097f3882770",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 130,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yuee9Jnk",
+ "data": {
+  "actual_result": "The mention uses the username until the client has been refreshed Bonus: http://i.imgur.com/60xhAVY.png",
+  "expected_result": "The mention uses the nickname",
+  "short_description": "When viewing mentions on a server that wasn't previously visited, nickname mentions use the username (probably because the nickname hasn't been seen/cached yet)",
+  "steps_to_repro": "- have someone else mention the user on a server you haven't visited (in this session) - visit the server and look at the mention \" "
+ }
+}

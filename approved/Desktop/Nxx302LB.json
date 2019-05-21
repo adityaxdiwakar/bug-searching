@@ -1,0 +1,17 @@
+{
+ "id": "5bc6d42df98a5210db82b712",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 3200,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Nxx302LB",
+ "data": {
+  "system_settings": "OnePlus 3T, Android 8",
+  "client_settings": "Chrome 69.0.3497.100",
+  "actual_result": "You get thrown to the far right of the list and can scroll past all the games untill they are off screen!",
+  "expected_result": "Scroll like normal",
+  "short_description": "[Marketing Website][Mobile] Using 2 fingers to scroll by the \"Access to $1000 of games\" causes you to get moved to the end of it and over scroll the games",
+  "steps_to_repro": "- Go to the new Nitro marketing page - discordapp/nitro - Scroll to the \"Get access to over $1,000 worth of games\" - Use 2 fingers to scroll left / right in the games list"
+ }
+}

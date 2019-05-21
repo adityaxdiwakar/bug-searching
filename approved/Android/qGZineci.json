@@ -1,0 +1,23 @@
+{
+ "id": "588ee74ac3cfaa6e6f415709",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 201,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qGZineci",
+ "data": {
+  "system_settings": " Android 5.1.1, Discord 3.2.6",
+  "actual_result": "In Android, shows @invalid-user, in Windows, @ID",
+  "expected_result": "@name appears",
+  "short_description": "No mention into codes blocks on Android",
+  "steps_to_repro": "- Type a message in a code block on Android - don't forget to put a space before the @ - Mention someone  "
+ }
+}

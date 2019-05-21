@@ -1,0 +1,23 @@
+{
+ "id": "58d6f393593af50e1309f803",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 462,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kXU0q21K",
+ "data": {
+  "system_settings": " Win10 x64, DiscordCanary.",
+  "actual_result": "In 'Overlay', string 'Enable in-game overlay' is showing not correctly in-Russian.",
+  "expected_result": "All shall be fine like as you selected English or any different language.",
+  "short_description": "Invalid character encoding in Russian and strings using system language",
+  "steps_to_repro": "- Select Russian language. - Open 'User settings'. - See on \"Enable in-game overlay\". "
+ }
+}

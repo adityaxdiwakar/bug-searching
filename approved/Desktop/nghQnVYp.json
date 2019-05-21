@@ -1,0 +1,30 @@
+{
+ "id": "599796b2a4a19ae08b6ebd76",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1015,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nghQnVYp",
+ "data": {
+  "system_settings": "Mac OS 10.10",
+  "client_settings": "Discord Canary (v0.0.154)",
+  "actual_result": "The audit log reports that the \"Read Messages\" setting was modified (probably just an oversight).",
+  "expected_result": "I would expect the audit log to report that the \"View Channel\" permission was modified.",
+  "short_description": "Modifying the \"View Channel\" permission incorrectly records as \"Read Messages\" in the audit logs.",
+  "steps_to_repro": "- Click on the settings cog for a voice channel. - Select the Permissions tab. - Change the new \"View Channel\" permission to allow or deny. - Go to Server Settings and select \"Audit Log\" to view how it records."
+ }
+}

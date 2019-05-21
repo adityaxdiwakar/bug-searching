@@ -1,0 +1,17 @@
+{
+ "id": "5b957f8f2cf594631d39af9c",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1958,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EMFQ0FlE",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.4.8",
+  "actual_result": "The picture still goes through and you can save the changes just fine",
+  "expected_result": "As the text says, it shouldn't accept icons under 128x128",
+  "short_description": "The app says that the server icon is required to have a minimum size of 128x128, although it lets you upload images that don't respect this constraint",
+  "steps_to_repro": "- Go to Server Settings > Overview - Remove the server icon. Notice that the Remove button is replaced by a text \"Minimum size: 128x128\" when there is no icon - Pick a new server icon that is under 128x128 format"
+ }
+}

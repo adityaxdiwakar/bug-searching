@@ -1,0 +1,24 @@
+{
+ "id": "5c005373de70725207910088",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1188,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jUHPEc1Y",
+ "data": {
+  "system_settings": "iPad Pro 12.9\" (3rd Generation), iOS 12.1",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "Predictive text bar is visible while the emoji keyboard is open",
+  "expected_result": "Predictive text bar isn't visible while the emoji keyboard is open",
+  "short_description": "[iPad] Predictive text bar is visible while emoji keyboard is open",
+  "steps_to_repro": "- Open the emoji keyboard"
+ }
+}

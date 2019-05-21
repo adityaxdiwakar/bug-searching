@@ -1,0 +1,24 @@
+{
+ "id": "5b58cab51040862455fb2fec",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2431,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vBIXnazH",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Google Chrome 68.0.3440.75 (64-bit)",
+  "actual_result": "Permission is called \"Use Members\", which isn't even a real permission",
+  "expected_result": "Permission should be named \"Move Members\"",
+  "short_description": "[Website Bug] Typo in Bot Permissions panel",
+  "steps_to_repro": "- Create an application - Go into the Bot settings panel and create a bot user - Scroll down to the Bot Permissions and observe the permission under \"Deafen Users\" being \"Use Members\""
+ }
+}

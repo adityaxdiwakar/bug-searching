@@ -1,0 +1,29 @@
+{
+ "id": "58b57cc2a07c9a2ba0af35c3",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 265,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/b3JfwabZ",
+ "data": {
+  "system_settings": " Nexus 6P, Android 7.1.2, Discord 3.3.9-preview",
+  "actual_result": "No voice connection happens. However, everything is smooth sailing from here on out",
+  "expected_result": "You connect just fine",
+  "short_description": "First voice connection after new install fails",
+  "steps_to_repro": "- Have a fresh install of Discord OR remove microphone permission through Android settings - Connect to a voice channel "
+ }
+}

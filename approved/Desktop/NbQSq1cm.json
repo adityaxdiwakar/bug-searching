@@ -1,0 +1,17 @@
+{
+ "id": "5953c87bb3b163ee85ac03e8",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 796,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NbQSq1cm",
+ "data": {
+  "system_settings": "WIndows 10 Pro 64 bit http://prntscr.com/fp61i1 Creators",
+  "client_settings": "Stable 0.0.297",
+  "actual_result": "Text override like: <http://prntscr.com/fp61i1>",
+  "expected_result": "The rest of the emoji name should hide with you edit it",
+  "short_description": "Overriding emoji customization text",
+  "steps_to_repro": "- Hover the border or edit the text"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a61874bf82c5b5fc5ccaae9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1563,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JdEYnbYT",
+ "data": {
+  "system_settings": "Windows 10 Home",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 9072, Version Hash: f546e8dff486ff50228e2ae54d8502fbfc9ba766",
+  "actual_result": "Reverts back to before. You have to start over editing.",
+  "expected_result": "The message is saved or you can continue editing from where you left off",
+  "short_description": "Cannot continue editing messages after switching server/channel.",
+  "steps_to_repro": "- Start editing a message - Go to a different server/channel or go to a DM - Go back to the message you were editing"
+ }
+}

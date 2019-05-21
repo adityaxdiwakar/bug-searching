@@ -1,0 +1,30 @@
+{
+ "id": "5a80cecb170ebd4e2f32a9d5",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1116,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EYXDtdss",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.4",
+  "actual_result": "You are brought to the same channel you were viewing at step 2",
+  "expected_result": "You are brought to the channel you were mentioned",
+  "short_description": "When Discord is minimized, re-opening it through a push notification will not bring you to the channel you were mentioned, if and only if you are opening the notification in the opposite screen orientation from when you minimized Discord.",
+  "steps_to_repro": "- First, **kill** Discord completely from Recent Tasks (this may be an important step) - Open Discord, and be viewing a random channel. - Take note of your current screen orientation. Example: **Portrait** - Minimize Discord using the Home button - Open another random app on your device - Change your screen orientation to **the opposite** of the one noted at step 3. In my case, **Landscape** - Have someone mention you in a channel, different than the one you were viewing at step 2. This is to trigger a push notification. - **While keeping the screen orientation of step 6**, open the push notification"
+ }
+}

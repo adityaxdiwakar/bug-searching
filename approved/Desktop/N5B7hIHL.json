@@ -1,0 +1,16 @@
+{
+ "id": "58c5a12e6e5582ec3ed3a445",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 414,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/N5B7hIHL",
+ "data": {
+  "system_settings": " Windows 10 Pro x64 AU, Canary",
+  "actual_result": "filter is broken and doesn't return messages from the user, but will search for any messages with the username as text, if there are any",
+  "expected_result": "search works and returns messages from specified user",
+  "short_description": "Searching for someone with # at the beginning of their username with the from filter breaks it",
+  "steps_to_repro": "- Find a server where someone has a username that begins with a # (can't be just a nickname) - Search for messages from them with the from: filter "
+ }
+}

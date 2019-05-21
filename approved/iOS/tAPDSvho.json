@@ -1,0 +1,24 @@
+{
+ "id": "5b32abb0aa872617a557449d",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 814,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tAPDSvho",
+ "data": {
+  "system_settings": "iPhone 6s 11.4",
+  "client_settings": "TestFlight IOS 2.3.4",
+  "actual_result": "Instead of getting deleted, an empty message remains, and an edited mark is visible",
+  "expected_result": "The message should be automatically deleted when all characters are deleted",
+  "short_description": "Using backspace to edit message leaves a ghostmessage",
+  "steps_to_repro": "- Write a message - Edit it - Press backspace to delete the message"
+ }
+}

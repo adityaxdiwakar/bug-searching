@@ -1,0 +1,30 @@
+{
+ "id": "5a388a85851d3900a58e6b7e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1476,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/v5kldMkc",
+ "data": {
+  "system_settings": "Windows 10 Fall Creators Update (10.0.16299 Build 16299)",
+  "client_settings": "Release Channel: canary, Build Number: 8829",
+  "actual_result": "Discord does nothing.",
+  "expected_result": "Window should window-ize, say, shrink from full screen to windowed.",
+  "short_description": "Double clicking title bar of maximized window fails to window-ize application",
+  "steps_to_repro": "- Boot up Discord Desktop - Maximize Discord window - Move mouse as far up as you can go over the title bar - Double Click"
+ }
+}

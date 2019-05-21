@@ -1,0 +1,16 @@
+{
+ "id": "58ec86279e3f7cabf9382be9",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 339,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/uZuH6p4l",
+ "data": {
+  "system_settings": " Android 5.1 Discord 3.5.9",
+  "actual_result": "It takes you to your DM",
+  "expected_result": "it starts the DM",
+  "short_description": "when starting a new conversation with someone it fails",
+  "steps_to_repro": "- click on start or find a conversation - search for a user you don't have any history with - click on them "
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "581a51ad11ac367fba0e8a70",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 87,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/lKh77HTh",
+ "data": {
+  "actual_result": "Invalid 2FA Token (Submitted for mralext20#8975)",
+  "expected_result": "Server is deleted.",
+  "short_description": "Cannot delete server with 2FA enabled",
+  "steps_to_repro": "- Enable 2FA - Try to Delete Server "
+ }
+}

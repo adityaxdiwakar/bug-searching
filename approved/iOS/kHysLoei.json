@@ -1,0 +1,30 @@
+{
+ "id": "59f1d1e2e51ccec55a2c58e2",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 393,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kHysLoei",
+ "data": {
+  "system_settings": "iOS 11.0.3, iPhone 7",
+  "client_settings": "TestFlight 1.9.3 (1336)",
+  "actual_result": "Role list will not show until you scroll up/down.",
+  "expected_result": "List of roles shows up with no problem",
+  "short_description": "After creating a role with a very long name, the role list will not show until you swipe up/down.",
+  "steps_to_repro": "- Create a new role. - Name the role something ridiculously long or with lots of W's. - Exit the role settings page."
+ }
+}

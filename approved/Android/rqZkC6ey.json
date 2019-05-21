@@ -1,0 +1,17 @@
+{
+ "id": "5ba97ee42c4d8f7b4bfda0f5",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2009,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rqZkC6ey",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "No spinner icon. So you don't know when it's loading more or when you reached the end",
+  "expected_result": "When you reach the bottom of loaded entries, it should display a spinner icon as the chat/search results do",
+  "short_description": "[Audit Logs] No spinner icon when it's loading more entries as you scroll down",
+  "steps_to_repro": "- Access Audit Logs in a server with lots of entries - Scroll down fast so it stops you before it's loading more - Try scroll down more after a few moments"
+ }
+}

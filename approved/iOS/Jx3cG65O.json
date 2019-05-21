@@ -1,0 +1,17 @@
+{
+ "id": "5ad77704e46994a07a05d99b",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 684,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Jx3cG65O",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.2.3",
+  "client_settings": "2.3.0 Testflight",
+  "actual_result": "it appears under the keyboard",
+  "expected_result": "the keyboard should go away and the menu pops up",
+  "short_description": "(Hard to describe) If you press hold on someone name, press mention, delete it, the mention bar is still there, then if you press hold on another message, the pop up (mention, copy text, etc) appears under your keyboard",
+  "steps_to_repro": "- go to a server with a good amount of messages *5-10 at least* - press hold on a person, and tap mention - delete the whole mention, so where only the bar with users is there - press hold a message without touching anything else, and wait for bug"
+ }
+}

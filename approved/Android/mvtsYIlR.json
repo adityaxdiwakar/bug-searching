@@ -1,0 +1,30 @@
+{
+ "id": "5b9d92431921674cb2f73426",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1985,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mvtsYIlR",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.5.2",
+  "actual_result": "No indication appears",
+  "expected_result": "The hashtag will darken indicating you've muted the channel",
+  "short_description": "Muting a channel that isnt a public channel while you're focused on it causes it to appear as if there are no changes until you focus on another channel",
+  "steps_to_repro": "- Mute a channel that not everyone has access to (meaning it has a lock next to the hastag) - Observe the channel - Optional: go to a different channel"
+ }
+}

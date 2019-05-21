@@ -1,0 +1,30 @@
+{
+ "id": "5b728f6e3a409022ff692b68",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1833,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aIviTbWx",
+ "data": {
+  "system_settings": "Samsung Galaxy S9 8.0",
+  "client_settings": "Discord Alpha 7.3.1",
+  "actual_result": "The scroll bar extends below the keyboard, causing results to be hidden while it's up",
+  "expected_result": "When the keyboard is up, the scroll bar should adjust to the new size instead of extending below the keyboard (Like Search correctly does)",
+  "short_description": "Keyboard in Quick Switcher hides results",
+  "steps_to_repro": "- Open the Quick Switcher - Search something that will give you enough results to fill up your screen - Scroll down to the bottom of the results and then close your keyboard to observe the results that were hidden"
+ }
+}

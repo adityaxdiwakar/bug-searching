@@ -1,0 +1,30 @@
+{
+ "id": "5b2d11150ca91a59788b5b19",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2183,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gwQ0lztT",
+ "data": {
+  "system_settings": "Win10 64bit,  DesktopApp",
+  "client_settings": "Release Channel: stable, Build Number: 17451, Version Hash: bc5992a571877e202ab7df318bc9bb437e0aaf11",
+  "actual_result": "Scrolls up with every linebreak so you cant see the chat anymore. (Admins told me, to resubmit with the note: its stable only)",
+  "expected_result": "You can always see the complete text of the chat",
+  "short_description": "Discord isnt pinned at the end of the Chat anymore, so that Line-Breaks so automatically scroll up, which is really annoying when answering big texts",
+  "steps_to_repro": "- Scroll completly down - type some text - make Line-break (with shift+enter) - see it scroll up automatically - scroll manually down - make a new break - loop"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ad4efd991bc68fedd49a19d",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1855,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3fd4w0Os",
+ "data": {
+  "system_settings": "Win10 x64",
+  "client_settings": "Canary 13630",
+  "actual_result": "The text is outside of the tooltip and behind the scrollbar. Also trying to change the limit will crash Discord",
+  "expected_result": "The string No limit translated (\u039a\u03b1\u03bd\u03ad\u03bd\u03b1 \u038c\u03c1\u03b9\u03bf) should be \"inside\" the tooltip",
+  "short_description": "While using Greek as Discord's language the string in VC settings is not inside the user limit tooltip",
+  "steps_to_repro": "- Set Discord's language to Greek - Click the cog next to a voice channel to access the channel's settings - While in the Overview tab hover the cursor over the User limit scroll bar while it is on the far left (unlimited users)"
+ }
+}

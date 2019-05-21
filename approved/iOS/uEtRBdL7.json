@@ -1,0 +1,17 @@
+{
+ "id": "5bfc6b066d23721c4ed158b4",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1171,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/uEtRBdL7",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "Test typed after the discrim does not get auto-deleted",
+  "expected_result": "Text typed after the discrim is auto-deleted",
+  "short_description": "Text typed after the discrim in the add friend page no longer auto-deletes",
+  "steps_to_repro": "- Go to the add friend screen - Type a random name and a discrim - Continue typing more text after the discrim - Observe what happens to the text"
+ }
+}

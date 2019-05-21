@@ -1,0 +1,30 @@
+{
+ "id": "5b91952f810a7d4d27471791",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2931,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Xunva1GE",
+ "data": {
+  "system_settings": "Windows 10 Home (1803)",
+  "client_settings": "Discord Canary Build 23182",
+  "actual_result": "The message doesn't send",
+  "expected_result": "The message sends and you are brought to the DM channel",
+  "short_description": "Sending a message through the mini profile does not send",
+  "steps_to_repro": "- Go into a server - Click on someone to bring up their mini profile - Try and send a message through the small text bar"
+ }
+}

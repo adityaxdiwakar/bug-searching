@@ -1,0 +1,36 @@
+{
+ "id": "5a04f0cb635f225e0551198c",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 421,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pcVFHSU7",
+ "data": {
+  "system_settings": "iPad Air 2, iOS 11.1.1",
+  "client_settings": "TestFlight 1.10.0 (1547)",
+  "actual_result": "They are not hooked.",
+  "expected_result": "Subheadings for the search results should be hooked to the top.",
+  "short_description": "[iPad only] Quick Switcher's subheadings not hooked to the top",
+  "steps_to_repro": "- Go with your iPad to your direct messages - Click on the search there (\"Find or start a conversation\") - Search for something like \"Test\" - Scroll a bit in the search results"
+ }
+}

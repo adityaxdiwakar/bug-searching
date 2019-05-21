@@ -1,0 +1,24 @@
+{
+ "id": "59c4ebc6dc7dd2a8cb8c89d1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1181,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/niyk1d7L",
+ "data": {
+  "system_settings": "Windows 7 (x64) Home Premium",
+  "client_settings": "Canary 0.0.163 (4730)",
+  "actual_result": "The unmuted category will un-collapse",
+  "expected_result": "You just unmute the category and it's normal",
+  "short_description": "When un-muting a category while it is collapsed will un-collapse it",
+  "steps_to_repro": "- Create a category (if you don't have one) - Collapse the category - Mute the category - Unmute the category"
+ }
+}

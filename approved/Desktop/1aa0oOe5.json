@@ -1,0 +1,30 @@
+{
+ "id": "5a349006f04ba6c2afc2a83d",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1462,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1aa0oOe5",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord Canary 0.0.186, Build 8737",
+  "actual_result": "Role UI is white",
+  "expected_result": "Role UI is grey like elsewhere Role UIs on the Dark Theme",
+  "short_description": "Role UI is white when opened through a user who has enough roles in Members in a server's Server Settings on Dark Theme",
+  "steps_to_repro": "- Open Members in a server's Server Settings - Find a user who has enough roles to create the plus sign for roles - Open the Role UI"
+ }
+}

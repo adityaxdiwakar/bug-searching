@@ -1,0 +1,23 @@
+{
+ "id": "59193ea76fec07fa4dff12a6",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 457,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Vxq9plvm",
+ "data": {
+  "system_settings": " Android 6.0.1 Marshmallow with Discord Android 3.8.6",
+  "actual_result": "yellow emoji with :skin_tone_n: n is integer",
+  "expected_result": "Non yellow skintone",
+  "short_description": "Skintone change not work",
+  "steps_to_repro": "- Use skintone change on changable skintone emoji - Observe "
+ }
+}

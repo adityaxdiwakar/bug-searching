@@ -1,0 +1,17 @@
+{
+ "id": "5bdb5d3cb6c35c664e101c1f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3333,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/O96ScjWm",
+ "data": {
+  "system_settings": "Windows 10 Home 64 bit",
+  "client_settings": "Canary 27375",
+  "actual_result": "None of my applications get detected",
+  "expected_result": "You should be able to add custom applications as game",
+  "short_description": "Unable to add custom applications to game list on latest 27375 Canary",
+  "steps_to_repro": "- Try adding any program as custom game"
+ }
+}

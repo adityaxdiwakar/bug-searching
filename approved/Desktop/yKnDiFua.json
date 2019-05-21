@@ -1,0 +1,15 @@
+{
+ "id": "5854424de55d05dbdcb75aca",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 252,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yKnDiFua",
+ "data": {
+  "actual_result": "Window bar and menu bar cover the close, minimize and maximize buttons",
+  "expected_result": "the close, minimize and maximize buttons will either move down or an extra set will appear in the window bar",
+  "short_description": "When in full screen (macOS) moving cursor to menu bar the window covers the close, minimize and fullscreen buttons",
+  "steps_to_repro": "- Press the fullscreen button on MacOS - Move cursor to top of screen to show menu bar "
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "590d71063d16c74f46724d89",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 608,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yXImTVjS",
+ "data": {
+  "system_settings": " Windows 10, Latest Canary",
+  "actual_result": "GIF indicator over icon of sender",
+  "expected_result": "Show GIF indicator in \"text area\"",
+  "short_description": "If you post a GIF 1x1 it displays the GIF indicator over the icon on the sender",
+  "steps_to_repro": "- Step 1 Post GIF 1x1 "
+ }
+}

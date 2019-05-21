@@ -1,0 +1,17 @@
+{
+ "id": "5be7a2f48398ae4bcb52aecc",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2307,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xhbSAcOT",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.8.8",
+  "actual_result": "There's no action. You cannot sort the server, and your status goes invisible.",
+  "expected_result": "The server you have selected, gets sorted.",
+  "short_description": "You cannot sort servers in 7.8.8.",
+  "steps_to_repro": "- Attempt to sort a server in 7.8.8."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b71a37b18352950372ac11c",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 901,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YCKx7579",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 6",
+  "client_settings": "TestFlight 2.3.6 (6691)",
+  "actual_result": "The line from how tall the message bar was before the message was sent appears",
+  "expected_result": "No extra line appears",
+  "short_description": "Top line from the message box shows when sending a multi-line message on poor connection",
+  "steps_to_repro": "- Make sure you're on poor connection - Type a message that is at least 2 lines long (bug will not occur if message is only one line long) - Observe where the top of the message box before sending the message - Watch where the top of the message box was as you send the message - May not happen every time, so try multiple times"
+ }
+}

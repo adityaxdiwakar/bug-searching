@@ -1,0 +1,24 @@
+{
+ "id": "59c53686d9ef2b72a6e17daf",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1182,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/r54XG6VC",
+ "data": {
+  "system_settings": "W10x64",
+  "client_settings": "Canary 4743",
+  "actual_result": "Clyde shows your previous nickname as a mention.",
+  "expected_result": "Clyde's message should show your new username raw as the <@URID>",
+  "short_description": "Setting your nick to you id mention makes Clyde show your old nick",
+  "steps_to_repro": "- Give yourself any nickname on a server - Use /nick <@URID> - Observe the message Clyde sends"
+ }
+}

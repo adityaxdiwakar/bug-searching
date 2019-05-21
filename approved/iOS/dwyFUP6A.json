@@ -1,0 +1,30 @@
+{
+ "id": "59fe5c6b637ed6e856b943b6",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 416,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dwyFUP6A",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.1 & iPad Air 2 with iOS 11.2 PB 1",
+  "client_settings": "TestFlight 1.10.0 (1476)",
+  "actual_result": "You won't see any change for the reactions in the chat preview but opening the chat directly will show it. So just a visual bug.",
+  "expected_result": "You should see that your reaction was added or removed.",
+  "short_description": "Clicking on current reactions in chat preview won't show whether reaction was added/removed",
+  "steps_to_repro": "- Send a message and add some reactions for it - Now pin this message or search for this message - Open the pinned/searched message and go to the chat preview by clicking on this message - Click on the current reactions to add or remove one"
+ }
+}

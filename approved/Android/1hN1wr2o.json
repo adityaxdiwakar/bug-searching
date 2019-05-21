@@ -1,0 +1,24 @@
+{
+ "id": "59b6b2199511e69d24064243",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 702,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1hN1wr2o",
+ "data": {
+  "system_settings": "Samsung Galaxy 6 5 Android 6.0.1",
+  "client_settings": "5.1.4 Alpha",
+  "actual_result": "It still shows the option which its changed to and doesn't change and at times also says missing permissions. Gets fixed when we exit that menu.",
+  "expected_result": "The visuals should change and show that I have selected the option.",
+  "short_description": "Channel Notifications settings visuals are bugged when we change a setting and try to change again.",
+  "steps_to_repro": "- Go to your channel notification settings of any channel - Change to a different notification setting - Try to change the notification settings again without exiting"
+ }
+}

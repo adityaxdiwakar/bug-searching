@@ -1,0 +1,24 @@
+{
+ "id": "5b610fb523508f8a0fe9a9d3",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2554,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/A7ziq7Y3",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 20414",
+  "actual_result": "You will get notifications for every message sent, even if you are viewing the channel",
+  "expected_result": "You shouldn't get desktop notifications/sounds for those servers",
+  "short_description": "When a server is on \"all messages\" notification by default, you will get desktop notifications + noises even though you set it to mentions only while overlay is on",
+  "steps_to_repro": "- Join a server that has \"all messages\" notification settings on - Mute the server to \"mentions only\" - Start up a game with overlay - Have people send messages in those channels"
+ }
+}

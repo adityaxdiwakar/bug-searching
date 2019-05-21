@@ -1,0 +1,23 @@
+{
+ "id": "5918507b3e79cc8a80034b66",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 645,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KjGUiiWX",
+ "data": {
+  "system_settings": " Mac Os Sierra Version 10.12.4, Discord Canary",
+  "actual_result": "The server mute check mark freezes.",
+  "expected_result": "Server Mute to turn on and off repeatedly.",
+  "short_description": "Spamming Server Mute breaks",
+  "steps_to_repro": "- Step one - Right click on someone in voice and spam server mute and then it freezes. "
+ }
+}

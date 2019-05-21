@@ -1,0 +1,30 @@
+{
+ "id": "5b95c3888e67295c3fcca219",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1959,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/K2DMWrpR",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.4.8",
+  "actual_result": "Username/discriminator gets off screen and you need to rotate to Landscape to see them",
+  "expected_result": "The nickname should cut off early to make place for the real username/discriminator",
+  "short_description": "Long nicknames push away the real name/discriminator in from: search filter suggestions",
+  "steps_to_repro": "- Set youself a very long nickname - Go to Search and select the from: filter - Start typing out your nickname (not your username)  - Observe the suggestions in both portrait and landscape orientation"
+ }
+}

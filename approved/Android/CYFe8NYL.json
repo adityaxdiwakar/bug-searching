@@ -1,0 +1,24 @@
+{
+ "id": "59f22010451596c2cff642dd",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 852,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CYFe8NYL",
+ "data": {
+  "system_settings": "Lenovo Tab 2 A7-10, Android 5.0",
+  "client_settings": "Android Alpha 5.5.0",
+  "actual_result": "The default icon server is not correctly formatted (Ex: j13263)",
+  "expected_result": "The default icon server is correctly formatted (Ex: jh)",
+  "short_description": "When you make a long server name with numbers (Ex: j13263562h h), the default server icon is not correctly formatted.",
+  "steps_to_repro": "- Create a server with a one letter and a lot of numbers and don't upload icon server (ex: j13263562h h) - Observe the default icon server"
+ }
+}

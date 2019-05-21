@@ -1,0 +1,17 @@
+{
+ "id": "5b4e34a79daa2d86a238e8bb",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2293,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bTCuqYIY",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 18958",
+  "actual_result": "Weird animation/pop",
+  "expected_result": "No weird pop",
+  "short_description": "When you enter a channel, and the message has reactions, the reactions pop in",
+  "steps_to_repro": "- Go to a channel that has a message with reactions on it - Observe the reactions on the message as you enter the channel"
+ }
+}

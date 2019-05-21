@@ -1,0 +1,30 @@
+{
+ "id": "5b622c1ed75bb6d158fa2bde",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2578,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/36vXRKGn",
+ "data": {
+  "system_settings": "Win 7 x64",
+  "client_settings": "Canary 20447",
+  "actual_result": "Text goes up several pixels, and is not centred",
+  "expected_result": "Text in BOT tag is centred like in DM",
+  "short_description": "Bot text in bot lable is not centred [Zoom Specific]",
+  "steps_to_repro": "- Switch to 90% zoom - Go to server - Find any bot - Observe BOT tag"
+ }
+}

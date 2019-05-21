@@ -1,0 +1,24 @@
+{
+ "id": "5b9b3d345b3bf883af319eb1",
+ "closed": false,
+ "idList": "5b2c2c15607b8393dd858ccb",
+ "idShort": 1011,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7ohIckin",
+ "data": {
+  "system_settings": "iPad Air 2, iOS 12 Public Beta 10",
+  "client_settings": "TestFlight 2.3.7 (6968)",
+  "actual_result": "The same text (or more text) appears in both channels.",
+  "expected_result": "The text should only be shown in the first channel and not in both.",
+  "short_description": "[iPad only] Same draft text appears in a second channel",
+  "steps_to_repro": "- Make sure your iPad is in landscape mode - Go to any text channel (e.g. #test) - Start writing a text - While writing the text switch to a different (it is important that this happens while still typing text) channel by clicking on any channel in the channel list (e.g. #test-2) - Switch back to the first channel (#test) - Open the second channel again (#test-2)"
+ }
+}

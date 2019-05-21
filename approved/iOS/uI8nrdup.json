@@ -1,0 +1,30 @@
+{
+ "id": "5b2c29b2c4755933094581f9",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 796,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uI8nrdup",
+ "data": {
+  "system_settings": "iOS 12b2, iPhone 7 Plus",
+  "client_settings": "TestFlight 2.3.4",
+  "actual_result": "Does not fully expand",
+  "expected_result": "Box will expand to show full description",
+  "short_description": "Long channel description does not fully expand",
+  "steps_to_repro": "- Open the sidebar on a channel with an overflowing description - Click the description"
+ }
+}

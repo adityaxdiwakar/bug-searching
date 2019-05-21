@@ -1,0 +1,24 @@
+{
+ "id": "591a05ef8aed13bed429349e",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 654,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2ArQysxn",
+ "data": {
+  "system_settings": "Ubuntu 16.04.2 LTS x64",
+  "client_settings": "Discord Canary",
+  "actual_result": "The message causes the textboxes to shorten",
+  "expected_result": "The \"slow down\" message should appear and not shorten the textboxes",
+  "short_description": "The \"You are changing your avatar too fast\" message causes the text boxes to shrink.",
+  "steps_to_repro": "- Go into My Account in Settings - Change your avatar over and over again"
+ }
+}

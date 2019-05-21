@@ -1,0 +1,17 @@
+{
+ "id": "5b6e25de15a6b83cf4f87ebe",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 892,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Z40GEKYr",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.4.1",
+  "client_settings": "iOS TestFlight 2.3.6 (6691) - Desktop Canary 21440",
+  "actual_result": "The comment disappears",
+  "expected_result": "The comment stays in the box after the theme change",
+  "short_description": "Changing theme while adding a video attachment with a comment deletes the comment",
+  "steps_to_repro": "- Have both Desktop and iOS Discord open - On iOS, tap to add an attachment where you have permission to add attachments - Tap \"Camera Roll\" - Select a VIDEO - Begin to type a comment - On Desktop, change your theme - *poof* comment vanished"
+ }
+}

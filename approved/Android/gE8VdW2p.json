@@ -1,0 +1,30 @@
+{
+ "id": "59cdf916db92a4b065fbb910",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 771,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gE8VdW2p",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 5.2.6",
+  "actual_result": "image disappears from input field",
+  "expected_result": "image still in input field",
+  "short_description": "image clears itself when rotating",
+  "steps_to_repro": "- click the plus - choose an image - go back to keyboard - rotate the screen"
+ }
+}

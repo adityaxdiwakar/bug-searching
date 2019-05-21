@@ -1,0 +1,17 @@
+{
+ "id": "59e82682138611ca2eb3c9ae",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 822,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qyHIV3OA",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "540 Alpha",
+  "actual_result": "It pops up a message that says Unknown Channel.",
+  "expected_result": "It goes to a screen where you can select whom you want to call",
+  "short_description": "pressing the phone icon in the friends list screen results in a \"unknown channel toast\"",
+  "steps_to_repro": "- Update to 540 - Go to friends list screen and press the phone icon (DM call button)"
+ }
+}

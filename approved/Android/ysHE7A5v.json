@@ -1,0 +1,17 @@
+{
+ "id": "5b07315f5d657ca60665d656",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1464,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ysHE7A5v",
+ "data": {
+  "system_settings": "OnePlus 5T, Android 8.1.0",
+  "client_settings": "Discord Alpha 6.7.9",
+  "actual_result": "Gives a 404",
+  "expected_result": "Should bring you to the \"card-validator\" page",
+  "short_description": "Link in acknowledgements gives 404",
+  "steps_to_repro": "- Go to settings - Open acknowledgements - Open the \"card-validator\" link"
+ }
+}

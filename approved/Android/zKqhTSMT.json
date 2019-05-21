@@ -1,0 +1,30 @@
+{
+ "id": "5a5a6065cd3c689e0aef7ff4",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1035,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zKqhTSMT",
+ "data": {
+  "system_settings": "Pixel XL 2, Android 8.1",
+  "client_settings": "Alpha 6.0.8",
+  "actual_result": "The invite isn't clickable and acts like regular text",
+  "expected_result": "The invite should resolve correctly",
+  "short_description": "Invite links aren't resolved correctly if in a sentence",
+  "steps_to_repro": "- Send a message with some text in it and an invite link"
+ }
+}

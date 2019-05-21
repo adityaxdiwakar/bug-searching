@@ -1,0 +1,17 @@
+{
+ "id": "5bf15a6dc12bea03673eb2fb",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3405,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XcXBUg68",
+ "data": {
+  "system_settings": "Windows 10 64x (1809)",
+  "client_settings": "Canary 28192, 0.0.222",
+  "actual_result": "They join together and the chat window is incorrectly sized causing the window to assume chat is larger and hide a bit of chat + the pin button.",
+  "expected_result": "They join together and the chat window is correctly sized",
+  "short_description": "[Overlay] Pinning Chat and Server/Channel list together while Chat is on far right, causes it to expect window to be larger.",
+  "steps_to_repro": "- Open a lovely game with overlay - Open the overlay - Pin Chat + Server/Channel list together (So unpin chat from showing) - Make the window slightly large. - Unpin chat from the server/channel list. - Make Chat window small (width), and drag to far right of the screen - Pin Chat + Server/Channel list together (Again)"
+ }
+}

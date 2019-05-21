@@ -1,0 +1,30 @@
+{
+ "id": "5bca8f1ced00758f77bdb686",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2201,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Zvxv0gbq",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0 with August security patches (R16NW.G930FXXU2ERH4)",
+  "client_settings": "Android 7.6.9",
+  "actual_result": "Discord opens and shows you the last chat you were in with a toast notification saying \"You are unauthorized to perform this request.\"",
+  "expected_result": "Discord should open and show the correct conversation",
+  "short_description": "Opening Discord from a notification for a DM from an account you've never DMed before fails with a toast notification saying \"You are unauthorized to perform this request.\"",
+  "steps_to_repro": "- Create a throwaway account (that's the easiest way to get an account you've never talked to before) - Close Discord on your \"main\" account to make sure you'll get the notification (completely close it from the app switcher) - Send a message from your throwaway account to your main - Open it from the notification"
+ }
+}

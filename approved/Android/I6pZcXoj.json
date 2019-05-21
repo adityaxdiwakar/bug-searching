@@ -1,0 +1,30 @@
+{
+ "id": "5a3505dea6c18be72586e43a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 963,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I6pZcXoj",
+ "data": {
+  "system_settings": "LG G6",
+  "client_settings": "Android ver. 5.8.3",
+  "actual_result": "It rotate but disappear the text behind the share box",
+  "expected_result": "It rotates and show the text behind the share box",
+  "short_description": "When you press the sharr button in the debug in the profile settings and rotate the screen two times the text bwhind the share screen disappear",
+  "steps_to_repro": "- Go to profile config - Click debug - Rotate the device two times after pressing the sahre button pre"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a3aebaf841316b58b6c41d5",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 977,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZJXAjd9i",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "589",
+  "actual_result": "It doesn't auto pop up",
+  "expected_result": "keyboard pops up just like it did on previous versions",
+  "short_description": "when editing a message on 589 the keyboard doesn't automatically pop up like previous versions",
+  "steps_to_repro": "- long press on a message - tap the edit message button on the sexy new menu - notice your keyboard doesn't pop up automatically, for me it's Gboard"
+ }
+}

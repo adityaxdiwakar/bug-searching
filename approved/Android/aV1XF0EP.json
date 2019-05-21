@@ -1,0 +1,30 @@
+{
+ "id": "5be08cbc70b89c0dfd46ab74",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2286,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aV1XF0EP",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.8.6",
+  "actual_result": "The category still appears after you've muted the channels; Interacting with the category makes it hidden",
+  "expected_result": "The category should be hidden along with the channels you've muted",
+  "short_description": "Muting multiple channels within a category then collapsing the category and hiding muted channels will still show the collapsed category on the channel list until you interact with it",
+  "steps_to_repro": "- Mute multiple chanels within a category - Collapse the category - Select \"Hide Muted Channels\" in the server settings (this setting needs to be set to the \"Show Muted Channels\" first in order for the bug to work) - Observe - Uncollapse the category"
+ }
+}

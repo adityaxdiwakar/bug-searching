@@ -1,0 +1,30 @@
+{
+ "id": "5bbd9ee7eaf2f7619dabbb23",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3148,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/taephRS6",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Canary 25872",
+  "actual_result": "It doesn't close, saying \"Something is wrong with your credit card number\", making you click twice to close it.",
+  "expected_result": "It closes.",
+  "short_description": "Closing out Nitro payment with a random card number says error with a card number.",
+  "steps_to_repro": "- Go to nitro tab, and attempt to add a new payment method via credit cards. - On the credit card number section, type random numbers in, and attempt to close it with those random numbers in place."
+ }
+}

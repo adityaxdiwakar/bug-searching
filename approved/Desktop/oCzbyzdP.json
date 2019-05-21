@@ -1,0 +1,30 @@
+{
+ "id": "5acc2a232a0d36dd73c7b3da",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1821,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oCzbyzdP",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS, Asus Netbook F551C, Intel Core i3 64bits",
+  "client_settings": "Discord Canary 13313",
+  "actual_result": "The lines break after a hyphen, showing only the 4 first letters in the server switcher and renders in a chaotic way in Mutual Servers (certainly as a consequence of bug ZkshyYPj)",
+  "expected_result": "Especially in the case where there are only 4 words before the hyphen, everything should be on a single line, as if there were no hyphens",
+  "short_description": "If a pictureless server has a name containing hyphens every 4+ words, the server icon will render with linebreaks after each hyphen (shows only the first line in server switcher, and shows all lines in a chaotic way in Mutual servers and Server settings)",
+  "steps_to_repro": "- Create a brand new server - Give it a name with a lot of words and with hyphens every 4 words (4 is the minimum), example `a a a a-a a a a-a a a a-a a a a` - (Optional) Invite someone to the server (Not a bot!) and open his Mutual Servers"
+ }
+}

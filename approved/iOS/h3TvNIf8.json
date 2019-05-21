@@ -1,0 +1,34 @@
+{
+ "id": "589d24fd5ac38b4984c0842b",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 185,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/h3TvNIf8",
+ "data": {
+  "actual_result": "Square avatar System Info: iPhone 7, 10.2, Discord Version 1.8.2 (65)",
+  "expected_result": "round avatar",
+  "short_description": "1x1 transparent avatar shows as a black square",
+  "steps_to_repro": "- launch app - scroll through Bug Hunter member list to find Official Joe - Observe "
+ }
+}

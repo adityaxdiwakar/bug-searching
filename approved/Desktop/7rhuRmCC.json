@@ -1,0 +1,24 @@
+{
+ "id": "597c3263226d52a1c2b03437",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 910,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7rhuRmCC",
+ "data": {
+  "system_settings": "MacOS 10.12.6 MacBook Air",
+  "client_settings": "Desktop Canary 0.0.152",
+  "actual_result": "The sound continues",
+  "expected_result": "The notification sound is meant to stop",
+  "short_description": "When you play a notification example sound from settings, it doesn't stop when you leave the page or leave settings.",
+  "steps_to_repro": "- Open User Settings - Go to Notifications - Play an example sound of a notification alert (Outgoing and Incoming ring) - Close settings - Observe"
+ }
+}

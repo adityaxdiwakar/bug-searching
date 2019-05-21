@@ -1,0 +1,30 @@
+{
+ "id": "5afb308e8cda5d77c5026e92",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1421,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HU6Fz5N5",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 Android 8.0",
+  "client_settings": "6.6.1",
+  "actual_result": "Emotes are Alphabetized Backwards",
+  "expected_result": "Emotes should be Alphabetized normally",
+  "short_description": "Emotes not ordered properly in emote selector",
+  "steps_to_repro": "- Click the Smiley to open Emote chooser - Search for an emoji that has similar string (I found that regional_indicator works pretty well)"
+ }
+}

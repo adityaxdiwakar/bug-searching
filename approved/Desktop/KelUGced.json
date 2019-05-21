@@ -1,0 +1,30 @@
+{
+ "id": "5ac25222e60b986f7acf4245",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1782,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KelUGced",
+ "data": {
+  "system_settings": "macOS 10.13",
+  "client_settings": "Discord Canary 12955",
+  "actual_result": "- every now and then the new message bar will not have a red line",
+  "expected_result": "- the new message line should always have a red line on the side",
+  "short_description": "Red line on new messages sometimes disappear when zoomed out [possibly macOS only]",
+  "steps_to_repro": "- go to user settings, appearance and change your zoom level to 90% - continue using Discord normally, such as chatting, reading unread messages in different channels and servers"
+ }
+}

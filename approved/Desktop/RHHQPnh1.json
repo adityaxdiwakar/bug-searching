@@ -1,0 +1,30 @@
+{
+ "id": "5c1493907d72f76dacba520d",
+ "closed": false,
+ "idList": "5c148a9d85de9b479596b253",
+ "idShort": 3501,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RHHQPnh1",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Release Channel: canary, Build Number: 29791, Version Hash: 91fe31a6f31528f785ea3181dddce496e79e8ae2",
+  "actual_result": "Gif menu closes",
+  "expected_result": "Correct word spelling and continue to search for gifs",
+  "short_description": "Gif Picker Modal closes after using spell checker",
+  "steps_to_repro": "- Open gif picker - Misspell a word - Left click and click the correct word on the drop down menu"
+ }
+}

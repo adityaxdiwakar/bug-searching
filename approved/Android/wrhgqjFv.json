@@ -1,0 +1,17 @@
+{
+ "id": "5b811030b812a25998d2f099",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1882,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wrhgqjFv",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 740",
+  "actual_result": "The sheet remains open.",
+  "expected_result": "Like by long pressing someone's username in chat and then clicking on back, the mini profile closes and by clicking on any of the other options on message action sheet, the sheet closes, the sheet should close once it has served it's purpose.",
+  "short_description": "When you access someone's profile through the message action sheet and close the profile using the back button, the action sheet is still open.",
+  "steps_to_repro": "- Long press on someone's message. - Click on the profile option to open their profile. - Close their profile."
+ }
+}

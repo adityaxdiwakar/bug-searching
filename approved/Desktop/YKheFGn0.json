@@ -1,0 +1,16 @@
+{
+ "id": "58f4d8f06253969b4fd3db34",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 498,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YKheFGn0",
+ "data": {
+  "system_settings": " Windows10 x64, latest canary",
+  "actual_result": "\"Oh \ud83d\udca9 our help articles failed to load\"",
+  "expected_result": "Discord's main help articles show up",
+  "short_description": "Help button (top right corner) doesn't load questions when opened",
+  "steps_to_repro": "- Click the help button (question mark at top right) - Wait for loading to finish (around 10 seconds) "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59b91237d6531035a80f5b0d",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 707,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e9",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can still reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/U9FgbMpK",
+ "data": {
+  "system_settings": "Samsung Galaxy A3 2017, Android Nougat 7.0",
+  "client_settings": "Android Alpha 5.1.4",
+  "actual_result": "The server picture isn't change on android",
+  "expected_result": "The server picture should be same with desktop",
+  "short_description": "Server picture not changed on android",
+  "steps_to_repro": "- Make the server change the picture from desktop - Look the server picture on android"
+ }
+}

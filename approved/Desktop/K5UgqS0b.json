@@ -1,0 +1,30 @@
+{
+ "id": "5b7644b0bb4f5d65210467c8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2731,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/K5UgqS0b",
+ "data": {
+  "system_settings": "Windows 10 1803 x64",
+  "client_settings": "Discord Canary 22083",
+  "actual_result": "Discord displays the payment issue but the issue sounds like I bought a game (see the 14 days/2hours policy thing), but I don't.",
+  "expected_result": "Discord displays the payment issue description related to Nitro (or not showing it at all).",
+  "short_description": "Discord shows refund information for Nitro purchase",
+  "steps_to_repro": "- Buy Nitro (within last 14 days) - Open User Setting > Billing - Expand the latest history (when you buy that Nitro thing) - observe the payment issue description"
+ }
+}

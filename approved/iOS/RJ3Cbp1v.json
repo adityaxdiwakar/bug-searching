@@ -1,0 +1,24 @@
+{
+ "id": "5c0816ff5039b67b57a6bdca",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1217,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RJ3Cbp1v",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9595)",
+  "actual_result": "Backtick markdown formatting only shows up on light theme",
+  "expected_result": "Backtick markdown formatting shows up on both themes",
+  "short_description": "Blocked messages don't show backtick markdown on dark theme",
+  "steps_to_repro": "- Make sure you're on dark theme - Block a user - Have the user send messages containing backtick markdown - Observe the blocked messages - Change to light theme, and observe the blocked messages again"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "588b655bf182027a80dd7bde",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 197,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ml6U4n26",
+ "data": {
+  "system_settings": " Android 4.4.4, v3.3.0, Xperia E4g *(may only be a pre-Lollipop issue)*",
+  "actual_result": "Visual weirdness as code blocks are rendered on top of header and message box",
+  "expected_result": "Code block is rendered behind channel name header (section at top) or message box (section at bottom)",
+  "short_description": "Code blocks cause visual glitches over header and message box when scrolled to over those sections",
+  "steps_to_repro": "- Create a code block (the one with three backticks) - Scroll up or down until code block is scrolled off screen "
+ }
+}

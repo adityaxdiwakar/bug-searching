@@ -1,0 +1,30 @@
+{
+ "id": "5bc96ba70aea868701b807c3",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2198,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XlCciITq",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, 8.0.0",
+  "client_settings": "7.7.5",
+  "actual_result": "The thing shows when you clicked is  the center",
+  "expected_result": "It should be centered like add (accept) button",
+  "short_description": "Denying friend sugesstion button, when you click it the thing shows you clicked ,clicked part is not centered",
+  "steps_to_repro": "- Go to friends - suggestions - Press delete one of suggestion - When you click, the thing shows that you clicked is not centered as accepting"
+ }
+}

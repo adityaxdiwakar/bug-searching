@@ -1,0 +1,23 @@
+{
+ "id": "58dc062909c8a13082de53f2",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 466,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pxpA09BA",
+ "data": {
+  "system_settings": " x64 Windows. Latest Canary.",
+  "actual_result": "Bottom part of the lowercase letter g is cut off in the embed.",
+  "expected_result": "You should be able to see all of the text clearly.",
+  "short_description": "Small bit of the bottom of lowercase letter `g` cut off in the embedded part of a channel invite. (See attached)",
+  "steps_to_repro": "- Have a text channel with lowercase g in it. (The more the better for viewing purpose)  - Get an instant invite link for the text channel with lowercase g and send it to a friend.  "
+ }
+}

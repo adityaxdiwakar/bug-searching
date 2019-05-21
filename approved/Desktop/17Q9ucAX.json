@@ -1,0 +1,16 @@
+{
+ "id": "5810135c0393dd0d8a9fee14",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 63,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/17Q9ucAX",
+ "data": {
+  "system_settings": " Canary ",
+  "actual_result": "No such option",
+  "expected_result": "Have option to Delete",
+  "short_description": "Cannot Right-Click => Delete files",
+  "steps_to_repro": "- Send picture - Rightclick "
+ }
+}

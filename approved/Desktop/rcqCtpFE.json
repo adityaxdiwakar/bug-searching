@@ -1,0 +1,17 @@
+{
+ "id": "5993bc57fbf2f448b877be06",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 999,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rcqCtpFE",
+ "data": {
+  "system_settings": "macOS Sierra Version 10.12.4",
+  "client_settings": "Discord Canary, 0.0.154",
+  "actual_result": "Discord CPU usage jumps to 70-90% and entire computer begins lagging.",
+  "expected_result": "Video calls and scharing your screen won't cause large CPU usage and lag.",
+  "short_description": "Video Chat and Screen Share Overload CPU",
+  "steps_to_repro": "- Start a video call with your best friend. - Open your OS's CPU monitoring program. - Discord Canary/Discord Canary Helper will be using around 40-50% of your CPU. - Start sharing your screen. - Discord will now be using up to 80% of your CPU, and your computer will begin lagging."
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "5901f05e28c2f5bdd74f4fed",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 561,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7Sn4PYOY",
+ "data": {
+  "system_settings": " Win 10 x64 build 16170, Discord Canary",
+  "actual_result": "User is able to select an image and click 'Open', and is then unable to close the Settings until they click 'Reset'",
+  "expected_result": "Nothing should happen, the button should be hidden/disabled.",
+  "short_description": "Clicking \"Upload Image\" for the Server icon opens the dialog even when the user doesn't have permission to change it",
+  "steps_to_repro": "- Give a user Kick & Ban permissions - As the user, open the new settings menu - Click \"Upload Image\" "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bcdcbc72df7d782d6c6fa0a",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1104,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bDvRLIok",
+ "data": {
+  "system_settings": "iOS 12.1, Dev Beta 4",
+  "client_settings": "TestFlight 2.3.9 (8441)",
+  "actual_result": "Error message sometimes disappears after trying to log in",
+  "expected_result": "Error message should consistently stay while details are incorrect",
+  "short_description": "Spamming the button to log in when a password isn't entered causes the error message to randomly hide and show",
+  "steps_to_repro": "- Log out of your account - Tap login - Enter your email and leave the password field blank - Tap login"
+ }
+}

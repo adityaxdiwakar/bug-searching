@@ -1,0 +1,23 @@
+{
+ "id": "58907fe410c2fef6fd59f8ba",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 365,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Pdi1aoEV",
+ "data": {
+  "system_settings": " Arch linux, discord canary 0.0.15",
+  "actual_result": "channels are hiddin until a scroll event",
+  "expected_result": "channels to show up when disconnecting from voice",
+  "short_description": "voice disconnect hides channels",
+  "steps_to_repro": "- join voice channel in a server - switch to a diffrent server - hide channels with the 'voice connected' modal - disconnect from voice "
+ }
+}

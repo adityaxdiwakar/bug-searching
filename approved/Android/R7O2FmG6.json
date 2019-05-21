@@ -1,0 +1,24 @@
+{
+ "id": "5a73190df2f9512e73e928e8",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1088,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/R7O2FmG6",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.1.9",
+  "actual_result": "A few seconds after typing one letter, the app will start freezing. If search results appear for you before that delay of 3-5 seconds, then it didn't generate enough results to reproduce bug",
+  "expected_result": "Search results should be loading in a separate thread in the background so it doesn't freeze the UI. Could eventually be designed with a loading circle on the UI or something",
+  "short_description": "If there are tons of search results in quick switcher, the app can freeze during loading time",
+  "steps_to_repro": "- Be in a lot of average sized servers (personally I'm in 80 servers) - Search for something that will generate a lot of results (e.g just one letter, \"a\" or \"e\") - Wait 3-5 seconds"
+ }
+}

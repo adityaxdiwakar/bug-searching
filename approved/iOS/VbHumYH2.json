@@ -1,0 +1,29 @@
+{
+ "id": "59146282f82ddc372474379a",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 242,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VbHumYH2",
+ "data": {
+  "system_settings": " discord 1.8.5, iPhone SE, 10.2",
+  "actual_result": "it results in some mashed up UI that is just broken",
+  "expected_result": "App shrink texts to fit, or adapts the UI in some other way",
+  "short_description": "Extra-long names break the report dialouge [iPhone and iPod only]",
+  "steps_to_repro": "- set a very long nickname - report the message "
+ }
+}

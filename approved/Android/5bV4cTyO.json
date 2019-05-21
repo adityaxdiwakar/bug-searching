@@ -1,0 +1,24 @@
+{
+ "id": "592cf7b9271b2fd56f38daf3",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 489,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5bV4cTyO",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 7.0",
+  "client_settings": "Discord Alpha 3.9.0",
+  "actual_result": "The \"E\" is cut off",
+  "expected_result": "The Whole word shows up",
+  "short_description": "When font size Is set to Large, the \"E\" Is cut off In \"Done\" In role color picker.",
+  "steps_to_repro": "- Go to your display settings and change your font size to large - Go back to Discord and pick a random role - Go to the color Picker - Notice the \"E\" is cut off in \"Done\""
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b8031276daa8e21684d8882",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2788,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/MyJbvd07",
+ "data": {
+  "system_settings": "MacBook Pro - MacOs Sierra 10.12.6",
+  "client_settings": "Desktop, 22333",
+  "actual_result": "A Discord browser tab is opening saying that the adding of the PayPal details succeeded.",
+  "expected_result": "A Discord browser tab should be opening to say that we canceled the adding of the PayPal details.",
+  "short_description": "Cancelling the addition of a PayPal account does not work correctly.",
+  "steps_to_repro": "- Go to desktop settings > Billing - Click on \"Add Payment Method\" > \"Paypal\" - In the browser tab that is opening, click on \"Cancel and return to Discord Inc.\" -"
+ }
+}

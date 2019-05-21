@@ -1,0 +1,24 @@
+{
+ "id": "59a8ab00d1b228c4a6c12130",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1075,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Pmfovgxw",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6, MabBook Air 2013",
+  "client_settings": "Discord Canary 0.0.154",
+  "actual_result": "The text box stays two lines where the second line doesn't have anything in it",
+  "expected_result": "The text box goes back to one-line",
+  "short_description": "When you write a long message (barely two lines) then disable the member list, the message box remains two-lined. Also, Adv also found that it creates a scroll bar. See the second attachment.",
+  "steps_to_repro": "- Start writing a long message (This is a really good long message that should give you a new line if you write it long enough and I'm starting to run out of words that I can use in this example here we go) - Click on the member icon to hide the member list"
+ }
+}

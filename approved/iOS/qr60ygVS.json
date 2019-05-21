@@ -1,0 +1,17 @@
+{
+ "id": "5b0914560125390cd9e9b2d6",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 772,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qr60ygVS",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 11.4 Developer beta 6",
+  "client_settings": "TestFlight 2.3.2 (4760)",
+  "actual_result": "GIFs disappear for a few frames then restart",
+  "expected_result": "GIFs still play seamlessly",
+  "short_description": "GIF reactions refresh on any other reaction update",
+  "steps_to_repro": "- Create or view a message with at least 1 GIF reaction - Add or change any other reaction"
+ }
+}

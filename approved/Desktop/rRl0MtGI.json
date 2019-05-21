@@ -1,0 +1,15 @@
+{
+ "id": "584f7daa905c886a8e66bf88",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 240,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rRl0MtGI",
+ "data": {
+  "actual_result": "Scrollbar is entirely unresponsive for roughly 10 seconds, then resizes and goes back to normal. System settings: Windows 10 Professional, Canary Build",
+  "expected_result": "Scrollbar will automatically resize and become responsive/usable if needed",
+  "short_description": "Scrolling down then Search in the Members list causes the scrollbar to become unresponsive for a short amount of time",
+  "steps_to_repro": "- Server Settings > Members - Scroll down the list a bit - Search an uncommon name that won't return many results - Attempt to use the scrollbar "
+ }
+}

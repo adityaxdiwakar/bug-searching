@@ -1,0 +1,30 @@
+{
+ "id": "5b73a3a8541c2e4217e5bfba",
+ "closed": false,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 2710,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aG6mU7jG",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (10.0, 17134)",
+  "client_settings": "Release Channel: stable, Build Number: 21425, Version Hash: df47d2bb54e0b94e583d8de5d76ed5b7bb63d267",
+  "actual_result": "Typing \"\u0105\" with keyboard deletes the entire draft of the message. Typing \"\u017c\" switches the character to \"\u017a\" and adds a previously deleted character",
+  "expected_result": "User can write a message with all Polish characters without text formatting issues",
+  "short_description": "[Discord Overlay] Input of Polish \"\u0105\" and \"\u017c\" characters results in improper behaviour of the draft messages in text box",
+  "steps_to_repro": "- Change keyboard input to Polish (Programmer/Programisty) - Open Discord Overlay while in-game - Start typing any message in the text box - Type \"\u0105\" or \"\u017c\" characters - Observe the behaviour of the message"
+ }
+}

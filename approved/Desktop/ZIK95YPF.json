@@ -1,0 +1,15 @@
+{
+ "id": "582b774e587ec1364a8be7d8",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 151,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZIK95YPF",
+ "data": {
+  "actual_result": "Also embeds Discord website after",
+  "expected_result": "Embeds just the discord invite checkbox thingy",
+  "short_description": "Discord invite links embed the Discord website",
+  "steps_to_repro": "- Step 1: Paste a link - Step 2: Wait a few milliseconds "
+ }
+}

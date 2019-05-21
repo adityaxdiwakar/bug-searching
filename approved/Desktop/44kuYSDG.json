@@ -1,0 +1,22 @@
+{
+ "id": "58ee87fe00437f94544bee0e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 492,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/44kuYSDG",
+ "data": {
+  "actual_result": "The user talking back sounds a little static. It\u2019s noticeable only for the user who watched a video",
+  "expected_result": "Normal voice like before watching a video",
+  "short_description": "[Mac OS]Static noise over voice",
+  "steps_to_repro": "- Launch Discord and get into a voice channel - When in voice play a youtube video in any discord chat. This can be paused after a second or so - let the user talk to you again and you will hear a static noice "
+ }
+}

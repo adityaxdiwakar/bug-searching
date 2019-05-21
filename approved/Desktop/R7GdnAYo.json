@@ -1,0 +1,30 @@
+{
+ "id": "5b1b022bb2efd51e237a95ea",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2111,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/R7GdnAYo",
+ "data": {
+  "system_settings": "macOS 10.13.4",
+  "client_settings": "Canary build 16678",
+  "actual_result": "Client freezes, crashes, and reloads",
+  "expected_result": "Client should not in fact freeze, crash, and reload",
+  "short_description": "Client freezing, crashing, then reloading when video calling on mac",
+  "steps_to_repro": "- Select a lucky friend (or alt if you're lonely) - Click on \"Video call\" - Observe your client freezing like my heart, crashing and then reloading"
+ }
+}

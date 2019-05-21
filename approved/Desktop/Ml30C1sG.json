@@ -1,0 +1,30 @@
+{
+ "id": "5b0fe663b1cf4d6c369e93ac",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2075,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ml30C1sG",
+ "data": {
+  "system_settings": "Windows 10 x64 (1709)",
+  "client_settings": "Discord Canary 16275",
+  "actual_result": "Member is not highlighted, cursor must move outside the user's selection area. Clicking on the user adds him/her to the list of members, but still doesn't highlight.",
+  "expected_result": "Moving your cursor refreshes the selection and the user which the cursor is on top of will be highlighted instantly.",
+  "short_description": "Moving cursor in certain area after navigating with arrow keys in DM invite box doesn't highlight hovered member.",
+  "steps_to_repro": "- Open DM invite box. - Scroll down a bit. - Move your cursor around so it hovers on top of a certain user and highlights him/her. - Use arrow keys to move the selection up or down. Make sure you do not scroll the selection area. - Confirming that the selection is someone above or below the user that your cursor is hovering over, move your cursor carefully so that it stays in the area of that user."
+ }
+}

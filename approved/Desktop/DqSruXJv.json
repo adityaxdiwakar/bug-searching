@@ -1,0 +1,24 @@
+{
+ "id": "5987e5a8068703f9aca7357e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 939,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DqSruXJv",
+ "data": {
+  "system_settings": "Ubuntu 16.04.02 Unity x64",
+  "client_settings": "Canary 0.0.24",
+  "actual_result": "The bots name is slightly above the tag, or rather, the tag is slightly below the bots name.",
+  "expected_result": "The bot tag and the bots name are aligned fine, no issues.",
+  "short_description": "BOT tag uncentered on compact mode",
+  "steps_to_repro": "- Have Compact Mode Enabled  - Have a bot send a message (in this example, plain text)"
+ }
+}

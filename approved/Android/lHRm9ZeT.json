@@ -1,0 +1,30 @@
+{
+ "id": "5bc94797a95d30338cbf37e4",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2196,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lHRm9ZeT",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 running Android 8.1.0 (Oreo)",
+  "client_settings": "Alpha 7.7.5 (755)",
+  "actual_result": "The Filter By: screen stays open on the server list",
+  "expected_result": "The Filter By: screen should close because Search is closed",
+  "short_description": "Going into Search (bottom right of server list) and pressing the filter and back button within a second of each other causes Filter by: to appear on server list (must be fast) (takes SEVERAL tries)",
+  "steps_to_repro": "- Press Search (magnifying glass in bottom right of server list - Press the three lines in top right and immediately press the back arrow in top left - Observe"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b5dc10ed8fe85b05c21ec18",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1711,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JuiyVgUu",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 720",
+  "actual_result": "You just see an empty space below it. If you change your theme to dark, you see the channel name below the text. The Colour of the text of the voice channel is exactly same as the colour of the voice bar on light theme.",
+  "expected_result": "You see the channel name below the \"Voice Connected\" text.",
+  "short_description": "The voice channel name in the voice bar is completely invisible on light theme.",
+  "steps_to_repro": "- Switch to light theme. - Join a voice channel. - Open a text channel. - Close keyboard. - Observe the voice bar."
+ }
+}

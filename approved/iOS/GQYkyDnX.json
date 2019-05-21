@@ -1,0 +1,24 @@
+{
+ "id": "5a613a026dc8758a1992a467",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 512,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GQYkyDnX",
+ "data": {
+  "system_settings": "iPhone 7, iOS 11.2.2",
+  "client_settings": "TestFlight 2.2.1 (2193)",
+  "actual_result": "Channel displays welcome to chat message",
+  "expected_result": "Channel should stay blank until messages load.",
+  "short_description": "Discord displays a channel which has not loaded messages in as a new channel.",
+  "steps_to_repro": "- Find a large server. - Quickly switch between channels - Observe bottom of the channel, by the typing box."
+ }
+}

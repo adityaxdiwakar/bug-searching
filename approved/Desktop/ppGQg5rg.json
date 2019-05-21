@@ -1,0 +1,30 @@
+{
+ "id": "5b2c1ee8a39d5a57f2fb392d",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2171,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ppGQg5rg",
+ "data": {
+  "system_settings": "Windows 10 Pro (64-bit), Creators Update (v1709, Build 16299.371)",
+  "client_settings": "Canary 0.0.211 (Build 17454)",
+  "actual_result": "Nothing happens.",
+  "expected_result": "The message gets hidden by collapsing it.",
+  "short_description": "You can't close up a blocked message banner after expanding it",
+  "steps_to_repro": "- Block a user. - Find a post they made and click the button to expand. - Click the button to collapse the post."
+ }
+}

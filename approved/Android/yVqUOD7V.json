@@ -1,0 +1,30 @@
+{
+ "id": "5c1bc4b1372a5f20a546e987",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2389,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yVqUOD7V",
+ "data": {
+  "system_settings": "Samsung Galaxy S8, Android 8.0.0",
+  "client_settings": "Alpha 8.1.7",
+  "actual_result": "Only the static image saves.",
+  "expected_result": "The gif should save in a \"Discord\" folder as well as the static image.",
+  "short_description": "GIF profile pictures don't save in a folder unlike other formats (png,...)",
+  "steps_to_repro": "- Set your avatar to a static format - Observe your phone images gallery - Set your avatar to an animated image (a gif) - Observe your phone images gallery"
+ }
+}

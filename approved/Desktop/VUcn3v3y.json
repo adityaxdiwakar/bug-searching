@@ -1,0 +1,17 @@
+{
+ "id": "59cc56defdd59d5a23b947ab",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1198,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VUcn3v3y",
+ "data": {
+  "system_settings": "Win 8.1 x64",
+  "client_settings": "Discord Stable, 0.0.298 & Discord Canary, 0.0.163",
+  "actual_result": "The changes go through",
+  "expected_result": "A Dialog box appears telling you that you don't have permission",
+  "short_description": "Can grant @-everyone channel permissions that you don't have access to",
+  "steps_to_repro": "- have the `manage roles` permission - lack another perm such as `manage webhooks` or `manage messages` - edit a channel and go to the permissions tab - for the @-everyone role, enable the permission you lack"
+ }
+}

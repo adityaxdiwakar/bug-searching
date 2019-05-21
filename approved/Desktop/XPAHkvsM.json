@@ -1,0 +1,24 @@
+{
+ "id": "591f2be6affa77cfd2c0cf52",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 664,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XPAHkvsM",
+ "data": {
+  "system_settings": "Windows 10 v1607",
+  "client_settings": "Desktop Latest Canary",
+  "actual_result": "The text shifted up when i clicked on the ESC buttons",
+  "expected_result": "The text below the button will shift up when the buttons is selected",
+  "short_description": "When pressing the esc buttons in the Keyboard combos menu the text jumps up.",
+  "steps_to_repro": "- use ctrl+/ to open the keyboard combos menu - click on any ESC button that stands alone"
+ }
+}

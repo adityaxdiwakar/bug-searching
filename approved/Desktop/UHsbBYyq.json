@@ -1,0 +1,30 @@
+{
+ "id": "5b9654cc5b51db159f843cc2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2954,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UHsbBYyq",
+ "data": {
+  "system_settings": "macOS High Sierra 10.13.6",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 23017, Version Hash: ff85ea5ba61f12b4cac137b048a25ed0dd5648de",
+  "actual_result": "The cursor icon/display, does not change in a small but noticeable window in between the two.",
+  "expected_result": "The cursor icon/display is supposed to change from the pointer/default to the hand.",
+  "short_description": "Cursor hover icon/display does not change in another's profile in between Send Request/Message and Three Dots.",
+  "steps_to_repro": "- Open anyone's profile besides you - Place your cursor on top of \"Send Friend Request\" (if non-friend's profile) or \"Send Message\" (if friend's profile) - Observe cursor icon change from pointer/default to hand - Place your cursor on top of the Three Vertical Dots which opens the option menu (block, message) - Observe cursor icon change from the pointer/default to hand - Place your cursor in between \"Send Friend Request\" or \"Send Message\" and the three dots option menu - Observe for any changes in your cursor's icon when hovering - Click to open the three vertical dots option menu"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5adc323c9686db5b55b3da18",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1306,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DGS02oql",
+ "data": {
+  "system_settings": "Samsung Galaxy Note8 Andeoid 8.0",
+  "client_settings": "Discord Alpha 6.5.6",
+  "actual_result": "The app freeze",
+  "expected_result": "The app won't freeze",
+  "short_description": "In \"Add User to chat\" When tapping many users at the same time l it will freeze the app",
+  "steps_to_repro": "- Go to someone's DM - Tap add users to chat - Tap more than one user at the same time"
+ }
+}

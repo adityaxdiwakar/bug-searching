@@ -1,0 +1,23 @@
+{
+ "id": "58f396dbf9a466b6cd0cf493",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 380,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ln4SvFgR",
+ "data": {
+  "system_settings": " Android Alpha - latest, Android 7.0 Samsung S7.",
+  "actual_result": "Message stays, preventing you from talking until app is restarted. Switching channels or servers doesn't do anything.",
+  "expected_result": "The \"you must wait 10 minutes to talk on this server\" message should be gone and you should be able to type in the server.",
+  "short_description": "When given role in server that has tableflip on before your 10 min wait is up, cannot talk until you restart app.",
+  "steps_to_repro": "- Join a server with Tableflip on. - Be given a role before the 10 minute wait is up. "
+ }
+}

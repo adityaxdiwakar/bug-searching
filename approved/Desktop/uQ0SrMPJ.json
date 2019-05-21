@@ -1,0 +1,24 @@
+{
+ "id": "59ccb6becee808f7f01d64b0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1202,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uQ0SrMPJ",
+ "data": {
+  "system_settings": "Windows 8.1 x64 with Google Chrome 61",
+  "client_settings": "Discord Stable 0.0.298",
+  "actual_result": "It minimises and maximises then shows the join dialouge",
+  "expected_result": "It should come up with the invite no problem",
+  "short_description": "Discord minimises and maximises when an invite is viewed from the internet on dual monitors",
+  "steps_to_repro": "- Have a dual monitor setup - Have discord in one screen and Chrome in on the other (Browser doesn't matter) - Open an invite in Chrome - Watch the screen with discord"
+ }
+}

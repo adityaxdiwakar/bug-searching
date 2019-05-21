@@ -1,0 +1,17 @@
+{
+ "id": "5b56590428d2558d5e9ca80b",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 841,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xOGzemO9",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 4",
+  "client_settings": "Discord Canary, 0.0.217",
+  "actual_result": "\u201cUser is typing\u201d bar appears while channel loads",
+  "expected_result": "\u201cUser is typing\u201d bar doesn\u2019t appear while channel loads",
+  "short_description": "\u201cUser is typing\u201d bar is visible during channel loading animation",
+  "steps_to_repro": "- Fully close and reopen Discord to ensure channels are not loaded - Have a user type continuously in a channel that hasn\u2019t loaded and switch to the channel - Observe the bottom of the message area where the \u201cUser is typing\u201d bar appears"
+ }
+}

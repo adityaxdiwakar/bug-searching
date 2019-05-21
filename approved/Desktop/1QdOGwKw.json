@@ -1,0 +1,15 @@
+{
+ "id": "584d667b00d8a05a82b8cfc8",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 237,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1QdOGwKw",
+ "data": {
+  "actual_result": "There is an X under the role.(edited)",
+  "expected_result": "The X should be next to the said role.",
+  "short_description": "!submit When viewing a possible long role name on the Member's list, the X mark is under the name",
+  "steps_to_repro": "- Step 1: Make a role, call it Administrator as it's long Step 2 - Give it to someone and view the Member's list. Give it to multiple people. "
+ }
+}

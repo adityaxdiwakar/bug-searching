@@ -1,0 +1,30 @@
+{
+ "id": "5b6e3bd98b06667d00ebf904",
+ "closed": true,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 2667,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4m3icdKq",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Release Channel: canary, Build Number: 21440",
+  "actual_result": "The game's display freezes on the first few frames or a black screen. Audio still works but the game is unresponsive. The game cannot proceed past the intro cutscene. Clicking anywhere on the window flags the game as unresponsive.",
+  "expected_result": "The Binding of Isaac: Rebirth launches with the overlay activated",
+  "short_description": "The Binding of Isaac: Rebirth crashes when the overlay is turned on",
+  "steps_to_repro": "- Make sure Discord is running and the overlay is enabled for The Binding of Isaac: Rebirth - Make sure your computer has both a discrete graphics card and integrated graphics, and that The Binding of Isaac: Rebirth isn't set to run on the integrated graphics - Launch The Binding of Isaac: Rebirth"
+ }
+}

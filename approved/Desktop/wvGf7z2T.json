@@ -1,0 +1,17 @@
+{
+ "id": "59c01fcb53191be009c31cce",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1166,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wvGf7z2T",
+ "data": {
+  "system_settings": "Windows 10 64-bit",
+  "client_settings": "Discord Canary web-version 0.0.163 Build 4361",
+  "actual_result": "Server keeps the old vanity AND the new one.",
+  "expected_result": "Should update the vanity url to the new one.",
+  "short_description": "Add more vanity URL's to one server.",
+  "steps_to_repro": "- Set Vanity URL for server - Disable read permissions in all channels for (at)everyone role. - Add new vanity URL - Allow read permissions on at least one channel for (at)everyone role."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5af49d064ad4b2dc5ef48a5e",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1967,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EdpwGLir",
+ "data": {
+  "system_settings": "Windows 10, CPU i3 540, RAM 4GB",
+  "client_settings": "[BUILD INFO] Release Channel: ptb, Build Number: 14896, Version Hash: 44d9d2dc23e67b538a6206151ec08ecd0ffbe467",
+  "actual_result": "It bugs and u're not able to give person a note",
+  "expected_result": "I would be still able to give person a note anyway if i right clicked or not",
+  "short_description": "If you want to add someone a note and if u click inside 'click to add note' and right click and left click again and u will not able to add note",
+  "steps_to_repro": "- Open one profile - Click on 'click to add note' - Right click inside  'click to add note'  - and left click again - then try to type"
+ }
+}

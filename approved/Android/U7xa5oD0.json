@@ -1,0 +1,30 @@
+{
+ "id": "5a15c780893783c1d9515697",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 916,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/U7xa5oD0",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.7.4",
+  "actual_result": "You are redirected to an empty server with no channels, no name... Also when you try to open the 3 dots menu (where you can usually find notification settings, leave server, etc), the menu only appears for a split second",
+  "expected_result": "It should behave the same as if you were kicked from the server: you will be redirected to your friends list screen",
+  "short_description": "When the server you are currently viewing gets suddenly unavailable because of an outage, you will be redirected to a \"ghost\" server with no channels and no name instead of being redirected to your friends list",
+  "steps_to_repro": "- View any server - Wait for it to be unavailable because of an outage (good luck...)"
+ }
+}

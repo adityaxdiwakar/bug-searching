@@ -1,0 +1,17 @@
+{
+ "id": "5b4f7deaa434a28889562e00",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2304,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5J9ZfaOH",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 19091",
+  "actual_result": "Cursor changes to a magnifying glass",
+  "expected_result": "Cursor changes to a gloved hand",
+  "short_description": "Magnifying glass icon when scrolling over image",
+  "steps_to_repro": "- Upload an image - Mouse over the image - Observe the icon of your cursor when you mouse over -"
+ }
+}

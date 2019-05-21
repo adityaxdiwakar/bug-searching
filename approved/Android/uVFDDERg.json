@@ -1,0 +1,30 @@
+{
+ "id": "5a035c5179b9832a483381f6",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 881,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uVFDDERg",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 2016, Android Nougat 7.0",
+  "client_settings": "Android Alpha 5.6.1",
+  "actual_result": "Nothing happends, even after taking the photo.",
+  "expected_result": "The flash should be turned on.",
+  "short_description": "Front facing flash dosn't work with in-app camera",
+  "steps_to_repro": "- Click the plus - Go to the camera - Enable flash with front facing camera"
+ }
+}

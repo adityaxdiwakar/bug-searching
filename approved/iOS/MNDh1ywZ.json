@@ -1,0 +1,17 @@
+{
+ "id": "5bc31fd6eb88c023c43b9a20",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1088,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/MNDh1ywZ",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1 Developer Beta 2",
+  "client_settings": "TestFlight 2.3.9 (7116)",
+  "actual_result": "Share link button is inside safe area",
+  "expected_result": "Share link button shouldn't be inside safe area",
+  "short_description": "[iPhone X/XS/XS Max] Button to share invite link is inside safe area",
+  "steps_to_repro": "- Create an invite link - Observe the button to share the invite link"
+ }
+}

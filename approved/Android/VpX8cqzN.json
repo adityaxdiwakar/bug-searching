@@ -1,0 +1,30 @@
+{
+ "id": "5b1fe8ddc1736330e4ea34bc",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1528,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VpX8cqzN",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 689",
+  "actual_result": "There's an option to share the message. If you click on your shared link, you are redirected to your message (in red) but if someone else clicks, they're taken to the channel and the \"You are viewing older messages\" appears.",
+  "expected_result": "There should be no option to share the because the message hasn't been sent.",
+  "short_description": "There's an option to share a message that exceeds 2k characters.",
+  "steps_to_repro": "- Type something that exceeds 2k characters. - Seed it in some channel on DTesters (because that's the only server where message sharing is released). - Long press on the message. - Observe."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59261186a86c3f4e75d73d93",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 672,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pYKI0eiw",
+ "data": {
+  "system_settings": "Windows 7",
+  "client_settings": "Desktop, Stable",
+  "actual_result": "Nothing.",
+  "expected_result": "The overlay moves positions on the screen.",
+  "short_description": "The overlay will only move when you click and drag using the middle mouse click.",
+  "steps_to_repro": "- Enable the overlay - Boot up game - Use the designated hotkey to open the overlay - Click and drag"
+ }
+}

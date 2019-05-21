@@ -1,0 +1,30 @@
+{
+ "id": "5ad251a53f59d4cc6a70e2f7",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1848,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KrF9QE8R",
+ "data": {
+  "system_settings": "Win 10 Home v1709",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 13537, Version Hash: a4eee6d05462fb4797eeb0327ef3180521efee85",
+  "actual_result": "The popup only shows once you're out of full screen, if you clicked the camera button 4 times you'll get 4 popups, etc.",
+  "expected_result": "A popup explaining there's no camera during full screen",
+  "short_description": "While someone is sharing screens if you go into full screen and have no camera plugged in clicking the camera button doesn't show the popup until you go out of full screen",
+  "steps_to_repro": "- Get into a call with someone - Either you or them start sharing screens - Go into full screen - Click the camera button - Get out of full screen"
+ }
+}

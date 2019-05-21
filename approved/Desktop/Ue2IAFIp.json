@@ -1,0 +1,30 @@
+{
+ "id": "5b6f1d80075a6c3ea3f96840",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2678,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ue2IAFIp",
+ "data": {
+  "system_settings": "Win 10 x64 april 2018 update",
+  "client_settings": "Canary",
+  "actual_result": "Discord Crush & saying reload button appear",
+  "expected_result": "Paypal Windows Open To Link My Paypal Account",
+  "short_description": "Billing is Broken",
+  "steps_to_repro": "- Go To Billing Tab 2- Click On PayPal"
+ }
+}

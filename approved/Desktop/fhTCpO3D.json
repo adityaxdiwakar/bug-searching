@@ -1,0 +1,23 @@
+{
+ "id": "591149d78df7ca283f103bc1",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 617,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fhTCpO3D",
+ "data": {
+  "system_settings": " Win8.1 Latest Canary",
+  "actual_result": "The sound plays over, and over, and over",
+  "expected_result": "Sound is played once to show the disconnect",
+  "short_description": "Disconnected notification sound repeating continually",
+  "steps_to_repro": "- Connects to voice channel - Internet connection drops - Green voice connected changes to red Disconnected - Disconnected sound plays - Sound continually repeats similar to about six months ago before resolved "
+ }
+}

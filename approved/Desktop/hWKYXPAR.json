@@ -1,0 +1,17 @@
+{
+ "id": "5b11fb1a0a1970216bdfb594",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2087,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hWKYXPAR",
+ "data": {
+  "system_settings": "Lenovo 7373FGM, 1280 x 1024 Display, Windows 10 Pro Insider Preview x64 v10.0.17677 Build 17677, Firefox Quantum 60.0.1",
+  "client_settings": "Discord Stable Build 16234",
+  "actual_result": "The captcha still appears after completion.",
+  "expected_result": "The captcha should go away after you have successfully verified and the green tick should appear.",
+  "short_description": "The captcha on firefox appears when loading and doesn't disappear until you click anywhere in the client.",
+  "steps_to_repro": "- Open firefox and make sure you aren't signed into any accounts - Get an invite link and paste it in the URL bar - Type in a random name - Complete the captcha and don't click anywhere else apart from in the captcha - Observe"
+ }
+}

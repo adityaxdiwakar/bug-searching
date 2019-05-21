@@ -1,0 +1,16 @@
+{
+ "id": "58fd705833b178e14a99efb2",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 401,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xOWBpAyI",
+ "data": {
+  "system_settings": " Android 7.1.1, Discord 3.7.0",
+  "actual_result": "Bummer then crash",
+  "expected_result": "Discord goes into portrait without crashing",
+  "short_description": "Selecting a file and then switching to landscape and back causes a bummer",
+  "steps_to_repro": "- Hit the plus - Click a file but dont send - Go into landscape - Go into portrait "
+ }
+}

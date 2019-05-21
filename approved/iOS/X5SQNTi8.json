@@ -1,0 +1,16 @@
+{
+ "id": "582703d50884f0d8bbc363b3",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 69,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/X5SQNTi8",
+ "data": {
+  "system_settings": " iPhone 5, iOS 9.1 Latest testflight.",
+  "actual_result": "The name of the guild goes out of box, including the nickname.",
+  "expected_result": "The name of the guild should fit the box",
+  "short_description": "If a guild name is too long it goes out of the box when looking at mutual servers",
+  "steps_to_repro": "- Make a guilde with a suprisingly long name - Check your mutual servers tab "
+ }
+}

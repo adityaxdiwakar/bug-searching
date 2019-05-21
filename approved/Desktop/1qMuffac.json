@@ -1,0 +1,17 @@
+{
+ "id": "5c19f6569ce3c04923d0eb78",
+ "closed": false,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 3518,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1qMuffac",
+ "data": {
+  "system_settings": "Windows 8.1",
+  "client_settings": "Release Channel: stable, Build Number: 30011, Version Hash: e43d71df1e314348af9593fd34c6b37ce09bb885",
+  "actual_result": "The accept button becomes clickable and displays as if it was a new gift.",
+  "expected_result": "On discord start, it should check if the gift has been redeemed and then disable the accept button.",
+  "short_description": "Nitro gifts show false positives on link reload",
+  "steps_to_repro": "- view any nitro gift link"
+ }
+}

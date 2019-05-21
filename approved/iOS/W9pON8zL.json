@@ -1,0 +1,28 @@
+{
+ "id": "58507fc116918347f6a1d0fe",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 117,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/W9pON8zL",
+ "data": {
+  "actual_result": "Only displays the first digit (**1** of 15, for example).",
+  "expected_result": "Displays correct amount of mutual servers (when more than 10)",
+  "short_description": "Friends list doesn't display correct amount of mutual servers (when in double digits)",
+  "steps_to_repro": "- Have a friend with more than 10 mutual servers - Look at friends tab - look at the \"+(how many more servers)\". "
+ }
+}

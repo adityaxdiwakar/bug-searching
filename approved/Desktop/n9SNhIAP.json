@@ -1,0 +1,17 @@
+{
+ "id": "5b5bb602ae95f5d7960c57d7",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2460,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/n9SNhIAP",
+ "data": {
+  "system_settings": "iPhone 8+, iOS 12 Dev Beta 4",
+  "client_settings": "New Developer Portal Website",
+  "actual_result": "You cant paste it anymore",
+  "expected_result": "You should be able to paste the text where you want to",
+  "short_description": "[Website Bug] Copy Button doesnt work properly, pasting doesnt show up",
+  "steps_to_repro": "- Copy a client id - Try to paste it somewhere - Observe"
+ }
+}

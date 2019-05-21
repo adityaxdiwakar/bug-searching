@@ -1,0 +1,30 @@
+{
+ "id": "5aed695b0271b47f58a82812",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1371,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LODOvRKf",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 Nougat",
+  "client_settings": "Discord 6.6.1 (661)",
+  "actual_result": "No highlight",
+  "expected_result": "The second invite has a highlight like the first one",
+  "short_description": "Invite links lose its blue highlight when it's in a sentence (Note: The background highlight like mentions when they are yellow, and not the color of the link. Check attached for better explanation.)",
+  "steps_to_repro": "- Send an invite link with nothing else (optional) - Send an invite link with some letters or words after or before it - Compare the highlight between Step 1 and 2"
+ }
+}

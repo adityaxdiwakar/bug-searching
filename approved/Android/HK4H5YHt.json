@@ -1,0 +1,23 @@
+{
+ "id": "582e68f13ec9c374d1d48f0a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 98,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HK4H5YHt",
+ "data": {
+  "system_settings": " dunno, reported for  Brussell#0660",
+  "actual_result": "On Android the messages are seperate, showing the username and avatar for each minute.",
+  "expected_result": "Both clients group the messages by the hour.",
+  "short_description": "Message grouping is not consistent with web client",
+  "steps_to_repro": "- Any user post multiple messages over a few minutes. - Check the appearance on desktop and android. "
+ }
+}

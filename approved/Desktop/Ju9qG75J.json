@@ -1,0 +1,17 @@
+{
+ "id": "5b12bf63af14dc81487a3367",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2089,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ju9qG75J",
+ "data": {
+  "system_settings": "MS Windows 10 Pro x64 (v1809)",
+  "client_settings": "Canary 16445",
+  "actual_result": "Some random things related to the current channel the user is in are copied, as well as some things from the preview, discord settings and the member list if opened",
+  "expected_result": "Not being able to highlight the preview, or copying what's in the preview only",
+  "short_description": "Copying what's in appearance preview copies pretty random things related to the current text channel",
+  "steps_to_repro": "- Be in a non empty text channel - Go in settings/appearance - Highlight the preview, continue highlighting high in the discord window (you can do CTRL + A also) - Copy what's highlighted - Paste it somewhere"
+ }
+}

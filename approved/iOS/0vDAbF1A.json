@@ -1,0 +1,24 @@
+{
+ "id": "5bd1fa2117c2c68ba4943a61",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1121,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0vDAbF1A",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 4",
+  "client_settings": "TestFlight 2.4.0 (8616)",
+  "actual_result": "The very first subaction is moved slightly to the left",
+  "expected_result": "All the subactions start at the same point",
+  "short_description": "When adding/removing a role multiple times, the first section in the entry is moved slightly to the left",
+  "steps_to_repro": "- Go to a server where you can manage roles and view the audit log - Add/remove a user's role multiple times - Go into the audit log and view the expanded entry"
+ }
+}

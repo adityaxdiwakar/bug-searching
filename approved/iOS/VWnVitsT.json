@@ -1,0 +1,17 @@
+{
+ "id": "5b93abee5a3fab6ae5fccc79",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 983,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VWnVitsT",
+ "data": {
+  "system_settings": "iPhone X, iOS 12 Developer Beta 12",
+  "client_settings": "TestFlight 2.3.8 (7106)",
+  "actual_result": "Discord freezes momentarily, and then the icon of the server you tried to switch to is darkened despite you not being in it, and you stay in your original server and all channels and categories are hidden",
+  "expected_result": "You can change to the other server",
+  "short_description": "After opening from the TestFlight app, changing servers results in no channels being displayed and the server icon being darkened",
+  "steps_to_repro": "- Ensure you are viewing a server with many channels (Such as DTesters) - Close Discord completely  - Open the TestFlight app - Open Discord from the TestFlight app - Open the server list - Attempt to change to another server using the server list"
+ }
+}

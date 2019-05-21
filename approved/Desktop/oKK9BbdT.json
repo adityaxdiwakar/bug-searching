@@ -1,0 +1,30 @@
+{
+ "id": "5bc77bd9ccb6886dec5cd548",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3204,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oKK9BbdT",
+ "data": {
+  "system_settings": "Windows 7 Professional x64",
+  "client_settings": "Release Channel: stable, Build Number: 26344, Version Hash: dd79c191e1c3276e7afc28da7fa1ae2230b60708",
+  "actual_result": "The controls and filename appear, but so does the pause indicator",
+  "expected_result": "The controls and filename will appear, and nothing else",
+  "short_description": "Playing a video to the end causes the pause indicator to appear",
+  "steps_to_repro": ""
+ }
+}

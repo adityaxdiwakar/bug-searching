@@ -1,0 +1,30 @@
+{
+ "id": "5b5b991f5fb44adbb11ab3b3",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1686,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DGLHKxu9",
+ "data": {
+  "system_settings": "Honor 9, Android 8.0",
+  "client_settings": "7.1.2",
+  "actual_result": "The user will stay on the list and Discord will show a \"Send\" button (which doesn't work).",
+  "expected_result": "The button should switch to \"Accepted\" or remove the user from the list.",
+  "short_description": "After accepting an user from the new \"Add Friend\" Discord will show a \"Send\" button",
+  "steps_to_repro": "- Make sure you have the new Add Friends feature (it should look like this:  ). - From \"Add Friend\" (not from \"Pending\") accept a Friend Request or ask to a friend to send you a friend request and accept it. - Once you have accepted the Friend Request you can notice that the button from \"Accept\" has switched to \"Send\" instead of \"Accepted\" or vanished."
+ }
+}

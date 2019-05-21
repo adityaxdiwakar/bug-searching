@@ -1,0 +1,30 @@
+{
+ "id": "5a642b4f36738a57ac25cb9e",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 535,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/L00fpPV3",
+ "data": {
+  "system_settings": "iPhone X iOS 11.2.2",
+  "client_settings": "TestFlight 2.2.1 (2224)",
+  "actual_result": "Chat position will move around as new messages come in",
+  "expected_result": "Chat history will keep position as you scroll further back",
+  "short_description": "Chat changes position when new messages come in while scrolling.",
+  "steps_to_repro": "- Go to any active chat - Scroll upward as if you were seeking back through the chat history - Have a message come in during this - Observe - (It may be easier to reproduce if you hold your finger on the screen as if you were going to scroll while waiting for an incoming message"
+ }
+}

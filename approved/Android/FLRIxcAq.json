@@ -1,0 +1,17 @@
+{
+ "id": "5b0813a7c8bb7c41f476e44a",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1468,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FLRIxcAq",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 6.8.0",
+  "actual_result": "You see as many numbers of bars as the number of people changed in the online/offline list.",
+  "expected_result": "You should see only one online bar.",
+  "short_description": "The online bar in a big server is relplicated as many times as the membercount under the online bar dec/inc(ie when people go offline/online) .",
+  "steps_to_repro": "- Join a big server that has many people go online/offline in a short amount of time very often. - Scroll down extremely fast ( don't let the grey placeholders load) till you reach the start of online members list."
+ }
+}

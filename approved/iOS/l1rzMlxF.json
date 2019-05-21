@@ -1,0 +1,16 @@
+{
+ "id": "59023c004d06296f057f206f",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 234,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/l1rzMlxF",
+ "data": {
+  "system_settings": " iPhone 7, iOS 10.3.1",
+  "actual_result": "app crash",
+  "expected_result": "switches view to friends (same behavior as when a servers default channel is marked nsfw)",
+  "short_description": "Tapping no to the nsfw agreement for a group crashes app",
+  "steps_to_repro": "- rename a group with the `nsfw-` prefix - Tap another DM/server then go back into group - Tap no when asked if your ok to see nsfw content "
+ }
+}

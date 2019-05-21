@@ -1,0 +1,24 @@
+{
+ "id": "59c49422efc64965e69f9e67",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 757,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/L8gMGJz3",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, Android 7.0",
+  "client_settings": "Discord Alpha 5.2.5",
+  "actual_result": "Says \"Category does not exist\"",
+  "expected_result": "A channel category should be made",
+  "short_description": "\"Category does not exist\" when you try to create a category.",
+  "steps_to_repro": "- Make a test server server - Try to make a category - Name the category - Click on the top right tick"
+ }
+}

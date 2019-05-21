@@ -1,0 +1,30 @@
+{
+ "id": "5bf36b6570c4667281c9d0b7",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3411,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/alyhtKWP",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS v10.14.1 (Mojave)",
+  "client_settings": "Canary 28226",
+  "actual_result": "The file doesn't upload, and either results in the message not sending. If you added a comment to the upload, only the comment will be sent.",
+  "expected_result": "The file should upload.",
+  "short_description": "It is impossible to retry a file upload if it fails.",
+  "steps_to_repro": "- Make a file upload fail for whatever reason. (I exceeded the message sending limit to reproduce.) - When the \"Upload Failed\" modal appears, click \"Click here to retry the upload.\""
+ }
+}

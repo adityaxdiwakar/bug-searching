@@ -1,0 +1,30 @@
+{
+ "id": "59a539c5cdf247b7fd026d26",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 670,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/60qYjUqy",
+ "data": {
+  "system_settings": "LG tributeHD 6.0.1",
+  "client_settings": "discord alpha 4.1.1 (506)",
+  "actual_result": "the image does not change until you close and reopen the app. tried on 2 different servers. 2 different images each.",
+  "expected_result": "save image and the new image sets",
+  "short_description": "image does not change when editing server image",
+  "steps_to_repro": "- be owner or admin (have proper permissions) on a server. - go to server settings - select overview - tap on image to edit - select wanted image - save - image stays as it was."
+ }
+}

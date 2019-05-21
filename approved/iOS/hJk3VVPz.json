@@ -1,0 +1,24 @@
+{
+ "id": "5be609974d55cb54f31527be",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1158,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hJk3VVPz",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 2",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "The server stops and is placed as soon as you reach the top/bottom of the screen",
+  "expected_result": "You scroll the server list to keep moving the server",
+  "short_description": "Moving a server to the top/bottom of the screen stops server reordering",
+  "steps_to_repro": "- Long press on a server to be able to move it - Move the server to either the top or bottom of the screen without letting go - Observer what happens to the server"
+ }
+}

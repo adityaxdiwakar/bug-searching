@@ -1,0 +1,24 @@
+{
+ "id": "5b596470d7e34da13eff3712",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2434,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/n0PGTYnt",
+ "data": {
+  "system_settings": "Samsung Galaxy Tab A. android version 7.1.1",
+  "client_settings": "Discord Website stable in chrome app",
+  "actual_result": "Both the application button and documentation button are highlighted and the documentation button is shifted a little to the right.",
+  "expected_result": "Only the documentation button should be highlighted and in the same position as the application button.",
+  "short_description": "When in the dev portal on an android device on portrait mode,  the three lines at the top left, also known as the hamburger button appears giving you access to the menu, when you click that than click on documentation it will load the doc page. when you click the hamburger button again you will notice that the doc and application buttons are both highlighted and the doc button is shifted a little to the right.",
+  "steps_to_repro": "- Open the dev application page on an android device - Go into portrait mode - Click the three lines at the top left (also known as the hamburger button) - Click the documentation button - allow that page to load than click the three lines at the top left (also known as the hamburger button) again - Observe how both the application button and documentation button are highlighted and how the documentation button is shifted a little the the right."
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "583d12a89ad0094a1293ba33",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 185,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/daXVmEs2",
+ "data": {
+  "actual_result": "You can't delete the call started/missed call messages. [For Hi. Joy.#6042]",
+  "expected_result": "You should be able to delete the call started/missed call messages",
+  "short_description": "Can't delete started/missed call messages in DM's.",
+  "steps_to_repro": "- Try to call someone and let it hang - Try to delete the \"missed call\" message - "
+ }
+}

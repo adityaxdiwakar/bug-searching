@@ -1,0 +1,17 @@
+{
+ "id": "5bbd67578c05b839d96bbe1b",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1079,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DHTdukgv",
+ "data": {
+  "system_settings": "iPhone XS Max running iOS 12.0",
+  "client_settings": "iOS TestFlight 2.3.9 (8085)",
+  "actual_result": "The bottom bar is overlapping the banned user slightly.",
+  "expected_result": "There should be some spacing between the bottom bar and the banned user.",
+  "short_description": "Bottom bar overlaps the last banner member SLIGHTLY in the ban list [iPhone X / XS / Max ONLY]",
+  "steps_to_repro": "- Go to a server of your choice. - Click on Server Settings - Hit the Ban list - Scroll down to the bottom."
+ }
+}

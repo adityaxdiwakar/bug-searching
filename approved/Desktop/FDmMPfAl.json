@@ -1,0 +1,16 @@
+{
+ "id": "58fa9d6de9e62212d361039c",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 538,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FDmMPfAl",
+ "data": {
+  "system_settings": " Windows 8.1, latest canary.",
+  "actual_result": "No unicode displayed",
+  "expected_result": "Unicode in username displayed",
+  "short_description": "Unicode text not displayed next to deafen/mute buttons",
+  "steps_to_repro": "- Put some small unicode in your username - Look at the preview next to the mute/deafen button - Observe the lack of unicode "
+ }
+}

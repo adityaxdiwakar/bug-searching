@@ -1,0 +1,30 @@
+{
+ "id": "5af26c1aa8b85d30c9340a38",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1954,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/67LNu3t5",
+ "data": {
+  "system_settings": "iOS 11.3, iPhone 7 -- Windows 10 x64 Version 1709",
+  "client_settings": "TestFlight 2.3.2 (4280)",
+  "actual_result": "You connect to something you shouldn't.",
+  "expected_result": "You don't see it, nor should you be able to connect to it.",
+  "short_description": "You are allowed to connect to voice channels you cannot see but are not denied connection perms.",
+  "steps_to_repro": "- Be on a server where you are not allowed to see a voice channel, but are not blocked from connecting to it. - Go to quickswitcher. - Type '!' to filter by voice channels. - Find the voice channel from step 1. - Tap it to connect to it."
+ }
+}

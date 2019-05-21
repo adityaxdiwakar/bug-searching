@@ -1,0 +1,30 @@
+{
+ "id": "5bc0aceb1fcde82426c62d49",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2157,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tls6Fvim",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Alpha 7.6.8",
+  "actual_result": "Loading animation appears, even though you have nothing to scroll down on.",
+  "expected_result": "Nothing, as you have reached the end of the log.",
+  "short_description": "loading animation pops up when you attempt to scroll down from audit log filter that doesn't even fit one screen length.",
+  "steps_to_repro": "- Go to audit log, and select a action filter without much logs. Make sure the entire logging for the action you chose fits in 1 screen. - Attempt to scroll down."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bd958c82a2adb82ddb0dbfd",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2265,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7R5uRP7W",
+ "data": {
+  "system_settings": "Samsung galaxy core plus sm g350, 4.2.2",
+  "client_settings": "7.8.3",
+  "actual_result": "There is no sheet bar to indicate you selected it",
+  "expected_result": "When you long press there should be a grey sheet bar indicating you selected that cat/channel",
+  "short_description": "Sorting categories/channels has no grey sheet",
+  "steps_to_repro": "- Go to server settings>channels(have perms)  - Filter to sort by category/text channel - Long press on one of them and move it, notice how there's no sheet bar"
+ }
+}

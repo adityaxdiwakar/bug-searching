@@ -1,0 +1,17 @@
+{
+ "id": "5bf8105598319644718e6156",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2349,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/W4CI2uJy",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.9.9",
+  "actual_result": "Google Smart Lock is triggered on channels named such as `#username`, `#password`, `#email`, `#mobile`, etc",
+  "expected_result": "Google Smart Lock should never flag the chat textfield as a username or password field",
+  "short_description": "Google Smart Lock autofill is triggered in chat textfield when the channel has a specific name",
+  "steps_to_repro": "- Enable Google Smart Lock autofill service in your phone settings (I think it's only available on Android 6+) - Go to User settings > My account, change your password and go back. If you did step 1 correctly, it should prompt you to save your password in Smart Lock. Accept. - Create a new text channel, and name it `#password` - Send a message mentionning the channel (`#password`) and click the channel link to jump to it - Focus the textfield and try to send a message"
+ }
+}

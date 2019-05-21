@@ -1,0 +1,30 @@
+{
+ "id": "5a7c967cd225be89b56eba25",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1640,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ve0hQJzb",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.3",
+  "client_settings": "Discord Canary 0.0.186 (Build: 10382)",
+  "actual_result": "Some options of the right click context menu are cut off.",
+  "expected_result": "Right click context menu should be fully visible.",
+  "short_description": "Right click context menu cut off with new spell check feature",
+  "steps_to_repro": "- Go to any text channel - Type something - Right click any word of your message"
+ }
+}

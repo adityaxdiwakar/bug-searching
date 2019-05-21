@@ -1,0 +1,17 @@
+{
+ "id": "5afb598d8a00d2ca4e5ba842",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1998,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/oLpr6Uuh",
+ "data": {
+  "system_settings": "Windows 10 Home x64 build 1709",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 15268, Version Hash: 95844e2173933ff43d556f38545fd7824d95ab55",
+  "actual_result": "The cursor moves to the start of the input field",
+  "expected_result": "The cursor should have stayed at the very end",
+  "short_description": "Removing character in front of space moves cursor",
+  "steps_to_repro": "- Note that the bug does only work on canary - Log out from discord - In the email box, write something with a space almost at the end, like \"test a\" -  Press the backspace button - Notice how the cursor moves to the very start of the text instead of staying at the end"
+ }
+}

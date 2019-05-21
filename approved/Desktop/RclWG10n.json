@@ -1,0 +1,30 @@
+{
+ "id": "5c0e924186748804e41d2846",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3478,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RclWG10n",
+ "data": {
+  "system_settings": "Windows 10 Home x64 v1803, EdgeHTML 17.17134",
+  "client_settings": "Stable 29232",
+  "actual_result": "If entering from the bottom, the tooltip continues to display when you aren't hovering over the button.",
+  "expected_result": "The tooltip should disappear when you are no longer hovering over the button.",
+  "short_description": "If you hover over the \"Play on Spotify\" button on your own profile from the bottom (see gif) the Spotify \"You played yourself\" tooltip stays up.",
+  "steps_to_repro": "- Listen to Spotify - Go to your own profile and hover over the \"Play on Spotify\" button coming in from the bottom - Observe how the tooltip stays up - Observe how if you enter from the top or sides it does not stay up"
+ }
+}

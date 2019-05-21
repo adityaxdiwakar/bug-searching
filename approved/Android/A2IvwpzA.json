@@ -1,0 +1,30 @@
+{
+ "id": "5badf3e6e1a8a10eb00ba2de",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2062,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/A2IvwpzA",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.7",
+  "actual_result": "The circle isn't aligned vertically with text, leaving a too small padding with the left border of the screen",
+  "expected_result": "The circle should be aligned with text just like voice volume slider when it's to minimum",
+  "short_description": "When slowmode is in Off position, the circle of the slider isn't aligned",
+  "steps_to_repro": "- Go to channel settings - Make sure slowmode is off - Observe slider"
+ }
+}

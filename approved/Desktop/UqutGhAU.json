@@ -1,0 +1,30 @@
+{
+ "id": "5ad8e40c0ed361a2528953be",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1863,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UqutGhAU",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, 13912",
+  "actual_result": "The \"Invite People\" option does not show up",
+  "expected_result": "The \"Invite People\" option shows up at the top of the menu",
+  "short_description": "Unable to right click and invite people to a server",
+  "steps_to_repro": "- Go to a server where you can create invites but can't invite to the top channel - Right click on the server icon - Look for the \"Invite People\" option on the menu"
+ }
+}

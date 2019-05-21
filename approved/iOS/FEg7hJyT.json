@@ -1,0 +1,24 @@
+{
+ "id": "5bb6d69c31534a70d6be8f55",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1053,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FEg7hJyT",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 12.0",
+  "client_settings": "TestFlight 2.3.9 (7858)",
+  "actual_result": "There is a strange gap/space between the message Clyde replied to and the above message",
+  "expected_result": "There shouldn't be a strange gap or space between the message Clyde replied to and the above message",
+  "short_description": "Try to get Clyde to send a message, on the message he replies to a weird gap is formed above the message he replies to [see attachment]",
+  "steps_to_repro": "- Open Discord - Get Clyde to send a message to a channel - The layout of the message above Clyde will have a weird empty bit above it [see attachment]"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b56778300117d53c12cbb43",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 842,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7UwBTdV3",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.6 (6000)",
+  "actual_result": "There is no text underneath",
+  "expected_result": "There is text underneath that explains what using data will do with a hyperlink to learn more like on desktop",
+  "short_description": "There is no text under \u201cUse data to customise your Discord experience\u201d like on desktop in settings",
+  "steps_to_repro": "- Go to Privacy & Safety in settings on desktop - Scroll down to the \u201cUse data to customise my Discord experience\u201d and observe the text underneath - Go to Privacy & Safety on iOS and scroll down to \u201cUse data to customise my Discord experience\u201d and observe the area underneath"
+ }
+}

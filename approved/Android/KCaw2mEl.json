@@ -1,0 +1,30 @@
+{
+ "id": "5ac38276f5e5bcfd3c542a2f",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1243,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KCaw2mEl",
+ "data": {
+  "system_settings": "Android 7.1.1, Moto G 4",
+  "client_settings": "Android Alpha, 6.4.6",
+  "actual_result": "After you delete the message, you're still able to type in the editing box as it doesn't go away. Sending it has no effect on anything.",
+  "expected_result": "After deleting the message you were editing, the editing type-box should close itself",
+  "short_description": "You're able to continue editing messages that you've just deleted",
+  "steps_to_repro": "- Send a message.  - Start to edit it.  - Delete the message without exiting the editing."
+ }
+}

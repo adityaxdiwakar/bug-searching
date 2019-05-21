@@ -1,0 +1,36 @@
+{
+ "id": "59f396e055d54ee9dcba4ff7",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 398,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nm4oqg9Y",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.0.3 & iPad Air 2 with iOS 11.1 PB 5",
+  "client_settings": "TestFlight 1.9.3 (1340)",
+  "actual_result": "Right after clicking it Discord crashes.",
+  "expected_result": "You should get an error message that Discord doesn't have permission to your photos app (like for uploading photos).",
+  "short_description": "Discord crashes when trying to save image without access to the photos app [Might be iOS 11 only]",
+  "steps_to_repro": "- Go to your iOS settings and disallow Discord access to the photos app - Open Discord again and search for an image/gif - Click on this image to open image preview - Click again on this image to open the buttons - Now click on the 3 dots - Try to save the image."
+ }
+}

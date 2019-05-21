@@ -1,0 +1,15 @@
+{
+ "id": "581d1c1884bafb3030afc793",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 118,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DL03Nxgr",
+ "data": {
+  "actual_result": "User is able to join",
+  "expected_result": "Cant join",
+  "short_description": "In voice chat when there is a limit of 6 or any #, you can still go pass the limit when others drag them into the VC",
+  "steps_to_repro": "- Drag user into a full vc. "
+ }
+}

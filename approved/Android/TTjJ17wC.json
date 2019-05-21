@@ -1,0 +1,30 @@
+{
+ "id": "5befab9579a54134f4e5987c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2329,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TTjJ17wC",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.9.6",
+  "actual_result": "\"Enter a server name\" is the only line that doesn't light up to blue on any occasions, entering the screen nor typing in it.",
+  "expected_result": "There should be a blue line on \"Enter a server name\" as soon as you enter the screen, or there should be a blue line as soon as you type something in it.",
+  "short_description": "Server name line in \"Create a server\" screen doesn't have a blue line.",
+  "steps_to_repro": "- Scroll down to the + button. - Select \"Create a server\". - First, notice how on the 'Enter a server name\", there's no blue line. - Type something in it, to see if the line lights up to blue."
+ }
+}

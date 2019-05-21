@@ -1,0 +1,17 @@
+{
+ "id": "59b36e18e03639bf6e056245",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 687,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qtQdkjY4",
+ "data": {
+  "system_settings": "Samsung Galaxy s8+ Nougat",
+  "client_settings": "Android Alpha 5.1.4 (514)",
+  "actual_result": "Roles don't display for private use",
+  "expected_result": "You can select roles to add to channel",
+  "short_description": "Creating channel as private shows zero roles to add",
+  "steps_to_repro": "- Open the channel create menu - Select private channel"
+ }
+}

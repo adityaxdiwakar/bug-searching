@@ -1,0 +1,30 @@
+{
+ "id": "5baa77e50a49207553063975",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3033,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PvUnTkED",
+ "data": {
+  "system_settings": "Windows 10 Home x64 v17134",
+  "client_settings": "Discord Canary (Build 24580)",
+  "actual_result": "Press ] to chat is shown",
+  "expected_result": "Press <new keybind> to chat is shown",
+  "short_description": "Press ] to chat doesn't update with keybind settings",
+  "steps_to_repro": "- Set a keybind for Active Overlay Chat (not the default binding ]) - Start game, pin overlay"
+ }
+}

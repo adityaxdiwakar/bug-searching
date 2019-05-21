@@ -1,0 +1,15 @@
+{
+ "id": "58276238a5839a633fa5f5c6",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 92,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gBLnPaJZ",
+ "data": {
+  "actual_result": "Online/Offline/etc. statuses show in the user list.",
+  "expected_result": "User list does not show status of non-friends",
+  "short_description": "Discord Android shows user statuses in a group DM, even if they aren't friends.",
+  "steps_to_repro": "- Make a group DM  - have someone else add a user that isn't in your friends list "
+ }
+}

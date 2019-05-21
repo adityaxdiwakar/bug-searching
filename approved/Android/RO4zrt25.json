@@ -1,0 +1,23 @@
+{
+ "id": "58ab45fb7df37245667e9be4",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 246,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RO4zrt25",
+ "data": {
+  "system_settings": " (Android Version 4.4.4) (Discord Version 3.3.2)",
+  "actual_result": "The timestamp says 'Today' even though the date is not Today",
+  "expected_result": "The embed should show the date it was given",
+  "short_description": "Embeds with a timestamp in the future always says 'Today'",
+  "steps_to_repro": "- Send a webhook message that has a timestamp in one of the embeds that is at least one day ahead of the current date. "
+ }
+}

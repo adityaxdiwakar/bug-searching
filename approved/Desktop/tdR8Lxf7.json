@@ -1,0 +1,17 @@
+{
+ "id": "59a748290494b9833f4e5025",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1068,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tdR8Lxf7",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.3 (16D32)",
+  "client_settings": "Discord Canary 0.0.154",
+  "actual_result": "The PiP shows in the DM",
+  "expected_result": "The PiP will not show in the DM with the user you're sharing screens with",
+  "short_description": "It is possible to make the PiP show in the DM you have with the user",
+  "steps_to_repro": "- Start a video call with a friend - Share a window with them - Change to a different guild with ctrl-2 - Change the window you're sharing via the PiP - Hit ctrl-1 to get back into the DM"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b5e80de3309437eae09e24a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1718,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8nSZuMF7",
+ "data": {
+  "system_settings": "OnePlus 6 (Version 8.1.0)",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "The categories are not centered, see attachment",
+  "expected_result": "The categories at the bottom of the screen should be centered",
+  "short_description": "In Horizontal View, on a 19:9 (e.g. OnePlus 6) device, the emoji categories will not be centered in search [19:9 ratio or similar]",
+  "steps_to_repro": "- go to a chat and open the emoji picker - click on the search button to make the picker fullscreen - tilt your device to horizontal mode and observe"
+ }
+}

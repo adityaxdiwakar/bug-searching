@@ -1,0 +1,15 @@
+{
+ "id": "58403a236fbbdc99944865ac",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 96,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VJV0tEPz",
+ "data": {
+  "actual_result": "Says the bot has no mutual servers https://imgur.com/a/IDEUk (submitted on behalf of MattBSG#9263)",
+  "expected_result": "Shows all mutual servers you and the bot share",
+  "short_description": "Bot accounts do not have any mutual servers (unknown if limited to iOS)",
+  "steps_to_repro": "- view profile of a bot user - goto mutual servers tab "
+ }
+}

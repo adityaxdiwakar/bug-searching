@@ -1,0 +1,30 @@
+{
+ "id": "5c380bb93f64771d9e787916",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3623,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6WGvvbQp",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit, 1809 17763.253",
+  "client_settings": "Discord Canary v0.0.227 30733",
+  "actual_result": "2 panels open, covering each other.",
+  "expected_result": "The panel should not open at all.",
+  "short_description": "When editing a message and using Ctrl+G, the GIF panel opens twice, once for the message box and once for the message you're editing.",
+  "steps_to_repro": "- Open the edit menu on a previously sent message. - Press the hotkey to open the GIF panel, Ctrl+G"
+ }
+}

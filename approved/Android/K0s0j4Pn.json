@@ -1,0 +1,23 @@
+{
+ "id": "5881efb69c745d9f33703232",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 183,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/K0s0j4Pn",
+ "data": {
+  "system_settings": " Android 5.0.2 Discord latest beta",
+  "actual_result": "a discord icon is there instead",
+  "expected_result": "The same icon as used by default in DMs (three people in blurple) is shown",
+  "short_description": "Group DMs have the wrong logo in the group dm settings when none is set",
+  "steps_to_repro": "- Get invited to a group dm or make one. It must not have a set group picture (!) - Go into group settings "
+ }
+}

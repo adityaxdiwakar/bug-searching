@@ -1,0 +1,30 @@
+{
+ "id": "59730b5dd25f5bdd87e56440",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 568,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zxltYd0H",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0",
+  "client_settings": "Discord Canary, 3.9.9 Android",
+  "actual_result": "Back key closes out of the app and the issue persists until you completely close out of Discord.",
+  "expected_result": "Back key opens the app drawer",
+  "short_description": "Sharing images in app and then pressing the back key exits discord.",
+  "steps_to_repro": "- Open an image - use the share button - share to another server - press the back key -"
+ }
+}

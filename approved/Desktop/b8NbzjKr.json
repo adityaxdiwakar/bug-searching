@@ -1,0 +1,22 @@
+{
+ "id": "58432701a6520c437842b7b2",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 209,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/b8NbzjKr",
+ "data": {
+  "actual_result": "It shows the user info which does not show roles or the user's nickname.",
+  "expected_result": "When clicking on the mention it will show the guild member info, not the user info.",
+  "short_description": "Mentions in embeds on click don't show the member, but instead show the user.",
+  "steps_to_repro": "- Send an embed with a mention. - Click on the mention. "
+ }
+}

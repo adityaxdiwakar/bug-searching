@@ -1,0 +1,15 @@
+{
+ "id": "5818d27086a4d69839e1fbb0",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 98,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/MK3TqWHx",
+ "data": {
+  "actual_result": "Client changes your game https://i.imgur.com/YGycONa.png Client Settings: Canary macOS Sierra",
+  "expected_result": "Client catches invalid game name.",
+  "short_description": "It's possible to set your game to a blank character",
+  "steps_to_repro": "- Change your game to this character `\u115f` "
+ }
+}

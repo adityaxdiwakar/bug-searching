@@ -1,0 +1,24 @@
+{
+ "id": "5986102790be0eca3416ffdf",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 932,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0etZTvd7",
+ "data": {
+  "system_settings": "Mac OS latest",
+  "client_settings": "Canary 0.0.154",
+  "actual_result": "It shows the wrong information (cog menu).",
+  "expected_result": "It should say something like \"Users with manage messages can pin messages from the 3 dots (or whatever it's called now).",
+  "short_description": "Desktop - if there are no pins, the text in the \"Pro Tip\" area mentions pinning from a \"cog menu\" but it's 3 dots now.",
+  "steps_to_repro": "- Go to a text channel with no pinned messages - Click the Pin menu - Read the text at the bottom that says \"Pro Tip\" - Realize that there's no cog menu anymore, but the 3 dots on each line of chat."
+ }
+}

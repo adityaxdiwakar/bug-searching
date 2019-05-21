@@ -1,0 +1,30 @@
+{
+ "id": "5ba64988ceeaa74bba4d9bc6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3018,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nz9erCzx",
+ "data": {
+  "system_settings": "Windows 10 64x (1803)",
+  "client_settings": "Canary 24461 (0.0.211)",
+  "actual_result": "Things don't scale and will fall off the edge",
+  "expected_result": "Content should scale vertically",
+  "short_description": "[Overaly] Channel NSFW warning does scale vertically in Overlay!",
+  "steps_to_repro": "- Open Overlay in a game - Find a NSFW that's not had the NSFW Warning agreed too - Resize the Chat window Vertically"
+ }
+}

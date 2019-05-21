@@ -1,0 +1,23 @@
+{
+ "id": "588bd01b96d08a125bee5597",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 358,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2gztT2Es",
+ "data": {
+  "system_settings": " windows 10 anni",
+  "actual_result": "Discord can no longer accept voice input till restarting it completly",
+  "expected_result": "Just unmutes normally",
+  "short_description": "Being in wow then muting your mic with a hotkey then unmuting your microphone will break voice input",
+  "steps_to_repro": "- mute your mic with a hokey (Mine is shift + \\) - after a little bit (like 30+ seconds) unmute your mic, it will work for a little bit then completly break - The only way to fix this is to restart discord completly "
+ }
+}

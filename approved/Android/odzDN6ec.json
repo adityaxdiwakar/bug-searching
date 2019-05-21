@@ -1,0 +1,17 @@
+{
+ "id": "5ad13bf995c3dc96a3208307",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1265,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/odzDN6ec",
+ "data": {
+  "system_settings": "LG xpower android 6.0.1",
+  "client_settings": "alpha 6.4.8",
+  "actual_result": "breakes are much larger",
+  "expected_result": "breakes between text in typing field should be small as before",
+  "short_description": "breakes between lines of text are larger than in previous version",
+  "steps_to_repro": "- type few line message (i.e Initiation questions of BHG)"
+ }
+}

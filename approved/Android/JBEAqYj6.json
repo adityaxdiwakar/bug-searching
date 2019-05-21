@@ -1,0 +1,30 @@
+{
+ "id": "5b5f6202d6fae5b31cd907b3",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1729,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JBEAqYj6",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "You need to scroll all the way up to see the new server",
+  "expected_result": "The server you just joined should be visible immediately, as when you join the server through the full invite screen",
+  "short_description": "When joining a server through the Join button of an invite embed, the server list doesn't scroll to the top",
+  "steps_to_repro": "- Make sure you are in enough servers to have the server list scrollable - Go to a server all the way at the bottom - Ask someone to send an invite link to a server you never joined before - Tap the Join button of the invite embed - Open server list drawer"
+ }
+}

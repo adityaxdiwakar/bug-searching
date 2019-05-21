@@ -1,0 +1,17 @@
+{
+ "id": "5ac5692eac172fc4751d0584",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 662,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bAoVimUJ",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.3 & iPad Air 2, iOS 11.4 PB 1",
+  "client_settings": "Discord Stable 2.2.9",
+  "actual_result": "Since such Skype URI user links don't work with the mobile Skype apps, the Skype app won't be opened and you get an error in your browser.",
+  "expected_result": "There should be no link or just the Skype app should be opened.",
+  "short_description": "Skype account links don't open the Skype app",
+  "steps_to_repro": "- Find any user that linked a Skype account - Open his user profile - Find the linked Skype account there and click on it - Select the option \"Open in browser\""
+ }
+}

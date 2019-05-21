@@ -1,0 +1,30 @@
+{
+ "id": "5c3815f50e8da15856ae2f60",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2420,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nzwnnKhW",
+ "data": {
+  "system_settings": "Xiaomi Mi3W, Android 7.1.2",
+  "client_settings": "Discord 8.2.4",
+  "actual_result": "The number changed to the name of the channel.",
+  "expected_result": "The number should remain as it is, because you didn't intend to link. Right?",
+  "short_description": "Channel linking partially occurs even though unintended",
+  "steps_to_repro": "- Copy the ID of any channel in a server.  - Go in any chat and write it like this: <channnel-id> (without a # sign) - Try to edit the message."
+ }
+}

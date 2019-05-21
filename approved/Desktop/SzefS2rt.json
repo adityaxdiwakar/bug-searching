@@ -1,0 +1,17 @@
+{
+ "id": "59c69886fa03db9dea5279fa",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1190,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SzefS2rt",
+ "data": {
+  "system_settings": "Windows 7",
+  "client_settings": "Desktop Stable 0.0.298",
+  "actual_result": "League client bug splat loops until Discord is closed out. Disabling Overlay while the loop occurs does not fix it.",
+  "expected_result": "League client shouldn't crash, and overlay should inject smoothly into the verified game.",
+  "short_description": "League of Legends crashes with a bug splat loop when Overlay is enabled.",
+  "steps_to_repro": "- Launch League of Legends - Have Overlay enabled"
+ }
+}

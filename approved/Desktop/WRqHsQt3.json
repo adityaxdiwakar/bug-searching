@@ -1,0 +1,30 @@
+{
+ "id": "5b7546afd07fad67f7fe7b46",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2715,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WRqHsQt3",
+ "data": {
+  "system_settings": "Google Chrome Version 68.0.3440.106, Firefox Quantum 61.0.2 - macOS Sierra 10.12.6",
+  "client_settings": "Canary 22011",
+  "actual_result": "It is partially out of the box or partially not visible, I found different behaviours in different browsers",
+  "expected_result": "It's normally in the box",
+  "short_description": "When reacting with an emote such as Trademark, Copyright & Registered, they will appear very strange and displaced [Browser Only]",
+  "steps_to_repro": "- Open Discord on a supported Browser - Send a message - React to it with one of the emotes: Trademark, Registered or Copyright - Observe how the reaction looks in the box"
+ }
+}

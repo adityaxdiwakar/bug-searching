@@ -1,0 +1,17 @@
+{
+ "id": "5abb334d38d20ead6033fcb2",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1768,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xlORJy9H",
+ "data": {
+  "system_settings": "MacBook Pro 15\" (2017) - macOS High Sierra 10.13.3",
+  "client_settings": "Canary 12767",
+  "actual_result": "The invite has an extra / making the invite invalid",
+  "expected_result": "The invite opens the DTesters server",
+  "short_description": "Bug Hunter Badge redirects to an invalid invite",
+  "steps_to_repro": "- Open b1nzy's profile (currently the only one with the Bug Hunter badge) - Click on the bug hunter badge"
+ }
+}

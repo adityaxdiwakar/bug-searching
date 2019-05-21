@@ -1,0 +1,30 @@
+{
+ "id": "5bfbe3b069a6111fc5b9af1f",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3438,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BDqP235T",
+ "data": {
+  "system_settings": "Windows 10 home x64 v. 1803",
+  "client_settings": "Canary 28393",
+  "actual_result": "Discord hard crashes",
+  "expected_result": "Discord shouldn't crash",
+  "short_description": "discord crashes when changing windows's multiple displays settings while selecting a screen to share in a VC",
+  "steps_to_repro": "- make sure your displays are set to extend in Display Settings - connect to a screenshare enabled VC - click on the screenshare icon turn it on and the and you should see the select a screen modal - change multiple Displays Settings to duplicate the screens - observe"
+ }
+}

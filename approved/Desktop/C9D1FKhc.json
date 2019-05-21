@@ -1,0 +1,23 @@
+{
+ "id": "58f8d8745a4d72cc35bb9326",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 512,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/C9D1FKhc",
+ "data": {
+  "system_settings": " Latest Canary on W10 x64 Pro. NOTE: This has nothing to do with my internet connection. It's at 71mbps download speed, ~19mbps upload, and all previews are inherently sluggish everywhere.",
+  "actual_result": "There is a significant delay in the preview being loaded.",
+  "expected_result": "The preview loads instantly.",
+  "short_description": "Lightbox previews for images are taking longer than usual to load",
+  "steps_to_repro": "- Post a picture in a channel (no specific requirements). - Click the picture. "
+ }
+}

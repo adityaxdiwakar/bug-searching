@@ -1,0 +1,30 @@
+{
+ "id": "5b925fe9764b1517b76e5fb5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1940,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6KwqIGNJ",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 747",
+  "actual_result": "The typing indicator is above the process bar making it difficult to see the progress.",
+  "expected_result": "The typing indicator doesn't come above the upload progress bar or something.",
+  "short_description": "The typing indicator overlaps the image upload progress bar on landscape mode. [Specific to devices with small screens].",
+  "steps_to_repro": "- Go to a channel where someone is typing. - Switch orientation.  - Click on the add content button and send something."
+ }
+}

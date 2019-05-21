@@ -1,0 +1,17 @@
+{
+ "id": "5945178242d47fe8b233c800",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 771,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kZaLAlas",
+ "data": {
+  "system_settings": "Win7x64",
+  "client_settings": "Discord Canary",
+  "actual_result": "The Client will have a 1 px black bar at the bottom that can be resized.",
+  "expected_result": "Window maximizes properly",
+  "short_description": "1 pixel border in maximized mode on Canary (canary only)",
+  "steps_to_repro": "- Maximize Discord Window via button or Win + Up"
+ }
+}

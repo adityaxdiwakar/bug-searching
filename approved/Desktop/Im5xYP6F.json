@@ -1,0 +1,42 @@
+{
+ "id": "5aac309918713ae9909816bd",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1740,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860c591a31552838d6a482",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Emotes",
+   "color": null
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Im5xYP6F",
+ "data": {
+  "system_settings": "Chrome 66.0.3359.26 (Official Build) dev (32-bit) on Windows 7",
+  "client_settings": "Release Channel: stable, Build Number: 12080, Version Hash: e23d62c8c3f6f7db6c2743b5644359040e6fd5bf",
+  "actual_result": "`:p` or `:-p` is displayed",
+  "expected_result": "\ud83d\ude1b emoji should be displayed",
+  "short_description": "Sending \ud83d\ude1b by shortcut alias with lowercase 'p' doesn't work",
+  "steps_to_repro": "- Send `:p` or `:-p`"
+ }
+}

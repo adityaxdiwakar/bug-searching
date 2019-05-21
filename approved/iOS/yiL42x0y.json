@@ -1,0 +1,35 @@
+{
+ "id": "58ba3172e3523b8da300b02d",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 213,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yiL42x0y",
+ "data": {
+  "system_settings": " iPhone5S, iOS 10.2.1, TF 1.8.3 (72)",
+  "actual_result": "duplicate copies uploaded",
+  "expected_result": "Only one copy is uploaded",
+  "short_description": "Can upload duplicate photos at the same time",
+  "steps_to_repro": "- Tap the paperclip to upload a photo - Spam tap a recent photo to quick upload "
+ }
+}

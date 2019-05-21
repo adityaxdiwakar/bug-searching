@@ -1,0 +1,24 @@
+{
+ "id": "597fe8e56f5605e19deaf97b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 915,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I0HLjuxp",
+ "data": {
+  "system_settings": "macOS 10.12.3",
+  "client_settings": "Canary 0.0.152",
+  "actual_result": "The guild changes while in image preview",
+  "expected_result": "Nothing",
+  "short_description": "While previewing an image, ctrl/cmd + (number 1-9) still allows you to change guilds and once changed can then send messages",
+  "steps_to_repro": "- Obtain a message with an attached image - Click the image to bring it into preview mode - Press crtl-1,2,3 etc and notice that now the chatbox is selected and you can now send messges etc"
+ }
+}

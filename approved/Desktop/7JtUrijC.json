@@ -1,0 +1,30 @@
+{
+ "id": "5a17c1c9fa6457e7ce34b44a",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1395,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7JtUrijC",
+ "data": {
+  "system_settings": "Dell i5 Notebook, Windows 10.1 Home Edition",
+  "client_settings": "Release Channel: canary, Build Number: 7502, Version Hash: 853b0be25dd5c703b56a814367e6b3f7f027c53a",
+  "actual_result": "Old profile doesnt update to the new one and it is considered as another user instead of the same user",
+  "expected_result": "Old profile should update to the new profile and/or old profile still be detected as the user itself",
+  "short_description": "You appear to be able to DM yourself after a name change",
+  "steps_to_repro": "- Send a message in a public server and make sure its not deleted and dont get it out of sight, you will need it later - Change your Discord username (USERNAME not nickname!) - Go back to the channel where you sent the message in Step 1 and send another message - Click your name in the message sent in Step 3, it should show you the regular profile youre already used to see when you click your own profile (Notice it has no \"Message @user\" box) - Now close that and click your name in the message sent in Step 1, it should show your old profile with your old username, and it will consider that it is another account instead of you, note it DOES have the \"Message @user\" box at the bottom now"
+ }
+}

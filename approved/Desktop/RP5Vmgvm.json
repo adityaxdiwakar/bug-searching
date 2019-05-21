@@ -1,0 +1,16 @@
+{
+ "id": "5918adb828cba1b343fc2717",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 647,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RP5Vmgvm",
+ "data": {
+  "system_settings": " Windows 10 Pro x64 on Canary 0.0154",
+  "actual_result": "You get \"terraria/terraria.bin.x86\".",
+  "expected_result": "It says \"Terraria\" as it used to do.",
+  "short_description": "Terraria Game Name is Wrong in Verified List",
+  "steps_to_repro": "- Enable Game Detection. - Have Terraria. - Open the game - Observe playing status. "
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59d703653f009ad21de96c09",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 789,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/M5vWqBzJ",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 5.2.8",
+  "actual_result": "an invisible role",
+  "expected_result": "should be able to see their role",
+  "short_description": "default colored roles are invisible",
+  "steps_to_repro": "- have a default colored role - have it applies to you or someone else - open member list and click the user  name - observe the users roles"
+ }
+}

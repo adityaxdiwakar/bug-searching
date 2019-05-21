@@ -1,0 +1,24 @@
+{
+ "id": "5b6502fd17344942f6e13d9b",
+ "closed": false,
+ "idList": "5b65390c05de8f6af6fe13e9",
+ "idShort": 1777,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wnvywV0P",
+ "data": {
+  "system_settings": "ZTE Blade A602, Android Nougat 7.0",
+  "client_settings": "Discord Android Alpha 7.2.4 (724)",
+  "actual_result": "The buttons are not there",
+  "expected_result": "The buttons are sitting on the bottom of the modal",
+  "short_description": "Turning on mobile game detection in landscape mode hides the modal buttons.",
+  "steps_to_repro": "- Ensure your phone is in landscape mode - Turn on mobile game detection - Try to use the modal"
+ }
+}

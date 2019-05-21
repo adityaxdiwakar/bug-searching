@@ -1,0 +1,17 @@
+{
+ "id": "5b089ce5bd510768a67fb4b1",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2056,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rINI01Jr",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary, Build number: 16139",
+  "actual_result": "discord crashes and gives an \"well, this is awkward\"",
+  "expected_result": "Discord shouldnt crash but instead the video should play",
+  "short_description": "videos crashes when selecting specific timestamps [NOTE: happens on 16139]",
+  "steps_to_repro": "- Have someone send a video like direct uploaded files - click on it so the video plays - click on a timestamp - observe"
+ }
+}

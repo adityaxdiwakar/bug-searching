@@ -1,0 +1,30 @@
+{
+ "id": "5babae06705ff252dd73d9f2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2040,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eSgR2OzH",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 755",
+  "actual_result": "It isn't centered.",
+  "expected_result": "It is centered.",
+  "short_description": "The settings gear in the invite creation page isn't centered in the box when you set your font to max.",
+  "steps_to_repro": "- Set your font to the max size. - Click on Create instant invite button above a server name in which you have permissions to create invites. - Observe the settings gear."
+ }
+}

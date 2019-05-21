@@ -1,0 +1,15 @@
+{
+ "id": "5813d7f30aa7d742052569e2",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 85,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4PXTW12g",
+ "data": {
+  "actual_result": "The notifier remains anyway. (Submited for <@233796393884581888> )",
+  "expected_result": "The notifier disappears because there're no new messages.",
+  "short_description": "The white \"Unread Messages\" notifier appears next to servers/channels even if there are no new messages.",
+  "steps_to_repro": "- Have someone send a message in a channel you're not viewing - Have them delete that message without you reading it. "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b58005297ee37d466dcb7aa",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2426,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AVG5a0IK",
+ "data": {
+  "system_settings": "Windows 7 Professional x64",
+  "client_settings": "stable, Build Number: 19693, Version Hash: ca47360e3cd236ed19c0a168c311c3667aa3f41c",
+  "actual_result": "The search bar fills the entire horizontal space of the modal.",
+  "expected_result": "The search bar should be padded on the left and right.",
+  "short_description": "The Help Center's Search bar isn't padded",
+  "steps_to_repro": ""
+ }
+}

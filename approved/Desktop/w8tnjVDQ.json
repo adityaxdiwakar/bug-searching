@@ -1,0 +1,30 @@
+{
+ "id": "5a4763412549e19b0e166b45",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1496,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/w8tnjVDQ",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord Canary 0.0.194, Build 9070",
+  "actual_result": "The tooltip is off to the bottom left",
+  "expected_result": "The tooltip is centered over the crown",
+  "short_description": "Group Owner tooltip is off centered from the crown if the Group DM owner has a lengthy name",
+  "steps_to_repro": "- Create a group DM with the owner having a name 16-18 characters long - Scroll over the owner's crown and observe"
+ }
+}

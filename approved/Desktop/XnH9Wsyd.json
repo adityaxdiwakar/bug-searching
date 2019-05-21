@@ -1,0 +1,22 @@
+{
+ "id": "588d700e76aef04b311de630",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 361,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XnH9Wsyd",
+ "data": {
+  "actual_result": "Page (n + 1)/n",
+  "expected_result": "Nothing - Button isn't clickable",
+  "short_description": "Can click Next on Last Search result Page",
+  "steps_to_repro": "- Run a search (mine had 2 pages of results) - Click next while on last result "
+ }
+}

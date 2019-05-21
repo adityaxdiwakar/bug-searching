@@ -1,0 +1,30 @@
+{
+ "id": "5b0c6ea74ce45a93d7577c07",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2065,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gGLTYbRw",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord web browser version, 7913",
+  "actual_result": "Embed is still enabled for the link",
+  "expected_result": "Embed should be disabled for the link",
+  "short_description": "Wrapping invite link in '< >' does not hide embed. Happens only in the stable Discord web browser version.",
+  "steps_to_repro": "- Post a  invite link with '< >' (< https://discordapp.com/invite/discord-testers >) (without space)"
+ }
+}

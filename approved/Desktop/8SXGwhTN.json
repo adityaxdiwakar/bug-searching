@@ -1,0 +1,30 @@
+{
+ "id": "5ab3a87798ccb1bbc03fc6b9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1749,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8SXGwhTN",
+ "data": {
+  "system_settings": "macOS 10.13.3",
+  "client_settings": "Discord macOS 0.0.250",
+  "actual_result": "Call continues to ring and the user has to manually maximise the client window",
+  "expected_result": "The client should maximise to show the call in progress",
+  "short_description": "macOS call notification doesn't maximise minimised client",
+  "steps_to_repro": "- Minimise Discord client - Get a call from another user - Click on notification"
+ }
+}

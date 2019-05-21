@@ -1,0 +1,23 @@
+{
+ "id": "58b206de461f78f53f1f8108",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 201,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9YZzhDBp",
+ "data": {
+  "system_settings": " iPhone 5S, iOS 10.2.1, TF 1.8.3 (70)",
+  "actual_result": "Note is empty or in it's original state",
+  "expected_result": "Note has been added or amended",
+  "short_description": "Cannot add or edit a note on a user",
+  "steps_to_repro": "- Click on a user and go to their profile - Type some stuff in the notes section - Press 'Close' without tapping anywhere to minimise the keyboard - Look back at the notes section "
+ }
+}

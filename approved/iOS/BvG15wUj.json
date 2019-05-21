@@ -1,0 +1,29 @@
+{
+ "id": "58b1817489977cc72729946c",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 197,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BvG15wUj",
+ "data": {
+  "system_settings": " 6s, 10.3 beta, TestFlight",
+  "actual_result": "There isn't a retina version of the image",
+  "expected_result": "It is crisp and pretty",
+  "short_description": "Dashed line around \"add server\" button is fuzzy",
+  "steps_to_repro": "- scroll to the bottom of the server list - look at outline of the plus button "
+ }
+}

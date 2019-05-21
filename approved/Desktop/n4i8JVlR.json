@@ -1,0 +1,17 @@
+{
+ "id": "5bd6fa20675b886bdc2a5664",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 3300,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/n4i8JVlR",
+ "data": {
+  "system_settings": "Windows 10 Home x64 ver. 1803",
+  "client_settings": "Discord Stable 27050",
+  "actual_result": "the search board collapses and the search bar stays expanded and a offsetted search board the next search",
+  "expected_result": "nothing since im only right clicking something that's only left click-able",
+  "short_description": "right clicking \"clear search history\" collapses search board and not search bar, also offested search board next search",
+  "steps_to_repro": "- right click `clear search history` (you need to do a search first for the option to show) - notice that the search bar is still expanded - click on the search bar again and notice how the search board is a bit to the right"
+ }
+}

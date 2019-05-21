@@ -1,0 +1,24 @@
+{
+ "id": "591ffd943b5f4419067ae11a",
+ "closed": false,
+ "idList": "57f581ee03d9a5860ecf0e06",
+ "idShort": 473,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6DrG4KUo",
+ "data": {
+  "system_settings": "-a",
+  "client_settings": "Discord 3.8.8",
+  "actual_result": "Extra padding is added above the first line.",
+  "expected_result": "Nothing it remained the same",
+  "short_description": "Emoji message with text gets extra padding when changing channels",
+  "steps_to_repro": "- send a custom emoji with text - send a custom emoji - switch to a different channel - switch back - observe the emoji with text"
+ }
+}

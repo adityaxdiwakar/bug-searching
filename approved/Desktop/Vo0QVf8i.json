@@ -1,0 +1,15 @@
+{
+ "id": "581ad2dc05111d32be9e18e3",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 104,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Vo0QVf8i",
+ "data": {
+  "actual_result": "Blank area where photo should be",
+  "expected_result": "Photo shows when uploaded",
+  "short_description": "If user uploads a photo it comes out as a blank space",
+  "steps_to_repro": "- upload a couple photos "
+ }
+}

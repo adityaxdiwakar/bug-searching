@@ -1,0 +1,30 @@
+{
+ "id": "5a166190c4604eba0125a9d1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1394,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wE77tIn7",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Fall Creators Update version 1709 (Build 16299.64)",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 7434, Version Hash: 73ba3238d57735140223a16c75d1296ffbd37251 af2c662",
+  "actual_result": "The Ctrl +/- does a proper zoom, while pinching enlarges everything without respect to window size. See screens above. Additionally, pinch-zooming can hide the window title bar.",
+  "expected_result": "Either the pinch-to-zoom should follow Ctrl +/- or should completely be disabled.",
+  "short_description": "Inconsistencies with zoom behaviour",
+  "steps_to_repro": "- Have a computer with a touchscreen (Slightly necessary) - Open Discord to absolutely any page - Zoom using Ctrl +/- () - Zoom using a pinching gesture ()"
+ }
+}

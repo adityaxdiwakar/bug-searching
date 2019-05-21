@@ -1,0 +1,30 @@
+{
+ "id": "5ae4055faddd2aaac5299152",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1336,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jW8tdrPs",
+ "data": {
+  "system_settings": "Android 8.0.0 Nokia 5",
+  "client_settings": "Discord alpha 6.5.6",
+  "actual_result": "It does not highlight the images",
+  "expected_result": "It should highlight the image",
+  "short_description": "Holding allow direct messages does not highlight image",
+  "steps_to_repro": "- Click on three dots on server title - Hold your finger on any button except direct messages (These buttons highlight the image when you hold them) - Hold your finger on direct messages (This does not highlight the image)"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "598cf10ac039e3ed83c1ad49",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 968,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kyid2ABt",
+ "data": {
+  "system_settings": "Windows 10 Creators Update x64",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "Only has Voice settings/says Voice",
+  "expected_result": "Still says Voice and Video",
+  "short_description": "Video Settings Disappear when not calling",
+  "steps_to_repro": "- Make sure you are part of the experiment - Be in video call with someone - Check User Settings to see Voice and Video - Leave call and check user settings"
+ }
+}

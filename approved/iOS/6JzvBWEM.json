@@ -1,0 +1,30 @@
+{
+ "id": "5aeee2eb53d8d2c326618e9e",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 721,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6JzvBWEM",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.0",
+  "client_settings": "Discord TestFlight 2.3.1 (4051)",
+  "actual_result": "It displays a Wumpus icon",
+  "expected_result": "It isn't supposed to display the Wumpus icon, rather a Russian flag.",
+  "short_description": "When creating a server in the Russian region, will display a Wumpus icon as Russia in the server overview.",
+  "steps_to_repro": "- Create a server in the Russian region - Go to the server overview - Observe"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b5a6846507d252477d234b6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2447,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8DEuSgv9",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.1.6 (affects all clients)",
+  "actual_result": "The HTML entity is half cut off making it render bad near the spot where the text truncates.",
+  "expected_result": "If a character represented by an HTML entity doesn't fit in description, it should be removed completely",
+  "short_description": "[Backend issue affecting all clients] Website embeds may cut off the description text in the middle of an HTML entity",
+  "steps_to_repro": "- Have a website with a long description, with an HTML entity near the character limit that the embed can show (very uncommon case so try with the link in attachment) - Post the link of this website in Discord"
+ }
+}

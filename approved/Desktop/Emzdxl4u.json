@@ -1,0 +1,24 @@
+{
+ "id": "5a0c487352a2d99c7beb1d02",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1376,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Emzdxl4u",
+ "data": {
+  "system_settings": "Windows 10 Pro x64, Fall Creators Update (v1709)",
+  "client_settings": "Canary v0.0.177",
+  "actual_result": "\"Send Message\" button appears on your profle, even you can't send message to yourself",
+  "expected_result": "\"Send Message\" button shouldn't appear in your own profile",
+  "short_description": "Viewing your own profile shows \"Send Message\" button",
+  "steps_to_repro": "- Click your name - Click your icon to view the profile"
+ }
+}

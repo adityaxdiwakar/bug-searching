@@ -1,0 +1,15 @@
+{
+ "id": "585eb5a23a4feedbf1ae2764",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 139,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/J3YEFsoy",
+ "data": {
+  "actual_result": "it doesn't",
+  "expected_result": "my goddamn music needs to keep playing \ud83d\ude09",
+  "short_description": "opening gifs pauses music",
+  "steps_to_repro": "- play music - open a gif "
+ }
+}

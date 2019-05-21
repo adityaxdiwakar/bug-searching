@@ -1,0 +1,30 @@
+{
+ "id": "5bd9b416c113f6160ecb8b6c",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2267,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UGOaMnDJ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.8.3",
+  "actual_result": "After fullscreening, it shows back camera view and flash is set to Auto again",
+  "expected_result": "Fullscreening should preserve the state of camera switch and flash",
+  "short_description": "Fullscreening the in-app camera doesn't preserve camera switch and flash state",
+  "steps_to_repro": "- Go to any text channel and tap the attachments button (+)  - Navigate to the in-app camera tab - Switch to selfie mode - Change the flash state (from Auto to Off or On) - Tap the fullscreen button"
+ }
+}

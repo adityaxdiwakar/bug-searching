@@ -1,0 +1,17 @@
+{
+ "id": "593b4b8933f2b3781dd53d94",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 738,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/duJiqesR",
+ "data": {
+  "system_settings": "Windows 7 Ultimate x32",
+  "client_settings": "Latest Canary",
+  "actual_result": "The button ESC is missing and there is a huge space between the bar on the left and the actual settings menu The",
+  "expected_result": "The UI should look normal without deformations in comparison to Stable version",
+  "short_description": "User Settings and Server Settings menu is completely broken and the ESC button is missing",
+  "steps_to_repro": "- Open User Settings/Server Settings menu"
+ }
+}

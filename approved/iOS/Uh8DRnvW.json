@@ -1,0 +1,24 @@
+{
+ "id": "5bd29c9971a7a38e521ba6b4",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1124,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Uh8DRnvW",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 5 Windows 10 Home x64 1803",
+  "client_settings": "TestFlight 2.4.0 (8616) Canary Build 26991",
+  "actual_result": "Discord changes theme, but reopens the last page you were on in server settings",
+  "expected_result": "Discord changes theme on your phoneD",
+  "short_description": "Changing theme on another device will reopen most recent page in server settings",
+  "steps_to_repro": "- Open Discord on your phone, and go into the server settings of a server you can see settings in - Open any page in server settings, and then close that page, but leave the main server settings page open - On another device, go into appearance settings and change the theme - Observe the server settings on your phone as you change theme"
+ }
+}

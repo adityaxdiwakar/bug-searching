@@ -1,0 +1,30 @@
+{
+ "id": "5afc86d00278e3f45cd61333",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2002,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/llr6pm3c",
+ "data": {
+  "system_settings": "Macbook Air (Early 2015), macOS Sierra 10.12.6, Firefox Quantum 57.0.4 (64-bit)",
+  "client_settings": "Discord Canary (15376) Web Client",
+  "actual_result": "It displays a weird gray section with the scroll bar, and it's also too spaced out.",
+  "expected_result": "It's supposed to show a scroll bar",
+  "short_description": "Weird/too spaced out scroll bar section when adding a role to a person in Firefox browser",
+  "steps_to_repro": "- Have many roles in a server - Click on someone and click the \"+\" to add roles - Observe the scroll bar"
+ }
+}

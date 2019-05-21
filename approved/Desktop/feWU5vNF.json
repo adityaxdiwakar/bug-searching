@@ -1,0 +1,24 @@
+{
+ "id": "599f792dbad728fe96cb2e18",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1044,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/feWU5vNF",
+ "data": {
+  "system_settings": "Windows 10 Enterprise version 1703 build 15063.540",
+  "client_settings": "Desktop Canary, 0.0.163",
+  "actual_result": "User's speech is transmitted",
+  "expected_result": "User's speech isn't transmitted",
+  "short_description": "Server Muting via role application doesn't immediately server mute",
+  "steps_to_repro": "- Create a role that is disallowed from speaking (not just using VA) in a voice channel - Have a user (someone without permissions that would already override the server mute setting) join that voice channel - Apply role to user - User speaks"
+ }
+}

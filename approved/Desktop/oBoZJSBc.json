@@ -1,0 +1,30 @@
+{
+ "id": "5a41849e05295b0d3d6c7012",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1491,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oBoZJSBc",
+ "data": {
+  "system_settings": "Windows 10 Education, Version 1709, OS Build 16299.125, x64-based",
+  "client_settings": "Release Channel: canary, Build Number: 9070, Version Hash: f546e8dff486ff50228e2ae54d8502fbfc9ba766",
+  "actual_result": "JavaScript error in main process",
+  "expected_result": "Nothing should happen",
+  "short_description": "JavaScript error when trying to press CTRL + Y in text field",
+  "steps_to_repro": "- Go to any channel - Click into the text field - Press CTRL + Y"
+ }
+}

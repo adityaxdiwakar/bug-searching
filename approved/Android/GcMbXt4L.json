@@ -1,0 +1,24 @@
+{
+ "id": "59bb3d1a630d6c73d5ea3939",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 716,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GcMbXt4L",
+ "data": {
+  "system_settings": "Google Pixel, 8.0.0",
+  "client_settings": "Android Alpha 5.1.5",
+  "actual_result": "The channel is not muted and shows the unread message",
+  "expected_result": "All channels in the category are supposed to be muted",
+  "short_description": "Muting a category does not mute the channels in it",
+  "steps_to_repro": "- Mute a category - Wait until there is a message in one of its channels"
+ }
+}

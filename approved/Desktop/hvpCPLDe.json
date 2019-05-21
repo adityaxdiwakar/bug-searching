@@ -1,0 +1,17 @@
+{
+ "id": "59bd6ac752b8deb792a193fa",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1147,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hvpCPLDe",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Canary Build 4358",
+  "actual_result": "They aren't greyed out and you still get half circle notifcations",
+  "expected_result": "The Category name and text channels should be greyed out",
+  "short_description": "Muting a category doesn't mute the test channels underneat",
+  "steps_to_repro": "- Create some categories - Add some text channel sunder each one - Mute the category and only the category"
+ }
+}

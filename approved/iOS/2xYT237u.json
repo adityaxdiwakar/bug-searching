@@ -1,0 +1,30 @@
+{
+ "id": "5a749430f35202799ce0e2a3",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 557,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2xYT237u",
+ "data": {
+  "system_settings": "iPhone 5s iOS 9.0.2",
+  "client_settings": "TestFlight 2.2.2 (2352)",
+  "actual_result": "The \"Listening Party is over!\" text overlaps the image in the dialog",
+  "expected_result": "The \"The Listening Party is over!\" text doesn't overlap the image in the dialog",
+  "short_description": "[4\" Devices Only] Listen along dialog text overlap when the party has ended",
+  "steps_to_repro": "- Have someone invite you to listen along - Have them stop playing their music"
+ }
+}

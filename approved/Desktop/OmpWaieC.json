@@ -1,0 +1,17 @@
+{
+ "id": "5c38fc010be7a70de9596bfe",
+ "closed": false,
+ "idList": "5c148a9d85de9b479596b253",
+ "idShort": 3625,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/OmpWaieC",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS v10.14.2 (Mojave)",
+  "client_settings": "Canary 30756",
+  "actual_result": "The same suggestions are kept on the page briefly, but noticably until they're regenerated.",
+  "expected_result": "When the picker reloads, the suggestions should regenerate before the suggestion area reappears.",
+  "short_description": "If you use a suggestion in the GIF Picker, you're able to scroll down and see the same suggestions briefly before it either disappears or changes to new suggestions.",
+  "steps_to_repro": "- Search something in the GIF Picker that would make suggestions appear at the bottom of the picker (I used \"3000\") - Scroll all the way down and wait for the suggestions to appear. (\"Your perfect GIF is in another castle.\") - Click a suggestion. - Scroll back to the bottom of the picker."
+ }
+}

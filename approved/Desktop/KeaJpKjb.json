@@ -1,0 +1,30 @@
+{
+ "id": "5bd9e785163e6830010c0376",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3321,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KeaJpKjb",
+ "data": {
+  "system_settings": "Ubuntu 18.04 LTS (stock GNOME desktop env), 64-bit processor Ryzen 7 2700X",
+  "client_settings": "Discord Canary 27227",
+  "actual_result": "They are sorted by ChannelID",
+  "expected_result": "Channels should be sorted according to their position in server list",
+  "short_description": "In the dropdown menu to select welcome message channel in server settings, channels are sorted incorrectly",
+  "steps_to_repro": "- Go to Server Settings > Overview  - Expand the dropdown menu to select the welcome message channel - Observe channel list in the dropdown"
+ }
+}

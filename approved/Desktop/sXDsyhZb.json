@@ -1,0 +1,30 @@
+{
+ "id": "59ef04dd4362152d901a52ab",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1310,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sXDsyhZb",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (Build 1607)",
+  "client_settings": "Discord Canary 0.0.167 (Build 6257)",
+  "actual_result": "It's massive",
+  "expected_result": "It shouldn't be that massive",
+  "short_description": "The user status icon is huge compared to last build",
+  "steps_to_repro": "- Click on a user - Observe"
+ }
+}

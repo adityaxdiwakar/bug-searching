@@ -1,0 +1,30 @@
+{
+ "id": "5ada1fa25e97d1bbf832989b",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1869,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iExX1otP",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Discord Canary 13939",
+  "actual_result": "Message bar extends with extra lines under the last line of text that disappear after typing again in the message (number of lines depends on how much text there is)",
+  "expected_result": "Message bar extends with the proper number of lines",
+  "short_description": "Typing a long message while having the search feature open adds extra lines which are unusable after closing search",
+  "steps_to_repro": "- Search something random in a server - Type an extremely long message with the search open (7-8 lines should be enough) - Close the search feature - Observe the extra lines that are underneath the last line of text"
+ }
+}

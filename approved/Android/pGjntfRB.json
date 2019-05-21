@@ -1,0 +1,30 @@
+{
+ "id": "5ba8358183bc564545bf1de8",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2002,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pGjntfRB",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.4",
+  "actual_result": "It uses a different and unusual font",
+  "expected_result": "Should use the same font as anywhere else in the app (like server list, quick switcher or server settings)",
+  "short_description": "Letters of pictureless servers in Mutual Servers have unusual font",
+  "steps_to_repro": "- Share a pictureless server with someone - View this person's profile - Navigate to Mutual Servers tab - Observe font"
+ }
+}

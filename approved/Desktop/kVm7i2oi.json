@@ -1,0 +1,30 @@
+{
+ "id": "5a1a8c18f34c85b7a8250d87",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1398,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kVm7i2oi",
+ "data": {
+  "system_settings": "Windows 8.1 x64",
+  "client_settings": "Canary 0.0.180",
+  "actual_result": "The tick icon goes under the word joined",
+  "expected_result": "Invite should look as is and should say you are in it",
+  "short_description": "Server invites with a long server name have the tick in the wrong place",
+  "steps_to_repro": "- Get a invite from a server that you are in and has a long name - Send that invite link in a server or DM"
+ }
+}

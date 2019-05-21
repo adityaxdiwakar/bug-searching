@@ -1,0 +1,23 @@
+{
+ "id": "58c0decc852b69484d72dd70",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 277,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LC169oaq",
+ "data": {
+  "system_settings": " Android 5.0.2 \u2022 Discord latest beta",
+  "actual_result": "an empty line divider makes its way in to ruin your day.",
+  "expected_result": "Messages stay after each other normally",
+  "short_description": "Writing a message, a message with a link and another message without a link causes weird padding to happen without embeds",
+  "steps_to_repro": "- Start Discord - Go into a server you can write messages in - Write a message with a text meme - Paste this link with a message: https://trello.com/c/tygwwQpP/ - Write another text meme "
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "5911eaad04beda1059ff7c57",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 445,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HyHlMUTl",
+ "data": {
+  "system_settings": " 7.0 running Discord 3.8.2",
+  "actual_result": "It doesnt",
+  "expected_result": "Close copy-paste menu",
+  "short_description": "Having copy-paste menu open then going to servers or members keeps it open",
+  "steps_to_repro": "- open copy-paste menu - open servers or members panel "
+ }
+}

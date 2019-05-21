@@ -1,0 +1,15 @@
+{
+ "id": "582b97d845c637afc4255b70",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 72,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SeOOOdWJ",
+ "data": {
+  "actual_result": "It doesn't.",
+  "expected_result": "Typing indicator appears normal.",
+  "short_description": "Names with the \"@\" symbol in them appear funny in the typing indicator",
+  "steps_to_repro": "- Have a person with \"@\" in their name type "
+ }
+}

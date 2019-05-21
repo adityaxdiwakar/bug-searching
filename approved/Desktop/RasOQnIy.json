@@ -1,0 +1,17 @@
+{
+ "id": "5b57b868cb58cfabdbde7532",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2424,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RasOQnIy",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 19588",
+  "actual_result": "The overlay says \"Incoming call...\" despite the call being outgoing",
+  "expected_result": "The overlay says \"Outgoing call..\" or doesn't display anything at all",
+  "short_description": "Initiating a call shows \"Incoming Call...\" in the overlay",
+  "steps_to_repro": "- Open a game and ensure the overlay is running - Start a DM call from the overlay and quickly close the overlay or leave the app running in the background, start a dm call then quickly tab back into the overlay"
+ }
+}

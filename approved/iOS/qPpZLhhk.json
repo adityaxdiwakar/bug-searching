@@ -1,0 +1,28 @@
+{
+ "id": "584464a36f1fb21ab9825840",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 105,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qPpZLhhk",
+ "data": {
+  "actual_result": "unreadable white title bar",
+  "expected_result": "Non translucent color",
+  "short_description": "Title bar for photo selection is incorrect color",
+  "steps_to_repro": "- Ensure you're using the Dark Theme- Goto attach picture through camera roll "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59bc5c92c572905450a055a1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1136,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0uQFORV4",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6 (16G29) (iMac Retina 5K, 27-inch, Late 2017)",
+  "client_settings": "Discord Canary 0.0.154 (Build 4331)",
+  "actual_result": "The mention shows as `<@123456789>`",
+  "expected_result": "The mention will show as `@username#0000`",
+  "short_description": "When editing a message with a mention, it shows the id",
+  "steps_to_repro": "- Mention a user in a message - Edit the message (press the up arrow key)"
+ }
+}

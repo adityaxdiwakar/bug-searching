@@ -1,0 +1,30 @@
+{
+ "id": "5b7f1316f202b93621544fd6",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1873,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9WVGZV0U",
+ "data": {
+  "system_settings": "Android 7.1.1 on Samsung Galaxy j5.6",
+  "client_settings": "Android Alpha 7.4.0 (740)",
+  "actual_result": "There is a clickable link in the mention",
+  "expected_result": "You see a normale mention",
+  "short_description": "Links are parsed in mentions when there ist text in front of the mention",
+  "steps_to_repro": "- Nick yourself to cool discord(dot)com - Mention yourself"
+ }
+}

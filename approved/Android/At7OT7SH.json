@@ -1,0 +1,16 @@
+{
+ "id": "58f9a181241f067777b880c0",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 395,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/At7OT7SH",
+ "data": {
+  "system_settings": " Android 5.0.2 Discord 3.7.0",
+  "actual_result": "it creates a new line",
+  "expected_result": "The button isn't even on the keyboard or doesn't work",
+  "short_description": "You can create a new line in the join server text field",
+  "steps_to_repro": "- Open the join server dialogue - Press \"New line\" in the invite box "
+ }
+}

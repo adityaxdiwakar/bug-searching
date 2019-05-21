@@ -1,0 +1,30 @@
+{
+ "id": "5a4a8245de1f60feecadf4c7",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1012,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GbcfpZ9s",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.0.2",
+  "actual_result": "The animation resets when you tap on reaction, even if you tap on a different one. It also happens when multiple users react on the message in a short amount of time",
+  "expected_result": "The animation of the animated emoji should continue normally",
+  "short_description": "Animation of an animated emoji resets in reactions when reacting with another emoji on the same message",
+  "steps_to_repro": "- Have someone with a Nitro subscription add a raction to a message with an animated emoji - Have this person add another reaction with a different emoji (no matter if animated or not) - React as well with those emojis by tapping on them under the message"
+ }
+}

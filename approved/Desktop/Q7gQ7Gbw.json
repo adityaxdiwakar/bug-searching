@@ -1,0 +1,35 @@
+{
+ "id": "588709dd832a7e279a1ca43f",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 348,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Q7gQ7Gbw",
+ "data": {
+  "system_settings": " Discord Canary, PTB, Stable, Win 10 x64",
+  "actual_result": "Shows last 3.",
+  "expected_result": "Last 4 should be shown.",
+  "short_description": "Nitro Process Shortens card to last 3 numbers with a 0 at the beginning.",
+  "steps_to_repro": "- Sign Up For Nitro - Use any card with a 0 at the beginning - "
+ }
+}

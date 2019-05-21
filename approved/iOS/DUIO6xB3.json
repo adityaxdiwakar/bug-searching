@@ -1,0 +1,29 @@
+{
+ "id": "5842b6b4cc11ae00a8e414cb",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 103,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DUIO6xB3",
+ "data": {
+  "system_settings": " iOS 10.1.1, iPhone 5.",
+  "actual_result": "no strikeout.",
+  "expected_result": "The link would be shown as if it was striked out.",
+  "short_description": "Striking out links won't show on mobile.",
+  "steps_to_repro": "- find a link. any link. - Strike it out. "
+ }
+}

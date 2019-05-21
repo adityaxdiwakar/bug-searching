@@ -1,0 +1,30 @@
+{
+ "id": "5bd57d91a2b5c94fd257a319",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2252,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YwsA4BnL",
+ "data": {
+  "system_settings": "Sony Xperia XZ1 Android 8.0",
+  "client_settings": "Aplha 782",
+  "actual_result": "It scrolls back to the top",
+  "expected_result": "Discord shouldn't scroll up",
+  "short_description": "Discord scrolls up after saving server notification settings",
+  "steps_to_repro": "- Open server settings -> overview - Change the default notification settings and save"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b05b2d8ae5d4ceb36d75f0d",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2046,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JLUB1zqY",
+ "data": {
+  "system_settings": "macOS 10.13.4",
+  "client_settings": "Canary 15919",
+  "actual_result": "Text overflows, and it is shown vertically",
+  "expected_result": "It fits",
+  "short_description": "East-asian languages' (full width characters) server region change button overflows",
+  "steps_to_repro": "- Change your language to Japanese/Chinese/Korean - Go to server settings > server region- Notice that the text in the button to change server region doesn't fit."
+ }
+}

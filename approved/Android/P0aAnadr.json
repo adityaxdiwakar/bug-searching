@@ -1,0 +1,30 @@
+{
+ "id": "5b5d8fb66d5a560ed5a133d4",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1707,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/P0aAnadr",
+ "data": {
+  "system_settings": "Discord 7.2.0 (720) - Android 5.1",
+  "client_settings": "Android alpha 7.2.0(720) Systeme settings: Android 5.1",
+  "actual_result": "\"Share link\" button is cut",
+  "expected_result": "The \"Share link\" button isn't cut",
+  "short_description": "in create invitation menu \"share link\" button is cut [DEVICE WITH SMALL SCREEN]",
+  "steps_to_repro": "- Go to \"create instant invite\" menu - Rotate your device"
+ }
+}

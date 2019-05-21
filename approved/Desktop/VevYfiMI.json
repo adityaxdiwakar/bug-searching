@@ -1,0 +1,17 @@
+{
+ "id": "5931ae7594b29bad6604074a",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 714,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VevYfiMI",
+ "data": {
+  "system_settings": "Win 10 Pro x64 v1607",
+  "client_settings": "Desktop Canary 0.0.155",
+  "actual_result": "The text appears linked to the \"enable overlay\"",
+  "expected_result": "IF the overlay updates, it should show separately from \"enable overlay\"",
+  "short_description": "Updating the overlay if you have it disabled by by default shows \"updating\" directly next to \"enable overlay\"",
+  "steps_to_repro": "- This bug can ONLY be reproduced if you've had the overlay off for a while, you will only have 1 shot at reproducing this until the overlay gets updated - Open User Settings > Overlay - Enable the overlay"
+ }
+}

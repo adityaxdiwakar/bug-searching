@@ -1,0 +1,24 @@
+{
+ "id": "5a1ed814f0f03c80bd48c412",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1411,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ycgAmsiy",
+ "data": {
+  "system_settings": "Windows 7 ulti x64",
+  "client_settings": "Desktop Canary 7750",
+  "actual_result": "Message user textbox in user profile pop-up extends out of borders of the app window",
+  "expected_result": "Message user textbox in user profile pop-up should stay on the screen",
+  "short_description": "\"Message @User\" textbox when left-clicking on an user is cut off the screen [14\" 1366x768]",
+  "steps_to_repro": "- In a server, click on a user playing a game - Add a note which takes up more than 5 rows to that user (shift+enter for a new line)"
+ }
+}

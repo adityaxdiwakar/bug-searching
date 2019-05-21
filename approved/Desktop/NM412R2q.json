@@ -1,0 +1,17 @@
+{
+ "id": "5b6263c1160d4e73db068b31",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2582,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NM412R2q",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 20535",
+  "actual_result": "There isn't a warning, which could unintentionally expose users to explicit content",
+  "expected_result": "There is a NSFW warning",
+  "short_description": "No NSFW warning when viewing NSFW channels on the overlay",
+  "steps_to_repro": "- Open the overlay - Go to a server where you haven't accepted any NSFW warnings and would normally show a NSFW warning when viewing an NSFW channel on desktop - Open an NSFW channel"
+ }
+}

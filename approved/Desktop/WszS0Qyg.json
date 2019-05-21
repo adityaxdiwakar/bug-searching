@@ -1,0 +1,24 @@
+{
+ "id": "5b6c9f05d659dd442708db18",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2652,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WszS0Qyg",
+ "data": {
+  "system_settings": "iPhone 8 Plus - iOS 11.4.1",
+  "client_settings": "Safari",
+  "actual_result": "Image gets cut off in landscape mode.",
+  "expected_result": "Image shouldn't get cut off and be scrollable.",
+  "short_description": "[Website bug] [Phones only] Invalid invite screen images gets cut off",
+  "steps_to_repro": "- Open any invalid invite link in your browser - Rotate your iPhone to landscape mode - Observe the image there"
+ }
+}

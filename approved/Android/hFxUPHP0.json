@@ -1,0 +1,30 @@
+{
+ "id": "59bd615db33fa5b98a5268aa",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 733,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hFxUPHP0",
+ "data": {
+  "system_settings": "Android 4.4.4, Allview VivaH8LTE",
+  "client_settings": "Discord Alpha 5.1.7",
+  "actual_result": "The text is bold",
+  "expected_result": "The text shouldn't be bold",
+  "short_description": "The \"Pending\" section has bold text, being different than the other sections (friends tab)",
+  "steps_to_repro": "- Go to friends tab/section - Observe the All, Online, sections: the pending one has bold text - (Optional: See attachment)"
+ }
+}

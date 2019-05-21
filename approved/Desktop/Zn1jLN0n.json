@@ -1,0 +1,30 @@
+{
+ "id": "5a3093bde66a68015c84631d",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1447,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Zn1jLN0n",
+ "data": {
+  "system_settings": "Windows 10 (Version 1709)",
+  "client_settings": "Discord Stable, Build Number: 8433",
+  "actual_result": "Discriminator is displayed",
+  "expected_result": "Discriminator shouldn't be displayed",
+  "short_description": "If you go to your server bans list while you have Streamer Mode enabled and click on a user the discriminator shows",
+  "steps_to_repro": "- Enable Streamer Mode - Click on Server Settings - Click on Server Bans - Click on a user"
+ }
+}

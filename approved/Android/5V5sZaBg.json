@@ -1,0 +1,30 @@
+{
+ "id": "5b676064830cb177a107554b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1788,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5V5sZaBg",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.6",
+  "actual_result": "It opens the channel but scrolls you to the position of the New messages bar instead",
+  "expected_result": "It opens the other channel and scrolls you to where the linked message is",
+  "short_description": "Tapping on a message link won't take you to the scroll position of the message if the channel has some unreads",
+  "steps_to_repro": "- Copy the link to a message in an active channel - Post the link in a different channel - Wait for 10-20 new messages to be posted in the channel you were originally. Don't switch to channel - Tap the link"
+ }
+}

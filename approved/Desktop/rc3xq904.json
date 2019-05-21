@@ -1,0 +1,29 @@
+{
+ "id": "59050d8b99c19b510138f8de",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 578,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rc3xq904",
+ "data": {
+  "system_settings": " Canary 10 latest on Windows 10 Creator update.",
+  "actual_result": "Another *completely different user*, in this case `@max#2476` , is mentionned instead. This can be *very* bad when it's in a command to ban a user.",
+  "expected_result": "`@Maxwell#7793` should appear as plain text (as if the user was invisible for example)",
+  "short_description": "Attempting to mention a user that leaves the channel may mention other user",
+  "steps_to_repro": "- Attempt to ping a user, in this instance `@Maxwell#7793`  - User Maxwell leaves server - Send message after user has left "
+ }
+}

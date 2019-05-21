@@ -1,0 +1,15 @@
+{
+ "id": "5840b162015a4d9be523e4fd",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 99,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/UqZXRnSA",
+ "data": {
+  "actual_result": "Player remains in portrait mode https://imgur.com/gallery/GlZ2B",
+  "expected_result": "Player acts as normal",
+  "short_description": "In-app browser's video player doesn't allow landscape mode",
+  "steps_to_repro": "- Set Web Browser to In-app browser - Watch any video that's watched with the iOS player "
+ }
+}

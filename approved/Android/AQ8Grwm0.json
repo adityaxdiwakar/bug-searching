@@ -1,0 +1,30 @@
+{
+ "id": "5b95020c41d0dc7a2f8b2f6c",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1951,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AQ8Grwm0",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 748",
+  "actual_result": "The search just continues like it wasn't stopped.",
+  "expected_result": "The search is already stopped because you did stop it.",
+  "short_description": "Starting the nearby friends search then stopping it then clicking on \"Learn more\" then closing the custom Chrome tab, causes the search to auto start.",
+  "steps_to_repro": "- Open the nearby friends screen and start the search. - Stop the search. - Click on learn more. - Close the custom Chrome tab to come back to Discord."
+ }
+}

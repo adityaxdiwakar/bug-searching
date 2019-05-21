@@ -1,0 +1,30 @@
+{
+ "id": "59604c6bb046b5ab236f7ca2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 819,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3J2CSCnC",
+ "data": {
+  "system_settings": "Windows 10 Creator's Update",
+  "client_settings": "Discord Canary July 7th",
+  "actual_result": "You end mentioning the first \"aa\"",
+  "expected_result": "You would send the mention to the second \"aa\"",
+  "short_description": "You can only submit 1 mention from 2 roles with same name",
+  "steps_to_repro": "- Create 2 \"aa\" roles and differ each other with a different color - Make them mentionable - Try to mention the second \"aa\" in the list"
+ }
+}

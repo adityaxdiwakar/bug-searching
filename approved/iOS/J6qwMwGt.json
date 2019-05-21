@@ -1,0 +1,30 @@
+{
+ "id": "5b9539511d481e4cfe2e5e95",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 991,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/J6qwMwGt",
+ "data": {
+  "system_settings": "iPod Touch 6th generation, iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.8 (7106)",
+  "actual_result": "You see less then what you searched for",
+  "expected_result": "You should see what you searched for",
+  "short_description": "Search does not show the word you searched for, for example: you search for to \u201cvoice crash\u201d and it displays voice.",
+  "steps_to_repro": "- Click the magnifying glass to open search - Type in some words and make sure it's longer then the search bar (see video) -  Hit Search and observe"
+ }
+}

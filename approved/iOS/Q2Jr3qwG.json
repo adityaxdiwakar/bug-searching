@@ -1,0 +1,17 @@
+{
+ "id": "5af5c7e2779ec4b82a8fe3f9",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 740,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Q2Jr3qwG",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.4",
+  "client_settings": "TestFlight 2.3.2 (4331)",
+  "actual_result": "Cancel button flies upwards/to the top of your screen",
+  "expected_result": "Cancel button should stay at the bottom of your screen",
+  "short_description": "Cancel button flies up when clicking on an embedded youtube name link [NOTE: Must be on latest Testflight with (4331)] i'd recommend trying it a couple times so u get the hang of it.",
+  "steps_to_repro": "- have an embedded music link by a bot (like in the video) - click on the blue name so u get the options modal like user settings etc. - click somewhere so the modal goes away - as following it should open youtube - click done - observe your cancel button on top"
+ }
+}

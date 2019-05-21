@@ -1,0 +1,17 @@
+{
+ "id": "5b8edf4a3e5fa94569bade5b",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2923,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AufXjgTg",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 23018",
+  "actual_result": "It starts to work incorrectly and flicker a little",
+  "expected_result": "It still works as intended like the first click",
+  "short_description": "Clicking the copy button for invites twice quickly and then clicking it again makes it flicker and and not work properly anymore",
+  "steps_to_repro": "- Open the invite friends modal - Click the copy button for the invite once and observe it - Now click it again and when it says \"Copied\" click it again - Click it again and see what happens"
+ }
+}

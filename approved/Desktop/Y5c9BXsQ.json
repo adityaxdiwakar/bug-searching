@@ -1,0 +1,17 @@
+{
+ "id": "5b5273a35cc3f6eb969714e8",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2373,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Y5c9BXsQ",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 19400",
+  "actual_result": "You can click it many times and it stays on the screen",
+  "expected_result": "It isn't supposed to stay there and let you click it multiple times as in previous builds",
+  "short_description": "On the latest build, when clicking delete on the kebab menu, you can keep clicking and it stays there",
+  "steps_to_repro": "- Send a message - Press the kebab menu - Start pressing delete many times - Observe what happens"
+ }
+}

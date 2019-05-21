@@ -1,0 +1,17 @@
+{
+ "id": "5b91622bb056ce1d3278bfb9",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 971,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FluQaY71",
+ "data": {
+  "system_settings": "iPhone 8, iOS 12 Public Beta 10",
+  "client_settings": "TestFlight 2.3.8",
+  "actual_result": "It doesn\u2019t update when you go to a new server.",
+  "expected_result": "It should update the emojis when in a new server.",
+  "short_description": "Custom emojis don\u2019t update.",
+  "steps_to_repro": "- Open the emoji picker on a server with custom emojis. - Close and move to another server with custom emojis."
+ }
+}

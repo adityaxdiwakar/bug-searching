@@ -1,0 +1,30 @@
+{
+ "id": "5b10559a21823a9a5e749442",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2082,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ybev0uRR",
+ "data": {
+  "system_settings": "Windows 10 x64 (1709)",
+  "client_settings": "Discord Canary 16275",
+  "actual_result": "Black bar stays there, blocking the beautiful magnifying glass.",
+  "expected_result": "Black bar disappears since there is no results and nowhere to scroll.",
+  "short_description": "If you type another letter into the invite DM box which causes no results to be found while scrolled down, there is a high chance the black bar separating the search bar and the selection area does not go away until another letter is typed again.",
+  "steps_to_repro": "- Find a combination of search terms that cause the results page go from scrollable to no results once you type another character. - In my case, typing one \"b\" filters some results, and the selection area is scrollable. Typing another \"b\" immediately gives me no results. Make sure this is met first!! - Clear your input. Type whatever first character you entered first. - Scroll down the selection area and make sure the black bar pops up. It only appears when you are scrolled down. - Press that character that makes you get no result. In my case, it's the second \"b\" character. - The below"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5c30e073af6cca8488b05188",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3571,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RvKCUUly",
+ "data": {
+  "system_settings": "Microsoft Windows 10.0.17134.472",
+  "client_settings": "Release Channel: canary, Build Number: 30418, Version Hash: 63c35f5155312cb85fc924d827c74351362e0e28",
+  "actual_result": "It displays the US-keyboard characters irregardless of active layout.",
+  "expected_result": "The symbols for the keys according to the active layout should be displayed. \\` is \u00d6 on the German layout.",
+  "short_description": "Shortcut keys are referred to as their US-layout equivalent regardless of active alyout",
+  "steps_to_repro": "- go to Discord settings - Overlay or Keybinds - record keybinds with non-Alphanumeric symbols and it will display the default US-symbols for those keys"
+ }
+}

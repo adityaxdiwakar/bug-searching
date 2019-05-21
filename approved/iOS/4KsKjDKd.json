@@ -1,0 +1,30 @@
+{
+ "id": "5bd66e165fab2849355209a7",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1129,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4KsKjDKd",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1 Dev Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8667)",
+  "actual_result": "Blocked users' names get stuck",
+  "expected_result": "Blocked users' names shouldn't get stuck",
+  "short_description": "Swiping a user off the screen in the blocked user list will make their name get stuck",
+  "steps_to_repro": "- Block someone - Open the list of blocked users - Swipe one of them to the left, far off the screen"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "58c888665e56d049cd6acaf9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 424,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yb5084b4",
+ "data": {
+  "actual_result": "Cant see message as a result , i.e https://cdn.discordapp.com/attachments/290908033989738507/291363327353815041/unknown.png",
+  "expected_result": "Message appears as a result",
+  "short_description": "Italicising using underscores causes message not to appear when searching for said italicised word",
+  "steps_to_repro": "- italise a word using underscores and send message - search for that word you italicised "
+ }
+}

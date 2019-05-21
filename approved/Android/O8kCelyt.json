@@ -1,0 +1,23 @@
+{
+ "id": "58425b3cfea3475a85a91e64",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 120,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/O8kCelyt",
+ "data": {
+  "system_settings": " Android 5.0 ",
+  "actual_result": "The message it put at the bottom of the screen unremoveable until app is restarted. System settings: Android 5.0",
+  "expected_result": "The message is no longer shown.",
+  "short_description": "Messages deleted within 1000ms are not delete, but put at the bottom of the screen becoming unremoveable until the app is restarted.",
+  "steps_to_repro": "- Run a bot command that deletes the trigger (!canRepro) "
+ }
+}

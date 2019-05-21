@@ -1,0 +1,16 @@
+{
+ "id": "5915bd1ddf4fd30ea3bcdd39",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 630,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/uRsi6IX3",
+ "data": {
+  "system_settings": " Win10 x64",
+  "actual_result": "Becoming online within miliseconds of Being placed as 'Away' and still being connected to the room You are moved from but visually showing you in the AFK room. Although on Android it shows you in the room you are connected to.",
+  "expected_result": "Shouldnt be able to to talk, and should be set as away.",
+  "short_description": "Being moved to afk room but not registering on PC",
+  "steps_to_repro": "- Join a voice channel - Wait for the AFK timer to move you (Or be set as way) - Be placed as 'Away' "
+ }
+}

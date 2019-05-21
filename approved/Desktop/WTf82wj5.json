@@ -1,0 +1,30 @@
+{
+ "id": "5b9c4b6edcd3c2344976fc98",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2984,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WTf82wj5",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (1803)",
+  "client_settings": "Canary Build 23709",
+  "actual_result": "The cursor jumps and splits",
+  "expected_result": "The cursor doesn't jump and split",
+  "short_description": "Right clicking on the Games Tab or Friends Tab makes the mouse duplicate for a split second",
+  "steps_to_repro": "- Right click on games tab - observe the cursor - right click on friends tab - observe the cursor - NOTE: THE ISSUE IS THE MOUSE CUTTING IN HALF, NOT THE CURSOR SWITCHING. REFER VIDEO."
+ }
+}

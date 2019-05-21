@@ -1,0 +1,30 @@
+{
+ "id": "5ad8a79205682d2de49a2f69",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1296,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ngqgqLDX",
+ "data": {
+  "system_settings": "Android 7.0",
+  "client_settings": "Android Alpha 6.5.4",
+  "actual_result": "Logs in, shows \"Invalid code\" message too",
+  "expected_result": "Logs in with no error message",
+  "short_description": "Entering 2FA code and hitting on the enter button will show error notification even after logging in",
+  "steps_to_repro": "- Enter email and password for a 2FA-secured account - Enter 2FA code's last digit - Hit the enter key on your keyboard as fast as possible - Note: The app automatically checks the code's validity as soon as its last digit entered, leaving a small window for the user to also press any other keys on the keyboard. When no other keys are pressed, this bug does not occur."
+ }
+}

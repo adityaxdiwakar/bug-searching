@@ -1,0 +1,23 @@
+{
+ "id": "58af2c59710b3223f2f2b1ff",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 251,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/k7reecOg",
+ "data": {
+  "system_settings": " Android 6.0.1 Discord 3.3.4-alpha",
+  "actual_result": "Image is always in webp format",
+  "expected_result": "Image uploads in original format",
+  "short_description": "All uploaded pictures webp format",
+  "steps_to_repro": "- Step 1 - Take a picture in any format Step 2 - Upload picture either via Share method, or from Discord itself "
+ }
+}

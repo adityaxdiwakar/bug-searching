@@ -1,0 +1,30 @@
+{
+ "id": "5bdf83a4e533130fe46b1c4a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3355,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1fvKOkK7",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 27466",
+  "actual_result": "You only see the option to mute/deafen when right clicking from the server list",
+  "expected_result": "You should see the option to mute/deafen when right clicking from chat",
+  "short_description": "Can not mute/deafen yourself when right clicking a message",
+  "steps_to_repro": "- Go to any server or DM and right click your avatar in the channel - Observe the context menu - Right click your profile from the member list - Observe the context menu again"
+ }
+}

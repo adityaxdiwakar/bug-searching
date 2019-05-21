@@ -1,0 +1,16 @@
+{
+ "id": "58af8ed0c0865d059e5a5db1",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 252,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/56wqUSfr",
+ "data": {
+  "system_settings": " Android 5.1 Discord 3.3.4.1",
+  "actual_result": ": it disappears",
+  "expected_result": "it should show",
+  "short_description": "category icon disappears when in it and on light mode",
+  "steps_to_repro": "- click a category "
+ }
+}

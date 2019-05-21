@@ -1,0 +1,17 @@
+{
+ "id": "5af73f5de3c389484b596812",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1405,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EZBX1wMS",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.6.7",
+  "actual_result": "The popup doesn't go unless you tap again on the screen in full screen image preview after tap hold and slide down finger on any icon (share, Download, open in browser)",
+  "expected_result": "The popup should disappear after a few seconds just like when you do this same process while in any channel (pressing members icon, or search icon)",
+  "short_description": "\"Share\", \"Download\" and \"Open in Browser\" popup won't disappear when viewing images in full screen when you press hold on those icons at the top and slide down. **(Android 8.x Specific)**",
+  "steps_to_repro": "- Tap on any image to see full screen preview of that image. - Notice the \"Share\", \"Download\" and \"Open in Browser\" options at the top right corner of your screen. - Tap and hold on any icon to see a little popup mentioning the name of buttons and notice it disappears after a few seconds. - Tap and hold on same icons and slide down your finger after popup appears, then lift your finger."
+ }
+}

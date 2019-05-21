@@ -1,0 +1,30 @@
+{
+ "id": "5bd36d6ee0c99c35793dc069",
+ "closed": false,
+ "idList": "5bd36c952694a17407444958",
+ "idShort": 3288,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fmo2vvgn",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 26991",
+  "actual_result": "The \"Invite\" and \"Copy\" button are cut off and continued by a \"...\", making it hard to understand what the buttons mean",
+  "expected_result": "The buttons adjust to the actual String-length, so that it is fully readable",
+  "short_description": "Buttons do not adjust to String-lengths of non-English languages",
+  "steps_to_repro": "- Set your language to German - Rightclick a server and click on the blurple \"Invite People\" button (\"Leute einladen\" is the currently used String) - Observe"
+ }
+}

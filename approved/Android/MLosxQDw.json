@@ -1,0 +1,30 @@
+{
+ "id": "5a83682313e754242f9cba5d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1119,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MLosxQDw",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, Android 7.0",
+  "client_settings": "Android Alpha 6.2.4",
+  "actual_result": "The \"arrow\"/clipboard option stays ontop of the channel drawer or takes some seconds until it vanishes",
+  "expected_result": "The \"arrow\"/clipboard option should close together with the chat field",
+  "short_description": "The \"arrow\" that appears when you hold down on a chat field stays when you open the channel drawer",
+  "steps_to_repro": "- Hold down on the chat field until the \"arrow\"/option to open the clipboard opens - Open the channel drawer either with the back button (if you have that enabled) or the \"normal\" way"
+ }
+}

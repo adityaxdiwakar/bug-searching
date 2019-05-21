@@ -1,0 +1,30 @@
+{
+ "id": "5b58373982756ffee534ed9f",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2428,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JdxXR2CZ",
+ "data": {
+  "system_settings": "Windows 10, 1083",
+  "client_settings": "Canary Build 19623 & Stable Build 19609",
+  "actual_result": "The spacing between the \"Listening Along\" and the \"Voice Connected\" box is larger than the \"Voice Connected\" and the user info box.",
+  "expected_result": "Spacing between the boxes should be the same.",
+  "short_description": "Spacing between \"Listening Along\", \"Voice Connected\" and user info is not similar.",
+  "steps_to_repro": "- Be in a voice chat and a listening party at the same time - Observe the spacing between the different boxes"
+ }
+}

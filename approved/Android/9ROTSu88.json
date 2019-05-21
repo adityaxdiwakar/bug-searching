@@ -1,0 +1,30 @@
+{
+ "id": "5a81a650c103a3e1e71269f1",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1118,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9ROTSu88",
+ "data": {
+  "system_settings": "LG G6 Android 7.0.0",
+  "client_settings": "Discord 6.2.4",
+  "actual_result": "The channel name disappear",
+  "expected_result": "It shows the channel name",
+  "short_description": "When you rotate the screen when you have the notification tab and the assistant open the channel name disappear",
+  "steps_to_repro": "- Go to a channel - Open the google assistant with the home button - Show up the notifications tab - Rotate the screen - Rotate the screen - Put up the notification tab but without close the assistant"
+ }
+}

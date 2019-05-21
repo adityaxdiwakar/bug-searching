@@ -1,0 +1,30 @@
+{
+ "id": "5be90c8eb0f636795a12f70d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2313,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9Tj28Ynn",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1, Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Discord Alpha 7.8.8, Discord Canary 27818",
+  "actual_result": "Android has a lightly shaded icon, while Desktop has a black icon (I figured this is an Android bug, since most mobile designs go off of Desktop version).",
+  "expected_result": "They should both be the same.",
+  "short_description": "In light theme, the members icon is very lightly shaded, instead of being black.",
+  "steps_to_repro": "- On your Android device, notice the Member icon on Light theme. - Then, go to your desktop, notice the Member icon on Light theme as well."
+ }
+}

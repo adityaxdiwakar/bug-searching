@@ -1,0 +1,15 @@
+{
+ "id": "582122c22e62e36993a04302",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 63,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/E6DYfWtb",
+ "data": {
+  "actual_result": "Discord may crash or just freeze on a black frame.",
+  "expected_result": "Image uploads without error",
+  "short_description": "Uploading images located on user-created folder will crash the app.",
+  "steps_to_repro": "- Have access to upload an image. - Attempt to upload files that are located in folders not made by default for iOS (Folders like Camera Roll) "
+ }
+}

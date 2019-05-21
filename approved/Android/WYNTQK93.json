@@ -1,0 +1,30 @@
+{
+ "id": "5aae0fb464e716eab8af4efb",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1210,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WYNTQK93",
+ "data": {
+  "system_settings": "Pixel 2 XL - Android 8.1",
+  "client_settings": "Alpha 6.3.8",
+  "actual_result": "Disocrd crashes",
+  "expected_result": "Discord should bring up the dialog that says no application can handle the link",
+  "short_description": "Embeds with masked links that aren't links or don't have a handler crash discord when tapped",
+  "steps_to_repro": "- Ensure \"Use Chrome Custom Tabs\" is enabled - Send an embed that has a masked link that isn't a valid link or doesn't have a handler. Example markdown: `[test](.)` - Tap it"
+ }
+}

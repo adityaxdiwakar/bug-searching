@@ -1,0 +1,29 @@
+{
+ "id": "590fb06c978e625454593ce9",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 443,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YCVs0Ipm",
+ "data": {
+  "system_settings": " Discord 3.8.2 running on Android 5.0.2",
+  "actual_result": "The emote picker button greys out as shown in the attachment",
+  "expected_result": "Nothing happens, the keyboard pops up and everything is fine.",
+  "short_description": "Emoji picker button greys out [Android 5.0.X only]",
+  "steps_to_repro": "- Open the emoji picker - Tap in the text input field "
+ }
+}

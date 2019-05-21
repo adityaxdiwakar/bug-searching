@@ -1,0 +1,24 @@
+{
+ "id": "5b5dd88a46f731200c3cf48e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2494,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qzRrqFzQ",
+ "data": {
+  "system_settings": "Windows 10, x64 (1803)",
+  "client_settings": "Google Chrome Version 68.0.3440.75 (Official Build) (64-bit)",
+  "actual_result": "Shows an error encountered page",
+  "expected_result": "It should redirect you to `1. API AND SDK`",
+  "short_description": "Clicking on hyperlinks (paperclip icon next to the header) starting from `1. API AND SDK` on the Developer Portal's Legal page, it shows an Error Encountered page",
+  "steps_to_repro": "- Go to the Discord Developer Portal website - Click on Legal - Next to the `1. API AND SDK` there should be a paper clip icon if you hover your mouse to it. - Click on it and observe"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5930106635678ec47158d803",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 697,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZcyyIC5U",
+ "data": {
+  "system_settings": "Windows 10 x64 Anniversary Update (1607) Canary 0.0.155.",
+  "client_settings": "Canary windows 10 x64",
+  "actual_result": "Client Crashes",
+  "expected_result": "Box pops up to join server",
+  "short_description": "When clicking an online instant invite from a web browser, Discord Canary opens but then crashes and the client restarts.",
+  "steps_to_repro": "- Open a <discord.gg> link from a web browser - Wait for the client to open - Sometimes, client will crash and restart"
+ }
+}

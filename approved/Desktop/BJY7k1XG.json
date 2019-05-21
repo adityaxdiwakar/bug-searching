@@ -1,0 +1,24 @@
+{
+ "id": "598d06ac28ec3fa0bfd48636",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 971,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BJY7k1XG",
+ "data": {
+  "system_settings": "Win 10 x64 (Creators Update)",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "You can see that the m is not capitalized",
+  "expected_result": "The Resend Message button should have the letter m in the message word capitalized",
+  "short_description": "The letter m in the word message for the Resend message button isn't capitalized like the Delete Message button",
+  "steps_to_repro": "- send a message anywhere - right click the message - observe the button"
+ }
+}

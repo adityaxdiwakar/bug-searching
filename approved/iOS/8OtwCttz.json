@@ -1,0 +1,30 @@
+{
+ "id": "5aaa9b0bda1a36c275c7ff97",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 630,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8OtwCttz",
+ "data": {
+  "system_settings": "iPhone 6s & iPad Air 2, iOS 11.3 PB 5",
+  "client_settings": "TestFlight 2.2.5 (3054)",
+  "actual_result": "The error message is shown for all members.",
+  "expected_result": "The error message should only be shown for the user for whom you've tried to change the nick.",
+  "short_description": "Error message for nickname change not possible will be shown for all server members",
+  "steps_to_repro": "- Go to server settings - Open `Members` - Open any member - Try to change the nickname to a too long name (more than 32 chars) - Go to another member - Observe the error message there"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58dd7d22c46088d3e6c6bd5a",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 468,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/UiXTiGSx",
+ "data": {
+  "system_settings": " Win 10 x64, discord canary and regular",
+  "actual_result": "voice chat appears empty, can still hear users in the chat but can't see in the bar, they do appear in the debug",
+  "expected_result": "see user that are in the voice chat as in the voice chat",
+  "short_description": "can hear bot in voice chat but can't see it",
+  "steps_to_repro": "- Join the voice chat - Reload the client "
+ }
+}

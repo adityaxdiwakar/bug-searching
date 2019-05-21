@@ -1,0 +1,17 @@
+{
+ "id": "5984ebbc19dbf93121e8a16e",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 280,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9SDdBes8",
+ "data": {
+  "system_settings": "iPhone 7, iOS 11 beta 4\u00ad",
+  "client_settings": "Discord TF 1.8.9",
+  "actual_result": "The picture is uploaded as \"unknown\"",
+  "expected_result": "The picture should either be uploaded as .heic or automatically be converted to .jpeg by iOS itself",
+  "short_description": "Pictures taken from iOS 11 (using the new HEIF format) upload as \"unknown\" to Discord",
+  "steps_to_repro": "- Make sure you're on iOS 11 - (Optional step if you have this option disabled, go to Settings -> Camera -> Formats and choose the High Efficiency option) - Take a picture using the native Camera app - Upload the picture you've just taken to Discord"
+ }
+}

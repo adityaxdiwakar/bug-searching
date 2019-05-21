@@ -1,0 +1,16 @@
+{
+ "id": "590c4403bfa3e44c91b12680",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 427,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mYmE1erc",
+ "data": {
+  "system_settings": " Android 7.0  Discord 3.8.2",
+  "actual_result": "Nothing happens",
+  "expected_result": "Their username and discriminator pop up in the text box",
+  "short_description": "Tapping on someone's profile picture does NOT bring up the @user#1234 format in the text box",
+  "steps_to_repro": "- Go to a channel where you can message fellow users - Tap on their profile picture  "
+ }
+}

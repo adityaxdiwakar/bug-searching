@@ -1,0 +1,36 @@
+{
+ "id": "5a56684dc5a53086ae6f1f50",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 492,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lsS4v98g",
+ "data": {
+  "system_settings": "iPhone 8+, iOS 11.2.5 (PB4)",
+  "client_settings": "Discord TestFlight 2.2.0 (2080)",
+  "actual_result": "Emote menu pops up randomly and you\u2019re not even typing. (Also happens randomly with still emotes, but you\u2019d also find yourself being unable to scroll the chat)",
+  "expected_result": "Emote menu should stay down, and it looks like you\u2019re not browsing emotes to use.",
+  "short_description": "Emote Menu Pops Up Randomly",
+  "steps_to_repro": "- Send an still emote (Discord\u2019s emote or custom emote) - Have someone to send an animated emote (by itself). - Observe what happens after you send it. - If for some reason, you cannot reproduce, try that method several times with multiple different emotes. Make sure you\u2019re not using the iOS default emotes."
+ }
+}

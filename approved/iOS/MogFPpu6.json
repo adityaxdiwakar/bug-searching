@@ -1,0 +1,24 @@
+{
+ "id": "5a6130edb10f87e35ba27cc7",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 510,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MogFPpu6",
+ "data": {
+  "system_settings": "iOS 11.2.5",
+  "client_settings": "TestFlight 2.2.1",
+  "actual_result": "They're slightly round rotated squares",
+  "expected_result": "They should be circular",
+  "short_description": "User profile pictures do not appear correctly in search suggestions",
+  "steps_to_repro": "- Open the search page  - Choose an option that will yield users appearing in the list (e.g. from, mentions) - Note the shape of profile pictures"
+ }
+}

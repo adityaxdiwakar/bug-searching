@@ -1,0 +1,17 @@
+{
+ "id": "5b877b5a0869a94241cb856e",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2835,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Mm93FuTB",
+ "data": {
+  "system_settings": "Windows 10 1803",
+  "client_settings": "canary, Build Number: 22726",
+  "actual_result": "it only shows roughly the amout of people online",
+  "expected_result": "It should show the correct number for members online and offline",
+  "short_description": "The warning message for pinging atEveryone shows incorrect member number.",
+  "steps_to_repro": "- Have a server that has over 2000 members- attempt to ping atEveryone "
+ }
+}

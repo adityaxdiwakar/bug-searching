@@ -1,0 +1,30 @@
+{
+ "id": "5b7ccf6d0d55507e838b82d8",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2760,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Rc0KS97u",
+ "data": {
+  "system_settings": "iPhone 8 Plus, iPad Air 2 - iOS 12 Public Beta 7",
+  "client_settings": "Safari",
+  "actual_result": "It is just an static image for Safari.",
+  "expected_result": "You should see an animation for the Wumpus.",
+  "short_description": "[Website bug] [Safari] No wumups animation for the company page",
+  "steps_to_repro": "- Go to the company page (/company) - Scroll down a bit to see the Wumpus with the jetpack - Observe it"
+ }
+}

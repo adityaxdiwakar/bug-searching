@@ -1,0 +1,30 @@
+{
+ "id": "5b60867f638903aa1d6730e9",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1742,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OY3RrI0Z",
+ "data": {
+  "system_settings": "Android 5.1",
+  "client_settings": "Discord Alpha 7.2.1(721)",
+  "actual_result": "The Discord icon is hard to see",
+  "expected_result": "The Discord icon can be see propely",
+  "short_description": "Discord icon is hard to see in light theme",
+  "steps_to_repro": "- Switch to light theme - Create a new channel or start a DM conversation - See the Discord icon"
+ }
+}

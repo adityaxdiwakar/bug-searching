@@ -1,0 +1,17 @@
+{
+ "id": "59e1b5ff4002959d285e524f",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1256,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xdNqXGMt",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Discord Canary 0.0.165",
+  "actual_result": "It says it's an invalid name and channel can't be made",
+  "expected_result": "You should be able to make the channel as it involves dashes/underscores.",
+  "short_description": "\"Text channel names must be alphanumeric or involve dashes and underscores\"",
+  "steps_to_repro": "- Create a category - Create a channel in the category - Create a channel with underscores or dashes on each side ( *Dash in the middle only doesn't count*) - Look at the result."
+ }
+}

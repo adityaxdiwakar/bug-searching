@@ -1,0 +1,16 @@
+{
+ "id": "58a86fd61d8656d91e5f401b",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 232,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/UKtwZ1JB",
+ "data": {
+  "system_settings": " Android 6.0.1, Discord 3.3.4",
+  "actual_result": "The app closes but the keyboard remains there until you close it",
+  "expected_result": "The app and the keyboard should close normally",
+  "short_description": "Keyboard still open after closing app",
+  "steps_to_repro": "- Open the keyboard - Close discord with task manager "
+ }
+}

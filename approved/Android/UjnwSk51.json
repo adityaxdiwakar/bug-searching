@@ -1,0 +1,17 @@
+{
+ "id": "5bb02f4a2f81d2178c44abb1",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2072,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/UjnwSk51",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.5.9",
+  "actual_result": "It is off-center",
+  "expected_result": "The online status circle should be centered",
+  "short_description": "The online status circle in dms is off center while in horizontal view",
+  "steps_to_repro": "- Open dms with someone - Rotate your phone - Observe"
+ }
+}

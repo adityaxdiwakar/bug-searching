@@ -1,0 +1,30 @@
+{
+ "id": "5a0facd8525f9731487cf3b9",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 907,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4ANlqaOm",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 5.7.3",
+  "actual_result": "a clear white icon",
+  "expected_result": "A visible icon",
+  "short_description": "Moderation Icon is white",
+  "steps_to_repro": "- have access to see the moderation tab - open server settings - observe the moderation icon"
+ }
+}

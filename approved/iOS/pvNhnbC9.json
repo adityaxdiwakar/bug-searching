@@ -1,0 +1,24 @@
+{
+ "id": "5c0d8ec52d627b1729fed134",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1225,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pvNhnbC9",
+ "data": {
+  "system_settings": "iPad air, iOS 12.1",
+  "client_settings": "TestFlight 2.4.0 (9714)",
+  "actual_result": "Device crashes",
+  "expected_result": "You shouldn\u2019t be crashing",
+  "short_description": "When a server reached maximum invites and trying to invite someone crashes (iPad air & above specific)",
+  "steps_to_repro": "- Join a server that reached max invites - Open invite members - Make sure it says \u201cMaximum number of invites to this server reached\u201d - Invite a user/friend - Observe the crashing"
+ }
+}

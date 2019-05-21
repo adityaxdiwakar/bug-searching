@@ -1,0 +1,24 @@
+{
+ "id": "5958a2e5feb8f2916e620f5d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 536,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QHFZjokD",
+ "data": {
+  "system_settings": "Android 7.1.2",
+  "client_settings": "Alpha 3.9.7",
+  "actual_result": "Text artifacts are visible anywhere",
+  "expected_result": "Text artifacts disappear behind the drawer",
+  "short_description": "You can change channels with text artifacts visible",
+  "steps_to_repro": "- Long hold on the message send box - Open channel drawer - Move around as you please"
+ }
+}

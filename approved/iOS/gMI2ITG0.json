@@ -1,0 +1,17 @@
+{
+ "id": "5b8f19099f864f658cbb4c10",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 965,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gMI2ITG0",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 12",
+  "client_settings": "TestFlight 2.3.7 (6968)",
+  "actual_result": "\"Send\" button updates a few seconds after deleting/typing text quickly",
+  "expected_result": "\"Send\" button updates automatically",
+  "short_description": "\"Send\" button does not update automatically",
+  "steps_to_repro": "- Go into a text channel and quickly press a key multiple times - After spamming the key, quickly delete all the text and spam another key - Observe the \"Send\" button when deleting and spamming text"
+ }
+}

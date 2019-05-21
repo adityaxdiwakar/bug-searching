@@ -1,0 +1,17 @@
+{
+ "id": "5c19d6f2b849814a8339ee02",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3517,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qLSoZJnv",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary build 30011 Host 0.0.225",
+  "actual_result": "Discord crashes on loading and gets stuck in a crash loop",
+  "expected_result": "Discord loads Activity tab just fine",
+  "short_description": "Discord crashes on Activity Tab",
+  "steps_to_repro": "- Open the Activity tab - Observe Discord"
+ }
+}

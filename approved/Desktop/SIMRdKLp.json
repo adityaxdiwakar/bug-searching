@@ -1,0 +1,24 @@
+{
+ "id": "59bd1df0fb6db6a309009607",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1141,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SIMRdKLp",
+ "data": {
+  "system_settings": "Windows 10 Home",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "The \"Server ID\" and \"JSON API\" texts overlap the dropdown",
+  "expected_result": "The dropdown should appear in front",
+  "short_description": "Text overlaps in the \"Widget\" section of the server settings",
+  "steps_to_repro": "- Go to server setting (of a server you own) - Go to widget - Click on instant invite channel"
+ }
+}

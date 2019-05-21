@@ -1,0 +1,30 @@
+{
+ "id": "5c1503e0de891213f93e6e0f",
+ "closed": false,
+ "idList": "5c148a9d85de9b479596b253",
+ "idShort": 3505,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lBzXEb9k",
+ "data": {
+  "system_settings": "Windows 10 home x64 v.1803",
+  "client_settings": "Canary 0.0.224 - 29791",
+  "actual_result": "it selects the channel's/DM's text field when i haven't selected any gif",
+  "expected_result": "i should be able to search again without re-selecting the search text field",
+  "short_description": "in the gif picker, clicking anywhere on the no results page will select the channel's text field",
+  "steps_to_repro": "- click on the gif picker - search \"somethingthatshowsnoresults\" - click anywhere on the no results page - observe"
+ }
+}

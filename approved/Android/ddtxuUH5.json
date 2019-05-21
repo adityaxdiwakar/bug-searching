@@ -1,0 +1,30 @@
+{
+ "id": "5ab344071e5f17f3293ae9c2",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1218,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ddtxuUH5",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.4.0",
+  "actual_result": "It loses it's definition and becomes a bit blurry as compared to the original image. If it's still not visible try uploading it from desktop and then compare the pfp uploaded from Android and the one uploaded from desktop",
+  "expected_result": "It should not lose quality and be the same as the original image",
+  "short_description": "Uploading a pfp causes it to lose it's quality",
+  "steps_to_repro": "- Go to user settings > my account - Upload a new profile picture"
+ }
+}

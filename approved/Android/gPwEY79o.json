@@ -1,0 +1,24 @@
+{
+ "id": "5af1725a4501bc367fcf307b",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1385,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5af202d4885b60489848e72d",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P4, unlikely to ever be fixed.",
+   "color": "purple"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gPwEY79o",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.6.3",
+  "actual_result": "Member list scrolling resets at the top",
+  "expected_result": "You should stay at the point you were at in the member list",
+  "short_description": "Rotating screen shoots you to the beginning of the member list",
+  "steps_to_repro": "- Go to a server with a lot of members - Scroll far down in member list - Rotate screen"
+ }
+}

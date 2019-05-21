@@ -1,0 +1,30 @@
+{
+ "id": "5c20391e2daa8169f79207a6",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2398,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Exm6Jm6w",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 8.2.2",
+  "actual_result": "You will notice several strange behavior in chat: Other people's nickname and color in chat will be reset for a split second ; the New Messages banner will disappear if there was one, and if you do this on a channel with a \"Welcome to your server\" header, this header will disappear for a split second as well. Basically it looks like changing presence status breaks a part of the cache, causing stuff to reload.",
+  "expected_result": "You change status and nothing strange should happen in chat",
+  "short_description": "Changing presence status causes some odd reload behavior in chat",
+  "steps_to_repro": "- Switch to any channel with different people chatting - Change your presence status - Immediately close channel drawer and come back to chat - Wait up to 10 seconds."
+ }
+}

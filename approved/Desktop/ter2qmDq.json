@@ -1,0 +1,30 @@
+{
+ "id": "5b625b26d9b5263c807777bd",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2581,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ter2qmDq",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Desktop Canary, Build 20470",
+  "actual_result": "It closes the profile pop-up and the game info pop-up at the same time",
+  "expected_result": "It should close only the profile pop-up",
+  "short_description": "Clicking outside of a profile pop-up inside the Quick Launcher games info, closes all the pop-ups",
+  "steps_to_repro": "- Click in the icon of the game in the Quick Launcher - Click in a friend's photo that played (or is playing) the game - Click outside the profile pop-up"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5c0a9aea6e740360aba1d4c1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3474,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tWINB078",
+ "data": {
+  "system_settings": "Windows 10 1803",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 28970 / Microsoft EdgeHTML 17.17134",
+  "actual_result": "Sharp edge on the bottom right of the channel topic",
+  "expected_result": "It's supposed to be round like the other three sides",
+  "short_description": "Channel topic on Edge has a sharp bottom right edge",
+  "steps_to_repro": "- Go to Discord on Edge - Go to a server with a channel topic - Observe the sharp edge on the bottom right"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5c02069dc20fdf5897c08cad",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1193,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/lYWMYmak",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9370)",
+  "actual_result": "In-app notification is not at the top of the screen",
+  "expected_result": "In-app notification should be at the top of the screen",
+  "short_description": "In-app notifications aren't at the top of the screen on specific devices",
+  "steps_to_repro": "- Make sure you have in-app notifications enabled and are on online - Have someone mention you or DM you - Observe the spacing between the notification and the top of the screen"
+ }
+}

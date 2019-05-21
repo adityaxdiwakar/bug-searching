@@ -1,0 +1,17 @@
+{
+ "id": "5b85522e9a0a190c992a5028",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2821,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LCtBZlaZ",
+ "data": {
+  "system_settings": "Windows 10 1803 x64",
+  "client_settings": "Discord Canary 22665",
+  "actual_result": "The embed for the file shown, conflicting the description in the option that we enabled earlier",
+  "expected_result": "They shouldn't embed and only shows the filename, file size, and download button",
+  "short_description": "Embed shows for files uploaded directly to Discord that larger than 10 MB",
+  "steps_to_repro": "- NOTE: You must have Discord Nitro to reproduce this - Have a video or image larger than 10 MB but smaller than 50 MB - Make sure that \"When uploaded directly to Discord\" is enabled in User Settings > Text & Images - Upload it and observe the uploaded file"
+ }
+}

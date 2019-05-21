@@ -1,0 +1,30 @@
+{
+ "id": "5b715d85bf857e72085fe58b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2693,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4GFySmPs",
+ "data": {
+  "system_settings": "<Win10 x64 Intel Version 1707 (OS Build 16299.547)>",
+  "client_settings": "<Discord Offcial-Latest Update>",
+  "actual_result": "<For me it just shows the startup of discord in an infinite loop.>",
+  "expected_result": "<It  should make the discord screen resize and mess up but i believe when I emailed discord it was fixed>",
+  "short_description": "Messes up Discord Screen(or did)  ONLY ON WINDOWS YOU MACBOOK USERS",
+  "steps_to_repro": "- put discord://--window-size/=%221,1%22 inside <:>  - etc"
+ }
+}

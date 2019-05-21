@@ -1,0 +1,23 @@
+{
+ "id": "59027c387d9dce23edabcd0d",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 416,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RKf2kbBf",
+ "data": {
+  "system_settings": " Nexus 5 (A 6.0.1) Discord 3.7.7",
+  "actual_result": "They do (only global)",
+  "expected_result": "These emotes do not show up",
+  "short_description": "Global emotes / emotes that don't need nitro (blobs), still show up in emote list while in a channel with external emotes disabled!",
+  "steps_to_repro": "- Have a channel with external emotes disabled! - Have emotes on another server that work globally (blobs) - open emote selector! "
+ }
+}

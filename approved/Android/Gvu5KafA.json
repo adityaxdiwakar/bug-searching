@@ -1,0 +1,30 @@
+{
+ "id": "5b97d18f58f64885f983d87a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1970,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Gvu5KafA",
+ "data": {
+  "system_settings": "OnePlus 3T, Android 8, Oxygen 5.0.5",
+  "client_settings": "Alpha 7.4.8",
+  "actual_result": "Whole of Discord is shifted up. Causing top bar to go into status bar and White bar at bottom.",
+  "expected_result": "Device Rotates successfully",
+  "short_description": "[No on screen buttons] Rotating Device while in the join DM Call (Group/1-1) with the 3 dot menu open causes everything to shift upwards",
+  "steps_to_repro": "- Get someone to call you - Open the \"Connect to voice\" menu - Open 3 dot menu in top right - Rotate Device"
+ }
+}

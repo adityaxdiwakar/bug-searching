@@ -1,0 +1,17 @@
+{
+ "id": "59db821e0ef839ec4bab463b",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1244,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/MDNDbVpA",
+ "data": {
+  "system_settings": "Asus Transformer book T100TA Windows 10 Home 32-bit, x64-based processor",
+  "client_settings": "Discord Canary 0.0.164",
+  "actual_result": "It freezes and I have to wait a while. Note: It rarely happens with a slow internet, or when you are at the end of the WiFi range",
+  "expected_result": "It shouldn't freeze. It would just run smooth as silk",
+  "short_description": "Canary app freezes randomly",
+  "steps_to_repro": "- Open an active server - Minimize Discord Canary - Hibernate the pc/laptop/transformer book etc. - Open the app after hibernation (wait for about 5 minutes or more) - (At different times) Come back from other apps. Note: Canary should be minimized"
+ }
+}

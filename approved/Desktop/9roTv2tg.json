@@ -1,0 +1,42 @@
+{
+ "id": "5aa69ee8177d36b4b88b0409",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1731,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a860c547cb31e20a3d90cf2",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Channel Categories",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9roTv2tg",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Stable build 11828",
+  "actual_result": "The category collapses in an unsmooth 2 step way.",
+  "expected_result": "The category collapses smoothly like it does after on.",
+  "short_description": "Each first time muting a category and the first time only, it collapses the channels first causing the read channels in that category to collapse before the unread channels in an unsmooth way.",
+  "steps_to_repro": "- Be in a server that has a category that contains both read and unread channels and that you haven't muted before - Mute that category"
+ }
+}

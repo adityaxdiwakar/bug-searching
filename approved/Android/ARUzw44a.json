@@ -1,0 +1,17 @@
+{
+ "id": "598c0bca19b30545634e84a7",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 608,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ARUzw44a",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 6.0.1",
+  "client_settings": "Discord 4.0.2",
+  "actual_result": "When you unmute yourself, you still remain deafened.",
+  "expected_result": "Like Desktop Canary, when you unmute while deafened, you will no longer be deafened.",
+  "short_description": "While on a voice channel, you can unmute yourself, but still be deafened. The Trello card for this says fixed, it's not.",
+  "steps_to_repro": "- Join a voice channel - Deafen and mute yourself - Unmute yourself and you will still be deafened"
+ }
+}

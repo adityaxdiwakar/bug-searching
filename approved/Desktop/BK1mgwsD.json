@@ -1,0 +1,24 @@
+{
+ "id": "599335195d3d6d2a54be83b7",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 997,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BK1mgwsD",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6, MacBook Pro (2016)",
+  "client_settings": "Discord Canary 0.0.154",
+  "actual_result": "Formatting of audit log will be overwritten by markdown formatting for you channel topic",
+  "expected_result": "Formatting of the changed channel topic event shouldn't be overwritten by the markdown formatting of your channel topic",
+  "short_description": "Audit log: Markdown formatting for changed channel topic not shown correctly",
+  "steps_to_repro": "- Change a channel topic to a text with markdown formatting like bold or italic text - Go to the audit log - See the action for changing channel topic - Click on the action to open the details and see your channel topic"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ac15d87ad4ec982de52bbf2",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1238,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VLZeVPmg",
+ "data": {
+  "system_settings": "OnePlus 3T Android 8.0.0",
+  "client_settings": "Discord Beta 6.4.3",
+  "actual_result": "Logs in, but shows wrong code message",
+  "expected_result": "Logs in without any message",
+  "short_description": "Valid expired 2fa code shows wrong code message",
+  "steps_to_repro": "- Disconnect from account - Enter valid email and pass - Enter an expired 2fa code"
+ }
+}

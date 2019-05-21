@@ -1,0 +1,24 @@
+{
+ "id": "59fba0259ef84e4b6c8c93ae",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1342,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BlXOTiJi",
+ "data": {
+  "system_settings": "Windows 10 64bit fall creators update",
+  "client_settings": "canary, Build Number: 6772",
+  "actual_result": "The tooltips are about 20 pixels down",
+  "expected_result": "Normal location for tooltip",
+  "short_description": "All tooltip's (black boxes) are 20 pixels down from their regular location",
+  "steps_to_repro": "- Hover over something with a tooltip (emote, server etc)"
+ }
+}

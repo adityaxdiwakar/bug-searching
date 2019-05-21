@@ -1,0 +1,17 @@
+{
+ "id": "5b81a3918bcc880c85352288",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 951,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/BeftBYUW",
+ "data": {
+  "system_settings": "iPhone SE - iOS 11.4.1",
+  "client_settings": "TestFlight 6930",
+  "actual_result": "The cursor moves to the end of the body of text",
+  "expected_result": "It should be moved to after the mention",
+  "short_description": "Inserting a channel mention moves cursor to end of text",
+  "steps_to_repro": "- Type or edit a large body of text - Insert a channel mention in the middle  - Observe how the cursor moves to the end of the text"
+ }
+}

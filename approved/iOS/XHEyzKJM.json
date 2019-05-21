@@ -1,0 +1,30 @@
+{
+ "id": "5a886381531532e8a8471024",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 596,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XHEyzKJM",
+ "data": {
+  "system_settings": "iPhone 6s & iPad Air 2, iOS 11.3 PB 2",
+  "client_settings": "TestFlight 2.2.3 (2671)",
+  "actual_result": "Always the English strings are used regardless of your selected language.",
+  "expected_result": "Cancel and done button should be translated to the respective language.",
+  "short_description": "\"Cancel\" and \"Done\" button for recent mentions' filter always with English strings",
+  "steps_to_repro": "- Switch to any non English language - Click on the `@` button to open recent mentions - Click on the filter options button in the top right corner - Observe the done and cancel button there"
+ }
+}

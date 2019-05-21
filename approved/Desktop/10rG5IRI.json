@@ -1,0 +1,17 @@
+{
+ "id": "5b4f7ea794ecdfd06b395ff2",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2305,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/10rG5IRI",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.6",
+  "client_settings": "Canary Build 19091",
+  "actual_result": "User mentions and channel links no longer get highlighted but are clickable.",
+  "expected_result": "Mentions should get highlighted as before.",
+  "short_description": "Mentions in embeds no longer get highlighted",
+  "steps_to_repro": "- Send an embed with a user or channel mention - Observe it"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a7111fe1de4bb4dbe84c6a6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1084,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pKoaRHGE",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 3, Android 5.0",
+  "client_settings": "Android alpha 6.1.9, also on an unknown version of android stable",
+  "actual_result": "The two lines will be treated as being in the same hour slot and no new timestamp will be shown for the second line",
+  "expected_result": "The first line should have a timestamp and the second line should have a separate timestamp as they are said in separate hour slots",
+  "short_description": "No timestamp after emoji",
+  "steps_to_repro": "- Enter an emoji (nothing else) and tap enter - 1+ hours later, type some text and tap enter again"
+ }
+}

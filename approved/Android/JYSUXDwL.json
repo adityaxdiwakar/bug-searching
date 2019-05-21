@@ -1,0 +1,17 @@
+{
+ "id": "5ba978e2a6aa102a9381ca55",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2003,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JYSUXDwL",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "Sometimes the radio button gets stuck or the screen goes blank until you scroll the screen to load entries",
+  "expected_result": "Option selects and filter applies immediately",
+  "short_description": "[Audit Logs] Selecting an action filter is not very responsive",
+  "steps_to_repro": "- Get 7.5.5 update - Go to Server Settings > Audit Logs - Tap Filter by Actions - Select an option"
+ }
+}

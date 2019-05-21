@@ -1,0 +1,17 @@
+{
+ "id": "5af52b98ff0c14e88866af19",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1398,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xcjIJQ3Z",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.6.7",
+  "actual_result": "You need to open the sidebar memeber list one before all users can be displayed in server settings",
+  "expected_result": "Everyone should be here no matter if you opened the sidebar member list first or not",
+  "short_description": "Not everyone is present in the server settings member list until the sidebar member list is opened once",
+  "steps_to_repro": "- Go to a lazy guild you can manage - Kill Discord - Reopen Discord - Don't open member list, go straight to Server settings - Go to Members - Notice there are a lot of missing people - Now go back, and open and close the sidebar member list (no need to scroll down, just open and close) - Go back to server settings member list. Now everyone is here"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b21871241a4c94706dd1c49",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2134,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/z1qL23ve",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.210 (16868)",
+  "actual_result": "It crashes both regular websocket and voice chat (if you are in one)",
+  "expected_result": "It should properly handle the invalid jump without crashing the websocket",
+  "short_description": "If you click on a mentioned channel that just got deleted or you left the server OR clicking on a copy message link from a server you are not part of, the websocket will crash.",
+  "steps_to_repro": "- Mention a channel - Leave the server where the channel belongs to without leaving the channel where you mentioned that channel - Click on it - Observe the console - OR - Ask someone to send a \"Copy link\" link to you to a server you are not part of. (channel wont work) - Click on it then observe console"
+ }
+}

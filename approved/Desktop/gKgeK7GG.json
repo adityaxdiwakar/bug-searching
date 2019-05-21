@@ -1,0 +1,30 @@
+{
+ "id": "5c03b88abdc5410147a5b981",
+ "closed": true,
+ "idList": "5952c5a696b4349f964d3cbd",
+ "idShort": 3458,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gKgeK7GG",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Build 1803",
+  "client_settings": "Canary Build 28704",
+  "actual_result": "The emoji picker goes back to Frequently Used and won't jump to any categories you click on",
+  "expected_result": "The emoji picker jumps to that category you selected",
+  "short_description": "After search emojis then clicking a category, you can't jump to any emoji categories until you reopen the emoji/emote picker",
+  "steps_to_repro": "- Open your emoji picker - Search an emoji (twemoji or custom) that you know the name of - After that click any of the categories at the bottom"
+ }
+}

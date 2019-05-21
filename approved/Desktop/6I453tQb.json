@@ -1,0 +1,23 @@
+{
+ "id": "58a2667935a32754820f82dd",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 380,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6I453tQb",
+ "data": {
+  "system_settings": " Win 7 x64, Discord Stable",
+  "actual_result": "The search list appears, but the call prompt shifts downward",
+  "expected_result": "The search list appears, and the call prompt stays in place",
+  "short_description": "Incoming Call prompt shifts offscreen when opening Search prompt",
+  "steps_to_repro": "- Have someone call you - Open the search menu "
+ }
+}

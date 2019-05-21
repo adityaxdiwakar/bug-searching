@@ -1,0 +1,30 @@
+{
+ "id": "5b1ae6c65f9c4bb1d7523682",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1511,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2T6ppKKt",
+ "data": {
+  "system_settings": "Samsung Galaxy A5(2016),Android version 7.0,Up to date in every aspect June3rd2018",
+  "client_settings": "6.8.7(687)",
+  "actual_result": "The sound goes out from \"call speakers\" which are too weak and inaudible",
+  "expected_result": "Hear people talking on the main speaker loudly",
+  "short_description": "Samsung A5-6/ Speakers not working even if ON/ Sound goes out of \"call speakers\" which are too weak!",
+  "steps_to_repro": ""
+ }
+}

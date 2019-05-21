@@ -1,0 +1,30 @@
+{
+ "id": "5af84a444d3cc95a519e468d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1410,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I97MdE33",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.6.8",
+  "actual_result": "The thumbnail fails to reduce and keeps its original size",
+  "expected_result": "It should be consistent and always show the thumbnail reducing animation",
+  "short_description": "Thumbnail reducing animation fails when un-selecting and re-selecting a file quickly",
+  "steps_to_repro": "- Go to a channel with write permissions - Tap \"+\" icon - Select an image. Notice that when you select it it makes an animation where the thumbnail becomes smaller - Now double-tap on the selected image, so that it's un-selected and re-selected quickly"
+ }
+}

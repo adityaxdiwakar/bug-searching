@@ -1,0 +1,30 @@
+{
+ "id": "5b5cbd1b81363b195cdd298f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1697,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9UuoPWLc",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Edge Android 8.0",
+  "client_settings": "Discord Alpha 7.1.9",
+  "actual_result": "The Send Message button covers the Flip Camera button",
+  "expected_result": "The Send Message button should be hidden.",
+  "short_description": "The send message button blocks the Flip Camera button.",
+  "steps_to_repro": "- Attach an image to a message - Go to the in-app camera"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58b1e772acd8e98c265a7a67",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 680,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tpc7B8Ad",
+ "data": {
+  "system_settings": " GalliumOS2.1beta1, Discord PTB (.deb package)",
+  "actual_result": "It says whatever it said before",
+  "expected_result": "It says \"a few seconds ago\"",
+  "short_description": "\"Last Played\" date is broken",
+  "steps_to_repro": "- Open a program you have listed as a detected game (I used the Terminal) - Make sure Discord detects it - Close it out - Check its \"Last Played\" date (User Settings -> Games) "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5affe37be2b03dbfafe4677d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1435,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xtGKciAY",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.7.4",
+  "actual_result": "The number of blocked messages are shown less than the total number of messages and also the number of blocked messages keeps on refreshing infinitely (and sometimes you can see the \"you're viewing older messages\" bar at the bottom while there are no messages to show as they all are collapsed. Also, if you block some messages sent on a different date but in a row with messages sent on another date, there won't be two separate dates above \"x number of blocked messages\"",
+  "expected_result": "The number of blocked messages should be exactly the same as the total number of messages sent as they were all sent in a row",
+  "short_description": "When you block a user in DM, the number of blocked messages shown are less than that of original number of messages and it keeps on loading/refreshing that number.",
+  "steps_to_repro": "- Get a lot of DM messages from any user in a row (150+) [in my case around 160] - Open the the users DM and click on profile, then block the user - Go back to the DM by pressing the back button, you can still be seeing all the messages for a few more seconds - Notice that all the messages collapse under \"x blocked messages\" where x is the number of blocked (all messages)"
+ }
+}

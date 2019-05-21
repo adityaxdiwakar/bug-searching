@@ -1,0 +1,30 @@
+{
+ "id": "5ada2e0cccc940235cb7f19a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1301,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/h41V3poB",
+ "data": {
+  "system_settings": "Android 5.0.3 Lollipop xiaomi note 2",
+  "client_settings": "Discord built 6.4.7 (647)",
+  "actual_result": "The target gets \"deleted\" from the list of somethings/someones to share with",
+  "expected_result": "The target won't get off the list of someone/something to share with",
+  "short_description": "When choosing target in new Discord share feature and tilting the device, the target would get unchecked",
+  "steps_to_repro": "- Go to your gallery - press hold an image - Share to Discord - Choose target to share with - Tilt your device"
+ }
+}

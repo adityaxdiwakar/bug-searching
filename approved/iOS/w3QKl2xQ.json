@@ -1,0 +1,24 @@
+{
+ "id": "5b87d112c9659a42541cf30f",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 957,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/w3QKl2xQ",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12 beta 11",
+  "client_settings": "Testflight 2.3.7 (6968)",
+  "actual_result": "Changelog video shakes a bit",
+  "expected_result": "The changelog video doesn't shake",
+  "short_description": "The changelog video will shake after opening one of the links (Instagram, Facebook, Twitter) in the changelog",
+  "steps_to_repro": "- Open the changelog - Open instagram in the in-app browser and close it"
+ }
+}

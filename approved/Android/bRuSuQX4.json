@@ -1,0 +1,30 @@
+{
+ "id": "5a362596538d9b9a4fe6ea8c",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 966,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bRuSuQX4",
+ "data": {
+  "system_settings": "LG X Power, android 6.0.1",
+  "client_settings": "Android alpha 5.8.7",
+  "actual_result": "The toast saying account settings are updated, yet nothing updated",
+  "expected_result": "the profile pic should remove once you press save",
+  "short_description": "Remove profile picture will not work",
+  "steps_to_repro": "- Go to user settings - Go to my profile - tap remove them save (enter password is optional as the same outcome will happen)"
+ }
+}

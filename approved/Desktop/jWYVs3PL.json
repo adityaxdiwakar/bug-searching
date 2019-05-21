@@ -1,0 +1,23 @@
+{
+ "id": "588b61add164a677d5101323",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 353,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jWYVs3PL",
+ "data": {
+  "system_settings": " Ubuntu 16.04 Canary web client",
+  "actual_result": "The link/video/image/etc still embeds regardless of embedding being off or on.",
+  "expected_result": "It doesn't embed as embedding is turned off",
+  "short_description": "Websites/Images etc still embed at search results even while embedding is turned off",
+  "steps_to_repro": "- Turn off embedding - Search a message of which you know that it includes something that embeds - Check the search results - And it should be embedded "
+ }
+}

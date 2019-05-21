@@ -1,0 +1,17 @@
+{
+ "id": "5bda3678da26ff140c22cbcc",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1133,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EVFsbNQt",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8841)",
+  "actual_result": "Server list moves when you get behind the bar, and the server is able to be placed behind it",
+  "expected_result": "Server list scrolls when you hit the user status bar",
+  "short_description": "Able to move a server behind the user status bar",
+  "steps_to_repro": "- Long press on a server - Move the server to the bottom of the screen - Observe where the server goes"
+ }
+}

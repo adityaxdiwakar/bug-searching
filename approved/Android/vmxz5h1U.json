@@ -1,0 +1,17 @@
+{
+ "id": "5b18b97d427a0cb8dfd863cb",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1501,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vmxz5h1U",
+ "data": {
+  "system_settings": "ZTE Blade Vantage, Android 7.0 (Reported for mrkirby153#7840)",
+  "client_settings": "Android Alpha 6.8.8",
+  "actual_result": "It never appears.",
+  "expected_result": "Custom Emoji should appear in the emoji list.",
+  "short_description": "Custom Emoji Unavailable on Android Alpha 6.8.8",
+  "steps_to_repro": "- Update to Android Alpha 6.8.8 - Go to a server where it have custom emoji or have permissions to post one. - Type out an custom emoji - Observe"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b848789b80ef5140aa07814",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 955,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/giVohA32",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Public Beta 8",
+  "client_settings": "TestFlight 2.3.7 (6943)",
+  "actual_result": "Nearby doesn't stop scanning even if you completely kill the app and reopen",
+  "expected_result": "Nearby should stop scanning when you close out",
+  "short_description": "Nearby friends doesn't stop scanning when you close the page or the app",
+  "steps_to_repro": "- Open up \"Add Friends\" - Tap to start scanning for nearby friends - Close out of add friends - Reopen add friends and observe the nearby feature"
+ }
+}

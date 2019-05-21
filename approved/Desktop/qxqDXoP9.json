@@ -1,0 +1,23 @@
+{
+ "id": "588318ff0600745800f48298",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 342,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qxqDXoP9",
+ "data": {
+  "system_settings": " Mac OS Sierra 10.12.2 Discord canary",
+  "actual_result": "Button is under the embed object",
+  "expected_result": "Button is above the embed object",
+  "short_description": "Embed objects overlap add reaction and more button",
+  "steps_to_repro": "- Create a message with an author, a title, a description, an image,  footer and  sidebar color - hover over the add reaction button "
+ }
+}

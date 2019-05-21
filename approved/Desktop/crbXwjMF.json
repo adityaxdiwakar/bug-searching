@@ -1,0 +1,29 @@
+{
+ "id": "58cbf22d3d832c9fc1720358",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 433,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/crbXwjMF",
+ "data": {
+  "system_settings": " Linux Chrome Web App",
+  "actual_result": "Beside the fact that the keybinds menu does not normally exist in the web app, the UI is completely frozen (it still highlights the buttons) and you can only get out by page reload.",
+  "expected_result": "1. Keybind menu does not exist and",
+  "short_description": "UI problems with streamer mode",
+  "steps_to_repro": "- Open your user settings - Go to the section \"Streamer Mode\" - Enable it - Click \"Keybind settings\" *below the checkbox* - When it says \"Streamer mode enabled\" **RIGHT**click the purple button once. Then **LEFT**click \"Done\" "
+ }
+}

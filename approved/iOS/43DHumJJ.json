@@ -1,0 +1,17 @@
+{
+ "id": "5b957d3227f27940a0ae9b5f",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 993,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/43DHumJJ",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 12",
+  "client_settings": "TestFlight 2.3.8 (7106)",
+  "actual_result": "Discord crashes",
+  "expected_result": "Discord says the message failed to send and to retry",
+  "short_description": "Discord crashes when a message fails to send due to losing wifi connection",
+  "steps_to_repro": "- Type a message - Send the message, and turn off your wifi before the message sends so it fails to send - Alternatively, you can move around until you lose the wifi while sending the message"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b7d717e2aa9ae8304d19344",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 934,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/UHYcCQSg",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12 beta 9",
+  "client_settings": "Testflight 2.3.7 (6870)",
+  "actual_result": "Won't show any unless you hit to open Camera Roll",
+  "expected_result": "Should show all pictures and download them if you try to share it",
+  "short_description": "Having all of your pictures saved on iCloud using the Optimize iPhone Storage option will make it so it won't appear in recent images in the clipboard",
+  "steps_to_repro": "- Make sure all of your pictures are on the iCloud rather than downloaded in your phone - Make sure none of them are downloaded and click clipboard and see the pictures"
+ }
+}

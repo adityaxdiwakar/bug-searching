@@ -1,0 +1,30 @@
+{
+ "id": "5b1897da104e889d3297e1e5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1500,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/S6LJ5nvw",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.8",
+  "actual_result": "Button goes away. Scrolling a little bit through channel list makes it reappear",
+  "expected_result": "Button should stay since the unread channel is still offscreen",
+  "short_description": "The new unread button introduced in 6.8.8 disappear when rotating device until channel list is scrolled",
+  "steps_to_repro": "- Find a server with a lot of channels, all marked as read except the one at the very bottom - Open your channel drawer. You should see the \"new messages\" button - Rotate device"
+ }
+}

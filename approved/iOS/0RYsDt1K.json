@@ -1,0 +1,24 @@
+{
+ "id": "5ab320926bc223a9255aa5b8",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 638,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0RYsDt1K",
+ "data": {
+  "system_settings": "iPhone 7+ iOS 11.3 beta 6 (15E5216a)",
+  "client_settings": "Discord iOS TestFlight 2.2.6 (3385)",
+  "actual_result": "The buttons are pressed but the action is not carried out, and needs to be done from tri-dot menu instead",
+  "expected_result": "The friend request goes through or you unblock someone successfully",
+  "short_description": "Buttons on \"profile sheet\" not working",
+  "steps_to_repro": "- expand someone's profile - try to press \"add friend\" - if trying to unblock, press unblock - note, \"Send message\" still works"
+ }
+}

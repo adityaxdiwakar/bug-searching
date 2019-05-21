@@ -1,0 +1,17 @@
+{
+ "id": "5b946154b39d6109c0d3e1fb",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 989,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dz2xC0nF",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 12",
+  "client_settings": "TestFlight 2.3.8 (7106)",
+  "actual_result": "Emoji picker picks the emoji to the left of what you selected the second time",
+  "expected_result": "Emoji picker picks the emoji you chose",
+  "short_description": "Selecting a frequently used emoji in the emoji picker, sending the message, and selecting that emoji again selects the wrong emoji the second time",
+  "steps_to_repro": "- Open the emoji picker - Select a random custom emoji from the second row of your frequently used - Send the message containing the emoji - Select the same custom emoji again and observe the emoji chosen - If this doesn't happen with one row, try on the other rows in your frequently used - Note: this will continue each time you send the message with the emoji, moving in order"
+ }
+}

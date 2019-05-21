@@ -1,0 +1,16 @@
+{
+ "id": "58f2571b64a0f5b75ac5188a",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 226,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AeYFy6Hb",
+ "data": {
+  "system_settings": " iPad only, landscape mode, iOS 10.3.1, Discord 1.8.3",
+  "actual_result": "The hidden parts of the status bar should show in black font color.",
+  "expected_result": "Parts of the status bar do not show as they are the same font color as Discord's light theme",
+  "short_description": "Parts of the status bar do not show in light theme",
+  "steps_to_repro": "- Change Discord to light theme. - Observe the absence of parts of the status bar. "
+ }
+}

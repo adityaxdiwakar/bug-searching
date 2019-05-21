@@ -1,0 +1,30 @@
+{
+ "id": "59df027e8eb80e3b65aeba02",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 808,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XgmBsSfl",
+ "data": {
+  "system_settings": "Android 7.0 Moto G4",
+  "client_settings": "Android Alpha 5.3.5",
+  "actual_result": "The tag go through and you get the full username and discriminator with the first to numbers referencing to the text channel",
+  "expected_result": "The tag goes through",
+  "short_description": "When there is a channel that has your guest two digits if your discriminator @ mentions mess up",
+  "steps_to_repro": "- Create or join a test server - Make a text channel that has your first two digits of your discriminator (for example for me it would be 98) - Tag yourself"
+ }
+}

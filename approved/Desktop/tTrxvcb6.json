@@ -1,0 +1,30 @@
+{
+ "id": "5b9e77eb8a265b6eb6b12a07",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2992,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tTrxvcb6",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS 10.13.6",
+  "client_settings": "Firefox v62.0 (64-bit)",
+  "actual_result": "The site shakes like it should, but changes the application in the dropdown.",
+  "expected_result": "The application selected shouldn't change as long as there's unsaved changes.",
+  "short_description": "[Website Bug] Selecting another application while you have unsaved changes causes strange behavior.",
+  "steps_to_repro": "- Go to the Developer Portal - Open the Applications Tab - Select an application - Change something such as the name. DO NOT SAVE YET - On the left, select the dropdown under \"Selected App\" - Select a different application."
+ }
+}

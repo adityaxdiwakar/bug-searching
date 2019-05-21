@@ -1,0 +1,30 @@
+{
+ "id": "5c18a8ecba33f45b28af705b",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2385,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Bi7hzJFn",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8 Android 8.0",
+  "client_settings": "Alpha 8.1.3",
+  "actual_result": "spellcheck works everywhere else in the app but channels and DMs",
+  "expected_result": "spellcheck should work in channels and DMs when typing messages just like it works in other places or how it works on \"some\" other keyboards",
+  "short_description": "{Samsung stock keyboard specific} spellcheck is not working in channels and DMs but works everywhere else in the app",
+  "steps_to_repro": "- go to your Smart typing settings and turn Auto replace off (if you have it on) - turn Auto spellcheck on for the language you're going to test with - open Discord and insert a misspelled word in a channel or DM - notice how there is no red underline - type the same word in e.g search, QS, nickname change or server name etc.. - notice how there is a red underline indicating that the word is misspelled"
+ }
+}

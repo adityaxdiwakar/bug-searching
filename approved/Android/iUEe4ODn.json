@@ -1,0 +1,17 @@
+{
+ "id": "5af320ee8100c32e4e314f52",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1392,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/iUEe4ODn",
+ "data": {
+  "system_settings": "Xiaomi Redmi Note 4, Android 7.0",
+  "client_settings": "Android Alpha 6.6.5",
+  "actual_result": "Sometimes nothing happens",
+  "expected_result": "Popup with user settings appears",
+  "short_description": "The settings window of the left user does not open sometimes",
+  "steps_to_repro": "- Find message from user who left the server - Hold his Nickname"
+ }
+}

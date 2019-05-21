@@ -1,0 +1,15 @@
+{
+ "id": "5841d6341b3ff27411610f25",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 195,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/P4uX6YHX",
+ "data": {
+  "actual_result": "crash posted for BoGuu#1044",
+  "expected_result": "no crash -",
+  "short_description": "Posting a certain giphy link causes discord to restart (most of the time)",
+  "steps_to_repro": "- 1. post this link: `<https://giphy.com/gifs/Q2QALnZsTk080>`  -2. people not using canary builds will crash, and restart "
+ }
+}

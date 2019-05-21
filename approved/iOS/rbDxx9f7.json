@@ -1,0 +1,15 @@
+{
+ "id": "582c7076bc4803d155137372",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 73,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rbDxx9f7",
+ "data": {
+  "actual_result": "no mentionable users appear",
+  "expected_result": "mentionable users appear",
+  "short_description": "Autocomplete does not appear when uploading a photo",
+  "steps_to_repro": "- attach photo via camera roll - attempt to add a comment with a mention to a user "
+ }
+}

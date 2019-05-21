@@ -1,0 +1,15 @@
+{
+ "id": "582cd64e63fc78812de8e353",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 76,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AhU4IU3o",
+ "data": {
+  "actual_result": "The notes field is selected. This doesn't happen if you do it again without reopening the profile screen or scrolling down.",
+  "expected_result": "The area you tapped is selected.",
+  "short_description": "Tapping anywhere on profile page goes to the notes section the first time you tap the screen when a note is written",
+  "steps_to_repro": "- Write a note on someone's profile - Open the profile screen for that user - Tap anywhere on the screen outside of the notes field "
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58ff72994c6f4f7db08c8583",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 407,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PBo03bnT",
+ "data": {
+  "system_settings": " Android 7.0, Discord Beta 3.7.4",
+  "actual_result": ":emoji: picked",
+  "expected_result": ":emoji-1: picked",
+  "short_description": "Picking :emoji-N: inserts :emoji: in emoji picker w/ search",
+  "steps_to_repro": "- Find a server that have custom emoji like :emoji: and :emoji-1: (different emoji with the same name) - Open emoji picker (next to send) - Open emoji picker search (magnifier icon) - Tap the emoji which is :emoji-1: "
+ }
+}

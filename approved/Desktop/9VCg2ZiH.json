@@ -1,0 +1,16 @@
+{
+ "id": "59044a8e4e328ee4c6b6a5a4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 570,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9VCg2ZiH",
+ "data": {
+  "system_settings": " Windows 10 X64 & Canary",
+  "actual_result": "Only available option in the Filter User field is \"All\"",
+  "expected_result": "Filter User list shows the users from the server you're seeing the logs",
+  "short_description": "Audit Logs user filter inexistent if you are in another server",
+  "steps_to_repro": "- Be in a server - Right Click a server where you can see the audit logs - Navigate to Sever Settings > Audit Logs "
+ }
+}

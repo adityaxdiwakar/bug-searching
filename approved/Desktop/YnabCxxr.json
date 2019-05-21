@@ -1,0 +1,30 @@
+{
+ "id": "5b227cc9b260f23898194bde",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2136,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YnabCxxr",
+ "data": {
+  "system_settings": "Windows 10, 1803",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 16907, Version Hash: 5ce42099136b2026da0a0a3b2e3c19320ae6d249",
+  "actual_result": "The chat is split in large gaps, almost like in Cozy mode.",
+  "expected_result": "Chat lines should stay close together like with lower scaling options",
+  "short_description": "When using 150 font scaling in Compact mode, the spacing of messages is wrong, leaving gaps between the lines.",
+  "steps_to_repro": "- User Settings, Appearance - set Compact Mode - set Chat Font Scaling to 150"
+ }
+}

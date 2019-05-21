@@ -1,0 +1,15 @@
+{
+ "id": "58575586971d8b573ee24336",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 130,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/641V9xTT",
+ "data": {
+  "actual_result": "It shows you your roles on your current server or message (message is as if you have no roles)",
+  "expected_result": "It shows you your roles (or nothing in a message) on that server",
+  "short_description": "In recent mentions, when pressing where you were mentioned, it shows up in your profile on your current server (if done in a message it seems to show a view with no roles)",
+  "steps_to_repro": "- Go to a server or a message and view recent mentions - View a tag on yourself or someone else "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bbce1784611c3325da3d3b3",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2133,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gwGqO9zz",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 766",
+  "actual_result": "It says \"null\" and shows the default avatar (Clyde).",
+  "expected_result": "Like on desktop, it says the creator's name and shows their pfp.",
+  "short_description": "Audit log entries that about an invite being created show the creator's name as \"null\" if they have left the server.",
+  "steps_to_repro": "- Ask someone to create an invite for your server. - Kick them. - Force close and restart Discord. - Open Audit log of the server. - Observe the entry that says about the channel being created."
+ }
+}

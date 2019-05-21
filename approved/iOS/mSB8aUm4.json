@@ -1,0 +1,24 @@
+{
+ "id": "5c09b97e879f748aec5f5aba",
+ "closed": false,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 1220,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mSB8aUm4",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12.1.0",
+  "client_settings": "TestFlight 2.4.0",
+  "actual_result": "the top bar disappears",
+  "expected_result": "the top bar should still be displaying fine",
+  "short_description": "Issue of the very top bar displaying your time and battery percentage etc will disappear",
+  "steps_to_repro": "- open iOS client then go to a channel where you can send images - press the file icon, press take photo using camera roll, then take the photo - once you\u2019ve taken the photo, press \u201ccancel\u201d and once you go off the screen, the top bar will be gone"
+ }
+}

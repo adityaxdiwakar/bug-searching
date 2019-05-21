@@ -1,0 +1,35 @@
+{
+ "id": "58b2d3859e1f1e70a936affa",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 204,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BvflrHin",
+ "data": {
+  "system_settings": " iOS 10.2.1, iPad 4, Discord 1.8.2",
+  "actual_result": "You see \"Chi...\" and \"Indi...\"",
+  "expected_result": "You see \"Chiudi\" and \"Indietro\"",
+  "short_description": "Some italian translations are not shown properly.",
+  "steps_to_repro": "- Go to 'Settings' (of the client) - Look in the top left corner - click to (like) 'Account' - Look in the top left corner "
+ }
+}

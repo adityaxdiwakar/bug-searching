@@ -1,0 +1,15 @@
+{
+ "id": "580ff0416b0bcee366984675",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 46,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xLb99cSD",
+ "data": {
+  "actual_result": "Spell check doesn't work, and capitalization is off.",
+  "expected_result": "Spell check and capitalization works normally.",
+  "short_description": "While typing in the image preview section, spell check and the automatic capitalization features doesn't work.",
+  "steps_to_repro": "- Spell words incorrectly, or start a new sentence without capitalization."
+ }
+}

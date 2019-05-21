@@ -1,0 +1,24 @@
+{
+ "id": "59bbf2d3c6acc273e8df1d37",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 719,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kpKpfbCN",
+ "data": {
+  "system_settings": "Google Pixel - Android 8.0.0",
+  "client_settings": "Android Alpha 5.1.6",
+  "actual_result": "During split screen, if Discord is not in focus, it will not actively update",
+  "expected_result": "Discord should always be updating, even when not actively focused",
+  "short_description": "Discord not responsive if not focused during split screen.",
+  "steps_to_repro": "- (possibly Android Oreo specific?) - Open Discord on an active chat - Hold the app switcher button, initiating split screen - Select another valid app for split screen, and focus it by interacting with it - Wait a few seconds for people to be active on the Discord that you had open - Re-focus Discord"
+ }
+}

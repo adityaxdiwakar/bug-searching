@@ -1,0 +1,30 @@
+{
+ "id": "5b9e2338cda76047f1b806bf",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2991,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/i2AvAmU0",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 23836",
+  "actual_result": "The letter in the top line is to the right of the letter in the bottom line",
+  "expected_result": "Letters are in the same position in each line",
+  "short_description": "Making a double line markdown using a single apostrophe puts text at different starting positions",
+  "steps_to_repro": "- Type a double line markdown using a single apostrophe and a single letter on each line - Put the markdown apostrophe and one letter on the first line, and the same letter and the ending markdown apostrophe on the second line - Send your message and observe the positions of the letters"
+ }
+}

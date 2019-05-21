@@ -1,0 +1,24 @@
+{
+ "id": "5978efe5717662945e27e73c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 901,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/T9GOB1Cm",
+ "data": {
+  "system_settings": "Windows https://imgur.com/a/8Q1Ss 7",
+  "client_settings": "Discord Canary, 0.0.161",
+  "actual_result": "The mouse marks something 3-4 users above where it's hovering",
+  "expected_result": "The user the mouse hovers over should get marked.",
+  "short_description": "Mouse is offset when doing @'s",
+  "steps_to_repro": "- Go in a channel - Do @ - Move mouse up or down - Repo gif: https://imgur.com/a/SW8Cm"
+ }
+}

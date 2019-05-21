@@ -1,0 +1,30 @@
+{
+ "id": "5a0754fb5495c1d3af83f018",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 425,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0hBuNXr7",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.1.1",
+  "client_settings": "TestFlight 1.10.0 (1551)",
+  "actual_result": "It is black and also the search background is black, so you can barely see it.",
+  "expected_result": "The \"x\" icon to remove search input should be in white color like the other \"x\" icons.",
+  "short_description": "[iPhone, iPod only] Black icon for removing search input on black search background",
+  "steps_to_repro": "- Go to your \"Direct Messages\" - Click on the search for users and groups there - Type something - Observe the icon to remove search input"
+ }
+}

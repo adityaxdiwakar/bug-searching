@@ -1,0 +1,15 @@
+{
+ "id": "58559bdd48196b04989d4da2",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 145,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7l79TRCA",
+ "data": {
+  "actual_result": "Shows other users from other servers (all users from all servers you're in). https://cdn.discordapp.com/attachments/178313653177548800/259772475557019648/bug.gif",
+  "expected_result": "Shows only the users in the current server.",
+  "short_description": "Typing \"@\" shows users from other servers.",
+  "steps_to_repro": "- Goto any server and type \"@\" - Goto another server and type \"@\" "
+ }
+}

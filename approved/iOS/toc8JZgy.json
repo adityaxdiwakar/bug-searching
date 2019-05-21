@@ -1,0 +1,36 @@
+{
+ "id": "5a8f296acc01d92704f4ec2f",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 600,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/toc8JZgy",
+ "data": {
+  "system_settings": "iPhone 7 Plus, iOS 11.3 Public Beta (This bug appears also on older versions of iOS 11. It's not an issue of the beta)",
+  "client_settings": "2.2.4",
+  "actual_result": "Unlike in every other iOS app only the app's name gets pasted",
+  "expected_result": "The app's name and an App Store link should be pasted",
+  "short_description": "Unable to paste App Store links in Discord",
+  "steps_to_repro": "- Go to an app in the App Store (It doesn't matter which one)  - Tap on the blue button with the three white dots - Tap on \"Share App...\" - Tap on \"Copy Link\" - Try to paste the link in Discord (It doesn't matter if it is a DM or a channel)"
+ }
+}

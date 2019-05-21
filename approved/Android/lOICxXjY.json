@@ -1,0 +1,30 @@
+{
+ "id": "59e236f7ad1c0bf7193aaeba",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 811,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lOICxXjY",
+ "data": {
+  "system_settings": "Samsung Galaxy 7, Android 7.0",
+  "client_settings": "Android Alpha 5.3.8",
+  "actual_result": "No dash appears like it should",
+  "expected_result": "No dash appears and hitting enter will break the channel",
+  "short_description": "Hitting \"space key\" on mobile doesn't create dash like IOS and desktop",
+  "steps_to_repro": "- Create a channel name and add a space - You should see a dash appear"
+ }
+}

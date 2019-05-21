@@ -1,0 +1,24 @@
+{
+ "id": "5aa72ba70ca738c7951a7243",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1188,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZR8MS442",
+ "data": {
+  "system_settings": "OnePlus 3T Android O (8.0.0)",
+  "client_settings": "Android Alpha 6.3.5",
+  "actual_result": "The screen is completely empty until you swipe from the side to open the drawer",
+  "expected_result": "The orientation should change like it does in server channels",
+  "short_description": "Changing screen orientation in DMs gives an empty screen until opening drawer",
+  "steps_to_repro": "- Open a DM channel - Change screen orientation from portrait to landscape or vice versa"
+ }
+}

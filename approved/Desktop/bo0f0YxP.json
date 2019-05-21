@@ -1,0 +1,15 @@
+{
+ "id": "585990a57a0e684efcf19c2b",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 263,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bo0f0YxP",
+ "data": {
+  "actual_result": "discord crashes",
+  "expected_result": "discord does not crash",
+  "short_description": "embeding this gif crashes discord",
+  "steps_to_repro": "- embed this gid <https://giphy.com/gifs/m5viTnfJ2tdRu> "
+ }
+}

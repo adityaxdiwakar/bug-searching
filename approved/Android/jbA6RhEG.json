@@ -1,0 +1,30 @@
+{
+ "id": "5b603cf1ce9357c6856493b6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1735,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jbA6RhEG",
+ "data": {
+  "system_settings": "Android 5.1",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "Animation doesn't appear",
+  "expected_result": "Animation appear same as in dark theme",
+  "short_description": "In light theme haven't animation when long press member list and 3 dots buttons",
+  "steps_to_repro": "- Switch to light theme - Go in a channel - Long press member list and 3 dots buttons"
+ }
+}

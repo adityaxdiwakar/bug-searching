@@ -1,0 +1,15 @@
+{
+ "id": "582fc24a6400909786c28f7d",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 99,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xAKldvLf",
+ "data": {
+  "actual_result": "\"Welcome to the beginning of the channel\" appears. - courtesy of Jerbear64 (66197463593136128)",
+  "expected_result": "Older messages properly load.",
+  "short_description": "Older messages occasionally don't load, instead it says \"Welcome to the bgeinning of the channel\"",
+  "steps_to_repro": "- Have a weak connection, WiFi or data. - Scroll up a bit. "
+ }
+}

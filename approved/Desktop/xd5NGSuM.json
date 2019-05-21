@@ -1,0 +1,30 @@
+{
+ "id": "5a99c164b2bcf85d7b456323",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1701,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xd5NGSuM",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary build 11514",
+  "actual_result": "The whole Spotify integration breaks, status will no longer update and will eventually disappear, and playing a song through someone's rich presence doesn't work either, until Discord is restarted",
+  "expected_result": "Even though local songs aren't supported by Discord rich presence, playing anything else from the Spotify library after would still work, and the status would carry on updating properly",
+  "short_description": "Playing a local song on Spotify breaks any integration until Canary is restarted",
+  "steps_to_repro": "- Play a song available on Spotify - Play a local song on your PC through Spotify - Switch back to another song streamed on Spotify"
+ }
+}

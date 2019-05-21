@@ -1,0 +1,30 @@
+{
+ "id": "5b305eb4fe69ce00b6d1c4be",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2197,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/76VGfsPm",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 17580",
+  "actual_result": "You get scrolled up in chat a little every time you change your client language",
+  "expected_result": "Your current scrolled position is kept in place",
+  "short_description": "Changing your client language scrolls you up in the chat you're currently viewing",
+  "steps_to_repro": "- Be using any Chat Font Scaling besides default (100) - Go into a channel with enough messages to scroll up in - Go into your User Settings > Language - Switch to another language then exit your User Settings and observe your scrolled position compared to before (Note: This may take 2-3 tries, it doesn't always occur for some reason, but switching between two languages a few times should show results as the scroll effect stacks)"
+ }
+}

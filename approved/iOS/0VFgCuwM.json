@@ -1,0 +1,24 @@
+{
+ "id": "5bba8d37d0c1863211341619",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1072,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0VFgCuwM",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8085)",
+  "actual_result": "NSFW channel toggle flashes as the previous toggle when the page is closing",
+  "expected_result": "NSFW channel toggle stays in the position you toggled it to",
+  "short_description": "Toggline the NSFW channel option on/off and pressing save shows the toggle in the previous position when closing",
+  "steps_to_repro": "- Go to a server where you can manage channels - Go into the channel settings of a random channel - Toggle the NSFW channel option on/off - Leaving the NSFW channel toggle in view, tap save - Observe the toggle as the channel settings close"
+ }
+}

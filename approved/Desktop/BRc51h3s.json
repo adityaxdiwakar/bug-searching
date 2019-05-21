@@ -1,0 +1,30 @@
+{
+ "id": "5ac902b09b2297a5d03c8ab6",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1808,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BRc51h3s",
+ "data": {
+  "system_settings": "Debian Stretch, Gnome 3 (Also seen on Windows 10 x64)",
+  "client_settings": "Discord Canary Build 13313",
+  "actual_result": "The search changes to match only the characters up to the cursor",
+  "expected_result": "The current active search keyword stays the same until you edit the text",
+  "short_description": "Moving the cursor on slash commands arguments changes the search keyword",
+  "steps_to_repro": "- Open any text channel - Use a slash command (/giphy, /tenor...) with any text as argument - Move the cursor back in the text (using arrow keys or click)"
+ }
+}

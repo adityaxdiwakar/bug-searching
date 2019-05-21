@@ -1,0 +1,17 @@
+{
+ "id": "5a463d9901031e2e4fd50bd6",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1007,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/OVH2rDWM",
+ "data": {
+  "system_settings": "Acer Iconia One 10 B3-A20, Android 5.1",
+  "client_settings": "Discord Alpha 5.9.7",
+  "actual_result": "Discord freezes and you need to restart it",
+  "expected_result": "You get moved without any problem",
+  "short_description": "Discord crashes freezes when getting moved in a multiple people voice call",
+  "steps_to_repro": "- Join a voice call - Get a someone to move you in another voice call with 3 persons or more (not in an empty voice call, it didn't freeze when I got moved into an empty voice call)"
+ }
+}

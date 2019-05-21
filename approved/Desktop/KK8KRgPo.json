@@ -1,0 +1,30 @@
+{
+ "id": "5a37c917e4c5b1d586516c53",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1471,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KK8KRgPo",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord 0.0.299",
+  "actual_result": "On the top, there is a message `\uc5ec\ub7ec \uacc4\uc815\ub4e4\uc744 \uc5f0\uacb0\ud574 Discord\uc758 \ud2b9\ubcc4\ud55c \ud1b5\ud569 \uae30\ub2a5\uc744 \ufffd\ufffd\ufffd\uc6a9\ud574\ubcf4\uc138\uc694.`",
+  "expected_result": "On the top, there is a message `\uc5ec\ub7ec \uacc4\uc815\ub4e4\uc744 \uc5f0\uacb0\ud574 Discord\uc758 \ud2b9\ubcc4\ud55c \ud1b5\ud569 \uae30\ub2a5\uc744 \uc0ac\uc6a9\ud574\ubcf4\uc138\uc694.`",
+  "short_description": "Strange letter appears",
+  "steps_to_repro": "- Set your Language to Korean - In the Settings menu, go to `\uc5f0\uacb0`(Connections)"
+ }
+}

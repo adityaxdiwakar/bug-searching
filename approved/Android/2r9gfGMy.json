@@ -1,0 +1,23 @@
+{
+ "id": "58ab351fc67c50d89a6d29fd",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 245,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2r9gfGMy",
+ "data": {
+  "system_settings": " Nexus 6 at DPI 493 discord ver 3.3.4",
+  "actual_result": "upload menu grows a black top hat",
+  "expected_result": "upload menu scales properly with DPI",
+  "short_description": "DPI causes upload menu to gain a black box above",
+  "steps_to_repro": "- access the upload menu - "
+ }
+}

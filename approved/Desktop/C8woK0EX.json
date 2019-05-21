@@ -1,0 +1,30 @@
+{
+ "id": "5b7b36962e7c43787ed2837c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2752,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/C8woK0EX",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 22210",
+  "actual_result": "The server guide is cut off on both sides",
+  "expected_result": "The server guide should be fully visible and not cut off",
+  "short_description": "\"Welcome to your server\" list gets cut off when member list is open and Discord is set to a small window size",
+  "steps_to_repro": "- Create a new server so you can see the \"Welcome to your server\" list in the default channel and close the member list - Once you close the member list, unmaximise Discord and adjust the window size to the smallest window possible width-wise - Observe the \"Welcome to your server\" list with the member list closed and then open the member list and observe the list again"
+ }
+}

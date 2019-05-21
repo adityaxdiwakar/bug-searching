@@ -1,0 +1,24 @@
+{
+ "id": "593b07f077e6de321b381dce",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 735,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/98NKfO6N",
+ "data": {
+  "system_settings": "Windows 10, 1703",
+  "client_settings": "Desktop Discord Canary, 1.1.1.0",
+  "actual_result": "The roles are some what spaced out that is not necessary",
+  "expected_result": "No spaces or separated roles as it takes up room that is not necessary",
+  "short_description": "The server roles are spaced out or separated.",
+  "steps_to_repro": "- Attempt to create a channel."
+ }
+}

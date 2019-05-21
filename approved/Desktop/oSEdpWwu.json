@@ -1,0 +1,23 @@
+{
+ "id": "590d49f066548c9b636d1db3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 607,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oSEdpWwu",
+ "data": {
+  "system_settings": " Windows 7, Latest Canary",
+  "actual_result": "role filter is set to the role that was just created for the new bot (IF APPLICABLE)",
+  "expected_result": "nothing happens; role filter remains at its existing setting",
+  "short_description": "When in the Member Settings tab and a bot is added that makes its own role, role filter switches to the newly created role.",
+  "steps_to_repro": "- Navigate to Server Settings > Members - Add a bot to server"
+ }
+}

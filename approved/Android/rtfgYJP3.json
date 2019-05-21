@@ -1,0 +1,17 @@
+{
+ "id": "5a014f96f68720d0cc35e735",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 876,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rtfgYJP3",
+ "data": {
+  "system_settings": "lg xpower 6.0.1",
+  "client_settings": "android alpha 5.5.7 (557)",
+  "actual_result": "you get moved to channel on top of channel list",
+  "expected_result": "you should be moved to new text channel allowing you to type instantly",
+  "short_description": "creating text channel moves you to top one [this started after 5.5.7 update and seem unlikely to be extension of <https://trello.com/c/OVndkw94/> which appeared few versions ago",
+  "steps_to_repro": "- add text channel"
+ }
+}

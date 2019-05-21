@@ -1,0 +1,30 @@
+{
+ "id": "5b01a31826154b43d6f6b0ea",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1439,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Juvfc8nQ",
+ "data": {
+  "system_settings": "Oppo R11s, ColorOS 3.2, Android 7.1.1 (Nougat)",
+  "client_settings": "Android Beta 6.7.4",
+  "actual_result": "The right side is slightly longer than the left side (you may have to look at multiple profiles)",
+  "expected_result": "Both sides should be the same length",
+  "short_description": "There is a bigger gap on the right side of user profiles when users have 2 badges",
+  "steps_to_repro": "- Open a profile with a person who has 2 badges - Look closely and observe the left side then the right side"
+ }
+}

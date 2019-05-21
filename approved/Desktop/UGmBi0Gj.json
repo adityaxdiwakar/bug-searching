@@ -1,0 +1,23 @@
+{
+ "id": "5904b5ed6ee98e9feab84d04",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 576,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UGmBi0Gj",
+ "data": {
+  "system_settings": " latest Discord Canary",
+  "actual_result": "Server settings close but the context menu stays opened",
+  "expected_result": "Everything closes including the context menu",
+  "short_description": "Pressing Esc key in Server Settings don't close context menu",
+  "steps_to_repro": "- Open \"Server Settings\" > \"Members\" - Click three dots or rightclick a member to open a context menu - Press Esc key on your keyboard (not the cross button) "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5beb68e83e4c288b407fcd2c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3378,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aU98FhAX",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1803)",
+  "client_settings": "Discord Canary 0.0.219, Build 27933",
+  "actual_result": "The \"Disable\" text disappears",
+  "expected_result": "The \"Disable\" text should still be visible",
+  "short_description": "Streamer Mode is enabled banner's \"Disable\" text disappears when hovering over the option",
+  "steps_to_repro": "- Enable Steamer Mode (Just refresh your client if you don't get the banner) - Hover over the \"Disable\" option in the banner at the top of your client and observe"
+ }
+}

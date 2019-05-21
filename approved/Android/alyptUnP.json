@@ -1,0 +1,30 @@
+{
+ "id": "5bda9823a19f3286093a6dfe",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2276,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/alyptUnP",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Android 8.0.0",
+  "client_settings": "7.8.4",
+  "actual_result": "Message alert comes",
+  "expected_result": "Message should not come as we didnt read",
+  "short_description": "Dm alert comes after you read message",
+  "steps_to_repro": "- Let someone message you (personally, tried with announce bot) - When they send message, go to server list and seleft a server quick - The dm notification will come up in 1 sec but you saw the message"
+ }
+}

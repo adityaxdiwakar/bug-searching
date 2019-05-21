@@ -1,0 +1,24 @@
+{
+ "id": "5c19209b48faa61aaf41fea9",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1239,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5Nhe0SAM",
+ "data": {
+  "system_settings": "Ios 12.1.1",
+  "client_settings": "Discord IOS, 2.3.8",
+  "actual_result": "Discord freezes the messages around where the broken embed was sent into any discord server you go in",
+  "expected_result": "Discord should show that I am listening to a song, without completely breaking",
+  "short_description": "When sharing a Spotify embed, If I start to listen to a song I have downloaded locally on spotify, it breaks discord IOS",
+  "steps_to_repro": ""
+ }
+}

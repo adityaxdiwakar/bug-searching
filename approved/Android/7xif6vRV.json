@@ -1,0 +1,30 @@
+{
+ "id": "5babb119e3f1306ddac1d43f",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2041,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7xif6vRV",
+ "data": {
+  "system_settings": "Samsung Galaxy J1 Ace, Android 4.4.4",
+  "client_settings": "Alpha 755",
+  "actual_result": "When collapsed shows \"Account Management +\"",
+  "expected_result": "When collapsed should show \"Account Management ^\"",
+  "short_description": "4.4.x specific account management shows a \"+\" instead of an \" ^ \" when collapsed",
+  "steps_to_repro": "- Go to Settings > My Account - scroll down to \"Account Managrment\" - observe"
+ }
+}

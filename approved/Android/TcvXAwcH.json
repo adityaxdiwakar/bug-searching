@@ -1,0 +1,30 @@
+{
+ "id": "59fc3f5ff3566ec6f32e571a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 864,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TcvXAwcH",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.5.4",
+  "actual_result": "The chat box won't unlock unless you switch to another channel or server and then come back",
+  "expected_result": "As soon as you get past the 10 minutes verification, the chat box will immediately unlock and you will be able to talk",
+  "short_description": "When you join a server with 10 minutes membership verification enabled and stay on the same channel until the 10 minutes have passed, the chat box won't unlock automatically",
+  "steps_to_repro": "- Join a server which requires to be a member for 10 minutes before talking - Keep the server open and wait until the 10 minutes have passed."
+ }
+}

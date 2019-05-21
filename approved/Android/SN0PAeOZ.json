@@ -1,0 +1,16 @@
+{
+ "id": "58fe29d4acf32bbee8d53a61",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 403,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SN0PAeOZ",
+ "data": {
+  "system_settings": " Android 6.0 Alpha 3.7.1",
+  "actual_result": "It is",
+  "expected_result": "The popup that is made when you long hold a pfp isn't there",
+  "short_description": "Box that pops up when you long hold a users pfp doesn't go away after going to their user settings and clicking the message button",
+  "steps_to_repro": "- Long hold a users PFP - Click \"User Settings\" on the pop up. - Click the message button "
+ }
+}

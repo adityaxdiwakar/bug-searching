@@ -1,0 +1,17 @@
+{
+ "id": "596aebe86cb9f56af68cdb1e",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 557,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/MiqFidaZ",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Edge | SM-G935FD | Android 7.0",
+  "client_settings": "3.9.9",
+  "actual_result": "It gets squashed into one code block and the first part doesn't display. View image.",
+  "expected_result": "It should display as two different code blocks.",
+  "short_description": "\\`\\`\\` not working properly",
+  "steps_to_repro": "- Type the message in the image (\"BUGS\" and \"idk how but this is a bug\" can be replaced with anything) - Send the message"
+ }
+}

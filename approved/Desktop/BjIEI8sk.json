@@ -1,0 +1,17 @@
+{
+ "id": "5c1308b793f37232ed2ebc74",
+ "closed": false,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 3487,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/BjIEI8sk",
+ "data": {
+  "system_settings": "Windows 10 Pro 64bit",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 29471, Version Hash: d79439b5bb00ea59889161eea97862d72e49f16b",
+  "actual_result": "The name remains dim and the 'clicker' pointer remains instead of the finger/select pointer.",
+  "expected_result": "The finger/select pointer should appear once the profile is closed to show it is an option. The name remains dim.",
+  "short_description": "'Select' pointer does not appear after closing a discord profile from a voice chat.",
+  "steps_to_repro": "- Right click a user in a voice chat - Select Profile - Whilst the profile is open, hover over another (or the same) person in the voice chat list - left click to close profile - finger/select pointer will not appear until you move to another name."
+ }
+}

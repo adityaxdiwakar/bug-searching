@@ -1,0 +1,24 @@
+{
+ "id": "5951caeac0dfc782229cb76d",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 790,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3P1Pt470",
+ "data": {
+  "system_settings": "Windows 10 Home x64, Creators Update",
+  "client_settings": "Discord Canary 0.0.157",
+  "actual_result": "Client goes grey and once escaped channels disappear until you switch servers (or restart)",
+  "expected_result": "Video full screens",
+  "short_description": "Fullscreening video embeds causes a grey screen",
+  "steps_to_repro": "- Play an embedded video \u2013 Full screen it"
+ }
+}

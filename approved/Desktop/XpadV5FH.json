@@ -1,0 +1,36 @@
+{
+ "id": "5b71d39a7c119d2ad2139de4",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2700,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5b8876495b10eb2013654345",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Firefox",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XpadV5FH",
+ "data": {
+  "system_settings": "Firefox Quantum 61.0.1 (64-bit), macOS Sierra 10.12.6",
+  "client_settings": "Canary 21705",
+  "actual_result": "It is pushed downwards due to the line break and then looks messy",
+  "expected_result": "It gets truncated or shortened",
+  "short_description": "When editing current payment details the state/province/region box isn't aligned with the other boxes [Outside US country specific] [Firefox]",
+  "steps_to_repro": "- Open Discord on Firefox - Open the billing tab - Be in a country outside of the US - Edit current payment details - Observe the state/province/region box"
+ }
+}

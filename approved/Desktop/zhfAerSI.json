@@ -1,0 +1,30 @@
+{
+ "id": "5bcb5934854e96809aed8602",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3247,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zhfAerSI",
+ "data": {
+  "system_settings": "MacOS Mojave, Version 10.14",
+  "client_settings": "Discord Canary, Build 26644",
+  "actual_result": "The trailer will mute you from it's audio, and the audio from all other game trailers.",
+  "expected_result": "The trailer should not mute your audio.",
+  "short_description": "When zooming in to 200% and out to 125% while watching a trailer for a game, it will mute you for all other trailers. Unless you mainly unmute yourself.",
+  "steps_to_repro": "- Go to a game in the \"Store\". - Click on a game ( I clicked on Bad North). - Zoom in to 200% with ctrl + or command + (the video will also restart) - then zoom out to 125% with ctrl - or command - (it will restart again) - Your audio for the stores game trailers will be muted. To unmute them you can go to the bottom right of your video and click the audio button, or pause and play the video."
+ }
+}

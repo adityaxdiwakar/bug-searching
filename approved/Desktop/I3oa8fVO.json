@@ -1,0 +1,24 @@
+{
+ "id": "59b432c43b56321af620e949",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1106,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I3oa8fVO",
+ "data": {
+  "system_settings": "Windows 10 Home Creators Update",
+  "client_settings": "Canary 4053",
+  "actual_result": "Half of the green bar is cut off",
+  "expected_result": "The green bar should show fully and normally",
+  "short_description": "When moving a Channel Category to the top the top green bar is half cut off",
+  "steps_to_repro": "- Have two or more Channel Categories  - Move one to the top"
+ }
+}

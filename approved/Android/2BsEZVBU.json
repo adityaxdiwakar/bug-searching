@@ -1,0 +1,30 @@
+{
+ "id": "5b6dee9100ddba3dc6f7a5f9",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1814,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2BsEZVBU",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.9",
+  "actual_result": "The option to deafen is there and when you use it you can't hear anything, and the Desktop user will see a Deafen icon on his end",
+  "expected_result": "It shouldn't be possible to deafen in a DM, so this option shouldn't be there to begin with. At least it should not be working",
+  "short_description": "There's an option to deafen yourself in a DM through the persistent notification, and it actually works",
+  "steps_to_repro": "- Start or join a DM call with a Desktop user - Look at the persistent notification on your phone - Notice there's a deafen option. Tap on it"
+ }
+}

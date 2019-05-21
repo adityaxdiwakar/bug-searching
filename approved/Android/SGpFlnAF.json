@@ -1,0 +1,30 @@
+{
+ "id": "599db34175a17f9365437fa6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 644,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SGpFlnAF",
+ "data": {
+  "system_settings": "Sony xperia xa ultra Android 7.0",
+  "client_settings": "Discord android alpha 4.0.7(502)",
+  "actual_result": "Setting your system time backwards will bring the verification thingy back, even if you kill the app completely and restart it.",
+  "expected_result": "Once the verification is done, you will be able to send messages in this server and there shouldn't be any way to get back to the verification, unless you leave the server and rejoin.",
+  "short_description": "Intentionally setting device clock back can force the 10 minute verification to appear indefinitely.",
+  "steps_to_repro": "- Join a server with 10 minute verification enabled- Wait until you get past the verification- Close the app- Go to your Android device system settings, and set your date/time to at least 10 minutes backwards- Re-open the app"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "582cc088f6561522448da0f4",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 96,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kJn6XbE1",
+ "data": {
+  "actual_result": "Its clickable, opening a fake text channel.",
+  "expected_result": "You cannot click it, just see it as a regular name -",
+  "short_description": "Voice channel mentions are clickable",
+  "steps_to_repro": "- Say <#VOICE_CHANNEL_ID> in chat, like Certified Bug Hunters Only. - Go onto your phone and look at it "
+ }
+}

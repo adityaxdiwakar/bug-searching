@@ -1,0 +1,35 @@
+{
+ "id": "58c0a5417107513f41bdc958",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 215,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Rg5nACtq",
+ "data": {
+  "system_settings": " iOS 10.2.1, iPhone 6 Plus, TestFlight [1.8.3(72)]",
+  "actual_result": "\"Wumpus has no Friends Add friends\" message appears as if you have not added any friends.",
+  "expected_result": "List of friends that you have added should show.",
+  "short_description": "No friends in friends list after deleting server while in voice chat.",
+  "steps_to_repro": "- Have 2FA enabled - Be in friends list as you create a new server - Join a voice channel - Delete server and go back to friends list. "
+ }
+}

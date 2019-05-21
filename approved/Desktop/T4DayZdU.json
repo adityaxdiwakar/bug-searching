@@ -1,0 +1,30 @@
+{
+ "id": "5ba61b54a3765526d4c223f3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3016,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/T4DayZdU",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64",
+  "client_settings": "Discord Stable, 24302",
+  "actual_result": "Nothing happens.",
+  "expected_result": "Once you click \"next\", you should get a message saying \"Billing Address is Invalid\".",
+  "short_description": "Inputting random address and and clicking \"next\" button on the Nitro subscription doesn't do anything.",
+  "steps_to_repro": "- Click on $4.99 or $49.99, and enter a valid card information and go to the next part. - Then, on Address 1 and 2, input some random invalid address, fill out the rest, and click \"next\"."
+ }
+}

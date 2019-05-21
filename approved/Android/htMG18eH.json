@@ -1,0 +1,17 @@
+{
+ "id": "5aff678f31d7ed4781f36518",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1433,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/htMG18eH",
+ "data": {
+  "system_settings": "Samsung Galaxy A3 2017; Android 7.0",
+  "client_settings": "Discord Alpha 6.7.4",
+  "actual_result": "Written in your system's language.",
+  "expected_result": "The \"Reply\" message is written in your client's language",
+  "short_description": "[6.7.4+; Samsung Galaxy and Android 7.0 (not exactly sure about Android and Samsung Galaxy) Specific] \"Reply\" in the typing section of the Reply Inline is written within Client's instead of System's Language.",
+  "steps_to_repro": "- Get a push notification that you can reply to - Reply, however, do not send it yet. - Observe the reply section"
+ }
+}

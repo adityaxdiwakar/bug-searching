@@ -1,0 +1,30 @@
+{
+ "id": "5c2ef3e13e0c94386607c27d",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3566,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ELW5GMWd",
+ "data": {
+  "system_settings": "Xubuntu 18.04.1",
+  "client_settings": "Linux Canary, 0.0.65; Web Client, build 30386",
+  "actual_result": "Client freezes",
+  "expected_result": "Nothing",
+  "short_description": "In a search with both a term and a highlighted parameter, pressing PgUp freezes client",
+  "steps_to_repro": "- In any desktop-based client (tested Linux Canary and Web): - Search for a simple term (eg. `test`) - Add a parameter (tested `has:link` and date-based) - Press PgUp"
+ }
+}

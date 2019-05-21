@@ -1,0 +1,30 @@
+{
+ "id": "59b36ff299e2d7a8dd63598e",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 690,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AiAUxefl",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 5.1.4 (514)",
+  "actual_result": "You are unable to scroll down and view the last options",
+  "expected_result": "You should be able to scroll down and view the last options",
+  "short_description": "You can't scroll down in the long press menu for channels while using landscape mode",
+  "steps_to_repro": "- Got to a channel you have at least Manage Channels permission for - Switch to landscape mode - Press hold on the channel and wait for the menu to show up - Notice that you are unable to scroll down to view the last options on the list"
+ }
+}

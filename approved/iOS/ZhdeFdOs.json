@@ -1,0 +1,17 @@
+{
+ "id": "5bee75f579bf1f0fd5cff9a1",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1164,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZhdeFdOs",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.2 Dev Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "Bottom user is under bottom bar",
+  "expected_result": "Bottom user is not under bottom bar",
+  "short_description": "[iPhone X/XS/XR/XS Max] Bottom bar overlaps bottom user in list of reactions to a message",
+  "steps_to_repro": "- Open the list of users who added reactions to a message when there are more than 14 reactions"
+ }
+}

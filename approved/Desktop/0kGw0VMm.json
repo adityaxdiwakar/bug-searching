@@ -1,0 +1,17 @@
+{
+ "id": "5bdb7d8e2719dc0167889a9f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3334,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0kGw0VMm",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Build v1803",
+  "client_settings": "Canary Build 27375",
+  "actual_result": "Discord hard crashes and logs you out if you have your console open, otherwise it just crashes",
+  "expected_result": "Overlay turns off",
+  "short_description": "Overlay either instacrashes you or if you disable it from the User Settings it hard crashes",
+  "steps_to_repro": "- Have Overaly enabled and ON for any game - Launch that game - If you haven't crashed by now, go to your User Settings - Go to Game Activity - See your game in the green bar - Turn off the Overlay from there"
+ }
+}

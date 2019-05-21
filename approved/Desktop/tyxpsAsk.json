@@ -1,0 +1,23 @@
+{
+ "id": "58f79fe72cc8c1ade1ff64f9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 502,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tyxpsAsk",
+ "data": {
+  "system_settings": " latest canary on win 10 x64",
+  "actual_result": "client turns gray",
+  "expected_result": "The 2FA user settings pop up",
+  "short_description": "Trying to resolve 2FA in servers with admin perms turns the whole client gray.",
+  "steps_to_repro": "- Don't have 2FA on- Have admin priviliges on a server which uses server wide 2FA- In the server, click 'Resolve' on the prompt to enable 2FA"
+ }
+}

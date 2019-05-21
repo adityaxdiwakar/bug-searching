@@ -1,0 +1,36 @@
+{
+ "id": "5a76370b2b8fc9f4458b282b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1095,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oSeFNm8J",
+ "data": {
+  "system_settings": "Samsung Galaxy Tab S2, Android 6.0.1",
+  "client_settings": "6.1.7 (617)",
+  "actual_result": "The user sounds as 100%, but in the UI it is registered as 10%",
+  "expected_result": "The user should sound as on Step 2",
+  "short_description": "The volume of a user is not applied correctly when re-joining a voice channel",
+  "steps_to_repro": "- Join a voice channel with another user in it - Set the user volume to 10% (Just for demostration purposes) - Leave the voice channel - Join again the voice channel"
+ }
+}

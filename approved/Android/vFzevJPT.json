@@ -1,0 +1,30 @@
+{
+ "id": "5ad1e36c6c5d56d6897dc822",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1275,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vFzevJPT",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.9",
+  "actual_result": "Nothing happens",
+  "expected_result": "It should open the invite in the Discord Android app (or redirect to Play Store if not installed)",
+  "short_description": "Discord Android client won't open if you tap Join button in a server invite opened with Firefox mobile",
+  "steps_to_repro": "- Open Firefox mobile - Find a server invite on the web - Tap Join button"
+ }
+}

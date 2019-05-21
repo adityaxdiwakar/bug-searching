@@ -1,0 +1,30 @@
+{
+ "id": "5c26e24101736e75623c6280",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3554,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5gbi1SAU",
+ "data": {
+  "system_settings": "Fedora 28 with Google Chrome version 66.0.3359.117",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 30302, Version Hash: db622561b65eae5128bc8eab9db7679a4527c3fb",
+  "actual_result": "The delete button is visible to the user and it does not function properly",
+  "expected_result": "The delete button in the user settings panel should not be shown to the user with an unclaimed account",
+  "short_description": "Users of unclaimed accounts are presented with a button to delete their account that does nothing",
+  "steps_to_repro": "- Access a server invite link in a browser window that is not logged into Discord - Create an account with a username and continue - Skip the popup menu that prompts for an email and password by clicking outside of it - Go to user settings and press the delete account button and confirm the action"
+ }
+}

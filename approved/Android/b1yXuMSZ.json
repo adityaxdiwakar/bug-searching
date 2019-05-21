@@ -1,0 +1,30 @@
+{
+ "id": "5ae615762fde406fd68e6c17",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1342,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/b1yXuMSZ",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.5.9",
+  "actual_result": "You can't scroll smoothly",
+  "expected_result": "You should be able to navigate smoothly",
+  "short_description": "Can't scroll smoothly while viewing notes on user's profile if the note is long",
+  "steps_to_repro": "- Go to any user's profile - Type a really long note  - Try to scroll sideways to navigate the words"
+ }
+}

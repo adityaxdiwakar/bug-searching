@@ -1,0 +1,17 @@
+{
+ "id": "5994ad734071b3455a9e5b9c",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1005,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hRssfWJs",
+ "data": {
+  "system_settings": "Windows 7 Service Pack 1",
+  "client_settings": "0.0.298",
+  "actual_result": "It tears and freezes on the first 2-4 frames of feedback received till it tears it looks fine for a very short amount of time.",
+  "expected_result": "I am supposed to not have a torn feedback of my webcam.",
+  "short_description": "The \"Test Video\" tears then freezes on the bottom of the demo like the bottom 25% of the screen was cut.",
+  "steps_to_repro": ""
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59aad18d9883a8f6cc4b4491",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1077,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/t2yixvzD",
+ "data": {
+  "system_settings": "Windows 10 Home x64 v1703",
+  "client_settings": "Discord Canary 0.0.163 (Build 3838)",
+  "actual_result": "you see the channel invite leads to, can view the memberlist but don't see any messages",
+  "expected_result": "The \"you find yourself in a strange place, you don't have access to any text channels or there are none on this server",
+  "short_description": "Without reading permissions the \"you find yourself in a strange place\" screen doesn't show",
+  "steps_to_repro": "- take reading permissions from everyone via server config (alternatively set it manually on every channel) - have someone without roles verify the screen they see"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59da1b7fd0cbe5ba722986d1",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 799,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xW7x6f0J",
+ "data": {
+  "system_settings": "Samsung GS6 , Android 7.0",
+  "client_settings": "Android Alpha 5.3.2 (532)",
+  "actual_result": "Nothing Happens , You only get switched back to discord.",
+  "expected_result": "Discord Should preview the selected image above the text bar .",
+  "short_description": "Cant Share Images Through An External App.",
+  "steps_to_repro": "- Launch Discord (Discord Should be running before proceeding to the next step) - Launch The Gallery/Application You want to Share the Image With - Use the Share Button to Select And Share the image to Discord"
+ }
+}

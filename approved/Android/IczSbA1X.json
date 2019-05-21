@@ -1,0 +1,23 @@
+{
+ "id": "587fed0ea9f8335a5ff07333",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 182,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IczSbA1X",
+ "data": {
+  "system_settings": " Android 5.0.2 Latest beta",
+  "actual_result": "It's greyed out until you tap it again",
+  "expected_result": "the button isn't greyed out in the first place",
+  "short_description": "Alert frequency weirdly greyed out in channel settings when on @mentions only",
+  "steps_to_repro": "- Go into a channel you haven't tried this yet - Get into its settings by pressing the channel name on top - see how the Only @mentions radio button is greyed out - Press the greyed out button "
+ }
+}

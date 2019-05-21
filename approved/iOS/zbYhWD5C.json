@@ -1,0 +1,30 @@
+{
+ "id": "5b6924e239907d55defff787",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 874,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zbYhWD5C",
+ "data": {
+  "system_settings": "iPhone 6, iOS 10.2.1",
+  "client_settings": "Testflight 2.3.6(6427)",
+  "actual_result": "Sometimes it will flash the one you selected, flash the one you had previously selected and go back to the correct one",
+  "expected_result": "It will change it accordingly to what you picked smoothly",
+  "short_description": "Privacy and Safety has a bulky and brute animation",
+  "steps_to_repro": "- Open Privacy & Safety - Click on any of the first 3 options and keep on clicking them and changing them  - Make sure to not spam only 2 and rather change it between them"
+ }
+}

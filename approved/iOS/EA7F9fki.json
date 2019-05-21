@@ -1,0 +1,30 @@
+{
+ "id": "5ac9755cd7089b1c792dbfe8",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 665,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EA7F9fki",
+ "data": {
+  "system_settings": "iOS 11.2.6, iPhone 6S",
+  "client_settings": "Stable, 2.2.9",
+  "actual_result": "Highlights random messages while scrolling down and/or up",
+  "expected_result": "The message to be found is the only one to be highlighted",
+  "short_description": "Message search highlights random messages.",
+  "steps_to_repro": "- Hit search - Search something that will pull up a decent amount of results. - Tap onto one of them to go on that message.- Quickly scroll up."
+ }
+}

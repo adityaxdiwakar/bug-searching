@@ -1,0 +1,30 @@
+{
+ "id": "5b31b922b2e48a782496ce6b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2202,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6Igbsow8",
+ "data": {
+  "system_settings": "Windows 8.1 x64 (version 6.3.9600, build 9600)",
+  "client_settings": "Release Channel: ptb, Build Number: 17618, Version Hash: d279ff17194f8412b207e6656d100fbb9e095f46",
+  "actual_result": "our current active window will become inactive and you will lose control on it until you click on other screen area",
+  "expected_result": "It should click on the mouse position of your current active window",
+  "short_description": "Clicking on the desktop notifications area is making your current window inactive and intercept your control on it.",
+  "steps_to_repro": "- Turn on desktop notifications - Choose a server to get new message notifications from it - Switch your active server tab or minimize Discord and do any other stuff like surfing the internet from your browser - When you will recieve notifications from Discord, click on the right screen area where they are popping up (not on them)"
+ }
+}

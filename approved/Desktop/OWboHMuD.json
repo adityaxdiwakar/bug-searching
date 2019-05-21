@@ -1,0 +1,23 @@
+{
+ "id": "591122e20f6f1582ded461b9",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 616,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OWboHMuD",
+ "data": {
+  "system_settings": " macOS Sierra running Discord 0.0.145",
+  "actual_result": "Show you a new DM profile picture on the server list.",
+  "expected_result": "Not show you the new DM profile picure on the server list.",
+  "short_description": "When you're on a DM (one-on-one) and you change to another application, when you come back to Discord, it shows that there it an unread DM on your server list even when you're already on that DM.",
+  "steps_to_repro": "- Open a one-on-one DM with someone - Change screens to another application - Get the other DM user to send you a message - Switch back to Discord "
+ }
+}

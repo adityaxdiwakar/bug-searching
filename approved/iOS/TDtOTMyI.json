@@ -1,0 +1,17 @@
+{
+ "id": "5b9f2ac3a8a45f7c38c5cffc",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1020,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/TDtOTMyI",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Golden Master",
+  "client_settings": "TestFlight 2.3.8 (7233)",
+  "actual_result": "Clyde icon is not scaled correctly and overlaps into the channel",
+  "expected_result": "Clyde icon is scaled correctly and doesn't overlap into the channel",
+  "short_description": "When an image/gif preview is small enough, and doesn't load, the Clyde icon overlaps into the channel",
+  "steps_to_repro": "- Send an image/gif link that is large in a channel (I have a gif that worked for me, which I'll attach) - Observe the bottom of the Clyde icon in the unloaded preview"
+ }
+}

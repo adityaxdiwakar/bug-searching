@@ -1,0 +1,17 @@
+{
+ "id": "5a6eaed40caac02d947c6850",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1601,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/07S3Yq9n",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, 0.0.201, any iPhone",
+  "actual_result": "everyone in the LFG will be able to turn on video feed",
+  "expected_result": "No Video Feeds in LFG",
+  "short_description": "Starting Video Call in LFG",
+  "steps_to_repro": "- join an LFG chat - have someone spam the chat - click the group message that shows up on your IOS device (only iPhones get this notification and it will disappear within a couple seconds, see attached picture for what this will look like) - once clicked, you will be able to see the LFG group chat on your phone - click the \"join call\" button - click the video calling button - once your video feed is on, others will be able to turn it on aswell using the following steps: - open the LFG chat on desktop while someone else has the video call active - click on another chat and you should be able to see the small version of the video feed in the corner of your screen (see attached image) - hover over the video feed and you should be able to see the screen share and turn on video feed options"
+ }
+}

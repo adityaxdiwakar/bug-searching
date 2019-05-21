@@ -1,0 +1,17 @@
+{
+ "id": "5ac60fe5c1e046281514f34e",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 663,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wYKrpPLD",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 10.2.1",
+  "client_settings": "Discord stable 2.2.9",
+  "actual_result": "Share to channel is defaulted to the read-only channel and only changes if another valid channel is manually selected. Pressing Post will produce \"Unable to share. A network error has occurred or you are not currently logged in. Launch Discord, check your network settings, and try again.\" error.",
+  "expected_result": "You must select a valid share to channel, else the image cannot be posted.",
+  "short_description": "Sharing image via Discord in a read-only channel produces \"A network error has occurred\".",
+  "steps_to_repro": "- Open an image sent in a read-only channel. - Click on the top right hand corner to open the share dialogue. - Select Discord."
+ }
+}

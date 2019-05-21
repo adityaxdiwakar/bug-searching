@@ -1,0 +1,30 @@
+{
+ "id": "5bcec7c7efbcdd2b28a7a111",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2227,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AnsRJltz",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 779",
+  "actual_result": "2 logs are made for the same invite",
+  "expected_result": "Only one invite log is created since it's the same invite",
+  "short_description": "The same log is created when make the same singular invite",
+  "steps_to_repro": "- Create an invite for a Channel - close out of the Invite screen - Create an invite for the same channel not making any changes - close out - open audit logs"
+ }
+}

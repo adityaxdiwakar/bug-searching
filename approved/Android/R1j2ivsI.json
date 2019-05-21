@@ -1,0 +1,30 @@
+{
+ "id": "5bfb0d838b3fc38cb937d400",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2354,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/R1j2ivsI",
+ "data": {
+  "system_settings": "Android 8.1.0 Samsung Galaxy J7 Prime",
+  "client_settings": "Android Alpha 8.0.0",
+  "actual_result": "It selected the same option previously selected.",
+  "expected_result": "It actually chooses for you depending on your system.",
+  "short_description": "Android Low-Latency Acceleration Auto-Choose not working.",
+  "steps_to_repro": "- Go to 'Settings' - Under 'Audio' scroll down to the Low Latency Acceleration section - Click one of the options. - Click 'Choose for me' - Repeat steps 3-4 using other option."
+ }
+}

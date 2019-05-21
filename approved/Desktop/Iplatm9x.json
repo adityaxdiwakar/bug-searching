@@ -1,0 +1,30 @@
+{
+ "id": "5c07feb4a3193680a655561c",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3466,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Iplatm9x",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 28942",
+  "actual_result": "Tooltip doesn't disappear when mousing off, and is hard to get rid of",
+  "expected_result": "Tooltip disappears when you mouse off the button",
+  "short_description": "Spotify invite tooltip for the join button gets stuck open hovering",
+  "steps_to_repro": "- Start listening to music on Spotify - Send an invite to the listening party in a channel - Mouse over the join button - Move your mouse off of the button and observe the tooltip"
+ }
+}

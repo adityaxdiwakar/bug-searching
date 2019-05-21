@@ -1,0 +1,30 @@
+{
+ "id": "5a59c1a359a3f6fcc1567dcd",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1034,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/k1zZxdaz",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 6.0.8",
+  "actual_result": "it plays",
+  "expected_result": "it shouldn't be playing till you react to it",
+  "short_description": "Animoji Plays on reactions even though Playing animated emojis is disabled",
+  "steps_to_repro": "- have play animated emojis disabled (user settings > Text & images) - have someone thats not you react with a animoji - observe the animoji"
+ }
+}

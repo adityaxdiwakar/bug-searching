@@ -1,0 +1,30 @@
+{
+ "id": "5b7164c4f8a4fb0d29bf4251",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2694,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Y48JboTS",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Firefox Quantum 61.0.1",
+  "actual_result": "There is no outline and the text is almost invisible",
+  "expected_result": "It has an outline or the text is darker",
+  "short_description": "The newsletter subscription box is almost invisible [Website Bug]",
+  "steps_to_repro": "- Go to discordapp(dot)com/verification - Scroll to the bottom - Remove the current email if you have one inserted - Observe the newsletter subscription box"
+ }
+}

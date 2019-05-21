@@ -1,0 +1,17 @@
+{
+ "id": "5bb6f2aab3c1272a8c71d266",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2102,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Y4Dk80Zp",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Mini Android 6.0.1",
+  "client_settings": "7.6.2",
+  "actual_result": "entry shows 4 asteriks (*) instead of webhook name \"From:\"",
+  "expected_result": "it should show the name",
+  "short_description": "creating, updating and deleting a webhook shows asteriks instead of name",
+  "steps_to_repro": "- create, update or delete a webhook on desktop - observe audit log"
+ }
+}

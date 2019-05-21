@@ -1,0 +1,36 @@
+{
+ "id": "5ad6bcb7b80fcf172ce84e12",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1290,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cOODlpSP",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0",
+  "client_settings": "Discord Alpha 6.5.1",
+  "actual_result": "The bottom of the codeblock is cut off slightly",
+  "expected_result": "The border of the codeblock is correctly displayed",
+  "short_description": "The bottoms of single-line codeblocks are slightly cut off only when its a message that isn't edited",
+  "steps_to_repro": "- Go to a server - Send a single-line codeblock - Observe the bottom of it"
+ }
+}

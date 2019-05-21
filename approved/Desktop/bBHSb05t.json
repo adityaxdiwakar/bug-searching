@@ -1,0 +1,30 @@
+{
+ "id": "5b86e7eec2b643429549be9c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2828,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bBHSb05t",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6, Macbook Air, Firefox Quantum 61.0.2 (64-bit)",
+  "client_settings": "Canary 22726",
+  "actual_result": "The amount of days is lower and X is a little higher, also it's best noticable on Firefox. But also happens on the desktop app",
+  "expected_result": "The days ago is centered with the X",
+  "short_description": "The \"X\" and amount of days ago under Purchase Date aren't centered",
+  "steps_to_repro": "- Make sure you have bought Nitro before - Go to the billing tab - Open a purchase you have done - Observe the \"X\" and amount of days ago under \"Purchase Date\""
+ }
+}

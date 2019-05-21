@@ -1,0 +1,23 @@
+{
+ "id": "58a879939f012759118f6d27",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 233,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PFXs7Dw5",
+ "data": {
+  "system_settings": " Android 5.0 (MIUI 8, xiaomi.eu version 7.2.9), Discord 3.3.4",
+  "actual_result": "Emojis appear in the text box",
+  "expected_result": "No emojis appear in the text box",
+  "short_description": "Can type with emoji keyboard in unauthorised channels",
+  "steps_to_repro": "- Open Discord's emoji keyboard - Switch to a channel you can't type emoji - Have an emoji spam party "
+ }
+}

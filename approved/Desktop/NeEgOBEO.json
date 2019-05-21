@@ -1,0 +1,24 @@
+{
+ "id": "5bba9653ae4e5d17e8b61e2e",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3113,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5bd3724565f4570ad2d714ba",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "MOJAVE!",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NeEgOBEO",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS Mojave 10.14",
+  "client_settings": "Canary Build 25439",
+  "actual_result": "It only asks one time for the permissions. If you join a voice channel, you will also see the warning that Discord is not detecting any input from your mic.",
+  "expected_result": "Discord should ask a second time for the camera and microphone permissions.",
+  "short_description": "[Mojave specific] Discord doesn't ask again for camera and microphone permission",
+  "steps_to_repro": "- Make sure Discord already asked one time for your microphone or camera permission - Go to your System Settings - Open Security & Privacy - Go to Privacy - Remove the permission to access your microphone or camera - Go back to Discord and join any voice channel or start a video call - Observe it"
+ }
+}

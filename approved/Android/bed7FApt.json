@@ -1,0 +1,30 @@
+{
+ "id": "5b6e986ef382d4500ba6e593",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1818,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bed7FApt",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 729",
+  "actual_result": "It says \"Password is required\".",
+  "expected_result": "It says \"Email is required\".",
+  "short_description": "When you just enter your password in the password field and leave the email field empty in the login screen and hit login, the text in red says \"Password is required\".",
+  "steps_to_repro": "- Logout. - Clear your email. - Input your password in the password field. - Hit login."
+ }
+}

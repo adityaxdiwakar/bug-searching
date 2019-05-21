@@ -1,0 +1,30 @@
+{
+ "id": "59ee698c154d1b50cd6d2f98",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1305,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0xEVaRj9",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13, Discord Canary 0.0.156 (Build:",
+  "client_settings": "Web Canary (Build 6190), Google Chrome 62.0.3202.62",
+  "actual_result": "The long user name overflows and overlaps with the edit button.",
+  "expected_result": "The long user name should be truncated with \"...\"",
+  "short_description": "User settings: My account: long user name overflows",
+  "steps_to_repro": "- Open user settings - Go to my account - Change your username to something very long like `WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW` - Observe it"
+ }
+}

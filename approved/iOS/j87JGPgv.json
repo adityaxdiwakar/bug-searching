@@ -1,0 +1,17 @@
+{
+ "id": "5b96779ad4aa7c8b560725a9",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 994,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/j87JGPgv",
+ "data": {
+  "system_settings": "iPad 2nd Gen iOS 9.3.5",
+  "client_settings": "Stable 2.3.7",
+  "actual_result": "Section names start condensed, and then spread out, causing an extra white line to appear",
+  "expected_result": "Section names are spread out with no extra white line",
+  "short_description": "Friend's list headers are condensed, and cause an extra white line to appear after loading (iPad only, possibly 2nd generation iPad specific)",
+  "steps_to_repro": "- Go to your friends list - Completely close out of Discord - Reopen Discord - Observe the friends list sections as Discord loads"
+ }
+}

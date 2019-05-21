@@ -1,0 +1,30 @@
+{
+ "id": "5b87dba563d4ce184f0e8caa",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1903,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UPFOEUGU",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 742",
+  "actual_result": "\"n\" is in lower case only at that place.",
+  "expected_result": "Like all places, \"n\" is in upper case.",
+  "short_description": "In the nearby friends page, wherever the word \"Nearby\" is used, the first character (n) is in upper case but when you hit the find friends button, the text below it has the first character of the word nearby (n) in lower case character.",
+  "steps_to_repro": "- Open the nearby friends page. - Observe that at all places where the word \"nearby\" is used, \"n\" is in upper case. Now, hit find friends. - Observe the word nearby in the sentence (Scanning airwaves......... nearby too)."
+ }
+}

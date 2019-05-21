@@ -1,0 +1,30 @@
+{
+ "id": "5b2e61f7dd1b566010893c75",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2190,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SrYni2Jn",
+ "data": {
+  "system_settings": "Windows 10 Pro 1803 (17686)",
+  "client_settings": "Discord Canary 0.0.211, Build 17576",
+  "actual_result": "Text is cut by some invisible element",
+  "expected_result": "Discord shows text \"\u041f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u043d\u043e\u0432\u043e\u0435 \u043f\u0440\u0438\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u0435!\" completely",
+  "short_description": "Invalid invite description is cut by invisible element",
+  "steps_to_repro": "- Switch to Russian language - Post invalid invite link somewhere in chats"
+ }
+}

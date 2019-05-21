@@ -1,0 +1,17 @@
+{
+ "id": "5b511620870ff4249008a2d3",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2334,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/6gkMJFGf",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 19237",
+  "actual_result": "Misaligned and weird",
+  "expected_result": "Aligned and normal",
+  "short_description": "Name and tag weird and misaligned [100% zoom]",
+  "steps_to_repro": "- Be on latest build - Observe ur name at the bottom next to the mute and deafen button"
+ }
+}

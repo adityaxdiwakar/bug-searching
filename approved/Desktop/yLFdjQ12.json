@@ -1,0 +1,30 @@
+{
+ "id": "5becd58149b85147dfafee0a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3389,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yLFdjQ12",
+ "data": {
+  "system_settings": "Windows 10 familly, version 10.0.17134 number 17134",
+  "client_settings": "stable, Build Number: 27913",
+  "actual_result": "get stuck to the right",
+  "expected_result": "Should be able to see 'enable' 'disable' and shouldn't get stuck to the right",
+  "short_description": "Long server name make server notification settings move to right",
+  "steps_to_repro": "- Put long server name - Go to server notification settings - click server name - observe"
+ }
+}

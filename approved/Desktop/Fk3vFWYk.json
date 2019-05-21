@@ -1,0 +1,30 @@
+{
+ "id": "59605e735c2204e95b8890c0",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 822,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "5771673884e677fd364b7226",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Need more Information",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Fk3vFWYk",
+ "data": {
+  "system_settings": "windows 10 x64 creators update",
+  "client_settings": "discord canary 0.0.157",
+  "actual_result": "its not at the bottom and looks weird",
+  "expected_result": "its at the bottom",
+  "short_description": "When using shift enter after the text box get maximum size, the box is not scroll to the bottom",
+  "steps_to_repro": "- Type lots of lines - press shift enter - look at the scroll bar to the left and scroll down"
+ }
+}

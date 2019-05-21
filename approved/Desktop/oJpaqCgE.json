@@ -1,0 +1,30 @@
+{
+ "id": "5b5eae94771c8a9da287d354",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2500,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oJpaqCgE",
+ "data": {
+  "system_settings": "Windows 10 Home x64 (1803)",
+  "client_settings": "Discord Canary 20174",
+  "actual_result": "The bottom of the `g` disappears",
+  "expected_result": "The full letter would show",
+  "short_description": "Lowercase `g` begins to disappear on the role list",
+  "steps_to_repro": "- Set your Appearance settings to Chat Font 100, Zoom 90 - Click on a user's profile with a `g` in one of their roles - Bottom of it disappearing"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a2a269c6937a82822dae75c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1432,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mWAsNF6T",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Canary Build 8227",
+  "actual_result": "Streamer Mode doesn't happen at all",
+  "expected_result": "Streamer Mod should go on",
+  "short_description": "Streamer Mode doesn't automatically turn on",
+  "steps_to_repro": "- Have OBS installed on your computer - Make sure \"Automatically Enable/disable\" streamer mode is enabled in your User Settings - Launch OBS"
+ }
+}

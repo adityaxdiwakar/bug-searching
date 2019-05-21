@@ -1,0 +1,30 @@
+{
+ "id": "5bb8bbcbca1655046498e7bd",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2115,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cTvcdJpH",
+ "data": {
+  "system_settings": "Coolpad Mega 3, 6.0",
+  "client_settings": "Discord Alpha 762",
+  "actual_result": "the username gets truncated at the point where the old username ended. For example, you had a username with 3 characters and you changed it to have 8 characters. Then, only two characters are shown and the rest of the username gets truncated.",
+  "expected_result": "the username gets truncated where it has to i.e before the settings gear.",
+  "short_description": "When you change your username to a longer one, the name in the bottom of the channel drawer occupies as much space as the smaller one did before getting truncated.",
+  "steps_to_repro": "- Set your username to a longer one (make sure that the initial username was small enough not to get truncated and left a bit of space too). - Open channel drawer. - Observe the username at the bottom of the channel drawer."
+ }
+}

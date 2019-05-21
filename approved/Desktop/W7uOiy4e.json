@@ -1,0 +1,16 @@
+{
+ "id": "58e82f6b11a4e926f0fe281a",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 485,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/W7uOiy4e",
+ "data": {
+  "system_settings": " OSX 10.12.3 / Newest discord canary",
+  "actual_result": "Strange bright box appearing at bottom of messages list",
+  "expected_result": "Background should be plain",
+  "short_description": "Background issue when hovering message",
+  "steps_to_repro": "- Hover on message - Watch bottom of main area of the screen  "
+ }
+}

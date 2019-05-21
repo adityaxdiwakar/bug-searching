@@ -1,0 +1,30 @@
+{
+ "id": "5aca40836b6236550b33828c",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1254,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UphebOlL",
+ "data": {
+  "system_settings": "Motorola Moto G5, Android 7.0",
+  "client_settings": "Discord Alpha 6.4.6",
+  "actual_result": "The bar fades away and then reappears without the user touching anything",
+  "expected_result": "Bar should show for a brief second and then simply fade and disappear until user begins to scroll.",
+  "short_description": "(Small visual bug) The white scroll bar in the Members list constantly fades away and re-appears even when the user is not touching it whatsoever. This only appears to happen in larger servers, rather than small ones",
+  "steps_to_repro": "- Find a large server (This one will work fine) - Swipe the right side of the screen to open the members - Do not touch the screen - Wait for a small while as timings seems to differ and observe the white scroll bar fade and reappear without doing anything at all"
+ }
+}

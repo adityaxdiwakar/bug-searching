@@ -1,0 +1,17 @@
+{
+ "id": "5b98baeba85b12366f96aeeb",
+ "closed": true,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 998,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NouCuGlB",
+ "data": {
+  "system_settings": "iPad 2nd Gen iOS 9.3.5",
+  "client_settings": "Stable 2.3.7",
+  "actual_result": "Discord is extremely unresponsive, and has severe delay when trying to do anything except for scrolling",
+  "expected_result": "Discord is responsive and allows you to switch servers and open profiles",
+  "short_description": "Discord is extremely unresponsive on iPads with iOS 9",
+  "steps_to_repro": "- Open Discord - Try to do anything that involves tapping, such as opening user profiles, switching servers, opening the channel/server list"
+ }
+}

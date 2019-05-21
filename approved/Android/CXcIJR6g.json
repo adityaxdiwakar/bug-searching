@@ -1,0 +1,30 @@
+{
+ "id": "5b9810efd49f988f244ec60c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1974,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CXcIJR6g",
+ "data": {
+  "system_settings": "PC : Windows 10 x64 / Android : Huawei Honor 10 View (BKL-L09) Android 8.0.0",
+  "client_settings": "PC : Stable, Build Number: 23017 / Android : Android Alpha 7.4.8 (748)",
+  "actual_result": "You can override the 100 characters limit and make it to 150 or 200",
+  "expected_result": "You shouldn't be allowed to add another characters on Android",
+  "short_description": "With PC + Android you can make a 200 characters server's name when the limit is at 100 /Android not counting PC's emojis",
+  "steps_to_repro": "- Modify a server name on PC and put 100 emojis on his name like \ud83c\udf84 for exemple (make it to the 100 characters limit)- Save his name - On Android modify server's name by adding 100 emojis or 50 letters- Save his name"
+ }
+}

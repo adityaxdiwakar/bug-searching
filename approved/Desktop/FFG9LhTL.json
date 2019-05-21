@@ -1,0 +1,17 @@
+{
+ "id": "591a14ef21ea99abb21b5a9b",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 655,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FFG9LhTL",
+ "data": {
+  "system_settings": "undefined",
+  "client_settings": "canary",
+  "actual_result": "the emoji picker shows up above the dark background of the QS",
+  "expected_result": "the emoji picker hides or gets hidden by the dark overlay of the quickswitcher",
+  "short_description": "emoji picker visable after opening Quick switcher",
+  "steps_to_repro": "- hit ctrl+k to open the quick switcher"
+ }
+}

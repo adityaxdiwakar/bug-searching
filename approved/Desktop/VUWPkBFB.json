@@ -1,0 +1,17 @@
+{
+ "id": "5b4d3abd27648f9d1244143e",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2280,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VUWPkBFB",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 18911",
+  "actual_result": "Add Reaction button is present when permission is denied",
+  "expected_result": "Add Reaction button is not present when permission is denied",
+  "short_description": "Option to add reactions is present even when the reactions permission is denied",
+  "steps_to_repro": "- Be in a channel where your add reactions permission is denied - Scroll over a message in the channel and observe the add reaction button is present - Try to add a reaction"
+ }
+}

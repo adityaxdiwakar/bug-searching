@@ -1,0 +1,30 @@
+{
+ "id": "5b5a6f3398e5e334fc7c9ecf",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2448,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zmagn6Nl",
+ "data": {
+  "system_settings": "Mac OS High Sierra 10.13.1",
+  "client_settings": "Discord Canary, Build Number: 19429",
+  "actual_result": "The notifications stick although they were read by going into the chat. Again, clicking or pressing on the notification itself will bring you into said chat and delete the notification (as expected), but going into Discord and reading chats that pushed notifications to you do not dismiss themselves despite being read.",
+  "expected_result": "The notification should be cleared from the Notification Center",
+  "short_description": "Getting a notification (it does help if you are getting multiple notifications from the same location; someone typing repeated short messages and sending them) and going into Discord manually (so in any way aside from clicking or pressing on the notification itself) doesn\u2019t to clear the notifications from the Notification Center.",
+  "steps_to_repro": "- Join a server and allow desktop notifications - Receive a message from the server - Go to the server and clear the \u201cNew Message\u201d notification"
+ }
+}

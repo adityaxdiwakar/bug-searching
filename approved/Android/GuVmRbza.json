@@ -1,0 +1,30 @@
+{
+ "id": "5bd4b2b8b2b8f03f0ea8d917",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2249,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GuVmRbza",
+ "data": {
+  "system_settings": "Android 7.0",
+  "client_settings": "7.7.9",
+  "actual_result": "The ringtone restarts from the beginning",
+  "expected_result": "The ringtone just keeps playing",
+  "short_description": "The discord ringtone restarts from 0 when changing the device's orientation",
+  "steps_to_repro": "- Have a friend call you - When the screen to pick up or hang up appears, turn the device (portrait to landscape or the other way around)"
+ }
+}

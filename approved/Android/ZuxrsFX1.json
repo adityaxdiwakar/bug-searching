@@ -1,0 +1,17 @@
+{
+ "id": "5ad6ce7b0014d84f7a11fe24",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1291,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZuxrsFX1",
+ "data": {
+  "system_settings": "android 6.0.1",
+  "client_settings": "Discord Alpha, 6.5.1",
+  "actual_result": "but its kinda over right leaving blank space aside.",
+  "expected_result": "The attached image must be connected to left side.",
+  "short_description": "The attached image to a message is kinda moved to the right",
+  "steps_to_repro": "Attach a small image to a message and check it2. Check a small embedded image 3. Attach a file or an video to a message"
+ }
+}

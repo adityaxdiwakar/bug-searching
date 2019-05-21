@@ -1,0 +1,30 @@
+{
+ "id": "5b7fe8b6df1b7503524370f8",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1874,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cZOgQYyf",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 740",
+  "actual_result": "It is extremely hard to read.",
+  "expected_result": "It can be read easily.",
+  "short_description": "The text in the channel selection drop-down menu is extremely hard to read in light theme.",
+  "steps_to_repro": "- Switch to light theme. - Click on \"Create instant invite\" button below the server name of a server you have permission to create invite. - Click on the settings gear beside the invite. - Open the channel selection drop-down menu."
+ }
+}

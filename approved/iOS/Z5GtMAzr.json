@@ -1,0 +1,17 @@
+{
+ "id": "5bfff75376db4f35d19adffd",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1186,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Z5GtMAzr",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9370)",
+  "actual_result": "There is no extra space at the top of the list",
+  "expected_result": "There is extra space at the top of the list",
+  "short_description": "New invite members menu does not have extra padding at the top of the list of users",
+  "steps_to_repro": "- Create an invite to a server to open the new invite modal - Observe the top of the list of users"
+ }
+}

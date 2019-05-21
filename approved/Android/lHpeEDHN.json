@@ -1,0 +1,17 @@
+{
+ "id": "5adcc25c951ee4fd582bcd71",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1311,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/lHpeEDHN",
+ "data": {
+  "system_settings": "Galaxy s7 Android 7.0",
+  "client_settings": "Discord beta 6.5.6",
+  "actual_result": "Discord sits for a second then crashes. When reopened, your theme is switched.",
+  "expected_result": "Theme smoothly changes from dark to light/light to dark",
+  "short_description": "Discord crashes after switching themes too fast",
+  "steps_to_repro": "- Enter your settings - change your theme from dark to light or light to dark (depending on whatever you had it on first) - quickly exit settings and return to whatever server chat you were previously on"
+ }
+}

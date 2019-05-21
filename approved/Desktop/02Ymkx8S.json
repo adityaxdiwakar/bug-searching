@@ -1,0 +1,30 @@
+{
+ "id": "5a6cdd49cf99dd1e31fd65fd",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1597,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/02Ymkx8S",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.3",
+  "client_settings": "Discord Canary 0.0.185 (Build: 10015)",
+  "actual_result": "Field name has always the same \"style\".",
+  "expected_result": "Some Markdown should be shown for the field name of the embed like for the iOS version (there you can see the Markdown)",
+  "short_description": "Markdown formatting for field name for rich embeds not shown",
+  "steps_to_repro": "- Create/get a rich embed - Add a field for it - Use markdown (for example bold `**` or italics `*`) for the field name - Observe the outcome in Discord"
+ }
+}

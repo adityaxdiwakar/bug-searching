@@ -1,0 +1,30 @@
+{
+ "id": "5bddfcf1061588157e03a678",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2284,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wNIFTbcY",
+ "data": {
+  "system_settings": "Xioami Redmi 4X, Android 7.1.2",
+  "client_settings": "Discord Alpha 786",
+  "actual_result": "the running line starts moving from the beginning",
+  "expected_result": "the running line should continue to move",
+  "short_description": "Spotify invitation updates after keyboard opens/closes",
+  "steps_to_repro": "- Ask someone to send \"Spotify Invite\" - Look carefully at this invitation embed - Open your keyboard - Observe Invite - Close keyboard - Observe Invite - Watch the video so you can understand it better"
+ }
+}

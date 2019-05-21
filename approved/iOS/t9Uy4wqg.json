@@ -1,0 +1,24 @@
+{
+ "id": "5bd4737383889b6b2a76e254",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1125,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/t9Uy4wqg",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.0.1",
+  "client_settings": "Discord TestFlight 2.4.0 (8667)",
+  "actual_result": "All logs stay in same position. There is a blank space replacing the collapsed area. Trying to scroll will cause the screen to suddenly jump back to normal position.",
+  "expected_result": "All logs move downwards.",
+  "short_description": "Audit logs don't move back up when collapsing an expandable audit log entry at bottom of scroll.",
+  "steps_to_repro": "- Go to audit log. - Scroll to bottom of logs. - See if the bottom entry is expandable. - If yes, expand it. - Scroll down again to reach the new bottom. - Collapse it."
+ }
+}

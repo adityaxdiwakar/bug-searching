@@ -1,0 +1,24 @@
+{
+ "id": "59b70eac91e47ae7d3b97e7e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 705,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Tongvks7",
+ "data": {
+  "system_settings": "Android 5.0.2, BLU Life One 4G",
+  "client_settings": "Discord Alpha 5.1.4 (514)",
+  "actual_result": "The link it's gone",
+  "expected_result": "You still have the link/or have it copied ready to share",
+  "short_description": "Creating a Intant Invite in a channel with only \"Read Permission\"  makes the invite link get lost",
+  "steps_to_repro": "- Go to a channel with \"Read Only\" permission like mostly \"Rules\" channels are - While being in that channel open the drawer and tap the \"Create Intant Invite\" - Tap the link or the share link button"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5aec78fae7b9a933b5d5d717",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1368,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9gv8DObA",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 Nougat",
+  "client_settings": "Discord Alpha 6.6.1 (661)",
+  "actual_result": "It is slightly cut off, you can compare it to when you expand on the image",
+  "expected_result": "It is not cut off",
+  "short_description": "Big enough images is slightly cut off on the right",
+  "steps_to_repro": "- Send/Find an image, big enough to cover your screen from left to right - Look closely at the most right side of the picture"
+ }
+}

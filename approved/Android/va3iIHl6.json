@@ -1,0 +1,23 @@
+{
+ "id": "588780584fbb121c0d942a06",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 186,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/va3iIHl6",
+ "data": {
+  "system_settings": " Android 7.1 - Latest Discord Alpha",
+  "actual_result": "User list pops up and closes the keyboard",
+  "expected_result": "User list shouldn't pop up",
+  "short_description": "User list popping up when trying to press the send button",
+  "steps_to_repro": "- Open the keyboard - Type anything - Slide from the send button to the left "
+ }
+}

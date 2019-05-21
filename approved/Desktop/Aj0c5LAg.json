@@ -1,0 +1,23 @@
+{
+ "id": "58c1b2a1a548511a87751bb6",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 407,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Aj0c5LAg",
+ "data": {
+  "system_settings": " Windows 10 AU x64, Discord Canary 0.0.153",
+  "actual_result": "\u2191 Arrow bouncing",
+  "expected_result": "NEW \u2191 only changes background color",
+  "short_description": "Bouncing arrow on new messages",
+  "steps_to_repro": "- Have new DMs - Hover over NEW \u2191 button "
+ }
+}

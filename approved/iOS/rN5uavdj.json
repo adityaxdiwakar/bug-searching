@@ -1,0 +1,24 @@
+{
+ "id": "5b9511083412c06dffbe9e29",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 990,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rN5uavdj",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12 (dev beta 12)",
+  "client_settings": "TestFlight 2.3.8 (7106)",
+  "actual_result": "The emote picker button disappears as of there\u2019s none",
+  "expected_result": "You should be able to use the emote picker button while editing a message",
+  "short_description": "Emote picker button doesn\u2019t shows when you want to edit a message compared to desktop & android",
+  "steps_to_repro": "- Have the app open in a text channel - Send a message - Edit the message - Observe the emote picker button not appearing"
+ }
+}

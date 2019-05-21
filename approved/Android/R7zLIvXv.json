@@ -1,0 +1,30 @@
+{
+ "id": "5b28b87a05ea16b8739fad63",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1562,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/R7zLIvXv",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "Filters reset.",
+  "expected_result": "You should still be able to view channel accordingly to the selected filter, i.e. filters should remain applied.",
+  "short_description": "Channel filters reset when auto-rotating the screen in server settings>channels.",
+  "steps_to_repro": "- Go to server settings>channels. - On top right, click on the filter button and in the \"select sort mode\" select anything (i.e. Category, Voice Channel, or Text channel). - Notice that channel list adjust accordingly after applying any of those filters. - Auto-rotate your screen."
+ }
+}

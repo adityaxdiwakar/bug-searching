@@ -1,0 +1,16 @@
+{
+ "id": "58cd2c22827be156c7ad9fbc",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 438,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/jubvWZF0",
+ "data": {
+  "system_settings": " Linux Chrome Web App",
+  "actual_result": "The message turns red and you do not get an error message. This is probably because Discord will interpret your #my-channel mention as <#my-channel-id> making it way longer, longer than 2000 chars. Because of that it won't send.",
+  "expected_result": "The message appears or you get an error message that it did not work",
+  "short_description": "Messages glitch out in the client when using mentions",
+  "steps_to_repro": "- Make a message that has almost or exactly 2000 characters (Character Limit) and include a mention of a channel or user in it. Example: \"BlaBla [...] Bla#my-channel\" - Send it to any discord channel (Make sure the channel/user exists) - Enjoy the redness "
+ }
+}

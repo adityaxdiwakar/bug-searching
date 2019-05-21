@@ -1,0 +1,30 @@
+{
+ "id": "5c37d9ae60bc638a10ecb0b2",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3622,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kuLKE27S",
+ "data": {
+  "system_settings": "Windows 7 Pro 64bits (build 7601)",
+  "client_settings": "Desktop Canary 29155",
+  "actual_result": "They change your cursor style and allow to move with the arrow keys, but not the mouse",
+  "expected_result": "They respect their standard behavior, by allowing you the move and resizing the window",
+  "short_description": "The \"move\" and \"size\" buttons from the right click context of the title bar do not work",
+  "steps_to_repro": "- Have Discord not in fullscreen - Right click on the title bar - Click the \"move\" and \"size\" buttons"
+ }
+}

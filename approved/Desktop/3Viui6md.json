@@ -1,0 +1,30 @@
+{
+ "id": "5a2ab48336142ba496e59fbe",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1434,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3Viui6md",
+ "data": {
+  "system_settings": "Windows 10 Home version 1607 x64",
+  "client_settings": "Discord Canary, 0.0.181",
+  "actual_result": "The right side of the progress bar goes to the edge of the window",
+  "expected_result": "The right side of the update progress bar would cap off",
+  "short_description": "Progress bar for update does not cap after update failure",
+  "steps_to_repro": "- Be on or run an outdated client - While it attempts an update, trigger a connection error (unplug ethernet) - Re-allow connection - Watch the progress bar"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58e6dd21657ed56ef069ea83",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 480,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MGkL4Rz4",
+ "data": {
+  "system_settings": " Win 10 x64 Latest Canary",
+  "actual_result": "The list stays where the user used to be",
+  "expected_result": "The list jumps with the message",
+  "short_description": "When sending a DM to a user from a server, the DM list doesn't jump with the message",
+  "steps_to_repro": "- Have a user a decent way down in your DM history - Go to a server you share - DM the user from that server "
+ }
+}

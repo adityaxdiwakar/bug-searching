@@ -1,0 +1,24 @@
+{
+ "id": "5c2d53300e27196955369827",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1245,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xJ8L7yLa",
+ "data": {
+  "system_settings": "iPad 6 // iOS 12.1.1 (Stable, noDev)",
+  "client_settings": "Discord Testflight // Version 2.4.1 // Build 10225",
+  "actual_result": "The first time you press the **X** button, the button actually enables the check mark, rather than opening the modal. And pressing the X button one more time, opens the modal as intended.",
+  "expected_result": "The first time you press the **X** button that would disallow the feature for you, the modal saying *Pretty sure you don't want to do this* should come up and alert you.",
+  "short_description": "Creating a role or member specific permission for a channel that removes your permission to do something in it (i.e creating instant invites) has unintended behavior when pressing the X-button",
+  "steps_to_repro": "- Go to a channel that you have permission to see and do things in (i.e Create Instant Invites but also permissions to manage the channel) - In **Channel Settings** for that channel, press **Permissions**  - Press **Add member** and find your name, press it - Remove a permission node that should result in disallowing the permission node to you as well. - Press the **X** on the permission node one more time."
+ }
+}

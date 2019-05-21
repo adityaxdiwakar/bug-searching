@@ -1,0 +1,30 @@
+{
+ "id": "5acbedb9cf98bdd238b13875",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1816,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1JOWo4Sy",
+ "data": {
+  "system_settings": "iMac 9,1 OSX 10.11.6",
+  "client_settings": "Discord Canary Build 13228 (a6423b5c52a41c71781e77204cb85e06e619c1b0v)",
+  "actual_result": "Discord loses focus and the title bar buttons grey out",
+  "expected_result": "Discord window should stay in focus",
+  "short_description": "Clicking embedded Youtube videos loses window focus (could be a mac issue)",
+  "steps_to_repro": "- Paste any youtube video link into a text channel - Press play - Click anywhere in the video box - Observe title bar buttons"
+ }
+}

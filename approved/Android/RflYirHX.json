@@ -1,0 +1,24 @@
+{
+ "id": "592d849807b14e8f1b06715c",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 491,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RflYirHX",
+ "data": {
+  "system_settings": "Android 6.0.1 - Samsung S5 Mini",
+  "client_settings": "Discord BETA 3.9.0",
+  "actual_result": "Error message appears which generalises the user knows which field needs to be entered",
+  "expected_result": "User should be told which field is required.",
+  "short_description": "Forgot Password Process Not Clear On Android",
+  "steps_to_repro": "- Open Discord Android - Do no fill in any field and tap forgot password - This field is required pop up"
+ }
+}

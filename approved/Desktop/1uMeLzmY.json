@@ -1,0 +1,30 @@
+{
+ "id": "5ba92d83245c4e14e337178c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3025,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1uMeLzmY",
+ "data": {
+  "system_settings": "macOS High Sierra Version 10.13.6",
+  "client_settings": "Release Channel: stable, Build Number: 24302, Version Hash: a73365b032a8dd92d137444dc8e27cfa22e94570",
+  "actual_result": "The italicized description/title in the richembed is cut off on the right side.",
+  "expected_result": "The message is supposed to be fully shown without anything clipping or cut off on the side.",
+  "short_description": "In bot sent embeds, italicized titles and descriptions get cut off at the very end.",
+  "steps_to_repro": "- Make a Discord RichEmbed in a bot - Set the title/description - Italicize the title/description by adding \"*\" around the phrase - Make the bot send the RichEmbed"
+ }
+}

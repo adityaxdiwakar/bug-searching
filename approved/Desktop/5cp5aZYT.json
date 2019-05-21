@@ -1,0 +1,17 @@
+{
+ "id": "5c1d5a6f91b8e57ffcd94492",
+ "closed": false,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 3530,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5cp5aZYT",
+ "data": {
+  "system_settings": "macOS 10.14.3",
+  "client_settings": "Canary 30235",
+  "actual_result": "The spelling of the word doesn't change.",
+  "expected_result": "The spelling of the word is supposed to change.",
+  "short_description": "Spellcheck doesn't correct word in My Account menu.",
+  "steps_to_repro": "- Go to settings \u2013\u2013> My Account. - Go to your username. - Clear your username and start to type a new username. - Purposely spell a word incorrectly so you see the red line underneath. - Right-click it so you see the menu with the correct spelling of the word. - Select the word with the correct spelling and observe that it doesn't change the spelling of the word. Observe the video."
+ }
+}

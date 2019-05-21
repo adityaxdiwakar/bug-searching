@@ -1,0 +1,24 @@
+{
+ "id": "5b62834147f936e4863b2639",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2587,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AHoan4WH",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 (1709)",
+  "client_settings": "Canary Build 20540",
+  "actual_result": "Discord Crashes (Started on this overlay update, stable works)",
+  "expected_result": "Devices Change flawlessly",
+  "short_description": "Canary crashes when changing audio devices",
+  "steps_to_repro": "- Go to Voice & Video Settings - Try to change devices - Selecting the same device also works"
+ }
+}

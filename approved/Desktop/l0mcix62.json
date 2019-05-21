@@ -1,0 +1,30 @@
+{
+ "id": "5bad78c60cd046297bb4951d",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3055,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/l0mcix62",
+ "data": {
+  "system_settings": "Windows 10 Home x64 v1803",
+  "client_settings": "canary 24853, first observed on canary 23321",
+  "actual_result": "message doesnt send as soon as the cooldown is over, and the message telling you about the cooldown turns red",
+  "expected_result": "\"message sends as soon as the cooldown is over",
+  "short_description": "Text to show that slowmode is enabled can show red although it should not",
+  "steps_to_repro": "- type a message - spam press enter"
+ }
+}

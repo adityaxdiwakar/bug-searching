@@ -1,0 +1,23 @@
+{
+ "id": "5914aeb8c9582e3fd3ae1efa",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 628,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qUGuIZOy",
+ "data": {
+  "system_settings": " Xubuntu 16.04, Latest Canary",
+  "actual_result": "You get taken to a blank version of the delete server page",
+  "expected_result": "Everything proceeds as normal and you can delete and forget about that guild",
+  "short_description": "Clicking Delete Server from the Server Settings right click menu brings you to an empty version of the delete server page",
+  "steps_to_repro": "- Mouse over Server Settings, and scroll down to Delete Server - Click it "
+ }
+}

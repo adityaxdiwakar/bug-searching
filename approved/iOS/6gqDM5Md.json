@@ -1,0 +1,23 @@
+{
+ "id": "590604523c81cb3915d6dde5",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 235,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6gqDM5Md",
+ "data": {
+  "system_settings": " iOS 10.3.1, iPhone SE",
+  "actual_result": "Since the new Discord for iOS update, almost all text is in English, no matter, which language you've chosen. The only text, which is still on the chosen language is \"today at...\" or \"last monday at\". So it is _send_ and not _senden_ or _playing Overwatch_ instead of _spielt Overwatch_.",
+  "expected_result": "The playing text is on German or French or Danish...",
+  "short_description": "Text is in the wrong language",
+  "steps_to_repro": "- Open Discord - Choose another language than English - Read what other members play "
+ }
+}

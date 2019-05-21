@@ -1,0 +1,30 @@
+{
+ "id": "5b2785b90d6ee4f965fac0ac",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1559,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/g5qs7a82",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "It's all white",
+  "expected_result": "It should be grey as everywhere else in the app (Quick Switcher, message search, channel member permission override...)",
+  "short_description": "Inner color of the manifying glass in Add friends to Group DM is white",
+  "steps_to_repro": "- Go to Friends Tab - Enter Add Friends to Group DM  - Input something that produces no results - Look at the inner color of the manifying glass picture"
+ }
+}

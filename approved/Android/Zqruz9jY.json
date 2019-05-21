@@ -1,0 +1,17 @@
+{
+ "id": "5babdaf41c2fca51b77206ee",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2045,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Zqruz9jY",
+ "data": {
+  "system_settings": "Lenovo K8 Note, Android 8.1",
+  "client_settings": "Discord Alpha, Android v7.5.5 (755)",
+  "actual_result": "The sentence is: \"Added ROLENAME\"",
+  "expected_result": "The sentence should be: \"Added a role ROLENAME\"",
+  "short_description": "Incomplete sentence in audit logs (roles)",
+  "steps_to_repro": "- Give someone an existing role - Check audit logs"
+ }
+}

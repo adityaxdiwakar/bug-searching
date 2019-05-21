@@ -1,0 +1,36 @@
+{
+ "id": "59e0d42067295d7db6da8f43",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 365,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2u6Unmus",
+ "data": {
+  "system_settings": "iPhone 6S with iOS 11.0.3 & iPad Air 2 with iOS 11.1 PB 2",
+  "client_settings": "TestFlight 1.9.2 (953)",
+  "actual_result": "No edit info will be shown. If you need an example bot for it, just use the bot \"Nadeko\". Use the command \"(dot)timezones\" for that bot and click on any arrow reaction for the bot's message.",
+  "expected_result": "Above the Rich Embed (like for normal message) a info should be shown that this message was edited.",
+  "short_description": "Message edited info for rich embeds missing",
+  "steps_to_repro": "- Have or get a bot that can send rich embeds - Let the bot send a message with rich embed - Let this message be edited"
+ }
+}

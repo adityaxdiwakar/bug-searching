@@ -1,0 +1,17 @@
+{
+ "id": "5b650a7aff666b2e2683812c",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1779,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CxBImUQx",
+ "data": {
+  "system_settings": "Moto G5 Plus Android 8.1",
+  "client_settings": "Discord Alpha 7.2.4",
+  "actual_result": "Both toggles are enabled",
+  "expected_result": "Only the game detection toggle is enabled.",
+  "short_description": "Manually enabling \"Permit usage access\" in Android Settings enables both the display toggle and the detection toggle",
+  "steps_to_repro": "- Ensure that both toggles are already disabled in Discord Settings - Go to Android Settings and enable usage access for Discord - Return to the Discord app - Go to Settings - Click Games"
+ }
+}

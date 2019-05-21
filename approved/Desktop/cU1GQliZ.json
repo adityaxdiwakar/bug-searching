@@ -1,0 +1,30 @@
+{
+ "id": "5a0f4f199edec8837821baf5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1382,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cU1GQliZ",
+ "data": {
+  "system_settings": "Windows 10 Home x64 Version 1703",
+  "client_settings": "Canary 0.0.179 (7442)",
+  "actual_result": "You are unable to revert your save back to what is was until you exit the permission and open it again.",
+  "expected_result": "You are able to save the permission as what it was before you saved.",
+  "short_description": "Changing a role permission on a channel causes it to blink back to what it used to be and go back.",
+  "steps_to_repro": "- Go to a channel where you can add/edit roles. - Add a new role. - Give it a checkmark or an X with a permission of your choosing. - Save the changes. - If you gave the role a checkmark, give it an X or vice versa. - You should see it blink back to what it was and go back to your new choice. - If not, do the prior step again [It seems to only happen 50% of the time]. - Now try and select the perm it was before you saved."
+ }
+}

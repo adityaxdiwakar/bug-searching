@@ -1,0 +1,30 @@
+{
+ "id": "5a6bda17d727a299ee8e242f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1067,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RtfcUDAt",
+ "data": {
+  "system_settings": "LG Xpower 6.0.1 on android 6.0.1",
+  "client_settings": "alpha 6.1.2",
+  "actual_result": "i see messages from before kick amd after rejoin. anything sent between kick and rejoining don't appear untill app restart",
+  "expected_result": "i should see all messages",
+  "short_description": "getting kicked from server and rejoining don't show messages from time you was away",
+  "steps_to_repro": "- get kicked from server - make someone post few messages - rejoin server"
+ }
+}

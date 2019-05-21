@@ -1,0 +1,17 @@
+{
+ "id": "5b8aa26306ad5666b93b0a4e",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2912,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/j8JQx2cH",
+ "data": {
+  "system_settings": "Mac OS Sierra, Macbook Air Mid 2012 , has been replicated on Windows 10 as well.",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 23012, Version Hash: fa2ef18a6aebe7620cedfc5bb14fea57067e1def",
+  "actual_result": "Image :  . Text goes red, clyde tells you you have been blocked by recipient, doesn't send.",
+  "expected_result": "The code, at (  ) is more than 2000 characters, so it should say that it is too long.",
+  "short_description": "Entering specific bits of code into discord cause \"recipient has blocked you\" error.",
+  "steps_to_repro": "- Go to any server - Click on the chat bar - Paste in code (  ) - Click enter - Spoopy Error Happens"
+ }
+}

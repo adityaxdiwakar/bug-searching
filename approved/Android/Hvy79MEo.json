@@ -1,0 +1,30 @@
+{
+ "id": "5b33ca6d154ebd7cf8d12fa6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1610,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Hvy79MEo",
+ "data": {
+  "system_settings": "Huawei Honor 9 Lite 8.0.0",
+  "client_settings": "Discord Alpha 699",
+  "actual_result": "You can actually speak because mic icon is active. But no one can hear you because you are actually muted and the other user's microphone is active too.",
+  "expected_result": "You cant speak",
+  "short_description": "You can talk in an AFK channel, even that it is not supposed to be",
+  "steps_to_repro": "- Be sure that your microphone is not crossed out or turned off. - Go to an AFK channel. Make sure that the channel is only have muted user channel. - Try to speak - Observe"
+ }
+}

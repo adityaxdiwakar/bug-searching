@@ -1,0 +1,42 @@
+{
+ "id": "5a468e692742d91497d25dd3",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 471,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a5e61490661fc1c89f71a0a",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Q1",
+   "color": null
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dfJgOlfq",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.1 & iPad Air 2, iOS 11.2.5 Public Beta 2",
+  "client_settings": "TestFlight 2.2.0",
+  "actual_result": "It won't keep the position",
+  "expected_result": "Chat should keep the position like the Desktop app.",
+  "short_description": "Chat position changes automatically when you get many new messages",
+  "steps_to_repro": "- Open any chat - Scroll back in chat history - Get many new messages - Observe it"
+ }
+}

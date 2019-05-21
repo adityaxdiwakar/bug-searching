@@ -1,0 +1,30 @@
+{
+ "id": "5adb6ad720c30083f6c190f9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1873,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/91wiKOe1",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS, Asus Netbook F551C, Intel Core i3 64bits",
+  "client_settings": "Canary 13963",
+  "actual_result": "They are listed in the reverse order",
+  "expected_result": "Roles should be listed from highest to lowest",
+  "short_description": "Role list in reverse order when creating a private channel",
+  "steps_to_repro": "- Click + to create a new channel - Toggle on the \"Private\" option"
+ }
+}

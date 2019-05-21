@@ -1,0 +1,30 @@
+{
+ "id": "5b2a2c39442c91714c050511",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1568,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nbQdzywd",
+ "data": {
+  "system_settings": "Xioami Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.9.6",
+  "actual_result": "Incorrect text as \"Select a channel or category...\".",
+  "expected_result": "It should be written \"Select a channel or user...\" as these are the only options you can share any message. You can't share a message to a channel category.",
+  "short_description": "Incorrect text \"Select a channel or category...\" under \"Share to\" option while sharing a message.",
+  "steps_to_repro": "- Switch on developer mode. - Tap hold, and share a message. - Notice the default text in the text field \"Share to\" written as \"Select a channel or category...\"."
+ }
+}

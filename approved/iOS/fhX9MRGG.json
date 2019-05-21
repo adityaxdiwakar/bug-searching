@@ -1,0 +1,30 @@
+{
+ "id": "5a958dbf0972414ec593689f",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 612,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fhX9MRGG",
+ "data": {
+  "system_settings": "iPhone 6 with iOS 11.3 beta 3",
+  "client_settings": "TestFlight 2.2.5 (2798)",
+  "actual_result": "Links do not embed unless you tab out and tab back in the channel.",
+  "expected_result": "Links should embed instantly.",
+  "short_description": "Embedding links doesn't work right away unless you tab out and tab back in the channel.",
+  "steps_to_repro": "- Make sure you have permissions to embed links in a channel - Paste any link that can embed like the YouTube/Discord website or a linked GIF"
+ }
+}

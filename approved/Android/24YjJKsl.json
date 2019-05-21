@@ -1,0 +1,30 @@
+{
+ "id": "5aa88b198f3c4bcc1509d93b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1192,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/24YjJKsl",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.3.7",
+  "actual_result": "The app lets you submit it, and that will create a channel that nobody can see, except for admins/owner. This means that if you don't have Administrator privileges, you won't even be able to see the channel you just created.",
+  "expected_result": "As on Desktop, you shouldn't even be able to submit the channel creation until you select at least 1 role",
+  "short_description": "Creating a private channel without selecting any role will create a channel that nobody can access, not even yourself (unless you have full admin privileges)",
+  "steps_to_repro": "- Go in a server you have permission to create text channels, preferably without Administrator permission- Open the menu to create a new channel - Enable \"Private channel\" - Without selecting any role, tap the checkmark to submit channel creation"
+ }
+}

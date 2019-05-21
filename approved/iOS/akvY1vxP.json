@@ -1,0 +1,24 @@
+{
+ "id": "5c038741bdc401723091a8f5",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1202,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/akvY1vxP",
+ "data": {
+  "system_settings": "iPhone X, iOS 12.1.1 (Dev Beta 3)",
+  "client_settings": "TestFlight 2.4.0 (9477)",
+  "actual_result": "You swipe to the member list / channel list but then the invite your friends screen shows up",
+  "expected_result": "Invite your friends screen should not appear and only shows the member / channel list",
+  "short_description": "Swiping to member list / channel list from initially touching the Invite Your Friends button still opens it regardless",
+  "steps_to_repro": "- Tap and hold on the invite your friends button - Swipe either to the left or right to see member list or channel list"
+ }
+}

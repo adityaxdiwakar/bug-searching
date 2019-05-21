@@ -1,0 +1,17 @@
+{
+ "id": "5b67941857adc62e3fe6d929",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2634,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WYmzjqC7",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 20849",
+  "actual_result": "The gradient background is choppy and not blending",
+  "expected_result": "The gradient background should look smooth",
+  "short_description": "When trying to give a user a role, the gradient background of the role looks choppy",
+  "steps_to_repro": "- get yourself a server or use one you can give roles in - open the mini profile of a user that doesn't already have all roles or go to settings > members - try to add a role and hover over said role before adding it - observe"
+ }
+}

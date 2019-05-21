@@ -1,0 +1,24 @@
+{
+ "id": "59766a163c8eddff877e2c81",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 892,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/j240Ad5i",
+ "data": {
+  "system_settings": "Arch Linux",
+  "client_settings": "Using package provided from AUR. (This is the third time I've submitted this; the first time I was redirected to <#238073742624948225> and then now I'm being redirected back here again.) Discord Canary 0.0.22",
+  "actual_result": "The padding on the left side is missing and it looks strange.",
+  "expected_result": "The search pane should have padding on each side.",
+  "short_description": "Padding is nonexistant on the left side of the search pane",
+  "steps_to_repro": "- Perform a search. Any search."
+ }
+}

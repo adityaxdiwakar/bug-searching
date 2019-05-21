@@ -1,0 +1,24 @@
+{
+ "id": "5a6326148ffa943972a880aa",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 525,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XnqpBQLa",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.1",
+  "client_settings": "Discord TestFlight 2.2.1 (build 2202)",
+  "actual_result": "The mention highlights do not appear and just looks like normal text in the blurple/blue colour, until switching and returning to the channel where the mention is.",
+  "expected_result": "The mention should highlight instantly with both the blue around the text, and the yellow on the whole line.",
+  "short_description": "When mentioning everyone, here or yourself the blue & yellow highlights do not appear on/around the text.",
+  "steps_to_repro": "- Find a channel where you have permission to mention everyone or here. - Mention everyone, here or yourself. - Analyse the outputted mention and see the missing highlights. - Switch channels and then return to the previous channel and both highlights should appear."
+ }
+}

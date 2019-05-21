@@ -1,0 +1,30 @@
+{
+ "id": "5af35b3a2a7332a1c6bb9576",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1958,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tz0EOD9g",
+ "data": {
+  "system_settings": "WIN7 Enterprise, Chrome 66",
+  "client_settings": "Canary, Build Number: 14905, Version Hash: ce5fdc33b92af16b60abdadb44a00e70407dd0b3",
+  "actual_result": "Some of the mutual friends/servers get cut off at the bottom",
+  "expected_result": "Should be able to scroll and see all mutual servers/friends with the user",
+  "short_description": "Non-Fullscreen Browser, can't see full list of mutual friends/servers when user has rich presence.",
+  "steps_to_repro": "- Have that user have a rich presence (Fortnite, Spotify, Streaming, ect) - Open discord in browser - Open user profile and shrink window vertically until it resizes their profile - click on mutual servers/friends - scroll down"
+ }
+}

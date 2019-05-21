@@ -1,0 +1,16 @@
+{
+ "id": "5908038f4bd9783646abfafa",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 585,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qkiAhbsS",
+ "data": {
+  "system_settings": " Windows 10, latest Canary",
+  "actual_result": "It says none",
+  "expected_result": "You can find them by searching and filter by them",
+  "short_description": "Can't search in \"Filter by user\" for people who aren't in the dropdown",
+  "steps_to_repro": "- Go to audit logs - Go to filter by user - Try to search someone who is not already in the dropdown "
+ }
+}

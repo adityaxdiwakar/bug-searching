@@ -1,0 +1,17 @@
+{
+ "id": "5bda381276391426c6b38fc9",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1135,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/x49ZKJJc",
+ "data": {
+  "system_settings": "iPhone 6s iOS 11.4.1",
+  "client_settings": "TF 2.4.0 (8841)",
+  "actual_result": "Discord crashes, and crashes again when reloading the app the moment you rejoin the vc",
+  "expected_result": "You join and nothing happens",
+  "short_description": "Joining a voice channel crashes discord",
+  "steps_to_repro": "- Go to a server - Join a vc"
+ }
+}

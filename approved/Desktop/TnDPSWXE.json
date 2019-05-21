@@ -1,0 +1,23 @@
+{
+ "id": "58e14c9eb4e882f6fca48144",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 474,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TnDPSWXE",
+ "data": {
+  "system_settings": " Windows 10 Pro, Discord Canary.",
+  "actual_result": "Shows 2 unknown Unicode symbols",
+  "expected_result": "Should say the normal message without the unknown Unicode symbol.",
+  "short_description": "When you join a server in russian with TableFlip secure level (or low or medium) there will be incorrect Unicode characters.",
+  "steps_to_repro": "- Step 1 - Switch language to Russian - Step 2 - Join a server with TableFlip verification (or lower) "
+ }
+}

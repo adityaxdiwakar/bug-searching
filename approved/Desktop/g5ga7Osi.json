@@ -1,0 +1,24 @@
+{
+ "id": "59b34ba29044d7659cc9f0d4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1100,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/g5ga7Osi",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6 MacBook Air \"13 Early 2013",
+  "client_settings": "Discord Canary 0.0.154",
+  "actual_result": "There's no button. Rip.",
+  "expected_result": "A button shows once you've reached a threshold to show or hide muted channels",
+  "short_description": "The \"Hide Muted Channels\" button got lost somewhere",
+  "steps_to_repro": "- Get the most recent Discord Canary Build (Categories) - Hide a channel - Observe"
+ }
+}

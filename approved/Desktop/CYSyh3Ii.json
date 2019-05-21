@@ -1,0 +1,30 @@
+{
+ "id": "5b889e2b3c04041559a8b8f8",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2898,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CYSyh3Ii",
+ "data": {
+  "system_settings": "Windows 10 Home x64 (1803)",
+  "client_settings": "Discord Canary Build 22875",
+  "actual_result": "Sometimes the line disappears",
+  "expected_result": "The line to the right of Recently Played and Now Playing doesn't disappear",
+  "short_description": "The lines by Recently Played and Now Playing sometimes disappear on 90% zoom and below",
+  "steps_to_repro": "- Make sure you are on 90% zoom or less - Go to the Activity Tab (or click on someone's mini profile who is playing a Verified game) - Click on any game's description (or the game shown in the mini profile) - Observe the area to the right of 'Recently Played' and 'Now Playing' - You might have to manually change your zoom level while on this pop up"
+ }
+}

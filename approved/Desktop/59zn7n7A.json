@@ -1,0 +1,30 @@
+{
+ "id": "5b251a7d4f27a41228e07c12",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2146,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/59zn7n7A",
+ "data": {
+  "system_settings": "iPhone X, iOS 11.3",
+  "client_settings": "Discord TestFlight 2.3.2 (4760)",
+  "actual_result": "Their discriminator is different from the one shown on their profile, even after a reload, it shows their old discriminator.",
+  "expected_result": "Discriminator to match their actual discriminator and be the same discriminator as they have on their profile",
+  "short_description": "[DESKTOP AND IOS!] The \u201cfind or start a conversation\u201d feature does not show a users actual discriminator after a nitro subscription terminates",
+  "steps_to_repro": "- Have a friend with a nitro subscription - Ensure it is not renewed and let it end - Allow the system to automatically change their discim - Use the \u201cFind or start a conversation\u201d feature to search them - Observe their discriminator which loads on the feature, this is next to their username - When you click on their profile observe their actual discriminator and notice the difference"
+ }
+}

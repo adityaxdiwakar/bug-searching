@@ -1,0 +1,15 @@
+{
+ "id": "5840a316bf046773b132e2c5",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 97,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LXKLoTOb",
+ "data": {
+  "actual_result": "It only loads partially",
+  "expected_result": "Emoji loads fully",
+  "short_description": "Custom emojis do not appear",
+  "steps_to_repro": "- Open Discord - Scroll until you find a custom emoji "
+ }
+}

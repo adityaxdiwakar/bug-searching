@@ -1,0 +1,30 @@
+{
+ "id": "5af3d841ece299f1e6aa7181",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 730,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hgYUtVyr",
+ "data": {
+  "system_settings": "iPhone 6s iOS 11.3.1",
+  "client_settings": "TestFlight 2.3.2 (4280)",
+  "actual_result": "Only server icon disappears and mention section stays until you type something and them delete it in the quick switcher",
+  "expected_result": "Server icon with mention and mention section both disappear",
+  "short_description": "Channel mention doesn't go away in quick switcher when viewing mention on another platform",
+  "steps_to_repro": "- Open up quick switcher on your iPhone - Receive a mention while having the quick switcher open - Clear the mention on another device - Observe the mention section on the quick switcher"
+ }
+}

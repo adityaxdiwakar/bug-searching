@@ -1,0 +1,22 @@
+{
+ "id": "585f0c602876c1346c575fef",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 281,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/00FBSLs0",
+ "data": {
+  "actual_result": "end up scrolling to top of the descrption shown and onto the channel name.",
+  "expected_result": "scroll to the top of the description",
+  "short_description": "When editing a long channel description, the entire settings screen scrolls down with the inability to scroll to the top of the description again.",
+  "steps_to_repro": "- open the channel overview editor - scroll down to the bottom of the channel description - attempt to scroll back up to the top of the description "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "598944d80ec97bcfdf448657",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 947,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/p5cNfvQs",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6 (16G29) (iMac Retina 5K, 27-inch, Late 2017)",
+  "client_settings": "Canary 0.0.154",
+  "actual_result": "Nothing.",
+  "expected_result": "The minimize button should be grayed out, and when you click the close button, the window should close.",
+  "short_description": "When using the Mac app in fullscreen, the close and minimize buttons don't work.",
+  "steps_to_repro": "- put Discord in fullscreen mode by clicking the green button at the top left - then click the close (red) or minimize (green) button"
+ }
+}

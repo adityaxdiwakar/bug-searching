@@ -1,0 +1,30 @@
+{
+ "id": "59ceace90065a34325ec9464",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1210,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sdNUIDeG",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13",
+  "client_settings": "Discord Canary, 0.0.155",
+  "actual_result": "Search will always only contain results from the first \"Test\" channel",
+  "expected_result": "Search should only contain results from the second \"Test\" channel",
+  "short_description": "Search only contains results from first channel of channels with same name when using \"cmd/ctrl\" + \"f\"",
+  "steps_to_repro": "- Create 2 (or more) channels with the same name like \"Test\" - Make sure there are messages in both channels - Open second \"Test\" channel (make sure it isn't the first one) - Use `ctrl/cmd` + `f` there to open the search with channel filter - Click enter - Observe the search results"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bcc87025d5f1a47e1bd1b2f",
+ "closed": false,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 3257,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/88m0Mj4v",
+ "data": {
+  "system_settings": "Windows 10 Home 1809 OS build - 17763.104",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 26432, Version Hash: 10db165fe35858dfb89d6508a46717c1296b3ebc",
+  "actual_result": "Streamer mode doesn't display I am live and when I end my stream, it display I am live after it ended for 30min-ish",
+  "expected_result": "Streamer mode was suppose to display I was streaming and when my stream ends, it was meant to turn off.",
+  "short_description": "When you open OBS and streamer mode enables, it will not display on Discord at they streamer is live till after it over.",
+  "steps_to_repro": "- Once the stream is started it will not display you are live on  - End Stream and quit OBS and Discord will then display you are live when the stream is ended and stay displaying you are live up to 30min around after the stream ends - Disabling streamer mode after stream has still keeps the status you are live."
+ }
+}

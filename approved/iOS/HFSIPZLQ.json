@@ -1,0 +1,30 @@
+{
+ "id": "5b58e05ee9c95d9a5be80fbf",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 847,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HFSIPZLQ",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.6 (6000)",
+  "actual_result": "Only cached invites resolve",
+  "expected_result": "Invites all resolve",
+  "short_description": "Uncached invites don\u2019t result in search preview",
+  "steps_to_repro": "- Fully close and reopen Discord to uncache your messages - Go to a channel where a lot of messages and invites have been sent - search \u201c\u201d - Observe the embeds of the search results"
+ }
+}

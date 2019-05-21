@@ -1,0 +1,24 @@
+{
+ "id": "593dc2d027af40015adf32b2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 745,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aOiqZrVd",
+ "data": {
+  "system_settings": "Windows 10 x64 bit",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "The user card module is randomely removed, but will stay if the user is being granted a role that isn't listed past the section you've scrolled to in the Guilds member list.",
+  "expected_result": "The module will stay open, even though the user is placed past the member list area you're currently scrolled to.",
+  "short_description": "In a heavily populated server with lots of roles; add someone to a role that's placed higher than their current placement in the channel. The user card will vanish, instead of staying open.",
+  "steps_to_repro": "- Find a user in a heavily populated server with lots of roles being displayed separately from regular users. - Give the user a tag that's placed higher than the area you're currently scrolled to in the member list of the guild. - Give the user the role and watch the module vanish."
+ }
+}

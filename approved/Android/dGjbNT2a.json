@@ -1,0 +1,17 @@
+{
+ "id": "5b5c31f749e40bbcda649bf9",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1692,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dGjbNT2a",
+ "data": {
+  "system_settings": "Huawei M3 10 Lite, Android 7.0",
+  "client_settings": "Discord Beta 7.1.9",
+  "actual_result": "The bar stays open and you can add emotes",
+  "expected_result": "When you move into a channel you can't talk the emote bar should be minimised",
+  "short_description": "Locked channel emotes",
+  "steps_to_repro": "- Open the emote bar next to the send button - Then open the navigation panel - Go to a channel that you don't have permission to talk in - Press one of your emotes"
+ }
+}

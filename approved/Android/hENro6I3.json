@@ -1,0 +1,30 @@
+{
+ "id": "59a3feb0cd9e08e2cb3a98ef",
+ "closed": true,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 667,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e9",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can still reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hENro6I3",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.1.1 (506)",
+  "actual_result": "The 2FA verification window disappears once the app is reopened and the login process has to be started all over again",
+  "expected_result": "The 2FA verification window should remain open",
+  "short_description": "2FA login screen disappears when exiting the app",
+  "steps_to_repro": "- Have 2FA enabled for your account - Go to User Setting and log out of your account by clicking the Log Out button in the top right corner of your display - Enter your Discord email address and password and hit the login button - Exit the app by pressing the home button (do not close it entirely) and go grab your Authy or Google Authenticator code - Reopen the app and notice that the 2FA verification window is gone and the login process has to be started all over again"
+ }
+}

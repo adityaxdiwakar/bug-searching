@@ -1,0 +1,17 @@
+{
+ "id": "5bb499ce3d69ee80f57b2701",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2093,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EPIHuHYD",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Mini Android 6.0.1",
+  "client_settings": "7.6.2",
+  "actual_result": "it lists 3 \"create invite\" entrys Name",
+  "expected_result": "it should list 2 \"create invite\" and 1 \"update invite\" entrys, because only 2 invites were created and one of them was updated",
+  "short_description": "[Audit Log] updating invite shows as create invite",
+  "steps_to_repro": "- select \u2699 - Set invitw to 6h - change the channel it invites to - observe audit log"
+ }
+}

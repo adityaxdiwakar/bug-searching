@@ -1,0 +1,30 @@
+{
+ "id": "59efc9dfd38506f81e37c3f2",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1313,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LydgEFDQ",
+ "data": {
+  "system_settings": "Windows 10 1709",
+  "client_settings": "Discord Canary 0.0.167 build 6309",
+  "actual_result": "Discord displays your friend's list, and shows \"No Text Channels\"",
+  "expected_result": "Discord should take you to where you last were at on Discord.",
+  "short_description": "On Discord Refresh, Discord displays \"No Text Channel\" rather than take you back to where you last were.",
+  "steps_to_repro": "- Open Discord canary, and enter a random channel on any random server. - Hit Ctrl + R to refresh"
+ }
+}

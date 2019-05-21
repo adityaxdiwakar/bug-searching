@@ -1,0 +1,24 @@
+{
+ "id": "5b5321e5da919e0247541fb2",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 2388,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qtGkKNAS",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 19429",
+  "actual_result": "Lack of any padding on the bottom between the message separators",
+  "expected_result": "Same amount of padding on the top & bottom between the message separators",
+  "short_description": "No padding between message separators when Show website preview is disable",
+  "steps_to_repro": "- Disable Show website preview in your User Settings -> Text & Images - Go into a channel and have a bot send an embed (cannot have text in the message or be edited and must be a single message from the bot)"
+ }
+}

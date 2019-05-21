@@ -1,0 +1,30 @@
+{
+ "id": "5bb1d7c1adaff622c2a094a6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2082,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uZXuubK5",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 758",
+  "actual_result": "The do not get pushed up and cause the text below the magnifying glass to get cut off.",
+  "expected_result": "The magnifying glass and the text get pushed up like in all other fields.",
+  "short_description": "The invite friends to group DM is the only field which does not push the magnifying glass and the text below it to your view which causes the text to get cut off. [Small screen devices specific]",
+  "steps_to_repro": "- Open the invite friends to group DM page. - Select 9 random friends. - Type in nonsense stuff in the text field."
+ }
+}

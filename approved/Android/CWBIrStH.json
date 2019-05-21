@@ -1,0 +1,30 @@
+{
+ "id": "5bb8e09c911afd5125f845f8",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2116,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CWBIrStH",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 763",
+  "actual_result": "The name isn't truncated with 3 dots. The file name just gets cut off/ the other characters just vanish.",
+  "expected_result": "The name gets truncated with 3 dots.",
+  "short_description": "Files with long names don't get truncated with 3 dots in the add content menu. The characters just get cut off",
+  "steps_to_repro": "- Click on the add content (+) button. - Click on the file selection tab. - Scroll down until you see a long file name (make sure that you at least have one)."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b911e55a00f752d03e7e78b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1934,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sqNdeZxm",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 747",
+  "actual_result": "The text tries to continue eventually getting cut off.",
+  "expected_result": "The text in the box is followed by 3 dots when it reaches the max number of characters it can show.",
+  "short_description": "The default text (Search in <insert server name here>) in the search isn't followed by 3 dots when the text crosses the max number of characters it can show. The text tries to continue eventually getting cut off.",
+  "steps_to_repro": "- Create a server with a long name like `WWWWWWWWWWWWWWWWW` . - Click on search. - Observe the default text in the text box."
+ }
+}

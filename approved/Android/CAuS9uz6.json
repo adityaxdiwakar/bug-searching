@@ -1,0 +1,30 @@
+{
+ "id": "5abd9836070b430137fb4e4f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1233,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CAuS9uz6",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.5",
+  "actual_result": "Discord crashes upon pressing Share button. Usually it doesn't crash instantly, first the button will simply not work, and when pressed repeatedly the crash happens",
+  "expected_result": "Sharing debug log should work regardless of the length",
+  "short_description": "When the debug log is very long, attempting to share it may crash Discord",
+  "steps_to_repro": "- Have a very long debug log. For that, use the app intensively or let it open for a long time. If the scrollbar looks tiny, then you're probably good to go - Go to Debug log and tap Share button at top right. Note that sometimes you need to do it several times to reproduce it (close Share menu and tap button again)"
+ }
+}

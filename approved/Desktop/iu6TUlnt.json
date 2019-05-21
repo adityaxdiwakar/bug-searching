@@ -1,0 +1,24 @@
+{
+ "id": "595a0769116a7968f5ea9102",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 803,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iu6TUlnt",
+ "data": {
+  "system_settings": "Antergos (4.11.3-1-ARCH)",
+  "client_settings": "aur/discord 0.0.1-7(i'm unsure where else I can get my version number)",
+  "actual_result": "a notification from that channel",
+  "expected_result": "no notifications from a channel which you are not allowed to be in.",
+  "short_description": "Ability to see messages in NSFW channels while not accepting the fact that you are over 18 years of age.",
+  "steps_to_repro": "- not accept NSFW warning(saying you are over 18 years old) 2 - don't mute notifications 3 - get notifications of chats happening in nsfw channel"
+ }
+}

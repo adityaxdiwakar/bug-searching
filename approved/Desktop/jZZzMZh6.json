@@ -1,0 +1,30 @@
+{
+ "id": "5b788c729810a76eda2ca098",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2742,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jZZzMZh6",
+ "data": {
+  "system_settings": "Windows 10 (64-bit)",
+  "client_settings": "Stable, Build Number: 22189",
+  "actual_result": "Bottom portion of server names are cut off",
+  "expected_result": "Server names in mutual friends should not be cut off",
+  "short_description": "Mutual servers on Microsoft Edge have text cut off",
+  "steps_to_repro": "- Open Microsoft Edge - Click on a member who are in servers that you are in - Click Mutual Friends"
+ }
+}

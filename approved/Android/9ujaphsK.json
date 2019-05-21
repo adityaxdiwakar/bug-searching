@@ -1,0 +1,17 @@
+{
+ "id": "5bbec1f2de7d8f79010068c5",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2140,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9ujaphsK",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.6.7",
+  "actual_result": "the words \"Claim Account\" appear above your email for a split second",
+  "expected_result": "You should transition to the account settings with no problems",
+  "short_description": "Opening your My Account settings causes the words \"claim account\" to show very briefly above your email address",
+  "steps_to_repro": "- Open your account settings - Observe the email part of it"
+ }
+}

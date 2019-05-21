@@ -1,0 +1,30 @@
+{
+ "id": "5b403097ce667791ed7fc54a",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2244,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DnMWGDo3",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 18317",
+  "actual_result": "The infinite symbol is slightly off-cut on the right side",
+  "expected_result": "Infinite symbol is not cut-off on the right like on higher Zoom Level settings",
+  "short_description": "Infinite symbol in the server's Invites section is cut off on Zoom Levels below 150",
+  "steps_to_repro": "- Generate an invite link that never expires - Go into the Invites section of the server you generated it from - Observe the infinite symbol being slightly cut-off on the right"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "5a9b3515a82f7105558f98e6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1704,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a905bdc462d8b176573549f",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Notifications",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ragR27sR",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Canary Build 11566",
+  "actual_result": "The badge has disappeared and you need to turn it off and on to make it show again",
+  "expected_result": "The unread message badge should still be displayed",
+  "short_description": "Unread message badge disappears after minimizing discord to tray",
+  "steps_to_repro": "- Have the unread message badge enabled, and have the close button minimize discord to tray - Click the close button - Open up Discord from tray again"
+ }
+}

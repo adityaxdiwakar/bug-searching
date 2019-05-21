@@ -1,0 +1,17 @@
+{
+ "id": "5a2b2611e7d3fd91eacecb1b",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 446,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kGARbwOs",
+ "data": {
+  "system_settings": "iPhone 8 +, iOS 11.2 (Public Beta 6, but technically stable 11.2)",
+  "client_settings": "Discord Stable App Version 2.1.2",
+  "actual_result": "Time stamp says 5:45PM",
+  "expected_result": "Time stamp should say Today at 17:45",
+  "short_description": "English UK Shows 12-Hour Format Instead of 24 in iOS",
+  "steps_to_repro": "- Have Discord\u2019s app version 2.1.2 (Stable) - Switch to English UK - Restart app if needed, then observe the time. It should say for example (17:45)"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a76792c1d897f6355e01a94",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1624,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zz1XetGQ",
+ "data": {
+  "system_settings": "MacBook Pro 15\" (2017) - macOS High Sierra 10.13.3",
+  "client_settings": "Canary Build 10228",
+  "actual_result": "The file name is cut off (The \"a\" in happens if using the above file name)",
+  "expected_result": "The file name is truncated correctly (With ... or some other way of truncating it)",
+  "short_description": "Long file names get cut off in the file upload embed",
+  "steps_to_repro": "- Upload a file with a relatively long name (I used this_is_a_really_long_file_to_seewhathappens  [Without the space])"
+ }
+}

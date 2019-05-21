@@ -1,0 +1,30 @@
+{
+ "id": "5ae7906ee7d2b5fe3573f593",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1349,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CQfNIfv4",
+ "data": {
+  "system_settings": "Huawai P8 Lite 2015 Android 6.0",
+  "client_settings": "Discord 6.4.7",
+  "actual_result": "He will be unblock even if the message apears \"User has been blocked\"",
+  "expected_result": "He will stay blocked and he will have no longer the Friend Request",
+  "short_description": "Unblocked Someone by Removing him from your friend's list",
+  "steps_to_repro": "- Add Someone as a friend ( He needs to not accept the invite) - Tap the 3 dots on his profile - On the same time , Tap \"Block\" and directly after tap \"Friend Request Sent\" (You need to be fast ) - Tap \"Delete\""
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a1d40dad1523462b87c3628",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1406,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hwFE9z73",
+ "data": {
+  "system_settings": "Windows 8.1 x64",
+  "client_settings": "Client settings: Canary 0.0.180 (Build 7711)",
+  "actual_result": "Your friends pfp will have a colored outline",
+  "expected_result": "All of your friends profile pictures should look the same as if you where looking at them any where else on discord",
+  "short_description": "Outline on profile pictures on mutual friends list",
+  "steps_to_repro": "- Best way is to first open your profile - Click mutual friends - To easily find it check a friend with a dark pfp"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59881eb32b5c97c4f68017f4",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 594,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OQELx32z",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 (Android 6.0)",
+  "client_settings": "Discord Alpha 4.0.2",
+  "actual_result": "The message in the notification body text doesn't have the \"\\\\\" characters",
+  "expected_result": "It shows the message as it normally appears",
+  "short_description": "Push notifications don't show the message correctly if the \"\\\\\" character is contained",
+  "steps_to_repro": "- Have someone send a message containing the \"\\\\\" character at least once (example: the shrug (`\u00af\\_(\u30c4)_/\u00af`) - Look at the push notification and observe the message (in the above example it will show `\u00af_(\u30c4)_/\u00af` parsing the \"\\\\\" as an escape character)"
+ }
+}

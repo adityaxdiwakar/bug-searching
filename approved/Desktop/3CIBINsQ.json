@@ -1,0 +1,23 @@
+{
+ "id": "5918aedd62898e5a80f05500",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 648,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3CIBINsQ",
+ "data": {
+  "system_settings": " Chrome 57.0.2987.133, Win10x64, Discord Web Latest",
+  "actual_result": "The title is just he browser default (page url in most cases)",
+  "expected_result": "The title should be pretty, formatted",
+  "short_description": "Browser client has title as page url",
+  "steps_to_repro": "- Access any page of the dicord web client (/login, /channels/@me, etc) - Observe the tab title "
+ }
+}

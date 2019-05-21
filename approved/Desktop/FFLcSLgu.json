@@ -1,0 +1,23 @@
+{
+ "id": "590a6e700cfdcff1fc95e5f4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 591,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FFLcSLgu",
+ "data": {
+  "system_settings": " MacOS 10.12.4, Discord Canary 0.0.144",
+  "actual_result": "The checkmark clips trough the \"Copy\" text",
+  "expected_result": "The button transforms to a checkmark",
+  "short_description": "Copy Invite Link Clips Trough Itself",
+  "steps_to_repro": "- Go to a server where you can invite - Click \"Copy\" "
+ }
+}

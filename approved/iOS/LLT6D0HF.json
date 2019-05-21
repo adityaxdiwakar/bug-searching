@@ -1,0 +1,30 @@
+{
+ "id": "5a0f7e88e171dae2226dbaf3",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 434,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LLT6D0HF",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.1.2 & iPad Air 2 with iOS 11.2 Public Beta 4",
+  "client_settings": "TestFlight 2.0.1 (1610)",
+  "actual_result": "Channel is hidden and doesn't appear instantly. You need to change the view to see it or reload the app.",
+  "expected_result": "Channel should instantly appear.",
+  "short_description": "Channels within collapsed categories with new mentions or messages do not appear instantly",
+  "steps_to_repro": "- Collapse a category with at least one channel (e.g. channel `#test`) - Get a new message or mention in `#test` - Make sure you have other channel in the same server opened and not `#test` - Observe the channel list"
+ }
+}

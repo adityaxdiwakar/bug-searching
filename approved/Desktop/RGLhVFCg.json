@@ -1,0 +1,17 @@
+{
+ "id": "5b50a84c34a50ddbe990e4de",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2329,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RGLhVFCg",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 19154",
+  "actual_result": "It's oddly close to the image",
+  "expected_result": "Should be at the same position as on a normal message",
+  "short_description": "Adding a reaction to an image, causes it to be oddly close to the image",
+  "steps_to_repro": "- Send an image - React on it - Observe where the reaction is"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "581bf9f02fed80206d7c6fdb",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 114,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pXCCtHkC",
+ "data": {
+  "actual_result": "the emoji will just get deleted from the reaction (Submitted for CNJaredtheeman#2890 / 98610465042595840)",
+  "expected_result": "the emoji can be used to react to message",
+  "short_description": "The Hastag emote can't be used to react and the emoji gets deleted whenever someone tries to react with it.",
+  "steps_to_repro": "- Send a message in any discord server - React using the \" #\u20e3 \" emoji. "
+ }
+}

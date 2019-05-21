@@ -1,0 +1,24 @@
+{
+ "id": "5bb2b1aff95b04530befba78",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1045,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KxSiaUcr",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta",
+  "client_settings": "TestFight 2.3.9 (7731)",
+  "actual_result": "User names push slowmode icon/cooldown timer out of the typing indicator bar",
+  "expected_result": "Typing indicator bar ellipses to give space for the slowmode icon",
+  "short_description": "Users with long names push slowmode icon/cooldown timer out of the typing indicator bar when typing",
+  "steps_to_repro": "- Go to a channel with slowmode enabled - Have three users with long names type - Observe the slowmode icon - Send a messae to trigger the slowmode cooldown and observe the cooldown timer"
+ }
+}

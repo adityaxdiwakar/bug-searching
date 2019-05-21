@@ -1,0 +1,17 @@
+{
+ "id": "5942a33d85abddba7106918c",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 765,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2mUs1a1I",
+ "data": {
+  "system_settings": "Windows 10 (x64) Build 15063.293 @ Version 1703, Discord Canary Version 0.0.157",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "Invite does not stop loading",
+  "expected_result": "Invite should close automatically",
+  "short_description": "Invite infinitely loads upon channel deletion",
+  "steps_to_repro": "- Make an instant invite in a server you can manage - Delete the channel the invite is for - Invite infinitely loads"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "591c2d616b1a7a28a2f6fc2b",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 659,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gWxG5PuB",
+ "data": {
+  "system_settings": "Windows 8.1 x64",
+  "client_settings": "Desktop Canary 0.0.297",
+  "actual_result": "Characters will overlap the previous line",
+  "expected_result": "Characters would render correctly without overlapping the above line",
+  "short_description": "the characters \u239d\u239e \u239b\u23a0 \u23a8\u23ac (U+239D, U+239E, U+239B, U+23A0, U+23A8, and U+23AC) will overlap the above message when used.",
+  "steps_to_repro": ""
+ }
+}

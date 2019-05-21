@@ -1,0 +1,30 @@
+{
+ "id": "5b53f9827e4cb1a4a12db385",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1666,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Kxcpb0No",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 712",
+  "actual_result": "The server list and channel list scroll. (For all the steps, make sure that your phone supports multi touch)",
+  "expected_result": "The server list and the member list scroll.",
+  "short_description": "When you try to scroll through the member list when both, the channel drawer and the member list is open simultaneously, and one of your fingers is on the server list and you're scrolling through it, the member list doesn't scroll. The channel list scrolls instead.",
+  "steps_to_repro": "- Open member list and channel drawer at the same time by clicking on both the icons together. - Scroll through the server list. - When you're scrolling through the server list, place another finger right above the the channel list(which is below the member list) and scroll with both fingers."
+ }
+}

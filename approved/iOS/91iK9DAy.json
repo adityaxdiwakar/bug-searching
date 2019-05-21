@@ -1,0 +1,24 @@
+{
+ "id": "5b8aac9f3331dc48cdf892ff",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 963,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/91iK9DAy",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12 beta 12",
+  "client_settings": "Testflight 2.3.7 (6968)",
+  "actual_result": "App crashes",
+  "expected_result": "You should be able to edit the permissions",
+  "short_description": "Having a category with a markdown in it's name and moving a channel to there will make you crash if you try to edit the channel's permission",
+  "steps_to_repro": "- Create a category with markdown in it, like * or _ - Move a channel to there - Try to edit that channel's permission"
+ }
+}

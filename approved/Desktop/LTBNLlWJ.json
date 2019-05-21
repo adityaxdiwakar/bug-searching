@@ -1,0 +1,17 @@
+{
+ "id": "5af1861e8554885945a39ed8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1950,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LTBNLlWJ",
+ "data": {
+  "system_settings": "WIndows 10 Pro X64",
+  "client_settings": "Discord canary: 14720",
+  "actual_result": "it opens the url for paypal sandbox",
+  "expected_result": "It opens a valid payment url for the normal paypal",
+  "short_description": "Discord Nitro paypal link on canary refers to sandbox paypal",
+  "steps_to_repro": "- Click the discord Nitro button - Select Paypal payment method"
+ }
+}

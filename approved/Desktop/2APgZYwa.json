@@ -1,0 +1,30 @@
+{
+ "id": "5bb50fc49968886d6c3031d6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3072,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2APgZYwa",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6, Firefox 62.0.2",
+  "client_settings": "Canary 25313",
+  "actual_result": "The text is lighter than on the app",
+  "expected_result": "Darker text like on desktop",
+  "short_description": "Find or start conversation text is lighter on firefox than on the app [Firefox]",
+  "steps_to_repro": "- Go to Firefox - Open Discord - Observe the top \"find or start a conversation\" button in the Home tab - Compare it to the text on desktop"
+ }
+}

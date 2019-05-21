@@ -1,0 +1,30 @@
+{
+ "id": "5b6254dd711807075c58106a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1754,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GUCLkqYW",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.1",
+  "actual_result": "Join button does absolutely nothing",
+  "expected_result": "I remember clearly that in older versions it used to show an error toast saying invite is invalid",
+  "short_description": "The \"Join a server\" screen no longer shows an error toast when invite code has invalid syntax",
+  "steps_to_repro": "- Scroll down in your server list - Tap + button and Join a server  - Enter invite code with invalid syntax (for example add a special character other than hyphen an underscore) - Tap Join"
+ }
+}

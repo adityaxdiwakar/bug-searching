@@ -1,0 +1,30 @@
+{
+ "id": "5a3d50d327c9c9bda703e23a",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 995,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GyVcN7uH",
+ "data": {
+  "system_settings": "OnePlus 5, Android 7.1.1",
+  "client_settings": "Android Alpha 5.9.3",
+  "actual_result": "The message ends at \"it officially\"",
+  "expected_result": "It should prompt you to enter your auth code saying \"I acknowledge by transferring of this server to [name], it officially belongs to them\"",
+  "short_description": "Incomplete message pops up while transferring ownership with 2FA enabled (works only with Android 7 and above with 2FA)",
+  "steps_to_repro": "- Enable 2FA if it's not already enabled  - Try transferring ownership"
+ }
+}

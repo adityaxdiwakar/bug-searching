@@ -1,0 +1,23 @@
+{
+ "id": "58be8d5bf805cddb02572dbc",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 273,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UORIuLjU",
+ "data": {
+  "system_settings": " Discord v3.3.3. on Android 6.0 mobile device: LG G4 smartphone",
+  "actual_result": "<:bugbutton:268365281846362112>\\:bugbutton\\: (the second emoji icon doesn't convert correcttly)",
+  "expected_result": "<:bugbutton:268365281846362112><:bugbutton:268365281846362112>",
+  "short_description": "Using only server-specific emoji when typed such as \\:emoji\\:\\:emoji\\: with two or more consecutive emoji per space-delimited message every even consecutive emoji does not convert to icon from Discord app on Android devices Photo example including input from computer/firefox and android app: http://goo.gl/BglOyg",
+  "steps_to_repro": "- Use Discord v3.3.3 on Android 6.0 mobile device - In Discord environment, open any text channel on any server that has at least 1 server-specific emoji uploaded - Manually type or paste text code for a server-specific emoji (beginning and ending with colon, e.g. \\:bugbutton\\: on Discord Testers) and then push enter after inputting only one server-specific emoji - Now repeat previous step but type the emoji code two times consectively without any spaces in between each emoji code "
+ }
+}

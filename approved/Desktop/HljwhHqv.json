@@ -1,0 +1,23 @@
+{
+ "id": "590a6e0a6e026b2d8cf65c21",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 590,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HljwhHqv",
+ "data": {
+  "system_settings": " OSX 10.11.6, Latest Canary Build",
+  "actual_result": "The preferences pane only partially appears.",
+  "expected_result": "The preferences pane should appear.",
+  "short_description": "Notification settings pane through right clicking a server partially transparent.",
+  "steps_to_repro": "- Right click a server icon, even on one you are currently ciewing. - Click 'Notification Settings' "
+ }
+}

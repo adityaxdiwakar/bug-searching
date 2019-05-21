@@ -1,0 +1,15 @@
+{
+ "id": "582e2bcc3ae4192f5de963ee",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 156,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/fargb67P",
+ "data": {
+  "actual_result": "You get brought to an empty friends page (by Joe#0816)",
+  "expected_result": "Nothing should happen",
+  "short_description": "Clicking on a mention of a deleted channel will bring you to an empty friends list",
+  "steps_to_repro": "- Create a new channel - mention it in a different channel, - delete the new channel, - click the channel mention "
+ }
+}

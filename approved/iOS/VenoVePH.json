@@ -1,0 +1,17 @@
+{
+ "id": "5b749b20b7059d2f90d1d4ad",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 914,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VenoVePH",
+ "data": {
+  "system_settings": "iPhone 6s - iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.7 (6784)",
+  "actual_result": "The category stays behind sometimes",
+  "expected_result": "It always catches up",
+  "short_description": "If you go too fast with scrolling in the emote drawer, the symbol category will get stuck and not pick up with you sometimes",
+  "steps_to_repro": "- Open the emote drawer (by adding reaction) - Scroll down fast - Stop and observe the symbol category at the bottom - Try multiple times"
+ }
+}

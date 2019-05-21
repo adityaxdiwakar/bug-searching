@@ -1,0 +1,17 @@
+{
+ "id": "5945c125bc7e54b415cb360e",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 772,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NZQVgOOH",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Discord Canary 0.0.157",
+  "actual_result": "<https://snag.gy/m2gCtV.jpg> <-- The name overflows.",
+  "expected_result": "The name should fit nicely.",
+  "short_description": "Long names and status overflow profile",
+  "steps_to_repro": "- Set your name to something quite long (32 chars) and your status to the maximum - The name overflows the \"...\" context menu."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bfaf1bbd3da5e3ac2948c40",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3434,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CMVBRDHf",
+ "data": {
+  "system_settings": "Window 10 Pro, x64 (v1803)",
+  "client_settings": "Discord Canary 29383",
+  "actual_result": "When you collapse the category, the video icon turns into a voice icon.",
+  "expected_result": "When you collapse them, the video icon should still be present, as it's still a screenshared voice channel.",
+  "short_description": "When you collapse the category where a screenshare is being shared at, the video icon turns into Voice icon.",
+  "steps_to_repro": "- In a screenshare-enabled server, have someone (or your alt) screensharing in one of the voice channels. It should have the video icon - Make sure you are not in the call, and collapse the category with that screenshared video channel. Observe."
+ }
+}

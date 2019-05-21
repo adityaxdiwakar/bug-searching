@@ -1,0 +1,24 @@
+{
+ "id": "5bb49a935504c419688cafa0",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1049,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/s1vBJNBb",
+ "data": {
+  "system_settings": "iPhone 7, iOS 12",
+  "client_settings": "Testflight 2.3.9 (7858)",
+  "actual_result": "You should be able to access that basic information on any server you like",
+  "expected_result": "You should be in the menu, where you can buttons such as Server Settings, Create category, Create channel, ect on any server you like",
+  "short_description": "You can access some basic info on any server you like on iOS",
+  "steps_to_repro": "- Go to a server that you have admin rights on - Click on the 3 dots next to the server name - Dont click on any of the options - Click the home button to come out of the app - Go to your notifications and click on one of them so discord opens that server while the menu is still up - You can now access some basic info of any server, such as the member list, where it is hosted and the channel and category creation screen (Doesnt work though)"
+ }
+}

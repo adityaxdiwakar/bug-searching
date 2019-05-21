@@ -1,0 +1,16 @@
+{
+ "id": "5842c1aa5ffcfdf963a97cac",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 207,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/b8GrGUnd",
+ "data": {
+  "system_settings": " Windows 10 Pro Anniversary Edition, Latest Discord Canary",
+  "actual_result": "WoW Overrides the control and thinks your moving the map/In Game World",
+  "expected_result": "Discord Overlay Should Open",
+  "short_description": "Overlay wont open on WoW. RE: Bug Bounty - https://trello.com/c/Kq79lMZG/193-user-cannot-open-overlay-with-wow-and-overwatch",
+  "steps_to_repro": "- Open WoW with Overlay Enabled (Appears Without a Doubt) - Click on Overlay wont work so open the overlay with a keybinding (in this case Shift + ') - Close the Overlay with the Discord Icon as Normal - Try Clicking on it again (now it wont open) "
+ }
+}

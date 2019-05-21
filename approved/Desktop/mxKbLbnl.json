@@ -1,0 +1,16 @@
+{
+ "id": "582b62f2337604e9350e0710",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 147,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mxKbLbnl",
+ "data": {
+  "system_settings": " Win 10 Latest canary.",
+  "actual_result": "the notification badge shows up",
+  "expected_result": "The notification badge should not show up due to you removing the pin and makes it look like a pin was added",
+  "short_description": "When a pin gets removed it makes the notification badge show up",
+  "steps_to_repro": "- pin something - make someone remove it "
+ }
+}

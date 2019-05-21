@@ -1,0 +1,16 @@
+{
+ "id": "582b6e6477a3e7149d3a94e0",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 149,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Rj3DFkpO",
+ "data": {
+  "system_settings": " win 10 latest canary",
+  "actual_result": "sound clip continues playing layered with the next one",
+  "expected_result": "sound clip stops when another clip is played",
+  "short_description": "Sample sounds in settings under notifications dont stop when playing another sample sound, or the same sample sound again before it's finished",
+  "steps_to_repro": "- open settings - go to notifications - click on \"outgoing call\" 's sample speaker icon multiple times in quick succession (this works with other tones too but is more noticable on the longer ones) "
+ }
+}

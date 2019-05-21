@@ -1,0 +1,22 @@
+{
+ "id": "5874e2a2635776d57e58f018",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 320,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IKJgXhis",
+ "data": {
+  "actual_result": "The sentence breaks up and you are prompted to enter something to search in.",
+  "expected_result": "You should be able to go in with typing without the word breaking up.",
+  "short_description": "Search function gets confused when typing one of the \"Extra Functions like \"in:\"\"",
+  "steps_to_repro": "- Go to the search field - type something like \"in the bin:\" and when you press : the word breaks and it things you're trying to search something \"in\" "
+ }
+}

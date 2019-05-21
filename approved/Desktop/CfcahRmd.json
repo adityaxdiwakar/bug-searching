@@ -1,0 +1,17 @@
+{
+ "id": "59a98d545a652d16b6c9dc41",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1076,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CfcahRmd",
+ "data": {
+  "system_settings": "Acer Predator 17, WIN10 64bit",
+  "client_settings": "Canary Desktop 0.0.163",
+  "actual_result": "Discord jumps to \"send this user a message\"; <https://gyazo.com/b734a5484dabc74f54467ec71ffed93c>",
+  "expected_result": "Can't see what you typed, discord should be normal",
+  "short_description": "Huge grey wall of nothingness below chat",
+  "steps_to_repro": "- Go to a user with a bunch of roles which shows avatar off the top, then type something to jump to it, it should jump below"
+ }
+}

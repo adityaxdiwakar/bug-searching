@@ -1,0 +1,30 @@
+{
+ "id": "59e78fdcd731e445f278d771",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1287,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3T6CP2Sz",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (Build 1607)",
+  "client_settings": "Discord Canary 0.0.165 (Build 6015)",
+  "actual_result": "The text is jumping up and down",
+  "expected_result": "The text shouldn't jump around like spaghetti",
+  "short_description": "The typing indicator can cause some texts to jump around [I was only able to repro this in HS and DAPI] (Edit, seems like it's not related to the typing indicator at all, seems like it happening randomly)",
+  "steps_to_repro": "- Go to a channel where a lot of typing happens - Observe where you can see your username#discrim, microhpone and deafen buttons"
+ }
+}

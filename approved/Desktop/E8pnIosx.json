@@ -1,0 +1,24 @@
+{
+ "id": "5ba9fceace14347b16efdb92",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3029,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5bd3724565f4570ad2d714ba",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "MOJAVE!",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/E8pnIosx",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS Mojave 10.14",
+  "client_settings": "Canary Build 24492",
+  "actual_result": "There shouldn't be one.",
+  "expected_result": "There is a small white line on the top.",
+  "short_description": "[macOS Mojave] Small white line on top of Discord window",
+  "steps_to_repro": "- Use macOS Mojave  - Open Discord in window mode (not fullscreen) - Observe the top of the Discord window"
+ }
+}

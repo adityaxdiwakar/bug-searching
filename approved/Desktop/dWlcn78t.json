@@ -1,0 +1,30 @@
+{
+ "id": "5bf5adb16dc5f9763eb49f3e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3413,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dWlcn78t",
+ "data": {
+  "system_settings": "MacBook Pro 13\" macOS 10.13.6",
+  "client_settings": "canary, Build Number: 28272",
+  "actual_result": "The picture quality is blurry",
+  "expected_result": "The picture quality should be clear like how it is on the gyazo website",
+  "short_description": "When the image for a gyazo link displays on discord, the quality is blurry compared to clicking the link to view image",
+  "steps_to_repro": "- Put a gyazo link in chat - Click on the image below it"
+ }
+}

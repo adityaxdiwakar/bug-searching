@@ -1,0 +1,30 @@
+{
+ "id": "5a8768f0e086d53544c37b12",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 595,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/alSjZjCz",
+ "data": {
+  "system_settings": "iPhone 6s & iPad Air 2, iOS 11.3 PB 2",
+  "client_settings": "TestFlight 2.2.3 (2671)",
+  "actual_result": "The last message option is red colored (for example delete message).",
+  "expected_result": "Only the option to report the message (which doesn't exist for webhook messages) should be red colored.",
+  "short_description": "Last option for message interaction for webhook messages with red color",
+  "steps_to_repro": "- Send/receive a webhook message - Long hold the webhook message - Observe the color of the message options"
+ }
+}

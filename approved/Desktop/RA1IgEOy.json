@@ -1,0 +1,30 @@
+{
+ "id": "5a0739372e71acd40549762f",
+ "closed": true,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 1367,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RA1IgEOy",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Discord Canary 0.0.173",
+  "actual_result": "The edited message will appear twice, once without the strikethrough and the proper edited form right next to it (For the previous example: *example~~example~~*) - Note that the message itself is properly stored on the server and it is being displayed normally on other devices, this is a local client bug",
+  "expected_result": "The message is edited properly and the client shows the edited message normally",
+  "short_description": "Editing a message with bad strikethrough and another formatting to its correct format will mess the shown message",
+  "steps_to_repro": "- Send a message with strikethrough and at least one other formatting with a \\` character on the strikethrough instead of \\~ (\\~\\`\\*example\\*\\~\\~) - Edit the message and replace the \\` character with the \\~ character to produce normal strikethrough"
+ }
+}

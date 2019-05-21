@@ -1,0 +1,24 @@
+{
+ "id": "5b536b506c0cd24146ab3a41",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2396,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vpDZQGuO",
+ "data": {
+  "system_settings": "Windows 10 Pro 64bit, Version: 1803 Build 17134.165",
+  "client_settings": "Discord Stable, 19084; Discord Canary, 19322",
+  "actual_result": "Game crashes",
+  "expected_result": "Game will be shared successfully",
+  "short_description": "Discord started as administrator will crash games when screensharing",
+  "steps_to_repro": "- Start Discord as administrator - Start game without administrator rights - Screenshare the game"
+ }
+}

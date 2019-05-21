@@ -1,0 +1,17 @@
+{
+ "id": "5af10f09513aadc37eb9d863",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1380,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/szVMiBEd",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 6.6.2",
+  "actual_result": "no number, just the word offline",
+  "expected_result": "A number to show how many are offline",
+  "short_description": "No number for Offline List, Lazy Guilds only",
+  "steps_to_repro": "- Be in a Lazy Guild - Open Members List - Scroll down to Offline - Observe the Title"
+ }
+}

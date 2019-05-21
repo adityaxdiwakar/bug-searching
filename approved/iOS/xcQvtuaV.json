@@ -1,0 +1,17 @@
+{
+ "id": "5b6fb66c18d7432e0bd24f0b",
+ "closed": true,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 897,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xcQvtuaV",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 6",
+  "client_settings": "TestFlight 2.3.6 (6691)",
+  "actual_result": "Server list is scrolled to the top",
+  "expected_result": "Server list should remain in the same position as when you closed it",
+  "short_description": "Server list scrolls to the top if you tap the top left corner of your screen while in a server",
+  "steps_to_repro": "- Go to a random server - Scroll down the server list so you aren't at the top - Close the server list and open a channel - Tap the top left corner of your screen above the three bars (make sure you tap above the three bars in this step, and don't open the list) - Open the server list"
+ }
+}

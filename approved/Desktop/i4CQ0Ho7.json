@@ -1,0 +1,22 @@
+{
+ "id": "586e91d303e6845cc15fef1a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 309,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/i4CQ0Ho7",
+ "data": {
+  "actual_result": "Discord tries to commit the changes and locks up the CPU a fair bit, disabling use of other buttons, forcing you to close it in task manager.",
+  "expected_result": "Discord should either commit the changes, or have a filesize limit on avatars, like messages do.",
+  "short_description": "Uploading a large .GIF as server avatar locks up CPU.",
+  "steps_to_repro": "- Download the attached .GIF file (23MB) - Try and upload the .GIF as a server avatar. "
+ }
+}

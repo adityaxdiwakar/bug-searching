@@ -1,0 +1,30 @@
+{
+ "id": "5b84a6294f05e0034c071725",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1891,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nUQdnZGt",
+ "data": {
+  "system_settings": "Moto G5 Plus Android 8.1",
+  "client_settings": "Discord Alpha 7.4.1",
+  "actual_result": "It proceeds as: Japanese; Chinese, Taiwan; Chinese, China; Korean",
+  "expected_result": "The list should proceed in the following order: Chinese, China; Japanese; Chinese, Taiwan; Korean as it does on the desktop client.",
+  "short_description": "Language order not consistent with desktop.",
+  "steps_to_repro": "- Open Settings - Go to Language -> Language - Scroll down to Ukrainian"
+ }
+}

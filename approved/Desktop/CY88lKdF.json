@@ -1,0 +1,23 @@
+{
+ "id": "58e33331403411d5f77b3dd9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 477,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CY88lKdF",
+ "data": {
+  "system_settings": " Win 10 x64, discord canary",
+  "actual_result": "Padding goes bigly",
+  "expected_result": "Padding stays same",
+  "short_description": "Padding around currently playing game in game activity settings changes on mouse over",
+  "steps_to_repro": "- Go to User Settings > Games - Mouse over the currently playing game - Observe the padding size as you mouse over "
+ }
+}

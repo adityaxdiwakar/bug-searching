@@ -1,0 +1,16 @@
+{
+ "id": "58f8d7b4c46017b9754095d0",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 511,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8qDZIlrK",
+ "data": {
+  "system_settings": " Win 10x64CU, Canary 0.0.153",
+  "actual_result": "Only first one selected does",
+  "expected_result": "Multiple emojis upload",
+  "short_description": "Cannot upload multiple emoji at once [New settings]",
+  "steps_to_repro": "- Go to the emoji page on new server settings - Click Upload Emoji - Select more than one image at once - Click Open "
+ }
+}

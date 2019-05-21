@@ -1,0 +1,17 @@
+{
+ "id": "5c36bc98f7b9de63822859da",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3613,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/eNrelLzt",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1809)",
+  "client_settings": "Discord Canary 0.0.227 (30700)",
+  "actual_result": "Nothing",
+  "expected_result": "It's supposed to scroll so you can see what servers and friends you two share.",
+  "short_description": "You are unable to scroll in mutual servers and mutual friends also connections",
+  "steps_to_repro": "- Go to someone's profile that you share a lot of friends/servers with - Attempt to scroll with your mouse - Observe how nothing happens"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bb277d9a0093965285cc36f",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1040,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Kk4uW8ET",
+ "data": {
+  "system_settings": "iPhone 8 Plus - iOS 12 & iPad Air 2 - iOS 12.1 Public Beta 1",
+  "client_settings": "TestFlight 2.3.9 (7731)",
+  "actual_result": "No option for it.",
+  "expected_result": "You should get the option to copy the ID of the DM.",
+  "short_description": "Long holding a DM/Group DM doesn't give the option to copy the ID",
+  "steps_to_repro": "- Make sure Dev Mode is enabled - Open your DMs - Long hold a DM or Group DM"
+ }
+}

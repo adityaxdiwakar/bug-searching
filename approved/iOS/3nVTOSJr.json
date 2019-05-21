@@ -1,0 +1,24 @@
+{
+ "id": "5ab51d4739cd1144244873d0",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 641,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3nVTOSJr",
+ "data": {
+  "system_settings": "iPod Touch 6th generation, ios 11.2.6",
+  "client_settings": "TestFlight 2.2.6 (3440)",
+  "actual_result": "The image uploads without the comment",
+  "expected_result": "The image should upload with the comment like it did in 2.2.5 (3045)",
+  "short_description": "Adding a comment to an image results in the image sending without a comment as of TestFlight 2.2.6 (3349)",
+  "steps_to_repro": "- Find a picture you want to share to the world  - Use the upload arrow and select discord from the list - Select the location you wish to upload the image  - Now type in a comment and tap send"
+ }
+}

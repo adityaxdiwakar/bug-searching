@@ -1,0 +1,30 @@
+{
+ "id": "5a5fb710e74eaa09e454955b",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1042,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9JIane2p",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.1.0",
+  "actual_result": "The channel has no longer unread messages",
+  "expected_result": "Since the warning hides the chat, it shouldn't be marked as read by simply switching to it, you would need either to accept the warning or mark it as read manually",
+  "short_description": "Displaying the NSFW warning without accepting it still marks the channel as read once you leave it",
+  "steps_to_repro": "- Go to an NSFW channel in a new server which has unread messages - When you see warning message, switch to a non-NSFW channel without doing anything with the warning - Look at channel list"
+ }
+}

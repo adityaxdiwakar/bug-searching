@@ -1,0 +1,30 @@
+{
+ "id": "5b5c9f00c21b202e6693f214",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1694,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KsgC3VQY",
+ "data": {
+  "system_settings": "OnePlus 6 (Version 8.1.0)",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "The view from the back camera is blurred and will not re-focus",
+  "expected_result": "Whatever is in front of your back camera! Sharp and in focus!",
+  "short_description": "Switching camera view makes the shot blurry [Might be OnePlus specific]",
+  "steps_to_repro": "- click on the + in any chat you'd like to share a picture with - go to the camera tab while staying in discord - switch from the back camera to the front camera and back - observe"
+ }
+}

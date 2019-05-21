@@ -1,0 +1,17 @@
+{
+ "id": "5bc0a502db57680c5e66c923",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2156,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pBFNlmNG",
+ "data": {
+  "system_settings": "Samsung Galaxy S4 Mini, Android 7.1.2 (Lineage OS 14.1)",
+  "client_settings": "Discord 7.6.8 (768)",
+  "actual_result": "Although you press everything in the Audit Logs screen, nothing will happen.",
+  "expected_result": "The other entries in the Audit Log should be opened.",
+  "short_description": "If you turn off the screen and turn it on again, Audit Logs will not work.",
+  "steps_to_repro": "- Open Audit Logs - Select something - Press power button (turn off screen) - Turn on the screen and go back to Discord - You can't press anything, just the \"back\" button."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a72902884c6a59f9b74f914",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1607,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kgTAAFCs",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1709)",
+  "client_settings": "Discord Canary 0.0.201 (10094)",
+  "actual_result": "It stays in English and throw \"Unsupported locale\" warning and \"ERR_CONTENT_DECODING_FAILED\" error",
+  "expected_result": "The client changes language to Spanish",
+  "short_description": "Changing language to Spanish will not change it to Spanish and will throw errors in console",
+  "steps_to_repro": "- Go to user settings - Change language to Spanish"
+ }
+}

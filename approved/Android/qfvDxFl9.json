@@ -1,0 +1,22 @@
+{
+ "id": "586daf93b895c7a76db7612f",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 166,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qfvDxFl9",
+ "data": {
+  "actual_result": "Shows the name in number format and is not copyable",
+  "expected_result": "Should show the name in mention after the @ and be able to copy",
+  "short_description": "Embeds with mentions from bots won't show correctly nor is the text copyable (guessing all embeds)",
+  "steps_to_repro": "- Have a bot that uses mentions - look at mentions "
+ }
+}

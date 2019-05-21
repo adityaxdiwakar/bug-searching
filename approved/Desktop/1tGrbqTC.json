@@ -1,0 +1,30 @@
+{
+ "id": "5a284b6a3b3d42c831bfcd9c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1430,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1tGrbqTC",
+ "data": {
+  "system_settings": "Zorin OS, based off of Ubuntu 16.04",
+  "client_settings": "Canary, Build Number: 8055",
+  "actual_result": "It allows you to use the mention button, but the text box stays the same with the no perms message, and the channel appears in quick switcher under drafts",
+  "expected_result": "It shouldn't allow you to be able to use the mention button since you don't have permission to actually send messages",
+  "short_description": "If you click the \"mention\" button on a dead invite in a channel you don't have perms to type in, you'll have a draft in quick switcher",
+  "steps_to_repro": "- Find a channel that you don't have perms to speak in, which contains a dead invite - Click the \"mention\" button on the dead invite (you must have the new invites for this) - Go to two other channels (to clear last channel) - Click control + k and observe"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b6b19b85615eb49d6fd212d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1799,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BB2Ysc0r",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 728",
+  "actual_result": "Clicking on just the file size takes you to the cdn link.",
+  "expected_result": "Either both of them take you to the cdn  link or clicking on the file name takes you to the cdn link because in every website preview, clicking on the highlighted text takes you to the webpage.",
+  "short_description": "Clicking on the file name in an attached image does nothing but clicking on the file size opens the cdn link.",
+  "steps_to_repro": "- Click on the file size of an attached image. - Click on the file name of the image."
+ }
+}

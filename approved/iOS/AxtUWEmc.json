@@ -1,0 +1,34 @@
+{
+ "id": "586413b0e5992dbe8cf33f7f",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 145,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AxtUWEmc",
+ "data": {
+  "actual_result": "Settings is opened and keyboard pops up.",
+  "expected_result": "Settings is open without keyboard.",
+  "short_description": "Keyboard opens after changing group DM Icon",
+  "steps_to_repro": "- Open a group DM - Have the keyboard open - Click title to change the icon - Change icon "
+ }
+}

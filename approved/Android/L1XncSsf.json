@@ -1,0 +1,17 @@
+{
+ "id": "5b80215439b1551008d793a5",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1875,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/L1XncSsf",
+ "data": {
+  "system_settings": "Google Pixel 2, Android 9.0.0",
+  "client_settings": "Discord Alpha 7.4.0 (740)",
+  "actual_result": "an extra colon is placed in the beginning of the string",
+  "expected_result": "nothing should happen, emoji syntax is already correct and completed",
+  "short_description": "added colon to emoji [Possible Device/OS Specific]",
+  "steps_to_repro": "- open textbox and insert a discord emoji (as in ones that use colon syntax) - add an emoji through the emoji keyboard  - highlight to just prior the emoji keyboard and observe the emoji \"drawer\" above - notice the discord emoji you first placed and click it from within in the drawer"
+ }
+}

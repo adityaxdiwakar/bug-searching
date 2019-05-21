@@ -1,0 +1,17 @@
+{
+ "id": "5b7c9ae8f99e222b161ae599",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 931,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZE0Ay2rl",
+ "data": {
+  "system_settings": "iPhone X, iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.7",
+  "actual_result": "It changes the first letter typed",
+  "expected_result": "It should stay the original letter",
+  "short_description": "Typing :[insertemojinamehere]: results in the first letter you typed being changed but only specific letters & I haven't tried all of them, i.e. :sn changes to :an. NB (s->a, h->b are known constants for me) NOT all letters do this. But s & h do.",
+  "steps_to_repro": "- Type a message  - Add an emoji by typing i.e. `:snail:` reverts to :anail:"
+ }
+}

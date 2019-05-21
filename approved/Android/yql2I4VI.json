@@ -1,0 +1,16 @@
+{
+ "id": "58f59bec3bb8a6970df81a3c",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 384,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yql2I4VI",
+ "data": {
+  "system_settings": " Android O, Discord 3.6.5",
+  "actual_result": "The entire app gets squished vertically while the switching animation is active",
+  "expected_result": "Discord switches to the sub menu smoothly",
+  "short_description": "Discord squishes in vertically when navigating menus",
+  "steps_to_repro": "- Go to Settings - Open any of the sub menus - Observe the switching animation "
+ }
+}

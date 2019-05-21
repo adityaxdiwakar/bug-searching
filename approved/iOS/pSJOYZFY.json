@@ -1,0 +1,36 @@
+{
+ "id": "5a78bc2173a956490c4c56af",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 564,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pSJOYZFY",
+ "data": {
+  "system_settings": "iPhone 8 +, iOS 11.3 (PB3)",
+  "client_settings": "Discord TestFlight 2.2.2 (2352)",
+  "actual_result": "Time can go missing randomly, but will reappear when a person posts something new.",
+  "expected_result": "Time should always appear in the time stamp.",
+  "short_description": "Time goes missing in the time stamp randomly with long name or nickname. [iPhone X and iPhone Plus models only]",
+  "steps_to_repro": "- Be in a conversation. - Make sure you and your friend has a long nickname. - Chat normally for about 10 - 15 minutes. - Observe and pay attention."
+ }
+}

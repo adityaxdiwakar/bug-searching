@@ -1,0 +1,17 @@
+{
+ "id": "5c01e2c94c3c901d000f790a",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2371,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JGmHmxzQ",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 8.0.5",
+  "actual_result": "It's really faded. Quite hard to read.",
+  "expected_result": "Those two things should be in black font.",
+  "short_description": "Role settings and the role name in role editing screen is super faded on light theme.",
+  "steps_to_repro": "- First, get on light theme. - Go to a server you have \"Manage Roles\" permission. - Server settings > Roles. - Choose any roles. - Look at the top, where it says \"Role settings\" and the role name."
+ }
+}

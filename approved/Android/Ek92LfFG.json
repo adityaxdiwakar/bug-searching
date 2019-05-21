@@ -1,0 +1,24 @@
+{
+ "id": "59c81da6e0f805946af4f2a7",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 766,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ek92LfFG",
+ "data": {
+  "system_settings": "Samsung Galaxy 7, Android 7.0",
+  "client_settings": "Android Alpha 5.2.6",
+  "actual_result": "You get a \"connecting\" screen and user profile looks offline. Along with not being able to do any functions of course.",
+  "expected_result": "2 Factor Auth. Should activate and work across devices",
+  "short_description": "2FA broken On Android after setting it up on PC (Credits to Joshek for the assistance on reproducing) (**MUST TEST ON ANDROID FOR BUG**)",
+  "steps_to_repro": "- Remove 2FA account on any device - Exit discord app mobile, and setup 2FA on PC - Once setup, go to your android app again. - You should now see old messages(no new messages show, and a \"loop\" of the connecting that never goes away)"
+ }
+}

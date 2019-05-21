@@ -1,0 +1,23 @@
+{
+ "id": "590242e3e709aed97ad860b4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 564,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/46hJlQPm",
+ "data": {
+  "system_settings": " Discord Webclient on latest build of Chrome",
+  "actual_result": "Javascript error",
+  "expected_result": "Pasted Image in chat",
+  "short_description": "Copy-paste from Web Image upload not working",
+  "steps_to_repro": "- - Copy an image from a discord chat via right click - Attempt to paste it in a text chat "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b88d7229d3c666e0688d14b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2904,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RJBiz3Iy",
+ "data": {
+  "system_settings": "Windows 10, Version 1803",
+  "client_settings": "Build Number: 22658",
+  "actual_result": "shows the default system variant of the emojis or for custom one shows in there raw text form",
+  "expected_result": "render custom emojis or even native ones in the not system default manor (doesn't show twemoji variant only system default)",
+  "short_description": "Emojis on website embed should render normally",
+  "steps_to_repro": "- send a web url that has emojis in the embed -get emoji dot com has one of these embeds"
+ }
+}

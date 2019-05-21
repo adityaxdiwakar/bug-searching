@@ -1,0 +1,17 @@
+{
+ "id": "5b6533f3e1dbd48028bc5166",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1781,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4AIrDRpB",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.4",
+  "actual_result": "The \"No game detected\" is fine but the \"What are you playing?\" is harder to see",
+  "expected_result": "The text in the grey box should be easily readable",
+  "short_description": "The \"What are you playing?\" text is a bit darker on Light theme making it harder to see",
+  "steps_to_repro": "- Enable Light theme - Go to Games section of user settings  - Make sure it says No game detected"
+ }
+}

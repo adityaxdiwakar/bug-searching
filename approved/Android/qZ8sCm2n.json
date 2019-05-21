@@ -1,0 +1,17 @@
+{
+ "id": "5ae3a44b0d4d9a3f52b4d4d4",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1335,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qZ8sCm2n",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.5.8",
+  "actual_result": "All items are sorted A-Z except XBox which is at the top",
+  "expected_result": "Items should be correctly sorted (not necessarily A-Z, but in a consistent way)",
+  "short_description": "\"XBox Live\" item out of place in the Add connection menu",
+  "steps_to_repro": "- Go to Account settings > Connections  - Tap Add - Observe that all items in the menu are sorted A-Z except XBox"
+ }
+}

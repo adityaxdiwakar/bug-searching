@@ -1,0 +1,30 @@
+{
+ "id": "5bc624bf64bc81484005cf67",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2183,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GcEssV37",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 771",
+  "actual_result": "The upload percentage is not shown.",
+  "expected_result": "The progress percentage is shown.",
+  "short_description": "On the largest font size, the upload progress percentage gets pushed off screen.",
+  "steps_to_repro": "- Set your font to the largest size. - Upload a file. - Observe the upload progress modal. -"
+ }
+}

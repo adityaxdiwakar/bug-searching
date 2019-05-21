@@ -1,0 +1,30 @@
+{
+ "id": "5a570db72191fc9f3700f0bc",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1530,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aF6HLkLv",
+ "data": {
+  "system_settings": "Windows 10 Home 64-Bit Version 1709",
+  "client_settings": "Discord Canary 9405",
+  "actual_result": "Only the image or thumbnail show, not both.",
+  "expected_result": "Both the thumbnail and image show fine. (Shows fine in Stable 9072)",
+  "short_description": "Rich Embeds don't show the thumbnail most of the time if there's an image",
+  "steps_to_repro": "- Have a bot send an embed with both an image and a thumbnail - Watch as either the thumbnail or image don't show."
+ }
+}

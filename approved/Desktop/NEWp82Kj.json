@@ -1,0 +1,24 @@
+{
+ "id": "599dbb60f0e0c15909ee8cf8",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1033,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NEWp82Kj",
+ "data": {
+  "system_settings": "arch linux",
+  "client_settings": "Discord Canary 0.24",
+  "actual_result": "a bubble saying \"Disabled for @ everyone\"",
+  "expected_result": "a bubble saying \"you do not have permission to edit this\"",
+  "short_description": "attempting to edit the color of a role you cant edit (above your current role) shows a \"Disabled for @ everyone\" message",
+  "steps_to_repro": "- go to roles - click on a role above yours - hover over the color picker -"
+ }
+}

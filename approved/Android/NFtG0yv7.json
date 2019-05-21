@@ -1,0 +1,30 @@
+{
+ "id": "5a1ec302a8bdb808fe2ae2bc",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 928,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NFtG0yv7",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.7.9",
+  "actual_result": "It appears enormous and can only display max 2 letters before cutting off with \"...\"",
+  "expected_result": "The text inside the default icon should be small enough so it can display 4-5 letters fine",
+  "short_description": "The text in the server default icon is huge in Overview screen",
+  "steps_to_repro": "- Create a new server and give it a name with a lot of words  - Go to Server settings > Overview"
+ }
+}

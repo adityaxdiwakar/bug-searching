@@ -1,0 +1,30 @@
+{
+ "id": "5a74b5f7ab7fd9f3a08709dc",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1617,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3aRYIArb",
+ "data": {
+  "system_settings": "MacOs High Sierra 10.13.3",
+  "client_settings": "Release Channel: stable, Build Number: 10161",
+  "actual_result": "The text has no margin",
+  "expected_result": "Text should have margins to make it more aesthetic",
+  "short_description": "In some languages such as French, the text \"Want upgraded emoji powers?\" has no margin.",
+  "steps_to_repro": "- You must not have Discord Nitro - Put Discord in French - Press the button to add an Emoji to the right of the input box - Click on an Emoji from another server - Look"
+ }
+}

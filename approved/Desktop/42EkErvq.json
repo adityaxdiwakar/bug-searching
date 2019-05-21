@@ -1,0 +1,22 @@
+{
+ "id": "584d6ae19848b3f018f171d1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 238,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/42EkErvq",
+ "data": {
+  "actual_result": "There is an X under the role",
+  "expected_result": "The X should be next to the said role.",
+  "short_description": "When viewing a possible long role name on the Member's list, the X mark is under the name",
+  "steps_to_repro": "- Step 1: Make a role, call it Administrator as it's long - Step 2 Give it to someone and view the Member's list. Give it to multiple people. "
+ }
+}

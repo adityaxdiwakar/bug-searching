@@ -1,0 +1,15 @@
+{
+ "id": "585f05d50a839aa84bfb8601",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 280,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7nukVduC",
+ "data": {
+  "actual_result": "It causes a blip in the audio twice",
+  "expected_result": "It doesn't stutter, and mutes your mic seamlessly",
+  "short_description": "Muting you mic while someone else is talking causes the audio to stutter twice",
+  "steps_to_repro": "- Have someone talk or read you a nice story or something without stopping (easy to repro with a music bot) - Mute your microphone - Hear the other person's lovely voice stutter twice "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a5548a3d307159f3068c890",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1522,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MN7AADTA",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 Fall Creators Update (1709)",
+  "client_settings": "Canary 0.0.195 (build 9280)",
+  "actual_result": "Nothing happens",
+  "expected_result": "Image opens in your browser",
+  "short_description": "Clicking middle mouse button on images to open it in browser stopped working",
+  "steps_to_repro": "- Post or find a message with an image - Click it with your middle mouse button"
+ }
+}

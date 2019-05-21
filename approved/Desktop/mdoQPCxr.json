@@ -1,0 +1,17 @@
+{
+ "id": "5b6301ddb4abb144e8f01610",
+ "closed": true,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 2606,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mdoQPCxr",
+ "data": {
+  "system_settings": "Windows 10 Home x64 (1803), Minecraft 1.8.9",
+  "client_settings": "Discord Canary 20540",
+  "actual_result": "Improper scaling occurs, leading to panels and the exit button being off",
+  "expected_result": "The overlay scales correctly, the panels are moved and the exit overlay button is in the upper right corner",
+  "short_description": "Starting a game windowed and fullscreening said game causes overlay to improperly scale",
+  "steps_to_repro": "- Launch a game that launches windowed by default (ex: Minecraft - Ensure the game launches and open the overlay - Maximize the window - Reopen overlay - Observe"
+ }
+}

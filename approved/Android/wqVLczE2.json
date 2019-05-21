@@ -1,0 +1,30 @@
+{
+ "id": "5a48ab6ac4e103ab9ff6d2fd",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1010,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wqVLczE2",
+ "data": {
+  "system_settings": "LG X Power, Android 6.0.1",
+  "client_settings": "Android Alpha v6.02 (Techinally consider Beta)",
+  "actual_result": "The timer freezes",
+  "expected_result": "The time should've continued with the right time (AKA the time you've been in the call)",
+  "short_description": "Call timer on a DM voice channel freezing (Voice ONLY)",
+  "steps_to_repro": "- GO to a DM call and call someone. - Tap `...` and tap Voice settings - Exit out of Voice settings - Observe your ice cold stuck timer"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "590efcf03a2d2bee699ca5a6",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 441,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fNowoHzc",
+ "data": {
+  "system_settings": " Android running Discord 3.8.2.",
+  "actual_result": "It overlaps (well, underlaps) the 'Jump to Chat' button.",
+  "expected_result": "It shows the message above the 'Jump to Chat' button.",
+  "short_description": "Clicking on search results when there is only one message in the given channel causes overlapping between the 'Jump to Chat' button and the message.",
+  "steps_to_repro": "- Search for a message - Click on the message to view the channel preview - Observe "
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5b52bea670f92840cc1b3203",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2382,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XaDmLwEK",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 19429",
+  "actual_result": "There is a colour effect around the mention's text even though the mention highlights for you",
+  "expected_result": "The colour effect surrounding the mention's text should not be present, as it should only appear on role mentions that do not highlight for you",
+  "short_description": "Role mentions that highlight for you still show the colour effect around them",
+  "steps_to_repro": "- Make a mentionable role (give it a colour so that it's noticeable) and give yourself the role - Mention the role in chat and observe the surrounding of the mention's text"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "598932ce3de0a92802feaafb",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 946,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GKfhoCcd",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6 (16G29) (iMac Retina 5K, 27-inch, Late 2017)",
+  "client_settings": "Canary 0.0.154",
+  "actual_result": "the X is toward the bottom right",
+  "expected_result": "The X will be centered in the red square",
+  "short_description": "the X in RTC debug is too large or off center",
+  "steps_to_repro": "- join a voice channel - click the \u2139\ufe0f button (near \"Voice Connected\" at the bottom)- click Debug - click Flags - look at a <:redTick:312314733816709120>"
+ }
+}

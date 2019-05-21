@@ -1,0 +1,36 @@
+{
+ "id": "5ab6bebe0474e7d93ea2d85a",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 644,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ak047qOQ",
+ "data": {
+  "system_settings": "iPhone 6s & iPad Air 2, iOS 11.3 PB 6",
+  "client_settings": "TestFlight 2.2.6 (3440)",
+  "actual_result": "The message interaction menu appears for some recent messages (it seems only messages that were sent today) and causing some issues when trying to use it.",
+  "expected_result": "The message interaction menu shouldn't appear.",
+  "short_description": "Message interaction menu appears for recent messages when using search",
+  "steps_to_repro": "- Go to any text channel and send a message - Open the search and search for the messages sent by yourself - Long press the first search result - Observe that the message menu appears"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bb3a733c360d913fd7b9697",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2085,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4enp8Qrx",
+ "data": {
+  "system_settings": "Google Pixel 2 ; Android 9",
+  "client_settings": "Android Alpha 7.5.7 (757)",
+  "actual_result": "it appears to attempt to fill both the country code and actual number",
+  "expected_result": "the number will auto fill correctly",
+  "short_description": "using auto fill on phone verification number attempts to auto fill both county code and actual number",
+  "steps_to_repro": "- enter a server with a level 5 verification security with an account with an unverified number - click verify phone - click the auto fill suggested number and observe"
+ }
+}

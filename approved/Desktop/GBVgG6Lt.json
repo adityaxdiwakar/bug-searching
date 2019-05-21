@@ -1,0 +1,23 @@
+{
+ "id": "58ae64b59ed3e45c08c1bab4",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 394,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GBVgG6Lt",
+ "data": {
+  "system_settings": " Win 10 x64, discord canary",
+  "actual_result": "Hyperlinks are broken (visible hided part)",
+  "expected_result": "Nothing extraordinary",
+  "short_description": "Hyperlinks not showing properly on Japanese language",
+  "steps_to_repro": "- change current Discord language to Japanese - open 'Overlay' or 'Change Log' settings page "
+ }
+}

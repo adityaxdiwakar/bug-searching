@@ -1,0 +1,23 @@
+{
+ "id": "59187385b8dcd8a8184add6b",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 646,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OzLIBcNp",
+ "data": {
+  "system_settings": " macOS Sierra 10.12.4 Discord Version:  Canary 0.0.145.",
+  "actual_result": "It overlaps.",
+  "expected_result": "The mention highlighting didn't overlap.",
+  "short_description": "When you have a smaller font size, the mention highlighting overlaps each other when you have it over multiple lines.",
+  "steps_to_repro": "- Go to a server - Spam mention someone in one message - Observe "
+ }
+}

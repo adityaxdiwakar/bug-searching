@@ -1,0 +1,23 @@
+{
+ "id": "5913ce2526ce2acca2c9e9aa",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 624,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hpDoPbmD",
+ "data": {
+  "system_settings": " W10 x64 Latest Canary",
+  "actual_result": "Your Discord reloads",
+  "expected_result": "The YouTube video just stops and switches to the other server",
+  "short_description": "Starting a YouTube video in an embed and then switching to server reloads your client",
+  "steps_to_repro": "- Embed a YouTube video, for example, ``https://www.youtube.com/watch?v=dQw4w9WgXcQ`` - Play it in the embed - Switch to another server "
+ }
+}

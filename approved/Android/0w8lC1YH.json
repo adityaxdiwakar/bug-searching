@@ -1,0 +1,30 @@
+{
+ "id": "5b84596d5c97331d21bc7b02",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1889,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0w8lC1YH",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 740",
+  "actual_result": "The emoji are cut off from the bottom.",
+  "expected_result": "The emoji aren't cut off from the bottom.",
+  "short_description": "When you set the font size to the maximum and type in colons the text field in a channel, the emoji that pop up in the autocomplete menu are cut from the bottom.",
+  "steps_to_repro": "- Set your font size to the maximum. - Open a channel you have permission to send messages in. - Type in a colon. - Observe the emoji in the autocomplete menu."
+ }
+}

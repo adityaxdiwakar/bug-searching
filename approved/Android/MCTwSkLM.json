@@ -1,0 +1,30 @@
+{
+ "id": "5a9b30b4d6f707413ecbe9c6",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1164,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MCTwSkLM",
+ "data": {
+  "system_settings": "Xiaomi Redmi Note 4 - MIUI 9.3 v8.1.4",
+  "client_settings": "At least from Discord 6.2.8",
+  "actual_result": "You arrive at a specific place of the channel that is not supposed to be (I can not define why this place and not another but it is not related to the height you scroll)",
+  "expected_result": ": The position in the cat is supposed to be kept in the same place or brought down",
+  "short_description": "When you Scroll on a NSFW Channel and you Switch on another server and which open on a non nsfw the position in the channel will be reassembled at a certain place",
+  "steps_to_repro": "- Go to a server you will Switch  to and Scroll to force Discord loading enough messages - Go to a NSFW channel - Scroll - Go to the server, on the Channel you loaded (it works on a non nsfw Channel, idk if it works on a NSFW channel)"
+ }
+}

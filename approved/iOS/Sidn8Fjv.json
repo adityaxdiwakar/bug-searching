@@ -1,0 +1,16 @@
+{
+ "id": "58f333e24684fd22efd6504f",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 228,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Sidn8Fjv",
+ "data": {
+  "system_settings": " Apple iPad 4, iOS 10.3.1, Discord 1.8.3",
+  "actual_result": "Overlay and message gets stuck.",
+  "expected_result": "No message overlay with the \"You must be in the server for...\" text in the chat box and no message stuck.",
+  "short_description": "Message gets stuck and overlays the \"Read only\" text when mentioning while it says You must be in the server for at least 10 minutes to write",
+  "steps_to_repro": "- Get to a server with that \"write lock\"- Hold an users message long - Press \"Mention\" "
+ }
+}

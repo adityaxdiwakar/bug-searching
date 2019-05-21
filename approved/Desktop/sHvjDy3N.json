@@ -1,0 +1,23 @@
+{
+ "id": "58fcfc28351f0be5519d609e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 552,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sHvjDy3N",
+ "data": {
+  "system_settings": " macOS 10.11.6, latest canary",
+  "actual_result": "Textbox is shorter than name",
+  "expected_result": "Textbox accurately surrounds name",
+  "short_description": "Emoji name overflows textbox",
+  "steps_to_repro": "- Upload an emoji with a long name and/or set an emoji to a long name "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bd3709d76eff97fe5a22333",
+ "closed": false,
+ "idList": "5bd36c952694a17407444958",
+ "idShort": 3290,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6V8EaI0d",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 26991",
+  "actual_result": "The text is going out of the pop up in languages that have a longer String",
+  "expected_result": "The text \"Add: Role\" is inside of the pop up and aligned to it",
+  "short_description": "\"Add: Role\" is not left-aligned to the pop up modal and has no padding with non-English languages",
+  "steps_to_repro": "- Set your language to German - Go to a Server you can Manage Roles in and click on a user in Chat / Member List - Click on the plus Button to add a role and observe"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "582f2dc36ff462a1e00f7a97",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 80,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CvUwmcbY",
+ "data": {
+  "actual_result": "emotes don't display right System: Latest testflight ios 10.2 PB2 reported for <@98220940806062080>",
+  "expected_result": "emotes show as normal.",
+  "short_description": "Emotes not working correctly",
+  "steps_to_repro": "- put an emote in chat - Notice the difference "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b5d29de5b27680474be8eb0",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2483,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VfjFED9R",
+ "data": {
+  "system_settings": "[SPECIFIC DISTRO AND VERSION] - OS: Ubuntu 18.04.1 LTS x86_64",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 20174",
+  "actual_result": "The g (what I have reviewed) and y (which someone else has reviewed when asked) was cut off on the bottom tail",
+  "expected_result": "It should show the full character",
+  "short_description": "The lowercase g seems to cut off the very bottom part of it, one other person said that that happens to the y",
+  "steps_to_repro": "- Open Discord - Look at bottom left profile picture and name card - You will notice that the g or y is not showing the bottom"
+ }
+}

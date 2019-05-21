@@ -1,0 +1,17 @@
+{
+ "id": "5bac4a5cbd993241870f9315",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2050,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/a8DMTAcX",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.5.6",
+  "actual_result": "A \"no log yet\" screen quickly pops up.",
+  "expected_result": "A smooth transition to all users.",
+  "short_description": "When switching specific audit log filter to \"all users\", the \"no logs yet\" screen shows for a slight second (may need to try multiple times)",
+  "steps_to_repro": "- Go to an audit log - On the filters, go to \"filter by users\" and select anyone. - Then, go back to \"all users\"."
+ }
+}

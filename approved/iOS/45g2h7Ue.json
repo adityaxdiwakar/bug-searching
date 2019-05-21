@@ -1,0 +1,17 @@
+{
+ "id": "5b745c2d18b2537131b59108",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 911,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/45g2h7Ue",
+ "data": {
+  "system_settings": "iPad Mini 2, iOS 11.4.1",
+  "client_settings": "Discord TestFlight 2.3.7 (6784)",
+  "actual_result": "The notification stays there, as if you hadn\u2019t scrolled down.",
+  "expected_result": "The notification on the channel list should go away",
+  "short_description": "When pinged in a channel, scrolling down doesn\u2019t get rid of the \u201cunread\u201d notification on the channel list",
+  "steps_to_repro": "- Have someone ping you in a channel - Scroll down"
+ }
+}

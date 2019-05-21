@@ -1,0 +1,30 @@
+{
+ "id": "5a680031d0bd9cfbc6a584ba",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1578,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gXJcDS1E",
+ "data": {
+  "system_settings": "Windows 10 x64 Home build 1511",
+  "client_settings": "Discord Web, Google Chrome (latest version)",
+  "actual_result": "Change\u2019s status in group to a \u201cRestricted viewing access error page\u201d.",
+  "expected_result": "Just Leave the group and have the ability to join other groups at one\u2019s leisure.",
+  "short_description": "Leaves LFG group, but sometimes requires the user to select the \u201cLeave Group\u201d option again from the sidebar after already leaving.",
+  "steps_to_repro": "- Join a LFG group, it can be any group. Step 2 - Leave that LFG group, there is a chance that the group will still be on your sidebar and if clicked will show an error page that says you \u201cdon\u2019t have access to view this group\u201d.  Step 3- to remove this error, simply click the Leave Group icon until you fully leave the group, so that you may join another group."
+ }
+}

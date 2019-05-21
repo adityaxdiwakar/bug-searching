@@ -1,0 +1,24 @@
+{
+ "id": "5baaeb3cdfd0243dfb8eba3c",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2039,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9QebgVZ2",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 755",
+  "actual_result": "The text goes below the number.",
+  "expected_result": "Like on desktop, the text doesn't go below the number. It starts after the hyphen instead.",
+  "short_description": "The text after expanding an entry in the Audit log goes below the number.",
+  "steps_to_repro": "- Make changes to a long channel name (or do anything that gives a long entry in the log). - Open Audit logs. - Expand the message that talks about your changes. - Observe that the text goes below the number."
+ }
+}

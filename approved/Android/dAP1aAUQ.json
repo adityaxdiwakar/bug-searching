@@ -1,0 +1,30 @@
+{
+ "id": "5b30c14f80f4cbfb44d202ba",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1598,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dAP1aAUQ",
+ "data": {
+  "system_settings": "Xioami Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.9.9",
+  "actual_result": "The text doesn't get bold",
+  "expected_result": "The text after \"#\" should get bold",
+  "short_description": "Channel/category name isn't bolded (after #) when press holding any channel/category name",
+  "steps_to_repro": "- Edit any channel/category name in a language which uses letters other than English (like Japanese) - Click hold on channel/category name and compare with the one in English name."
+ }
+}

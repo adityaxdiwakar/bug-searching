@@ -1,0 +1,17 @@
+{
+ "id": "5b871a7b89763b3e3089c736",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 956,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5byBhIdr",
+ "data": {
+  "system_settings": "iOS 11.4.1",
+  "client_settings": "2.3.6",
+  "actual_result": "alt text on right half missing",
+  "expected_result": "a normal keyboard with alt text",
+  "short_description": "[iPad with iOS 11+ only] Russian keyboard missing alt text",
+  "steps_to_repro": "- open any chat - place cursor in the position to begin typing"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a4e5e4e4cb5eb943126115b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1020,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OgsEDdBY",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Discord 6.0.5",
+  "actual_result": "The server icon shifts to the right.",
+  "expected_result": "When tapping to edit the name nothing should happen to the server icon",
+  "short_description": "The server icon shifts to the right when changing the server name",
+  "steps_to_repro": "- Go to the \"+\" at the bottom of the server list and create a new server without any icon. The name should have more than 4 words(include spaces) - Go to server settings > overview - Click on the text field to edit the server name"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59fb599a9acccbff5ef2261c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1340,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0SeZNurj",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Webclient",
+  "actual_result": "The message timestamp shows like `gestern um 08:48 Uhr`, the embed timestamp shows like `Mo. Okt. 30., 2017 at 05:20 PM`. This means the format is mixed german / english. Weekday and month are in german, the \"at\" is in english, the time format is 12-hour format, not 24-hour format, ...",
+  "expected_result": "Embed timestamp is formatted the same as message timestamp",
+  "short_description": "Timestamps in Embeds are formatted inconsistently",
+  "steps_to_repro": "- receive a message with an embed with a timestamp - look at the embed in the Web UI"
+ }
+}

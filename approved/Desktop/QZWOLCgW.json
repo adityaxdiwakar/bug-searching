@@ -1,0 +1,30 @@
+{
+ "id": "5a4fb66ba355b07390477ace",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1516,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QZWOLCgW",
+ "data": {
+  "system_settings": "Windows 10 Pro (64-bit), Anniversary Update (Build 1607)",
+  "client_settings": "Desktop Canary 0.0.194 (Build 9258)",
+  "actual_result": "The old name gets used on the more recent posts that uses the newer name all the time.",
+  "expected_result": "Like with users, the latest name/metadata would be shown in the pop-out of the recent posts.",
+  "short_description": "The name of a webhook in the pop-out modal reverts to an old name if that name is loaded in client",
+  "steps_to_repro": "- Create a webhook with a set name (eg: Webhook A). - Make the webhook post a few times in the channel. - Change the name of the webhook to something else (eg Webhook B). - Make sure the old posts are pushed out of sight (so they're not loaded within the first 50). - Make the webhook post with the new name. - Change to another server, then reload the client so your cache is empty. - Click profile for your webhook's new name and observe name. - Scroll up chat history so the old name and new name of the same webhook are loaded in your client. - Click profile for your webhook's new name with the old ones loaded and observe."
+ }
+}

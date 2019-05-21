@@ -1,0 +1,30 @@
+{
+ "id": "59e81a82fd12ddeaa1a79016",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 819,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lfKkJIW1",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 5.4.0",
+  "actual_result": "can't talk at all",
+  "expected_result": "able to type",
+  "short_description": "Unable to speak text stays when going to a place you can speak",
+  "steps_to_repro": "- be in a channel you can talk in - switch to a different server and go to a channel you can't talk in - go back to the original server where you can talk in"
+ }
+}

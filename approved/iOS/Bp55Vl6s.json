@@ -1,0 +1,17 @@
+{
+ "id": "59b99af170bab79e44cf1f68",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 329,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Bp55Vl6s",
+ "data": {
+  "system_settings": "Ios 10.3, iPhone 7.",
+  "client_settings": "Latest test flight version",
+  "actual_result": "collapses with back button ( <Roles button)",
+  "expected_result": "shorten and end with ...",
+  "short_description": "When creating a new role on mobile  thats max characters, in the top banner the name collapses with the back button ( <Roles)",
+  "steps_to_repro": "- Create new role - Name it with max amount of characters - See it collapse"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5973c32c1c0fcedfcc58763d",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 573,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YelF1auG",
+ "data": {
+  "system_settings": "Android 5.0.2 Huawei Honor",
+  "client_settings": "Discord Alpha 4.0.0",
+  "actual_result": "You can enter text in it, just not submit the message.",
+  "expected_result": "The bar does nothing",
+  "short_description": "Joining a channel without read message perms in a tableflip server lets you type in the message box saying you have no permissions",
+  "steps_to_repro": "- Join a server with tableflip using an invite pointing to a closed channel you don't have perms to type in - Tap on the message box telling you you can't use it"
+ }
+}

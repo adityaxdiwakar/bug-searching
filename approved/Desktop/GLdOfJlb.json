@@ -1,0 +1,30 @@
+{
+ "id": "5bba1df99d43852b1a1637e2",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3112,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GLdOfJlb",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1809)",
+  "client_settings": "Discord Canary 0.0.214 (25648)",
+  "actual_result": "The voice channel box doesn't get pinned also it doesn't show any users at all besides yourself in the box",
+  "expected_result": "It should show even when the overlay is closed when you pin it also show other people besides yourself",
+  "short_description": "The pinned voice channel box is completely broken on the overlay, it doesn't show if the overlay is closed down, neither shows other people in the voice channel besides yourself",
+  "steps_to_repro": "- Use the overlay in a game - Try to pin the voice channel box - Observe how it's not shown when closing down the overlay & not showing other server members besides yourself in the channel"
+ }
+}

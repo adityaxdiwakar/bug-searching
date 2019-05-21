@@ -1,0 +1,17 @@
+{
+ "id": "5afc4944a4c4e04d7c6a7339",
+ "closed": true,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 753,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VNerglxb",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.3.1 - iPad Air 2, iOS 11.4 Public Beta",
+  "client_settings": "TestFligt 2.3.2 (4460)",
+  "actual_result": "Nothing happens, only holding the link works for links in pinned message and mentions.",
+  "expected_result": "Link should be opened in your selected browser.",
+  "short_description": "Links in chat preview can't be opened with one simple click",
+  "steps_to_repro": "- Send a message that contains a link - Pin the message - Open the pinned message menu - Click on the pinned message to open the chat preview - Now click on the link in this message"
+ }
+}

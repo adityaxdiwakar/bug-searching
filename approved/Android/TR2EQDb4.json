@@ -1,0 +1,22 @@
+{
+ "id": "585ae22331a43bb0ec9ccb99",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 154,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TR2EQDb4",
+ "data": {
+  "actual_result": "Mutual servers appear",
+  "expected_result": "No mutual servers (section should be removed)",
+  "short_description": "Mutual servers appear for bots when they shouldn't",
+  "steps_to_repro": "- Go to a bot's profile which you're on a server with - Go to the mutual servers tab "
+ }
+}

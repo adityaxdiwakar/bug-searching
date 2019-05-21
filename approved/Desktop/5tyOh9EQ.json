@@ -1,0 +1,30 @@
+{
+ "id": "5bad69abf147376ed7ac8789",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3052,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5tyOh9EQ",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1803)",
+  "client_settings": "Discord Canary 0.0.212, Build 24853",
+  "actual_result": "No Wumpus image to be found",
+  "expected_result": "An adorable Wumpus image",
+  "short_description": "Empty Friends Wumpus image is missing from Add Friend",
+  "steps_to_repro": "- Go into the Add Friend section from your Friends List and observe the missing Wumpus"
+ }
+}

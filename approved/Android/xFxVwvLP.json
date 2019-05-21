@@ -1,0 +1,16 @@
+{
+ "id": "588b51f157f3ed9af82bc6f1",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 196,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xFxVwvLP",
+ "data": {
+  "system_settings": " Android 4.2.2, Discord Alpha latest",
+  "actual_result": "Displays `\u00af_(\u30c4)_/\u00af`",
+  "expected_result": "Displays `\u00af\\_(\u30c4)_/\u00af`",
+  "short_description": "Backslash in /shrug emote not displayed on mobile unless fully escaped",
+  "steps_to_repro": "- View \u00af\\_(\u30c4)_/\u00af on mobile "
+ }
+}

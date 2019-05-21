@@ -1,0 +1,17 @@
+{
+ "id": "5b5af7a166f2d6b8e1a48f6a",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1683,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wEKCuQqm",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 719",
+  "actual_result": "Only the second permission is executed. the first one doesn't change.",
+  "expected_result": "- Both the permissions get selected.",
+  "short_description": "In role settings, clicking on one permission and then quickly clicking on another role (while the first one is not yet selected), causes the first one to get unselected.",
+  "steps_to_repro": "- Go to a server > Server settings. - Click on a role. - Select/unselecte 2 permission really fast. - Observe."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bb0a2a7edfbf86444655504",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2077,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/K3CQr6EZ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.9",
+  "actual_result": "The invite link disappears (shows blank besides \"discord. gg\") and the \"You are being rate limited\" toast appears",
+  "expected_result": "No rate limit should be possible as you aren't requesting any new resource from the api",
+  "short_description": "Rotating the screen several times in the invite creation screen causes the generated invite link to temporarily vanish + you are being rate limited",
+  "steps_to_repro": "- In a server where you can create invites, tap the Create invite button - Rotate your device a few times - Wait a few seconds and observe"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "595176a93d8a0893a25f67ba",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 788,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/v4GWIsXe",
+ "data": {
+  "system_settings": ">",
+  "client_settings": " Canary 0.0.157",
+  "actual_result": "A JS error is thrown",
+  "expected_result": "Normal discord reload",
+  "short_description": "Holding down reload hotkey causes JS error",
+  "steps_to_repro": "- Hold down CTRL/CMD+R continuously until you see a JS error"
+ }
+}

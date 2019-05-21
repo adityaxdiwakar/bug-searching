@@ -1,0 +1,24 @@
+{
+ "id": "592f96999c8945ec499872e8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 696,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rrjQtDtd",
+ "data": {
+  "system_settings": "MacOS Sierra 10.12.5",
+  "client_settings": "Discord Canary 0.0.145",
+  "actual_result": "It still sounds like you're calling",
+  "expected_result": "The call sound should stop or you should receive a being called sound",
+  "short_description": "When in a group DM and you call people, when one joins and you leave the call it still sounds like you're calling",
+  "steps_to_repro": "- Create a group DM - Make sure there are 3 or more people in there - Call them - When one joins the call you leave the call - Listen"
+ }
+}

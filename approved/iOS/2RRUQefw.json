@@ -1,0 +1,17 @@
+{
+ "id": "5b8160026cc218663476e7c9",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 948,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2RRUQefw",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.7 (6930)",
+  "actual_result": "The animation begins for a couple frames",
+  "expected_result": "The animation doesn't move at all until it begins",
+  "short_description": "The Nearby Wumpus searching animation begins when Bluetooth and Wifi is off for a couple frames, then flicks back to the first frame",
+  "steps_to_repro": "- Make sure Bluetooth, and Wifi is off - Open your friends list - Tap the Add Friend button (top right) - Tap Find Friends - Watch the image (focus on the bottom of the wumpus hands if you can't tell)"
+ }
+}

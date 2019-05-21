@@ -1,0 +1,30 @@
+{
+ "id": "5bd7959c35ffe929ffcb0359",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3310,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Cbs87bzn",
+ "data": {
+  "system_settings": "Windows 7 Professional",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 27040, Version Hash: b630e547429da7fbd071f5d67abf1367976d42cc",
+  "actual_result": "You Dont Get Pop - up Notification",
+  "expected_result": "You Should Get Pop - up notification",
+  "short_description": "[Windows 7 Specific ] You Dont get Pop - Up notifications on screen even if you arent DND",
+  "steps_to_repro": "- Make Someone Ping You / DM You - Observe."
+ }
+}

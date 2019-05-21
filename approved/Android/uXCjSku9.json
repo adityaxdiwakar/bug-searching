@@ -1,0 +1,24 @@
+{
+ "id": "59a8f83f4209ec5cb1b19b6c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 676,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uXCjSku9",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.1.3 (509)",
+  "actual_result": "Two swipe downs are required to close the settings menu",
+  "expected_result": "One swipe down should close the settings menu like in portrait mode",
+  "short_description": "You need to drag down twice to close the instant invite settings in landscape mode",
+  "steps_to_repro": "- Go to a server where you have the Create Instant Invite permission and press the Create Instant Invite Button at the top of the channel list - Click the wheel icon right next to the invite link and switch to landscape mode - Try closing the settings menu by swiping down and notice that you need to do it twice instead of only once like in portrait mode"
+ }
+}

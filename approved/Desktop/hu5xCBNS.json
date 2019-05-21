@@ -1,0 +1,17 @@
+{
+ "id": "5a918061be35ae0be6d3dfa1",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1687,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hu5xCBNS",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS, Asus Netbook F551C, Intel Core i3 64bits",
+  "client_settings": "Discord Canary 11055",
+  "actual_result": "While scrolling, the GIF plays at an inconsistent speed (pauses randomly, skips frames, etc)",
+  "expected_result": "It should still be playing smoothly. Alternatively, the GIF could eventually pause until you stop scrolling",
+  "short_description": "[May not happen on PCs with powerful graphics] Scrolling through the chat while a GIF is playing will cause the GIF to play at an inconsistent speed",
+  "steps_to_repro": "- Post a GIF in a channel with a long message history - send another 10 messages in the channel so the GIF is not at the bottom - while the GIF is playing, scroll through the chat and observe the GIF"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5aec78e47bfbc2ff9f655a7f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1367,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nMPxPSj5",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.6.1",
+  "actual_result": "You can only see 4 of the 5 options when you tap hold on the pinned message in the pinned message screen (only \"edit message\" isn't visible)",
+  "expected_result": "You should either be able to see \"edit message\" option or won't be able to see \"add reaction\" option. It's because if you add reaction to the message, it doesn't do anything in that screen, instead adds reaction in the server channel. So either remove \"add reactions\" or keep \"add reactions\" and \"edit message\" both.",
+  "short_description": "Unable to see \"edit message\" option in \"pinned messages\" screen while you can add reaction to it.",
+  "steps_to_repro": "- Type a message. - Tap and hold, pin it. - Click \"pinned messages\" on top right of your screen. - Tap and hold on that pinned message."
+ }
+}

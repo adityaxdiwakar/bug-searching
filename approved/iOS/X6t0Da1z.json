@@ -1,0 +1,24 @@
+{
+ "id": "59e3d335c5be5b103ea76a27",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 367,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/X6t0Da1z",
+ "data": {
+  "system_settings": "ipad mini 4 with ios 10.3.2 and my trusty little iphone 5c with ios 10.3.3",
+  "client_settings": "testflight (ios) discord v1.9.2",
+  "actual_result": "the two options look invisible as they blend with the light mode colour.",
+  "expected_result": "black text should appear with the two options: 'roles' and 'done'",
+  "short_description": "role settings on light mode",
+  "steps_to_repro": "- get light mode, go on your server's settngs - manage your roles, press on a role - edit permissions from that role, the 'roles' and 'done' buttons blend with the white from the light mode and are hard to find"
+ }
+}

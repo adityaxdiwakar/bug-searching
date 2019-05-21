@@ -1,0 +1,17 @@
+{
+ "id": "5bfcd1e35c0e5f1fa7c11018",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2357,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3vwN3uHD",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 8.0.1",
+  "actual_result": "In the best case, your app will successfully connect but will still constantly throw errors in debug logs. In the worst case, Discord will be stuck in Connecting state with other errors in debug logs",
+  "expected_result": "Discord should connect just fine",
+  "short_description": "When game detection service is running and you use another app than Discord for a good while, going back to Discord may cause it to have trouble to connect to websocket",
+  "steps_to_repro": "- Enable game detection service  - Exit Discord - Use another app or play a game for a good 2-3 minutes  - Reopen Discord, either via multi-tasking or via a push notification (for me the effect was more violent when opening through a push notification)"
+ }
+}

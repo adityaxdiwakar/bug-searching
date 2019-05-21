@@ -1,0 +1,24 @@
+{
+ "id": "5987b8c402866af85be45565",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 938,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ge0WDLCK",
+ "data": {
+  "system_settings": "stable",
+  "client_settings": "tested and reproducible on linux discord and web discord.",
+  "actual_result": "It shows a empty line.",
+  "expected_result": "Can at least download the file again.",
+  "short_description": "Can't download specific image",
+  "steps_to_repro": "- Download <https://bennyjacobs.nl/issues/discord/extensions/impromptu-dance-party.webp> to your desktop - Upload file using discord to a channel -"
+ }
+}

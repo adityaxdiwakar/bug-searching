@@ -1,0 +1,30 @@
+{
+ "id": "59db741733cc93ba4d9d01df",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1243,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UkNEavqc",
+ "data": {
+  "system_settings": "Windows 8.1 missing some updates",
+  "client_settings": "app-0.0.298 latest non beta",
+  "actual_result": "The bot appears to be muted but the user can hear audio without any indication around the avatar.",
+  "expected_result": "The bot should be muted and the user not able to hear anything from it.",
+  "short_description": "Discord does not keep a bot muted after restart.",
+  "steps_to_repro": "- Join a channel with a bot constantly streaming audio- Right click the bot and mute it, not a server mute- Reload Discord after verifying the bot is muted and you cannot hear it"
+ }
+}

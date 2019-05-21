@@ -1,0 +1,48 @@
+{
+ "id": "5a8f9d7250dc038695f45384",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 602,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860d37f5189454d85132cf",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a860d3a1ef40d2934969d56",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "text chat",
+   "color": null
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5i4nzwm4",
+ "data": {
+  "system_settings": "iPod Touch 6th generation, iOS 11.2.6",
+  "client_settings": "Stable 2.2.4",
+  "actual_result": "It overlaps onto the two sides and can even obstruct the offline user box",
+  "expected_result": "the message should fit in the box and not overlap onto the background of the server invite",
+  "short_description": "Long server names will overlap outside of the join message box when viewed on a invite",
+  "steps_to_repro": "- Find a server with a long name  - Find a invite to said server  - Click on the invite link and observe what the join message box looks like"
+ }
+}

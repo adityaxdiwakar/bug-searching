@@ -1,0 +1,30 @@
+{
+ "id": "5b57dc3c175adc09b4f0e0c2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2425,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wOY0eoMr",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (19322)",
+  "actual_result": "You have a stuck ping in quick switcher, and doesn't clear when you mark the server as read",
+  "expected_result": "It should not show the channel as unread ping in quick switcher if you don't have read access.",
+  "short_description": "If you get mentioned in a private channel, then lose access before you read the ping. It will be forever stuck in quick switcher and marking the server as read doesn't fix it either (Try several times, took a few times to repro for me, and after a while the ping notification would come back and be stuck)",
+  "steps_to_repro": "- Get access to a private channel - Restart or reload your client completely - Get mentioned - Ask for your access to be revoked to the channel (make sure the everyone role doesn't have read message history and read message permission)  - Observe the stuck ping notification in quick switcher"
+ }
+}

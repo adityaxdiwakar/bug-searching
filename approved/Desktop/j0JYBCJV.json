@@ -1,0 +1,24 @@
+{
+ "id": "593035109a512cd351fada7f",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 699,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/j0JYBCJV",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Latest canary build",
+  "actual_result": "Blank Discord interface.",
+  "expected_result": "To be taken to the appropriate settings page",
+  "short_description": "When clicking the blue underlined link to the \"moderation\" section in the bans screen causes discord to go completely blank if you don't have permission to that section.",
+  "steps_to_repro": "- Navigate to \"bans\" section of discord - at the top of the window click the highlighted word \"moderation\" without permission to any of the moderation section."
+ }
+}

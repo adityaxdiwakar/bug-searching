@@ -1,0 +1,30 @@
+{
+ "id": "5c1dc1bfe40c5429a442b7d1",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2393,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xyPyalLe",
+ "data": {
+  "system_settings": "Mi A2 Android 9",
+  "client_settings": "Android Alpha 8.2.2",
+  "actual_result": "The message doesn't make sense (see screenshot), maybe it's missing a comma or a word or something?",
+  "expected_result": "The message in the toast should make sense",
+  "short_description": "Toast which shows when you click on a channel you don't have access to might have a typo",
+  "steps_to_repro": "- Get someone else to post a channel tag which you don't have access to - Click on the channel tag - Observe the toast"
+ }
+}

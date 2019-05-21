@@ -1,0 +1,16 @@
+{
+ "id": "58b14aa871c760ecb2026b6e",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 195,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nxtQF6fp",
+ "data": {
+  "system_settings": " iPhone 6, iOS 10.2, Discord TestFlight 1.8.3(70)",
+  "actual_result": "Appears stretched and not normal",
+  "expected_result": "Should appear as normal",
+  "short_description": "Non-square emojis are stretched in reaction selector",
+  "steps_to_repro": "- Go to react to a message, find a emoji that isn't square shaped (Like the Discord logo on this server) "
+ }
+}

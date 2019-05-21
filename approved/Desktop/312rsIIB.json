@@ -1,0 +1,30 @@
+{
+ "id": "596de58f9c7de5672349c9ef",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 862,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/312rsIIB",
+ "data": {
+  "system_settings": "MacOS Sierra",
+  "client_settings": "Desktop Canary 0.0.150",
+  "actual_result": "TTS read ID of the mention",
+  "expected_result": "TTS must read the mention's name",
+  "short_description": "TTS read ID rather than mention",
+  "steps_to_repro": "- Send a message with /tts @mention -"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "58586042a10f73ad9705f6b2",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 133,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TWZgfN7F",
+ "data": {
+  "actual_result": "It attempts to open the link of the webhook and Discord crashes if its empty",
+  "expected_result": "It views the image as usual",
+  "short_description": "Viewing an image in a webhook embed (ex: Discord bot r.danny's Starboard) crashes iOS devices.",
+  "steps_to_repro": "- View an image in a webhook embed (may work in any embed, have to view it as if a gif on mobile) "
+ }
+}

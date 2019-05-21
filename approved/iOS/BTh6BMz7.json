@@ -1,0 +1,22 @@
+{
+ "id": "5851cd4eeb18439236afaa5b",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 118,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafe",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P0 - Need an immediate fix",
+   "color": "red"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BTh6BMz7",
+ "data": {
+  "actual_result": "It crashes Discord.",
+  "expected_result": "It lets you take a photo",
+  "short_description": "Pressing the 'Take Photo or Video' button under attach crashes Discord",
+  "steps_to_repro": "- Press the paperclip looking thing - Press 'Take Photo or Video' "
+ }
+}

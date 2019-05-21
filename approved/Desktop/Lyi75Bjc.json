@@ -1,0 +1,17 @@
+{
+ "id": "5b1045cfccab179373076d06",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2080,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Lyi75Bjc",
+ "data": {
+  "system_settings": "Windows 10 1803",
+  "client_settings": "Desktop Canary 16327",
+  "actual_result": "It will make your discord crash.",
+  "expected_result": "It makes discord crash.",
+  "short_description": "The bug is when you view a user in a server click on the user and you will see discord crashes.",
+  "steps_to_repro": "- Go to a server and click on a user and you will see that discord crashes"
+ }
+}

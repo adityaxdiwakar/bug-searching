@@ -1,0 +1,30 @@
+{
+ "id": "5b828a3420632082bcd3bed9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2805,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pHk2lC1S",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 22587",
+  "actual_result": "The impossible suggestion is still present",
+  "expected_result": "The suggestion should not appear as manually changing a DM Voice Call's region is no longer possible",
+  "short_description": "While in a DM Voice Call the Connection Info suggests asking the owner to change the region",
+  "steps_to_repro": "- Go into a DM with a user you can start a Voice Call with (or just make an empty Group DM) - Start a Voice Call - Click on the Connection Info button in the voice bar to your bottom left - Observe the bottom sentence"
+ }
+}

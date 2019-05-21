@@ -1,0 +1,17 @@
+{
+ "id": "59988d06447a13848d66370b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1018,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/MFApi4qs",
+ "data": {
+  "system_settings": "Windows 10 Home (Creators Update) x64",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "The webcam toggles on when selecting Voice & Video",
+  "expected_result": "The webcam light does not toggle until you are viewing your webcam",
+  "short_description": "Webcam Indicator Light turns on Early",
+  "steps_to_repro": "- Have Video Share (or use a friend to open the settings) - Have a webcam with a indicator light whenever it's being used - Goto Voice & Video Settings"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b2bcdbae446774898693cc0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2168,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pcs7L8FZ",
+ "data": {
+  "system_settings": "Macbook Pro 13\" (2017 - With Touchbar), macOS High Sierra - Version 10.13.4",
+  "client_settings": "Discord Canary 0.0.193 (0.0.193), Build 17383",
+  "actual_result": "There is no \"x\" to allow you to close the box anymore.",
+  "expected_result": "An \"x\" appears when hovering over it, to allow you to close the box.",
+  "short_description": "You can no longer close the video in-chat video box when in a group call whilst sharing screens.",
+  "steps_to_repro": "- Create a group/ be in a group - Start screen share in the call - Move from the DM chat to another group/ server/ anywhere else on Discord apart from the group with the call - Hover you mouse over the video box, to allow an \"x\" to appear, to try and close it - Observe that there is no longer an \"x\" to close the in-chat video box"
+ }
+}

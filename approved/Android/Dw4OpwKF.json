@@ -1,0 +1,30 @@
+{
+ "id": "5be9d8726254080e5343488c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2317,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Dw4OpwKF",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 running Android 8.1.0",
+  "client_settings": "Alpha 7.8.8 (788)",
+  "actual_result": "only 3 and a \"+1\" icon appear",
+  "expected_result": "all 4 icons should display",
+  "short_description": "if you share 4 servers with someone, only 3 icons and a \"+1\", will appear even though the 4th icon should too",
+  "steps_to_repro": "- share 4 servers with a friend - observe on the Friends list"
+ }
+}

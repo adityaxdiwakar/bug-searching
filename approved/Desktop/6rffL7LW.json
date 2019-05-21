@@ -1,0 +1,24 @@
+{
+ "id": "59dd730387beb01496b03eac",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1248,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6rffL7LW",
+ "data": {
+  "system_settings": "macOS High Sierra 10.13 (17A405) (iMac Retina 5K, 27-inch, Late 2017)",
+  "client_settings": "Discord Canary 0.0.156 (Build 5588)",
+  "actual_result": "The top corners of the message box are sharp, as if the mention selector is there. If you press Ctrl+A and delete everything, the corners are still sharp.",
+  "expected_result": "The message box still has rounded corners",
+  "short_description": "When you use the mention selector to choose someone and then press Backspace, the selector does not appear, but the top of the message box has sharp corners",
+  "steps_to_repro": "- Press @ and click on someone in the selector - Press Backspace"
+ }
+}

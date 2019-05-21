@@ -1,0 +1,16 @@
+{
+ "id": "590daeeb13392f9b24625494",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 439,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/k0d8ICU6",
+ "data": {
+  "system_settings": " Discord 3.8.2",
+  "actual_result": "Can see some embeds and some not (same command)",
+  "expected_result": "Cant see the embed",
+  "short_description": "Embed shows up one time, but not the other time right after it (with the same command)",
+  "steps_to_repro": "- Use it again (i want to show an screenshot but i cant) "
+ }
+}

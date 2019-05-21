@@ -1,0 +1,17 @@
+{
+ "id": "5b30c376b2047560135fa526",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1599,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vINxvyG0",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 running Android 7.0",
+  "client_settings": "Discord Alpha 6.9.9",
+  "actual_result": "You are sent back up to messages you have seen before (usually you don't notice it while scrolling)",
+  "expected_result": "You should keep scrolling to past messages",
+  "short_description": "Scrolling down in the Search function on a Discord server fast enough makes you go back up to previous messages.",
+  "steps_to_repro": "- Click the magnifying glass in a discord server - Search for something that has a lot of results - Observe that you are seeing some of the same messages as before. (May have to do it several times, and make sure you're not scrolling too fast)"
+ }
+}

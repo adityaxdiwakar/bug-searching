@@ -1,0 +1,30 @@
+{
+ "id": "5ae97f89aec5aecda6718206",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1917,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pBqBnZ64",
+ "data": {
+  "system_settings": "MacOS High Sierra 10.13.3",
+  "client_settings": "Mac Canary 0.0.188 canary, Build Number: 14432",
+  "actual_result": "The Checkbox on the button, and the channel icon on the left menu flash rapidly.",
+  "expected_result": "Channel mutes and unmutes without problem",
+  "short_description": "When Double Clicking A Channel Mute Button, The Button And The Channel Flash Rapidly",
+  "steps_to_repro": "- Double-click the \"Mute #ChannelOfYourChoice - Observe the button's checkbox and the channel in the left menu"
+ }
+}

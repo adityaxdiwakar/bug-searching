@@ -1,0 +1,36 @@
+{
+ "id": "5a67fa5f10bcdee3d0fc5150",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1056,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/s684TSrF",
+ "data": {
+  "system_settings": "ZTE obsidian, Android 5.1",
+  "client_settings": "Discord alpha 6.1.1",
+  "actual_result": "the page will show Rich Presence",
+  "expected_result": "bots will have the normal layout without the Rich Presence",
+  "short_description": "Bots with playing status shows Rich Presence",
+  "steps_to_repro": "- click on any bot with a playing status- observe"
+ }
+}

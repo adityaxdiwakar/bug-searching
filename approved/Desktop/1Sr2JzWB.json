@@ -1,0 +1,24 @@
+{
+ "id": "59bf290372d2c2d74e6f7710",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1164,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1Sr2JzWB",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, B4361",
+  "actual_result": "Box works as normal, doesn't open on click nor show any icon on hover.",
+  "expected_result": "The box to be greyed out/show a stop cursor on hover",
+  "short_description": "The dropdown to change the channel for welcome messages/AFK channel doesn't have any effect if you've no permission to change it.",
+  "steps_to_repro": "- Create a server and invite a friend. - Give the friend a role that has **manage_roles** and **manage_messages** but DOESN'T have **manage_server** - Get the friend to attempt to edit the default welcome message dropdown box"
+ }
+}

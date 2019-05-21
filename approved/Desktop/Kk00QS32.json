@@ -1,0 +1,24 @@
+{
+ "id": "5982bc0b45c43f28fbd44123",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 923,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Kk00QS32",
+ "data": {
+  "system_settings": "Windows 10 Home 1703 (Build 15063.483)",
+  "client_settings": "Desktop Canary, 0.0.163. Desktop PTB 0.0.33. Desktop Stable 0.0.297",
+  "actual_result": "If you keep pressing the arrow key it will stop at some given points, forcing you to have to re-click the list from time to time to be able to scroll down",
+  "expected_result": "You should be able to scroll down to the bottom of the list without it stopping",
+  "short_description": "Emojis list stops when scrolling down with arrow keys after aclicking an empty space",
+  "steps_to_repro": "- Open discord on any desktop version and open the emojis list - Click an empty white space on the right. (Link for help: <https://cdn.discordapp.com/attachments/277638566669058048/342526983369916417/Untitled-1.png>) - Scroll down with your arrow keys"
+ }
+}

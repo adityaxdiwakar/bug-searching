@@ -1,0 +1,30 @@
+{
+ "id": "5a45164c94582938455cb679",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1494,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/G3o8Fq9d",
+ "data": {
+  "system_settings": "Windows 7 Professional x64 (7601)",
+  "client_settings": "Canary 0.0.194 (Build 9070)",
+  "actual_result": "Line flickers",
+  "expected_result": "Line shouldn't flicker",
+  "short_description": "[90% ZOOM] The line between the text box and the messages flicker when hovering over user avatars' in chat.",
+  "steps_to_repro": "- Be in Cozy Mode - Go to any server, any channel - Hover your mouse over a user's avatar in chat - Observe the flickering line"
+ }
+}

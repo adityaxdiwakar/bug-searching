@@ -1,0 +1,30 @@
+{
+ "id": "5a7a295d1387b8a52bdfa2ee",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1104,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oQfWmxwy",
+ "data": {
+  "system_settings": "Honor 6X, Android 7.0",
+  "client_settings": "Discord 6.1.7",
+  "actual_result": "Get 2 notifications, not 1",
+  "expected_result": "Get only 1 message notification",
+  "short_description": "Link info counting as a message",
+  "steps_to_repro": "- Get a message in private from a friend in dms that is a link - etc"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b30c80ca801e2496ec80397",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 811,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gkugjiMU",
+ "data": {
+  "system_settings": "iOS 11.2.6, iPhone 5s",
+  "client_settings": "Discord TestFlight 2.3.4, Build 5330",
+  "actual_result": "Keyboard stays closed",
+  "expected_result": "Keyboard is re-opened as you close the image",
+  "short_description": "Keyboard stays closed after opening an image while it's open (Default iOS keyboard specific)",
+  "steps_to_repro": "- Find an image or upload one - Open your keyboard - Open the image - Exit out of the image and observe that the keyboard is no longer open"
+ }
+}

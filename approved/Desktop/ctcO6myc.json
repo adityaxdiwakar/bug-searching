@@ -1,0 +1,24 @@
+{
+ "id": "596174e54035a1d033bebb0e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 832,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ctcO6myc",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 (15063)",
+  "client_settings": "Discord Canary, 0.0.157",
+  "actual_result": "Opens a new dialog box over the previous one",
+  "expected_result": "Dismisses the dialog box",
+  "short_description": "Pressing enter to dismiss long message dialog after editing doesn't close it.",
+  "steps_to_repro": "- Create a message - Edit it to be over 2000 characters - Press enter to send it - Press enter to dismiss the dialog"
+ }
+}

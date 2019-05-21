@@ -1,0 +1,24 @@
+{
+ "id": "598a701b32d2a9945a21f24b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 954,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/adRtHt5p",
+ "data": {
+  "system_settings": "Windows 10 Home Edition, 15063",
+  "client_settings": "Desktop Stable, 0.0.298",
+  "actual_result": "The channel name does not cut off, and instead continues to to the edge of the Discord window, making it impossible to use the search bar, recent mentions, etc.",
+  "expected_result": "The channel name should cut off with \"...\"",
+  "short_description": "Long channel names overflow",
+  "steps_to_repro": "- Join a server with a long channel name, or make one - Look at it with a window size that is not as wide as the channel name itself"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5aba55a2853fa1ee87600334",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1231,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/q6mKIJBY",
+ "data": {
+  "system_settings": "OnePlus 3T Android O (8.0.0)",
+  "client_settings": "Alpha 6.4.4",
+  "actual_result": "You don't get a notification at all",
+  "expected_result": "You should get a push notification telling you the person has accepted your friend request",
+  "short_description": "Accepted friend request notifications not working",
+  "steps_to_repro": "- Send a friend request to someone - Let said person accept your friend request"
+ }
+}

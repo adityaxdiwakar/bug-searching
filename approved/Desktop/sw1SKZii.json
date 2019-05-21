@@ -1,0 +1,17 @@
+{
+ "id": "597c82a6cfa01fc633717b38",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 911,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sw1SKZii",
+ "data": {
+  "system_settings": "Windows 10 Home x64 (Creators Update)",
+  "client_settings": "Discord Stable (Jul 20, 2017 Update)",
+  "actual_result": "No picture loads. Wikipedia has an exception to where the title of the embed shows but not the picture",
+  "expected_result": "The picture embedded in the link should show.",
+  "short_description": "Links that contain an embedded picture don't work. Ex. (Imgur, Amazon / Amazon AWS, Pictures from the discord website, Wikipedia,  etc.)",
+  "steps_to_repro": "- Find any picture online or use a screenshotting tool. - get the link of said image (right click \\~ copy image adress, or the screenshotting tool should automatically copy it to your clipboard) - paste said link into discord."
+ }
+}

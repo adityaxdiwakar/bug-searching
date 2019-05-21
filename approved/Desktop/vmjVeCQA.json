@@ -1,0 +1,16 @@
+{
+ "id": "58d1620a8efbf5be20fa7a39",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 449,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vmjVeCQA",
+ "data": {
+  "system_settings": " Mac OS Canary",
+  "actual_result": "Buttons are mashed together",
+  "expected_result": "Buttons are not mashed together",
+  "short_description": "Nitro buttons are squished together",
+  "steps_to_repro": "- Open new user settings menu on a nitro activated account - click on the nitro tab "
+ }
+}

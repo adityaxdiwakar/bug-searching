@@ -1,0 +1,15 @@
+{
+ "id": "582ee2dde5a64f5ea66a587e",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 157,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/eRuRIQtc",
+ "data": {
+  "actual_result": "Both emojis appear as text. Environment: Windows 10, Firefox 47.0.2. Probably happens on Firefox 50 too. (Originally by <@106765406982660096> )",
+  "expected_result": ". Expected result: emoji1 should appear as the emoji, but emoji2 should appear as text as it is an external emoji.",
+  "short_description": "Using an external emoji in a message in a server you can't use external emojis in, will break every other server emoji (but not integrated emoji) in that message.",
+  "steps_to_repro": "- Be in two servers. - In server 1, upload an emoji: emoji1. - In server 2, upload an emoji: emoji2. - In server 1, send a message: :emoji1: :emoji2:. -The message will appear as text rather than emojis, despite emoji1 being part of the server. This is because emoji2 is an external emoji of server2 and does not work in server1. However, sending the messages separately has normal, expected results. "
+ }
+}

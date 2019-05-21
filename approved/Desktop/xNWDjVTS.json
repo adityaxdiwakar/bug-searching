@@ -1,0 +1,24 @@
+{
+ "id": "59bc57cfb172c84bc73f74a4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1135,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xNWDjVTS",
+ "data": {
+  "system_settings": "Windows 10 Version 1703",
+  "client_settings": "Discord Canary Build 4331",
+  "actual_result": "Nothing",
+  "expected_result": "It should bring you to the message you clicked Jump on",
+  "short_description": "If you try and use Jump feature in pins/mentions, it will not work",
+  "steps_to_repro": "- Hover over a message - Press the Jump button"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5bdb5a87460f9822969a9963",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2279,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JmwISdx2",
+ "data": {
+  "system_settings": "Samsung Galaxy S9 Android 8.0.0",
+  "client_settings": "7.7.9",
+  "actual_result": "The time index is displayed in the wrong language if it's not on the  form. I've tested it with several languages",
+  "expected_result": "The time index should display it in the usage you use on discord",
+  "short_description": "The audit log time index doesn't fit your discord language",
+  "steps_to_repro": "- Set the discord language of your choice  - Open the audit log  - See that the date isn't correct, 'today' becomes 'heute', 'yesterday' becomes 'gestern' and so on (It's German for me because that's what my phone language is)"
+ }
+}

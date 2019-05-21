@@ -1,0 +1,23 @@
+{
+ "id": "58aa5bbb62033fc346a1d865",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 388,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iN22ae3m",
+ "data": {
+  "system_settings": " Win10 x64, canary",
+  "actual_result": "Uses CSSs default overflow-x -",
+  "expected_result": "it should overflow into a non CSS scroll -",
+  "short_description": "In DM's users with a longer name than the \"user is typing\" container uses the default chrome scrolling bar, doesn't match the discord UI",
+  "steps_to_repro": "- Get a user with a really long name (long characters) - make them type into the dm box  "
+ }
+}

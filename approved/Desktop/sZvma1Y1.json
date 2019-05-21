@@ -1,0 +1,30 @@
+{
+ "id": "5bfe7e60d77dd14e3464ccc0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3443,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sZvma1Y1",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord Stable 28393",
+  "actual_result": "It shows older emojis that has not been used for a long time - An example: I used an emoji 27 times for 17 days, still not showing",
+  "expected_result": "The Emoji you have used for a long time should be in Frequently Used",
+  "short_description": "Using an emoji frequently doesn't make it show up in Frequently Used",
+  "steps_to_repro": "- Add an Emoji to a Message - Press the Emoji Icon on the same or another message - Observe"
+ }
+}

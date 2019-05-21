@@ -1,0 +1,16 @@
+{
+ "id": "58ee22960299aae4fa11938a",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 349,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yAVsbYyp",
+ "data": {
+  "system_settings": " Android 6.0.1 Discord 3.6.3",
+  "actual_result": "No cursor",
+  "expected_result": "Cursor shows up",
+  "short_description": "cursor not showing with emoji picker",
+  "steps_to_repro": "- Fresh start app and don't open keyboard by pressing on a text field - Open emoji picker - Add some emojis "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5c2400caeb408f0b6dcdaf4e",
+ "closed": false,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 3548,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7wzQ0fgh",
+ "data": {
+  "system_settings": "Windows 7 Pro 64bits (build 7601)",
+  "client_settings": "Desktop Canary 30302",
+  "actual_result": "Some of them will come back",
+  "expected_result": "They should all be removed",
+  "short_description": "Game Activity entries don't want to be removed",
+  "steps_to_repro": "- Goto Settings/GameActivity - Add lots of running unverified games to Discord (more than 3) - Spam click the \"X\" on the first entry to remove all the entries"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ac666ed685ccd6ee37795d5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1796,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ejDb0oxP",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1709",
+  "client_settings": "Stable, Build: 13178",
+  "actual_result": "Part of the text of the tweet is cropped",
+  "expected_result": "The text of the tweet should be displayed completely",
+  "short_description": "Cropped text from Twitter in the Russian language",
+  "steps_to_repro": "- Copy tweet URL with long text, insert into any channel"
+ }
+}

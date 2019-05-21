@@ -1,0 +1,15 @@
+{
+ "id": "582a18f4d06a4928a8b54519",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 143,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Ch5SigvQ",
+ "data": {
+  "actual_result": "Settings are lost Client: Canary, Win 7",
+  "expected_result": "Settings are kept",
+  "short_description": "Voice Settings are not saved (lost on refresh)",
+  "steps_to_repro": "- Change settings from default - Refresh "
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "5a0e65987923ffaf58703f17",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 433,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FGeJ98V9",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.1.1 & iPad Air 2 with iOS 11.2 PB 3",
+  "client_settings": "TestFlight 2.0.1 (1610)",
+  "actual_result": "It's black color.",
+  "expected_result": "Status bar should be in white color.",
+  "short_description": "[Dark Theme only] Status bar with wrong color for kick/ban screens",
+  "steps_to_repro": "- Make sure you have dark theme enabled and/or kick/ban permission - Long press a user or open the user settings via the member list - Click on `Kick` or `Ban` - Observe the color of the status bar"
+ }
+}

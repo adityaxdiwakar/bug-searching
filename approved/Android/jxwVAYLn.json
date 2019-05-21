@@ -1,0 +1,24 @@
+{
+ "id": "5971aa7f1d41ca8ec7d929b2",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 565,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jxwVAYLn",
+ "data": {
+  "system_settings": "discord.gg/Discord-Testers Android",
+  "client_settings": "Discord 4.0.0",
+  "actual_result": "it's blank and only shows the server image",
+  "expected_result": "it should say you've been invited to Discord testers",
+  "short_description": "joining a server with Custom Invite from login/register screen gives a blank screen",
+  "steps_to_repro": "- be logged out - open a custom invite from your browser ex: <discord.gg/Discord-Testers> - click on I already have the app open it! - observe"
+ }
+}

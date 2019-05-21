@@ -1,0 +1,24 @@
+{
+ "id": "5b97699cde1f661b9d34f28e",
+ "closed": false,
+ "idList": "5b2c2c15607b8393dd858ccb",
+ "idShort": 996,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sM21cZq0",
+ "data": {
+  "system_settings": "iPhone SE - iOS 11.4.1",
+  "client_settings": "TeatFlight 7106",
+  "actual_result": "A thin line shows up between each user",
+  "expected_result": "There should be no strange line in between mentions",
+  "short_description": "Changing of members in mentions leaves weird space",
+  "steps_to_repro": "- Hit your @ key - Add characters to change the number of members shown"
+ }
+}

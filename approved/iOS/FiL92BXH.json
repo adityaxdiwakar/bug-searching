@@ -1,0 +1,24 @@
+{
+ "id": "5be2800c89748c1ecfdde3ed",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1154,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FiL92BXH",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 1",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "Blue banner is stuck and says \"X new messages since 6:00pm\"",
+  "expected_result": "Blue banner disappears upon reentering the channel",
+  "short_description": "Switching channels when a bot sends an unread message causes a stuck new messages banner to appear",
+  "steps_to_repro": "- Go to a channel where you can use a bot that will invoke a response (I used Mantaro's trivia) - Invoke a command that you can respond to (Optional only if you use a bot like Mantaro) - Scroll up in the channel a little bit - Invoke a response from the bot - Make sure that the blue \"New Messages\" banner is on your screen - Switch channels without letting the blue banner disappear - Switch back to the first channel and observe the blue banner"
+ }
+}

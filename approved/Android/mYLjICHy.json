@@ -1,0 +1,30 @@
+{
+ "id": "5bfd65354989aa6670f8d3c7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2362,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mYLjICHy",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 8.0.1",
+  "actual_result": "The \"X New messages since\" banner cover the text and makes it impossible to read. So goes for the \"Connecting...\" banner if you switch to that channel while connecting",
+  "expected_result": "The \"Welcome to the server\" text should be fully visible",
+  "short_description": "\"X New messages since\" banner covers the \"Welcome to server\" header text",
+  "steps_to_repro": "- Be in a server where you have invite permissions - Ask someone to send a new message in the top channel while you're not looking at it - Switch to the channel and scroll up"
+ }
+}

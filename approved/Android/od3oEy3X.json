@@ -1,0 +1,30 @@
+{
+ "id": "5b58a7f27ce5cb329aca61d4",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1678,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/od3oEy3X",
+ "data": {
+  "system_settings": "Coolpad Mega 3, 6.0",
+  "client_settings": "Discord Alpha 713",
+  "actual_result": "You're under the Suggestions bar.",
+  "expected_result": "You should be under the \"Last channel\" bar.",
+  "short_description": "Setting the filter to users in the quick switcher and clearing the @ causes the channel list to autoscroll a bit towards the bottom.",
+  "steps_to_repro": "- Open quick switcher. - Set the filter to users. - Clear the @ . - Observe."
+ }
+}

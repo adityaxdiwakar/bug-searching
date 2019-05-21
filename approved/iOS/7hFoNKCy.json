@@ -1,0 +1,30 @@
+{
+ "id": "5b14a63d4279363dfaebdb9f",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 783,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7hFoNKCy",
+ "data": {
+  "system_settings": "iOS 11, iPad mini 2",
+  "client_settings": "TestFlight 2.3.2",
+  "actual_result": "Allows you to edit channel topic, thank god it doesn\u2019t actually save though.",
+  "expected_result": "Nothing really, I just found this whilst trying to find bugs.",
+  "short_description": "Allows you to edit channel without perms and when you click save, it doesn\u2019t  save thank god.",
+  "steps_to_repro": "- Get on a server where you have no perms to edit channel. - As fast as you can, tap \u201cmessage in (channelname)\u201d and the top bar, the name of the channel leading you to channel settings. - May take few times to repro, you have to click the bar FIRST and then quickly the message before it transfers you. you should be able to edit channel topic."
+ }
+}

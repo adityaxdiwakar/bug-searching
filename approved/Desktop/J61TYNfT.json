@@ -1,0 +1,30 @@
+{
+ "id": "5a0827cc6925a0bd715df4ad",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1371,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/J61TYNfT",
+ "data": {
+  "system_settings": "Winodws 10 x64, Creator's Update (Build 15063.674)",
+  "client_settings": "Stable 0.0.298 (Build 7127)",
+  "actual_result": "The homepage for discordapp shows instead of your friends list",
+  "expected_result": "Connection should resume and taken you to your friends list",
+  "short_description": "The home page for discordapp.com will show up mid connecting if you refresh Discord via Ctrl+R.",
+  "steps_to_repro": "- Log into Discord - When the \"Connecting...\" screen pops up, quickly Ctrl+R to refresh Discord - Observe"
+ }
+}

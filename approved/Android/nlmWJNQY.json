@@ -1,0 +1,30 @@
+{
+ "id": "5bc23021c01bab22a54039f9",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2168,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nlmWJNQY",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.7.0",
+  "actual_result": "The \"New messages\" indicator/bar/banner is missing",
+  "expected_result": "There should be a \"New messages\" indicator above the message containing the mention",
+  "short_description": "\"New messages\" bar is missing if you open Discord using a push notification",
+  "steps_to_repro": "- Go to any channel with no unread messages - Close Discord completely (i.e from recent apps) - Have someone mention you in this channel, so you get a push notification  - Open the push notification"
+ }
+}

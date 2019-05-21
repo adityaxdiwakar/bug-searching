@@ -1,0 +1,30 @@
+{
+ "id": "5b6ebde702d4007668ac98c8",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2670,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/z3dFhV4G",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 21681",
+  "actual_result": "The client crashes",
+  "expected_result": "The form closes",
+  "short_description": "Pressing ESC in the credit card form causes the client to crash",
+  "steps_to_repro": "- Navigate to the billing tab - Select add payment method - Select Credit Card - Press ESC - Observe"
+ }
+}

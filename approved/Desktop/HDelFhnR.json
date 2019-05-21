@@ -1,0 +1,30 @@
+{
+ "id": "5aeb2fab49ac2cc6d63e1bfb",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1928,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HDelFhnR",
+ "data": {
+  "system_settings": "Windows 10 Pro V1709 64Bit",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 14457, Version Hash: 3b2bbc09cb6eff6066e846f118bb93dce41fdbd8",
+  "actual_result": "The right click menu opens, but also the member list gets reloaded",
+  "expected_result": "Only the right click menu should open",
+  "short_description": "Right clicking a channel on a big server, with the member list scrolled down a bit causes the list to reload",
+  "steps_to_repro": "- Scroll down somewhere halfway in the member list- right click the text channel thats currently \"Opened\""
+ }
+}

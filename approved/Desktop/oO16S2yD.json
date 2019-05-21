@@ -1,0 +1,17 @@
+{
+ "id": "5bff6969cf4df27119a9e5c5",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3446,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/oO16S2yD",
+ "data": {
+  "system_settings": "Win10 v1709 x64 build 16299.665 Education, Chrome Version 72.0.3622.0 (Official Build) dev (64-bit)",
+  "client_settings": "stable 28533",
+  "actual_result": "Fails to load. Opening up console, spitting out json errors, then zlib, followed by app and VM errors.",
+  "expected_result": "The app should load.",
+  "short_description": "Chrome Dev failing connection to discord",
+  "steps_to_repro": "- Install Chrome Dev - Go to discord and log in - Cannot get past connecting on app load"
+ }
+}

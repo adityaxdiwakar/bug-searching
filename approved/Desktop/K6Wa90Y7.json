@@ -1,0 +1,30 @@
+{
+ "id": "5b4cf4cbef10ea528d517808",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2268,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/K6Wa90Y7",
+ "data": {
+  "system_settings": "windows 10 home x64 v1803",
+  "client_settings": "canary 18866",
+  "actual_result": "theres a a gray/grey box around it",
+  "expected_result": "shouldnt be a gray/grey box around it",
+  "short_description": "Recent Mentions X incorrectly themed",
+  "steps_to_repro": "- update to 18866 - open recent mentions - look at x"
+ }
+}

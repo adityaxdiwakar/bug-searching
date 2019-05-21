@@ -1,0 +1,30 @@
+{
+ "id": "5984a38afb948fe7311bab5d",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 590,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9zn5jxvo",
+ "data": {
+  "system_settings": "Android 7.1, https://vid.me/ZXfX https://vid.me/M4YNk https://imgur.com/a/CT1qr Nexus",
+  "client_settings": "All versions of Discord on Android for months now",
+  "actual_result": "No suggestion appears, but the emote still works if typed out manually. Recording 1: <https://vid.me/ZXfX> Recording 2: <https://vid.me/M4YNk> Screenshots (3): <https://imgur.com/a/CT1qr>",
+  "expected_result": "Emote will be suggested like all others",
+  "short_description": "Twitch emotes are not suggested",
+  "steps_to_repro": "- Be subscribed to Twitch channel - Try to use Twitch emote on Discord with suggestion (e.g. start typing with `:`)"
+ }
+}

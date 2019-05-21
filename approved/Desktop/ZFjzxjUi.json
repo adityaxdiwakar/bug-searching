@@ -1,0 +1,16 @@
+{
+ "id": "59045dc82c1eee530366c76e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 572,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZFjzxjUi",
+ "data": {
+  "system_settings": " Latest Canary, Windows 10 CU",
+  "actual_result": "It shows the staff members from the server you right clicked \"Server Settings\"",
+  "expected_result": "It should show the staff members from that server",
+  "short_description": "Filtering for staff members in a server will show you staff members from the current servers",
+  "steps_to_repro": "- Have 2 servers where there are staff members and you can acccess their audit logs - Stay in one server, and right click server settings the other one - Go to Audit Logs and click filter "
+ }
+}

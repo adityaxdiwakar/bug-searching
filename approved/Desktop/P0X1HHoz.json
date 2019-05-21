@@ -1,0 +1,30 @@
+{
+ "id": "5ac50179d8e414bfa9e3e926",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1794,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/P0X1HHoz",
+ "data": {
+  "system_settings": "iMac late 2013 10.10.5 THIS IS A MAC EXCLUSIVE BUG",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 13096, Version Hash: d4cb93c4a5df7ba7f429c7e91b42faef624530d5",
+  "actual_result": "It shows discord as a option.",
+  "expected_result": "It should not show discord.",
+  "short_description": "[MacOS] Discord canary is recognized as a game.",
+  "steps_to_repro": "- On a MacOS device, go to user settings- Go to games - Click add it"
+ }
+}

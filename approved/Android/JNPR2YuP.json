@@ -1,0 +1,30 @@
+{
+ "id": "5bdbf890487e196fd4c6f3d3",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2282,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JNPR2YuP",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Android 8.0.0",
+  "client_settings": "7.8.5",
+  "actual_result": "It scrolls to the top",
+  "expected_result": "It should stay as bottom we left",
+  "short_description": "Switching orientation while request data page is open, it scrolls all the way up in the background",
+  "steps_to_repro": "- Go to user settings -> Privacy settings - Go to the bottom and find Request Data - When you click it, It would give one more confirmation and will say that it can take up to 30 days etc . - Switch orientation - Observe that it has been scrolled up to top."
+ }
+}

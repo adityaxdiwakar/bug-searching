@@ -1,0 +1,24 @@
+{
+ "id": "5c0b28c17870ce4aae77e579",
+ "closed": false,
+ "idList": "5c082c6e851e73786a479414",
+ "idShort": 1221,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vfZrjFZG",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9714)",
+  "actual_result": "Timer freezes until the channel loads",
+  "expected_result": "Timer keeps moving while the channel loads",
+  "short_description": "Switching to an unloaded channel while an in-app notification is present freezes the timer until the channel loads",
+  "steps_to_repro": "- Make sure you can receive in-app notifications - Have someone DM you or mention you - Switch to a channel you haven\u2019t loaded and observe the in-app notification timer"
+ }
+}

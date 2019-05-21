@@ -1,0 +1,17 @@
+{
+ "id": "59b7d4cb22ecceed8f247627",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1117,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RyDxDBjG",
+ "data": {
+  "system_settings": "2010 27\" iMac, OS 10.12.6",
+  "client_settings": "Desktop Canary, 0.0154",
+  "actual_result": "A black image appears and the webcam does not turn on",
+  "expected_result": "A Preview of your webcam will appear",
+  "short_description": "Video Preview/Test shows black screen and doesn't turn on Webcam",
+  "steps_to_repro": "- Go to User Settings - Go to Voice & Video - In Video Settings, choose a working Webcam, then click \"Test Video\" in the Preview area"
+ }
+}

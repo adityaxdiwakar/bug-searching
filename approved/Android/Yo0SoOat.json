@@ -1,0 +1,30 @@
+{
+ "id": "5a1eba028c2269c71a5fa06c",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 927,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Yo0SoOat",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.7.9",
+  "actual_result": "As soon as you close the keyboard, the emojis and the mentionw won't display in bold anymore in the text field, resulting in them not being rendered after sending message",
+  "expected_result": "Emojis and mentions should parse correctly",
+  "short_description": "Sending a message while keyboard is closed won't parse emojis and mentions",
+  "steps_to_repro": "- Open the emoji picker and input some emojis - Close the keyboard completely  - Send the message - You can repeat steps above but by inputting mentions instead of emojis (can be user, role or channel mentions)"
+ }
+}

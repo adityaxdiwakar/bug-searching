@@ -1,0 +1,30 @@
+{
+ "id": "5bd912765c71e06a5ac081b8",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2261,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/i8uN1G6C",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.8.3",
+  "actual_result": "microphone test stays on after changing input method or closing settings",
+  "expected_result": "microphone testing should be turned off when exiting settings",
+  "short_description": "microphone testing stays on after closing and reopening settings or changing input method",
+  "steps_to_repro": "- open voice & video settings - click on `test my microphone` button - close settings and reopen it or change input method - notice how the microphone test is still on"
+ }
+}

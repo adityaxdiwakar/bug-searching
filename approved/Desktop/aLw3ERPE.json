@@ -1,0 +1,30 @@
+{
+ "id": "5b45880c62b81171648025e0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2256,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aLw3ERPE",
+ "data": {
+  "system_settings": "Fedora 28 with KDE Desktop Environment",
+  "client_settings": "Google Chrome 67.0.3396.99 (Official Build) (64-bit) with Canary 18240",
+  "actual_result": "The order changes on you instantly, prone to making you accidentally invite someone else",
+  "expected_result": "The friends/DM list should stay the same until you refresh it",
+  "short_description": "Invite Modal's friends/DM list is dynamically updating when shown",
+  "steps_to_repro": "- Open an invite modal on any server/channel - Have someone DM you or if you have another client open, DM someone"
+ }
+}

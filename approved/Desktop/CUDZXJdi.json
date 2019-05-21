@@ -1,0 +1,30 @@
+{
+ "id": "5b7145fbd68b42194b938b4e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2692,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CUDZXJdi",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 21705",
+  "actual_result": "The texts overlap",
+  "expected_result": "The text is shorter/gets truncated",
+  "short_description": "The State/Province/Region box text is overlapping with the Postal Code text when editing current payment settings [Outside US country specific]",
+  "steps_to_repro": "- Open Billing tab - Start editing your payment details - Have your country set outside of the US - Observe the region and postal code box text"
+ }
+}

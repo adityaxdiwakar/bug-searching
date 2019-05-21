@@ -1,0 +1,17 @@
+{
+ "id": "5c0fd72eb4db9964c84a053b",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2381,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gSVeN7H5",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 9.0 (Dec. 5th patch)",
+  "client_settings": "Discord Alpha 8.1.0",
+  "actual_result": "It'll allow you to paste the text even though you can't send any messages",
+  "expected_result": "The Paste-popup shouldn't appear and you shouldn't be able to paste text here",
+  "short_description": "Can paste text into channels where you don't have permission",
+  "steps_to_repro": "- Make sure you have text copied to your clipboard - Jump to a channel where you dont have permission to send messages through Search or QS (do NOT simply go to the channel through the channel list, this doesn't work - Long press the chat input box - Try pasting the text"
+ }
+}

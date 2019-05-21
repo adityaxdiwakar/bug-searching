@@ -1,0 +1,15 @@
+{
+ "id": "587ea4801a70724c19592fd4",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 181,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VFfBgg6s",
+ "data": {
+  "actual_result": "You get moved back into your previous voice channel",
+  "expected_result": "Works just fine",
+  "short_description": "Voice channel moving bug",
+  "steps_to_repro": "- Join voice channel - Have someone move you to another channel - Mute yourself "
+ }
+}

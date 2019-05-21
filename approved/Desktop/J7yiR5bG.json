@@ -1,0 +1,17 @@
+{
+ "id": "5a55894770192281bb67bb58",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1524,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/J7yiR5bG",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 9371",
+  "actual_result": "The text is larger and grey, it also doesn't contrast very well with the background. (See attached images)",
+  "expected_result": "The text appears how it was in previous builds: Blurple, smaller and in a different font",
+  "short_description": "Incorrect styling of server welcome message",
+  "steps_to_repro": "- Create a new server - Scroll up to the beginning of #general - Observe"
+ }
+}

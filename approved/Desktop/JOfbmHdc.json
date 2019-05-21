@@ -1,0 +1,30 @@
+{
+ "id": "5b7c3a3939c3d004d42ce7d4",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2756,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JOfbmHdc",
+ "data": {
+  "system_settings": "macOS High Sierra 10.13.6",
+  "client_settings": "Desktop Canary 22283",
+  "actual_result": "The cursor changes into a highlight cursor",
+  "expected_result": "The cursor will remain as a normal cursor, or you should be able to highlight the text",
+  "short_description": "Hovering over the date in the change log will make the cursor a highligher, even though you cannot highlight the date.",
+  "steps_to_repro": "- Open the change log - Hover your cursor over the date below the \"What's New\" title"
+ }
+}

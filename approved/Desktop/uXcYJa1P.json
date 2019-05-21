@@ -1,0 +1,16 @@
+{
+ "id": "58c73f4f0447f0ab00a9c94d",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 421,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/uXcYJa1P",
+ "data": {
+  "system_settings": " macOS 10.12.1 Beta (16B2338c), discord client 0.0.8529",
+  "actual_result": "the tts continues",
+  "expected_result": "the tts stops",
+  "short_description": "tts keeps playing after you leave a server",
+  "steps_to_repro": "- get a bunch of people to all send tts messages so you have a nice queue of messages playing - leave the server where that happened - "
+ }
+}

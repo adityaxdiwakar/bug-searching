@@ -1,0 +1,30 @@
+{
+ "id": "5a353009eb78585c8cfe9f0f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1464,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PKK33kCj",
+ "data": {
+  "system_settings": "MacOS High Sierra, 10.13.2 Beta (17C85a)",
+  "client_settings": "Canary 0.0.176",
+  "actual_result": "The install instructions are hidden by the path bar",
+  "expected_result": "The install instructions should be high enough to not be hidden by the path bar",
+  "short_description": "Install instructions hidden on MacOS when path bar is enabled",
+  "steps_to_repro": "- In finder enable the path bar(View, Show Path Bar) - Open the Discord Canary dmg"
+ }
+}

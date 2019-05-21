@@ -1,0 +1,30 @@
+{
+ "id": "5a98374ab8edf29cfe43305f",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 616,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SA0c5Xpf",
+ "data": {
+  "system_settings": "iPhone 6s & iPad Air 2, iOS 11.3 PB 3",
+  "client_settings": "TestFlight 2.2.5 (2798)",
+  "actual_result": "The keyboard disappears when clicking `Return`.",
+  "expected_result": "You should be able to fluently write a comment.",
+  "short_description": "Keyboard disappears and interrupts you writing a comment when adding linebreaks for comments for files",
+  "steps_to_repro": "- Go to any text channel/direct message - Click on the attach button - Open your camera roll - Use any image/video - Add a comment for this image/video and add linebreaks via `Return`"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bc445b8746f7e6809b9480e",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2173,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/lQ8Xbio7",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 770",
+  "actual_result": "Discord crashes.",
+  "expected_result": "Nothing out of ordinary happens.",
+  "short_description": "Discord crashes when you click on any of the 3 create options after switching orientation in the channel sorting screen.",
+  "steps_to_repro": "- Open Server settings>Channels. - Click on the (+) button in the bottom right. - Switch orientation. - Now, click on any of the 3 options (create new category, create new channel, create new VC)."
+ }
+}

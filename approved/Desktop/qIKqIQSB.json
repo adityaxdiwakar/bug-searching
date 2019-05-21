@@ -1,0 +1,17 @@
+{
+ "id": "5942832bd38bd25f1d9f49cb",
+ "closed": true,
+ "idList": "5942dfc5266d177d74629250",
+ "idShort": 759,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qIKqIQSB",
+ "data": {
+  "system_settings": "Windows 10 (x64) Build 15063.293 @ Version 1703, Discord Canary Version 0.0.157",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "Window stays and does not close",
+  "expected_result": "You can close the window/it responds to the kick/ban",
+  "short_description": "Unpin / pin window does not close upon server removal.",
+  "steps_to_repro": "- Open the unpin or pin message dialog in a server - Be kicked/banned from the server"
+ }
+}

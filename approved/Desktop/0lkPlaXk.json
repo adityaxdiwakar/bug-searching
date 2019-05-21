@@ -1,0 +1,30 @@
+{
+ "id": "5a6ddd61523f82bb9e161d45",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1600,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0lkPlaXk",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Release Channel: stable, Build Number: 10000 and  Release Channel: canary, Build Number: 10015",
+  "actual_result": "The Pop-up is offset while vibrating",
+  "expected_result": "The channel pop-up isn't offset while the screen is vibrating or the pop-up closes",
+  "short_description": "Channel Pop-up get's offset upon vibrate",
+  "steps_to_repro": "- Use the discordapp (not browser) - Read all messages accros all discord servers - Right click a channel - Use alt-shift-\u2b06\u2b07 to vibrate the screen - EXTRA - instead of reading all messages, one can use ctrl + alt + shift + \u2b06\u2b07 to vibrate the screen"
+ }
+}

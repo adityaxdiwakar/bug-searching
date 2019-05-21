@@ -1,0 +1,17 @@
+{
+ "id": "5b940feef1cda3556f0c2466",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2945,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8fGd59GE",
+ "data": {
+  "system_settings": "Windows 10 x64, 17134",
+  "client_settings": "Discord Canary, 23321",
+  "actual_result": "It is cut off due to missing space",
+  "expected_result": "There should be enough space between the \"\" and the 14.50KB text (example)",
+  "short_description": "the \"unknown.png\" is cut off by the upload size information",
+  "steps_to_repro": "- disable \"When sending directly to discord\"- send a screen shot- observe, that the  file type is cut off by (eg) 14.50KB"
+ }
+}

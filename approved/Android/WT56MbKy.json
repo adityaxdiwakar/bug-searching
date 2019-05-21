@@ -1,0 +1,17 @@
+{
+ "id": "5aa6f9e7ce45b696db0fd9cb",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1184,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WT56MbKy",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "635",
+  "actual_result": "Discord begins to open but crashes on start up, hitting restart app does not help because it will crash again",
+  "expected_result": "Discord opens to the notification",
+  "short_description": "Getting a notification while Discord is closed and device is locked causes Discord to crash when you tap the notification",
+  "steps_to_repro": "- have Discord closed - lock your device - get an @mention - unlock device - swipe down the notification bar and tap the notification"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59b06890194c9a4083887287",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 682,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5d4SDNLA",
+ "data": {
+  "system_settings": "Android 7.0, Moto G4 & LT Android Tribute",
+  "client_settings": "Discord Alpha, 5.1.2",
+  "actual_result": "User can edit the locked channel from Android but not Desktop",
+  "expected_result": "User shouldn't be able to edit a channel their locked out of on any platform",
+  "short_description": "User can edit locked Voice Channel settings on mobile with the \"Manage Channels\" permissions",
+  "steps_to_repro": "- Enable Manage Channels Permission to a role - Assign role to an Android mobile user - Have the user try editing a locked Voice Channel"
+ }
+}

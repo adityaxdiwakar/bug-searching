@@ -1,0 +1,30 @@
+{
+ "id": "5b42fa4514f3cf260dfd4b20",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1637,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PcM4WX16",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8 [SM-N950F] Android 8.0.0",
+  "client_settings": "Discord Alpha 7.0.3",
+  "actual_result": "It displays that person A added YOU. (Reversed)",
+  "expected_result": "It displays that YOU added person A.",
+  "short_description": "On android, the variables of the following string:  are reversed",
+  "steps_to_repro": "- Set your phone language to Romanian. - Have person A leave a group chat and re-add or just add someone new."
+ }
+}

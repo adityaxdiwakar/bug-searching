@@ -1,0 +1,17 @@
+{
+ "id": "5b7f0f363e74c84911f1a54f",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 938,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/v4wz6hod",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.4.1",
+  "client_settings": "TestFlight 2.3.7 (6902)",
+  "actual_result": "The characters are allowed to be typed",
+  "expected_result": "The characters shouldn't appear in the box at all",
+  "short_description": "You can type special characters in the channel name box in Create Channel",
+  "steps_to_repro": "- Go to a server where you can create channels - Select to create a text channel - Begin typing random special characters that normally aren't allowed in text channel names"
+ }
+}

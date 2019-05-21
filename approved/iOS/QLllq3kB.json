@@ -1,0 +1,30 @@
+{
+ "id": "5b57544760c16b191d562925",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 843,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QLllq3kB",
+ "data": {
+  "system_settings": "iPhone 8 Plus - iOS 11.4.1, iPad Air 2 - iOS 12 Public Beta 3",
+  "client_settings": "TestFlight 2.3.6 (6000)",
+  "actual_result": "You see no badge for friend requests.",
+  "expected_result": "The badge should increase with the friend request.",
+  "short_description": "No notification badge for friend requests",
+  "steps_to_repro": "- Close your Discord app - Receive a friend request - Observe the Discord icon"
+ }
+}

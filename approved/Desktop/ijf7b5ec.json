@@ -1,0 +1,30 @@
+{
+ "id": "5b922a2982f04788ebbb4f1e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2937,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ijf7b5ec",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS 10.13.6 - iPhone 6s, iOS 12 Public Beta 12 (16A5366a)",
+  "client_settings": "Canary 23018 - TestFlight 2.3.7 (6968)",
+  "actual_result": "The unsaved changes bar doesn't disappear despite the PATCH request being successful.",
+  "expected_result": "The save should be successful and allow you to exit the server settings panel.",
+  "short_description": "When deleting the currently selected AFK channel, you can't save changes despite the request being successful.",
+  "steps_to_repro": "- Have a server where you have Manage Server, and Manage Channels. - Create a voice channel on that server on a mobile device of choice. - On desktop, open the server settings panel for the server. - In the AFK Channel settings, select the voice channel you just created. DO NOT SAVE YET! - On the mobile device, delete the channel you selected. - The dropdown on desktop will now say \"Select...\". - Open Dev Tools. (ctrl+shift+i, or cmd+alt+i) - Open the network tab in devtools. - Click save changes. - Observe how the request made succeeds with code 200."
+ }
+}

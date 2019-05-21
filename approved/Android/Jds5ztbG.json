@@ -1,0 +1,17 @@
+{
+ "id": "5c21bb61fd9c2a0bb10f1650",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2399,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Jds5ztbG",
+ "data": {
+  "system_settings": "Note 8, Android 8.0.0",
+  "client_settings": "8.2.1",
+  "actual_result": "Not a single Discord notification is coming through when I have the app shut down.",
+  "expected_result": "You should receive notifications based off your settings, such as a notification for a dm, a ping or a channel notification.",
+  "short_description": "Push notifications not working when app fully closed",
+  "steps_to_repro": "- Set your notification preferences to alert you when you receive a dm, ping or channel notification."
+ }
+}

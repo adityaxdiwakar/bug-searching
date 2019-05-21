@@ -1,0 +1,30 @@
+{
+ "id": "5b64ae087fd2082b2c8a40f3",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1770,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2w9Fu1MX",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.3",
+  "actual_result": "The upload bar just disappears and absolutely nothing happens",
+  "expected_result": "You should get an error saying that the explicit content filter rejected it. On Desktop it is handled by Clyde sending you a client-side message",
+  "short_description": "If you're attempting to send an image flagged as explicit in a channel with explicit content filter enabled, the upload bar vanishes and you won't get any error message",
+  "steps_to_repro": "- Find an image that can potentially be flagged as explicit content - Post it in a non-NSFW channel where you have Attach Files permissions, and where the server has Explicit filter enabled for all members in Server Settings > Moderation"
+ }
+}

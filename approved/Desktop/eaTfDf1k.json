@@ -1,0 +1,30 @@
+{
+ "id": "5b85469e8e46a94f92c0fe80",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2820,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eaTfDf1k",
+ "data": {
+  "system_settings": "macOS Sierra (10.12.6)",
+  "client_settings": "Release Channel: stable, Build Number: 22658",
+  "actual_result": "Discord pops up after rebooting, instead of opening silently in the background.",
+  "expected_result": "Discord should open at login, but hidden, and should remain so until clicked.",
+  "short_description": "On macOS, adding Discord as a login item and checking the \"Hide\" box doesn't hide Discord upon restart.",
+  "steps_to_repro": "- Open \"Users & Groups\" - Click \"Login Items\" - Add Discord - Check \"Hide\" next to Discord - Reboot - Notice that Discord still pops up during login"
+ }
+}

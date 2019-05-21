@@ -1,0 +1,36 @@
+{
+ "id": "59d3fe8dab4bf8afbcb6b719",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 356,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/D639UqhM",
+ "data": {
+  "system_settings": "iPod Touch w/ iOS 10.2.1",
+  "client_settings": "iOS Testflight 1.9.2 (953)",
+  "actual_result": "The member list is cut off (you can only see the top)",
+  "expected_result": "It should properly display everything without any issues or oddities",
+  "short_description": "Member list cut off when searching members by name",
+  "steps_to_repro": "- Open \"Server Settings\" - Click \"Members\" - Click the search bar and the keyboard will pop up (everything was fine until this point)"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b8e7296fcb78425f75e8651",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2920,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xDksfzKI",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS 10.13.6 - Windows 10 Home (1803, x64)",
+  "client_settings": "Canary 23018",
+  "actual_result": "You cannot see the checkbox flipping until you unblock them again.",
+  "expected_result": "The checkbox should show flipping regardless if the user is blocked or not.",
+  "short_description": "Selecting to show a blocked user on the games tab will not update the checkbox.",
+  "steps_to_repro": "- Find a random user. - Make sure that \"Show on Games Tab\" is unchecked. - Block the user. - Right click them again, and click \"Show on Games Tab\". - The checkbox will not flip. - Unblock the user. - Right click again and observe the checkbox flipped."
+ }
+}

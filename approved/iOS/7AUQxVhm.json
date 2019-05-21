@@ -1,0 +1,17 @@
+{
+ "id": "5bb942ecc2bf744afb7daa8d",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1065,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7AUQxVhm",
+ "data": {
+  "system_settings": "iOS 12.0, iPhone X",
+  "client_settings": "2.3.8",
+  "actual_result": "Join button is too low (inside safe area)",
+  "expected_result": "Join button should be higher up, outside the safe area",
+  "short_description": "Server Join button on iPhone X inside safe area",
+  "steps_to_repro": "- Use iPhone X - Try to join a server using an invite link"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a9a019aab9d7917e057e508",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1159,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tbPW8DiD",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "630",
+  "actual_result": "it doesn't do anything",
+  "expected_result": "the search key searches",
+  "short_description": "Tapping the search button, typing in a search then hitting the search key on your keyboard doesn't do anything",
+  "steps_to_repro": "- hit search button - type something in, like \"test\" - hit your keyboards enter key (which should now be a magnifying glass) - notice nothing happens"
+ }
+}

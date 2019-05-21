@@ -1,0 +1,17 @@
+{
+ "id": "5c1b03ab22f5fa8977fd3e75",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3524,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pKONWqM9",
+ "data": {
+  "system_settings": "Ubuntu 18.04.1, Gnome 3, Kernel 4.15.0-42-generic",
+  "client_settings": "Discord Canary 30144, Launcher version 0.0.64",
+  "actual_result": "Program returns \"Well this is awkward\" crash (see attached image for crash log)",
+  "expected_result": "Discord opens normally",
+  "short_description": "[Fixed while in User reported] Discord crashes on load [Build 30144]",
+  "steps_to_repro": "- Update to Discord Canary 30144 on Launcher 0.0.64 - Load/open discord"
+ }
+}

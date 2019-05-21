@@ -1,0 +1,15 @@
+{
+ "id": "58197a964e0f6027be56b30e",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 85,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LS895Ig0",
+ "data": {
+  "actual_result": "The markdown shows up as plain-text.",
+  "expected_result": "Normal display of the commit SHA.",
+  "short_description": "Improper GitHub webhooks display",
+  "steps_to_repro": "- Send a commit to any Repo that has a webhook into a Discord channel. "
+ }
+}

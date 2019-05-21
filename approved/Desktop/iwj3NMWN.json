@@ -1,0 +1,30 @@
+{
+ "id": "5bed172ff221c78bb5a6a089",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3390,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iwj3NMWN",
+ "data": {
+  "system_settings": "[SUPER SPECIFIC] Microsoft Windows Version 1809 (OS Build 17763.134)",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 27981 / [SUPER SPECIFIC] Microsoft Edge 44.17763.1.0 Microsoft EdgeHTML 18.17763",
+  "actual_result": "The modals for the Rich Presence are popping out and is broken",
+  "expected_result": "The modals for the Rich Presence are supposed to be displayed correctly",
+  "short_description": "Rich Presence Modal pops out when speculated through Microsoft Edge",
+  "steps_to_repro": "- Get Microsoft Edge - Go to Discord web client- Login - Go to any random server you would prefer - Check for a Rich Presence that you or your friend has - Click on their profile - Click on the game (The title) - There is a list of ones that I've found: Fortnite, League of Legends, Minecraft, Grand Theft Auto V, The Sims 3, Destiny 2 (This list may work or not for you, it worked for me) - Watch attachment if you are confused - More information: I have submitted this bug earlier but got denied two times from two individuals because they were on EdgeHTML 17 while I was on EdgeHTML 18, it's specific!!! This EdgeHTML version is acquired through the Windows 10 1809 update..."
+ }
+}

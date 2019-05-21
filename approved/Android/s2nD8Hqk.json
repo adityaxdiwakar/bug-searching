@@ -1,0 +1,23 @@
+{
+ "id": "58988f7b01c77a64ee3206c8",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 212,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/s2nD8Hqk",
+ "data": {
+  "system_settings": " OnePlus 3, Android 7.0.0, Discord Alpha",
+  "actual_result": "The link part gets formatted and it seems like its clickable",
+  "expected_result": "The mention would be like any other mention",
+  "short_description": "Nicknames with link show up as clickable",
+  "steps_to_repro": "- Ask a friend to change nickname with some link - Step 2 - Mention him "
+ }
+}

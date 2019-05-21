@@ -1,0 +1,30 @@
+{
+ "id": "5bee2054ed26b237b13dce11",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3396,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/q7XL0XPh",
+ "data": {
+  "system_settings": "windows 10 home 64-bit ver (1803)",
+  "client_settings": "canary, Build Number: 27933",
+  "actual_result": "i can't type anything in unless i click on the text field to select it",
+  "expected_result": "i should be able to insert text in the share modal instantly as it's the only text field i can type in on screen",
+  "short_description": "dragging and dropping a file from another monitor no longer automatically selects the share modal's input field",
+  "steps_to_repro": "- fullscreen discord on another monitor - drag and drop the file in discord - notice how you can't start typing unless you click on the text field"
+ }
+}

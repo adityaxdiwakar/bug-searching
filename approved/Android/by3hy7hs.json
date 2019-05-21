@@ -1,0 +1,30 @@
+{
+ "id": "5b081bc5144ecf0225e1f25f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1469,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/by3hy7hs",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.0",
+  "actual_result": "Welcome system message is the only one that allows quick mentionning people",
+  "expected_result": "It should be consistent and either allow Quick Mentions on all system messages or disable for all",
+  "short_description": "Inconsistency about Quick Mention feature on system messages",
+  "steps_to_repro": "- Find a system message that welcomes a user - Tap on the user's name in the message - Notice that a mention is inserted in the chat box - Now do the same but for a system message saying that a message was pinned - Notice it does nothing"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58a51767a7c8a18a7aa982dd",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 385,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ztvrcedV",
+ "data": {
+  "system_settings": " Win10AU, Latest Canary (0.0.153??)",
+  "actual_result": "it's not",
+  "expected_result": "grey bar is touching the far right, as consistent with other settings windows",
+  "short_description": "grey bar not consistent on security page",
+  "steps_to_repro": "- Open user settings, to the security page - have 2FA on "
+ }
+}

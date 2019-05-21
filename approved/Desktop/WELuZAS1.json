@@ -1,0 +1,24 @@
+{
+ "id": "59489b49bfc1d68bfb657886",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 777,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WELuZAS1",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, 0.0.157",
+  "actual_result": "First embed would not have an image",
+  "expected_result": "Both embeds to display the same image",
+  "short_description": "Embedded images are not displayed if their link is a redirect",
+  "steps_to_repro": "- create an embed with the link \"<https://discordapp.com/api/users/118454446849130499/avatars/1ccb95ba31e13807c9138b9c0ed753e6.jpg>\" - create another embed with the link: \"<https://images.discordapp.net/avatars/118454446849130499/1ccb95ba31e13807c9138b9c0ed753e6.jpg>\" (they both point to the same picture)"
+ }
+}

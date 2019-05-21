@@ -1,0 +1,17 @@
+{
+ "id": "5b91547661541102863833d9",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 967,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CHOXDnm2",
+ "data": {
+  "system_settings": "ipod Touch 6th generation, ios 11.4.1",
+  "client_settings": "Stable 2.3.7 and TestFlight 2.3.7 (6968)",
+  "actual_result": "The sentence try again later is cut off at the t in try and again is completely gone.",
+  "expected_result": "The sentence \"You are changing your username or Discord Tag. Try again later.\", is formatted correctly to where you can see \"try again later\".",
+  "short_description": "[English - 4 inch device, Another Language - 5.5 inch only] When you get rate limited for changing your username, the message that appears is not formatted correctly and the word try again is cut off.",
+  "steps_to_repro": "- Go to user setting and then go to account  - next change your name and enter your password - repeat step two until you are hit with a message   - obverse the message"
+ }
+}

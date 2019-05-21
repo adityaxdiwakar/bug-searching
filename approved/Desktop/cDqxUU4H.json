@@ -1,0 +1,24 @@
+{
+ "id": "592768c9b9676d29a0b9a09c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 675,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cDqxUU4H",
+ "data": {
+  "system_settings": "MacOS 10.12.3, Chrome 57.0.2987.133 (Official Build) (64-bit)",
+  "client_settings": "Latest Canary, but this shouldn't be relevant",
+  "actual_result": "It's white but turns blurple upon hover",
+  "expected_result": "The button is blurple and turns white when hovered over",
+  "short_description": "\"Continue to Discord\" button is inverted on the invite landing.",
+  "steps_to_repro": "- Go to an invite like in the browser on a machine with Discord installed - Switch back to the browser and witness the white \"Continue to Discord\" button"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bf379fb33d23e522e679ca6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2333,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ooqnoWXk",
+ "data": {
+  "system_settings": "OnePlus 5 Android 8.1",
+  "client_settings": "Discord Alpha 7.9.6",
+  "actual_result": "It's not rendering the code block and is escaped",
+  "expected_result": "There should be single line code block like on desktop",
+  "short_description": "When posting an embed with masked description and a single line code block. The single line code block is not rendered and is escaped",
+  "steps_to_repro": "- Post a rich embed with a masked link [potatoes](any_https_link_here) and put backticks around the potatoes part - Observe how the single line code block is not rendered at all and just shows the masked link"
+ }
+}

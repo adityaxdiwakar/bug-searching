@@ -1,0 +1,30 @@
+{
+ "id": "5b7eeccf150b083ec0d8a8c6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2776,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/18uxaIS1",
+ "data": {
+  "system_settings": "Windows 7 Enterprise x64",
+  "client_settings": "stable, Build Number: 22333, Version Hash: 76f317c0de4b335c5f692213a60f2fe4d1679c4e",
+  "actual_result": "I cant hear them speaking. After rejoining and leaving the VC repeatedly.",
+  "expected_result": "The person speaking should be heard clearly.",
+  "short_description": "two people with priority speaker doesnt work",
+  "steps_to_repro": "- Join a server - Join a voice channel - Make a role - Put Priority Speaker on it - Assign it to 2 different people - Make them both join the same voice channel - Have one speak at a time - Watch"
+ }
+}

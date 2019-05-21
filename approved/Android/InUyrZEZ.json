@@ -1,0 +1,30 @@
+{
+ "id": "5a664c4cfa13155327ca2a3a",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1054,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/InUyrZEZ",
+ "data": {
+  "system_settings": "ASUS Nexus 7 2013 v6.0.1 ()",
+  "client_settings": "Android Discord Version 6.0.5",
+  "actual_result": "When Discord abruptly closes the call, you cannot remove the notification.",
+  "expected_result": "Discord should've removed the Call notification when the call was forcibly closed.",
+  "short_description": "\"RTC Connecting...\" for a few seconds followed by you getting kicked out and Discord's call notification stuck.",
+  "steps_to_repro": "- Connect to a network connection that specifically has Discord's VoIP service blocked (for me, a public library) - Join a Voice Channel of your choice (I was using the server location US West) - Wait a few moments, you should get kicked out - Go to your notification bar and voila, you can't get rid of it unless you \"Force Stop\" Discord. (See:  for Video of It)"
+ }
+}

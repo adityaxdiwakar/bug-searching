@@ -1,0 +1,30 @@
+{
+ "id": "5b5a5e9df07cf42d3b5fdca8",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 850,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/d8fZzCf3",
+ "data": {
+  "system_settings": "iPhone 8 Plus - iOS 11.4.1, iPad Air 2 - iOS 12 Public Beta 3",
+  "client_settings": "TestFlight 2.3.6 (6059)",
+  "actual_result": "Multiple roles will be created.",
+  "expected_result": "Only one role should be created.",
+  "short_description": "Multiple roles created when clicking multiple times on create role button",
+  "steps_to_repro": "- Make sure you have Manage Roles permission - Open server settings - Go to \"Roles\" - Click multiple times as fast as you can on the \"Create role\" button to create a role"
+ }
+}

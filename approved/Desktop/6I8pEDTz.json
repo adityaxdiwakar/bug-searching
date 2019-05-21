@@ -1,0 +1,30 @@
+{
+ "id": "5c3453c1fc31654991c90b70",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3588,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6I8pEDTz",
+ "data": {
+  "system_settings": "Win 10 64x (1809)",
+  "client_settings": "Canary 30318 (0.0.226)",
+  "actual_result": "The user/bot shows as not talking until they stop and start talking again.",
+  "expected_result": "The user/bot will show as talking",
+  "short_description": "[Overlay] Accounts which are contently talking prior and after opening overlay do not light up.",
+  "steps_to_repro": "- Get someone to contently have their Microphone Active, or use a Music bot with a song that's kinda long. - Open a game with Overlay - Observe the current people current people talking in voice"
+ }
+}

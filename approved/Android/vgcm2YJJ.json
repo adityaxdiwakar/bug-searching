@@ -1,0 +1,30 @@
+{
+ "id": "5b84917dbe8d7e5682871a0f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1890,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vgcm2YJJ",
+ "data": {
+  "system_settings": "Samsung Galaxy S9+/S6, Android 8.0/7.0",
+  "client_settings": "Android Alpha 7.4.0",
+  "actual_result": "Displays names and nicknames",
+  "expected_result": "Showing Voice channels",
+  "short_description": "Quick Switcher missing feature",
+  "steps_to_repro": "- Open Discord - Click on the Quick Switcher Icon - Insert exclamation mark (!)"
+ }
+}

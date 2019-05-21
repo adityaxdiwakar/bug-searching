@@ -1,0 +1,17 @@
+{
+ "id": "5bc436c867ce835f104fb7fa",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1090,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/E8xHz9u9",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12",
+  "client_settings": "TestFlight 2.3.9 (7858)",
+  "actual_result": "Final few words do not show",
+  "expected_result": "Full warning message should be displayed",
+  "short_description": "[iPhone XS Max] Quick switcher error text gets cut off",
+  "steps_to_repro": "- Ensure larger accessibility sizes is disabled and set your text size (in settings) identical to the attached picture - Open the quick switcher - Type some random characters - Observe the warning text"
+ }
+}

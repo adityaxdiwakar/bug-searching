@@ -1,0 +1,30 @@
+{
+ "id": "5a15a769562db6cb028c40e5",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 915,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6oFfoSOz",
+ "data": {
+  "system_settings": "Galaxy S8+, 7.0",
+  "client_settings": "android 574",
+  "actual_result": "the screen goes to sleep",
+  "expected_result": "the screen should stay on because it is a call",
+  "short_description": "Screen Locks Due To Inactivity During Video Call",
+  "steps_to_repro": "- Step 1  join a video call Step 2: wait for the amount of time you have set to have you're screen go to sleep"
+ }
+}

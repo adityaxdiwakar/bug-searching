@@ -1,0 +1,30 @@
+{
+ "id": "5a37887d0db9c59869a7fb03",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1470,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NhY8JmpO",
+ "data": {
+  "system_settings": "macOS high sierra 10.13.2",
+  "client_settings": "Discord canary v0.0.176",
+  "actual_result": "Role goes out of bounds",
+  "expected_result": "Role shows normally in profile",
+  "short_description": "Long role name breaks in members page",
+  "steps_to_repro": "- Create a role with a very long name  - Assign it to someone - Go to the members page, select the role and open the users role page through the +1 button"
+ }
+}

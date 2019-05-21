@@ -1,0 +1,30 @@
+{
+ "id": "5b828e3ed0454b500175f611",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2806,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/T9tkx1bX",
+ "data": {
+  "system_settings": "Win 7 x64",
+  "client_settings": "Discord Canary 6372 (Stable Release)",
+  "actual_result": "Steam Overlay immediately begins taking screenshots as rapidly as possible, stopping only when Steam Overlay is opened or game is closed",
+  "expected_result": "Discord Overlay opens without issue",
+  "short_description": "Discord Overlay causes Steam Overlay to take constant screenshots without input until Steam Overlay is opened",
+  "steps_to_repro": "- Open Monster Hunter: World with both Steam Overlay and Discord Overlay active - Set Steam Overlay screenshot Shortcut to \"None\" - Test that no single key takes a screenshot - Press Ctrl + Tab to open Discord Overlay"
+ }
+}

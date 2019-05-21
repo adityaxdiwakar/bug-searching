@@ -1,0 +1,17 @@
+{
+ "id": "5b4e2580cbe345423ccbdd45",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2289,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/jF56HEfy",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Discord Canary 0.0.211",
+  "actual_result": "A really broken view",
+  "expected_result": "The classic actual Compact mode",
+  "short_description": "Compact mode is broken",
+  "steps_to_repro": "- Enable Compact mode under the Appearance tab - Open a channel with text"
+ }
+}

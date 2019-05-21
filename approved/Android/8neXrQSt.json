@@ -1,0 +1,36 @@
+{
+ "id": "5ad08272d1503b19057b3de4",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1262,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8neXrQSt",
+ "data": {
+  "system_settings": "Moto G5+ Android 8.1 (ARMv8A (ARM64))",
+  "client_settings": "Discord Android Alpha 6.4.7 (647)",
+  "actual_result": "the text is messed up and hardly legible. It's on the side and you can scroll up.",
+  "expected_result": "the text should appear legible and normally but just for smaller screens",
+  "short_description": "(Android 7.0+) split screen messes up invite text",
+  "steps_to_repro": "- open YouTube - long press the recent apps button - press the homescreen - open Discord - use an invite (you don't have to join)"
+ }
+}

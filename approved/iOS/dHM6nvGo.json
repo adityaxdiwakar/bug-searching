@@ -1,0 +1,17 @@
+{
+ "id": "5b749f22732142368a9854f1",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 916,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dHM6nvGo",
+ "data": {
+  "system_settings": "iPhone 8 Plus - iOS 11.4.1, iPad Air 2 - iOS 12 Public Beta 5",
+  "client_settings": "TestFlight 2.3.7 (6784)",
+  "actual_result": "It scrolls to the top of the emojis.",
+  "expected_result": "It should keep the position when opening/closing the keyboard.",
+  "short_description": "Closing/opening the keyboard automatically scrolls to the top of the emoji picker",
+  "steps_to_repro": "- Long hold on a message - Click `Add Reaction` - Scroll a bit down in the emoji list - Close your keyboard"
+ }
+}

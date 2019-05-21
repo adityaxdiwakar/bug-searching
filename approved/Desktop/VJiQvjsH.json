@@ -1,0 +1,30 @@
+{
+ "id": "5bab23b9d79b294b6f63652e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3037,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VJiQvjsH",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 24611",
+  "actual_result": "The cursor is an arrow, but click opens the mini profile",
+  "expected_result": "Either the cursor turns into a hand to show the name is clickable, or mini profile doesn't open",
+  "short_description": "Hovering over the names of friends in a voice channel on the activity tab shows a pointer cursor despite names being clickable",
+  "steps_to_repro": "- Get multiple friends to join a voice channel (around 4-5) - Make sure all of them are set to show on the activity tab - Go to the activity tab and find the name of the voice channel - Hover over any of the names - Click the name"
+ }
+}

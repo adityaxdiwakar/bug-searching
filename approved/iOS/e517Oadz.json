@@ -1,0 +1,30 @@
+{
+ "id": "5a13afddd555ad071b8bdca9",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 439,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/e517Oadz",
+ "data": {
+  "system_settings": "iPhone 8 Plus, iOS 11.2 (PB4)",
+  "client_settings": "Discord TestFlight 2.0.1 (Build 1610)",
+  "actual_result": "The resulting uploaded image is a tiny thumbnail, usually a 120 x 90 sized picture.",
+  "expected_result": "(Edited) Picture uploads in full size format, like it would unedited (or as it does for non-HEIF pictures, or pictures browsed from Camera Roll, even edited).",
+  "short_description": "Sending an edited picture sends a very tiny thumbnail (120x90, usually, sometimes a blank jpg of 0 bytes) instead of the full sized picture (HEIF only)",
+  "steps_to_repro": "- Make sure HEIF (High Efficiency) format is enabled in Camera => Formats. Using default Camera app with Live Photo on, default Photo mode. - Take a picture in the Camera app. - Go to Photos app and edit the picture you just took, seemingly any edit (cropping a bit, rotating, auto tune etc) works, then save the edit with Done. - Upload the just edited picture with Paperclip => Tap the picture in the recent list there. Browsing the picture in Camera Roll won't produce the issue."
+ }
+}

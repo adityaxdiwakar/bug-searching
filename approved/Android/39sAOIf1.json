@@ -1,0 +1,17 @@
+{
+ "id": "5a41dd4bfa0ee9addffaacde",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1001,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/39sAOIf1",
+ "data": {
+  "system_settings": "LG X Power, Android 6.0.1",
+  "client_settings": "Android Alpha v5.9.7",
+  "actual_result": "The Unhandled Link popup appears",
+  "expected_result": "The link should take you to google, or not create at all (one of two)",
+  "short_description": "Typing a link without http and tapping the hyperlink gives Unhandled Link",
+  "steps_to_repro": "- Create a link without http:// (I used  for example) - Tap on the link"
+ }
+}

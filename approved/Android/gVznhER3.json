@@ -1,0 +1,30 @@
+{
+ "id": "5ae97faf889b5f90ac2957ea",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1353,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gVznhER3",
+ "data": {
+  "system_settings": "Android 6.0.1 (Marshmallow)",
+  "client_settings": "Discord for Android, v.6.5.6",
+  "actual_result": "The underscore and the space appear correctly, but the emoji doesn't appear. Instead, it gives a string of numbers",
+  "expected_result": "The message appears as an underscore, the space, and the emoji.",
+  "short_description": "When trying to send a message which starts with an underscore, then follows with a space, and then with an emoji which the name of ends with an underscore, it completely glitches.",
+  "steps_to_repro": "Find or make an emoji which the name of ends with an underscore. In my case, it's <:o_:422323233623375873> Then, send a message in the following syntax: an underscore, a space, and the emoji ending with an underscore. In my case, `_ <:o_:422323233623375873>`."
+ }
+}

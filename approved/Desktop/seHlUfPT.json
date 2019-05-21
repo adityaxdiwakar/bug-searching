@@ -1,0 +1,17 @@
+{
+ "id": "5b874db9a6cc9b8c7b45a77a",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2832,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/seHlUfPT",
+ "data": {
+  "system_settings": "MacOs Sierra 10.12.6.",
+  "client_settings": "Desktop Canary, build 22791.",
+  "actual_result": "The beginning of the URL is going to the left but the rest of the URL isn't appearing.",
+  "expected_result": "The rest of the URL is supposed to appear.",
+  "short_description": "Scrolling to the right of an URL container does not work.",
+  "steps_to_repro": "- Go to a server's settings in \"Widget\" or \"Webhooks\". - Scroll to the right of an URL container to reveal the rest of the URL."
+ }
+}

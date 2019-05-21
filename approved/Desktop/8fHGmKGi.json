@@ -1,0 +1,30 @@
+{
+ "id": "5ab689477a369a1d06bb98f2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1756,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8fHGmKGi",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.3",
+  "client_settings": "Discord Canary 0.0.186 (Build: 12608)",
+  "actual_result": "Some emojis/reactions with a special format get stretched.",
+  "expected_result": "All reactions/emojis should be shown with the correct format.",
+  "short_description": "Some reactions get stretched for the menu with all reactions",
+  "steps_to_repro": "- Find a message with some reactions or add some - Hover over the message and click on the 3 dots - Now click on `Reactions` - Observe some emojis there"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58afd1fa02ef633e4dd8f65f",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 253,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/p8ijWanc",
+ "data": {
+  "system_settings": " Android 5.1 Discord 3.3.4.1",
+  "actual_result": "it doesn't",
+  "expected_result": "tag should work",
+  "short_description": "tags don't work when uploading a picture",
+  "steps_to_repro": "- click the keyboard icon - tag someone - send message "
+ }
+}

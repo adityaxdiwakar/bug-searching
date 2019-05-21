@@ -1,0 +1,17 @@
+{
+ "id": "5c3759678fcf168db248d28a",
+ "closed": false,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 1253,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dg1Xwp8L",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.3 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.2 (10573)",
+  "actual_result": "The entry allows you to edit the name while the delete buttom is visible",
+  "expected_result": "The entry closes to hide the delete option",
+  "short_description": "Able to edit an emoji name while the entry is swiped over",
+  "steps_to_repro": "- Go to a server where you can manage emoji - Go into the emoji tab on settings - Swipe one of the entries over so you see the delete option - Tap on the emoji entry like you were going to edit the name - Observe the screen"
+ }
+}

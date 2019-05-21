@@ -1,0 +1,30 @@
+{
+ "id": "5b36d0a1ce7aac75d8248655",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 824,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I11Th8iU",
+ "data": {
+  "system_settings": "iOS 11.3.1, iPhone 7",
+  "client_settings": "TestFlight 2.3.4 (5548)",
+  "actual_result": "Occasionally a default Discord avatar with flash in the place of the group dm icon.",
+  "expected_result": "You are worthlessly spamming a joined button.",
+  "short_description": "Spam clicking Joined button on group DM invite causes group DM avatar to flash to a normal discord one.",
+  "steps_to_repro": "- Be in a group dm. - Create a group dm invite. - Post it. - Spam click the joined button."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5aa557408d1af2aa3abd624c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1179,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NxLluTCY",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.3.4",
+  "actual_result": "On Android the link is parsed with the mention in it. Personally I found this bug when pasting a link ending with an anchor tag (#) that matched with a channel name.",
+  "expected_result": "As on desktop, the link should end before the mention",
+  "short_description": "Putting a mention right after a link will include the mention inside the link",
+  "steps_to_repro": "- In the chat input, paste a link.  - Append a mention right after the link, without space between. It should look like this  (e.g https://www[dot]google[dot]com[at/hash]mention (replace with correct symbols)"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "5ae2b347a587fd8221126a0c",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1329,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UnwiwOtn",
+ "data": {
+  "system_settings": "Xiaomi 4X, Android 7.1.2",
+  "client_settings": "Discord Beta 6.5.6",
+  "actual_result": "If doesn't let you scroll, you have to make the split screen bigger to choose the last option, I think in smaller screens it get a little bit worse",
+  "expected_result": "It should be able to scroll the filter, even if it only have a option and you can make the split screen bigger to solve it. But it can be a little bit worse in smaller screens",
+  "short_description": "You can't scroll the channel search filter if it's in smaller split screen",
+  "steps_to_repro": "- Put the discord in split screen and reduce even more - Click the channel finder icon, the first one in the user, config and mention bar - Click the filter and it doesn't scroll"
+ }
+}

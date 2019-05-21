@@ -1,0 +1,23 @@
+{
+ "id": "58c1cbd2efca1f6fe2f73de4",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 408,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Vp1il3lQ",
+ "data": {
+  "system_settings": " Arch linux 0.15 canary",
+  "actual_result": "the text in the search box gets offset upwards",
+  "expected_result": "cursor moves to the start of the line",
+  "short_description": "search bar text offsetable with page up button",
+  "steps_to_repro": "- open search - press page up"
+ }
+}

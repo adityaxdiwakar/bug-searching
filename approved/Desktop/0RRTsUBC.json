@@ -1,0 +1,30 @@
+{
+ "id": "5b713b6caadc216dd1322e8c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2690,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0RRTsUBC",
+ "data": {
+  "system_settings": "Firefox Quantum 61.0.1, macOS Sierra 10.12.6",
+  "client_settings": "Canary 21705",
+  "actual_result": "You get an empty gray screen and nothing happens till reload",
+  "expected_result": "It brings you to the keybinds tab like on the app",
+  "short_description": "Clicking the blue clickable text under the Priority Speaker permission brings you to an empty screen",
+  "steps_to_repro": "- Open Discord on Firefox - Go to server settings - Go to the roles tab - Scroll down on a role's permissions - Click on the blue clickable text that says \"Push to Talk (Priority)\""
+ }
+}

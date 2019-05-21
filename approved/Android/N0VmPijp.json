@@ -1,0 +1,30 @@
+{
+ "id": "5c3008ffcc8f0022636fe41f",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2411,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/N0VmPijp",
+ "data": {
+  "system_settings": "Mi A2, Android 9, 5th December 2018 update",
+  "client_settings": "Android Alpha 8.2.3",
+  "actual_result": "Menu returns to the mentions: user option at the top of the screen (still can scroll up) - CNR on the \"has\" search option",
+  "expected_result": "Full menu should return to the top",
+  "short_description": "Backspacing a search option doesn't scroll back up to the top (reporting as per Dabbit's request)",
+  "steps_to_repro": "- Make sure you have an 18:9 phone, doesn't affect 16:9 phones - Open the search tool in a server - Tap on a search option - Backspace the whole thing"
+ }
+}

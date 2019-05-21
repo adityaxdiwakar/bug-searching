@@ -1,0 +1,30 @@
+{
+ "id": "5afd7a699c800cee98bb23a4",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1428,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/S2wcoCZR",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.7.2",
+  "actual_result": "The link is shown between parentheses after the text. I believe it's a bug because when you compare to Desktop you can see that it's formatted correctly, knowing that the same string is used on both clients, and also on some devices you can reveal the original markdown syntax by splitting your screen (simply see attachment if you cannot repro that, that doesn't matter)",
+  "expected_result": "The link should be formatted as \"visit our **__translation site__**\" with `translation site` underlined and blue, and when clicked you are taken to the i18n site",
+  "short_description": "The i18n link isn't properly formatted in Language settings",
+  "steps_to_repro": "- Go to Settings > Language - Look at the i18n link- hold down the multitask button to enable split screen"
+ }
+}

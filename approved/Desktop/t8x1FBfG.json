@@ -1,0 +1,17 @@
+{
+ "id": "59c53a23e4531da96bab3d93",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1183,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/t8x1FBfG",
+ "data": {
+  "system_settings": "W10x64",
+  "client_settings": "Canary 4730",
+  "actual_result": "Nothing, the emoji appears as if it was sent",
+  "expected_result": "The emoji should turn red or something to indicate it wasn't sent",
+  "short_description": "Emoji only DM to user that disabled DMs from server doesn't show as failed",
+  "steps_to_repro": "- Get a user to disable messages from members on server - Ensure you have no other mutuals and that you aren't friends - Send emoji to the user via DM"
+ }
+}

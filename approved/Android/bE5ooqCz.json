@@ -1,0 +1,30 @@
+{
+ "id": "59d8fad3d3904ac5c71ada16",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 795,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bE5ooqCz",
+ "data": {
+  "system_settings": "Alcatel Idol 3 4.7, Android 6.0.1 (LineageOS 13.0)",
+  "client_settings": "Discord Alpha 5.3.0 (530)",
+  "actual_result": "It's English string with date in selected language format",
+  "expected_result": "\"XX New Messages\" bar is localized using language selected in Discord",
+  "short_description": "Discord uses English language for 'New Messages' string",
+  "steps_to_repro": "- Select any language other than English in Discord settings - Go to channel where you have unread messages"
+ }
+}

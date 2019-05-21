@@ -1,0 +1,24 @@
+{
+ "id": "59bd59839ce87fe9e46d76b8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1143,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DGkVOG2P",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit",
+  "client_settings": "Discord Canary v0.0.163",
+  "actual_result": "It sends the edit message as actual text",
+  "expected_result": "It edits your latest message's text according to your parameters",
+  "short_description": "s/from/to message editing doesn't work",
+  "steps_to_repro": "- Type a message (eg: \"a1c\") - Try to edit it using s/from/to syntax (eg: \"s/1/b\")"
+ }
+}

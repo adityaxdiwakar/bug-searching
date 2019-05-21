@@ -1,0 +1,24 @@
+{
+ "id": "59ebd93129dfc266e7a1ee35",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 830,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/P219w0H5",
+ "data": {
+  "system_settings": "Android 7.0 Moto G4",
+  "client_settings": "Android Alpha 5.4.3",
+  "actual_result": "The numbers are cutoff",
+  "expected_result": "The numbers shouldn't be cutoff",
+  "short_description": "2fa server delete box is cut off",
+  "steps_to_repro": "- Have 2fa enabled on your account - Create a server - Go to Server Settings - Click Overview - Click Delete Server in the top right corner - Type either \"6\" \"8\" or \"9\""
+ }
+}

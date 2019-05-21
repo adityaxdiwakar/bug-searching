@@ -1,0 +1,17 @@
+{
+ "id": "5bf4a3f854be97534f0701a5",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2338,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zCC6Evru",
+ "data": {
+  "system_settings": "ZTE Z557BL, Android 7.1.1",
+  "client_settings": "7.9.8 (798)",
+  "actual_result": "Text cuts off like \"Rece...\"",
+  "expected_result": "Text at top should say something involving \"Recent\".",
+  "short_description": "Heading text cuts off in recent mentions page.",
+  "steps_to_repro": "- Open Discord and tap your mentions button in the button left between the search and settings buttons."
+ }
+}

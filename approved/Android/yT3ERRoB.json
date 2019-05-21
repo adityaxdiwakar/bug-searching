@@ -1,0 +1,17 @@
+{
+ "id": "5bcb5cbbc2800b026d7500c1",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2207,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yT3ERRoB",
+ "data": {
+  "system_settings": "Android GT-S7580 4.2.2",
+  "client_settings": "7.5.2",
+  "actual_result": "All Of The Servers You Are In Will Have The Verified Mark Until You Restart Discord.",
+  "expected_result": "Everything Should Be Normal.",
+  "short_description": "[Android 4.2.2 Specific]By switching from a verified Discord server to an unverified one it might show a verified mark next to the server name.",
+  "steps_to_repro": "- Go To A Verified Server. - Switch To A Unverified Server"
+ }
+}

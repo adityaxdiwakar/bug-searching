@@ -1,0 +1,30 @@
+{
+ "id": "5aa98ffb0c3defdd4747fa51",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1199,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LyeCAktH",
+ "data": {
+  "system_settings": "LG Xpower 6.0.1",
+  "client_settings": "Alpha 6.3.7",
+  "actual_result": "speaking indicator is stuck until i use ptt button again",
+  "expected_result": "speaking indicator should dissapear when I let go of button",
+  "short_description": "Stuck voice indicator",
+  "steps_to_repro": "- enter voice channel using PTT (push to talk) - hold PTT button while other person change channel permissions (need to sorta recconect to channel) - let go of ptt button"
+ }
+}

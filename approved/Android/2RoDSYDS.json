@@ -1,0 +1,30 @@
+{
+ "id": "5b97f6cc11768e58ee4e10fa",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1973,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2RoDSYDS",
+ "data": {
+  "system_settings": "EmoticonUI 2.0 Lite",
+  "client_settings": "TestFlight 7.4.8 Build (748)",
+  "actual_result": "The buttons move at a different speed",
+  "expected_result": "The animation should move at the normal speed",
+  "short_description": "Voice settings buttons moving at a different speed",
+  "steps_to_repro": "- Open voice settings  - Toogle any button and watch the animation"
+ }
+}

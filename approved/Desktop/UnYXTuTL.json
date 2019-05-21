@@ -1,0 +1,24 @@
+{
+ "id": "5b5be8bc7d9a137a06d51bea",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2462,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UnYXTuTL",
+ "data": {
+  "system_settings": "iPhone 8+, iOS 12 Developer Beta 4",
+  "client_settings": "New Developer Portal Website, iOS Safari",
+  "actual_result": "Your images glitch out of place",
+  "expected_result": "Your images shouldnt move",
+  "short_description": "[Website Bug] Images glitch while scrolling upon refresh ***could be 5.5 inch screen specific***",
+  "steps_to_repro": "- Refresh page - **Immediately** scroll down past bottom and dont let go of screen - Observe glitching of images"
+ }
+}

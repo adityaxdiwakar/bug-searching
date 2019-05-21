@@ -1,0 +1,30 @@
+{
+ "id": "5a84dc61ac13177e922e09e9",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1122,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Py0ImPH2",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.4",
+  "actual_result": "Every new search you make this way will add an extra space between the filter and the content. In this example, the first time it will be `in:#channel mycontent`, the second time `in:#channel  mycontent`, the third time `in:#channel    mycontent`, and so on.",
+  "expected_result": "The exact same search should be done each time you repeat step 3-5",
+  "short_description": "If you tap on a search history entry with a filter followed by a content, a space will be added between the filter and the content",
+  "steps_to_repro": "- In any server, tap Search - Input any filter followed by a content (e.g `in:#channel mycontent`) - After submitting search, go back and close Search - Open Search again. An entry should've been created in the search history. - Tap on it - Repeat from step 3 through step 5 as many times as you want"
+ }
+}

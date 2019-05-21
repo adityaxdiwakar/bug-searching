@@ -1,0 +1,15 @@
+{
+ "id": "582662b7b12a52753853e7ae",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 131,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Xfzsj23n",
+ "data": {
+  "actual_result": "Shows Path.",
+  "expected_result": "Correctly showing battle tag.",
+  "short_description": "Sometimes, Batte.net tags do not show up correctly.",
+  "steps_to_repro": "- Sync you battle.net account. "
+ }
+}

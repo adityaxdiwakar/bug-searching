@@ -1,0 +1,24 @@
+{
+ "id": "59b3dec039f1b831a79ee068",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 692,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZN1uMfrz",
+ "data": {
+  "system_settings": "Android 6.0",
+  "client_settings": "Discord Alpha 5.1.4 (514)",
+  "actual_result": "A new category appears in the end of the list showing as \"Uncategorized\"",
+  "expected_result": "The available selectable channel categories are shown only",
+  "short_description": "Muting a channel adds a new channel category in the end of the categories list appearing as \"Uncategorized\"",
+  "steps_to_repro": "- Be in a server with permission to edit the category of a channel - Mute the channel - Open the channel category drop down - Look at the end of the channel categories list"
+ }
+}

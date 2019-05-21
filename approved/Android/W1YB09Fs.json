@@ -1,0 +1,30 @@
+{
+ "id": "5bd8956f22df13209938bdd3",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2258,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/W1YB09Fs",
+ "data": {
+  "system_settings": "Redmi 4 , Android 7.1.2 , Discord Alpha 7.8.2",
+  "client_settings": "Discord Alpha 7.8.2",
+  "actual_result": "The Text isnt been Formatted , i.e., the text is in bold and the remaining 1 * isnt formatted",
+  "expected_result": "The Text Should Be Formatted As Usual.",
+  "short_description": "[ Resubmited ] [ Android Specific] Markdown Formatting Error happens when you leave space before a *",
+  "steps_to_repro": "- Write a markdown for Italic + bold meaning 3 *'s before text. - Then , leave a space after the sentence/word n then put 3 *'s - For example, if `'` is assumed as a `star` (as i cant use star here) , so, write the text as `'''Test '''` - Observe."
+ }
+}

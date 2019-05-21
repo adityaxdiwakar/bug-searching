@@ -1,0 +1,23 @@
+{
+ "id": "58fb9e64b20d79990509febd",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 545,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/44f59wGD",
+ "data": {
+  "system_settings": " Discord Latest Canary",
+  "actual_result": "Userlist shows username with one space in between, while the ping shows all of the spaces.",
+  "expected_result": "Userlist and ping show the same username",
+  "short_description": "Putting more than one space in between two letters in your username causes the userlist to display only one space, but pings show all of them",
+  "steps_to_repro": "- Change your username to something like \"1             2 Ben Z.\" - Look at the user list - Have someone ping you "
+ }
+}

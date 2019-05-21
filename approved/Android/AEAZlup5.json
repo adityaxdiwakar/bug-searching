@@ -1,0 +1,17 @@
+{
+ "id": "5b6c02f1ebeb6f7bef6e6082",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1801,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AEAZlup5",
+ "data": {
+  "system_settings": "Samsung s5 neo, android 6.0.1",
+  "client_settings": "alpha 7.2.8",
+  "actual_result": "there's no button, forcing you to manually search server list for ping",
+  "expected_result": "there should be red \"new\" button to jump to server",
+  "short_description": "\"new mention\" indicator don't appear on server list",
+  "steps_to_repro": "- recive ping/DM - open server list - while having server with ping out of screen, look for red \"new\" button"
+ }
+}

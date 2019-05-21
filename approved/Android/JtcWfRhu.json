@@ -1,0 +1,30 @@
+{
+ "id": "5c02f67ed701eb20da74d627",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2373,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JtcWfRhu",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Android 8.0.0",
+  "client_settings": "8.0.7",
+  "actual_result": "The page is completely closed",
+  "expected_result": "It should bring you back to the game settings page",
+  "short_description": "Switching orientation 2 times makes it closed in the background (Android 8.0+ spesific)",
+  "steps_to_repro": "- Go to games - Press enable button so it will send you to device's settings - Switch orientation 2 times ( Portrait-> Landscape ,Landscape -> Portrait) - Press back button which is on your device"
+ }
+}

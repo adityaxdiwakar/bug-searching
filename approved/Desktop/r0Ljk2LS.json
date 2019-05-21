@@ -1,0 +1,17 @@
+{
+ "id": "5b4e28e1f896be935f485cd9",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2291,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/r0Ljk2LS",
+ "data": {
+  "system_settings": "macOS 10.12.6",
+  "client_settings": "Canary 18958",
+  "actual_result": "You can't see the name",
+  "expected_result": "You should be able to see the users name",
+  "short_description": "Can't see the name of users that has no coloured roles in light theme",
+  "steps_to_repro": "- Update to build 18958 - Search in a chat and find a user that has no coloured role - Observe the name"
+ }
+}

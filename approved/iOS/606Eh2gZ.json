@@ -1,0 +1,17 @@
+{
+ "id": "5bbcf2fe360c890ed8ae052f",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1077,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/606Eh2gZ",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8055)",
+  "actual_result": "Typing cursor starts off small for a split second and then resizes to the proper size",
+  "expected_result": "Typing cursor doesn't resize",
+  "short_description": "Typing cursor resizes after tapping the kick/ban reason field the first time after opening the kick/ban page",
+  "steps_to_repro": "- Go to a server where you can kick/ban members - Open the kick/ban page - Tap on the reason field - Observe the typing cursor right as you tap on the field - If you don't notice anything, close the page and try again - Note: This happens immediately after tapping the field, so you have to be watching the field closely before and as you tap on it"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bf63ccd3a51f03132855bd6",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3414,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/uQHtDfN5",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit OS",
+  "client_settings": "Build Number: 28378",
+  "actual_result": "When you start call, the call ends immediately and appears as a missed call. Does not ring for other participants.",
+  "expected_result": "When you click the call button, the call menu with members of the chat should appear, and should ring them",
+  "short_description": "When you try to call anywhere outside a server (DM, Group Chat) discord ends call immediately and says missed call.",
+  "steps_to_repro": "- Go to DMS/Group Chat Second - Start call"
+ }
+}

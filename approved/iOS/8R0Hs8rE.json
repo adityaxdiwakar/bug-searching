@@ -1,0 +1,30 @@
+{
+ "id": "5942fc37d5aa41b5c2261017",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 265,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8R0Hs8rE",
+ "data": {
+  "system_settings": "iPhone 7 iOS 10.2.1",
+  "client_settings": "Discord 1.8.3",
+  "actual_result": "Auto sensitivity is turned off",
+  "expected_result": "Auto sensitivity is on when you switch back to voice activity",
+  "short_description": "Sensitivity settings change after switching input modes",
+  "steps_to_repro": "- Go to user settings and click voice - Make sure you are in auto sensitivity before hand - Switch input mode to push to talk - Switch it back to voice activity"
+ }
+}

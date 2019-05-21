@@ -1,0 +1,24 @@
+{
+ "id": "5b612d792991cfe108e07c63",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2560,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/znx98FvP",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 20433",
+  "actual_result": "Other member's volumes are lowered",
+  "expected_result": "The keybind acts as normal PTT because you don't have \"Priority Speaker\"",
+  "short_description": "Priority PTT still attenuates locally even if you don't have permission",
+  "steps_to_repro": "- Bind a key to PTT (Priority) - Join a VC where you don't have priority speaker - Press the PTT (Priority) keybind"
+ }
+}

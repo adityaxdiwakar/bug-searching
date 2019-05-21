@@ -1,0 +1,30 @@
+{
+ "id": "5a1665eb9659d7e7b90307d3",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 922,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qpUa8Jxx",
+ "data": {
+  "system_settings": "Android 6.0, Huawei P8Lite",
+  "client_settings": "Discord 5.7.5",
+  "actual_result": "it doesn't",
+  "expected_result": "the button should show in grey",
+  "short_description": "button to open user list isnt grey/black with white theme",
+  "steps_to_repro": "- activate white theme and look at the top bar"
+ }
+}

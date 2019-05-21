@@ -1,0 +1,30 @@
+{
+ "id": "5a62b1d3dd9a2d01855c261a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1567,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vdfoYKq4",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "x64, current Stable version as of 1-19-2018",
+  "actual_result": "You only get posts for the first day of that month.",
+  "expected_result": "The user should get a list of posts taking place during that entire month.",
+  "short_description": "Discord's during:CORRECTION: \"During:YYYY-MM\" search parameter fails to display results beyond the first day of the month searched.",
+  "steps_to_repro": "- Open the search bar - Search using the \"during:\" parameter - Enter a date in this fashion: YYYY-MM"
+ }
+}

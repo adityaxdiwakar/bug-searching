@@ -1,0 +1,30 @@
+{
+ "id": "5aea772d44134234c6c3ad3e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1358,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/C9FrVN4f",
+ "data": {
+  "system_settings": "OPPO f1, Android 5.1.1",
+  "client_settings": "6.6.2",
+  "actual_result": "Options doesn't appear on screen and you even can't scroll up so see them...",
+  "expected_result": "\"Done & Set to Default\" these options should appear",
+  "short_description": "In Landscape mode you can't see \"DONE\" and \"Reset To Default\" in role color picker",
+  "steps_to_repro": "- Switch to Landscape mode - Get in any server where you can manage roles - Create new role & open color picker"
+ }
+}

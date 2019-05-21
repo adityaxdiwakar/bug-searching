@@ -1,0 +1,24 @@
+{
+ "id": "5a62085544cbf98794d180d2",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 519,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yhYQ0UQd",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.2",
+  "client_settings": "TestFlight 2.2.1 (2202)",
+  "actual_result": "Then nickname pushes the timestamp off the screen, and even wraps the username to a new line if it is long enough",
+  "expected_result": "The nickname is cut off early and the timestamp is fully shown",
+  "short_description": "Having a long username/nickname pushes the timestamp off the screen",
+  "steps_to_repro": "- Change your nickname to something long, such as WWWWWWWWWWWWWWWWWWWWW - send a message"
+ }
+}

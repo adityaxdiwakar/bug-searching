@@ -1,0 +1,17 @@
+{
+ "id": "5b198cf1586b9ee88d8157a3",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2104,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nAm8blPJ",
+ "data": {
+  "system_settings": "Windows 10.0.15063 Build 15063 With TLS 1.0 disabled.",
+  "client_settings": "Standard Desktop App",
+  "actual_result": "Discord fails to launch and says updated failed - retrying in X seconds",
+  "expected_result": "Discord should still update",
+  "short_description": "Discord update fails if TLS 1.0 is disabled",
+  "steps_to_repro": "- Disable TLS 1.0 - Attempt to update Discord"
+ }
+}

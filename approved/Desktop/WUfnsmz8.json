@@ -1,0 +1,30 @@
+{
+ "id": "5a27f6d6397fcaf6e653fa75",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1428,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WUfnsmz8",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord stable build 8119, Firefox 57.0.1",
+  "actual_result": "The loading spinner has black background",
+  "expected_result": "The loading spinner has transparent background",
+  "short_description": "Discord loading animation has black background on Firefox 57.0.1",
+  "steps_to_repro": "- Open discord on Firefox 57.0.1"
+ }
+}

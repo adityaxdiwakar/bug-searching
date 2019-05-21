@@ -1,0 +1,30 @@
+{
+ "id": "59a2e991c7e8c9200c82584d",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 301,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rth9mwjz",
+ "data": {
+  "system_settings": "iPhone 7s 10.1",
+  "client_settings": "iOS TestFlight 1.9.1",
+  "actual_result": "The welcome messages are different",
+  "expected_result": "The welcome message appears the same on both clients",
+  "short_description": "Welcome messages appear different on iOS than other platforms",
+  "steps_to_repro": "- On desktop join a server that has a welcome channel enabled - Observe the message that appears to welcome you - on iOS, check that same message"
+ }
+}

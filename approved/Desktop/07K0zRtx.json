@@ -1,0 +1,17 @@
+{
+ "id": "59d0702978967ceb42ca65cd",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1212,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/07K0zRtx",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6 x86_64",
+  "client_settings": "Discord Stable, 0.0.248",
+  "actual_result": "Upon first attempt Discord refreshes, every subsequent attempt to close doesn't do anything (Can't systematically reproduce this result unfortunately)",
+  "expected_result": "Discord closes (It actually does this most of the time)",
+  "short_description": "Discord occasionally won't close when Cmd+Q is pressed",
+  "steps_to_repro": "- Open Discord - Use Discord for some period of time - Press Cmd+Q - If Discord just refreshes rather than close Press Cmd+Q again"
+ }
+}

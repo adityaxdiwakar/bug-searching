@@ -1,0 +1,30 @@
+{
+ "id": "59ec388c5033e9a9405f1cd3",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 831,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/z9eNd7Va",
+ "data": {
+  "system_settings": "Android 6.0.1 Samsung Galaxy J5 2016",
+  "client_settings": "Canary 5.4.3",
+  "actual_result": "Few of the messages wont react to the hold.",
+  "expected_result": "Menu pops up with options to copy id/pin/delete",
+  "short_description": "Cant open menu when holding welcome messages",
+  "steps_to_repro": "- Have welcome messages enabled on server - Try to hold on a welcome message and find a one that doesn't allow you to open menu"
+ }
+}

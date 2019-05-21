@@ -1,0 +1,30 @@
+{
+ "id": "5bc34a517337c0557d27314b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3182,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VbQYXBbL",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Canary Build 26143",
+  "actual_result": "the popup doesn't close and it sais: supressed, you don't have permissions to talk",
+  "expected_result": "popup should close as it is the case if u get moved to a different channel while having popup opened",
+  "short_description": "getting kicket while having afk popup opened, changes the popup to \"supressed, u don't have permissions to talk\"",
+  "steps_to_repro": "- join the afk channel so the afk message pops up - let someone kick you"
+ }
+}

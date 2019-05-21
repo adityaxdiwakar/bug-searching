@@ -1,0 +1,30 @@
+{
+ "id": "5a32615dad0885acfb1d4227",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1455,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0afaDoAF",
+ "data": {
+  "system_settings": "Windows 10.0.16299 Build 16299 (Fall Creators Update)",
+  "client_settings": "Release Channel: canary, Build Number: 8372, Version Hash: 29c99b734f8f085d618d514fde37392a3126cf79",
+  "actual_result": "The old username appears, and the @ mention fails",
+  "expected_result": "Either the username in the @ autofill should change, or it should not appear.",
+  "short_description": "Using @ autofill lists old usernames of members that have changed their usernames",
+  "steps_to_repro": "- Get two members in a server chat - Make one send a message - Using the one that sent a message, change its username - Using the second account and in the same channel the message was sent in, type @ - Old username appears and will fail to mention the person - Note: This is actually a problem of username not updating in chat history, problem is fixed with a client reboot. Makes it easier to test/repro if you treat it that way"
+ }
+}

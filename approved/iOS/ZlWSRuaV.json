@@ -1,0 +1,17 @@
+{
+ "id": "5b06c13170afd8d36850ee10",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 767,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZlWSRuaV",
+ "data": {
+  "system_settings": "iOS 10.2.1",
+  "client_settings": "TestFlight 2.3.2 (4694)",
+  "actual_result": "Text is placed higher than hashtag.",
+  "expected_result": "Text aligns with hashtag.",
+  "short_description": "Chinese and Japanese channel names look higher than normal.",
+  "steps_to_repro": "- Go to a text channel with Chinese or Japanese name. - Observe the channel name on the menu bar at the top."
+ }
+}

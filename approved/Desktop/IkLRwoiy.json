@@ -1,0 +1,17 @@
+{
+ "id": "59868b7c7dbd8af508933f6d",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 934,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IkLRwoiy",
+ "data": {
+  "system_settings": "Windows 7 SP1 x86",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "When you click the icon, nothing happends",
+  "expected_result": "You should be able to go into the server",
+  "short_description": "You can't click a server in a certain angle",
+  "steps_to_repro": "- Make sure that there is a server that you can see the first part of the icon - Try clicking the icon of the server"
+ }
+}

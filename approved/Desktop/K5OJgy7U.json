@@ -1,0 +1,30 @@
+{
+ "id": "5bde88f36c526f2902893a65",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3351,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/K5OJgy7U",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Discord Canary 27458",
+  "actual_result": "It says \"Change avatar\", when you are not changing your profile picture.",
+  "expected_result": "It should say \"Change icon\", like the old model, and due to the fact that it's a server icon.",
+  "short_description": "On the new invite model, when you hover over the blank icon in \"create a server\", it says \"change avatar\".",
+  "steps_to_repro": "- Have the new invite model. - Click on the plus (+) at the bottom of your server. - Click on the \"Create a server\". - Hover over the blank icon, and read what it says."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5992de067519a28afcfde8ea",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 623,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xeG4MLaM",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 edge, Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.0.6 (501)",
+  "actual_result": "You get a toast message saying: \"A bad network request has occurred, please try again\"",
+  "expected_result": "You should get a red error message saying \"Vanity URL could not be changed because ...\" like on the desktop version. You actually get this message on Android when trying to pick a URL that's already in use or one that contains invalid characters, but not when it contains a blacklisted word.",
+  "short_description": "Wrong error message when trying to set a vanity URL that contains a blacklisted word",
+  "steps_to_repro": "- Have permissions to change the Vanity URL of a partner server - Go Server Settings > Vanity URL - Enter a URL that contains a blacklisted word, try something that contains \"discord\" (probably the only blacklisted word at the time of writing) - Hit Enter and notice that you get a toast message saying: \"A bad network request has occurred, please try again\""
+ }
+}

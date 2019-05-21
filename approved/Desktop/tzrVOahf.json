@@ -1,0 +1,23 @@
+{
+ "id": "58daf3e837a0bf73e50a0da5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 465,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tzrVOahf",
+ "data": {
+  "system_settings": " Windows 10 Discord Web Verison, 0.0.153",
+  "actual_result": "It will say you're typing while you still in 10 minute wait.",
+  "expected_result": "Nothing would happen. What should happen is it shouldn't show you typing.",
+  "short_description": "A bug where it will say you're typing while still in 10 minute wait/verification",
+  "steps_to_repro": "- Go to a server with 10 minute wait - Right click a user and press \"Mention\" buttion. - etc "
+ }
+}

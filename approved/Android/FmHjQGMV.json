@@ -1,0 +1,16 @@
+{
+ "id": "58ff391c6cf9c4680bce42f6",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 406,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FmHjQGMV",
+ "data": {
+  "system_settings": " Andoot 5.0.2 Discord 3.7.1",
+  "actual_result": "you have a ton of windows open",
+  "expected_result": "The window opens only once",
+  "short_description": "When an embed can't be played and you lock and unlock the screen the window comes up again",
+  "steps_to_repro": "- Look for an embedded video - Click on the thumbnail - Be disappointed it can't be played and lock the screen without clicking off the window - unlock the screen again - Repeat as many times as you wish "
+ }
+}

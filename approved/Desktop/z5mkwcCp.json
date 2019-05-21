@@ -1,0 +1,17 @@
+{
+ "id": "5b8761d75fd4dd3170f134d4",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2833,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/z5mkwcCp",
+ "data": {
+  "system_settings": "Windows 10.0.17134 Build 17134 (Windows 10",
+  "client_settings": "Desktop Canary, Build Number 22587, Version 0.0.211",
+  "actual_result": "The cursor maintains a stretching form and does not change properly.",
+  "expected_result": "The cursor is supposed to change according to where you are hovering over.",
+  "short_description": "Cursor in Discord Overlay does not change (OBS)",
+  "steps_to_repro": "- Open up a game connected to Discord (i.e BF4) - Open the Discord Overlay Menu - Resize the overlay menus and notice the icon changes to a stretching cursor - Go to chat boxes and the cursor does not change to the typing cursor icon"
+ }
+}

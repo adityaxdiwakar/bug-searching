@@ -1,0 +1,17 @@
+{
+ "id": "5ad21b3cc9cc44540ed24235",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1278,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ufzcbjgX",
+ "data": {
+  "system_settings": "Moto G5 Plus Android 8.1",
+  "client_settings": "Discord Alpha 6.4.9",
+  "actual_result": "Discord crashes.",
+  "expected_result": "You should be shown the screen to enter a 2FA code.",
+  "short_description": "Attempting to login to a 2FA enabled account with the clipboard empty crashes the app.",
+  "steps_to_repro": "- Ensure that your clipboard is completely empty(The easiest way to do this is by rebooting your device.) - Login with a 2FA enabled account."
+ }
+}

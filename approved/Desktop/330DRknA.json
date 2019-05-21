@@ -1,0 +1,30 @@
+{
+ "id": "5a566ce76996e3df148f6122",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1528,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/330DRknA",
+ "data": {
+  "system_settings": "Windows 10 Home, Version 1709",
+  "client_settings": "Discord Canary 9405",
+  "actual_result": "You can't scroll all the way down in the info tab, and the poor Wumpus is cut off.",
+  "expected_result": "You can scroll all the way down in the info tab, and when the mutual friends/servers tab is empty, the Wumpus fits in the modal.",
+  "short_description": "Profile tab content not scaling, effect is greatest when the user is playing something. When content is empty, the Wumpus images won't scale and goes out of bounds.",
+  "steps_to_repro": "- Minimize Discord to it's minimum height - search for a user who's playing something (also works with someone who isn't playing anything but the effect is far smaller) - Try to scroll all the way to the bottom in user info. (you can't) - When the mutual servers/mutual friends tab is empty, the poor Wumpus doesn't fit in the box (modal) because he isn't scaled."
+ }
+}

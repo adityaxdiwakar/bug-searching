@@ -1,0 +1,30 @@
+{
+ "id": "5abaecaf7088050c2c3b0c24",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1764,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uukysiNE",
+ "data": {
+  "system_settings": "Win 7 Pro x64",
+  "client_settings": "Discord canary build 11566",
+  "actual_result": "The process for the overlay ( --overlay-host) stays open (or is launched and then the others are killed)",
+  "expected_result": "All processes related to Discord should be killed",
+  "short_description": "Overlay process not killed when closing Discord Canary",
+  "steps_to_repro": "- Have Discord Canary on Windows 7 - Launch Discord Canary with the default desktop shortcut ( --processStart ) - This also happens when the overlay is disabled in your preferences - Quit Discord"
+ }
+}

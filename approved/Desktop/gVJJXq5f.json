@@ -1,0 +1,24 @@
+{
+ "id": "5b571a60394864bb2e91f1c4",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2416,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5b8849b82fa6f472917f81c3",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mobile",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gVJJXq5f",
+ "data": {
+  "system_settings": "Huawei Honor 9 Lite \u2022 Android 8.0.0",
+  "client_settings": "Chrome 67.0.3396.87",
+  "actual_result": "it takes two taps to open",
+  "expected_result": "translate sub menu should open in just one click",
+  "short_description": "[Website Bug, Android Specific] it takes 2 times to open translation sub menu in chrome mobile app",
+  "steps_to_repro": "- go to discordapp homepage using chrome mobile - open kebab menu from top right. - tap translate. observe."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "597910e5d79cd69463454ca8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 902,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kmAcuwaW",
+ "data": {
+  "system_settings": "Surface Pro 3, Windows 10 Pro 1703 (15063.296)",
+  "client_settings": "Discord Canary 0.0.161 (just updated)",
+  "actual_result": "All the channel names become darker, as if they get muted",
+  "expected_result": "Nothing should change in the channel list",
+  "short_description": "If you drag highlighted text in chat, channels will become darker, like they're muted",
+  "steps_to_repro": "- Drag it with the mouse"
+ }
+}

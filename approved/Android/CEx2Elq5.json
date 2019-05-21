@@ -1,0 +1,30 @@
+{
+ "id": "5b61940c47b18681406e9bcd",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1748,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CEx2Elq5",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 720",
+  "actual_result": "It has a weird border.",
+  "expected_result": "It just has the file icon.",
+  "short_description": "The file icon has a weird border when you turn off Display images in settings.",
+  "steps_to_repro": "- Turn off Display images in Settings>Text and Images. - Look at an image."
+ }
+}

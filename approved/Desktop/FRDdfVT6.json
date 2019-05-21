@@ -1,0 +1,30 @@
+{
+ "id": "5a6aa6d69d40416714fadb76",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1586,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FRDdfVT6",
+ "data": {
+  "system_settings": "Win 10 x64 Latest Version",
+  "client_settings": "Discord Canary, 9918",
+  "actual_result": "You are able to copy and paste it into the discriminator box submission area.",
+  "expected_result": "You should not be able to put them into the discriminator box",
+  "short_description": "You can copy and paste non numbers into the discord discriminator",
+  "steps_to_repro": "- Type out some letters, it doesn't matter what, into google chrome - Copy them and paste them into the empty discriminator box"
+ }
+}

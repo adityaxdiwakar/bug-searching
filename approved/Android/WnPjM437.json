@@ -1,0 +1,29 @@
+{
+ "id": "58d3cf71bd8471c35b9aa8ef",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 317,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WnPjM437",
+ "data": {
+  "system_settings": " Android 6.0.1, Discord v3.5.2",
+  "actual_result": "Username formatted and italic",
+  "expected_result": "Others seeing raw username with asterisk",
+  "short_description": "Italic asterisk not escaped in typing indicator",
+  "steps_to_repro": "- Have username with asterisk at begin and end - Type something "
+ }
+}

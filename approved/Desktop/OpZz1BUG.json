@@ -1,0 +1,16 @@
+{
+ "id": "58fe5ff6891dd77edac28219",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 556,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/OpZz1BUG",
+ "data": {
+  "system_settings": " Windows 10 Creators Update x64, Latest stable discord for windows.",
+  "actual_result": "Goes back into the channel message box",
+  "expected_result": "Shouldn't go back to channel message box",
+  "short_description": "Able to get back into message box and edit it (channel-textarea-inner in CTRL+Shift+I) while the send file gui (modal-container same thing in inspect element ) is open",
+  "steps_to_repro": "- Step 1: Type something into the channel message box but dont send it - Step 2: Drag and drop or select an image from discords uploader (Dont send it) - Step 3: Press CTRL+Z while in the gui and it should bring you back to the message box without closing the uploader gui etc "
+ }
+}

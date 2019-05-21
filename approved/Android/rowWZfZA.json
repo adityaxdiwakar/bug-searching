@@ -1,0 +1,24 @@
+{
+ "id": "5a0a2e0f381b8d83ad042b57",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 896,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rowWZfZA",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.5.1",
+  "actual_result": "the filename is replaced by a number and the file extension is gone",
+  "expected_result": "The attachment is sent normally in chat",
+  "short_description": "[Huawei specific] Sending a message with a non-image file attached using the native Huawei file explorer will break the attachment",
+  "steps_to_repro": "- Go to a channel you have perms to send messages with attachments - Click the `+` button - Click the Import icon at top left - In the popup, select your native Huawei file explorer - Find a file that is NOT an image and select it (e.g PDF or ZIP files). Also works with *some* images located in a folder containing a . nomedia file. To reproduce this step you can also long press on any file or folder in your explorer and then tap \"Compress\" to quickly create a ZIP file - Send the message with the attachment"
+ }
+}

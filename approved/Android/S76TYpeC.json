@@ -1,0 +1,30 @@
+{
+ "id": "5a5542a46a3cf00fcdff59db",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1031,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/S76TYpeC",
+ "data": {
+  "system_settings": "Moto G5 Plus, Android 7.0",
+  "client_settings": "Discord 6.0.6",
+  "actual_result": "DM re-opens/refreshes",
+  "expected_result": "Message should be selected; should only open DM when actually touching the mention",
+  "short_description": "Tapping and holding on (selecting) the empty space after a message that ends in a mention within a DM refreshes/re-opens the DM instead of selecting the message. Similarly, doing the same within a server opens the DM without actually touching the mention, but it's unclear whether that specific server behavior is intended.",
+  "steps_to_repro": "- produce message with a mention at the end (or simply just a mention only) within a DM - try selecting the message in the empty space after the mention"
+ }
+}

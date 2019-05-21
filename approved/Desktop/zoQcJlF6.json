@@ -1,0 +1,30 @@
+{
+ "id": "5a3282e4dc8fca74eda42e08",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1458,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zoQcJlF6",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (Build 1607)",
+  "client_settings": "Discord Canary 0.0.185 (Build 8541)",
+  "actual_result": "It shows an embed of the discordapp wikipedia page",
+  "expected_result": "It shouldn't show an embed since the wikipedia page doesn't exist",
+  "short_description": "Wikipedia embeds ignores everything that's posted before the last slash in the URL",
+  "steps_to_repro": "- Write a message that is: https://en.wikipedia.org/wiki/Discord_(software)- then post a second message with any content you want before discord software, here's an example: https://en.wikipedia.org/wiki/ILoveBugHunters/Discord_(software)"
+ }
+}

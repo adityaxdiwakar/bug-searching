@@ -1,0 +1,17 @@
+{
+ "id": "59a75fb54725436c28834f9b",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 311,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/MWG0Jqfz",
+ "data": {
+  "system_settings": "iOS 11 Beta 8",
+  "client_settings": "TestFlight 1.9.1 (524)",
+  "actual_result": "Should go away and not be shown when something has been typed.",
+  "expected_result": "Should still show text behind you text.",
+  "short_description": "When adding a friend manually when typing in box still show text behind message",
+  "steps_to_repro": "- Go to the add friend icon in top right corner. - Type anything in the add friend field."
+ }
+}

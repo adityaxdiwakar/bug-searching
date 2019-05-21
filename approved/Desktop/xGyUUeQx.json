@@ -1,0 +1,17 @@
+{
+ "id": "5bc07502aa030144cb522e8f",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 3163,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xGyUUeQx",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1809)",
+  "client_settings": "Discord Canary 0.0.215 (26007)",
+  "actual_result": "The audio is very static and robotic",
+  "expected_result": "There should be no static audio",
+  "short_description": "When being in a voice chat then start a game with the overlay enabled, the voice chat gets very static after a few seconds",
+  "steps_to_repro": "- Join a voice channel with someone - Enable the overlay - Launch a game - Wait until you see \"Discord overlay blabla, keybind\" popup inside the game - Observe how the voice chat gets very very static after a few seconds"
+ }
+}

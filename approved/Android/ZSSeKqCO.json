@@ -1,0 +1,30 @@
+{
+ "id": "5b5f44f0946b189c62045e94",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1724,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZSSeKqCO",
+ "data": {
+  "system_settings": "Samsung Galaxy J5 2017 Android 7.0 Nougat",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "The voice channel icon color isn't the same as the category and the text channel icon colors.",
+  "expected_result": "The voice channel icon color should be the same as the category and the text channel icon colors.",
+  "short_description": "The voice channel icon color is different than the other icon colors. (Light Theme Specific)",
+  "steps_to_repro": "- Go to Server Settings - Go to Channels - Click the 3 lines on the top right corner."
+ }
+}

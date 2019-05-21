@@ -1,0 +1,30 @@
+{
+ "id": "5c1270adc5677d5ac559a240",
+ "closed": false,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 3483,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fJZB6SdY",
+ "data": {
+  "system_settings": "Windows 8.1",
+  "client_settings": "\"Release Channel: stable, Build Number: 29445, Version Hash: b7fbda1fde750c0db4d7e7e81dd4a573c89b3a7\", also reproducible in a build at least 2 weeks old.",
+  "actual_result": "Exactly as described in the description and repro steps",
+  "expected_result": "I expected to only see the registry activity when Discord was visible and being interacted with",
+  "short_description": "Discord.exe is making large amounts of redundant registry accesses even when idle",
+  "steps_to_repro": "- Make sure the Discord client is running. It does not matter whether it is visible or idle or being interacted with. - Download procmon from and run it. - Disable all activity filters on procmon's toolbar except for Show Registry Activity. - Hold the `End` key and observe that a vast majority of the events zipping by are from , happen every second and are related to msvideo and/or Driver."
+ }
+}

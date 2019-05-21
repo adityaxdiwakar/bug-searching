@@ -1,0 +1,17 @@
+{
+ "id": "5b380fb2ef12d4d1ef1d9803",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2228,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bPMC3kHN",
+ "data": {
+  "system_settings": "Windows 10 x64 v1803",
+  "client_settings": "Discord Canary 18027 & Discord Browser",
+  "actual_result": "A 30-50% jump in CPU/GPU usage while doing the action.",
+  "expected_result": "No high CPU/GPU usage.",
+  "short_description": "High CPU/GPU usage on any sort of action/movement.",
+  "steps_to_repro": "- Move your mouse up and down across multiple channels and monitor task manager. - Type. Literally typing a message causes the issue as well."
+ }
+}

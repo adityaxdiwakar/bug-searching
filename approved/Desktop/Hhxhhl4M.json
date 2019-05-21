@@ -1,0 +1,30 @@
+{
+ "id": "5af6cae713832e1279a6cf52",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1975,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Hhxhhl4M",
+ "data": {
+  "system_settings": "Ubuntu Xenial 16.04.4 LTS",
+  "client_settings": "Discord Linux Canary 0.0.49 (Build 15120)",
+  "actual_result": "The word \"Enter\" is added to the input and the message isn't sent",
+  "expected_result": "The message is sent with the text that was still there",
+  "short_description": "The word 'Enter' is added to the input when pressing enter",
+  "steps_to_repro": "- Go to a server where you can manage roles - Type something in the message box (don't send) - Open server settings, edit a role and save changes - Close settings with the (X) - Press enter to send your message"
+ }
+}

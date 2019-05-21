@@ -1,0 +1,30 @@
+{
+ "id": "59e9d11c59ecdcee37fe3d4e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1292,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Xd9RJDCa",
+ "data": {
+  "system_settings": "macOS High Sierra 10.13",
+  "client_settings": "Discord Canary macOS (0.0.156), Discord stable macOS (0.0.248)",
+  "actual_result": "An entirely different image is shown",
+  "expected_result": "The selected album cover is displayed as the embedded preview",
+  "short_description": "Imgur album previews do not use the proper cover image",
+  "steps_to_repro": "- Create a new Imgur Album - Add a good amount of photos - Select a specific image to be displayed as the preview - Save and post in Discord"
+ }
+}

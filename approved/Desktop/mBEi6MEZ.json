@@ -1,0 +1,30 @@
+{
+ "id": "597212db8dcd455b903857ac",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 872,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mBEi6MEZ",
+ "data": {
+  "system_settings": "Windows 10 Home 1703 (64-bit)",
+  "client_settings": "Discord PTB 0.0.32 (Latest)",
+  "actual_result": "The text is code blocks is smaller/larger when the zoom level is lower/higher, and remains un-affected by the chat font scaling.",
+  "expected_result": "The size of text in code blocks should change based on the chat font scaling, and not be affected by the zoom level.",
+  "short_description": "The size of text within code blocks does not adjust when the chat font scaling is changed, but adjusts based on zoom level.",
+  "steps_to_repro": "- Go to User Settings > Appearance. Adjust the chat font scaling noticeably. - Send a multi-line code block in any text channel. Notice that although messages now appear larger/smaller, the code block's text retains it's original size. - Go to User Settings > Appearance. Adjust the zoom level noticeably. (You can now reset the chat font size, but if you don't, ensure that the chat font scaling is at one extreme while the zoom level is at the other extreme. This will make the bug even more noticeable.) - Send a multi-line code block in any text channel. Notice that most of the app's components (sidebars, etc.) appear larger/smaller, and this time the size of text in code blocks changes in a way proportional to the change in zoom level. - You can keep playing around with the chat font scaling and the zoom level. As you do, you will see that the size of text in code blocks is proportional to the zoom level, and not the chat font scaling."
+ }
+}

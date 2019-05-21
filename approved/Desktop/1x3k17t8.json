@@ -1,0 +1,15 @@
+{
+ "id": "58617812e8cc9ac807abd7ee",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 284,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1x3k17t8",
+ "data": {
+  "actual_result": "GIF does not resume without moving cursor off and on the message",
+  "expected_result": "GIF resumes playing",
+  "short_description": "GIF Avatars won't play when focus returns to chat window",
+  "steps_to_repro": "- Find someone with an animated avatar - Click on their name, then profile - When the profile appears, click off the profile, with cursor on top of the message of whoever has the animated avatar "
+ }
+}

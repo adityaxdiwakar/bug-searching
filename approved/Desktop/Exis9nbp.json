@@ -1,0 +1,16 @@
+{
+ "id": "589e6551652446331b5b70bc",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1741,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Exis9nbp",
+ "data": {
+  "system_settings": " iPhone 5 iOS 10 Newest Discord TestFlight",
+  "actual_result": "The magnifying glass Message appears",
+  "expected_result": "The page Loads like any other",
+  "short_description": "Can not load search pages further than 201",
+  "steps_to_repro": "- Open Search - Search for Anything that has more than 201 pages of results - get to page 202 "
+ }
+}

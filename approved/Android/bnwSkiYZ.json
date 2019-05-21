@@ -1,0 +1,30 @@
+{
+ "id": "5ad702a42986ef843657bdb5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1292,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bnwSkiYZ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.5.2",
+  "actual_result": "it opens the Discord API link",
+  "expected_result": "The option should toggle",
+  "short_description": "Discord API link opens when tapping anywhere on the Developer mode option text",
+  "steps_to_repro": "- Go to your settings > behavior - Tap anywhere on the text saying \"Developer mode exposes context menu items helpful [...]\", but not directly on the link"
+ }
+}

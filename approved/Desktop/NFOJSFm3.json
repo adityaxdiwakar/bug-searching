@@ -1,0 +1,17 @@
+{
+ "id": "5b76185dc67b9357115501bf",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2723,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NFOJSFm3",
+ "data": {
+  "system_settings": "Windows 10 Home x64 v1709",
+  "client_settings": "Stable 22036",
+  "actual_result": "Playing status actually appears as \"Playi...\"",
+  "expected_result": "The playing status says \"Playing  \u0e4a\"",
+  "short_description": "Strange Unicode Characters breaks \"Playing\" status",
+  "steps_to_repro": "- Have an open game or application that doesn't use Rich Presence. - Rename the game/application to   \u0e4a  in the discord client - observe your game status."
+ }
+}

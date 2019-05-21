@@ -1,0 +1,17 @@
+{
+ "id": "5929a6513fec259245d706d5",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 251,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4RKlx7u3",
+ "data": {
+  "system_settings": "iOS 10.3 Iphone SE",
+  "client_settings": "Discord iOS Normal Build",
+  "actual_result": "it sends the measage twice",
+  "expected_result": "the screen goes away and it only lets you send the message once",
+  "short_description": "go to send a picture and press it twice quickly and it sends it twice",
+  "steps_to_repro": "- get a picture from libary - go to send it - tap on it twice quickly"
+ }
+}

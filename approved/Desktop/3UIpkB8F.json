@@ -1,0 +1,30 @@
+{
+ "id": "5a4d8377eb9bc7b5878b9a0a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1509,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3UIpkB8F",
+ "data": {
+  "system_settings": "windows 10 x64 build 1709 (compilation 16299.125)",
+  "client_settings": "desktop canary Build 9198",
+  "actual_result": "Microsoft edge in missing from list",
+  "expected_result": "Microsoft Edge should show as selectable option",
+  "short_description": "UWP applications such as Microsoft Edge don't show in screenshare selection",
+  "steps_to_repro": "- open Edge then start DM call and move into Screenshare modal - press application window tab"
+ }
+}

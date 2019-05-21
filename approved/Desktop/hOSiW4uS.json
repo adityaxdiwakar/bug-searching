@@ -1,0 +1,22 @@
+{
+ "id": "586db489e2ad837635316a91",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 305,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hOSiW4uS",
+ "data": {
+  "actual_result": "The \"Done\" button keeps the window up, forcing you to hit \"Cancel.\"",
+  "expected_result": "The file should be denied, and the \"Done\" button should discard the avatar change.",
+  "short_description": "Uploading a 0 bytes .GIF file breaks the \"Done\" button.",
+  "steps_to_repro": "- Save an empty file in Notepad as \"something.gif\" ENSURING TO ADD QUOTES AROUND IT  - Try and upload the 0 bytes .GIF you created as a server avatar. "
+ }
+}

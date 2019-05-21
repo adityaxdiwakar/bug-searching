@@ -1,0 +1,17 @@
+{
+ "id": "5bda63bde880f310ee8368f3",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 3325,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/M9aYm5pg",
+ "data": {
+  "system_settings": "Windows 10 Home x64 v1803",
+  "client_settings": "Canary 27140",
+  "actual_result": "The buttons are overlapped, potentially making it difficult to select one or the other.",
+  "expected_result": "These buttons should not overlap.",
+  "short_description": "[In Resolutions with a Width Less Than 1920] In 200% zoom, the bar at the very top is either missing buttons, or has overlapping buttons.",
+  "steps_to_repro": "- Ensure your resolution has a width lower than 1920 - Ensure Windows is on 100% zoom - Change Discord zoom to 200% - Go to friends tab - Notice how the tab up top is overlapping or missing buttons altogether."
+ }
+}

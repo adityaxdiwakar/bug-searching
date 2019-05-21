@@ -1,0 +1,17 @@
+{
+ "id": "5b006b70b51813596ea003a0",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 761,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YMB26P5C",
+ "data": {
+  "system_settings": "iOS 9.3.5, iPad mini 1",
+  "client_settings": "Discord iOS 2.3.1",
+  "actual_result": "You can not type/message in that DM group",
+  "expected_result": "You can still message the DM group",
+  "short_description": "You can't message to a DM group when a member is blocked",
+  "steps_to_repro": "- Make a DM group - Block a member that is part of the group"
+ }
+}

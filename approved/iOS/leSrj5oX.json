@@ -1,0 +1,30 @@
+{
+ "id": "5b5b48ff2fad1a3cc804cd38",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 855,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/leSrj5oX",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.6 (6095)",
+  "actual_result": "Discord registers the wrong number of taps",
+  "expected_result": "Discord registers the number of taps you do",
+  "short_description": "Tapping an emoji reaction quickly causes the wrong number of taps to be registered",
+  "steps_to_repro": "- Have someone add a reaction to a message - Quickly tap the reaction multiple times (I tapped twice each time) - Observe what happens to the reaction - Repeat tapping the reaction quickly multiple times, observing what happens each time"
+ }
+}

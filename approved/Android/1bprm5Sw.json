@@ -1,0 +1,15 @@
+{
+ "id": "585f0654d49d94f865ed72e3",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 159,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1bprm5Sw",
+ "data": {
+  "actual_result": "Highlighted channel does not change, voice indicators do not appear",
+  "expected_result": "Highlighted channel changes into the moved channel",
+  "short_description": "Being moved into a (locked) voice channel does not change your highlighted voice channel",
+  "steps_to_repro": "- Join a voice channel - Get moved into a (locked) voice channel - Highlighted voice channel is the previous "
+ }
+}

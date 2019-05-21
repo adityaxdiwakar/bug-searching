@@ -1,0 +1,17 @@
+{
+ "id": "5bd2cece5f1000351c88deed",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2242,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EufECTQx",
+ "data": {
+  "system_settings": "Android 9 Pie",
+  "client_settings": "7.7.5",
+  "actual_result": "Build-in mic fails to connect to Discord.",
+  "expected_result": "When you talk while in VC, your voice should be transmitted and heard by others.",
+  "short_description": "Internal mic with Pixel 3 XL doesn't transmit any sound.",
+  "steps_to_repro": "- First, set microphone permissions for Discord - Second, open Discord with Pixel 3 XL - Third, join any voice chat/channel - Fourth, speak in a chat with built-in mic"
+ }
+}

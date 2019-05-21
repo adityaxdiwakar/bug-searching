@@ -1,0 +1,22 @@
+{
+ "id": "58b80ee54f86e2dd10e9f482",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 400,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WnYpWxJK",
+ "data": {
+  "actual_result": "User is moved into channel and muted, but also shown dialog",
+  "expected_result": "User would be moved to channel and muted automatically, but not shown the dialog",
+  "short_description": "In the desktop client, joining the voice channel which is set as the AFK channel on the server results in the message that you have been moved to the AFK channel, although you moved yourself.",
+  "steps_to_repro": "- Join server with AFK channel - Join AFK Channel "
+ }
+}

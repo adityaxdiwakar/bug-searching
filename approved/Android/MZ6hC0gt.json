@@ -1,0 +1,30 @@
+{
+ "id": "598af63825c64c019740e5be",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 605,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MZ6hC0gt",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 edge (SM-G935F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.0.4 (404)",
+  "actual_result": "The channel creation menu stays open",
+  "expected_result": "The channel creation menu should be closed and you should simply return to the channel list where you have to option to create a new channel if you wish to",
+  "short_description": "Channel creation menu doesn't close after creating a new channel",
+  "steps_to_repro": "- Open a server that you have \"Manage Channels\" permission for - Go to Server Settings > Channels and press the plus icon in the bottom right corner - Choose to create a text/voice channel, enter a name and press save - Observe that you are back in the channel list and the server creation menu is still open"
+ }
+}

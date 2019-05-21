@@ -1,0 +1,15 @@
+{
+ "id": "58225f9361d0e2031f5bde29",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 123,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WIoGbFbO",
+ "data": {
+  "actual_result": "scrolls to the bottom then instantly goes back to the top.",
+  "expected_result": "Able to scroll all the way to the bottom.",
+  "short_description": "Certan user lists can become buged and unable to scroll to the bottom at certan resolutions",
+  "steps_to_repro": "- In my case I have it maximised to where the window itself is ~1280 by 1440 pixels (rough estimate using the recording softwares rectangle select) - I am using the canary client on Arch linux on the Gnome desktop https://youtu.be/S44WTLGBHM8 "
+ }
+}

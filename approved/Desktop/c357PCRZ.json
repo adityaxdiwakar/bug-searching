@@ -1,0 +1,30 @@
+{
+ "id": "5aa07e678b180d3e17034d59",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1711,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c357PCRZ",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.203, Build 11719",
+  "actual_result": "Server Settings drop-down menu stays opened behind the modal, which priorities it over the opened modal when pressing ESC to close the modal",
+  "expected_result": "Server Settings drop-down menu closes behind after opening one of the listed modals",
+  "short_description": "Server Settings drop-down menu doesn't close behind after opening one of the listed: Invite People, Create Channel, Create Category, Notification Settings, Change Nickname",
+  "steps_to_repro": "- Open the Server Settings drop-down menu from a server - Open one of the above listed"
+ }
+}

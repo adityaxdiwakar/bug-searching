@@ -1,0 +1,17 @@
+{
+ "id": "5bf5794cfbfd7779b871a0d9",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2341,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8bIVfhee",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 9.0",
+  "client_settings": "Discord Alpha 7.9.9 - 8.0.8",
+  "actual_result": "The bottom bar stays gray (meaning it's unfocused) and any text you tried to type doesn't appear",
+  "expected_result": "The text should appear just how you typed it and the bottom bar is blurple to indicate it's focused (What happened on 7.9.6 and older)",
+  "short_description": "[Android 9 & GBoard specific] Menus which open the keyboard don't auto-focus the text box",
+  "steps_to_repro": "- Update to atleast 7.9.7 - Open a menu which also automatically opens the keyboard (the Search menu, for example) - Try to type something"
+ }
+}

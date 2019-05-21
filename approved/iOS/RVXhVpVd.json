@@ -1,0 +1,23 @@
+{
+ "id": "58643dd6d0647c717f09dd01",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 146,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RVXhVpVd",
+ "data": {
+  "system_settings": " iOS 9.3.5 on latest TestFlight.",
+  "actual_result": "despite saving, nothing even changes.",
+  "expected_result": "Settings update to the new values.",
+  "short_description": "Voice channel settings don't save (eg user limits)",
+  "steps_to_repro": "- go to a voice channel. - change the settings on user limits. - save and return to voice list. "
+ }
+}

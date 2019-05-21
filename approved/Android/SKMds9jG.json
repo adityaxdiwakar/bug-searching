@@ -1,0 +1,16 @@
+{
+ "id": "583150ef3bb426be86645528",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 101,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SKMds9jG",
+ "data": {
+  "system_settings": " Android Alpha(Submitted for **Ronniecool1#5303** )",
+  "actual_result": "\"An unknown Server Error has occurred' Appears",
+  "expected_result": "Deletion of Server",
+  "short_description": "On attempt of server deletion, It sends you message stating \"An Unknown Server Error has occurred\" and does not delete the server",
+  "steps_to_repro": "- Open server settings - Click Overview -Click on the Three dots - Click Delete Server "
+ }
+}

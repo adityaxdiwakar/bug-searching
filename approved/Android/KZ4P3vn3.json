@@ -1,0 +1,24 @@
+{
+ "id": "5aa6fdf4d386f80f48ba495c",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1186,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KZ4P3vn3",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 2016, Android 7.0",
+  "client_settings": "Android Alpha 6.3.5",
+  "actual_result": "The app crashes",
+  "expected_result": "The app's language changes",
+  "short_description": "Changing Discord's language crashes app.",
+  "steps_to_repro": "- Go to settings - Tap language - Choose any language"
+ }
+}

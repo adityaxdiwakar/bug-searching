@@ -1,0 +1,30 @@
+{
+ "id": "5ae7d6da252da993a93729f1",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1350,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/799CSowS",
+ "data": {
+  "system_settings": "Xiaomi Mi5 Oreo 8.1.0",
+  "client_settings": "Discord Alpha 6.6.0 (660)",
+  "actual_result": "After open the discord, local mute is disabled",
+  "expected_result": "The local mute should stay enabled",
+  "short_description": "Local mute someone not applied after force closing discord",
+  "steps_to_repro": "- Enable Local Mute on someone - Force close discord - Observe the person you local mute"
+ }
+}

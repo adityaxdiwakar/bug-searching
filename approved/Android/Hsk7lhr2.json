@@ -1,0 +1,24 @@
+{
+ "id": "597743d8c8138714798543dd",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 577,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Hsk7lhr2",
+ "data": {
+  "system_settings": "Android 5.0.2 Huawei Honor",
+  "client_settings": "Discord A4.0.2",
+  "actual_result": "The title is lower.",
+  "expected_result": "The confirmation window's title saying \"OUTGOING FRIEND REQUEST\" is centered in height",
+  "short_description": "Remove friend confirmation window has title off center",
+  "steps_to_repro": "- Send someone a friend request - Cancel the request"
+ }
+}

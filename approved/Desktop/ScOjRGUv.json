@@ -1,0 +1,17 @@
+{
+ "id": "5b67c7dce68c3106e929a416",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2637,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ScOjRGUv",
+ "data": {
+  "system_settings": "Windows 10 Pro 1803 x64",
+  "client_settings": "Canary 20849",
+  "actual_result": "Always show the block icon as you cant move the guild there",
+  "expected_result": "Sometimes a block icon will appear, sometimes it wont",
+  "short_description": "Trying to move your server into discord logo sometimes shows you a block icon",
+  "steps_to_repro": "- Get a random guild and try to put it above the discord logo - keep on moving around it the logo"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b1de8a22cc78ff5d2136237",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2121,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/EygvaVe1",
+ "data": {
+  "system_settings": "; Windows 10 64-bit Version 1709 OS Build",
+  "client_settings": "Release Channel: canary, Build Number: 16727, Version Hash: d3400266c1788b6d6174c229e39842e66a9336bf",
+  "actual_result": "Discord crashes/restarts",
+  "expected_result": "You leave the voice channel",
+  "short_description": "Discord restarts after leaving voice channels",
+  "steps_to_repro": "- Be in voice channel - Leave voice channel"
+ }
+}

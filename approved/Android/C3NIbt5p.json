@@ -1,0 +1,17 @@
+{
+ "id": "59a13644090e16633355e5ba",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 658,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/C3NIbt5p",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 4.1.1",
+  "actual_result": "the invite dialogue pops up after creating the server",
+  "expected_result": "jump to text chat",
+  "short_description": "Invalid Invite dialogue pop-ups when creating a new server [5.x Only]",
+  "steps_to_repro": "- create a new server"
+ }
+}

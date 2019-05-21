@@ -1,0 +1,17 @@
+{
+ "id": "5b144340a004c1a38678c432",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2093,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/iSeTwWqm",
+ "data": {
+  "system_settings": "Windows 10 Home v.1803",
+  "client_settings": "Discord Canary buildnumber: 16234",
+  "actual_result": "Discord Canary randomly crashes and restarts. When I'm in a voice channel it does rejoin after Discord has restarted.",
+  "expected_result": "Discord Canary isn't supposed to randomly crash during games.",
+  "short_description": "Discord Canary restarts when playing Rainbow Six Siege",
+  "steps_to_repro": "- I use Discord Canary to chat and speak to other people in the community. - I launch Rainbow Six Siege via Steam. - Discord Canary crashes and restarts multiple times during my playsession. The interval of the crashes differs every time.- I also have Spotify up and playing during the launch of the game with Steam."
+ }
+}

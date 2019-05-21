@@ -1,0 +1,30 @@
+{
+ "id": "5b00f6803ea786f5bc00932e",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1436,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/W6H6nws8",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.7.4",
+  "actual_result": "The keyboard is open as well as the member list/channel drawer, and you can type behind",
+  "expected_result": "I don't think it's a bug that tapping both Add file and Member list opens two things. However, I believe that switching to regular keyboard from the Attach file menu should close one of them or at least prevent you from typing",
+  "short_description": "Can type behind the channel drawer and member list",
+  "steps_to_repro": "- Go to a server - Tap on Add file button and Member list button at the same time. Also works with Channel drawer - Tap the Keyboard button on the attach file menu"
+ }
+}

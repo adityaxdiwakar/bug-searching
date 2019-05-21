@@ -1,0 +1,15 @@
+{
+ "id": "581b40eaecb4f62b53cb40b6",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 107,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JbBuWWXj",
+ "data": {
+  "actual_result": "It just shows '\u2705 gmd.join'.",
+  "expected_result": "`gdm.join` has a nice explaination like the website does",
+  "short_description": "`gdm.join` OAuth scope has no description in user settings but it does have one on the website",
+  "steps_to_repro": "- Create OAuth app - Request `gmd.join` and authorize - Check user settings "
+ }
+}

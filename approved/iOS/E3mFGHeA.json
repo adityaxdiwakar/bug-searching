@@ -1,0 +1,29 @@
+{
+ "id": "58b86da5023d0d081d21966d",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 211,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/E3mFGHeA",
+ "data": {
+  "system_settings": " iOS 9.3.5, iPhone 5s, TestFlight 1.8.3 (72)",
+  "actual_result": "Nothing happens",
+  "expected_result": "A modal appears with the option to delete the message",
+  "short_description": "The messages which states a message has been pinned cannot be deleted",
+  "steps_to_repro": "- Long hold the message has been pinned message "
+ }
+}

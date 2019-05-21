@@ -1,0 +1,30 @@
+{
+ "id": "5b6500f0ec08245978100930",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1775,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DhwPObYO",
+ "data": {
+  "system_settings": "Pixel 2 XL - Android 8.1",
+  "client_settings": "Alpha 7.2.4",
+  "actual_result": "The playing status gets stuck until you restart the app",
+  "expected_result": "The playing status goes away because you're no longer playing the game",
+  "short_description": "Removing a playing status doesn't remove it locally",
+  "steps_to_repro": "- Start playing a game/Listening to Spotify and ensure it's detected as a playing status - Stop playing the game/Listening to spotify so your status gets removed - Observe your playing status in the member list and user settings and compare it with the desktop app"
+ }
+}

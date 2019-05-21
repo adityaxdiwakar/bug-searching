@@ -1,0 +1,30 @@
+{
+ "id": "5ae9c932da59f09bab0743e7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1355,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hfOsodBS",
+ "data": {
+  "system_settings": "OnePlus 3T Android O (8.0.0)",
+  "client_settings": "Discord Alpha 6.6.0",
+  "actual_result": "Only the second checkbox is (un-)checked, as your first tap is undone.",
+  "expected_result": "Both checkboxes should be (un-)checked",
+  "short_description": "When tapping two checkboxes in quick fashion it undoes the (un-)check of the first one.",
+  "steps_to_repro": "- Go into a setting that has checkboxes e.g. roles or permissions - Tap two checkboxes quickly after each other"
+ }
+}

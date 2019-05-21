@@ -1,0 +1,30 @@
+{
+ "id": "5b2649cb13839d1dc84f2ef5",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1554,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BcOzjK8X",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "Quick switcher leaves an empty space at the bottom ONLY when doing the reproducible steps above accurately!",
+  "expected_result": "Quick switcher should adjust itself to size of Discord app while in split screen mode.",
+  "short_description": "New quick switcher window leaves a bit of space at the bottom while in split screen mode.",
+  "steps_to_repro": "- Open Discord and toggle split screen mode. - Resize Discord so that it occupies 1/3rd (minimum) size of the screen and tap on it to focus the Discord app. - Slide from left to right, to open side panel and click on quick switcher icon at the bottom. - Notice the keyboard pops up, close it using navigation back button on your device. - Now at the end, resize Discord to 1/2 screen size (occupying half of the screen) while the quick switcher is open and keyboard closed. - Retry from step one if you don't get it at the first time."
+ }
+}

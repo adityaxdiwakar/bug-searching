@@ -1,0 +1,30 @@
+{
+ "id": "59f8ea9bac12c09f24c787b5",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1336,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jfq26mj4",
+ "data": {
+  "system_settings": "macOS 13",
+  "client_settings": "Desktop Stable October 5 2017 release",
+  "actual_result": "The application crashes",
+  "expected_result": "Screenshare is supposed to work",
+  "short_description": "Enabling screenshare on macOS causes the app to crash",
+  "steps_to_repro": "- Make a video call - enable screenshare"
+ }
+}

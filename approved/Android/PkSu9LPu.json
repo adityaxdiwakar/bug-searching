@@ -1,0 +1,17 @@
+{
+ "id": "5ada56b7aa4a15fa5a51e40f",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1302,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PkSu9LPu",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 \u2022 Android 7.0",
+  "client_settings": "Android Alpha 6.5.5",
+  "actual_result": "An @invalid-user mention appears. If you let the mention reload (change channel, scroll) it will be displayed correctly.",
+  "expected_result": "The user mention should be displayed correctly",
+  "short_description": "Invalid User-Mentions in Embeds",
+  "steps_to_repro": "- Let a bot mention another user in an embed (Not yourself!) - Kill Discord from recent apps - Re-open Discord"
+ }
+}

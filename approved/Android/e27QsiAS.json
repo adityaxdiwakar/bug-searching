@@ -1,0 +1,30 @@
+{
+ "id": "5a755593e35340286632feee",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1093,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/e27QsiAS",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.1.9",
+  "actual_result": "The emote drawer closes instead",
+  "expected_result": "The channel drawer closes",
+  "short_description": "The channel drawer won't close using the back button with the emote drawer open",
+  "steps_to_repro": "- Open the emote drawer by clicking on the emote button - Open the channel drawer while the emote drawer is still open - Press the back button"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a72a3be272e3752404dff2c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1609,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eUcCVebC",
+ "data": {
+  "system_settings": "Windows 7 Professional x64 (7601)",
+  "client_settings": "Canary 0.0.201 (Build 10094)",
+  "actual_result": "Part of the edited stamp is cut off, leaving the rest being wrapped.",
+  "expected_result": "Edited stamp should be wrapped normal",
+  "short_description": "Edited time stamp is wrapped like normal text",
+  "steps_to_repro": "- Copy the separation line from Bug Bot's report - Paste it in a text channel then edit something ABOVE the line - Pin the message to the channel - Check the pinned messages and observe"
+ }
+}

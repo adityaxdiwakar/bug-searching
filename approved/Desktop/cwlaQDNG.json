@@ -1,0 +1,30 @@
+{
+ "id": "5b7a85b30f3d4f6e8f66f11f",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2747,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cwlaQDNG",
+ "data": {
+  "system_settings": "macOS 10.13.6",
+  "client_settings": "Chrome 68.0.3440.106",
+  "actual_result": "It shows my laptop's webcamera (my face), not the selected web camera",
+  "expected_result": "it shows the selected web camera (CamTwist)",
+  "short_description": "Uses wrong webcam",
+  "steps_to_repro": "- Select a web camera (in my case CamTwist)  - \"Text video\": shows the correct (CamTwist) camera - Turn on web camera in a call"
+ }
+}

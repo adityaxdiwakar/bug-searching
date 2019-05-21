@@ -1,0 +1,15 @@
+{
+ "id": "5873f591c50d4e21b4d141e3",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 157,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/fz1pT5sS",
+ "data": {
+  "actual_result": "notifications show up (indicating cellular data is used even though it's toggled off)",
+  "expected_result": "dm doesn't show up as data is off for the app",
+  "short_description": "group dm notifications still show up if cellular data is off for Discord",
+  "steps_to_repro": "- go off wifi and onto cellular data - turn off cellular data for discord only - wait for a notification from a group dm "
+ }
+}

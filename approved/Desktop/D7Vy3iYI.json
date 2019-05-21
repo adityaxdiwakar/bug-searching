@@ -1,0 +1,24 @@
+{
+ "id": "5a1e1875f6f1653efcef9703",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1410,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/D7Vy3iYI",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Desktop Canary build 7711",
+  "actual_result": "The toggle button tries sliding but goes back to its original position.",
+  "expected_result": "The toggle button slides to the opposite side.",
+  "short_description": "Toggle button animation is broken in Notification Settings.",
+  "steps_to_repro": "- In any server open Notification Settings - Try changing any of the \"toggle\" settings - (Note that the underlying setting does change but you have to close and reopen the modal for the changes to appear)"
+ }
+}

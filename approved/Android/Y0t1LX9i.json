@@ -1,0 +1,30 @@
+{
+ "id": "5b9554d268b2e05fdbc40367",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1955,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Y0t1LX9i",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, 8.0.0",
+  "client_settings": "7.4.2",
+  "actual_result": "Message settings screen comes.",
+  "expected_result": "Message settings  screen would not come because you are in a different server",
+  "short_description": "Message settings appears on when you go to profile select mutual servers and select one",
+  "steps_to_repro": "- Send a message in any channel - Click and hold the message  - When the scren comes, click on your name and it will go to your profile - Go to mutual servers and select one - The message settings screen will come."
+ }
+}

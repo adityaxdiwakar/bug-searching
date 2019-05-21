@@ -1,0 +1,16 @@
+{
+ "id": "590488f75112f356da48fc6a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 574,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7adm0wpP",
+ "data": {
+  "system_settings": " Discord Canary Latest, macOS 10.12.4",
+  "actual_result": "It goes over the log.",
+  "expected_result": "The channel name shouldn't clip over the edge of the log",
+  "short_description": "Long channel name clips audit log",
+  "steps_to_repro": "- **CANARY ONLY** - Do something to a channel with a *really* long name - Look at the audit log, specifically the channel you just did something with. "
+ }
+}

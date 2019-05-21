@@ -1,0 +1,30 @@
+{
+ "id": "5c17862ba9799e094e4924a9",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2383,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PsKvFedy",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 8.1.4",
+  "actual_result": "The chat moves down and follows the new messages, with the typing indicator covering half of the latest message",
+  "expected_result": "The chat should not move at all because you're away from the bottom",
+  "short_description": "The chat will still follow new messages even if you're scrolled a bit away from the bottom",
+  "steps_to_repro": "- Go in a text channel - Scroll up a very little bit (the scroll distance must not exceed the height of the typing indicator banner)  - Wait for people to send new messqges in the channel"
+ }
+}

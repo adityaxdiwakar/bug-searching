@@ -1,0 +1,29 @@
+{
+ "id": "588bcdda6bdaf7fa375bbb24",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 169,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5fMnIQFL",
+ "data": {
+  "system_settings": " iphone 6, latest discord, latest iOS",
+  "actual_result": "nothing happens when you click 'create'",
+  "expected_result": "you get an error because there is a space in the name (like it does if you try and make one via server settings)",
+  "short_description": "text channel doesn't give error when trying to make one with a space in the name",
+  "steps_to_repro": "- go to a server where you can create a text channel - click the + button on the main server page (NOT server settings) to make a text channel - try and make a text channel with a space in the name 'test channel' "
+ }
+}

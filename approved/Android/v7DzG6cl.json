@@ -1,0 +1,30 @@
+{
+ "id": "5ba214a6781ca8062ba7e251",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1992,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/v7DzG6cl",
+ "data": {
+  "system_settings": "Samsung Galaxy Core Plus sm-g350, 4.2.2",
+  "client_settings": "Android Alpha 7.5.2",
+  "actual_result": "Verified servers show just like any other server",
+  "expected_result": "Verified servers are supposed to have a mark that shows they're verified",
+  "short_description": "Verified servers don't show as verified servers in mutual servers",
+  "steps_to_repro": ""
+ }
+}

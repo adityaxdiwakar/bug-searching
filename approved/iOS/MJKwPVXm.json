@@ -1,0 +1,36 @@
+{
+ "id": "5ace516f78637fcf51e9ec6f",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 671,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MJKwPVXm",
+ "data": {
+  "system_settings": "- iPhone X, iOS 11.2.2",
+  "client_settings": "- Discord TestFlight 2.3.0 (3740)",
+  "actual_result": "- Unable to see the status of the user, as not status is visible, even if they have an online status enabled",
+  "expected_result": "- Able to see the status of the user (Online, Away, DND etc.)",
+  "short_description": "Unable to see user statuses in profiles",
+  "steps_to_repro": "- Find a user- Click on a user - Click Profile - Status is unable to be seen in the profile"
+ }
+}

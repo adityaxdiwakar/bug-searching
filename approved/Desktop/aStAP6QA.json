@@ -1,0 +1,24 @@
+{
+ "id": "598b75b2f93f7d3821568ee1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 960,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aStAP6QA",
+ "data": {
+  "system_settings": "Windows 10 x64 CU",
+  "client_settings": "Desktop Discord Canary 0.0.163",
+  "actual_result": "For the role color it shows \"Disabled for everyone\" and for the rest there is no text being shown",
+  "expected_result": "All of these options will show some error regarding the highest role being below the role you're attempting to modify",
+  "short_description": "Incorrect tooltip when attempting to edit a role higher than yours.",
+  "steps_to_repro": "- Be in a server with access to modifying permissions of the roles below you without your role being the highest one or being the owner - Go to the permissions of a role that is above your highest one - Hover over the color attribute or the rest of the permissions"
+ }
+}

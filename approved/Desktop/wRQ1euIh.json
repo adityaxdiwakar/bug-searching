@@ -1,0 +1,30 @@
+{
+ "id": "5a0e324b67c87ed4bd7e17be",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1379,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wRQ1euIh",
+ "data": {
+  "system_settings": "Windows 7 Professional x64 (7601)",
+  "client_settings": "Canary 0.0.177 (Build 7393)",
+  "actual_result": "Half of the Embed display is cut off.",
+  "expected_result": "The entire Embed display should be fitted properly.",
+  "short_description": "Embed YouTube links in Pinned Messages are cut off",
+  "steps_to_repro": "- Go to a channel and post a YouTube video (Must be Embed) - Pin that video - Check the Pinned Messages"
+ }
+}

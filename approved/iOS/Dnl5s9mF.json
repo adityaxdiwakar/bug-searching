@@ -1,0 +1,30 @@
+{
+ "id": "59f36bb05a70298aa9a8bdb5",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 397,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Dnl5s9mF",
+ "data": {
+  "system_settings": "iPhone7s 11.0.3",
+  "client_settings": "Testflight 1.9.3",
+  "actual_result": "Stays there",
+  "expected_result": "Disappears",
+  "short_description": "Category doesn\u2019t collapse when text channels are marked as read while being in text channel in same category.",
+  "steps_to_repro": "- Go to channel in category that has many text channel unread - Make sure category is set to collapse - Mark other text channel in category as read - ObserveNote: `The reporter meant that the channels that got marked as read via long pressing a channel and then the \"Mark as read\" button won't disappear, not the category.`"
+ }
+}

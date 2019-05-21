@@ -1,0 +1,24 @@
+{
+ "id": "59efed78fbba38c430633f71",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 841,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4hPt6EIo",
+ "data": {
+  "system_settings": "Android 7.0 Moto G4",
+  "client_settings": "Android Alpha 5.4.6",
+  "actual_result": "All 3 tabs get erased and won't come back until you exit out of the profile",
+  "expected_result": "You should see the same information from from all 3 tabs when rotating",
+  "short_description": "User profile card gets erased",
+  "steps_to_repro": "-  Hold on a random user's pfp - Scroll up from the mini profile and click \"Profile\" - Rotate your screen from portrait to landscape or vice versa"
+ }
+}

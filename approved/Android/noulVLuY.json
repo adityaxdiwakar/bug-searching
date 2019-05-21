@@ -1,0 +1,30 @@
+{
+ "id": "5be5f81040315f48f1e03451",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2294,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/noulVLuY",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.8.6",
+  "actual_result": "The option is available, and when clicked the picture preview becomes blank and pressing Save will do nothing",
+  "expected_result": "There shouldn't be a \"remove\" option under the picture because there is none",
+  "short_description": "\"Remove\" option is available below Group DM picture when there is none",
+  "steps_to_repro": "- Find a Group DM with the default logo - Go to group DM settings"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bb60aacd8a14d30f63c0f95",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3089,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tF7ROWWn",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS 10.13.6",
+  "client_settings": "Canary 25439",
+  "actual_result": "The objects are miscentered.",
+  "expected_result": "The objects in the icon should be centered.",
+  "short_description": "When on 90% Zoom (or lower EXCEPT lowest), objects in the Colorblind Mode status icons are misaligned.",
+  "steps_to_repro": "- Enable Colorblind Mode if you need to (User Settings > Appearance > Colorblind Mode). - Set yourself to Do not Disturb or Idle, or ask a friend to set their status. - Look at the status icon in the server menu list"
+ }
+}

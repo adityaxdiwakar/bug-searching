@@ -1,0 +1,29 @@
+{
+ "id": "58e81f3d98fddad1b1fdb614",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 484,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ovnlzrbV",
+ "data": {
+  "system_settings": " Latest canary, win10 pro",
+  "actual_result": "Discord hangs forever, even upon restarting discord will hang. Delete your localstorage to get out of it",
+  "expected_result": "Nothing?",
+  "short_description": "When adding the overlay to a program that has no forground presence, electron/discord stops responding and crashes",
+  "steps_to_repro": "- Add a program as a game and enable the overlay - start that program and make sure the overlay loads - close that program and add a program like windows 10 mail as a game, make sure it has no windows open - hit the overlay toggle for the second program "
+ }
+}

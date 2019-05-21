@@ -1,0 +1,30 @@
+{
+ "id": "5ad598166e1bd4842a078acf",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 682,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3PGoVW2g",
+ "data": {
+  "system_settings": "<iPhone 7+ ios 11.1.2>",
+  "client_settings": "<Discord 2.3.0>",
+  "actual_result": "<Hype Squad and Discord Nitros blocks the actual sign. >",
+  "expected_result": "<it will glitch out the \"You changing your Avatar to  again later>",
+  "short_description": "<behind the badge when being rate limited>",
+  "steps_to_repro": "- Step 1 Change your picture once  - Step 2  repeat step 1 twice - etc"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "5824c72912c1b21512aad91d",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 126,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ObzPv79S",
+ "data": {
+  "actual_result": "Blank Discord Window until 2nd refresh",
+  "expected_result": "Immediate refresh",
+  "short_description": "Refresh never works on initial try",
+  "steps_to_repro": "- Refresh "
+ }
+}

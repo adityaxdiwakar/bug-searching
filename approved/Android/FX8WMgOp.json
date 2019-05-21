@@ -1,0 +1,30 @@
+{
+ "id": "5bc8a77a906b00684d981718",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2193,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FX8WMgOp",
+ "data": {
+  "system_settings": "Nexus 5x Android 8.1.0",
+  "client_settings": "Android Alpha 7.5.5",
+  "actual_result": "Users cached from your main account that you talked to appear when you type their name even though you never spoke to them or share server in this new account",
+  "expected_result": "No users should pop up",
+  "short_description": "Registering a new account after signing out of your main account carries over users in the \"Find or Start a Conversation\"",
+  "steps_to_repro": "- Sign into your main - Talk to some people in your DMs - Sign out - Register a new account - After registering go to the \"Find or Start a Conversation\" in the DM list - Type in a user that you talked to with on your main"
+ }
+}

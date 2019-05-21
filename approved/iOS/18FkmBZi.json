@@ -1,0 +1,17 @@
+{
+ "id": "5bd1aec3d43ab84a00564c40",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1115,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/18FkmBZi",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12",
+  "client_settings": "Testflight 2.4.0 (8616)",
+  "actual_result": "They are different",
+  "expected_result": "They should be the same",
+  "short_description": "Lines after number's in audit logs aren't aligned",
+  "steps_to_repro": "- Do something where there will be lots of numbers - Compare how the lines aren't the same size or are aligned"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59684e3af01f0c6d1affa0a4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 850,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HdKsC8tn",
+ "data": {
+  "system_settings": "Windows 10 64bit pro",
+  "client_settings": "Discord Canary 0.0.158",
+  "actual_result": "Sometimes it will hear everything, other times it will act like there is nothing being broadcasted.",
+  "expected_result": "It behavious like previously did",
+  "short_description": "Manual voice activation is broken (either always on or off)",
+  "steps_to_repro": "- Settings > Voice > voice activity - Disable automatically determine input sensitivity - Join a voice call"
+ }
+}

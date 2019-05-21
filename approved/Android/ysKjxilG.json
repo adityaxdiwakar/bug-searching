@@ -1,0 +1,36 @@
+{
+ "id": "5bda7f5d19a60617e0838835",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2274,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ysKjxilG",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Skye Pro 7.0.1",
+  "client_settings": "Discord Alpha 7.8.4",
+  "actual_result": "When you @ it cuts the person name",
+  "expected_result": "When you @ it shouldn't cut.",
+  "short_description": "@ing doesn't show all it use to.",
+  "steps_to_repro": "- Start to @ someone and it'll be cut"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b762f88911a22333d3fc02b",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2725,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KGwFvpeA",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Number: 22066, Version Hash: 550d50f4296613eb902516ed68fc9d491273bd59",
+  "actual_result": "The Search Bar For Questions/Answers Goes Away",
+  "expected_result": "Step One - Resize your window to like 1600x1000 or lower",
+  "short_description": "The Search Bar for Answers and Questions in The Help Menu Disappears when in 200% Zoom Mode",
+  "steps_to_repro": "- Open the help menu at the top right hand corner below the close button Step Two - Zoom using Ctrl + Step Three - Watch it disappear"
+ }
+}

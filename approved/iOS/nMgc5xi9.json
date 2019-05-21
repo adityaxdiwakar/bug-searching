@@ -1,0 +1,24 @@
+{
+ "id": "5bc81a4f4d16fe4851b205cf",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1097,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nMgc5xi9",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.9 (8385)",
+  "actual_result": "The green box marking where the channel will go is moved further down the further down the channel list you go",
+  "expected_result": "The green box marking where the channel will go should be underneath the channel right below it in both spots on the list",
+  "short_description": "When sorting channels, the sorting gets more inaccurate the further down the list you go",
+  "steps_to_repro": "- Go to a server where you can manage channels - Make sure you have multiple channels and/or categories (I have about 60 channels and over 10 categories) - Go into channel settings, and click sort text channels - Hold down on a channel at the top of the list, and move it down slightly without letting go - Observe the position of the green box that marks where the channel will be placed - Put the channel back where it was previously, and scroll down to about the bottom of the list - Hold down on a channel near the bottom of the list, and move it slightly downwards without letting go - Observe the location of the green box that marks where the channel will be placed"
+ }
+}

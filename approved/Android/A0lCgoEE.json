@@ -1,0 +1,17 @@
+{
+ "id": "5bb780e74f42ab60ee13770f",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2104,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/A0lCgoEE",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Mini Android 6.0.1",
+  "client_settings": "Alpha 7.6.3",
+  "actual_result": "it sais: \"for channel #null\"",
+  "expected_result": "entry should tell us the ID of the channel",
+  "short_description": "[Audit Log] creating an invite to a channel and deleting the channel afterwards let's the invite create entry show incorrectly",
+  "steps_to_repro": "- create an invite to a channel - delete that channel - observe expand of the invite create entry"
+ }
+}

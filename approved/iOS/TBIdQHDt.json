@@ -1,0 +1,35 @@
+{
+ "id": "58703d4fa73e0f0c4c957dbc",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 156,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TBIdQHDt",
+ "data": {
+  "system_settings": " iOS 9.3.5, latest TestFlight, iPad 4th gen",
+  "actual_result": "the link will partially line break with a long box left behind.",
+  "expected_result": "The mention, if it doesn't fit, will line break.",
+  "short_description": "Discord based links (ie channel and user mentions) format in a weird way",
+  "steps_to_repro": "- Write a message with a channel and/or user mention at the end. "
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "58ff059d3e429e7e9d31abf0",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 557,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rfhHTRaq",
+ "data": {
+  "system_settings": " Win10x64, latest canary.",
+  "actual_result": "It reads as if it was a server being edited.",
+  "expected_result": "It reads as if it was a channel being edited.",
+  "short_description": "Channel setting for external emojis text references it being a server",
+  "steps_to_repro": "- Edit a role's permission in a channel - Scroll to \"Use external Emojis\" and read it - etc "
+ }
+}

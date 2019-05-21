@@ -1,0 +1,30 @@
+{
+ "id": "5a7152f6067df340ff8a18a8",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1085,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gCv87Amm",
+ "data": {
+  "system_settings": "Pixel XL 2; Android 8.1",
+  "client_settings": "Alpha 6.1.9",
+  "actual_result": "The current Android theme doesn't change. Completely closing out of the app and re-opening it does sync it, though",
+  "expected_result": "The theme should sync back to the previously set theme",
+  "short_description": "Sync across clients toggle does nothing when re-enabled",
+  "steps_to_repro": "- Disable \"Sync across clients\" - Change your theme - Enable \"Sync across clients\""
+ }
+}

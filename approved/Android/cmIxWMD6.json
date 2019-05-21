@@ -1,0 +1,24 @@
+{
+ "id": "59c3df26f7addebd3942f291",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 754,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cmIxWMD6",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, 7.0",
+  "client_settings": "Android Alpha 5.2.2",
+  "actual_result": "Server emojis stay for multiple channels",
+  "expected_result": "Server emojis should disappear on each channel change, like text does.",
+  "short_description": "Server Emojis typed out (not sent) only disappear after switching channels 2-3 times.",
+  "steps_to_repro": "- Type out local server emojis in a message, but don't send - Switch to 2-3 channels you can type in - Server emojis disappear after the 2nd-3rd channel change"
+ }
+}

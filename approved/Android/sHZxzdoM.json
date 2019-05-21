@@ -1,0 +1,15 @@
+{
+ "id": "586e3b64b735bdba51068a99",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 168,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/sHZxzdoM",
+ "data": {
+  "actual_result": "The little (edited) appears in the bottom, like the message was edited. ( Latest Alpha)",
+  "expected_result": "The message stays the same",
+  "short_description": "When clicking edit on a message, even if you don't edit anything, the little (edited appears)",
+  "steps_to_repro": "- send a message - click edit - click the send arrow to send the message "
+ }
+}

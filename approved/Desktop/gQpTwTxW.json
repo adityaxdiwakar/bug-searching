@@ -1,0 +1,24 @@
+{
+ "id": "5a4d6bc710e0a1fd79d5685e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1507,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gQpTwTxW",
+ "data": {
+  "system_settings": "Windows 10 Pro",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 9209, Version Hash: 3095493abadc19fab057b308eb78e3b2e8635a92",
+  "actual_result": "Current profile picture stays the same after upload and pressing save.",
+  "expected_result": "Your new profile picture is supposed to be displayed and saved after uploading / pressing save.",
+  "short_description": "Cannot change profile picture on Canary",
+  "steps_to_repro": "- Open your settings - Press edit on your profile - upload new profile picture (tested only with gif as I'm ratelimited :^) ) - Your current profile picture will stay and pressing save won't change anything."
+ }
+}

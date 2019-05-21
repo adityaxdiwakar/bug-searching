@@ -1,0 +1,36 @@
+{
+ "id": "59bb9ffb387d1d55db6b5093",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 331,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5a5e61490661fc1c89f71a0a",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6p9MjTtg",
+ "data": {
+  "system_settings": "iPhone 5S iOS 9.3.2",
+  "client_settings": "Discord TestFlight 1.9.1",
+  "actual_result": "I can't hear my friends speaking in VC, even though I can see the voice circle around their pfp light up",
+  "expected_result": "After the phone call, VC should work fine and just allow you to speak and hear everyone else in it",
+  "short_description": "I can't hear others in VC after making a phone call",
+  "steps_to_repro": "- Join a VC.- While still connected to the VC, exit the Discord app and make a phone call.- End the phone call, and go back to Discord."
+ }
+}

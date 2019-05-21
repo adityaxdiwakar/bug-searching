@@ -1,0 +1,17 @@
+{
+ "id": "5b20567a657428755ceb8552",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1531,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LrPdwA8I",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0  5th of March update.",
+  "client_settings": "Discord Alpha 6.8.7 (687)",
+  "actual_result": "All messages fail to deliver until discord is fully closed and reopened, at which point messages are delivered immediate again.",
+  "expected_result": "Pressing resend or sending a new message would reconnect to the server and deliver the message.",
+  "short_description": "after losing connection sending messages always fail until full close",
+  "steps_to_repro": "- Send message while losing/changing internet connection - Attempt to resend the message or try to send a new message."
+ }
+}

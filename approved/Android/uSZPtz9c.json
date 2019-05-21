@@ -1,0 +1,24 @@
+{
+ "id": "598cfe17914f0f3a976e5f6a",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 615,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uSZPtz9c",
+ "data": {
+  "system_settings": "Android 6.0.1",
+  "client_settings": "4.0.4",
+  "actual_result": "You can watch pinned and nearest to it messages in NSFW channels even if you didn't confirm your age",
+  "expected_result": "Pinned Messages button in NSFW channel shouldn't be available until you enter the channel",
+  "short_description": "NSFW can be watched in pinned messages on Android (not similar to #1248)",
+  "steps_to_repro": "- Go to any NSFW channel - Open \"Pinned Messages\""
+ }
+}

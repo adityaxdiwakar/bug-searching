@@ -1,0 +1,23 @@
+{
+ "id": "58ee752a8411b3343485140e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 352,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/05r0wFz7",
+ "data": {
+  "system_settings": " Discord 3.6.3 Android 6.0",
+  "actual_result": "Drawer opens and one character is erased",
+  "expected_result": "Drawer shouldn't open and characters should continuously erase",
+  "short_description": "Backspace opens right drawer",
+  "steps_to_repro": "- Open emoji picker - Hold on backspace of the emoji picker at the edge "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b8bf7d17b913650249a9c6e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1919,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SuHHraaw",
+ "data": {
+  "system_settings": "Android 8.1.0",
+  "client_settings": "7.4.2 (742)",
+  "actual_result": "Searches for \"link ed\" instead (Side note: the search API already seems to handle removing \"ed\", \"s\", etc. when they're part of a word)",
+  "expected_result": "Should search for \"linked\"",
+  "short_description": "Search doesn't work as expected when searching for links ending in \"ed\" or \"s\", this is caused by the client searching for \"link ed\" instead of \"linked\" etc.",
+  "steps_to_repro": "- Search for something ending in \"ed\" such as \"linked\""
+ }
+}

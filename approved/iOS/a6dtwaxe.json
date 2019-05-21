@@ -1,0 +1,17 @@
+{
+ "id": "5affde8bb1b7f7b9da406e0a",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 759,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/a6dtwaxe",
+ "data": {
+  "system_settings": "iPhone 5s ios 11.3.1",
+  "client_settings": "TestFlight 2.3.2 (4528)",
+  "actual_result": "dot circle gets cut off.",
+  "expected_result": "You should able to see the dot circle, long user name should shown as name and tags and \".... \" in the end if it gets too long.",
+  "short_description": "when adding friends to group dm, long user name cause visual bug (dot circle) to be cut off by screen, happening to certain user name as well.",
+  "steps_to_repro": "- have a friend with long user name (feel free to ask me, I have two long names). - go to the group dm page and try add your friend into the group dm. - observe how the circle is missing/cut off. - Note: confirmed by eMagic that it is a bug, and also it might appear differently on different ios devices."
+ }
+}

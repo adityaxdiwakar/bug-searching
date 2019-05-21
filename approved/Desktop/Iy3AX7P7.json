@@ -1,0 +1,24 @@
+{
+ "id": "59b395c8955acb770693256c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1102,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Iy3AX7P7",
+ "data": {
+  "system_settings": "Windows 10 Pro, Lenovo Thinkpad T400",
+  "client_settings": "Canary Build Number 4053",
+  "actual_result": "A prompt pops up asking to sync permissions or not (but you still can't add it to the category)",
+  "expected_result": "Nothing should happen",
+  "short_description": "Prompt pops up when trying to add a lock voice channel",
+  "steps_to_repro": "- Have a server where you have the \"Manage Channels\" permission in your role - Have someone higher than you make a voice channel where only a role higher than you can connect - Create a category - Try to move the voice channel into the category"
+ }
+}

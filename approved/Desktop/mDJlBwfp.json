@@ -1,0 +1,16 @@
+{
+ "id": "580fc59745bdacc369c2852c",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 61,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mDJlBwfp",
+ "data": {
+  "system_settings": " Canary ",
+  "actual_result": "\"You already have 50 pinned messages\"",
+  "expected_result": "either: \"You can't pin that!\" or \"pinned :)\"",
+  "short_description": "Pinning a \"mod pinned message\" alert causes discord to give you a pin limit message",
+  "steps_to_repro": "- Write a message - Pin that message - Attempt to pin the pin alert "
+ }
+}

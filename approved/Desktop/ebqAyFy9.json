@@ -1,0 +1,30 @@
+{
+ "id": "5ae99fdd754f30342f2bef2a",
+ "closed": false,
+ "idList": "5ae9076e854dae760b97993a",
+ "idShort": 1918,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ebqAyFy9",
+ "data": {
+  "system_settings": "MacBook Air Early 2015, macOS High Sierra 10.13.3",
+  "client_settings": "Mac Discord Canary 0.0.188, Build Number 14432",
+  "actual_result": "Some of the lines disappear, and will switch with other visible lines when switching between 67% and 75% zoom.",
+  "expected_result": "You should see beautifully minimalistic grey lines of separation.",
+  "short_description": "Lines Of Separation In User Settings Disappear At And Below 75% Zoom",
+  "steps_to_repro": "- Go to Discord's user settings menu - Zoom out to 75% or less - Observe the small grey separation lines surrounding Discord Nitro and the ChangeLog buttons"
+ }
+}

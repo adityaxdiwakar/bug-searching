@@ -1,0 +1,17 @@
+{
+ "id": "5c28684741cacd797f0015ea",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 3555,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FECKTZXl",
+ "data": {
+  "system_settings": "Windows Home 1809, Discord Canary 30302",
+  "client_settings": "The developer portal doesn't have a version in the console.... so, just canary the developer portal on 2018-12-29",
+  "actual_result": "The keyboard focus is not on anything",
+  "expected_result": "The keyboard focus should be back on the username field",
+  "short_description": "Adding a tester to an application doesn't put keyboard focus back on the input",
+  "steps_to_repro": "- Go to the developer portal - Create an application, or go to an existing one - Go to the \"App Whitelist\" panel - Enter a non-existent username, and press the enter key - The keyboard focus is now not on the username field - This problem also occurs if the username does exist, but this isn't as much of an issue"
+ }
+}

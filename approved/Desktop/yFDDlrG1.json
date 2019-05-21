@@ -1,0 +1,17 @@
+{
+ "id": "5c37d818cebb4e2d3650556e",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3620,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yFDDlrG1",
+ "data": {
+  "system_settings": "Windows 10 home 1809 x64",
+  "client_settings": "Discord Canary Host 0.0.227, Build 30733",
+  "actual_result": "The playing text is bright.",
+  "expected_result": "Text shouldn't be bright",
+  "short_description": "Friends currently playing status on the DM list is bright",
+  "steps_to_repro": "- Find a friend playing a game thats on your DM list - Observe the Currently playing text"
+ }
+}

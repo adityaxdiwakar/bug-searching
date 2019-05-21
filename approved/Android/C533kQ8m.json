@@ -1,0 +1,30 @@
+{
+ "id": "5bc846c027f75541de4ba03c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2190,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/C533kQ8m",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.7.5",
+  "actual_result": "The Invite button comes back and you can invite that person one more time",
+  "expected_result": "The \"invite sent\" should stay",
+  "short_description": "Can invite same person several times by rotating screen",
+  "steps_to_repro": "- Go to the new Invite people screen  - Select any user and tap the Invite button - After the button turned into \"invite sent\", rotate the screen - Rotate the screen back in portrait in case you can't see the user list"
+ }
+}

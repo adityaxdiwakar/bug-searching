@@ -1,0 +1,30 @@
+{
+ "id": "5b9999c51bb8e276b3c29c38",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1980,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7Ti7iVyP",
+ "data": {
+  "system_settings": "Samsung Galaxy S9 8.0",
+  "client_settings": "Discord Alpha 7.4.8",
+  "actual_result": "A warning telling you that you need 2FA enabled re-appears on all your servers you moderate with Server 2FA enabled on",
+  "expected_result": "No false warning about needing 2FA should be present as you already have it enabled",
+  "short_description": "This server requires Two-Factor Authentication warning re-appearing after viewing a reaction by you",
+  "steps_to_repro": "- Have 2FA enabled on your account - Be in a server that has Server 2FA enabled & that you have Admin privileges on - Add a reaction to a message and then open Reactions and view yours (if the message has multiple reactions, then go to the emoji that you reacted with) - Close out of Reactions and go to the server that you have Admin privileges on (if you had went into another server, otherwise just scroll the channel list up) and observe the warning at the top"
+ }
+}

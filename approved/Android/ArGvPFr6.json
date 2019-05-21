@@ -1,0 +1,17 @@
+{
+ "id": "5baa49905f0ce734810eba01",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2033,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ArGvPFr6",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 755",
+  "actual_result": "It now shows less options.",
+  "expected_result": "The number remains unchanged.",
+  "short_description": "Switching orientation (to landscape) and then switching it back (to portrait) when in filter screen causes it to have a smaller space.",
+  "steps_to_repro": "- Open Audit logs. - Select the \"Filter by Users\". - Count/Observe the number of options you can see without having to scroll. - Switch orientation to landscape and again to portrait. - Now count the number of options."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bcf583cae64c85aaf7a0ed2",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2232,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/T8CwhU4W",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 779",
+  "actual_result": "The message is displayed from the place the link ends.",
+  "expected_result": "The message in the notification is displayed from the start.",
+  "short_description": "When you get an in app notification that has a link that continues for multiple lines and click on the link, the in app notification goes to the the end of the link and when you close the custom chrome tab (or get back to the app) the text in the notification stays in the same place.",
+  "steps_to_repro": "- Get an in app notification that contains a long link (that contains multiple lines) - Click on the link. - Get back to the app after closing the page of the link. - Observe the in app notification now."
+ }
+}

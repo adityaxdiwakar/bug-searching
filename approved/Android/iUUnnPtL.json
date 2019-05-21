@@ -1,0 +1,30 @@
+{
+ "id": "5b6349f63488833f25294788",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1764,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iUUnnPtL",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, Android 7.0",
+  "client_settings": "Discord Alpha 7.2.1",
+  "actual_result": "Last Friend gets cut out, and you cannot scroll down to click on the last friend.",
+  "expected_result": "You should be able to see your last friend in the list.",
+  "short_description": "Bottom of your Friend List gets cut out when you are in VC.",
+  "steps_to_repro": "- Get in a VC - Go to Friends List - Scroll all the way down to your last friend."
+ }
+}

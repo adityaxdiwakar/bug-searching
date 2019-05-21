@@ -1,0 +1,17 @@
+{
+ "id": "5b5295db400557411e712797",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2376,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nok0CFyy",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1803",
+  "client_settings": "Firefox Stable v61.01",
+  "actual_result": "\"Public Bot\" is checked by default.",
+  "expected_result": "The bot should have \"Public Bot\" unchecked as the old Developer Portal did. You can check this by accessing the old Developer Portal through 15745",
+  "short_description": "[Website Bug] Bot users are now public by default.",
+  "steps_to_repro": "- Create an application - Create a bot user"
+ }
+}

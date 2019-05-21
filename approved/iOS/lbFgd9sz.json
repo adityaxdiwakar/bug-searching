@@ -1,0 +1,30 @@
+{
+ "id": "5a664bc2a5e8285c0838e471",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 539,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lbFgd9sz",
+ "data": {
+  "system_settings": "iPhone 6s, 11.2.2",
+  "client_settings": "TestFlight 2.2.1 (2236)",
+  "actual_result": "Unread message bar is cleared, marking all messages as read",
+  "expected_result": "Unread messages gets 1 more added to it, and bar remains there",
+  "short_description": "Receiving messages while you have the blue new message bar clears the new message bar",
+  "steps_to_repro": "- Go to a channel with multiple unread messages (easily reproducible with 50+) - Receive a new message in the channel while there are still unread messages"
+ }
+}

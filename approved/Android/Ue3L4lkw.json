@@ -1,0 +1,29 @@
+{
+ "id": "582b1d1d0a15ebb7813b2a39",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 95,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ue3L4lkw",
+ "data": {
+  "system_settings": " Android 6.0.1 ",
+  "actual_result": "Marks all channels as read",
+  "expected_result": "Should indicate that you have unread messages in channels when you click on the server",
+  "short_description": "When muting a server every channel is marked as read until you unmute the server",
+  "steps_to_repro": "- Mute server you have unread channels in - Look at the channel list in that server - Unmute the server - Look at the channel list in the server again "
+ }
+}

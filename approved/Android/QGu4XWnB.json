@@ -1,0 +1,30 @@
+{
+ "id": "5ba3635e597e8163e8a110ea",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1993,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QGu4XWnB",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.3",
+  "actual_result": "Text in button is invisible and there's a white line below it",
+  "expected_result": "Create Invite button text visible",
+  "short_description": "Update 7.5.3 messed up the design of the Create instant invite button on Light theme",
+  "steps_to_repro": "- Update to 7.5.3 - Use Light theme  - Open channel drawer"
+ }
+}

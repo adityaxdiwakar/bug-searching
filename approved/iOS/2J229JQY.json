@@ -1,0 +1,17 @@
+{
+ "id": "5bd14f6cb3a093222acacf3b",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1111,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2J229JQY",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 4",
+  "client_settings": "TestFlight 2.4.0 (8616)",
+  "actual_result": "Entry doesn't show what permissions were granted/denied",
+  "expected_result": "Entry shows what permissions were granted/denied",
+  "short_description": "Audit log entries for updating channel permissions don't say what permission was granted",
+  "steps_to_repro": "- Go to a channel where you can view the audit log and manage channels - Update the permissions of any user/role in a channel - Go to the audit log and view that entry"
+ }
+}

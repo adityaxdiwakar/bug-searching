@@ -1,0 +1,30 @@
+{
+ "id": "5baf2827673dde398496a6ff",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3061,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sJioVuJq",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 25046",
+  "actual_result": "Save button will occasionally disappear",
+  "expected_result": "Save button doesn't disappear",
+  "short_description": "Toggling a role option off and on multiple times will occasionally make the save button disappear",
+  "steps_to_repro": "- Go to a server where you can manage roles - Toggle a role to be mentionable/unmentionable - Observe the save button for a few seconds and save the change if nothing happens - Toggle the role to be mentionable/unmentionable again - Observe the save button again for a few seconds, and save the change if nothing happens - Repeat these steps, observing the save button for a few seconds before saving"
+ }
+}

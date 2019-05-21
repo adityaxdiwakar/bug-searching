@@ -1,0 +1,24 @@
+{
+ "id": "5942a3d9f5e6b86acdc59d4b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 766,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vRIb0bAc",
+ "data": {
+  "system_settings": "Windows 10 x64 Bit",
+  "client_settings": "Desktop Canary, 0.0.157",
+  "actual_result": "Ugly white box by scrollbar, title text expands off modal, server name expands and creates scroll bar.",
+  "expected_result": "Texts wraps (twice), no ugly white box.",
+  "short_description": "3 issues with text wrapping in new leave modal.",
+  "steps_to_repro": "- Create a really long server. - Join on another account. - Open leave server modal."
+ }
+}

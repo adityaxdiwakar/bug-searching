@@ -1,0 +1,23 @@
+{
+ "id": "590cafb8baefbcfbb0ebf97d",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 433,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mQLcTe5B",
+ "data": {
+  "system_settings": " Android 5.1.1 Discord 3.8.2",
+  "actual_result": "Channel drawer opens",
+  "expected_result": "Emoji picker closes",
+  "short_description": "\"System back opens channel drawer\" setting breaks closing emoji picker with system back button",
+  "steps_to_repro": "- Turn on \"system back opens channel drawer\" under Behavior in settings - Open Emoji picker and press back button "
+ }
+}

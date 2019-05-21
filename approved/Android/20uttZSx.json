@@ -1,0 +1,30 @@
+{
+ "id": "5b13eba045e832c1010d348f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1490,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/20uttZSx",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.8.7",
+  "actual_result": "The heading in \"Appearance\" page is \"User settings\" in larger font and sub-heading is \"appearance\" in smaller font which is incorrect",
+  "expected_result": "The heading in \"Appearance\" page should be \"Appearance\" and sub-heading should be \"user settings\" just like it's in any other option",
+  "short_description": "The position of header and sub-header is exchanged in user settings>appearance",
+  "steps_to_repro": "- Go to user settings by clicking the cog icon on the bottom - Click on any option such as \"My Account\", \"Privacy & Safety\", \"Voice and Video\" etc. and notice the heading of the page is \"My Account\" (for example) while the sub-heading is always \"user settings\" in smaller font - Now click on the appearance option and notice the heading and sub-heading"
+ }
+}

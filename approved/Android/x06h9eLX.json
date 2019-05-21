@@ -1,0 +1,24 @@
+{
+ "id": "5969e08d45f60e46da2d4412",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 551,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/x06h9eLX",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 3.9.9",
+  "actual_result": "the indicator goes off when they're muted but no sound goes through",
+  "expected_result": "nothing, no indicator goes off",
+  "short_description": "Can see someone talking but they're muted",
+  "steps_to_repro": "- be in a vc with someone else - have the ability to server mute them - server mute them - unserver mute them - have them talk while their muted"
+ }
+}

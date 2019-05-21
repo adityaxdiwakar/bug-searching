@@ -1,0 +1,30 @@
+{
+ "id": "5a5fb65b9149b9cf115c930c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1556,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I6TxdBZS",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.2",
+  "client_settings": "Discord Canary 0.0.185 (Build: 9616)",
+  "actual_result": "Some gray role colors (the last 2) are no longer shown. (see attached images for comparison)",
+  "expected_result": "All gray role colors should be shown.",
+  "short_description": "Some grey predefined role colors missing",
+  "steps_to_repro": "- Go to the server settings - Open roles - Click on any role - Observe the predefined role colors"
+ }
+}

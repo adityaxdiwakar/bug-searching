@@ -1,0 +1,30 @@
+{
+ "id": "5c1499c14920a141c72ff3d9",
+ "closed": false,
+ "idList": "5c148a9d85de9b479596b253",
+ "idShort": 3503,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oqNwasaP",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 29791, Host 0.0.224",
+  "actual_result": "\"End of results\" does not show up on every search",
+  "expected_result": "\"End of results\" shows up on every search",
+  "short_description": "\"End of results\" does not appear for every search word in gif picker",
+  "steps_to_repro": "- Open the gif picker in a channel - Search for a word, such as \"maho\" - Scroll to the bottom of the resulting gifs and observe the option to return to the top - Search for a different word, such as \"kurisu\" - Scroll to the bottom of the resulting gifs again and look for the option to return to the top"
+ }
+}

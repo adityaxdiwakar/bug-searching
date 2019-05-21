@@ -1,0 +1,17 @@
+{
+ "id": "5b480dbd6568f8445fd6f0c7",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2262,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/BUw7s9PC",
+ "data": {
+  "system_settings": "MacOs High Sierra 10.13.4 MacBook Pro (Retina, 15-inch, Mid 2014),",
+  "client_settings": "Canary 18317",
+  "actual_result": "Reaction counter is incorrect, but you still show the people who reacted in the \"reactions\" menu",
+  "expected_result": "Reaction counter is correct",
+  "short_description": "Incorrect reaction counter",
+  "steps_to_repro": "- Add a reaction to a message - Close your device - Let other people react - After a while, go back and observe the reaction counter and the reaction page"
+ }
+}

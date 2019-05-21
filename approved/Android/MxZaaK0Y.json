@@ -1,0 +1,24 @@
+{
+ "id": "59dab20c65519f02b3d849b9",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 801,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MxZaaK0Y",
+ "data": {
+  "system_settings": "LG Xpower 6.0.1",
+  "client_settings": "android Alpha 5.3.2",
+  "actual_result": "server list scroll to top",
+  "expected_result": "list should stay on same server as before using channel link",
+  "short_description": "using channel link such as #announcements bring server list to top",
+  "steps_to_repro": "- make sure server list in lower than top - use server link such as #announcement - check position of server list"
+ }
+}

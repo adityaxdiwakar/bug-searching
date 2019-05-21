@@ -1,0 +1,15 @@
+{
+ "id": "58486c35e7734564c57702c9",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 222,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/doocJp01",
+ "data": {
+  "actual_result": "The Windows Taskbar is still visible if its placed at the bottom of the screen. (Submitted for <@97947249690030080>)",
+  "expected_result": "The whole window should be covered.",
+  "short_description": "If you full screen a YouTube link within Discord, it doesn't cover the whole screen, and the Windows Taskbar is still showing, preventing the bottom video options to be visible.",
+  "steps_to_repro": "- Link a video and try and watch it in fullscreen. "
+ }
+}

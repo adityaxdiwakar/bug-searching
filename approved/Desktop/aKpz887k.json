@@ -1,0 +1,24 @@
+{
+ "id": "59473161eed3b589484133f4",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 775,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aKpz887k",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS",
+  "client_settings": "Desktop Canary 0.0.19",
+  "actual_result": "The formatting either gets ignored from what I can tell or it escapes it in a weird way causing it to look abnormal <(http://imgur.com/a/cH5C7>)",
+  "expected_result": "The formatting gets escaped correctly.",
+  "short_description": "Formatting in Audit Log causes half escaping or ingorance of formatting in the log entry.",
+  "steps_to_repro": "- Change a channel description to something with bold, or italics in it. - Look at the entry for it in the Audit Log - See how it either doesn't escape the formatting correctly (bold) or it just causes none of the formatting to work (italic)"
+ }
+}

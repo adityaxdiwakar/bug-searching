@@ -1,0 +1,17 @@
+{
+ "id": "5a91ec10c4cdd469d5deaec6",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1138,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4x7TDxMA",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.2.8",
+  "actual_result": "You can create a new line within the search bar (the text seems to disappear but when you press delete key the text is back)",
+  "expected_result": "It should either submit search or not work at all according to another bug I reported before",
+  "short_description": "New Search bar field allows you to write multiple lines",
+  "steps_to_repro": "- Go to any channel - Tap Search. You can also use the search bar in Quick switcher  - Tap Enter key on your keyboard"
+ }
+}

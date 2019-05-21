@@ -1,0 +1,30 @@
+{
+ "id": "5ab92c8413e6e5515c03f9d3",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1228,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pQCg1nJv",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.4",
+  "actual_result": "it always shows, even though it's NOT optional if no file is attached",
+  "expected_result": "The \"(Optional)\" should only show if at least one file is attached",
+  "short_description": "When sharing something into Discord that isn't a file, the comment box placeholder will say \"Optional\" even though it's not",
+  "steps_to_repro": "- Share something to Discord that isn't a file - Erase comment box to show up the placeholder text"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "5a36d499743a3cdd0d64d910",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 461,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vVtDUAGr",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.2.1 & iPad Air 2 with iOS 11.2.5 Public Beta",
+  "client_settings": "TestFlight 2.2.0 (Build: 1910)",
+  "actual_result": "It jumps automatically to the ending of the message.",
+  "expected_result": "It should keep the position and not automatically jumping to the ending of the message.",
+  "short_description": "Making line breaks in a long message automatically changes position",
+  "steps_to_repro": "- Write or edit a long message - Scroll to the beginning of this long message - Make a line break at this position (enter)"
+ }
+}

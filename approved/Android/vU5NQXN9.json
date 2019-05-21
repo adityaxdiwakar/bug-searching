@@ -1,0 +1,16 @@
+{
+ "id": "58cc999340139698a2edfd77",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 301,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vU5NQXN9",
+ "data": {
+  "system_settings": " OnePlus 3T, Android 7.0, Android Alpha v3.5.2",
+  "actual_result": "Blue crash screen",
+  "expected_result": "The landscape keyboard.",
+  "short_description": "App crash on going landscape keyboard with image at bottom.",
+  "steps_to_repro": "- Choose an image to send so it appears in the bottom. - Switch to landscape mode.  - A blue \"Bummer, man. This device is not supported.\" screen. "
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5b33ee4186cf2810daf1c3b8",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 820,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MC12pXkl",
+ "data": {
+  "system_settings": "iPad Air 2, iOS 12 (Public Beta)",
+  "client_settings": "TestFlight 2.3.4 (5425)",
+  "actual_result": "You can send the message and Clyde replies with a \u201cnot delivered\u201d",
+  "expected_result": "The send button shouldn\u2019t even be clickable",
+  "short_description": "When going into DMs, press space and send a message. Clyde will reply the message couldn\u2019t be delivered.",
+  "steps_to_repro": "- Go to a DM message - Just type a space - Send the message - Results"
+ }
+}

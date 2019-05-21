@@ -1,0 +1,30 @@
+{
+ "id": "5b409aecbd335be180ea8000",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 829,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ePpESFjb",
+ "data": {
+  "system_settings": "iPhone 6s - iOS 11.0",
+  "client_settings": "TestFlight 2.3.4 (5616)",
+  "actual_result": "The notification appears as if it came from a DM",
+  "expected_result": "It's supposed to inform somehow it's from a group",
+  "short_description": "If a group doesn't have a name, the push notification from that group, looks like a DM notification from that person who wrote",
+  "steps_to_repro": "- Make a group with a couple of people - Don't change the group's name - Get a push notification from that group - Observe the notification"
+ }
+}

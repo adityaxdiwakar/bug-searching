@@ -1,0 +1,15 @@
+{
+ "id": "584f4eb06f33a3029f3b9fce",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 239,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3k28myZ0",
+ "data": {
+  "actual_result": "The slider went extinct",
+  "expected_result": "Slider exists",
+  "short_description": "Bitrate slider disappears for no reason.",
+  "steps_to_repro": "- Open the channel Settings - Observe no bitrate slider "
+ }
+}

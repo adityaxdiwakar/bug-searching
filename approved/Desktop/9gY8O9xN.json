@@ -1,0 +1,24 @@
+{
+ "id": "59f56aa5ef227506d6a0103e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1333,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9gY8O9xN",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Desktop Stable, build 6444",
+  "actual_result": "The text keeps going out the side of the box, stretching it beyond the initial bounds",
+  "expected_result": "The text box would automatically scroll sideways so only a limited amount was visible, keeping the box the same size",
+  "short_description": "Typing a long name into the box when adding an undetected game stretches the box out the side [Not an extention of 5913/<https://trello.com/c/9c1bm8YW>]",
+  "steps_to_repro": "- Open user settings - Go to \"Games\" - Click \"Add it!\" to add an undetected game - start typing in the box - keep typing until you go past the end of the box"
+ }
+}

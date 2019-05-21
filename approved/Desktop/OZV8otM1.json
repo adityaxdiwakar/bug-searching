@@ -1,0 +1,24 @@
+{
+ "id": "5b5f47a900d2b3202f622b9a",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2529,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OZV8otM1",
+ "data": {
+  "system_settings": "Coolpad Mega 3, 6.0",
+  "client_settings": "Discord Alpha 720",
+  "actual_result": "The white colour almost completely matches to it's surrounding colour and only green 'X' can be seen.",
+  "expected_result": "It is in a colour that can be seen.",
+  "short_description": "The colour of the Xbox icon completely matches to it's surroundings on light theme.",
+  "steps_to_repro": "- Switch to light theme. - Go to Settings>Connections. - Click on \"ADD\". - Look at Xbox's icon."
+ }
+}

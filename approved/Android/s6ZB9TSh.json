@@ -1,0 +1,30 @@
+{
+ "id": "5a2e266a0096302a881501c0",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 942,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/s6ZB9TSh",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "583",
+  "actual_result": "it crops the image into a rectangle and leaves open space on the sides of the image when you hit accept after cropping.",
+  "expected_result": "Image crops and fills the profile picture circle",
+  "short_description": "Cropping images for pfp leaves the image cropped into a rectangle as opposed to a circle.",
+  "steps_to_repro": "- crop an image for you pfp with the in app image cropper (probably 583 specific) - hit accept and then look at the image and notice it's been cropped into a rectangle and doesn't fit the pfp circle."
+ }
+}

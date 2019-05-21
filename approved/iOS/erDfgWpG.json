@@ -1,0 +1,30 @@
+{
+ "id": "5ae3b12b7156fa8753ddd79a",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 703,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/erDfgWpG",
+ "data": {
+  "system_settings": "iPhone SE, iOS 11.3.1 (15E302)",
+  "client_settings": "TestFlight 2.3.1 (4025)",
+  "actual_result": "Keyboard covers description text, with no way of making the keyboard disappear",
+  "expected_result": "Text is able to read, or you can hide keyboard so text is able to be read",
+  "short_description": "When attempting to connect Discord to Xbox Live on iPhone SE, keyboard covers description",
+  "steps_to_repro": "- In Discord > Settings > Connections - Select Xbox Live"
+ }
+}

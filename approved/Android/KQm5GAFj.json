@@ -1,0 +1,17 @@
+{
+ "id": "59a00c9fc8f39351f13c9db4",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 651,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KQm5GAFj",
+ "data": {
+  "system_settings": "Samsung Galaxy S5, Android 6.0.1 Marshmallow",
+  "client_settings": "Android Alpha 4.1.0",
+  "actual_result": "You do. And it looks like you have been ghost pinged",
+  "expected_result": "You should have a notification beside the channel name",
+  "short_description": "You get role tagged again after you exited the app (make sure that the app is not running in the background)",
+  "steps_to_repro": "- Read the text which you have been role tagged - Exit the app - Come back for a long time (5 minutes more)"
+ }
+}

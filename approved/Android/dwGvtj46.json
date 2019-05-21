@@ -1,0 +1,30 @@
+{
+ "id": "5ae609885a0951acc70debf3",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1341,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dwGvtj46",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.5.9",
+  "actual_result": "Mentions are in bold by default, preventing bold markdown from having any effect",
+  "expected_result": "Mentions should not be in bold by default, so you can use markdown to bold them if you want",
+  "short_description": "Unlike Desktop client, mentions are bolded by default",
+  "steps_to_repro": "- Send a mention - Send a normal text - Send a bolded text - Compare font weight of texts between each other and between the desktop client"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5c18640924bda5841fa386af",
+ "closed": false,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 1237,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QOFGbx69",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12.1.2 (dev beta)",
+  "client_settings": "TestFlight 2.4.1 (10175)",
+  "actual_result": "poop icon got shrunken",
+  "expected_result": "Poop icon shouldn\u2019t be shrunken like on 9907",
+  "short_description": "Poop icon on an invalid invite got shrunken while on (9907) it looks normal",
+  "steps_to_repro": "- Have a server - Send an invalid invite - Observe the shrunken poop icon"
+ }
+}

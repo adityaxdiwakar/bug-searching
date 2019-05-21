@@ -1,0 +1,17 @@
+{
+ "id": "5acbf1159f6b66bade12842b",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1817,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3O0Hgnyw",
+ "data": {
+  "system_settings": "MacBook Pro (15-inch, 2017) macOS High Sierra version 10.13.1",
+  "client_settings": "Discord Stable, 0.0.250",
+  "actual_result": "The user does not see the messages sent in the channel in between when they lost and regained access to the channel",
+  "expected_result": "The user will be able to see all chat history of the channel",
+  "short_description": "If a user with access to a role exclusive channel has their role revoked, all messages sent directly after are not seen once a user regains access again.",
+  "steps_to_repro": "- Create a Role Exclusive Channel - Send test message - Revoke a users role - Send another test message - Grant same user the role and access again"
+ }
+}

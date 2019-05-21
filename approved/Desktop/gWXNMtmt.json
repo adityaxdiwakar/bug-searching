@@ -1,0 +1,30 @@
+{
+ "id": "5b7560ad5c38ff2722859a70",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2717,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gWXNMtmt",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 22011",
+  "actual_result": "The text field stops going into focus after having opened it once before",
+  "expected_result": "The text field should go into focus every time the modal is opened, as it does with other modals",
+  "short_description": "Help modal's text field only focuses the first time you open the modal",
+  "steps_to_repro": "- Refresh your client - Open the Help modal and observe how the text field focuses - Close the modal - Re-open it again and observe how the text field no longer goes into focus"
+ }
+}

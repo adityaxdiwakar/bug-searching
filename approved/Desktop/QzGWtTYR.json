@@ -1,0 +1,30 @@
+{
+ "id": "5ae9e9b11531c47ef55f4fd4",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1923,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QzGWtTYR",
+ "data": {
+  "system_settings": "Windows 7 Enterprise x64",
+  "client_settings": "Discord Canary (Build 14432)",
+  "actual_result": "Instead of fully scrolling through the member list, it stops.",
+  "expected_result": "The member list is supposed to continue to scrolling.",
+  "short_description": "[Bug from Electron 2.x] When scrolling through member list, it stops.",
+  "steps_to_repro": "- Middle click the member list with a mouse - Scroll downwards without turning the scroll button"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59931c31c0007b6a9576b0c6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 625,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XbY4hOnd",
+ "data": {
+  "system_settings": "Android KitKat 4.4.4",
+  "client_settings": "Android Alpha 4.0.7",
+  "actual_result": "The roles are auto-deselected when changing from portrait to landscape mode or vice versa",
+  "expected_result": "The roles should remain selected",
+  "short_description": "Changing from portrait to landscape mode (or vice versa) uncheck the checked roles when creating a new channel only for the selected roles",
+  "steps_to_repro": "- Go to a server where you are admin/owner  - Create a few roles, then create a new channel - When creating the channel, select a few roles that should be able to access it - If you are on portrait mode, switch to landscape mode (or vice versa) and observe"
+ }
+}

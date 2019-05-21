@@ -1,0 +1,17 @@
+{
+ "id": "59eb407f5dd6b1a9b29aed05",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 379,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XiRduhVL",
+ "data": {
+  "system_settings": "iPhone 8 Plus, iOS 11.1 (PB2)",
+  "client_settings": "Discord TestFlight 1.9.2 (953)",
+  "actual_result": "Discord's  is way bigger, around twice the size of the original, thus HEIC pictures easily overshoot the 8MB limit",
+  "expected_result": "The  that's uploaded to Discord has a decent file size (like other apps that create a  from a HEIC picture)",
+  "short_description": "HEIC to jpg encoding is very inefficient, uploaded jpg ends up being huge in size",
+  "steps_to_repro": "- Make sure to have High Efficiency selected as Formats in Camera - Take a normal photo with the camera app - Upload said photo in Discord from camera roll - Download the uploaded picture from Discord (Open Original and then Save As in the CDN link) - Copy the original photo from phone to desktop via USB - Compare photo sizes"
+ }
+}

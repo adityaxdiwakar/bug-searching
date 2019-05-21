@@ -1,0 +1,17 @@
+{
+ "id": "5b4d3de7b9f27f28908f5001",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2284,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AX3lcZ4E",
+ "data": {
+  "system_settings": "macOS 10.12.6",
+  "client_settings": "Canary Build 18911",
+  "actual_result": "The progress bar is placed near the bottom left",
+  "expected_result": "The progress bar should be in the same spot as it was previously",
+  "short_description": "upload bar is in an awkward place when you upload a file",
+  "steps_to_repro": "- Update to build 18911 - Upload a file such as an image - Observe"
+ }
+}

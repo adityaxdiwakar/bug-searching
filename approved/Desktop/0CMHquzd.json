@@ -1,0 +1,30 @@
+{
+ "id": "5b9921786462845e3d6b1ea9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2969,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0CMHquzd",
+ "data": {
+  "system_settings": "Firefox 62.0, macOS Sierra 10.12.6",
+  "client_settings": "Canary 23506",
+  "actual_result": "The + doesn't light up",
+  "expected_result": "The + goes lighter, indicating you are hovering over it, like the category name",
+  "short_description": "The + button to create a channel doesn't go lighter when hovered over [Firefox]",
+  "steps_to_repro": "- Go to a server - Create a category - Hover over the + button with your mouse and observe - Compare it to desktop app"
+ }
+}

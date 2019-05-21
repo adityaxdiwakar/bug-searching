@@ -1,0 +1,15 @@
+{
+ "id": "586e68cd05e0da646e340869",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 307,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PIVVjrRo",
+ "data": {
+  "actual_result": "Leaves a blank space with (edited) in chat",
+  "expected_result": "Nickname reset",
+  "short_description": "When editing /nik to /nick a blank message is produced",
+  "steps_to_repro": "- write /nik - edit the message to /nick "
+ }
+}

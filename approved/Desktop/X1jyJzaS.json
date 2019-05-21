@@ -1,0 +1,15 @@
+{
+ "id": "58c39ea4e482a7894a8dc90f",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 412,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/X1jyJzaS",
+ "data": {
+  "actual_result": "The dialog shows and Discord's window resizes.",
+  "expected_result": "The dialog shows, and that's it.",
+  "short_description": "When you recieve the Hello, You! dialog, Discord's window resizes itself",
+  "steps_to_repro": "- Click on it - Switch back to Discord - Wait to recieve the Hello, You! dialog "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "591c3cd36396420e6b093491",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 660,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vFLqhZoc",
+ "data": {
+  "system_settings": "undefined",
+  "client_settings": "canary",
+  "actual_result": "in the Compact message display with chat scaling at 180, the \"Oh here it is!\" won't be seen in the preveiw. in the Cozy message display with chat scaling at 80, the \"Waiting for the day when\" is roughly seen in the preview.",
+  "expected_result": "the preview box changes.",
+  "short_description": "chat font scaling makes some of the preview messages hidden or shown",
+  "steps_to_repro": "- go to settings - click Appearence - set message display to compact - scale text to 180 - OR - set message display to cozy - scale text to 80"
+ }
+}

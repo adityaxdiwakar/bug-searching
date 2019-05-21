@@ -1,0 +1,17 @@
+{
+ "id": "59f1c272b7659be813c1b3b3",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 848,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dN1uwgMF",
+ "data": {
+  "system_settings": "Android 7.0 Moto G4",
+  "client_settings": "Android Alpha 5.4.8",
+  "actual_result": "It comes back every single time",
+  "expected_result": "The prompt doesn't come back",
+  "short_description": "Everytime you close the app then reopen the \"keyboard image support\" prompt pops up",
+  "steps_to_repro": "- Open Discord - Get the \"Keyboard image support\" prompt - Click the menu button and swipe to clear the app - Reopen the app"
+ }
+}

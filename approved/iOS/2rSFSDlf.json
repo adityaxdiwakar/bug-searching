@@ -1,0 +1,15 @@
+{
+ "id": "582c92868c20bf4606450f93",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 74,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2rSFSDlf",
+ "data": {
+  "actual_result": "It treats it as a image. So when you open the image, safari opens, with a different CDN URL. Latest tesflight",
+  "expected_result": "Safari opens the attachment (it does), and allows you to download it",
+  "short_description": "iOS app doesn't allow you to download attachments",
+  "steps_to_repro": "- Have someone send you a file on mobile, such as a .txt - try and open it  "
+ }
+}

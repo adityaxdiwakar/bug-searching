@@ -1,0 +1,15 @@
+{
+ "id": "5807788447e1be015b256a07",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 50,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LCgNnD2s",
+ "data": {
+  "actual_result": "Users rarely don't load completely and clicking on them while they're in a voice channel causes the client to be unresponsive.",
+  "expected_result": "Users load normally and don't show up as '...' and Discord shouldn't become unresponsive when clicking on such unloaded user while he's in vc.",
+  "short_description": "Sometimes Discord doesn't load a user properly, and when clicking on the user in the vc, it totally bugs the client. No sound more coming from the voice channel when you reconnected. You can't go to other servers, Discord thinks you're moving channels. It's not responsive at all sometimes",
+  "steps_to_repro": "- Put an invisible person in a voice channel on a large server - Join the server while the other person is in the voice channel, this won't reliably work if you have joined the server beforehand "
+ }
+}

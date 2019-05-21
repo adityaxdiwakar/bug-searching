@@ -1,0 +1,16 @@
+{
+ "id": "588b902dd164a677d5141913",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 198,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RQZOJiSX",
+ "data": {
+  "system_settings": " Android 4.4.4, v3.3.0",
+  "actual_result": "Masked links are not parsed at all. Probably related to other embed-related bugs.",
+  "expected_result": "Masked links are parsed as such on Android, like they are on desktop.",
+  "short_description": "Masked links are not parsed in embed fields",
+  "steps_to_repro": "- Create embed with a field of value ``[Test](https://google.com/)`` (https://p.teknik.io/bSSQn for an example) - That's it "
+ }
+}

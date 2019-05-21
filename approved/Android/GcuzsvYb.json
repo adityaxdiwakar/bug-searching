@@ -1,0 +1,17 @@
+{
+ "id": "5bd7ab69ec5c44050f7a3878",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2257,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/GcuzsvYb",
+ "data": {
+  "system_settings": "Pocophone F1, Android 8.1.0, MIUI 9.6",
+  "client_settings": "Android Alpha 7.7.0",
+  "actual_result": "Voice chat input does not work in any mode (tested on communication/call mode) In addition, change to Push to Talk, reinstallation etc. does not give any results too. (but the sound input works)",
+  "expected_result": "You should be able to talk to other people.",
+  "short_description": "Voice chat input does not work on Poco F1, \non other devices without any problem.",
+  "steps_to_repro": "- Just join the voice chat on Poco F1"
+ }
+}

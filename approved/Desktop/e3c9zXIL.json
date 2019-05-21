@@ -1,0 +1,15 @@
+{
+ "id": "58177d932c22fcfb07dbeeea",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 93,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/e3c9zXIL",
+ "data": {
+  "actual_result": "The box shows @\u200bJaren#1338",
+  "expected_result": "The box will show @\u200bJaren instead of @\u200bJaren#1338",
+  "short_description": "Editing a message with a mention in streamer mode reveals discriminators of mentioned users",
+  "steps_to_repro": "- Create a message with a mention - Edit it "
+ }
+}

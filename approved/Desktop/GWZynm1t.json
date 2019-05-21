@@ -1,0 +1,24 @@
+{
+ "id": "5b51fa7890a8678aa8ce8a45",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2361,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GWZynm1t",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (19084)",
+  "actual_result": "It highlight the whole message + username and timestamp and bit more than that",
+  "expected_result": "It shouldn't going over the username, it should only highlight the message area itself",
+  "short_description": "The jump to message highlight is bigger than it should compared to stable/ptb",
+  "steps_to_repro": "- Jump to a message via pins or something - Observe how big the highlight is compared to stable"
+ }
+}

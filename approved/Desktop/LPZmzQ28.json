@@ -1,0 +1,30 @@
+{
+ "id": "5c0b654f04d58219933f9a26",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3476,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LPZmzQ28",
+ "data": {
+  "system_settings": "Windows 7 Pro 64bits (build 7601)",
+  "client_settings": "Desktop Canary 0.0.224, build 29240",
+  "actual_result": "The message stays and the field stays red until you close the settings",
+  "expected_result": "The error message should disappear and the field regain its original color",
+  "short_description": "When changing a server's name to an empty name, then writing a valid one, the \"this field is required\" message stays",
+  "steps_to_repro": "- Goto ServerSettings - Empty the \"server name\" field - Try to save the changes - Write a valid name in the field - Save changes"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "58403a10c6e0e67167c32193",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 95,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GVDWpiIL",
+ "data": {
+  "actual_result": "Nothing (submitted on behalf of MattBSG#9263)",
+  "expected_result": "Uses iOS autocorrect to fix mistakes",
+  "short_description": "Autocorrect does not function in the channel topic field (text channel settings)",
+  "steps_to_repro": "- Open channel settings - Misspell words/make grammar mistakes "
+ }
+}

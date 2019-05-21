@@ -1,0 +1,17 @@
+{
+ "id": "59bc875d1255a016184c7854",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1137,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xamjjqKq",
+ "data": {
+  "system_settings": "windows 10 64bit anniversary edition",
+  "client_settings": "windows desktop canary, Build Number: 4331",
+  "actual_result": "It shows their name",
+  "expected_result": "Your name appears",
+  "short_description": "Mention in notifications are their <@userid> of the person mentioned",
+  "steps_to_repro": "- Have notification on - Be mentioned (or have all notificaitons on and someone else be mentioned)"
+ }
+}

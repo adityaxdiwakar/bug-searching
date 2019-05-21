@@ -1,0 +1,17 @@
+{
+ "id": "5b534628a3220935bcdde951",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2392,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/l4qP8Zev",
+ "data": {
+  "system_settings": "Google Chrome Version 67.0.3396.99 (Official Build) (64-bit)",
+  "client_settings": "Discord Developer Panel - was told to report it in desktop bugs.",
+  "actual_result": "The  with transparency is for whatever reason massively downscaled and never rendered larger than 64x64 by Discord",
+  "expected_result": "It should act the same as it does for a , retain quality / resolution and not look pixelated",
+  "short_description": "Uploading a .png avatar as Bot Avatar in new Dev Panel results in extremely pixelated 64x64 avatar.",
+  "steps_to_repro": "- Go to developer panel - Create or edit a bot - Upload a png avatar- Watch as it completely wrecks the quality of your image and only renders it as 64x64 everywhere"
+ }
+}

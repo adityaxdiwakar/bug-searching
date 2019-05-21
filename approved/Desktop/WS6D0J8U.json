@@ -1,0 +1,17 @@
+{
+ "id": "5b52bbea7342e3373510a6e9",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2380,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WS6D0J8U",
+ "data": {
+  "system_settings": "Fedora 28 with KDE & 4.17.5-200 x64 kernel",
+  "client_settings": "Canary 19429",
+  "actual_result": "Emotes are touching each other",
+  "expected_result": "Emotes to be spaced as usual",
+  "short_description": "Emotes on different lines in a message are closer than usual or even touching",
+  "steps_to_repro": "- Type or find a message with two emotes on two different lines"
+ }
+}

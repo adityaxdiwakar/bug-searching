@@ -1,0 +1,16 @@
+{
+ "id": "5886ab4135123e4c83603369",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 347,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3UuncKZd",
+ "data": {
+  "system_settings": " WIn 7 x64, latest Canary release",
+  "actual_result": "It will just show your full Discord name (Username and tag)",
+  "expected_result": "Should replace your full Discord tag with your username and highlight the message",
+  "short_description": "Cannot @ yourself in a DM",
+  "steps_to_repro": "- @ yourself in a DM - Step 2 - "
+ }
+}

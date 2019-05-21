@@ -1,0 +1,30 @@
+{
+ "id": "5c0962720b1cb98cc06cb523",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3470,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HSxfhtse",
+ "data": {
+  "system_settings": "Windows 7 Pro 64bits (build 7601)",
+  "client_settings": "Desktop Canary 28970",
+  "actual_result": "The \"already have an account?\" phrase has the top of its font inside the button",
+  "expected_result": "The \"already have an account?\" phrase should not have the top of its font _inside_ the button",
+  "short_description": "The \"already have an account?\" phrase when registering one merges with the \"continue\" button",
+  "steps_to_repro": "- Log out if you're logged in - Click the \"register\" link - Have the UI version that asks to check that you agree with the ToS"
+ }
+}

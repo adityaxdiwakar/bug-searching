@@ -1,0 +1,36 @@
+{
+ "id": "5aed99fe6597f297570e9b85",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1372,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WTWptqbi",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.6.1",
+  "actual_result": "When you press back, keyboard hides along with vc bar which reappears if you go to settings and press back again.",
+  "expected_result": "When you press back, keyboard hides and vc bar is still visible.",
+  "short_description": "VC bar at the bottom disappears while in split screen (Discord being in the lower half).",
+  "steps_to_repro": "- Join a vc - Minimize Discord and open another app which supports split screen (YouTube in my case) - Tap and hold recent apps bar to trigger split screen and keep Discord in the lower half (occupying around 50% of the screen or less) - Go to any server text channel while you can still see the vc bar. Tap on the text field to pop up the keyboard (GBoard in my case) - Press back to hide the keyboard"
+ }
+}

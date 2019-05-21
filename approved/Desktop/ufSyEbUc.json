@@ -1,0 +1,30 @@
+{
+ "id": "5a15f95c66bece5887b81a75",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1390,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ufSyEbUc",
+ "data": {
+  "system_settings": "MacBook Pro (Retina, 15-inch, Mid 2014), macOS High Sierra 10.13.2 Beta (17C79a), Automatic graphics switching [On]",
+  "client_settings": "Discord Canary(7502) / PTB(7503), HW Acceleration [Off], Dev Mode [On]",
+  "actual_result": "Server icon list area and channel list flickers when mouse hovered over. Right part of Textbox disappears breifly.",
+  "expected_result": "Discord displays smooth as butter",
+  "short_description": "UI flickers when HW acceleration off [macOS specific problem]",
+  "steps_to_repro": "- Turn off hardware acceleration - Relaunch Discord - Switch between joined servers randomly, hover mouse over different parts of Discord UI, repeatedly"
+ }
+}

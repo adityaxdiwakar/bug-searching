@@ -1,0 +1,30 @@
+{
+ "id": "5bf921e2fd772057710f39c4",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2351,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zwtUaF2H",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 8.0.0",
+  "actual_result": "There is a vibration when tapping the server",
+  "expected_result": "There should be no vibrations when tapping the server",
+  "short_description": "Tapping on a server while sorting it causes it to vibrate until the server has been housed",
+  "steps_to_repro": "- Sort a server - When it is sliding into its housing, tap on it - Observe"
+ }
+}

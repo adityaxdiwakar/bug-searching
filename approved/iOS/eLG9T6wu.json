@@ -1,0 +1,22 @@
+{
+ "id": "584786310ab08720788fa5f5",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 108,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eLG9T6wu",
+ "data": {
+  "actual_result": "The field allows any number of characters to be entered and submitted, and will set that as the role name, regardless of length.",
+  "expected_result": "The field stops accepting characters or throws an error when finished typing.",
+  "short_description": "Role names accept more characters than on desktop.",
+  "steps_to_repro": "- Go to edit any role. - Type in a really long name that would be cut off on other platforms. "
+ }
+}

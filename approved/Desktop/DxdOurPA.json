@@ -1,0 +1,24 @@
+{
+ "id": "5960482ca3ec1be97ede5a8a",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 817,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DxdOurPA",
+ "data": {
+  "system_settings": "Windows 10 (Creators Update) x64",
+  "client_settings": "Canary 0.0.157 Build 2044",
+  "actual_result": "The following text appears: \"Must be 32 or fewer in length.\"",
+  "expected_result": "The error text reads \"...32 characters or fewer in length\"",
+  "short_description": "Minor Typo in Change Nickname Modal",
+  "steps_to_repro": "- Be in a server with Manage Nicknames - Change another users nickname to something over 32 characters"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5af73ab5da4021e878c6bab2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1977,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kULZj3in",
+ "data": {
+  "system_settings": "Windows 10 Home x64 - Version 1803",
+  "client_settings": "Discord Canary Build 15120",
+  "actual_result": "Your crown does not disappears, you need to refresh your client before you can see your crown being gone.",
+  "expected_result": "Your crown should disappear instantly",
+  "short_description": "Owner Crown Doesn't Updates in Member List When Hoisting and Giving Admin to a Role",
+  "steps_to_repro": "- Have the owner or yourself (if you are the owner) make the two roles. One for the owner, one for the member. - Make sure the owner gives themselves the role without admin and the member gets admin and hoist. - Observe the Member List when it is done."
+ }
+}

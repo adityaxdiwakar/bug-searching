@@ -1,0 +1,17 @@
+{
+ "id": "592c35d2aa053592faec781e",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 690,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/eemXWAWY",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "latest Canary",
+  "actual_result": "It isn't highlighted in any found message of search results",
+  "expected_result": "Word that you are searching for is highlighted",
+  "short_description": "Certain small English words don't get highlighted in search results",
+  "steps_to_repro": "- Go to any channel - Search a word from this list: [a an at in of on it to into], for example, \"an\" - look at the search results"
+ }
+}

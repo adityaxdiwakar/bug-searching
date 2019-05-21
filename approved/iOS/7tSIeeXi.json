@@ -1,0 +1,30 @@
+{
+ "id": "5a070f60ebad25e2108c4fd9",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 424,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7tSIeeXi",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.1.1 & iPad Air 2 with iOS 11.2 PB 2",
+  "client_settings": "TestFlight 1.10.0 (1551)",
+  "actual_result": "iOS shows 8 MB while Desktop says 10 MB.",
+  "expected_result": "Both should show 10 MB as preview limit.",
+  "short_description": "iOS User Settings -> Text & Images tells that preview upload limit would be 8 MB while Desktop says 10 MB",
+  "steps_to_repro": "- Go to your user settings with your iOS device - Open the menu \"Text & Images\" - Observe the preview upload limit below the option \"When uploaded directly to Discord\" - Compare it with the Desktop version"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59b9c639cf1346b78f7c8d01",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1126,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qtxnnypq",
+ "data": {
+  "system_settings": "Windows 10 x64 bit Creators Update",
+  "client_settings": "Canary 0.0.163",
+  "actual_result": "The toggle switch button shoots outside of the box each time you click it.",
+  "expected_result": "The toggle switch will stay within the box it's assigned to.",
+  "short_description": "Toggling the \"display running game as a status message\", displays the button out of the box each time.",
+  "steps_to_repro": "- Head over to settings and open 'Games' - Toggle the \"display running game as a status message\" and watch the on/off button switch - compare results"
+ }
+}

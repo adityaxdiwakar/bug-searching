@@ -1,0 +1,30 @@
+{
+ "id": "59cd66f2f64793026128ea07",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1207,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TiNobmYN",
+ "data": {
+  "system_settings": "Windows 10 pro 64bit Version 1703 Build 15063.608 (on iMac hardware, bootcamp partition)",
+  "client_settings": "latest release",
+  "actual_result": "You hear only the voice server (game is silenced)",
+  "expected_result": "you must hear game sound and voice channel on your bluetooth earphones",
+  "short_description": "Bluetooth game audio removed when joining a voice channel",
+  "steps_to_repro": "- Step 1: pair a bluetooth earphone - Step 2: keep default microphone as audio input - Step 3: open the game \"Final Fantasy XIV\" and move to some place with sounds (e.g. the character selection screen) - Step 4: open discord - Step 5: join a voice channel"
+ }
+}

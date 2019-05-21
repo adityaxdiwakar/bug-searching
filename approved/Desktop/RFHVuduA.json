@@ -1,0 +1,24 @@
+{
+ "id": "5948e8076b1dbbe932f61799",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 778,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RFHVuduA",
+ "data": {
+  "system_settings": "Windows 8.1 PRO x64",
+  "client_settings": "Discord Canary 0.0.157",
+  "actual_result": "Cannot hear calling sound effect, cue music while you wait for call <<https://www.youtube.com/watch?v=hxsOXOPni0o>>",
+  "expected_result": "Can hear calling sound effect",
+  "short_description": "Call ringing sound effect in DMs doesn't work",
+  "steps_to_repro": "- Enter DM - Call said person"
+ }
+}

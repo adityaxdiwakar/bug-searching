@@ -1,0 +1,17 @@
+{
+ "id": "59d9edfcd3ac560d7ea3c5cc",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1237,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1V8fTKgq",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "canary 0.0.164, build 5517",
+  "actual_result": "the new messages red line stays untill you go to another channel and return or mark the channel as read with esc",
+  "expected_result": "the red line marker is removed (like it does when you mark just the channel as read with esc)",
+  "short_description": "marking server as read with hotkeys does not remove 'new messages' line",
+  "steps_to_repro": "- go to a channel with unread messages - use shift+esc to mark the entire server as read - notice that the red line is still there (if there where a lot of messages and it scrolled you down just scroll up again to to find it)"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5afed6beb4164fec0c56b7bb",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1430,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ke9fIelQ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.7.4",
+  "actual_result": "You can't send mentions/custom emojis at all",
+  "expected_result": "Autocompletion would definitely be a feature request, and maybe would be too much for a simple quick reply feature. But I believe that you should at least be able to put mentions and emojis by typing them out manually",
+  "short_description": "Cannot send mentions or custom emojis through the inline reply field",
+  "steps_to_repro": "- Receive a push notification - Tap Reply - Try inputting a mention or a server emoji (twemojis work fine iirc)"
+ }
+}

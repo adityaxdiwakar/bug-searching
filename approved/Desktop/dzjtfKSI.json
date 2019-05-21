@@ -1,0 +1,24 @@
+{
+ "id": "59bd1a5e11ffd3c593221ef7",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1140,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dzjtfKSI",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, build number: 4358",
+  "actual_result": "The button is a few pixels to the left.  (Yellow lines drawn on - Same length on each side)",
+  "expected_result": "The button to be centered.",
+  "short_description": "The + button for attachments isn't centered (not a big bug)",
+  "steps_to_repro": "- Look at it."
+ }
+}

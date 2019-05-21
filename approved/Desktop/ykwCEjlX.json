@@ -1,0 +1,30 @@
+{
+ "id": "5b7fb100ce88226d16b29063",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2785,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ykwCEjlX",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6",
+  "client_settings": "Mac OS Canary Build 22496",
+  "actual_result": "The rescale bar goes off of the screen, And you are unable to scroll along.",
+  "expected_result": "I would hope that you are able to rescale without having to enlarge the window to 3 times screen size",
+  "short_description": "200% zoom + 80% scaling on Mac makes it impossible to downscale [DEVISE SPECIFIC]",
+  "steps_to_repro": "- Set text scaling to 80% - Set Zoom to 200%"
+ }
+}

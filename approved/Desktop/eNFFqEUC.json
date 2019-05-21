@@ -1,0 +1,17 @@
+{
+ "id": "5992415d278e9f52e34957bd",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 989,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/eNFFqEUC",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord 0.0.298 stable",
+  "actual_result": "Window changes size correctly but chat scrolls back several pages. Moving back and forth will jump back further.",
+  "expected_result": "Window changes size but nothing else.",
+  "short_description": "Chat jumps when having different scale on different screens",
+  "steps_to_repro": "- Have two monitors connected. - Go to Windows Settings > System > Display > Scale and Layout - Set one monitor to e.g. 150% - Move discord window between screens"
+ }
+}

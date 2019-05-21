@@ -1,0 +1,30 @@
+{
+ "id": "5b356f2dacabc6f3eaad8169",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2217,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SRSQt2Lt",
+ "data": {
+  "system_settings": "Win 10 x64 1803",
+  "client_settings": "Canary Build 17898",
+  "actual_result": "No popups show up on your profile",
+  "expected_result": "The popups \"Congrats, you played yourself, oh wait you can't\" and \"Listen along with someone else, not yourself\" appear",
+  "short_description": "Spotify popups on own profile are missing",
+  "steps_to_repro": "- Start playing Spotify - Open up your profile - Scroll over the \"Play on Spotify\" and \"Listen Along\" options"
+ }
+}

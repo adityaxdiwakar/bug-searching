@@ -1,0 +1,36 @@
+{
+ "id": "5a6c5a8b7624d0c781beb16b",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1070,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/85wvja8Q",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "613",
+  "actual_result": "nothing happens unless you tap the bubble",
+  "expected_result": "it changes theme regardless of where you tap on the theme option",
+  "short_description": "Tapping \"Dark/Light\" in theme selection does nothing on 613. It only applies the change if you tap the bubble.",
+  "steps_to_repro": "- go into settings > theme selection - tap the words \"light\" or \"dark\" -notice nothing happens"
+ }
+}

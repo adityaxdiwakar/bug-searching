@@ -1,0 +1,17 @@
+{
+ "id": "5aa0b46a1e49835e4f69a35d",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1171,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AjkcOmhC",
+ "data": {
+  "system_settings": "Moto G5 Plus Android 7.0",
+  "client_settings": "Discord Alpha 6.3.3",
+  "actual_result": "It closes the popup.",
+  "expected_result": "It shows the page to add Skype.",
+  "short_description": "Trying to add Skype does not work.",
+  "steps_to_repro": "- Go to connections - Click Add - Click Skype"
+ }
+}

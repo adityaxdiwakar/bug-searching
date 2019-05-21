@@ -1,0 +1,17 @@
+{
+ "id": "5baae8a7c0906f3e27528546",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2038,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2lZN8u25",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 755",
+  "actual_result": "There's no hashtag before the channel name.",
+  "expected_result": "There's a hashtag before the channel name.",
+  "short_description": "Channel names missing a hashtag in audit logs.",
+  "steps_to_repro": "- Create a new channel (or do anything with a channel).  - Open Audit logs. - Look at the log entry."
+ }
+}

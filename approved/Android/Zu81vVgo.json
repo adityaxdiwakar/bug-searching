@@ -1,0 +1,24 @@
+{
+ "id": "5a09f480b5bb1a8433402863",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 895,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Zu81vVgo",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.6.3",
+  "actual_result": "When the New Messages bar reaches the top of the screen, the chat stops scrolling down itself, forcing you to scroll down manually to see latest messages.",
+  "expected_result": "The chat will continue to scroll down itself and the \"New Messages\" red bar will end up to go off-screen",
+  "short_description": "The chat stops scrolling itself when you are switching to an active channel and not touching the screen",
+  "steps_to_repro": "- Pick an active channel (a channel where a lot of messages are sent in short amount of time, e.g HypeSquad general)  - Read the messages in it, or simply mark it as Read - Make sure you are not currently viewing this channel. Switch to another one in the same server.  - Wait for new unread messages on the channel you picked at step 1 - Switch back to this channel. If you can see the \"New Messages\" red bar without having to scroll up, you're good to go. You must NOT touch your screen after switching back to channel. - Wait for the \"New messages\" bar to reach the top of the screen"
+ }
+}

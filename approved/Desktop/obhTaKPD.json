@@ -1,0 +1,30 @@
+{
+ "id": "5b61cb3be00cc92ed52be202",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2571,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/obhTaKPD",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 20433",
+  "actual_result": "The button turns grey before doing the animation to vanish",
+  "expected_result": "The button goes away after you reach the server, without changing color",
+  "short_description": "The \"new mention\" button on the server list turns grey before vanishing when you click on it",
+  "steps_to_repro": "- be part of a lot of servers so you can scroll through them - get mentioned in one of them and make sure the server is out of view - click on the red \"new mention\" button that scrolls the server list to the server you were mentioned in - observe"
+ }
+}

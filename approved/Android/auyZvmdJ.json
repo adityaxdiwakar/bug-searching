@@ -1,0 +1,16 @@
+{
+ "id": "58f5a5478a8ab517852e8b81",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 385,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/auyZvmdJ",
+ "data": {
+  "system_settings": " Discord 3.6.7, VFD 600 @ 6.0.1",
+  "actual_result": "Mention displays without an @",
+  "expected_result": "Mention displays with an @, like @TTtie",
+  "short_description": "User mentions are displayed without an @",
+  "steps_to_repro": "- mention somebody "
+ }
+}

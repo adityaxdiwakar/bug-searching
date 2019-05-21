@@ -1,0 +1,17 @@
+{
+ "id": "59ded7cd8ab0bcd82b775a28",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1251,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Dub7P9Oj",
+ "data": {
+  "system_settings": "Dell inspiron 15R-5520 (2015 model) Windows 10 Pro 64-bit, x64-based processor",
+  "client_settings": "Discord Canary 0.0.163 Build 5683",
+  "actual_result": "Nothing happens. Even repeating the steps won't redirect you to the user settings",
+  "expected_result": "You should be redirected to the Voice/Video Settings in User settings",
+  "short_description": "Voice/Video settings doesn't open when clicking from the tray (right clicking on the discord logo on the task bar)",
+  "steps_to_repro": "- Right click on the white discord logo labeled DiscordCanary - Click Voice/Video Settings"
+ }
+}

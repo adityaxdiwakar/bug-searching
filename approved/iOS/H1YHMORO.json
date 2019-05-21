@@ -1,0 +1,24 @@
+{
+ "id": "5a961e6e70b510451259c9d2",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 614,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/H1YHMORO",
+ "data": {
+  "system_settings": "iPod Touch 6th generation, iOS 11.2.6",
+  "client_settings": "Stable 2.2.4 and TestFlight 2.2.5",
+  "actual_result": "It\u2019s slowed down tremendously",
+  "expected_result": "The motion should be fluid and not slow like stable 2.2.4",
+  "short_description": "Considerable lagg when switching servers on TestFlight 2.2.5 , that didn\u2019t exist on stable 2.2.4",
+  "steps_to_repro": "- Download stable 2.2.4 - Go into discord and switch between some channels in different servers  - Observer that this happens with very minimal lag - Now close out of discord and download TestFlight 2.2.5 - Now open discord and switch between channels and servers - Observer discord notice that the motion is slowed considerably"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5ae59a66aaeea088a4e9d388",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1907,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1d8ztKaZ",
+ "data": {
+  "system_settings": "Windows 10 Home SL 1709 x64",
+  "client_settings": "Canary 13854",
+  "actual_result": "when you open the channel, you will read the first message and has new message notification at the top of the chat field",
+  "expected_result": "when you open the channel, you will read the latest message",
+  "short_description": "New obtained channel after obtaining a role jumped you to the first message (Part of ping bug in android)",
+  "steps_to_repro": "- Be sure that you are using android and have stuck red ping badge in a channel that has role permission.  - Remove the role from your android device using a bot command and terminate your discord for android client - Open your discord desktop client. - get the role from a bot command - open the channel that you got with the role."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bb7d7e85d738e13c7ba2169",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2111,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/D27q3AYZ",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Mini Android 6.0.1",
+  "client_settings": "Alpha 7.6.3",
+  "actual_result": "no more entrys load",
+  "expected_result": "older entrys load like they do on desktop",
+  "short_description": "[Audit Log] scrolling to the bottom of entrys don't load older entrys",
+  "steps_to_repro": "- go to audit log in a server, where a lot of audit log entrys are - scroll to the very bottom of the loaded entrys - observe"
+ }
+}

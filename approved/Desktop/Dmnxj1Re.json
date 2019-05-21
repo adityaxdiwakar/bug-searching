@@ -1,0 +1,29 @@
+{
+ "id": "58fa904cc64a086e37ac8899",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 537,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Dmnxj1Re",
+ "data": {
+  "system_settings": " Windows 10 x64, latest public version",
+  "actual_result": "the image opens in the browser",
+  "expected_result": "the image opens in discord",
+  "short_description": "Clicking bottom of image opens in browser",
+  "steps_to_repro": "- search for an image in a channel - click the bottom 1 to 2 pixels (just when the mouse pointer turns into the pointing hand) - "
+ }
+}

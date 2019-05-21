@@ -1,0 +1,23 @@
+{
+ "id": "58e016c385bce7530b939ddf",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 329,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Kb2CiGCQ",
+ "data": {
+  "system_settings": " Android 5.1 Discord 3.5.7",
+  "actual_result": "it says \"1 new messages\"",
+  "expected_result": "banner should say \"1 new message\"",
+  "short_description": "1 new message banner is plural",
+  "steps_to_repro": "- have a seen chat - switch to a different Channel - have one message in the Channel you were looking in - go back "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b6991d53457bd16bfc681f3",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1793,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/epfezwgC",
+ "data": {
+  "system_settings": "Lenovo vibe K5 +, 5.1.1",
+  "client_settings": "Discord Alpha 726",
+  "actual_result": "There's a remove friend option but no copy id option.",
+  "expected_result": "There's no remove friend option and there's a copy id option.",
+  "short_description": "When you access your profile through the message action sheet of Clyde's message and click on the kebab menu, one of the options is remove friends and there's no copy id option.",
+  "steps_to_repro": "- Try DMing someone who has blocked you. - Long press Clyde's message and click on Profile. - Click on the kebab menu."
+ }
+}

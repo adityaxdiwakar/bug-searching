@@ -1,0 +1,17 @@
+{
+ "id": "593b40ab23d30f35b6c7e487",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 737,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JYe8AuU5",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "The backup codes are a black monospace font",
+  "expected_result": "Backup codes are normally a white font",
+  "short_description": "2FA Backup Codes are Black Text",
+  "steps_to_repro": "- Have 2FA Enabled - Open Settings - View Backup Codes - Enter Password"
+ }
+}

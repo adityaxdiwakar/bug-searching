@@ -1,0 +1,30 @@
+{
+ "id": "5bc11743db3f79388f9d617b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2164,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JhJoNo6i",
+ "data": {
+  "system_settings": "Google Pixel 2, Android 9",
+  "client_settings": "Android Alpha 7.6.8 (768)",
+  "actual_result": "message is off-centered and touches screen edge",
+  "expected_result": "message should be centered and not touching screen edge",
+  "short_description": "reactions error message wording isn't centered and touches screen border",
+  "steps_to_repro": "- find/create a message with reactions - lose connection to data and wifi - long press message and attempt to view reactions - wait until loads error message and observe letters"
+ }
+}

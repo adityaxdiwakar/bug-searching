@@ -1,0 +1,30 @@
+{
+ "id": "5b2c84afb61eb2099a598021",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1574,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3ZMeL3Rz",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.6",
+  "actual_result": "Your old pfp comes back",
+  "expected_result": "Should still show the default Discord pfp after closing popup",
+  "short_description": "Removed profile picture comes back when opening and closing the file app picker",
+  "steps_to_repro": "- Go to Settings > My account - Tap Remove under your pfp - Tap your now empty pfp - When the file app picker pops up, just close it"
+ }
+}

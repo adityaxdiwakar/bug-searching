@@ -1,0 +1,23 @@
+{
+ "id": "58cc018903b75c7f25cf1e1c",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 434,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/raQZGezK",
+ "data": {
+  "system_settings": " macOS Canary 10.12.3 & iPhone 6 latest iOS/Testflight",
+  "actual_result": "you are invisible but appear offline even on your screen (no grey online status dot or typing indicator)",
+  "expected_result": "you are invisible and see the grey online status dot on your profile pic on the userlist (ONLY SHOWS FOR YOU) and the typing indicator on your profile picture",
+  "short_description": "online status dot and typing indicator go away if youre invisible and switch devices",
+  "steps_to_repro": "- go invisible - switch to your phone (or another desktop?) - use Discord on your phone for a few minutes and keep the status as invisible (ie dont change it) - switch back to your computer "
+ }
+}

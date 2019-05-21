@@ -1,0 +1,15 @@
+{
+ "id": "583f29babfd9213c6784f996",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 112,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gvotWjnr",
+ "data": {
+  "actual_result": "There are two of each",
+  "expected_result": "There should only be one thumbs up and thumbs down emote",
+  "short_description": "Two Thumbs up & Thumbs down Emotes appear in the Emote menu",
+  "steps_to_repro": "####Steps to reproduce: Step 1 -  Type :Thumbs "
+ }
+}

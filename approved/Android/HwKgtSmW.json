@@ -1,0 +1,30 @@
+{
+ "id": "5b90136870cdfb73e7e16921",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1929,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HwKgtSmW",
+ "data": {
+  "system_settings": "Galaxy S7, 8.0.0",
+  "client_settings": "7.4.2",
+  "actual_result": "The ingame nick looks on the top",
+  "expected_result": "The LOL nickname would be on middle, not top side.",
+  "short_description": "Friend Suggestions Due To Game , The LOL Nickname not occurs on middle",
+  "steps_to_repro": "- Be a league of legends player that you can see league of legends friend suggestions  - At that point you will see that the league of legends player's nickname would not appear on middle. - It would appear top near the discord name"
+ }
+}

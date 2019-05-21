@@ -1,0 +1,30 @@
+{
+ "id": "5acc2322026a05f1c8b3d5d4",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1820,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OtR6nve1",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Release Channel: stable, Build Number: 13315, Version Hash: fa8d1a877bc13f374d4663d2932a7b6d1daab0f9",
+  "actual_result": "The person is still \"attached\" and listening along",
+  "expected_result": "They should disconnect after the other person changes to something different.",
+  "short_description": "Listening along on spotify via the discord Embed, when the host starts a \"game\" the other person is still listening.",
+  "steps_to_repro": "- Start listening on Spotify - Send a Spotify Embed in a channel - Get someone to listen along - Start playing a game so the Spotify rich presences goes off your profile - The other person should still be listen along - Try skipping a song on shuffle or change to a different playlist or something - The other person should still be \"attached\" so they are still listening with you - Check the embed again and in the corner where you change to online/Idle/DnD etc, and see that the other person's profile picture isn't there and yet they are still listening along/"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "5811bccd4ec8379f8d218663",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 73,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9sPvZ7W0",
+ "data": {
+  "system_settings": " Canary ",
+  "actual_result": "The API returns 500 and the reaction is then removed from the client",
+  "expected_result": "Either the client doesn't allow you to do this, or the API completes the request",
+  "short_description": "Client thinks you can add emotes to webhook messages, API disagrees",
+  "steps_to_repro": "- Add a reaction to a webhook message "
+ }
+}

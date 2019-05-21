@@ -1,0 +1,17 @@
+{
+ "id": "5b5f49ee9df8ce32d98b8912",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1727,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ubaHSy9s",
+ "data": {
+  "system_settings": "Android 5.1",
+  "client_settings": "Discord alpha 7.2.0(720)",
+  "actual_result": "The buttons are invisble (when they are off)",
+  "expected_result": "The buttons aren't invisible",
+  "short_description": "In recent mentions, all buttons (when they are off) are invisble",
+  "steps_to_repro": "- Switch to light theme - Go in recent mentions - Click on 3 lines (up right) - Put all buttons off"
+ }
+}

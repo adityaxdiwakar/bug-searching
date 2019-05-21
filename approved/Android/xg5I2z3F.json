@@ -1,0 +1,30 @@
+{
+ "id": "5b1cc7cc4234640084c56e01",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1518,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xg5I2z3F",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.9",
+  "actual_result": "It does update only in profile, member list still displays the old status",
+  "expected_result": "Playing status should update retroactively in both member list and in profile",
+  "short_description": "Playing status doesn't update in member list, only in profile, causing it to show two different statuses in different places",
+  "steps_to_repro": "- Start Discord - Find someone in a server with Playing status set - Have him change the text of his Playing status - Observe member list & profile of the user"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b06ce376d55335c4e112a78",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1461,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JV7VPA3v",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.7.7",
+  "actual_result": "The keyboard doesn't appear, but you can see that the field still has a blinking typing cursor, a blue underline, and when opening the Add Friend modal, the placeholder text makes an animation where it moves upwards outside the field and the font size decreases. I believe all of this shows that the field is actually focused",
+  "expected_result": "Either keyboard pops up automatically when the modal opens, or it doesn't and then the field shouldn't appear focused at all (i.e no blinking typing cursor, no blue underline, and in the case of the Add Friend field, the placeholder text should stay inside the field instead of moving above in small characters)",
+  "short_description": "Keyboard doesn't pop up automatically when opening Add Friend or Change Nickname modal, even though the field seem to be focused",
+  "steps_to_repro": "- Go to Friends tab - Tap the Add a Friend icon - Alternative method: - Go to any server where you can change nickname  - Long press the server and select Change Nickname"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59f40b7de6aa0342e3f1cb1e",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 399,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IhqKw5da",
+ "data": {
+  "system_settings": "iOS 11.0.3, iPhone 7",
+  "client_settings": "TestFlight 1.9.3 (1340)",
+  "actual_result": "The server shows but the users who's profile you went through appears atop it.",
+  "expected_result": "Mutual server opens up.",
+  "short_description": "Going to mutual server of a friend from DM list brings up their profile in front of the server.",
+  "steps_to_repro": "- Open a DM with someone who you share a mutual server. - Click their name on the top and go to their profile. - Go to mutual servers. - Pick one."
+ }
+}

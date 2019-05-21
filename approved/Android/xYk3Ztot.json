@@ -1,0 +1,24 @@
+{
+ "id": "59f09c4e2285977baad21b75",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 842,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xYk3Ztot",
+ "data": {
+  "system_settings": "Android 7.1.1",
+  "client_settings": "Discord Alpha 5.4.1 (but also works on other versions iirc)",
+  "actual_result": "The buttons that closes the menu in the first menu opened don't work.",
+  "expected_result": "The menu is either prevented from opening twice or the buttons on the first menu opened (the bottom one) still work",
+  "short_description": "Opening the privacy/nickname menu from the server menu twice __will prevent the menu opened first to be closed__.",
+  "steps_to_repro": "- Quickly double-tab the privacy/nickname menu before the menu shows up (it sounds harder than it is) - Close the one you opened last (the top one) - try to close the second menu (aka the first one that opened) with the buttons on the menu (pressing the back button on the menu will succeed to close it, only the UI buttons don't work) and notice how the buttons that are supposed to close the menu don't succeed in doing so."
+ }
+}

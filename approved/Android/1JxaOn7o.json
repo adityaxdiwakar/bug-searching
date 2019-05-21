@@ -1,0 +1,30 @@
+{
+ "id": "59525924218e8069e6f5abba",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 532,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1JxaOn7o",
+ "data": {
+  "system_settings": "Google Pixel - Android 7.1.2",
+  "client_settings": "Android Alpha 3.9.7",
+  "actual_result": "The scroll bar is visible until you stop moving the scroller",
+  "expected_result": "No scroll bar should be visible while opening the scroller",
+  "short_description": "Channel list scroll bar visible while opening channel/server list by swiping right",
+  "steps_to_repro": "- Slowly open the channel/server list by SWIPING right (not clicking the button in the top right) - Observe the scroll bar that disappears when you stop moving the list - Fully open the scroller - Scroll to a different position on the channel list - Close the scroller and repeat steps 1&2"
+ }
+}

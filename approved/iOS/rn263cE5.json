@@ -1,0 +1,17 @@
+{
+ "id": "5bd1ef89c58c442c1fd6e7d6",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1120,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rn263cE5",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1 Developer Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8616)",
+  "actual_result": "Audit log icon is different shade from the other icons",
+  "expected_result": "Audit log icon is same shade as other icons",
+  "short_description": "Audit log icon is darker than other icons in server settings",
+  "steps_to_repro": "- Open Server Settings - Observe the audit log icon and compare it to the others"
+ }
+}

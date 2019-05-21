@@ -1,0 +1,17 @@
+{
+ "id": "5bbcd59d172cd50f2b14d244",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1076,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hOkr9NDG",
+ "data": {
+  "system_settings": "iPhone XS Max running iOS 12.",
+  "client_settings": "iOS TestFlight 2.3.9 (8085)",
+  "actual_result": "The bottom bar overlaps onto the last person slightly.",
+  "expected_result": "There should be some space between the last person and the bottom bar.",
+  "short_description": "Bottom Bar overlaps last person in the friends list slightly [iPhone X / XS / XS Max Specific only]",
+  "steps_to_repro": "- Go to your friends list - Scroll down all of the way to the bottom. - Observe"
+ }
+}

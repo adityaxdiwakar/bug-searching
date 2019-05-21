@@ -1,0 +1,17 @@
+{
+ "id": "5bb7d58b957b5155ac18f310",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2109,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZFW1eeBJ",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 mini, Android 6.0.1",
+  "client_settings": "Alpha 763",
+  "actual_result": "create entry shows: \"User created voice channel **#name**\"",
+  "expected_result": "Audit Log entry shows: \"User created voice channel name\"",
+  "short_description": "[Audit Log] creating, editing and deleting a voice channel or a category puts a \"#\" in front of the name",
+  "steps_to_repro": "- create / delete / edit a voice channel or category - observe Audit Log"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "588102aa1e9dc8685c6a6417",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 165,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/fZfM0VbV",
+ "data": {
+  "system_settings": " iOS 9.3.5 on latest build with iPad 4th gen.",
+  "actual_result": "the separator randomly inverts. Cannot be cleared without double tapping home button to kill the process.",
+  "expected_result": "separator stays black as before upload.",
+  "short_description": "The keyboard separating bar inverts after uploading files",
+  "steps_to_repro": "- go to a text channel. - tap the attach paper clip. - select file from camera roll. - upload it. "
+ }
+}

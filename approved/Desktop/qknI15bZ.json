@@ -1,0 +1,15 @@
+{
+ "id": "58f842d486db69b922b289ac",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 503,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qknI15bZ",
+ "data": {
+  "actual_result": "get told you have unsaved changes, and you cant dismiss the unsaved changes box with the 'save changes' button.",
+  "expected_result": "leave the settings",
+  "short_description": "can change tab from moderation before saving",
+  "steps_to_repro": "- change scan to a diffrent value - go back to the overview tab - try to leave the settings - "
+ }
+}

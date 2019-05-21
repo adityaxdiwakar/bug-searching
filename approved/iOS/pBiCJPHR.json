@@ -1,0 +1,30 @@
+{
+ "id": "5b94040d77519330b857ffd4",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 986,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pBiCJPHR",
+ "data": {
+  "system_settings": "iPhone X, iOS 12 (dev beta 12)",
+  "client_settings": "TestFlight 2.3.8 (7106)",
+  "actual_result": "The selection handles float beneath the text field",
+  "expected_result": "The selection handles should be anchored to the text",
+  "short_description": "Text selection handles aren't anchored to text",
+  "steps_to_repro": "- Go to any server - Tap the server name and then Change Nickname - Type any text into the field - Tap and hold on the text and choose Select All - Tap Look Up or Share - Close the lookup/share popup"
+ }
+}

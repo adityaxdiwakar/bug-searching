@@ -1,0 +1,16 @@
+{
+ "id": "581069ac93646550a45e8536",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 64,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/t0GYVEIv",
+ "data": {
+  "system_settings": " Canary ",
+  "actual_result": "The server will only be selected if you click on the lower corners of the expanded icon.",
+  "expected_result": "The server will be selected no matter where you click.",
+  "short_description": "You cannot select a cut-off server unless you click in the lower corners of the icon",
+  "steps_to_repro": "- Scroll through the server list so that a server icon is cut off but will still expand on hover - Click on server - Server will not be selected unless you click on the lower corners of the expanded icon. "
+ }
+}

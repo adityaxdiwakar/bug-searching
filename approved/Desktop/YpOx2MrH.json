@@ -1,0 +1,30 @@
+{
+ "id": "5a0351eaae13e6473bfd76b4",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1359,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YpOx2MrH",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Windows Canary v0.0.173",
+  "actual_result": "if you are on the very top line of pixels, it doesnt drag",
+  "expected_result": "The window would drag like any other program normally",
+  "short_description": "New black bar isnt completely grab-able",
+  "steps_to_repro": "- Put discord in full screen - put your mouse at the top bar like you would to grab any window - be at the very very very top - drag the bar"
+ }
+}

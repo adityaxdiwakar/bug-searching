@@ -1,0 +1,30 @@
+{
+ "id": "5a32a1ba3bd7abee29dba670",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1459,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/D0IOrP10",
+ "data": {
+  "system_settings": "Chrome 63.0.3229.84 (Stable), Windows 10 (1709)",
+  "client_settings": "Discord Web Stable (Build 8543)",
+  "actual_result": "The play/attach button lifts",
+  "expected_result": "The play/attach button scales with the chat",
+  "short_description": "Attach/RP Play Button Off Center on High Chat Scaling",
+  "steps_to_repro": "- Use settings to change your Chat Font Scaling to 150"
+ }
+}

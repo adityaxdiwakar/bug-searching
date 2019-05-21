@@ -1,0 +1,17 @@
+{
+ "id": "5b62ff857dc7f3a4bd93330e",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2605,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/d4rsQndN",
+ "data": {
+  "system_settings": "Windows 10 Home SL 1803 x64",
+  "client_settings": "Canary 20535",
+  "actual_result": "a user who has dark role color is displays as thinner against the other one who uses light color",
+  "expected_result": "the nickname/username of a user from overlay and desktop client should be same",
+  "short_description": "usernames from text overlay is thinner if you are using dark color against lighter color which is thicker.",
+  "steps_to_repro": "- open overlay from a game. go to a server with colored roles.  - go to a text channel. find a user with dark shade of colored role. - compare username colors from desktop client and overlay"
+ }
+}

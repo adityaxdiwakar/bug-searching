@@ -1,0 +1,30 @@
+{
+ "id": "5a31fa63d7abb2bac391e354",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 948,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Xgabjxtk",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.8.4",
+  "actual_result": "You must restart the app to see the new Playing status of the user. Note that this didn't occur on Alpha 5.8.3 and older versions",
+  "expected_result": "The Playing status should update immediately in member list",
+  "short_description": "As of Alpha 5.8.4, Playing status of others won't auto-update",
+  "steps_to_repro": "- Have someone set a Playing status - Open your Android app - Open Member list and look at the Playing status - Ask the user to change it"
+ }
+}

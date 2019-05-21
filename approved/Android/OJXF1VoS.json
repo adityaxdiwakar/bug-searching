@@ -1,0 +1,17 @@
+{
+ "id": "5bba078fa85a0b5257009a22",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2121,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/OJXF1VoS",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 mini, Android 6.0.1",
+  "client_settings": "Alpha 7.6.3",
+  "actual_result": "the expand is totally blank",
+  "expected_result": "there should be no expand",
+  "short_description": "[Audit Log] adding a role to channel permissions on desktop without giving it a permission creates a totally blank audit log entry expand on Android",
+  "steps_to_repro": "- add a role to channel permission without giving it a permission (repro on desktop) - expand channel override entry in audit log (on Android)"
+ }
+}

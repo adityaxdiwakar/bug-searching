@@ -1,0 +1,30 @@
+{
+ "id": "5ad1fb3a0ba4d4c49ed28690",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1845,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Aoa12YcO",
+ "data": {
+  "system_settings": "Windows 10 Home 64 Bits (10.0, Build 16299)",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 13602, Version Hash: 9f82966234905973935e316a7778e0071760de89",
+  "actual_result": "Icon disappears, doesn't come back.",
+  "expected_result": "Icon should be put back (even without hovering over it)",
+  "short_description": "Server icon doesn't return when dragged out of window",
+  "steps_to_repro": "- Drag a server icon out of Discord, after a couple of times it doesn't come back until you hover the icon again."
+ }
+}

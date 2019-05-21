@@ -1,0 +1,16 @@
+{
+ "id": "58f63d1bbc694f73eadb979b",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 230,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FSjgLL0w",
+ "data": {
+  "system_settings": " iPhone 6 iOS 10.3.2 Dev Beta 2, latest Discord Testflight",
+  "actual_result": "A box surrounding both mentions displayed",
+  "expected_result": "Both mentions will display its own box when clicking on either mention",
+  "short_description": "Mentioning the same user two times in one message without a space between the mentions then clicking it will think its one mention",
+  "steps_to_repro": "- Mention the user two times in a message without a space between them (eg. <@116693403147698181><@116693403147698181>) - Click on the mention "
+ }
+}

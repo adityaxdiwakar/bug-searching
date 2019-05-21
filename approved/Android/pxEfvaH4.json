@@ -1,0 +1,30 @@
+{
+ "id": "5bd3601c14cf7110886837e5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2245,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pxEfvaH4",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0.0",
+  "client_settings": "7.8.1",
+  "actual_result": "The flag disappears , profile picture of server becomes blue",
+  "expected_result": "It should stay as normal",
+  "short_description": "Switching orientation while the menu was opened after you clicked server icon , makes region flag and server icon disappears",
+  "steps_to_repro": "- Go to server settings overview - Click profile pic of the server once - When the menu opened , switch orientation - Observe the server icon and the region's flag"
+ }
+}

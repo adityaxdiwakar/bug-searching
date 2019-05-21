@@ -1,0 +1,30 @@
+{
+ "id": "5b5169d614bf0271c82950ff",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2352,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/a9zS6uI2",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1803",
+  "client_settings": "Firefox Stable v61.01",
+  "actual_result": "There is an uncaught exception mentioning that the user is not signed in.",
+  "expected_result": "There should not be an uncaught exception.",
+  "short_description": "Opening the Developer Documentation without signing in throws an uncaught exception in the console",
+  "steps_to_repro": "- Go to the developer documentation being signed out - Observe the developer console"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "584c9b7de5acc5aa14111370",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 115,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9UE72jEX",
+ "data": {
+  "system_settings": " iPhone 5, iOS 10.1.1, latest discord version.",
+  "actual_result": "The edit message bar comes with you to the other server.",
+  "expected_result": "The Edit message bar disappears until you go back into the server you started editing a message in",
+  "short_description": "Opening another server while Editing a message still keeps the edit message bar(Trying to send a message while having it will do nothing but remove it).",
+  "steps_to_repro": "- Edit a message - Slide to the left and open another server. "
+ }
+}

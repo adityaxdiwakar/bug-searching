@@ -1,0 +1,17 @@
+{
+ "id": "5c1c1390150c352f582c151a",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3528,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JCFe07hy",
+ "data": {
+  "system_settings": "Windows 10 Pro 1803",
+  "client_settings": "Desktop Canary, 30168",
+  "actual_result": "There are weird symbols at the end of the sentences",
+  "expected_result": "There shouldn't be any weird symbols at the end of the sentences",
+  "short_description": "Emojis not rendering on \"Kingsway\" in store",
+  "steps_to_repro": "- Go to the store and locate \"kingsway\" - Click onto \"Kingsway\" in the store - Go into the game description and click \"Read More\" - Notice weird symbols at the end of sentences"
+ }
+}

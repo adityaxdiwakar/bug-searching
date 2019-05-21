@@ -1,0 +1,30 @@
+{
+ "id": "5b329f07e46cb13aef1dff72",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1606,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/S1sR9Krc",
+ "data": {
+  "system_settings": "Xioami Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.9.9",
+  "actual_result": "Buttons disappear.",
+  "expected_result": "The buttons at the bottom are still visible when your video is off.",
+  "short_description": "The \"mute/toggle video/disconnect\" buttons at the bottom of video call screen disappears when you turn your video to \"off\" from \"on\" at a particular time.",
+  "steps_to_repro": "- Go to voice settings, switch on \"push to talk\" and keep yourself muted already (which can be done by joining any vc and muting your mic) - Video Call someone (they need not to pickup the call) - Notice your video opens as soon as you video call someone with buttons at the bottom (toggle video, disconnect and mute/unmute) which fade away after like 3 seconds. - Click on video button to close your video and see the buttons reappears. - Now click again and open your video, and click on close video button JUST BEFORE the buttons at the bottom fades away (like at 2.9th second)"
+ }
+}

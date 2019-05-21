@@ -1,0 +1,30 @@
+{
+ "id": "5b4fa1e490dab4e49bc1c872",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1658,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/w4qfpiwq",
+ "data": {
+  "system_settings": "OnePlus 5 8.1 (Oreo)",
+  "client_settings": "Discord Alpha 7.0.8",
+  "actual_result": "It's on \"Don't delete any\" rather than \"24 hours\"",
+  "expected_result": "It should be set on 24 hours like on desktop and iOS",
+  "short_description": "On the ban modal, the default message pruning option is set on \"Don't delete any\" while on desktop and ios it's on 24 hours.",
+  "steps_to_repro": "- Go to a server you can ban users in - Open the profile - Press ban - Observe the \"Delete message history\" option"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "585f2a34811722294c2586db",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 160,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kkJPrztF",
+ "data": {
+  "system_settings": " Android 5.0, Samsung Galaxy S5 ",
+  "actual_result": "The message with the tag does not join to the two above. System Settings: Android 5.0, Samsung Galaxy S5",
+  "expected_result": "It joins all 3 messages.",
+  "short_description": "When sending another message with a tag, it does not join messages.",
+  "steps_to_repro": "- Send a message. - Send another message - Send one more message, but this time tag somebody. "
+ }
+}

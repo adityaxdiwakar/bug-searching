@@ -1,0 +1,23 @@
+{
+ "id": "5919b270f0ae789b6fb25ff7",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 651,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Rthf5aB5",
+ "data": {
+  "system_settings": " Chrome OS x 64, web.",
+  "actual_result": "Half of the discord logo load",
+  "expected_result": "A full instagram logo should appear",
+  "short_description": "Instagram Logo won't load fully on Web",
+  "steps_to_repro": "- Load web client, hit user settings, look at instagram logo "
+ }
+}

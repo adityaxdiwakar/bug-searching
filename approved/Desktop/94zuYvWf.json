@@ -1,0 +1,24 @@
+{
+ "id": "59d7e7ac43ec89a45454d016",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1228,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/94zuYvWf",
+ "data": {
+  "system_settings": "Windows 10 Professional x64",
+  "client_settings": "Canary Build ID 5438",
+  "actual_result": "The \"Expire After\" becomes 30 Minutes (Which is not default)",
+  "expected_result": "The \"Expire After\" would be 24 hours (which is default)",
+  "short_description": "By default invite link doesn't expire in 24 hours if re-generated after generating a permanent invite",
+  "steps_to_repro": "- Go to a channel setttings tab, create an invite (which will stay for 24 hours by default) - Then create a permanent invite. - Then untick the \"Set this link to never expire\" - Then click on the gear icon on the create invite menu and then create an invite."
+ }
+}

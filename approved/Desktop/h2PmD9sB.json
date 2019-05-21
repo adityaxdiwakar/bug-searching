@@ -1,0 +1,30 @@
+{
+ "id": "5abafc302cb95ebd700d5ec8",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1765,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/h2PmD9sB",
+ "data": {
+  "system_settings": "iMac 27\" (Mid 2010) - macOS 10.3.3.",
+  "client_settings": "Canary Build 12704.",
+  "actual_result": "Starts a regular client to open the invite.",
+  "expected_result": "Instant invite opens in Canary.",
+  "short_description": "Opening an instant invite in a web browser with Canary opened doesn't take you to Canary but opens a stable discord build to accept it.",
+  "steps_to_repro": "- Go onto a browser. - Open an instant invite with your Discord logged in and Canary open."
+ }
+}

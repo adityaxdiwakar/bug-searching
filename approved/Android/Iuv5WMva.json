@@ -1,0 +1,30 @@
+{
+ "id": "5b5d80ef42e5c380f67b0629",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1705,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Iuv5WMva",
+ "data": {
+  "system_settings": "Honor 9, Android 8.0.0",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "It shows users who you've already sent one.",
+  "expected_result": "It should only give you suggestions of users you haven't sent a friend request so you can send one.",
+  "short_description": "Users whose you've already sent a Friend Request appear as suggestion in Add Friends",
+  "steps_to_repro": "- Interact with someone and send him a friend request from their profile. - Go to Friends -> Add Friend, and look at the suggestions (You need to have to new Add Friend Suggestions thing, currently available in only a few countries). - You'll see it gives you as suggestion the person who you've just sent it."
+ }
+}

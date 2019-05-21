@@ -1,0 +1,17 @@
+{
+ "id": "5bc1b643378e9285386858b8",
+ "closed": false,
+ "idList": "5bbd22cfd8add07577759e05",
+ "idShort": 1083,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VhBZsv53",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1 Developer Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8085)",
+  "actual_result": "Profile (or send message button) is in safe area",
+  "expected_result": "Profile (or button to send message if viewing someone else's profile) shouldn't be in the safe area",
+  "short_description": "[iPhone X/XS/XS Max] Mini profiles are in safe area",
+  "steps_to_repro": "- Tap on your profile in a server's member list to open a mini profile"
+ }
+}

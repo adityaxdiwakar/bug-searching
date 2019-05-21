@@ -1,0 +1,17 @@
+{
+ "id": "59949ff1527be3b85e166ddd",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1002,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XPWrrnun",
+ "data": {
+  "system_settings": "Windows 8.1",
+  "client_settings": "0.0.163",
+  "actual_result": "A single frame of the window is captured, and streams that, with the cursor able to move.",
+  "expected_result": "The game streams",
+  "short_description": "Window'd Fullscreen in Unreal Engine games don't stream over screenshare when using Application Share",
+  "steps_to_repro": "- Run a game using the Unreal Engine (Fortnite and Paragon were tested, latter is F2P) - Start a Video Call - Share Game as Application"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b742037f786fb078bd55237",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2711,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/U7QXWf6I",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 21705",
+  "actual_result": "Either just 3 dots appear or the topic kinda gets cut off at the button",
+  "expected_result": "It gets normally truncated and not cut off",
+  "short_description": "Channel topic gets poorly truncated at the side near the channel mute button",
+  "steps_to_repro": "- Set a very long name for a channel (It might be easier to reproduce on a smaller screen) - Set a topic that has more than 2 characters in it - Stretch your window from the left side horizontally to the right side and observe the part where the mute channel button is while stretching"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a4d7435c5188476bdb7016c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1508,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VLKIfPG4",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord Canary 0.0.194, Build 9198",
+  "actual_result": "Tooltip remains, allowing you to preform this sort of action.",
+  "expected_result": "Tooltip should not remain upon entering the deletion modal.",
+  "short_description": "Message tooltip remains when selecting the Delete option, allowing actions like editing a message in the deletion modal.",
+  "steps_to_repro": "- Send a message and open the tooltip (three dots, not right-click). - Select Delete then select Edit as the tooltip should still be displayed."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59c2f9816b0d49eaf052f744",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 751,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GkwAcmd3",
+ "data": {
+  "system_settings": "huawei p10 7.0",
+  "client_settings": "Android Alpha 5.2.1",
+  "actual_result": "There is no comma",
+  "expected_result": "It has a comma to show each order of magnitude",
+  "short_description": "Search results over 1 thousand are missing a comma (X,XXX)",
+  "steps_to_repro": "- Find a result which has over 1 thousand - (recommended from : dabbit prime in d-testers)"
+ }
+}

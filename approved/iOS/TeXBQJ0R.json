@@ -1,0 +1,30 @@
+{
+ "id": "59a16be86e88f662335020ee",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 296,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TeXBQJ0R",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 10.3.3",
+  "client_settings": "TestFlight 1.9.1",
+  "actual_result": "Very hard to see the role with default color",
+  "expected_result": "Role should be clearly visible",
+  "short_description": "User settings: roles with default color barely visible",
+  "steps_to_repro": "- Have or create a role with the default color - Assign this role to a member - Now open user settings of this user at your server - Observe it"
+ }
+}

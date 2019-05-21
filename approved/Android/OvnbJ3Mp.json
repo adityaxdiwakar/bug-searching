@@ -1,0 +1,23 @@
+{
+ "id": "590209a8f99158c08f731248",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 413,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OvnbJ3Mp",
+ "data": {
+  "system_settings": " Android 6.0 3.7.8",
+  "actual_result": "Cannot open until you try to mention them",
+  "expected_result": "Can open user settings at the bottom",
+  "short_description": "Can't open user settings when user doesn't appear in user list",
+  "steps_to_repro": "- Force close Discord - Find a user that doesn't appear when you type @username - Try to hold their avatar (nothing pops up at bottom) - Tap on their avatar until the list of users appear - It works after their name pops up (Takes longer than normal which is instant) "
+ }
+}

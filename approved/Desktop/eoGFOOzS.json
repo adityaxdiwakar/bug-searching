@@ -1,0 +1,30 @@
+{
+ "id": "5b5731b2b03ad0dd24336419",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2417,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eoGFOOzS",
+ "data": {
+  "system_settings": "Macbook Air (Early 2015), macOS Sierra 10.12.6",
+  "client_settings": "Canary 19588",
+  "actual_result": "Invisible thing becomes clickable",
+  "expected_result": "It isn't supposed to be clickable there where it actually isn't",
+  "short_description": "When in a VC, the voice channel/server name can be clicked from further away then it actually is",
+  "steps_to_repro": "- Have a server with a short name - Have a VC with a short name - Join that VC - Observe the text under the \"Voice Connected\" - Try clicking it more on the right - Observe"
+ }
+}

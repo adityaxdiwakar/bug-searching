@@ -1,0 +1,17 @@
+{
+ "id": "5bdf2714a314af86da112b4d",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2285,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9jWrdfFi",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0.0",
+  "client_settings": "7.8.6",
+  "actual_result": "The text disappears",
+  "expected_result": "The text should stay",
+  "short_description": "Switching orientation while the connection adding menu open \" Connect your accounts \" text disappears.",
+  "steps_to_repro": "- Go to settings connections - Select add button, observe the \"Connect your accounts\" text - Switch orientation - Observe again."
+ }
+}

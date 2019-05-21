@@ -1,0 +1,17 @@
+{
+ "id": "5c0156e682652c34a2bb13c0",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2370,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/r3yJYWag",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 9.0 (November patch)",
+  "client_settings": "Discord Alpha 8.0.4",
+  "actual_result": "The client crashes and roughly 2 minutes afterwards VOICE_PART event (voice disconnect) is sent",
+  "expected_result": "The client should continue working just fine and you should be connected to the voice channel",
+  "short_description": "[Android 9 specific] Joining a voice channel causes the client to crash on 8.0.4",
+  "steps_to_repro": "- Update to 8.0.4 - Try to join a voice channel"
+ }
+}

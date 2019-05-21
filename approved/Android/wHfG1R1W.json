@@ -1,0 +1,17 @@
+{
+ "id": "5bb3dafdd4dcd76707baf3cd",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2087,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wHfG1R1W",
+ "data": {
+  "system_settings": "Google Pixel 2, Android 9",
+  "client_settings": "Android Alpha 7.6.2 (762)",
+  "actual_result": "server picture is blank",
+  "expected_result": "picture should have mentioned lettering identifying the server",
+  "short_description": "using server filter in quick switcher doesn't show lettering given to servers with no profile",
+  "steps_to_repro": "- notice the default becomes letters that match name-open quick searcher and search for said server"
+ }
+}

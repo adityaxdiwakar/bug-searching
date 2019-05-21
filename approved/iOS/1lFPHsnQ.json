@@ -1,0 +1,24 @@
+{
+ "id": "59e3dd27a388bbaf8f734669",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 368,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1lFPHsnQ",
+ "data": {
+  "system_settings": "iPhone 6S with iOS 11.0.3 & iPad Air 2 with iOS 11.1 PB 2",
+  "client_settings": "TestFlight 1.9.2 (953)",
+  "actual_result": "It uses always the English language. Note: For Desktop it is translated. Might also happen with Android.",
+  "expected_result": "The strings should be translated for the respective languages.",
+  "short_description": "Discord uses always English language for \"Typing strings\"",
+  "steps_to_repro": "- Change your language to something other than English (for example German or French) - Ask someone to type something or use other account - Observe the typing strings (one user, two users, three users and several users)"
+ }
+}

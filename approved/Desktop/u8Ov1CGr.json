@@ -1,0 +1,30 @@
+{
+ "id": "5af3913170bd537239c28ef7",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1962,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/u8Ov1CGr",
+ "data": {
+  "system_settings": "macOS 10.13.4",
+  "client_settings": "Chrome, Firefox, Stable Build, Canary",
+  "actual_result": "The cursor stays, and the first emoji is highlighted.",
+  "expected_result": "Cursor moves to the left, so that I can fix a typo",
+  "short_description": "Left arrow key when searching reactions won't let me move the cursor to the left. Instead, it selects the first emoji available",
+  "steps_to_repro": "- Open up the emoji modal - Start typing something, and make sure there are some emotes that match - Press the left arrow key"
+ }
+}

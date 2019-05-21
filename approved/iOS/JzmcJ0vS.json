@@ -1,0 +1,15 @@
+{
+ "id": "5857cd3b61f498eb3d753645",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 131,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JzmcJ0vS",
+ "data": {
+  "actual_result": "Keyboard, even wrong one, is shown without having focus on the notes. Keyboard is overlaying user profile partly (not wanted)",
+  "expected_result": "Keyboard is not shown since user notes has not been focused",
+  "short_description": "(Wrong) Keyboard still open in user profile (not wanted and not focused on notes)",
+  "steps_to_repro": "- Open Keyboard- Hold down screen over user to open up menu- Click User Settings- Click Profile "
+ }
+}

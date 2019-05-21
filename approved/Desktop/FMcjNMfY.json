@@ -1,0 +1,30 @@
+{
+ "id": "5b5c608a26023a46760e726f",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2468,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FMcjNMfY",
+ "data": {
+  "system_settings": "macOS 10.13.5, MacBook Pro 2016 13inch",
+  "client_settings": "Canary 20174",
+  "actual_result": "It jumps to the closest block of chat history, not the pinned message",
+  "expected_result": "You jump to the pinned message",
+  "short_description": "Jumping to pinned when there are messages unread jumps back to where you were",
+  "steps_to_repro": "- Have people send messages in a channel, as many as possible so they get outside of your Render range - Try to jump to a pinned message outside of the current chat history (meaning outside of the \"load more messages\" range) - Observe as it jumps back to a chat history before the pinned message (\"a chat history\" means a block between the bottom \"load more messages\" and the top \"load more messages\") - If it doesn't work, please try a few more times."
+ }
+}

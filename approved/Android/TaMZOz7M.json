@@ -1,0 +1,30 @@
+{
+ "id": "5a4d90414439eafa0c95a39e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1019,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TaMZOz7M",
+ "data": {
+  "system_settings": "OnePlus 5T, Android 7.1.1",
+  "client_settings": "6.0.4",
+  "actual_result": "You see the person's nickname that is his/her default",
+  "expected_result": "You should usually see the nickname that was changed in the server",
+  "short_description": "Showing persons default nickname rather than the nickname chosen in the server when copying a message",
+  "steps_to_repro": "- Go into any server chat - Press and hold a message send by someone else (that has changed his nickname into something else in the server)"
+ }
+}

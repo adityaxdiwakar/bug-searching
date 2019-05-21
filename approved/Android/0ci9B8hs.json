@@ -1,0 +1,23 @@
+{
+ "id": "58caa34a53f7f2a49ac0a7ae",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 293,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0ci9B8hs",
+ "data": {
+  "system_settings": " Android 6.0.1 Discord Client 3.5.1",
+  "actual_result": "you can't scroll, the only way for you to scroll is to drag the marker up and down",
+  "expected_result": "scroll through the text",
+  "short_description": "Can't scroll text while editing channel topic",
+  "steps_to_repro": "- change the channel topic to a long text and save - leave the edit channel screen - go back to the edit channel screen and try scrolling through the topic text "
+ }
+}

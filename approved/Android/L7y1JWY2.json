@@ -1,0 +1,24 @@
+{
+ "id": "593706bccfbc0d2c225df53d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 498,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/L7y1JWY2",
+ "data": {
+  "system_settings": "LG G4 H811, 7.1.1",
+  "client_settings": "Android 3.9.0 Beta",
+  "actual_result": "The nav drawer remains frozen in the position you left it in.",
+  "expected_result": "The nav drawer should spring open or closed.",
+  "short_description": "nav drawer doesn't close when holding reaction",
+  "steps_to_repro": "- Add a reaction to a message. - Tap and hold that reaction. - With another finger swipe from the start(right)."
+ }
+}

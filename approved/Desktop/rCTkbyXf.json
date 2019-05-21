@@ -1,0 +1,42 @@
+{
+ "id": "5a9610aa17886cbf809eb901",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1691,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a8c933b1ce1cddeb01e7110",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Crash",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rCTkbyXf",
+ "data": {
+  "system_settings": "Windows 10x64 and Chrome 64",
+  "client_settings": "Discord stable",
+  "actual_result": "Discord crashes, in console there's an error `TypeError: en[n] is not a function`",
+  "expected_result": "Giphy or tenor window opens with gifs",
+  "short_description": "Trying to open giphy or tenor causes discord to crash",
+  "steps_to_repro": "- Step 1 - type `/giphy` or `/tenor` followed by  any character"
+ }
+}

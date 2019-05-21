@@ -1,0 +1,30 @@
+{
+ "id": "5a6d9a8b0e1772c57d2d0da7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1075,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/T70fEkCZ",
+ "data": {
+  "system_settings": "Samsung Galaxy S2, sgh-t989, 6.0.1",
+  "client_settings": "Alpha 6.1.6",
+  "actual_result": "as long as you are still held on to it, you can move it",
+  "expected_result": "can't move text channel",
+  "short_description": "Can move position of channel while you aren't in edit mode",
+  "steps_to_repro": "- Have many text channels in a server - Server Settings - Channels - Set Sort Mode to Text Channel - Press and hold on a text channel to move it - move it up a slight bit - don't let go of text channel - hit done"
+ }
+}

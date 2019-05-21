@@ -1,0 +1,24 @@
+{
+ "id": "5960dd3fff394a955b31df49",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 830,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gIprYi6q",
+ "data": {
+  "system_settings": "Win 10 Pro x64 v1607",
+  "client_settings": "Desktop Canary 0.0.157 (Build 2044)",
+  "actual_result": "The typing bar is marginally in front of the buttons/timers, partially obscuring them (I assume this happens for all buttons and timers, however I have only tested with the above)",
+  "expected_result": "The typing bar should be behind these buttons/timers",
+  "short_description": "Buttons and timers on server join/account verification are slightly covered when someone in the current channel is typing",
+  "steps_to_repro": "- Open an instance of discord on a brand new, unverified account (this can be done by opening a chrome incognito window and opening discord) - Make the account join a testing server with medium verification - Observe the Claim Account button, and then simulate typing in the channel with an alternate account or someone else - While they are typing, observe the button until they stop typing - Claim the account (or just rejoin on an alt account with the server set to tableflip verification) - Observe the timer, and then simulate typing as instructed before - While they are typing, observe the timer until they stop typing"
+ }
+}

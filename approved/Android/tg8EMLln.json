@@ -1,0 +1,24 @@
+{
+ "id": "59c072fbe3085dfc13360f33",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 739,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tg8EMLln",
+ "data": {
+  "system_settings": "Samsung Galaxy S5, Android 5.0",
+  "client_settings": "Android Alpha 5.1.8",
+  "actual_result": "The color is broken at the top and there's a band of darker colour",
+  "expected_result": "Channel list has colour that goes all the way up",
+  "short_description": "Ugly bar at the top of the channel list",
+  "steps_to_repro": "- Swipe right for channel list - look at the top"
+ }
+}

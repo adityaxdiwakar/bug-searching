@@ -1,0 +1,30 @@
+{
+ "id": "5a58e82810d6c222bf1e16c0",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1033,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qvQJ0P9v",
+ "data": {
+  "system_settings": "Pixel 2, Android 8.1.0",
+  "client_settings": "Android 6.0.5 (605)",
+  "actual_result": "The emote will appear where its name is in the URL, breaking the URL.",
+  "expected_result": "A clickable URL with only text and no emotes in the middle of it.",
+  "short_description": "Entering a hyperlink that contains the same text as a Twitch synced subscriber emote will render the link with the emote",
+  "steps_to_repro": "- Get a name of one of your synced Twitch sub emotes (the ones that don't need to be used with colons). - In a text channel, or Direct Message, enter a link like \"[domain dot com]/[twitch emote name] dot png\", no brackets. - Observe that an emote will be placed in the URL instead of text."
+ }
+}

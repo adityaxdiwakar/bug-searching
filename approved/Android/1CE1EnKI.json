@@ -1,0 +1,30 @@
+{
+ "id": "5a43fbde86af96e32ce46764",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1003,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1CE1EnKI",
+ "data": {
+  "system_settings": "OnePlus 5, Android 7.1.1",
+  "client_settings": "Android Alpha 5.9.4",
+  "actual_result": "The app opens for like a second and closes immediately",
+  "expected_result": "It should open the app and let you choose the new pic",
+  "short_description": "Won't let you change server pic using the file manager option( works only on OnePlus devices so far)",
+  "steps_to_repro": "- Open server settings - Try to change the server pic - It should prompt you to choose an application, select file manager (might be called something else on other devices)"
+ }
+}

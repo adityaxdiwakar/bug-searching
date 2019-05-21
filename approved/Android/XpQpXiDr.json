@@ -1,0 +1,17 @@
+{
+ "id": "5c376dc3d168393c8cdccff0",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2419,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XpQpXiDr",
+ "data": {
+  "system_settings": "Xperia Z4 Android 6.0",
+  "client_settings": "Discord 8.2.5 Alpha",
+  "actual_result": "Animated emojis play on reactions when disabled",
+  "expected_result": "Reacted emojis should not play",
+  "short_description": "Reacted animates emojis play when turned off",
+  "steps_to_repro": "- Go to settings - Go to text and images - Disable play animated emojis option - React/see an animated emoji (reactions)"
+ }
+}

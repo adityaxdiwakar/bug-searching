@@ -1,0 +1,30 @@
+{
+ "id": "59be4453bee2bce1a2702cdd",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 335,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NyCTiRGz",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 10.3.3 & iPad Air 2, iOS 11 Golden Master",
+  "client_settings": "TestFlight 1.9.1 (665)",
+  "actual_result": "The empty line (the second one) is completely missing.",
+  "expected_result": "The second line should be displayed as an empty line",
+  "short_description": "Empty lines not shown",
+  "steps_to_repro": "- Write a new message with the following conditions - First line any text, second line no text, third line any text again - Make sure that you are making a new line by clicking \"Return\" - Observe the result"
+ }
+}

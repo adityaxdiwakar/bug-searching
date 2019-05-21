@@ -1,0 +1,23 @@
+{
+ "id": "58ae021f1d180971ada88357",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 393,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/64GzR8p4",
+ "data": {
+  "system_settings": " Win 10 x64, discord canary",
+  "actual_result": "Right button appears in Windows Language",
+  "expected_result": "English interface",
+  "short_description": "'Okay' button in Permission Lockout warning message isn't in Discord Language",
+  "steps_to_repro": "- you need the server where you didn't have Admin/Owner permissions - open channel settings and try to deny any permission - warning message will appear "
+ }
+}

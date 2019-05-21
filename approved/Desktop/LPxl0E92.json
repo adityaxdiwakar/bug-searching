@@ -1,0 +1,23 @@
+{
+ "id": "59180c8d05031da286eca803",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 643,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LPxl0E92",
+ "data": {
+  "system_settings": " Win10 Latest Canary (No I didn't use BetterDiscord for this bug)",
+  "actual_result": "The user will still be able to see the channel contents, read new messages but not reply to anything. As soon as they click out of the channel, it'll vanish.",
+  "expected_result": "The channel will vanish and the user currently viewing something they don't have access to will be sent to the default channel.",
+  "short_description": "Removing permissions while in a hidden channel still allows messages to be seen.",
+  "steps_to_repro": "- Have 2 different accounts using Canary and any other platform - Give the canary account access to manage channels - give the canary account a role that grants access to a hidden channel, then on the canary account, open the channel and leave it open. - Remove the canary accounts role that granted the secret channel but keep the manage channels permission. "
+ }
+}

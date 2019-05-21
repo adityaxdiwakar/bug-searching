@@ -1,0 +1,17 @@
+{
+ "id": "5b5d8697850835872acc850e",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1706,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ITHDj3jD",
+ "data": {
+  "system_settings": "Xiaomi Redmi 4X Android 7.1.2",
+  "client_settings": "Android Beta 7.1.8",
+  "actual_result": "Image disappears",
+  "expected_result": "Nothing happens with uploaded image",
+  "short_description": "Screen rotation (or spliting) kills uploaded image in \"create a server\" menu",
+  "steps_to_repro": "- Upload some image to server avatar - rotate your device or split screen"
+ }
+}

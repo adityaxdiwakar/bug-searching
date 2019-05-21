@@ -1,0 +1,24 @@
+{
+ "id": "5aa6f35f912fd0b252fde394",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1182,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HKh29Gd2",
+ "data": {
+  "system_settings": "Samsung Galaxy , Android 7.0",
+  "client_settings": "Discord Alpha 6.3.5",
+  "actual_result": "the app crashes.",
+  "expected_result": "Discord should open a new pm with the person",
+  "short_description": "When you go to hit the send message \"text\" or message icon the app crashes",
+  "steps_to_repro": "- Step 1 go to a server and tap on someones profile - Step 2 hit the \"send message\" text or message button - etc"
+ }
+}

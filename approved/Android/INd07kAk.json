@@ -1,0 +1,30 @@
+{
+ "id": "5affbf015330558e6f9cc809",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1434,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/INd07kAk",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.7.4",
+  "actual_result": "The title appears as \"USER SETT\u0130NGS\", \"APP SETT\u0130NGS\" and \"APP INFORMAT\u0130ON\" i.e. the Turkish letter \u0130 appears instead of regular capital i (I) of English at several places mentioned above.",
+  "expected_result": "The title of the headers should appear normal as \"USER SETTINGS\", \"APP SETTINGS\" and \"APP INFORMATION\"",
+  "short_description": "Turkish letter \"\u0130\" appears at several places in user settings when you set your device language to Turkish and keep the Discord language English.",
+  "steps_to_repro": "- Go to user settings and look at the headers such as \"USER SETTINGS\", \"APP SETTINGS\" and \"APP INFORMATION\" - Change your system language to Turkish. - Again have a look at the headers in user settings that are mentioned above. (You probably have to close the user settings menu after changing the system language, then again open it by pressing the cog icon below)"
+ }
+}

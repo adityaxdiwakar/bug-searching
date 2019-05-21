@@ -1,0 +1,17 @@
+{
+ "id": "5c36cbd98a691b104c6892ad",
+ "closed": false,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 1250,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/QsIUSKr6",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 12.1.3 Beta (16D5032a) - TestFlight 2.4.2 (10573)",
+  "client_settings": "TestFlight 2.4.2 (10573)",
+  "actual_result": "The screen doesn't change the name to appear valid until you reload the screen.",
+  "expected_result": "The screen should update the name when it's invalid.",
+  "short_description": "Attempting to submit an invalid emote name makes the invalid name remain until you re-open the screen.",
+  "steps_to_repro": "- Navigate to Server Settings > Emoji. - Upload an emote or have an emote already added. - Rename the emoji to one character, or without a name at all. - Observe the name stay the same as you submitted. - Tap \"Back\" then tap \"Emoji\" again."
+ }
+}

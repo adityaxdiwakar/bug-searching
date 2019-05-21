@@ -1,0 +1,30 @@
+{
+ "id": "5b0acb206764f27e18cea455",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 1477,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NErQ0ANW",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 Nougat",
+  "client_settings": "Discord Alpha 685",
+  "actual_result": "It does appear and when clicking on it will give you an empty profile that closes shortly afterwards",
+  "expected_result": "It shouldn't appear as Clyde isn't actually a user nor a bot",
+  "short_description": "Accessing Clyde's profile via message popup is possible and leads to an empty profile that closes shortly afterwards",
+  "steps_to_repro": "- Get a message from Clyde to appear, this can be done by for example messaging someone who doesn't share a server with you - Hold on Clyde's message - Notice there's a profile option"
+ }
+}

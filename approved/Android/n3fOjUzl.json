@@ -1,0 +1,17 @@
+{
+ "id": "5b0604534094a9f0dbfd6f20",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1456,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/n3fOjUzl",
+ "data": {
+  "system_settings": "Huawei Y5 II 5.2.0 and Samsung galaxy Trent plus 4.2.2",
+  "client_settings": "android 6.7.7",
+  "actual_result": "app crashes after discord logo appears on screen",
+  "expected_result": "app opens perfectly",
+  "short_description": "crash on android 5.x and 4.x",
+  "steps_to_repro": "- update android to 6.7.7 with android 5.x or 4.x - open app"
+ }
+}

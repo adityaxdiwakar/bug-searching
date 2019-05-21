@@ -1,0 +1,17 @@
+{
+ "id": "59befc8ef68ffe9ea48e04a9",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1161,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KGFhykGU",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary 0.0.163, Discord PTB 0.0.34, with or without Hardware Acceleration",
+  "actual_result": "The video display, 50% of the time, will go to Unfocused view, showing two square, cut-off screens with restarting the call a possible option 50% of the time",
+  "expected_result": "Your window should be in Focus on Participant mode (there is no option in the context menu except for group calls)",
+  "short_description": "Screen Sharing in a one-on-one call will auto unfocus",
+  "steps_to_repro": "- Call a friend as voice call - Have friend enable screen sharing - If the view is focused, click on yourself - Enable Screen Sharing"
+ }
+}

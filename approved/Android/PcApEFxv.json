@@ -1,0 +1,17 @@
+{
+ "id": "5bc30d95a61e610da5d6e501",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2171,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PcApEFxv",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.6.7",
+  "actual_result": "Claim Account is black.",
+  "expected_result": "The Claim Account should be white with blue box.",
+  "short_description": "Claim Account box's wording are black.",
+  "steps_to_repro": "- Get to the Claim Account screen. (Best method is to log out, log back in, and get the \"claim your account\" toast). - Observe the box."
+ }
+}

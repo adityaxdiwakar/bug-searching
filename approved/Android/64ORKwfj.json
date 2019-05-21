@@ -1,0 +1,30 @@
+{
+ "id": "5b8fc3567769281aaf82e8bc",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1928,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/64ORKwfj",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 746",
+  "actual_result": "The field does accept the input of new characters; they just don't show up but when you hit backspace after the 266th (or higher) character, the number in the below the field doesn't start to go down until you have cleared all the \"invisible\" characters.",
+  "expected_result": "After you reach the 256th character, the field should not accept any more characters.",
+  "short_description": "When you hit the 256 characters limit on user notes and still keep on adding new characters, the keyboard recognizes the input of new characters and the field recognizes it too but the characters just don't show up because of the limit and you need to hit backspace the number of times you've tried to add new characters to start the real cleanup process of the note.",
+  "steps_to_repro": "- Open someone's profile. - Start spamming in the note field (cross the 256 characters limit)."
+ }
+}

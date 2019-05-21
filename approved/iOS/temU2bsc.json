@@ -1,0 +1,30 @@
+{
+ "id": "5a4ba0d998c2e02fdf5f19d3",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 475,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/temU2bsc",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.1 & iPad Air 2, iOS 11.2.5 Public Beta 2",
+  "client_settings": "TestFlight 2.2.0 (1982)",
+  "actual_result": "Discord crashes.",
+  "expected_result": "You should be redirected to your friend list.",
+  "short_description": "Discord crashes when having roles permissions opened while deleting the server",
+  "steps_to_repro": "- Create a new server - Open the server settings - Go to `Roles` - Click on any role - Keep this section opened and delete the server with other device at the same time"
+ }
+}

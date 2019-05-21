@@ -1,0 +1,17 @@
+{
+ "id": "5be48780f1ef8a5c1e40049a",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1157,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/OB2T8NSw",
+ "data": {
+  "system_settings": "iOS 12.0.1",
+  "client_settings": "TestFlight Build 2.4.0 (8921)",
+  "actual_result": "Nothing happens, the pop-up doesn't appear",
+  "expected_result": "After double tapping on the text, a pop-up should appear, as it does with VoiceOver disabled",
+  "short_description": "\"Forgot your password?\" doesn't work with VoiceOver enabled",
+  "steps_to_repro": "- Log out of Discord - Go to Settings > General > Accessibility > VoiceOver and turn on VoiceOver - Go back to Discord and tap on `Login` - Attempt to tap on the blue `Forgot your password?` text"
+ }
+}

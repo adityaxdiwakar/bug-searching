@@ -1,0 +1,17 @@
+{
+ "id": "5b19e2969fe520b59131d6f3",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2107,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cVMQJdJa",
+ "data": {
+  "system_settings": "Windows 10 Pro, Res: 1920x1080, Graphics: Intel HD Graphics 4400",
+  "client_settings": "Stable, Build Number: 16577",
+  "actual_result": "Items can appear fuzzy and hard to read.",
+  "expected_result": "No fuzziness visible",
+  "short_description": "Fuzzy view caused by Intel HD Graphics \"Conservative Morphological Anti-Aliasing\" set to \"Enhance Application Settings\"",
+  "steps_to_repro": "- Open Intel HD graphics control panel - Go to 3D - Change \"Conservative Morphological Anti-Aliasing\" to \"Enhance Application Settings\" - Restart Discord"
+ }
+}

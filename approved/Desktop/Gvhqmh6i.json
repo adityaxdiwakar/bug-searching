@@ -1,0 +1,17 @@
+{
+ "id": "5aed71d3d379a0bbc1dd6512",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1938,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Gvhqmh6i",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.207 (14720)",
+  "actual_result": "It turns red and still sends the message",
+  "expected_result": "It shouldn't be red. \ud83e\udd14",
+  "short_description": "If you reload your client in the middle of a message being sent, it will turn red and still send the message",
+  "steps_to_repro": "- Write something - Hit send then instantly reload - Observe the red message"
+ }
+}

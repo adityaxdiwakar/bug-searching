@@ -1,0 +1,30 @@
+{
+ "id": "5ad6a875f7fde04fa0156231",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1858,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/O6StQRqk",
+ "data": {
+  "system_settings": "Windows 10 Home x64 (1803)",
+  "client_settings": "Discord Canary 13817",
+  "actual_result": "Barely legible words and an overly illuminated \"Jump\" button.",
+  "expected_result": "Perfectly fine modal with legible words and a perfectly fine \"Jump\" button",
+  "short_description": "Recent Mentions modal doesn't change from light to dark theme; barely legible words and overly illuminated \"Jump\" button",
+  "steps_to_repro": "- Open up Discord - Check your recent mentions"
+ }
+}

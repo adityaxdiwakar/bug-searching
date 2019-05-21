@@ -1,0 +1,24 @@
+{
+ "id": "5a02f986e646f1ee3982d93c",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 879,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8VcCtGgy",
+ "data": {
+  "system_settings": "Android 8.0",
+  "client_settings": "5.5.3 (553)",
+  "actual_result": "It says channel is full.",
+  "expected_result": "You are able to join the channel.",
+  "short_description": "Can\u2019t join full channels with move permissions.",
+  "steps_to_repro": "- Have a full channel and be on an account with move permissions. - Try to join the channel on android"
+ }
+}

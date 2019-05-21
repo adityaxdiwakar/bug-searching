@@ -1,0 +1,30 @@
+{
+ "id": "5bb4e7a51ffac16a499377c0",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2095,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZSajL2kf",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.6.2",
+  "actual_result": "Emojis like TM, multiply, copyright, etc are extremely difficult to see on Dark Theme. Note that it occurs in both emoji picker and in chat",
+  "expected_result": "As in previous builds, they should have a color similar to the heavy_dollar_sign emoji, which is decently easy to see (refer to screenshot for comparison)",
+  "short_description": "Emojis such as TM, Copyright, etc are almost completely invisible on Dark theme",
+  "steps_to_repro": "- Open your emoji picker - Navigate to the symbol tab - Observe TM, Copyright, etc emojis"
+ }
+}

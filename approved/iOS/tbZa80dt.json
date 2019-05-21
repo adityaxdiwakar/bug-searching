@@ -1,0 +1,17 @@
+{
+ "id": "5b9233011abd02389761c9d1",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 980,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tbZa80dt",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 12",
+  "client_settings": "TestFlight 2.3.8 (7049)",
+  "actual_result": "Emoji don't show up on frequently used",
+  "expected_result": "Emoji show up on frequently used since you used them",
+  "short_description": "Emoji picker doesn't update frequently used if typing out the emoji instead of using the emoji picker",
+  "steps_to_repro": "- Make sure your frequently used emoji aren't very full - Type out an emote without using the emoji picker - Open the emoji picker and observe the frequently used - You can also spam an emoji if your frequently used is full"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b4c23a1b25b5e152d9310b9",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1650,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1khsLjG2",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.0.7",
+  "actual_result": "No matter in which order the links are placed in the message, embeds for invite links will always display as the last one",
+  "expected_result": "As on Desktop, the first embed should be the one for invite link, and other embeds from other links apear below the invite embed",
+  "short_description": "Invite embeds always appear as the last embed",
+  "steps_to_repro": "- Go to a channel with embed links permissions - Write a message containing several links, the first one being a Discord server invite - Send the message and observe the order of the embeds"
+ }
+}

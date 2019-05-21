@@ -1,0 +1,30 @@
+{
+ "id": "5a360e39406ebfe5de6d2b89",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1467,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aTRJ363Q",
+ "data": {
+  "system_settings": "WIndows 10 Pro 64-bit (Buld 1709)",
+  "client_settings": "Discord Canary 0.0.186 (Build 8746)",
+  "actual_result": "It's showing the string of the previous langauge",
+  "expected_result": "It should show the English string for \"Change Avatar\"",
+  "short_description": "\"Change avatar\" string is weirdly cached with the previous language (not related to https://trello.com/c/HSd5hccP)",
+  "steps_to_repro": "- Go to user settings - Change to a non English language - Let the auto reload happen then manually reload again - Go back to English - Click on edit in \"My account\" then hover over your current avatar - Observe"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a533dc578e1f65a91ce5ea8",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 487,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gbRXnnMm",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.1.2",
+  "client_settings": "TestFlight 2.2.0 (build 2080)",
+  "actual_result": "Text will forever stay there until account 2 gets their perms back to remove the text in it. Even after reboot this text remains.",
+  "expected_result": "(account 2) Text in typebox is removed.",
+  "short_description": "(talk as in typing permission not talking as in voice) Getting the permission to talk removed while you're typing will forever freeze the typebox of that channel until you have the permission back.",
+  "steps_to_repro": "- Get 2 accounts. 1st one to revoke talk perms,  can be any platform. The second to talk, iOS for this one.  - Use the second account to type (NOT POST, JUST TYPE) in a channel.  - Get account 1 to revoke talk perms of account 2. - Notice how on the second account, on iOS, the text you typed cannot be removed,  even after reboot it will still be there."
+ }
+}

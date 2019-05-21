@@ -1,0 +1,17 @@
+{
+ "id": "5b0d2ee7cf4fd5f6325436dc",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1478,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5LZ6Sxje",
+ "data": {
+  "system_settings": "OPPO F1S (android), android version 5.1",
+  "client_settings": "Discord v. 6.8.7",
+  "actual_result": "a name pops up",
+  "expected_result": "nothing happens when you press",
+  "short_description": "being able to press on a name on the online tab under the roles",
+  "steps_to_repro": "- get a name to be under a role (on ur right slide) - tap on the role and a name should pop up"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ad1b3fc152a18c91d38bf04",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 678,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/spGf5jtL",
+ "data": {
+  "system_settings": "iPhone 7 Plus, iOS 11.3",
+  "client_settings": "Discord TestFlight, 2.3.0 (3817)",
+  "actual_result": "When click Mutual Friends tab, the list loads slow, but will immediately loaded when click other tab and click back",
+  "expected_result": "When click Mutual Friends tab, the list should immediately show up",
+  "short_description": "Mutual Friends tab loads slower then switch to other tab and immediately switch back",
+  "steps_to_repro": "- Close Discord App - Click any of your friend that have mutual friends - Click Mutual Friends tab, you will notice that loading is slow - Close Discord App again - Click same friend you have chosen in step 2 - Click Mutual Friends tab, but immediately click on other tab and click back to Mutual Friends tab - The list will be immediately show up"
+ }
+}

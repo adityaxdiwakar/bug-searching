@@ -1,0 +1,24 @@
+{
+ "id": "59e918231145253b5dd9862d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 828,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dBgO5oCL",
+ "data": {
+  "system_settings": "Android 6.0.1 on a Samsung Galaxy S5",
+  "client_settings": "5.4.1",
+  "actual_result": "The channel SPEEDS like a racer to the top of he screen",
+  "expected_result": "The channel moves as smoothly as roles and guilds do.",
+  "short_description": "Sorting channels constantly scrolls up (or is too sensitive)",
+  "steps_to_repro": "- Go into server settings of a guild you have permission to move channels in - Set your mode to text channels - Try moving a channel up one channel."
+ }
+}

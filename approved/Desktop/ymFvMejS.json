@@ -1,0 +1,17 @@
+{
+ "id": "5b9527a9de95d5663d9288cb",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2946,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ymFvMejS",
+ "data": {
+  "system_settings": "Windows 7",
+  "client_settings": "Desktop Canary 23017",
+  "actual_result": "The role is mentioned",
+  "expected_result": "The 'someone' should be mentioned",
+  "short_description": "In streamer mode, cannot mention a user whose username starts with the name of a role in the server.",
+  "steps_to_repro": "- Enable streamer mode - Take the first N characters of someone's handle and make that a role in the server - Try to mention that person"
+ }
+}

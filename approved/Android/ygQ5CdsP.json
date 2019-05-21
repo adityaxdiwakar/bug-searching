@@ -1,0 +1,30 @@
+{
+ "id": "5aaa6ff69bf91472dec43345",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1203,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ygQ5CdsP",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android Alpha 6.3.7",
+  "actual_result": "It slides",
+  "expected_result": "It should pop up like it does when use chrome tabs is disabled. It used to pop up before the in app browser was introduced",
+  "short_description": "The app picker slides with the in app browser settings enabled",
+  "steps_to_repro": "- Go to user settings > behavior - Enable use chrome tabs - Click on a link that can be opened using more than 1 app. Make sure you don't have a default app already selected for it (I clicked on a trello link with the trello app and google chrome installed) - Observe that the app picker slides"
+ }
+}

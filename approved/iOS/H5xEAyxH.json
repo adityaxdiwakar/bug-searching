@@ -1,0 +1,17 @@
+{
+ "id": "5bd225a139bcc958a52b9d9b",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1122,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/H5xEAyxH",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1 Developer Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8616)",
+  "actual_result": "Loading animation overlaps the bottom bar",
+  "expected_result": "Loading animation doesn't overlap the bottom bar",
+  "short_description": "[iPhone X/XS/XS Max] Audit log loading animation overlaps bottom bar",
+  "steps_to_repro": "- Open the Server Settings > Audit Log - Scroll down quickly to trigger the loading animation"
+ }
+}

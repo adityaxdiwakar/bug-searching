@@ -1,0 +1,17 @@
+{
+ "id": "5948147b04828c88b35d10be",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 776,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WZUno2f7",
+ "data": {
+  "system_settings": "Windows 10 Pro build 1607 64-bit",
+  "client_settings": "Discord Stable 0.0.297",
+  "actual_result": "The checkbox jumps around",
+  "expected_result": "Turning off/turning on the feature properly instead of bouncing around",
+  "short_description": "If you spam the button to turn off/turn on a feature in the settings the checkmark glitches out and bounces around",
+  "steps_to_repro": "- Spam the checkbox (turned on/turned off)"
+ }
+}

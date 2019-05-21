@@ -1,0 +1,23 @@
+{
+ "id": "589c6cc4bdf8b490b64ef621",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 374,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zsQQDN2d",
+ "data": {
+  "system_settings": " macOS 10.12.3, Discord Canary: 0.0.144",
+  "actual_result": "It opens for less than a second and than instanly closes down",
+  "expected_result": "It opens normally",
+  "short_description": "Member selector automatic closing",
+  "steps_to_repro": "- Go to server settings - Click members - Click on the role selector close the the edge below. "
+ }
+}

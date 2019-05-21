@@ -1,0 +1,30 @@
+{
+ "id": "5b6fe69c025a3435eb399d49",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1824,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OGvdWDbc",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 729",
+  "actual_result": "The buttons aren't aligned because their highlights aren't. Even if you look without the highlight, they don't look aligned.",
+  "expected_result": "Both the buttons are aligned.",
+  "short_description": "When trying to call a person you share no servers with or trying to call a bot, in the modal, the \"Okay\" and \"Send friend request\" are not aligned.",
+  "steps_to_repro": "- Try to call a bot. - Long press on the \"Send Friend request\" button and observe the highlight (if any). - Now, long press the \"Okay\" button and observe the highlight."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59f1cc199004ac8332169735",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 849,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ZULe8ESh",
+ "data": {
+  "system_settings": "Android 7.0 Moto G4",
+  "client_settings": "Android Alpha 5.4.8",
+  "actual_result": "It comes back every time to switch theme no matter how many times you do it",
+  "expected_result": "The prompt doesn't come back",
+  "short_description": "Switching themes triggers the \"Keyboard image support\" prompt",
+  "steps_to_repro": "- Open Discord - Get the \"Keyboard image support\" prompt - Go to your user settings then appearance - Switch to a different theme"
+ }
+}

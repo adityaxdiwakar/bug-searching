@@ -1,0 +1,30 @@
+{
+ "id": "5be4eb28c2cde145ac7630ba",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3364,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ph5DMFbE",
+ "data": {
+  "system_settings": "Firefox 63.0.1 (64-bit); macOS Mojave 10.14.1 (18B75)",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 27687, Version Hash: 396d79a0dd30abd96a0c2c86ea8d61b9977e4241",
+  "actual_result": "The context menu appears for 0-50 ms and then disappears. (Sometimes this happens so quickly that it seems nothing happe",
+  "expected_result": "A Discord-specific context menu should appear with items including \"Profile\" and \"Mention\"",
+  "short_description": "[Firefox only, Mac only] Right-click context menu disappears before I can use it",
+  "steps_to_repro": "- Move the cursor over someone's name (in a chat channel) - Tap lightly with two fingers on the trackpad, or right-click with the mouse"
+ }
+}

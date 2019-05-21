@@ -1,0 +1,17 @@
+{
+ "id": "5af2f4611b6f3fc2226f0831",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 726,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PIfbHNhj",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.3.1 & iPad Air 2, iOS 11.4 PB 3",
+  "client_settings": "TestFlight 2.3.2 (4280)",
+  "actual_result": "The badge gets cut off.",
+  "expected_result": "Badge shouldn't get cut off.",
+  "short_description": "Quickswitcher mention badge gets cut off without any unread marker",
+  "steps_to_repro": "- Prerequisite: Make sure you have no unread servers - Get mentioned in any server that you have muted - Open the quickswitcher by clicking on its icon - Observe the mention badge for your servers listed there"
+ }
+}

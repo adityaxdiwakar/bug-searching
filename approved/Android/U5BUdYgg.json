@@ -1,0 +1,30 @@
+{
+ "id": "5abdd1d0d246624042d05fca",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1234,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/U5BUdYgg",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.5",
+  "actual_result": "The name overlaps the two lines that you're supposed to hold down to sort the category",
+  "expected_result": "The name should be cut off with \"...\" as for regular channels",
+  "short_description": "Categories with an excessively long name make them overlap the two lines in Category Sort Mode",
+  "steps_to_repro": "- Go in a server with Manage channels - Create a new category and give it a super long name - Go to Server settings > Channels - Tap on the button top right and select Category Sort Mode"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "5916190455e3112f22635480",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 632,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EEC4TPY3",
+ "data": {
+  "system_settings": " MacOS 10.12.4, Discord Canary 0.0.145",
+  "actual_result": "The server jumps back to it's original position after letting go",
+  "expected_result": "The placeholder stays and you can drop the server at a place where you want it",
+  "short_description": "Dragging a server down doesn't work when there is 1 outage",
+  "steps_to_repro": "- Have so many servers that you are able to scroll down - Grab a server from the top - Try to move past the original place of the server that is out and put it down the list- The list will scroll - See that the placeholder goes away after you get to the bottom of the list - Let it go at a place where you want it - See that the server jumps back to it's original position "
+ }
+}

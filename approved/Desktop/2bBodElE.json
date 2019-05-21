@@ -1,0 +1,17 @@
+{
+ "id": "5b19ef7e47091b2ee627a8e4",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2110,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2bBodElE",
+ "data": {
+  "system_settings": "Windows 10 Home x64, Build 16299.431",
+  "client_settings": "Desktop Canary, Build 16487",
+  "actual_result": "The first video continues playing in the second embed. The remaining embed has URL 2's title and URL 1's video.",
+  "expected_result": "The first video, now escaped, should stop playing and be removed from the message.",
+  "short_description": "Escaping a playing native video embed doesn't halt playback",
+  "steps_to_repro": "- Enter a text channel where you have link embed permissions. - Send one message containing URLs to two videos which are both handled by Discord's native player (e.g., Streamable; for ease of replication, use paths \"/l7bid\" and \"/bydom\") - Once sent, both videos are embedded below the message. - Play the first video. - While the first video is playing, edit your message, adding lt and gt symbols (\"<\" and \">\") around the first URL. Press enter to confirm the edit."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59ad716e3a65ca24061a30d5",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 319,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xp0C6PSw",
+ "data": {
+  "system_settings": "c: iOS 10.3.3 iPhone 5S",
+  "client_settings": "TestFlight 1.9.1",
+  "actual_result": "The button is clickable, but when you click it nothing happens because this is your original settings",
+  "expected_result": "Reset notification settings button should not be clickable since these are your default settings",
+  "short_description": "Editing notification settings for a channel and then putting it back to the default will give you an option to reset notification settings",
+  "steps_to_repro": "- Click the channel name - Click notification settings  - Notice how reset notification settings button is not clickable. Change it to all messages instead of @mentions - Change it back to @mentions"
+ }
+}

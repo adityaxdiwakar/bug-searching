@@ -1,0 +1,24 @@
+{
+ "id": "59ff262edd140d1891807f64",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1352,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0fnudSKz",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS, Asus Netbook F551C, Intel Core i3 64bits",
+  "client_settings": "Canary 6864",
+  "actual_result": "the server will be placed at the position of your mouse cursor, exactly like if you released your mouse here",
+  "expected_result": "The server will be moved back to its initial position in the server list (the sorting action is cancelled)",
+  "short_description": "Pressing ESC while holding a server to sort it doesn't move the server back to its initial position in the server list",
+  "steps_to_repro": "- Grab a server in your server list with your mouse and hold it - Move it up or down to sort it. Do NOT release your mouse yet - While you're still holding it, press ESC"
+ }
+}

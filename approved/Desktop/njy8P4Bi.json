@@ -1,0 +1,30 @@
+{
+ "id": "5a6f24812d181a1a59a78c9a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1603,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/njy8P4Bi",
+ "data": {
+  "system_settings": "Windows 10 64bit (Version 1709 - Build 16299.125)",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 10000, Version Hash: 76aba7c3404b6a837eb59234deda9b5180ca43d3",
+  "actual_result": "You'll see a jagged avatar. Example:",
+  "expected_result": "Circle with avatar is supposed to be clean/smooth.",
+  "short_description": "Avatars on Discord have very jagged edges.",
+  "steps_to_repro": "- Find any user with a light avatar (e.g white) and view their -profile - Observe that the circle is not smoothly rendered on screen. - Note that this problem affects dark avatars, but it's harder to notice since Discord is dark by default"
+ }
+}

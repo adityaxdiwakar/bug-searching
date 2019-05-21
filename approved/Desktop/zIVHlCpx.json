@@ -1,0 +1,17 @@
+{
+ "id": "5b91a0ceb8f17c7abe68d2e8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2934,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zIVHlCpx",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 23182",
+  "actual_result": "Emoji picker says no results are found",
+  "expected_result": "Emoji picker displays emotes",
+  "short_description": "Searching in the emoji picker doesn't work",
+  "steps_to_repro": "- Open the emoji picker - Try to search for an emoji"
+ }
+}

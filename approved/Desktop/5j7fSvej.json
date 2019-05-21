@@ -1,0 +1,30 @@
+{
+ "id": "5bb9e535336d1e6fdcc62875",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3109,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5j7fSvej",
+ "data": {
+  "system_settings": "Fedora 28 x86_64 kernel 4.18.9-200 with KDE desktop environment",
+  "client_settings": "Canary 25648",
+  "actual_result": "Gets deselected without a way to select it with keyboard or switching channels",
+  "expected_result": "Stays selected",
+  "short_description": "Hitting enter in empty text box deselects it, disallowing any other key from reselecting the text box unless switching channels",
+  "steps_to_repro": "- Select Text Box - Hit enter in the text box, or double enter if sending message"
+ }
+}

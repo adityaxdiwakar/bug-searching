@@ -1,0 +1,17 @@
+{
+ "id": "5b1428e674d199536a48eef5",
+ "closed": true,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 780,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xBG1X15m",
+ "data": {
+  "system_settings": "iPhone X - iOS 11.4.1 Dev Beta 1, iPad Air (1st Gen.) - iOS 10.3.3",
+  "client_settings": "TestFlight 2.3.2 (4760)",
+  "actual_result": "App crashes when looking at reactions",
+  "expected_result": "App is not supposed to crash when looking at reactions",
+  "short_description": "App crashes when looking through list of reactions",
+  "steps_to_repro": "- Hold down on a message - Press on the \"Add Reaction\" button - Scroll down the reaction list \"very slowly\" and for at least a minute (Also make sure you have Nitro)"
+ }
+}

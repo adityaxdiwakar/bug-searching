@@ -1,0 +1,15 @@
+{
+ "id": "581302bd18d0cfb8df0cf7f2",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 81,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9WA50VCa",
+ "data": {
+  "actual_result": "The emoji you've already used is there System Specs: Windows 8.1, x64, Canary Screenshot: https://cdn.discordapp.com/attachments/140937367262330880/241468115513376769/2016-10-28_00-44-32.png",
+  "expected_result": "The emoji you've already used isn't there",
+  "short_description": "Emoji already used as a reaction still appear in the emoji picker",
+  "steps_to_repro": "- Use an emoji in a reaction - Go to the emoji picker to select another emoji "
+ }
+}

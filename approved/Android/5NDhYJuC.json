@@ -1,0 +1,24 @@
+{
+ "id": "599b686e1d0a92aa292e5021",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 640,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5NDhYJuC",
+ "data": {
+  "system_settings": "Android 7.0, Samsung Galaxy S7 edge",
+  "client_settings": "Android Alpha 4.0.8",
+  "actual_result": "Your username disappears and the deafen icon is on the left.",
+  "expected_result": "Your username is visible and the deafen icon is on the right.",
+  "short_description": "Deafened users have no name and the deafened icon is to the left of the profile picture",
+  "steps_to_repro": "- enter a voice channel - deafen yourself - view the voice channel on the channel list"
+ }
+}

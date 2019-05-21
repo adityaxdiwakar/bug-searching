@@ -1,0 +1,36 @@
+{
+ "id": "5a7e1acc4ca71c4df231aa0d",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 1113,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e9",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can still reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ht7tgtx5",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Edge Android 7.0",
+  "client_settings": "Alpha 6.2.2",
+  "actual_result": "Emoji with -1 isn't parsed. ID is inserted.",
+  "expected_result": "Both emojis should be displayed separately",
+  "short_description": "Emojis with matching keywords incorrectly parsed.",
+  "steps_to_repro": "- Open emoji switcher - Choose emote with matching keyword (ex. ditto-1) - Choose emote with the base keyword (ex. ditto) - Send the message"
+ }
+}

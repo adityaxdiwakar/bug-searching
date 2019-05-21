@@ -1,0 +1,17 @@
+{
+ "id": "5ba9a195c1fd9e0285143fc6",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2029,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2n4rlU97",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1, Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Android Alpha 7.5.5, Discord Canary Build 24492",
+  "actual_result": "Android makes way more Audit Log content than PC.",
+  "expected_result": "There are same amount of audit log contents made.",
+  "short_description": "Android Audit Log makes more audit log content compared to the Desktop.",
+  "steps_to_repro": "- Create a role. - Then, change the role's name. - Next, grant a permission on the role you made. - Check audit log for both Desktop and Android."
+ }
+}

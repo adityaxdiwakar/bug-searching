@@ -1,0 +1,29 @@
+{
+ "id": "58ddb1767de663bee5e6db28",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 324,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ppyRCFVT",
+ "data": {
+  "system_settings": " Galaxy S4, Android Alpha",
+  "actual_result": "Option for 'everyone' is not visible",
+  "expected_result": "Option for 'everyone' should be visible",
+  "short_description": "Permissions for 'everyone' in channel settings not showing by default",
+  "steps_to_repro": "- Create or find a channel which hasn't had any permissions changed - Go to channel settings - Go to permissions "
+ }
+}

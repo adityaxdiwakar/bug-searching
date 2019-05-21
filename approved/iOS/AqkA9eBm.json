@@ -1,0 +1,36 @@
+{
+ "id": "5ae1c9f9dfa3a3cf534ceca5",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 695,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AqkA9eBm",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.4 PB 2",
+  "client_settings": "TF 2.3.0",
+  "actual_result": "The keyboard covers half the screen and there is no message bar.",
+  "expected_result": "You should be sent back to chat with normal viewing.",
+  "short_description": "keyboard stays up after viewing someone\u2019s connected account in discord browser",
+  "steps_to_repro": "- click on the message bar - view someone\u2019s profile (has to be someone who sent a recent message), don't click out of keyboard - view one of their connected accounts in discord\u2019s browser (steam, reddit) - exit out of that and go back to chat"
+ }
+}

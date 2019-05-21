@@ -1,0 +1,24 @@
+{
+ "id": "5bffc9070b91ad18002069b2",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1183,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/w7s41kIN",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "Server icon movement speed varies depending on where the icon is",
+  "expected_result": "Dragged server icons should move at a consistent speed regardless of where they are",
+  "short_description": "Server icons move at inconsistent speeds depending on where they are",
+  "steps_to_repro": "- Drag a server icon quickly between the other icons and observe how it moves slower than your finger to allow for the reordering animation - Drag the icon to the top (above the the DM/friends icon and observe that it is delayed, like when moving between other server icons - Drag to the very bottom of the server list and drag over the button to create/join a server and observe how the movement of the icon you're dragging is synchronised with the location of your finger in real time, unlike it was in the previous 2 steps"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "5852f5c8314a9d685226d918",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 122,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yYyBsKuR",
+ "data": {
+  "system_settings": " iPad mini 4, iOS 10.1.1, TestFlight 1.8.0 (54)",
+  "actual_result": "The content of the screen is unaffected.",
+  "expected_result": "The content of the screen expands or contracts to fit.",
+  "short_description": "Split Screening the app while on the recent mentions screen breaks the layout on iPad.",
+  "steps_to_repro": "- Go to Recent Mentions. - Increase or decrease the width of the app using Split Screen. "
+ }
+}

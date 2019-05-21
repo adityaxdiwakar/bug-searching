@@ -1,0 +1,17 @@
+{
+ "id": "5b2c72e41961cb46bbe3ee47",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 805,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/jcZqlQSx",
+ "data": {
+  "system_settings": "iPhone 5c, iOS 10.3.3",
+  "client_settings": "iOS Stable (Any recent one)",
+  "actual_result": "There are none.",
+  "expected_result": "There should be Text Permission settings for the whole category.",
+  "short_description": "There are no text permissions in the Edut Category section.",
+  "steps_to_repro": "- Go to your server on an iPhone - Open a Category Settings Page. - Go to \"Permissions\" - Note the depressing lack of Text permissions."
+ }
+}

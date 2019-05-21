@@ -1,0 +1,17 @@
+{
+ "id": "59bd79e02c71100715d91187",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1148,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Dq9PywXP",
+ "data": {
+  "system_settings": "windows 7 pro x64",
+  "client_settings": "Canary build 4358",
+  "actual_result": "popup has black font causing it to be almost unreadable on dark mode",
+  "expected_result": "modal that pop ups should have white font to be readable",
+  "short_description": "\"use legacy audio subsystem\" modal almost unreadable",
+  "steps_to_repro": "- enter settings - move to \"voice and video\" tab - scroll to bottom and select option \"use legacy audio subsystem\""
+ }
+}

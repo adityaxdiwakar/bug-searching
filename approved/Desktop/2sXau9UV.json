@@ -1,0 +1,30 @@
+{
+ "id": "5bbf9a49dc265b189f43f71b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3157,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2sXau9UV",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6, Macbook Air",
+  "client_settings": "Canary 25872",
+  "actual_result": "White line",
+  "expected_result": "No white line",
+  "short_description": "A little white line appears next to Wumpus [90% Zoom]",
+  "steps_to_repro": "- Be on 90% zoom - Have an active Nitro/Lightro subscription - Click on cancel in the Nitro tab - Observe the right side of Wumpus in the corner"
+ }
+}

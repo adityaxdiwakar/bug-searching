@@ -1,0 +1,30 @@
+{
+ "id": "5bef4df1d776037062d30375",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2327,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TZHyUZRz",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.9.6",
+  "actual_result": "It doesn't highlight at all.",
+  "expected_result": "It should highlight, like the dark theme.",
+  "short_description": "You cannot highlight \"Join\" and \"Create\" button on light theme.",
+  "steps_to_repro": "- Update to 7.9.6, and be on light theme. - Go down to the + button on servers, and press any one of them. - Long hold the \"Create\" or \"Join\", and observe."
+ }
+}

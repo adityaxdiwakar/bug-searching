@@ -1,0 +1,30 @@
+{
+ "id": "5bd93430ab50e7649c683300",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2264,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9YgZDjTG",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.8.3",
+  "actual_result": "If you close the attachlents menu by tapping Back button, you won't get an animation, but if you close it by tapping the emoty space above the menu, it closes making a slide down animation",
+  "expected_result": "The animation should be the same no matter how you close it",
+  "short_description": "There's no animation when the attachment menu closes if you close it using the Back button, while there is one if you close it by tapping the empty space above the menu",
+  "steps_to_repro": "- Go to any text channel and tap the add attachment button (+)  - Press Back button of your phone to close the menu. Notice how the menu closes abruptly without animation - Reopen the menu - Now close it by tapping the empty area above the menu. Notice how the menu makes a slide down animation when closing"
+ }
+}

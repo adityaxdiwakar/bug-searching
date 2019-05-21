@@ -1,0 +1,30 @@
+{
+ "id": "5a82168488f32d9cbd98df5d",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1648,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7BrCCAKz",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Release Channel: Canary; Build Number: 10557",
+  "actual_result": "Nothing sends, and Clyde sends a message about how the message wasn't sent.",
+  "expected_result": "Clyde sends a message that 'the party is over' and you can't join",
+  "short_description": "Join party message doesn't send if music is paused inbetween invite",
+  "steps_to_repro": "- Have a song playing - Go to any channel - Click on the upload button to invite people to join the session - Before you actually send the invite, pause the song"
+ }
+}

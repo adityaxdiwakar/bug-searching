@@ -1,0 +1,17 @@
+{
+ "id": "599b59f8d07203f8c2f85ae6",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 639,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/aRgp6Qby",
+ "data": {
+  "system_settings": "7.1.2 Galaxy S4 SM-S975L",
+  "client_settings": "Alpha 4.0.8",
+  "actual_result": "Channel icon disappears if the Channel is selected, muted, and available to all users",
+  "expected_result": "Channel icon should remain visible even though the Channel is selected",
+  "short_description": "`#` Channel icon disappearing on Channels UI redesign (Android)",
+  "steps_to_repro": "- Navigate to a Channel that does not require a Role to speak - Mute said Channel - `#` will no longer be present while the Channel is selected"
+ }
+}

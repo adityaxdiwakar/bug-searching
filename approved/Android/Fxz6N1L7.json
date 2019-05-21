@@ -1,0 +1,30 @@
+{
+ "id": "5b240fcfa2315bc21d4360d7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1544,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Fxz6N1L7",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 SE 8.1 ~ Modified to 401 DPI",
+  "client_settings": "Alpha 692",
+  "actual_result": "The text gets cut off. How much of it cut off varies",
+  "expected_result": "The text is exactly \"Pruning will kick **amount members** who have not been seen in **amount day(s)** and are not assigned to any roles. They can re-join the server using a new Instant Invite.\"",
+  "short_description": "Prune modal text gets cut off when the modal is too small",
+  "steps_to_repro": "- Make sure you have a low dpi device, meaning things appear small on your screen and you feel like there's alot of free space on your screen - Create/Rename/Use a server, preferably with a short name so you keep the modal small - Open Server Settings - Members - Click on the top-right menu - Prune Members - Observe"
+ }
+}

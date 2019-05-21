@@ -1,0 +1,30 @@
+{
+ "id": "5b255b183196a667fd82d03b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1548,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LVrdq3xU",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "The name is in the incorrect format as just \"@Username\". Either @ should be removed or discrim be added as well.",
+  "expected_result": "The mentioning of the user name should either be in the format of \"@Username#discrim\" or \"Username#discrim\" or just \"Username\"",
+  "short_description": "Tap holding any user name in Direct Messages list brings up the mini profile of that user with incorrect mentioning of the user name on it.",
+  "steps_to_repro": "- Go to Direct Messages list. - Tap hold on any user name to bring up the mini profile - Notice the mentioning of the name on the mini profile as \"@Username\""
+ }
+}

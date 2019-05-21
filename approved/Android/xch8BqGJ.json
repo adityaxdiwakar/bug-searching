@@ -1,0 +1,23 @@
+{
+ "id": "58c6f87944947cac2ef147a1",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 286,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xch8BqGJ",
+ "data": {
+  "system_settings": " Android 6.0, Discord v 3.3.3",
+  "actual_result": "User can see all the channels for which permissions are not explicitly forbidding them to, and can give themself the reading permissions to the channel if the everyone role doesn't explicitly forbids the Manage Channel permission.",
+  "expected_result": "The user should not be able to see any channel he doesn't have reading permission on, and definitly shouldn't be able to set permissions on it.",
+  "short_description": "Discord on Android showing all channels in the server settings / Channel category, even ones supposed to be hidden. User keeps any role not explicitly forbidden, including channel management.",
+  "steps_to_repro": "- Create a user with the Manage Channels permission, and a channel which does not have the read permission for the everyone role, and no specified permissions for the role with the Manage Channels permission. - With the Manage Channels role, go into Server Settings, Channels. (which shows the channel that the user should not be able to see). - Go into the channel settings, in which you are able to add a role/member, and define its permissions. "
+ }
+}

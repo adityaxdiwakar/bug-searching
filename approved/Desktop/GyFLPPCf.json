@@ -1,0 +1,17 @@
+{
+ "id": "5aa53d46ef1b42ab66bd4097",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1729,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/GyFLPPCf",
+ "data": {
+  "system_settings": "Windows 10 64bit",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 11885",
+  "actual_result": "the \"pin message\" option is there and when you try you get a \"50 pins limit\" message",
+  "expected_result": "the \"pin message\" option shouldn't be there",
+  "short_description": "you have the option to pin the \"Your message could not be delivered because you don't share a server with the recipient\" message",
+  "steps_to_repro": "- right click the \"Your message could not be delivered because you don't share a server with the recipient\" message"
+ }
+}

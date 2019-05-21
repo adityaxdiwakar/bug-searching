@@ -1,0 +1,30 @@
+{
+ "id": "5bd3c8bbf6d1262d32b74932",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2247,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PsdhkjIs",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.8.2",
+  "actual_result": "The option is there and does nothing",
+  "expected_result": "Either it should open something or the option shouldn't be there",
+  "short_description": "\"Notifications\" on the action sheet of a DM does nothing",
+  "steps_to_repro": "- Long press on a DM channel in your DM list - Tap Notifications on the sheet"
+ }
+}

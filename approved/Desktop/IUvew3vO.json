@@ -1,0 +1,17 @@
+{
+ "id": "5b15a8f7be197e4d8f2aad6c",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2094,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IUvew3vO",
+ "data": {
+  "system_settings": "Win 7 x64",
+  "client_settings": "Discord Canary 15665",
+  "actual_result": "Box saying that your Nitro will expire in next month",
+  "expected_result": "Box shownig that you nitro already expired",
+  "short_description": "If you delayed payment for Discord Nitro, the cancellation of Nitro will tell you that your Nitro will end on the next payment date",
+  "steps_to_repro": "- Buy Discord Nitro - Wait until next payment date - Do not pay for nitro at this day - Try to cancel Nitro the next day"
+ }
+}

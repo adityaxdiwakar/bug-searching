@@ -1,0 +1,24 @@
+{
+ "id": "59a3da41f43cda8a8fdea4f1",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 666,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JTUwyn3v",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.1.1 (506)",
+  "actual_result": "There is the option to delete the message",
+  "expected_result": "There shouldn't be the option to delete the message like on desktop clients",
+  "short_description": "You get the option to delete system messages saying that the name of a group DM was changed",
+  "steps_to_repro": "- Go to a group DM or create one by clicking the Create Group DM icon located in the top right corner of your display - Change the name of the group DM and press hold on message saying it was changed (it may take a few tries) - Notice that you get the option to delete it, but pressing it does nothing"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "58122cf5291f3797bb93a6d4",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 77,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mKBvLUKJ",
+ "data": {
+  "actual_result": "It overhang Video Demonstration: <https://youtu.be/fLu4YbLWWT8>",
+  "expected_result": "The border should be coincident with the taskbar's one",
+  "short_description": "The Discord's window's border overhang under the taskbar",
+  "steps_to_repro": "- Maximize Discord "
+ }
+}

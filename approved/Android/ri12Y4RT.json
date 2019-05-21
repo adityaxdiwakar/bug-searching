@@ -1,0 +1,30 @@
+{
+ "id": "5bd27a624080433961fd9e9e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2240,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ri12Y4RT",
+ "data": {
+  "system_settings": "Oneplus 3, Android P",
+  "client_settings": "7.8.0",
+  "actual_result": "The lower area of the menu gets cut off, making you unable to press the buttons",
+  "expected_result": "The menu should be fully visible in landscape mode",
+  "short_description": "\"Cancel\" and \"Leave Group\" menu gets cut off in landscape mode when the group DMs name is extremely long",
+  "steps_to_repro": "- Be in a group DM - Go to group DM settings - Change the group's name to something that hits the 100 character limit - Press the leave button in the top right corner to open up the confirmation menu - Turn your device into landscape"
+ }
+}

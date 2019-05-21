@@ -1,0 +1,17 @@
+{
+ "id": "5b7ef4028a66f43e679dec84",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2777,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/r56TxXDH",
+ "data": {
+  "system_settings": "Windows 10 version 1803",
+  "client_settings": "Desktop Discord version 8.8.2018?",
+  "actual_result": "It shows a black screen for other people in the call and they cannot hear audio.",
+  "expected_result": "Your friends should be able to see your screen and hear audio",
+  "short_description": "Im trying to stream a game through discord but it is a black screen and will not share audio.",
+  "steps_to_repro": "- First you launch a game - Now go to discord a click \"stream\" and then the name of the game- next it will be black screen for friends and they will not be bale to hear audio."
+ }
+}

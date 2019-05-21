@@ -1,0 +1,30 @@
+{
+ "id": "5aed283d6bd7fdf0e97f4c3d",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1937,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MChZRuQ7",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, 14718",
+  "actual_result": "Game logo is missing",
+  "expected_result": "Game logo shows up",
+  "short_description": "Rich Presence game logos not showing",
+  "steps_to_repro": "- View a profile where a person has a playing status of a game with Rich Presence - Look to the right of the game information where the game logo should show up"
+ }
+}

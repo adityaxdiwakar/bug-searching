@@ -1,0 +1,30 @@
+{
+ "id": "59c93805e446fa283f0c0e1e",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 343,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ti1h4bGi",
+ "data": {
+  "system_settings": "iOS 9.3.5, iPhone 6S",
+  "client_settings": "TF 1.9.1 (665)",
+  "actual_result": "The string is converted to a mention, and tapping on the mention takes you to the private DM of that user after exiting the edit roles screen.",
+  "expected_result": "The string should not be a mention.",
+  "short_description": "Naming a role with a snowflake converts it into a mention on delete screen.",
+  "steps_to_repro": "- Name a role with a valid snowflake ID (`<@number>`). - Delete the role. - Tap on the mention."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b9a48d48bee372398e5fa5e",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1983,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wQjWc72B",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.4.9",
+  "actual_result": "It places you so the content of the last message is at middle of the screen, so you need to scroll down through the tall image to actually jump to present",
+  "expected_result": "You should be taken all the way at the bottom of the chat",
+  "short_description": "If you're far back in the message history and the latest message in the channel has a tall image attached, jumping to present by tapping \"You're viewing older messages\" doesn't work properly",
+  "steps_to_repro": "- Post a tall image in any channel - Scroll up until you get the \"You're viewing older messages\" - Jump back to present by tapping the banner"
+ }
+}

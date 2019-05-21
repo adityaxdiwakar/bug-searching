@@ -1,0 +1,30 @@
+{
+ "id": "5a44434b1ebd96a5e51185a7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1004,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3N3RuwKQ",
+ "data": {
+  "system_settings": "Android 6.0.1, Nexus 2013",
+  "client_settings": "Alpha 5.9.7",
+  "actual_result": "They show as 'xyz is typing...' (replace xyz with blocked members nickname)",
+  "expected_result": "They don't show as typing, as they're blocked",
+  "short_description": "Users with nicknames who you have blocked still show 'xyz is typing...'",
+  "steps_to_repro": "- Have someone have a nickname - Block them - Observe"
+ }
+}

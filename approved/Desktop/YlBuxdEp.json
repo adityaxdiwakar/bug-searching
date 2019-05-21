@@ -1,0 +1,17 @@
+{
+ "id": "5a58545245178c2bfd8be7de",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1534,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YlBuxdEp",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Discord Canary 0.0.197, Build 9486",
+  "actual_result": "There's now a white border around the options display",
+  "expected_result": "Area around the options should be a darker black as before",
+  "short_description": "DM call display has a white border around it",
+  "steps_to_repro": "- Begin a DM call and observe"
+ }
+}

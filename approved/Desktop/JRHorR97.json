@@ -1,0 +1,30 @@
+{
+ "id": "59692d55a174a0b7fb03d79e",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 852,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JRHorR97",
+ "data": {
+  "system_settings": "MacOS 10.13 public beta, Macbook Air Early 2014",
+  "client_settings": "Desktop Canary, 0.0.150",
+  "actual_result": "There is a delay",
+  "expected_result": "Immediately after you let go, it should show up back on the server",
+  "short_description": "When you drag a server image, there is a delay",
+  "steps_to_repro": "- Drag a server image"
+ }
+}

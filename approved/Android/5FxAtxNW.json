@@ -1,0 +1,30 @@
+{
+ "id": "5b9577edf8108d52b973e18d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1957,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5FxAtxNW",
+ "data": {
+  "system_settings": "Honor 9, Android 8.0.0",
+  "client_settings": "Discord Alpha 7.4.8",
+  "actual_result": "You see the message appearing with a small animation for a very short time.",
+  "expected_result": "The message is there and it doesn't have any animation.",
+  "short_description": "The connection problems pop-up has an animation every time you switch app and open Discord.",
+  "steps_to_repro": "- Get the connection problems pop-up. (Switching to 2G only on your phone settings and restarting Discord should trigger it). - Switch to another app (also just going to the home page works) and open Discord. - Observe."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bd76c701204fe682ee95792",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3309,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EKAfMXn6",
+ "data": {
+  "system_settings": "MacOS Mojave, Version 10.14; MacBook Air 13.3\";",
+  "client_settings": "Discord Canary, Build 27040;",
+  "actual_result": "You will see the websites tooltip/pop-up appear on your screen while hovering your mouse in Discord.",
+  "expected_result": "A URL pop-up/tooltip should not appear when you go back into Discord.",
+  "short_description": "The URL will pop-up after going from a link to Discord with the **f3** key.**(MAC SPECIFIC)**",
+  "steps_to_repro": "- Press f3. - Go from the browser window back to Discord. - Hover your mouse anywhere in Discord. - Watch for the URL pop-up to appear."
+ }
+}

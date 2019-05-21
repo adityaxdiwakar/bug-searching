@@ -1,0 +1,30 @@
+{
+ "id": "5b5aa39571225d706262cc99",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2450,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uSCqj93l",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 19931",
+  "actual_result": "The user's Profile modal opens behind the Game Info modal",
+  "expected_result": "Either the Game Info modal closes or the Profile modal opens over it",
+  "short_description": "Game Info modals in the Games tab open in front of User Profiles",
+  "steps_to_repro": "- Go into your Games tab - Open the Game Info modal of a listed game - Click on one of the users displayed under Recently Played to open their profile and observe"
+ }
+}

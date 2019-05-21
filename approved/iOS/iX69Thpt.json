@@ -1,0 +1,17 @@
+{
+ "id": "5bff1d551cf39a600a02ec54",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1180,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/iX69Thpt",
+ "data": {
+  "system_settings": "iPhone XR, iOS 12.1",
+  "client_settings": "TestFlight 2.4.0 (9370)",
+  "actual_result": "The profile picture is actually the profile picture of the user who mentioned you",
+  "expected_result": "The profile picture is the server profile picture",
+  "short_description": "When receiving a mention from someone in a server the in-app notification shows they user profile picture instead of the server profile picture",
+  "steps_to_repro": "- Go to a server and ask for someone to ping you in a few seconds  - Now go to another channel or server  - Recive a ping and observer the profile picture in the in-app notification"
+ }
+}

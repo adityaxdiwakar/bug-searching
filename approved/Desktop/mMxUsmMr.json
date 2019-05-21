@@ -1,0 +1,17 @@
+{
+ "id": "5c1e9ce22b4cad3d2902102a",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3535,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mMxUsmMr",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS v10.14.1 (Mojave)",
+  "client_settings": "Canary 30283/30284 (Hash: `40398a711c0f7eacf80399d0491d70de748bef61`)",
+  "actual_result": "The app crashes with \"Well, this is awkward.\"",
+  "expected_result": "The modal to purchase a Nitro gift appears.",
+  "short_description": "After opening your Gift Inventory with a gift in it, your Discord client will crash if you click the Gift Icon in a text chat.",
+  "steps_to_repro": "- Have a gift in your inventory. (This definitely works with Nitro gifts, not sure about other gifts.) - Reload Discord (new session to show that this IS the root cause.) - Open Library > Gift Inventory. - Wait for it to load. - Go back to a text channel. - Click the gift icon next to the GIF picker and emote picker."
+ }
+}

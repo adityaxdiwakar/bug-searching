@@ -1,0 +1,36 @@
+{
+ "id": "5a8fcc0b54597cf4466e81df",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1683,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a905bdc462d8b176573549f",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Notifications",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wFCE14zi",
+ "data": {
+  "system_settings": "Windows 10 Pro, Version: 1709, OS Build: 16299.125",
+  "client_settings": "Release Channel: stable, Build Number: 10906",
+  "actual_result": "discord does not open or focus itself, the notification just disappears.",
+  "expected_result": "Discord should open itself, with focus, and be on the correct message.",
+  "short_description": "Clicking on windows 10 desktop notification does not actually open discord, or bring discord into focus if discord is minimized to tray",
+  "steps_to_repro": "- Make sure discord is set to minimize to tray when closed, then \"close\" discord - Wait for a notification to come through, then click it."
+ }
+}

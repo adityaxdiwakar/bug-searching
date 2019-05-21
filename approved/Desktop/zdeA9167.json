@@ -1,0 +1,17 @@
+{
+ "id": "596d8080958d6177fd43f489",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 859,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zdeA9167",
+ "data": {
+  "system_settings": "Win 10 battle.net pro",
+  "client_settings": "Discord PTB",
+  "actual_result": "The overlay never appears",
+  "expected_result": "An overlay should appear",
+  "short_description": "https://trello.com/c/Kq79lMZG/193-users-cannot-open-overlay-with-wow-and-overwatch",
+  "steps_to_repro": "- Restart your computer - Start <battle.net> - quickly open overwatch (the game used for testing this bug) - expect the game to start very slowly, probably waiting for about 20 sec"
+ }
+}

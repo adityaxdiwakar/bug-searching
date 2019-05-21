@@ -1,0 +1,30 @@
+{
+ "id": "59b4a05593d519bcd49d565c",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 323,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YPHM3jMN",
+ "data": {
+  "system_settings": "iPhone 6s+, iOS 10.3.3 & iPad Pro 10.5\", iOS 11.0 (15A5372a)",
+  "client_settings": "Testflight 1.9.1",
+  "actual_result": "As a non-admin, I can see \"Change Category\" screen and hidden categories",
+  "expected_result": "As a non-admin, I shouldn't see a \"Change Category\" screen, nor should i see hidden categories",
+  "short_description": "iOS Channel Settings reveals hidden Categories to non-admin",
+  "steps_to_repro": "- Be a non-admin in a server - Be in any text channel - Click the Channel name on top - Click the current Category - See \"Change Category\" screen and all available categories even if hidden etc"
+ }
+}

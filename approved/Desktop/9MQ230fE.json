@@ -1,0 +1,30 @@
+{
+ "id": "5a971f2859c37ed5db0589ed",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1696,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9MQ230fE",
+ "data": {
+  "system_settings": "windows 10 1709 x64, Acer aspire VX,  Discord canary - Build number: 11323",
+  "client_settings": "Discord canary build number: 11323",
+  "actual_result": "the image stays up, but in the background the channel does change to the desired one",
+  "expected_result": "the foreground image closes and the click on the notifications navigates you to the channel",
+  "short_description": "Foreground image stays up when clicking a notification",
+  "steps_to_repro": "- click an image so it's centered on your screen and shown above all other content - get a notification that pops up - click the notification"
+ }
+}

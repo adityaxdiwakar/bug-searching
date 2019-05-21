@@ -1,0 +1,17 @@
+{
+ "id": "5c38ce4513a03a5414a8f118",
+ "closed": false,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2423,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cv2g0Yku",
+ "data": {
+  "system_settings": "Samsung Galaxy J3 2017 - Android 8.0",
+  "client_settings": "Alpha 8.2.5",
+  "actual_result": "The \"pressing\" leaves.",
+  "expected_result": "Pressing for some time it doesn't leave.",
+  "short_description": "[SOMETIMES WORKS] When pressing a bot/user for some time, it leaves alone",
+  "steps_to_repro": "- Go to a server - Press a user in the Members Tab for some time - Observe (it will work sometimes, but you can reproduce it again and again)"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a591b3f240b62ac0fb9e28c",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1539,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xJtl0nG0",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit, v1709",
+  "client_settings": "Discord Canary, Build 9070",
+  "actual_result": "The animated avatar stops and you need to re-upload it",
+  "expected_result": "The animated avatar should still work because you still have Partner Nitro",
+  "short_description": "Animated avatar stops when a partner runs out of paid Nitro",
+  "steps_to_repro": "- Be a Discord Partner - Upload an animated avatar - Subscribe to Nitro and wait for it to expire"
+ }
+}

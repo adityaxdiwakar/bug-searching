@@ -1,0 +1,30 @@
+{
+ "id": "5ae9defb66e204e8f72c1a29",
+ "closed": false,
+ "idList": "5ae9076e854dae760b97993a",
+ "idShort": 1920,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/L1hgj8FC",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.207, Build 14432",
+  "actual_result": "Message doesn't get copied onto your clipboard",
+  "expected_result": "Comment's full context is copied onto your clipboard",
+  "short_description": "Cannot copy the full message context of the latest message sent in a channel with the copy option",
+  "steps_to_repro": "- Post a new message in chat - Highlight the entire message and attempt to copy with the \"Copy\" option"
+ }
+}

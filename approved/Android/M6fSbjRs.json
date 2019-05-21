@@ -1,0 +1,30 @@
+{
+ "id": "5a68c31ed4b0d296c94cc662",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1063,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/M6fSbjRs",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.1.1",
+  "actual_result": "You don't see some native emotes. This doesn't happen for some specific emotes but rather depends upon the number of characters present in the topic",
+  "expected_result": "You should be able to see the native emotes",
+  "short_description": "Native emotes are not visible in the channel topic",
+  "steps_to_repro": "- Go to a channel you can edit - Go to channel settings and edit the channel topic to contain some native emotes - Save the changes and observe the channel topic"
+ }
+}

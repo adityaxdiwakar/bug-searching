@@ -1,0 +1,30 @@
+{
+ "id": "5b80be65ea0c325ebd63f15f",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2793,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PjWLkFnI",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Canary Build 22496",
+  "actual_result": "Games sections change width after you tab out of and back into the activity tab",
+  "expected_result": "Game sections should change width when zoom level is changed",
+  "short_description": "Game sections under the \"What's New\" in activity tab don't adjust for changing zoom level while in the activity tab",
+  "steps_to_repro": "- Go to the \"What's New\" section of the activity tab on 100 zoom and observe the size of the game sections (they should be in two columns in 100 zoom) - Change your zoom level to 125 zoom without leaving the activity tab and then observe the game sections again - Without changing zoom level, tab into a random server and back into the activity tab - Scroll down to the \"What's New\" section and observe the game sections (they should be in one column) - Change your zoom level to 100 without leaving the activity tab and observe the game sections again"
+ }
+}

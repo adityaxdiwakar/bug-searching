@@ -1,0 +1,30 @@
+{
+ "id": "5af8635abd614ac0920c4db1",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1413,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5l5Fty6I",
+ "data": {
+  "system_settings": "Android 6.0.1 Moto G3",
+  "client_settings": "Discord Android 6.6.1 Beta",
+  "actual_result": "Notes are not removing if it is removed completely",
+  "expected_result": "The Notes must be removed if user removed in other clients",
+  "short_description": "User notes is not updating in Android",
+  "steps_to_repro": "- In Desktop type some note of an user and watch the mobile simultaneously of that user notes - A small change is updated in real-time, but if i delete all it is not changing - The notes remains there"
+ }
+}

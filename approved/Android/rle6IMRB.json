@@ -1,0 +1,24 @@
+{
+ "id": "592f280fee9e84ec5891899a",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 492,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rle6IMRB",
+ "data": {
+  "system_settings": "Google Pixel - Android 7.1.2",
+  "client_settings": "Android Alpha 3.9.0",
+  "actual_result": "See the first word and the entire second and subsequent words gone",
+  "expected_result": "See the first word and a partial of the second word in the name",
+  "short_description": "Names of long group DMs with 2 or more words in may get entire words cut off instead of breaking at the end of the scroller",
+  "steps_to_repro": "- Make a group DM - Name it with around 12 chars in the first word and 20+ in the second (example amounts, will probs work with more) - Open the friends list scroller"
+ }
+}

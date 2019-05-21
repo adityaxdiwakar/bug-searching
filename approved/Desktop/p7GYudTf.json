@@ -1,0 +1,24 @@
+{
+ "id": "593a2aa96a2c664495cc6a22",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 733,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/p7GYudTf",
+ "data": {
+  "system_settings": "Windows 7 x64, Ubuntu 17.04, Windows 10 x64 1703",
+  "client_settings": "Desktop Stable Latest",
+  "actual_result": "The backticks don't escape, better example: <http://i.imgur.com/VzqSqlN.png>",
+  "expected_result": "Backticks should be escaped like any other markdown",
+  "short_description": "Backslash doesn't escape backticks at end of one line code block",
+  "steps_to_repro": "- Copy this message: <https://hastebin.com/fuvarobefu> - Paste and send"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "598c8c35434a60bcdb8c0f62",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 965,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/p6qMLinS",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6 (16G29) (iMac Retina 5K, 27-inch, Late 2017)",
+  "client_settings": "Canary 0.0.154",
+  "actual_result": "The ends of the name get cut off",
+  "expected_result": "The nickname should all fit on the screen, either by wrapping to multiple lines or by making the popup wider",
+  "short_description": "In the role and notes profile viewer, long nicknames or usernames get cut off",
+  "steps_to_repro": "- set your nickname (or someone else's) to a long one that's under 33 chars, for example `TheLordofGaming/TheLordofHTMLhi` - click yourself/them in the user list"
+ }
+}

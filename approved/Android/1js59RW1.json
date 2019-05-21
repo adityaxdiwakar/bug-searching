@@ -1,0 +1,30 @@
+{
+ "id": "5b0e8790e9975eed2fb1d52a",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1480,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1js59RW1",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.7",
+  "actual_result": "When you're about to reach the most recent messages, the whole message history reloads and you're \"teleported\" to the most recent messages, forcing you to scroll back up to retrieve the latest message you were reading",
+  "expected_result": "You should be able to read the message history smoothly",
+  "short_description": "Message history reloads completely and scrolls abruptly to the bottom when you hit the 50+ new messages banner and then scroll down",
+  "steps_to_repro": "- Find a channel with between 60 and 100 new messages (you can have more but it will take more time to repro). It happens only if the banner shows a \"50+\" count- Tap the banner saying \"50+ new messages\"  - Scroll down until you notice the bug"
+ }
+}

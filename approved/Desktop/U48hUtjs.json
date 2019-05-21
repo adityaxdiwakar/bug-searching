@@ -1,0 +1,30 @@
+{
+ "id": "5abd09384b6cc7c3ef8932e3",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1771,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/U48hUtjs",
+ "data": {
+  "system_settings": "MacOS High Sierra Version 10.13.1 (17B1003)",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 12477, Version Hash: cb279a736d88664e6a0eb25a08413306438dfe97",
+  "actual_result": "Bot users have a 'I'm new to discord, say hi' thing on their server 'mini profile' only intended for users.",
+  "expected_result": "No 'I'm new to discord, say hi' on bot users because you can't say hi to a bot \ud83d\ude09",
+  "short_description": "On new bot users, there is a useless 'I'm new to discord, say hi' when you can't really say hi to a bot.",
+  "steps_to_repro": "- Create a bot on the discord bot api page - Click on the bot user and move your cursor to the wumpus. - A little message should pop up saying 'I'm new to discord, say hi!'."
+ }
+}

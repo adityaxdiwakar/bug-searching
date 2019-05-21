@@ -1,0 +1,17 @@
+{
+ "id": "5bccdcdb7c4b5c58ae93f1da",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2214,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7vvda833",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0.0",
+  "client_settings": "7.7.8",
+  "actual_result": "Screen frozes and you will be unable to do anything",
+  "expected_result": "Screen would not be frozen",
+  "short_description": "Randomly fastly clicking users while creating group makes screen frozen",
+  "steps_to_repro": "- Go to friends / select create a group dm - Randomly and fastly click users for 10 mins"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "593dc688db66467f6010a133",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 746,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/YRPzT0Lv",
+ "data": {
+  "system_settings": "Windows 10 x64, Canary 0.0.157",
+  "client_settings": "Discord Canary 0.0.157",
+  "actual_result": "The Clyde response mentions itself.",
+  "expected_result": "Perhaps the user is told they can't use that type of nickname, or the nickname is escaped",
+  "short_description": "Nickname self to Clyde User",
+  "steps_to_repro": "- Run /nick \\<@1> - Click the reply from Clyde"
+ }
+}

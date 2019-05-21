@@ -1,0 +1,30 @@
+{
+ "id": "5a63e77b604a9a7889197337",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 533,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/depC3Zd9",
+ "data": {
+  "system_settings": "iPhone X, iOS 11.2.2",
+  "client_settings": "TestFlight 2.2.0 (2121)",
+  "actual_result": "The PiP box is partially covered by the notch",
+  "expected_result": "The PiP box should float to the right of the notch area so the feed is fully visible",
+  "short_description": "iPhone X notch partially covers the video call PiP box in landscape mode",
+  "steps_to_repro": "- Start a video call with another user (not a group call) - Rotate to landscape (anticlockwise) - Observe the PiP (picture-in-picture) box in the upper left corner"
+ }
+}

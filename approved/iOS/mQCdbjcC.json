@@ -1,0 +1,17 @@
+{
+ "id": "5c021f3b5656d45088883102",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1195,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mQCdbjcC",
+ "data": {
+  "system_settings": "iPhone X, iOS 12.1.1 (Dev Beta 3)",
+  "client_settings": "TestFlight 2.4.0 (9377)",
+  "actual_result": "The button turns transparent",
+  "expected_result": "Apparently it should be highlighted like how it is on Android",
+  "short_description": "Create/join server button shows as transparent upon clicking",
+  "steps_to_repro": "- Click create or join a server and hold it to see"
+ }
+}

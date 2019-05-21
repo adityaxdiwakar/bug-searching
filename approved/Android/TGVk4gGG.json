@@ -1,0 +1,17 @@
+{
+ "id": "5c38fb81ac131f5aa08fc91e",
+ "closed": false,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2424,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/TGVk4gGG",
+ "data": {
+  "system_settings": "ASUS Zenfone max pro m1 Android 8.1.0",
+  "client_settings": "Alpha 8.2.5",
+  "actual_result": "A progress bar with just a loading line appears and after some time uploads the file completely without going through the \"real time updates\" phase",
+  "expected_result": "A progress bar with real time updates should be visible",
+  "short_description": "Progress bar doesn't show while uploading .mp4 and .gif files",
+  "steps_to_repro": "- Don't have lightning fast internet, for you to view the bug you need to have somewhat slow internet otherwise the progress bar will be visible only for a fraction of a second - Go to a channel /DM and upload a somewhat large gif  or mp4 file   - Observe the progress bar"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bda0e589088bc8b85dddc96",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 2271,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CnVHbQlz",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Android 8.0.0",
+  "client_settings": "7.8.3",
+  "actual_result": "It slided to the end",
+  "expected_result": "It would stay in the top because we left it like that",
+  "short_description": "Selecting servers as filter -asteriks (*)- switching orientation to landscape, it will be all the way down slided",
+  "steps_to_repro": "- Go to quick switcher - Select filter as (Server) - Switch orientation to landscape - Observe that it would be slided to the end"
+ }
+}

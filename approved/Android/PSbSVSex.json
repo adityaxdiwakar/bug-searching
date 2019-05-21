@@ -1,0 +1,30 @@
+{
+ "id": "5b644c4afe331a36e6170bd1",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1767,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PSbSVSex",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.3",
+  "actual_result": "No sort is applied at all",
+  "expected_result": "Should either be sorted from last to first visited server (that would make more sense), alternatively they can be sorted alphabetically or by the same order they are in main server list",
+  "short_description": "When you type the asterisk symbol in Quick Switcher, the server list is sorted in a random order",
+  "steps_to_repro": "- Go to Quick Switcher  - Input an asterisk - Observe server list"
+ }
+}

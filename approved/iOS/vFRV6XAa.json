@@ -1,0 +1,17 @@
+{
+ "id": "5bb94f522f355641149fb158",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1068,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vFRV6XAa",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8055)",
+  "actual_result": "You see an empty second line of markdown, and an extra empty markdown on the first line",
+  "expected_result": "You see a single line of empty markdown",
+  "short_description": "Making a double like single tick empty markdown creates two lines",
+  "steps_to_repro": "- Type a single tick for markdown - Tap return and type another single tick - Send the empty markdown message - Observe the empty markdown - Type any word and send that - Notice the empty second line in the empty markdown and the markdown in the first line"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5badeff6ba89f442b7281d00",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2061,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Vbc6W3Pp",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 757",
+  "actual_result": "There's no line.",
+  "expected_result": "There's a line above the slowmode settings separating it from Privacy and Safety settings.",
+  "short_description": "There's no line above the slowmode settings separating it from Privacy and Safety.",
+  "steps_to_repro": "- Open channel settings of a server you have manage channels permission. - Scroll down to the bottom."
+ }
+}

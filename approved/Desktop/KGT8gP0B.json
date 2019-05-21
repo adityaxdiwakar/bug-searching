@@ -1,0 +1,15 @@
+{
+ "id": "58526b70ca69adade2768651",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 246,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KGT8gP0B",
+ "data": {
+  "actual_result": "Discord throws a bunch of errors in the console and switching servers doesnt work anymore.",
+  "expected_result": "The chanel changes position in the sidebar",
+  "short_description": "Discord Canary 'freezes' when dragging channels around",
+  "steps_to_repro": "- Have a server where you can set positions of text channels - Drag one channel above the other "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5abd0989babab15fe3873cbb",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1232,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c244LfWq",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.5",
+  "actual_result": "You do not appear immediately, you need to scroll up first",
+  "expected_result": "You should appear as before",
+  "short_description": "If you are placed at the very top of the member list, switching Invisible and switching back online won't make you reappear in the list unless you scroll up",
+  "steps_to_repro": "- Be in the topmost position of the online member list in a server - switch invisible and wait a few seconds - switch back online/idle/dnd - open member list again"
+ }
+}

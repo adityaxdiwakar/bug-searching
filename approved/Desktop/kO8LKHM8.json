@@ -1,0 +1,30 @@
+{
+ "id": "5bbf1ab011874667cbc9d158",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3152,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kO8LKHM8",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6, Macbook Air",
+  "client_settings": "Canary 25872",
+  "actual_result": "The underline is blue",
+  "expected_result": "The underline is white",
+  "short_description": "Cancelling your subscription to Nitro/Lightro, and hovering over the \"nevermind\" shows a blue underline",
+  "steps_to_repro": "- Have an active subscription to Nitro/Lightro - Click \"Cancel\" - Hover over the \"nevermind\" option - Observe the underline"
+ }
+}

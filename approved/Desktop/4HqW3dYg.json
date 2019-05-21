@@ -1,0 +1,30 @@
+{
+ "id": "5b8ad336c47975054a39a7bc",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2915,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4HqW3dYg",
+ "data": {
+  "system_settings": "Windows 10 x64 (1803)",
+  "client_settings": "Discord Canary 23011",
+  "actual_result": "DM opens, DM list jumps to somewhere random that is not the location of active DM.",
+  "expected_result": "DM opens, DM list jumps to location of active DM.",
+  "short_description": "DM list jumps to random location instead of active DM when messaging someone through Activity tab.",
+  "steps_to_repro": "- In DM list find anyone that already has a DM opened and is not visible in DM list without scrolling down. - Go to Activity menu. - Try to message anyone."
+ }
+}

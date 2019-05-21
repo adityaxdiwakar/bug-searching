@@ -1,0 +1,17 @@
+{
+ "id": "59d0b625b2f4f3bc592041b3",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1213,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/F2NSKnrn",
+ "data": {
+  "system_settings": "macOS High Sierra 10.13 (17A365) (iMac Retina 5K, 27-inch, Late 2017)",
+  "client_settings": "Discord Canary 0.0.155 (Build 5141)",
+  "actual_result": "The preview is different",
+  "expected_result": "The preview is the same",
+  "short_description": "Links show different previews when in parentheses",
+  "steps_to_repro": "- Send a link with a preview, like the one in the screenshot - Send it again, in parentheses"
+ }
+}

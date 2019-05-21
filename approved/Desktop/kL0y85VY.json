@@ -1,0 +1,15 @@
+{
+ "id": "58276cf3e9f6a62e70066da8",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 134,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kL0y85VY",
+ "data": {
+  "actual_result": "Said server, channel or DM opens in a new browser tab, even when using the desktop client",
+  "expected_result": "Said server, channel or DM opens in Discord itself",
+  "short_description": "Channels, DMs and servers open in a browser tab when middle clicked",
+  "steps_to_repro": "- middle click a server or text channel in the sidebar, or a DM in the Direct Messages tab "
+ }
+}

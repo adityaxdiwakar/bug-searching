@@ -1,0 +1,16 @@
+{
+ "id": "58553be89ffd8dedeb28f057",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 256,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/e1yiZVSF",
+ "data": {
+  "system_settings": " Windows 10 Latest verison of canary Google Chrome",
+  "actual_result": "Takes you to the main google home page",
+  "expected_result": "It should search up the post",
+  "short_description": "when searching a post in google it takes you to the google homepage",
+  "steps_to_repro": "- Step 1 Right click any post - step 2 click search with google "
+ }
+}

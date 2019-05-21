@@ -1,0 +1,30 @@
+{
+ "id": "5998d36ee50fd778922a9719",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1020,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iahWU7DP",
+ "data": {
+  "system_settings": "MacOS 10.12.6, Macbook Pro",
+  "client_settings": "Discord Canary 0.0.154",
+  "actual_result": "The screen rotated for 1 sec",
+  "expected_result": "The screen will not rotate horizontally.",
+  "short_description": "Video Call screen will rotate horizontally for 1 sec when you turn off camera",
+  "steps_to_repro": "- Video call someone - Wait for the screen start displaying the camera screen - Turn off the camera"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5c074565d5296a67f369cb80",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1210,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8wWBTcvn",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1",
+  "client_settings": "TF 2.4.0 (9595)",
+  "actual_result": "They don\u2019t change",
+  "expected_result": "The options should change to mute/unmute",
+  "short_description": "When going to someone\u2019s voice settings in a vc doesn\u2019t change.",
+  "steps_to_repro": "- Open someone\u2019s vc settings - Alternate between pressing mute and defean a few timew - Notice how the options don\u2019t change after awhile"
+ }
+}

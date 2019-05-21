@@ -1,0 +1,24 @@
+{
+ "id": "5be95c5766ff1d17b78a4aa6",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1160,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7GsTskie",
+ "data": {
+  "system_settings": "iPad 5, iOS 12.1 - Works in normal app mode and splitview",
+  "client_settings": "Testflight 2.4.0 (8921)",
+  "actual_result": "The server moves 2 servers down and stops",
+  "expected_result": "The server should move up",
+  "short_description": "Server that is behind the user profile moves down when you try to move it up",
+  "steps_to_repro": "- Move your server list so that one server is behind the user thing but you can kinda still see It and hold it (see attached pic) - Hold it like you wanna move it - Drag your finger up while holding it"
+ }
+}

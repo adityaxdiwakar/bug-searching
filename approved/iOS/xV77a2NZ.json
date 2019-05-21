@@ -1,0 +1,30 @@
+{
+ "id": "5a61277b4d8c917afe4c3648",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 509,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xV77a2NZ",
+ "data": {
+  "system_settings": "iPhone 8 +, iOS 11.2.5 (PB6)",
+  "client_settings": "Discord TestFlight 2.2.1 (2147)",
+  "actual_result": "Discord stays where it is, but will rotate if you rotate to portrait then landscape again",
+  "expected_result": "Since it\u2019d be technically a video call, Discord should automatically rotate to the landscape mode.",
+  "short_description": "Discord Doesn\u2019t Rotates to Landscape after turning on Camera and rotating phone",
+  "steps_to_repro": "- Make sure you do not have portrait lock on - Make a VOICE call - Rotate your phone to landscape - Click the camera icon to turn on the camera. - Observe"
+ }
+}

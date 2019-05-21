@@ -1,0 +1,30 @@
+{
+ "id": "5a9f08ec8170a1231b12103f",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1709,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/e2RKFPIS",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Stable, Chrome 64",
+  "actual_result": "Nothing happens",
+  "expected_result": "Mic is unmuted",
+  "short_description": "Can't unmute self in browser",
+  "steps_to_repro": "- join voice channel in chrome - grant mic permission - mute self - reload page - unmute self"
+ }
+}

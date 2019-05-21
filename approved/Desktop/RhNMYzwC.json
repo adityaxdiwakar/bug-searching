@@ -1,0 +1,30 @@
+{
+ "id": "5ac89cf75800544e5d4f02a7",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1804,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RhNMYzwC",
+ "data": {
+  "system_settings": "Microsoft Windows 10 Profesional 64 bit (v1709)",
+  "client_settings": "Canary, build 13313",
+  "actual_result": "The player quits fullscreen and jumps to present",
+  "expected_result": "The player should quit fullscreen without jumping to present",
+  "short_description": "When escaping (with the key \"esc\") the full screen of an embedded webm player, the channel \"jumps to present messages\"",
+  "steps_to_repro": "- Send a link linking to a webm video in a text channel - Send enough messages to have the option \"JUMP TO PRESENT\" in the lowest part of the screen when looking at the message containing the link - Play the video in full screen - Escape the video with the \"escape\" key"
+ }
+}

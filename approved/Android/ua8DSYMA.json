@@ -1,0 +1,30 @@
+{
+ "id": "5beab0df2e001674185b6472",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2321,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ua8DSYMA",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.9.0",
+  "actual_result": "It looks very awkward, and feels stiff. This started to occur as soon as I updated to 7.9.0.",
+  "expected_result": "Expansion should be smooth.",
+  "short_description": "Expanding a log is very un-smooth on Audit Logs.",
+  "steps_to_repro": "- Update to 7.9.0 - Go to Audit Logs - Expand and close a log that can be expanded. Do this multiple times."
+ }
+}

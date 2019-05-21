@@ -1,0 +1,17 @@
+{
+ "id": "5988401cd98960f0da84753c",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 941,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KkktJl7t",
+ "data": {
+  "system_settings": "MacOS Sierra 10.12.6",
+  "client_settings": "MacOS Sierra 0.0.247",
+  "actual_result": "All the images are posted, but you're left with this odd thing <http://i.imgur.com/5T79AjL.png>",
+  "expected_result": "All the images are posted",
+  "short_description": "Visual screw-up with image spam",
+  "steps_to_repro": "- get images - get a server - drap and drop large amounts of images into the server"
+ }
+}

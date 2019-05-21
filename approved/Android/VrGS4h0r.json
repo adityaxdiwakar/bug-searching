@@ -1,0 +1,30 @@
+{
+ "id": "5b74bf8fa64d2665cadeacb1",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1838,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VrGS4h0r",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.3.1",
+  "actual_result": "The toggle is still on",
+  "expected_result": "The toggle should stay off",
+  "short_description": "[Android 8+ only] The \"Enable all notifications\" switch is broken",
+  "steps_to_repro": "- Go to Settings > Notifications - Toggle off the \"Enable all notifications\" switch - Press Back - Reopen Settings > Notifications"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a31cdd01677bca9ee16137f",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 947,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CKtWdTtf",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 7.0",
+  "client_settings": "Discord Alpha 5.8.4",
+  "actual_result": "Nothing happens when you click on the member, they stay highlighted (sometimes it works if you click multiple times)",
+  "expected_result": "The nickname/ role assign screen should open as normally.",
+  "short_description": "When on the Members tab on server settings, clicking on a member does not work. Sometimes clicking multiple times works",
+  "steps_to_repro": "- open the members tab - try to click on a random member"
+ }
+}

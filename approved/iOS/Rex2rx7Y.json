@@ -1,0 +1,24 @@
+{
+ "id": "5b32b0c05cfd7950e425b980",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 816,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Rex2rx7Y",
+ "data": {
+  "system_settings": "iPhone 6, IOS 11.4",
+  "client_settings": "TestFlight 2.3.4 (Autocorrect/edit fix)",
+  "actual_result": "The message goes and hides, and comes back afterwards",
+  "expected_result": "The message shouldn\u2019t disappear after opening the sercer",
+  "short_description": "Unsent dm message disappears and reappears when opening server",
+  "steps_to_repro": "- Start writing a message, but don\u2019t post it, in a dm with a friend  - Before sending it, open a server - If you go back to the dm, the message will have disappeared, and you can write a new message - If you go into a second dm, and go back to the first one, the message will be back."
+ }
+}

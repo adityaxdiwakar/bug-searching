@@ -1,0 +1,30 @@
+{
+ "id": "5b8071b88765e7535fe51682",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1878,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dLzcD5QZ",
+ "data": {
+  "system_settings": "Android 6.0.1 Samsung Galaxy A3",
+  "client_settings": "Latest, 7.4.0",
+  "actual_result": "The category doesn't disappear.",
+  "expected_result": "The category should disappear as it does on Desktop.",
+  "short_description": "Collapsed categories with voice channels in that you are forbidden to see (but once could) do not disappear.",
+  "steps_to_repro": "- Be in a server where you have basic permissions. Ask the owner to create a category with one voice channel in it that you have permission to see. - Then collapse that category so the voice channel is hidden. - Now ask the owner to take away your permission to see the voice channel. The category doesn't disappear (but does on Desktop). - You can even close and relaunch the app. The category is still visible. It only disappears once you try to uncollapse it."
+ }
+}

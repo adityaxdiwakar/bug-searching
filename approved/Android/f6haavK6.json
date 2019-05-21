@@ -1,0 +1,30 @@
+{
+ "id": "5be75165625c0e0e99a863d9",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2305,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/f6haavK6",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.8.8",
+  "actual_result": "You cannot scroll up, making the search virtually impossible to do so.",
+  "expected_result": "You should be able to scroll up to search for your friend.",
+  "short_description": "When you rotate your screen on the new invite model, you cannot scroll up to search for your friend.",
+  "steps_to_repro": "- Create a server (This is just to easily get to the new invite model). - In your \"general\" channel, you should see \"invite your friends\" option. Click on it. - Rotate your screen, and try to search for your friends."
+ }
+}

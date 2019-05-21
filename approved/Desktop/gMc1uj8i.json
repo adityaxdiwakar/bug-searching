@@ -1,0 +1,30 @@
+{
+ "id": "5adcc834bd9e489b5f5df6a8",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1876,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gMc1uj8i",
+ "data": {
+  "system_settings": "Windows 10 x64 1709",
+  "client_settings": "Canary 13990",
+  "actual_result": "if you switch channels with mouse then it scrolls the channel pane which is understandable, but after switching channels with keyboard it just does nothing until you click in the box",
+  "expected_result": "it goes to the top or bottom of the message panel",
+  "short_description": "Home/End don't work in channels until you focus the chat area",
+  "steps_to_repro": "- Switch channel - Try to press home or end"
+ }
+}

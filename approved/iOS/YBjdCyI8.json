@@ -1,0 +1,36 @@
+{
+ "id": "5a2fcf6513624f9f5e3f7c34",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 449,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YBjdCyI8",
+ "data": {
+  "system_settings": "iOS 11.2,  iPhone 6s",
+  "client_settings": "Discord TestFlight 2.0.1(1610)",
+  "actual_result": "The characters show in plain formatting",
+  "expected_result": "The characters show in bold formatting",
+  "short_description": "Characters surrounded with colons aren't bold when formatted bold",
+  "steps_to_repro": "- Go to any text channel - Put bold formatting around a word such as `:00:` or `:test:` - Notice it's not bolded"
+ }
+}

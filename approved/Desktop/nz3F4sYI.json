@@ -1,0 +1,24 @@
+{
+ "id": "59e4e130073df016689e4084",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1264,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nz3F4sYI",
+ "data": {
+  "system_settings": "Win 7 Pro",
+  "client_settings": "Latest release",
+  "actual_result": "He does not see the messages until the time he clicks on the channel once. If you revoke permission and grant it again this bug does not occur. But happens with every channel exactly once, if configured as described.",
+  "expected_result": "The user should see the channel messages from the time he is granted access to it",
+  "short_description": "Messages from new channel do not show until clicked",
+  "steps_to_repro": "- (Create and) Restrict a channel to a specific role - Disable the permission to see message history in this channel - Set said role to a user - Now write a message (you can even @mention) to the user"
+ }
+}

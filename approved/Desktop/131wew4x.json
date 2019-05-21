@@ -1,0 +1,30 @@
+{
+ "id": "593b68756de08e84c6425d4c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 740,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/131wew4x",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Stable, 0.0.297",
+  "actual_result": "It returns no search results",
+  "expected_result": "To find that message by searching for find, this, or text",
+  "short_description": "Search does not find text in between periods, but works for other punctuation such as commas or hyphens",
+  "steps_to_repro": "- Type a message such as this in chat: <find.this.text> - Do a search (channel or server) for any of those words"
+ }
+}

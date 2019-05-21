@@ -1,0 +1,24 @@
+{
+ "id": "5c0b6e0df92ff03a59c72afc",
+ "closed": false,
+ "idList": "5c082c6e851e73786a479414",
+ "idShort": 1222,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XvMMdr4c",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9714)",
+  "actual_result": "Word formats the markdown as italics",
+  "expected_result": "Word formats the markdown correctly, or bold because of triple star not working",
+  "short_description": "Triple star markdown appears as italics in in-app notifications",
+  "steps_to_repro": "- Make sure you can receive in-app notifications - Have someone DM or mention you with a word using triple star markdown - Observe the word in the in-app notification"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bcb476325e4e505d5b2c4d1",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2205,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uKevlFvx",
+ "data": {
+  "system_settings": "Allview X4 Soul Mini, 7.0",
+  "client_settings": "Discord Alpha 7.6.9 (769)",
+  "actual_result": "It is off centered.",
+  "expected_result": "It is not off centered.",
+  "short_description": "Create Channel Dialog off centered.",
+  "steps_to_repro": "- Go to a server (for me it worked with any server) - Click the server name then Server Settings - Click Channels - Click the plus button to make a channel - Create Channel dialog is off centered"
+ }
+}

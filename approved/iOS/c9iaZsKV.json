@@ -1,0 +1,29 @@
+{
+ "id": "58bb3be94e0029de704f7665",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 214,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c9iaZsKV",
+ "data": {
+  "system_settings": " iOS 10.2, latest TF [1.8.3 (72)]",
+  "actual_result": "Button says nothing",
+  "expected_result": "The button below the field of text for 2FA code should say something",
+  "short_description": "2FA with password changing causes the button to have no text",
+  "steps_to_repro": "- Have 2FA enabled on your account - Change your password (Thanks Cloudbleed) - Dialog should pop up for 2FA code "
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "585e8f007c61128278a0326b",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 138,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/a09m6dkX",
+ "data": {
+  "actual_result": "you only see whichever shard's game status was loaded first",
+  "expected_result": "you see a different status in the member list of servers that belong to different shards",
+  "short_description": "iOS client doesn't respect per shard game statuses",
+  "steps_to_repro": "- Have a bot on two different shards. Set a different playing status for each shard.- FULLY close out of all running instances of Discord. (Go to task manager on computer, etc.)- Open Discord, then open the bot's profile FROM a server on shard #1. Observe the game. When you go to a server on shard #2, the bot's game is still the same."
+ }
+}

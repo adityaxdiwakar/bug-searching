@@ -1,0 +1,24 @@
+{
+ "id": "59b66cacab97f00f9441f1df",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 701,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XMjJoVF2",
+ "data": {
+  "system_settings": "Android 7.1.2 Moto G4",
+  "client_settings": "Android Alpha 5.1.4",
+  "actual_result": "The \"Text Channel\" category switches from pointing right to pointing down",
+  "expected_result": "The \"Text Channel\" category arrow consistently points down",
+  "short_description": "Channel category arrow moving directions",
+  "steps_to_repro": "- Go on DTesters and make sure you have everything listed first - Scroll down and mute the \"Voice Channel\" category - Scroll up and down really quickly"
+ }
+}

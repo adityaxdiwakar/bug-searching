@@ -1,0 +1,17 @@
+{
+ "id": "5996f877ddd9969f4182d7e0",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 292,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/o5YHR7qr",
+ "data": {
+  "system_settings": "iOS 11 beta 4, iPhone 7",
+  "client_settings": "1.8.9 [Testflight]",
+  "actual_result": "The spinning wheel appears for a second, followed by a black screen and the app crashing in quick succession.",
+  "expected_result": "The app opens smoothly.",
+  "short_description": "App crashes instantly upon opening, often multiple times in a row [on both Testflight and non-Testflight versions]. I have only had it happen on iOS 11 betas 2-4 so far, yet to upgrade to 5 and test.",
+  "steps_to_repro": "- Open the app on your iDevice."
+ }
+}

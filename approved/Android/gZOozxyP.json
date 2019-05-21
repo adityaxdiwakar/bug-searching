@@ -1,0 +1,17 @@
+{
+ "id": "5af110b1f457914a48c8416f",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1381,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gZOozxyP",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 6.6.2",
+  "actual_result": "it's the wrong members list",
+  "expected_result": "the correct members list",
+  "short_description": "Lazy Guild Members List is on wrong server",
+  "steps_to_repro": "- be in a lazy guild server - opens members list that is unloaded - wait till it loads close it - go to another channel in the lazy guild - opens members list that is unloaded - wait till it loads - close it - go to a different server without lazy guild and opens members list"
+ }
+}

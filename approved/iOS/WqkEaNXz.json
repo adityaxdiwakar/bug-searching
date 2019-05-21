@@ -1,0 +1,30 @@
+{
+ "id": "5a557b267195251013437cd6",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 491,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WqkEaNXz",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.2 & iPad Air 2, iOS 11.2.5 Public Beta 3",
+  "client_settings": "TestFlight 2.2.0 (2080)",
+  "actual_result": "Nothing happens when clicking on it. The push notification link only works when Discord is closed.",
+  "expected_result": "It should redirect you to the new direct message.",
+  "short_description": "Push notification link doesn't work while the app is opened",
+  "steps_to_repro": "- Get any push notification for example for a new direct message - Do not click on this push notification - Open Discord but don't go to the new direct message - Now click on the push notification while Discord is opened"
+ }
+}

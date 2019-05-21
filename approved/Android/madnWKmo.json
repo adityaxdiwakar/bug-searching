@@ -1,0 +1,30 @@
+{
+ "id": "5a06c0067751abab468f884a",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 887,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/madnWKmo",
+ "data": {
+  "system_settings": "Sony XZ Premium, Android 8.0.0, Securitypatch (1. Oct. 2017)",
+  "client_settings": "Discord Alpha 5.5.5(555)",
+  "actual_result": "The preview freezes and reopening the inapp camera by trying to attach a new photo doesnt display any preview at all",
+  "expected_result": "The camera should switch to the front/back camera and display the preview of it",
+  "short_description": "Switching camera when taking a photo with the inapp camera breaks the inapp camera (only sony devices on android 7.1.1 and newer so far)",
+  "steps_to_repro": "- click the \u2795 - click the camera to open the inapp camera - try switching to the front/back camera with the top right button in the inapp camera preview"
+ }
+}

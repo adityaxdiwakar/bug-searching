@@ -1,0 +1,30 @@
+{
+ "id": "5c1c218deeedfd176a458aaa",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3529,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/a7uGJ7vD",
+ "data": {
+  "system_settings": "MacOS 10.14.3",
+  "client_settings": "Canary 30151",
+  "actual_result": "When you tap on their name, it only highlights the username part, without the hashtag.",
+  "expected_result": "When you tap on their name, it should highlight their username and hashtag.",
+  "short_description": "Triple tapping someone's name (person must have nickname) won't highlight their full name. (Mac)",
+  "steps_to_repro": "- Go to any discord server. - Locate a person who has a nickname in that server. - Press on their user so you get that small pop up to appear. - Triple tap their real username. - You will see that it won't highlight their full username so that you can copy it. It will only highlight their name, not the hashtag. - Do the same thing on a user without a nickname and you will see that it highlights their username and hashtag. - Observe the video."
+ }
+}

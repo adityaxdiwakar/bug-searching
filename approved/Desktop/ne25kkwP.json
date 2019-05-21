@@ -1,0 +1,22 @@
+{
+ "id": "586bacf5ded56ecb678205a2",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 301,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ne25kkwP",
+ "data": {
+  "actual_result": "Links are cut off and I end up looking at some random github profile",
+  "expected_result": "Any links that are cut off in the embed should be hyperlinked to the full embed",
+  "short_description": "Links that are cut off in github webhook messages should hyperlink to full link",
+  "steps_to_repro": "- Have a github webhook in a channel - Put a longish url in a commit message "
+ }
+}

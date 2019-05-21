@@ -1,0 +1,23 @@
+{
+ "id": "5900c3fb7c4a8b72c89d2607",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 409,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vYf2NxHc",
+ "data": {
+  "system_settings": " Android 6.0, Discord Alpha 3.7.7",
+  "actual_result": "Bullet jumps from \"I live on the edge\" to your selected setting",
+  "expected_result": "Smooth transition with actual setting selected",
+  "short_description": "Bullets in settings quickly jump when entering settings",
+  "steps_to_repro": "- Open settings - Tap Privacy and Safety "
+ }
+}

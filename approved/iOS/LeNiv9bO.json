@@ -1,0 +1,30 @@
+{
+ "id": "5b32ae37281a1673bf8f8d7e",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 815,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LeNiv9bO",
+ "data": {
+  "system_settings": "iPhone 6 - iOS 12 (dev beta 2)",
+  "client_settings": "TestFlight 2.3.4 (5425)",
+  "actual_result": "It doesnt actually do anything and wont bring u anywhere",
+  "expected_result": "When opening the quickswitcher in magnificent search glass it should bring you to any server you want",
+  "short_description": "Quick switcher wont let u go to servers when holding down on magnificent glass/search glass [**NOTE**: iPhone 5 and above only (Not iPad!)]",
+  "steps_to_repro": "- Go to any server - hold down on the magnificent glass/search glass - Now it should open the quickswitcher - click on any server icon or dm (if u get any) and notice it wont bring u anywhere (not talking about the channel #'s + names u see)"
+ }
+}

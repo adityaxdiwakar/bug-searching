@@ -1,0 +1,30 @@
+{
+ "id": "5c0b61114fdbcd6f340e68ab",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3475,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qXjACEIE",
+ "data": {
+  "system_settings": "Windows 7 Pro 64bits (build 7601)",
+  "client_settings": "Desktop Canary 29155",
+  "actual_result": "The 'e' letter does not render correctly",
+  "expected_result": "The \"maximize\" word is complete",
+  "short_description": "The word \"maximize\" in the right-click context of the title bar gets cut off when you reduce the window's size",
+  "steps_to_repro": "- Have Discord in fullscreen - Click the \"restore down\" button - Right click the title bar"
+ }
+}

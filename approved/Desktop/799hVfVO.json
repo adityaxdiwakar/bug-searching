@@ -1,0 +1,30 @@
+{
+ "id": "5b005cd6afbff2bfdd243f64",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2020,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/799hVfVO",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.4",
+  "client_settings": "Discord Canary 0.0.191 (Build 15598)",
+  "actual_result": "It doesn't get cached. There is only a workaround to get the user instantly cached by removing the space between the search filter and the user input (`from:{user}` instead `from: {user}`)",
+  "expected_result": "The user should get instantly cached when typing the name.",
+  "short_description": "Search doesn't cache users when searching for them",
+  "steps_to_repro": "- Open the search for any server (very big server like Discord Testers is better) - Use the `mentions:` or `from:` filter - Start typing the name of any user that might be uncached (you could find some old user names with bug bot's messages) - Observe the user suggestions to search for"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bbaf20b259c8d8b22cf5051",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2127,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RxP3ry4B",
+ "data": {
+  "system_settings": "OnePlus 6 (Version 9.0)",
+  "client_settings": "Discord Alpha 7.6.3",
+  "actual_result": "The \"Delete\" text turns white/invisible/vanishes",
+  "expected_result": "You get removed from the Screen or the Option collapses, as you are unable to delete the Role twice",
+  "short_description": "\"Delete\" text turns white/invisible in Channel Permission Overrides when the same role/user is removed by another user",
+  "steps_to_repro": "- Create a Channel that has a Permission Override with a Role or User - View this Override on your Phone (Edit Channel > Permissions > Role/User in question) and click on the three dots to bring up the Delete option - Delete the Override on a different client or tell another User to do so - Observe"
+ }
+}

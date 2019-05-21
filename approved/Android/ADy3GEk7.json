@@ -1,0 +1,30 @@
+{
+ "id": "5b1ac1620514cfdc993892b5",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1510,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ADy3GEk7",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.9",
+  "actual_result": "Discord crashes",
+  "expected_result": "Nothing should happen. The button shouldn't even be there in the first place",
+  "short_description": "Scrolling down in channel list of a server and then switching to another server with unread messages in the first channels only will crash Discord upon tapping the New Unreads button",
+  "steps_to_repro": "- Have two servers A and B with a lot of channels. There is one requirement: the server A mustn't have any uncategorized channels. It is easier to repro in Landscape mode as there is less channels in sight. - In the server A, have all channels marked as read except the second one in the list (might work for first channel but inconsistent for me). It is important that no unread channel is present at the bottom - Switch to server B - Scroll all the way down in the channel list - Switch to server A. You should see the New Unreads button at the top (appearing for no reason but whatever) - Tap on it"
+ }
+}

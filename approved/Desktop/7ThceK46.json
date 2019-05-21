@@ -1,0 +1,17 @@
+{
+ "id": "5b5f065d277098247e2d6860",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2508,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7ThceK46",
+ "data": {
+  "system_settings": "Win 10 x64, 17134, Chrome  67.0.3396.99",
+  "client_settings": "Canary 20174",
+  "actual_result": "You can see the blue border of the animation",
+  "expected_result": "The movements should me snooth and the animation borders should not be visable",
+  "short_description": "When going to the /company page, the \"jetpack wumpus'\" movements are visable",
+  "steps_to_repro": "- Go to /company (Discord Domain first )- Scroll down untill you see the \"jetpack wumpus\""
+ }
+}

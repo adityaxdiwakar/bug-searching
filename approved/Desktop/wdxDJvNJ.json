@@ -1,0 +1,30 @@
+{
+ "id": "596ee26efd51407b3b263703",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 866,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wdxDJvNJ",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Discord Canary 0.0.158",
+  "actual_result": "The hidden channels are moved between the visible channels",
+  "expected_result": "The channel is moved to where the user specifies",
+  "short_description": "Channels seem to randomly swap places if a user moves a channel, while also not having permission to view others",
+  "steps_to_repro": "- Create multiple channels that are only visible to a certain role or user - a user that cannot see these channels moves another channel"
+ }
+}

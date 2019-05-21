@@ -1,0 +1,17 @@
+{
+ "id": "5b4f7b051d7a2ae4c8970d63",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2302,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FQ2OxkFW",
+ "data": {
+  "system_settings": "Windows 10 Pro (64-bit), Creators Update (v1709, Build 16299.371)",
+  "client_settings": "Canary 0.0.211 (Build 19091)",
+  "actual_result": "The bot tag immediately touches the username with no spacing.",
+  "expected_result": "The bot tag having proper spacing and height.",
+  "short_description": "The bot tag in the members list touches usernames",
+  "steps_to_repro": "- Go to a server with bots in the server. - Scroll to these bots. - Observe the bot tag."
+ }
+}

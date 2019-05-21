@@ -1,0 +1,29 @@
+{
+ "id": "584edc517fcf7e6d2ae5e06b",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 134,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FZUs4OJu",
+ "data": {
+  "system_settings": " Android 5.0, Galaxy S5 ",
+  "actual_result": "It shows the text and the link making it untappable. System Settings: Android 5.0, Galaxy S5",
+  "expected_result": "The text becomes a link that is tappable.",
+  "short_description": "Markdown does not work in embeds",
+  "steps_to_repro": "- Send an embed with a markdown for a link "
+ }
+}

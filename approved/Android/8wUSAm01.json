@@ -1,0 +1,17 @@
+{
+ "id": "59a2a5289dfaa926dd96fa20",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 664,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8wUSAm01",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.1.1 (506)",
+  "actual_result": "The \"Sync across clients.\" option is switched back on for all 3 categories",
+  "expected_result": "The \"Sync across clients.\" option should remain disabled",
+  "short_description": "Syncing options reset when re-logging into your account",
+  "steps_to_repro": "- Go to User Settings and disable the \"Sync across clients.\" option for Text & Images, Appearance and Language - Press the Log Out button located in the top right corner of the display - Log back into your account and notice that the \"Sync across clients.\" option is switched on for all 3 categories"
+ }
+}

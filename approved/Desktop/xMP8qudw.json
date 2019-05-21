@@ -1,0 +1,30 @@
+{
+ "id": "59ea09a6c28e583ce1e59544",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1294,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xMP8qudw",
+ "data": {
+  "system_settings": "Windows 10 Home 64 bit",
+  "client_settings": "Windows 10, Stable 0.0.298",
+  "actual_result": "Search text will go up on first input, as if you went on a new line, App will crash on second input",
+  "expected_result": "first input should be printed as single character, second input should be printed without crashing the app",
+  "short_description": "App crashes when input is an empty dead key (press dead key once then enter) followed by two dead key in the search tool",
+  "steps_to_repro": "- Find keys that requires to get pressed twice such ^, \u00a8 and '`'- Go to search and spam it, till there is a lot of multi lines.- (check the gif if you wish) https://i.imgur.com/EsX3lZ0.gifv"
+ }
+}

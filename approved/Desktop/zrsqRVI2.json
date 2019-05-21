@@ -1,0 +1,24 @@
+{
+ "id": "59bd5ac28a8349ccc1d60829",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1144,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zrsqRVI2",
+ "data": {
+  "system_settings": "Windows 10 Home (Version 1703)",
+  "client_settings": "Discord Canary 0.0.163, build 4358.",
+  "actual_result": "The menu does not update/close and I can still jump to the message.",
+  "expected_result": "The search menu updates/closes when the channel where it's searching in is deleted, thus preventing the user from jumping to a message in a deleted channel.",
+  "short_description": "Searching for a message in a channel that's not yet deleted, then deleting the channel on another device, and then jumping to the message, reopening the channel will crash discord.",
+  "steps_to_repro": "- Search for a message in a channel - delete the channel on another device ***(the device used in the attachment is not a VM, but teamviewer for android)*** Press 'jump' on the message - See the loading channel load for ever - Go to a random server - Go back to the server where you deleted the channel."
+ }
+}

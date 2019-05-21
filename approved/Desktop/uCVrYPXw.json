@@ -1,0 +1,17 @@
+{
+ "id": "5a3c43fdf2ad09ab32c25529",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1484,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/uCVrYPXw",
+ "data": {
+  "system_settings": "Windows 10 x64 version 1709 build 16299.125 / Steam version 1513371133 / Rivatuner 7.0.",
+  "client_settings": "Canary 0.0.189, en-EN (Tested Games are Saints Row 3 and 4 )",
+  "actual_result": "Is impredecible, but Discord Overlay not Showing and Steam/Rivatunner working and viceversa are the most common ones. Also both can stop working.",
+  "expected_result": "Overlay showing without messing with the game/Rivatunner Info",
+  "short_description": "The Discord overlay will \"fight\" with other overlay software, causing certain game features/utilites to stop working",
+  "steps_to_repro": "- With MSI Afterburner or Steam installed, check if you can open the Steam Overlay or see the In Game Rivatuner info - Try to open the Discord Overlay"
+ }
+}

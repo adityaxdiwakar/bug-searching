@@ -1,0 +1,30 @@
+{
+ "id": "5b218f7e51845fbe38535d19",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2135,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/R0pb6qfg",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.211, Build 16907",
+  "actual_result": "Your cache is reset like you just installed the app",
+  "expected_result": "Your previous cache is kept intact after updating",
+  "short_description": "Cache cleared on updating",
+  "steps_to_repro": "- Fully close out of Discord Canary - Open the app and have it update to 0.0.211 (build 16907)"
+ }
+}

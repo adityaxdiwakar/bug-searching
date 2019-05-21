@@ -1,0 +1,30 @@
+{
+ "id": "5ad2bc7bba694f0bc905c241",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1281,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8STgVmty",
+ "data": {
+  "system_settings": "Android 7.0 - Motorola E\u2074",
+  "client_settings": "Android Alpha 6.4.9 (649)",
+  "actual_result": "The main image overlays the top right image",
+  "expected_result": "The main image thumbnail is purposely cut off to not overlay anything",
+  "short_description": "Embed images overlay the top right images",
+  "steps_to_repro": "- Create an embed with a main image and a top right image (bot, webhook, link, etc)"
+ }
+}

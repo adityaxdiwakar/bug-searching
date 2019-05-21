@@ -1,0 +1,30 @@
+{
+ "id": "598882ea2c2b98312e8bd1db",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 283,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PkkIvZhk",
+ "data": {
+  "system_settings": "iPhone 6S, iOS 10.3.3",
+  "client_settings": "TestFlight 1.8.9 (83)",
+  "actual_result": "Text won't be shown with boldness and just `**` before and after the text. This issue probably also applies for other Markdown formatting.",
+  "expected_result": "Text should be shown bold and not with \\*\\*",
+  "short_description": "Markdown formatting with linebreak (\\n\\n) in embed not shown",
+  "steps_to_repro": "- Use a bot with Discord rich embed - add boldness text with \\*\\* inside the bot's embed message - send the message in a chat and view it with an iOS device"
+ }
+}

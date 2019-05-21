@@ -1,0 +1,17 @@
+{
+ "id": "5bacdee8fd3eae5beedf7696",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2056,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/g63ZkNDt",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 Mini Android 6.0.1",
+  "client_settings": "7.5.6",
+  "actual_result": "it shows: set the afk channel to #(voice channel)",
+  "expected_result": "once you have expanded the change entry, it should show: set the afk channel to (voice channel) l",
+  "short_description": "[Audit Log] select voice channel as afk channel to puts a \"#\" in front of voice channel name",
+  "steps_to_repro": "- select a voice channel as afk channel - open audit log - expand entry -"
+ }
+}

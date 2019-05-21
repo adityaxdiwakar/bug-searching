@@ -1,0 +1,30 @@
+{
+ "id": "5a062c6ec6337cbd7c2274c5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1364,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pNGcAFxD",
+ "data": {
+  "system_settings": "Windows 10 Home x64 version 1703, Chrome Version 62.0.3202.89 (Official Build) (64-bit)",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 7010, Version Hash: 0a77992d4461ac2bd5e9eb2ddc7147f082f3459c",
+  "actual_result": "Every key you hit causes the YouTube video to bounce within the embed.",
+  "expected_result": "You are able to type and the YouTube video plays fine.",
+  "short_description": "Tabbing to chat and typing after clicking Youtube embed volume causes video to bounce. [Requires Chromecast/something you're able to cast to]",
+  "steps_to_repro": "- Open Discord web. - Find a YouTube video embed. - Start it. - Click on the volume button. - Hit tab 7 times so focus is now on text bar. - Type stuff."
+ }
+}

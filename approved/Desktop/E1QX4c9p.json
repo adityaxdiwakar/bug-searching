@@ -1,0 +1,30 @@
+{
+ "id": "5a5f43d1e7649465e924d4bf",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1552,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7224",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P0: Need an immediate fix",
+   "color": "red"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/E1QX4c9p",
+ "data": {
+  "system_settings": "PC, Windows 7 Professional",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 9587, Version Hash: 287033c755e0b326f6428f42d4f6c718c27ae51f",
+  "actual_result": "The Discord app will crash with the crash error in the Greek language",
+  "expected_result": "The Discord app should switch to the Greek language",
+  "short_description": "When someone wants to switch language, if he choose the Greek language the client will crash, no matter what",
+  "steps_to_repro": "- Go to User Settings - Go to Language - Select the Greek language"
+ }
+}

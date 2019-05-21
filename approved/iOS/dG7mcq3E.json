@@ -1,0 +1,15 @@
+{
+ "id": "580fe282cb7957fb665f45c1",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 44,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dG7mcq3E",
+ "data": {
+  "actual_result": "Discord behaves as it did before the \"reload\" until the app is restarted",
+  "expected_result": "Discord reloads with the new update",
+  "short_description": "Reload doesn't reload",
+  "steps_to_repro": "- Download Discord from app store - Open Discord and login - Update Discord via TestFlight - Open Discord - Wait for reload popup - Click Reload "
+ }
+}

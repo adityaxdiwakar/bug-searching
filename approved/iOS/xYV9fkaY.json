@@ -1,0 +1,17 @@
+{
+ "id": "5b8a800eedae0a446107a8a8",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 962,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xYV9fkaY",
+ "data": {
+  "system_settings": "iPhone 8 Plus, iPad Air 2 - iOS 12 Public Beta 10",
+  "client_settings": "TestFlight 2.3.7 (6968)",
+  "actual_result": "You only see a still image and not the animation of the gif.",
+  "expected_result": "You should see the gif animation for the rich embed.",
+  "short_description": "Animation for gifs in embeds not shown",
+  "steps_to_repro": "- Create/receive an embed with a gif for the thumbnail, author, footer or the image of it - Observe it"
+ }
+}

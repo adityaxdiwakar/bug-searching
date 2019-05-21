@@ -1,0 +1,30 @@
+{
+ "id": "59a045de35be6c8a80373c7e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 654,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9w2zQNJT",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.1.0 (505)",
+  "actual_result": "The app crashes after a few seconds",
+  "expected_result": "You should return to the Server Settings",
+  "short_description": "App crashes when the back button is pressed while moving a channel",
+  "steps_to_repro": "- Go to a server which has more than 2 channels, make sure you have the Manage Channels permission - Go to Server Settings > Channels - Move a channel and keep your finger on it then press the back button located in the top left corner of your screen - Wait for the app to crash"
+ }
+}

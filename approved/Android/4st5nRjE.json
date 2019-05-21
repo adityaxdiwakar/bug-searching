@@ -1,0 +1,30 @@
+{
+ "id": "5b76bba32c95696a0f3705f1",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1845,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4st5nRjE",
+ "data": {
+  "system_settings": "Android 8.0 / S7",
+  "client_settings": "Not relevant",
+  "actual_result": "UI has default font, so Roboto in my case",
+  "expected_result": "UI uses Whitney",
+  "short_description": "In settings, Connections uses Roboto and not Whitney",
+  "steps_to_repro": "- Step 1: Go to User Settings - Step 2 - Click on Connections"
+ }
+}

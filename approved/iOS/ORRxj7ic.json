@@ -1,0 +1,17 @@
+{
+ "id": "599cfc66ddec3990549a5848",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 295,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ORRxj7ic",
+ "data": {
+  "system_settings": "iPhone 6 iOS 10.3.3",
+  "client_settings": "TestFlight 1.8.9",
+  "actual_result": "No way to talk in push to talk when this window is open",
+  "expected_result": "No one hears me",
+  "short_description": "When using the \"push to talk\" button of the arrow at the bottom right which allows us to have the list of members present in the living room, this one does not work",
+  "steps_to_repro": "- Open the menu that shows the salon members using the arrow at the bottom right of the screen - Press the \"Push-to-Talk\" button and ask someone if he hears you"
+ }
+}

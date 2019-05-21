@@ -1,0 +1,23 @@
+{
+ "id": "589dd591c24b57b12fc96383",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 377,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/m1C3iTeB",
+ "data": {
+  "system_settings": " Windows 10, Discord Canary.",
+  "actual_result": "Nothing happens.",
+  "expected_result": "Status shows you are playing overwatch.",
+  "short_description": "Some games are not properly being detected.",
+  "steps_to_repro": "- Launch Discord - Launch Overwatch "
+ }
+}

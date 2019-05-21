@@ -1,0 +1,30 @@
+{
+ "id": "5b7317378661eb7b89f65b50",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1834,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SNhZyojL",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.3.1",
+  "actual_result": "Even if they aren't links, embed title will always be blue on Android, while they are white on Desktop",
+  "expected_result": "Title should only be blue if it is actually a link. It is the case for GitHub webhooks or attached files for example",
+  "short_description": "Embed titles are always blue even if they aren't links",
+  "steps_to_repro": "- Send a simple embed with a title using a bot - Compare title between Android and Desktop"
+ }
+}

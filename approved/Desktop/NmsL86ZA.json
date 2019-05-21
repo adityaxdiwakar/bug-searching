@@ -1,0 +1,15 @@
+{
+ "id": "586484b3ca6c4d1b8ce02a23",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 294,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/NmsL86ZA",
+ "data": {
+  "actual_result": "There's a friend request button!?!?",
+  "expected_result": "No Friend request button should appear, maybe the menu shouldnt either",
+  "short_description": "You can still friend request a bot",
+  "steps_to_repro": "- Start a PM with any bot - Click the greyed out \"Call\" button - Click friend request "
+ }
+}

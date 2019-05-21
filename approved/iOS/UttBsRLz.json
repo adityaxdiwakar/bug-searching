@@ -1,0 +1,36 @@
+{
+ "id": "5a756e06a4eea286591f2865",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 560,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UttBsRLz",
+ "data": {
+  "system_settings": "iPhone 5s, iOS 10.0.1",
+  "client_settings": "Discord Canary 0.0.201 (Build 10189)",
+  "actual_result": "The invite appears as an ended listening party",
+  "expected_result": "The invite should appear like it does on Desktop and Web",
+  "short_description": "Inviting yourself to listen on Spotify, from Desktop, brings up \"The listening party is over!\"",
+  "steps_to_repro": "- Start Spotify and put on a song, on Desktop - Send an invite for others to listen to a song with you - Go to your iOS app, into the same channel - Observe the invite to listen along"
+ }
+}

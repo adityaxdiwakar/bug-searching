@@ -1,0 +1,30 @@
+{
+ "id": "596883e43b3514e9431000a0",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 548,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yXmAcaIq",
+ "data": {
+  "system_settings": "Samsung Galaxy S5, Android 5.0",
+  "client_settings": "Android Alpha 3.9.9",
+  "actual_result": "Blue background of \"BOT\" tag still shows, but \"OT\" is missing.",
+  "expected_result": "Goes to \"...\" and \"BOT\" tag displays in full or something",
+  "short_description": "Bot tag is cut off on long nicknames",
+  "steps_to_repro": "- invite a bot - give bot a nickname about the width of the user list - check user list"
+ }
+}

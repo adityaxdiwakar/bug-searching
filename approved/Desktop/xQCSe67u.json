@@ -1,0 +1,30 @@
+{
+ "id": "5a3261a40c525d078be3563f",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1456,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xQCSe67u",
+ "data": {
+  "system_settings": "Windows 7 Enterprise (x64/86?)",
+  "client_settings": "Discord Stable Desktop 0.0.298",
+  "actual_result": "Two gifs appears and one plays automatically while the other gets triggered by hovering",
+  "expected_result": "There should only be one gif that only plays when hovered over (normal behavour)",
+  "short_description": "When editing a message if you have a gif avatar it will show it twice with one playing and the other not",
+  "steps_to_repro": "- Have nitro avatar (transparent so you can see underneath) - send message - edit message"
+ }
+}

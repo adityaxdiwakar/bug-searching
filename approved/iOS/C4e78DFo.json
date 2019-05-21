@@ -1,0 +1,30 @@
+{
+ "id": "5b6c7d70f030f4443ab331d8",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 884,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/C4e78DFo",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 6",
+  "client_settings": "TestFlight 2.3.6 (6427)",
+  "actual_result": "Video is not saved to your phone's camera roll",
+  "expected_result": "Video should be saved to your phone's camera roll",
+  "short_description": "Recording and uploading a video using Discord doesn't save the video to your camera roll",
+  "steps_to_repro": "- Open the file manager and select \"Take a picture or video\" - Record a video and send it to a channel - Check your phone's camera roll for the video"
+ }
+}

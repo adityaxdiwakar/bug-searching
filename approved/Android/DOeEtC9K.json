@@ -1,0 +1,30 @@
+{
+ "id": "5bf4de7f59b4e28f8e34e1c5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2340,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DOeEtC9K",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.9.9",
+  "actual_result": "Server icon prior to saving is very stretched out both left and right.",
+  "expected_result": "Server icon prior to saving and after the saving should be the same.",
+  "short_description": "When uploading a server icon, the server icon in prior-saved screen is oddly off compared to the after-saved icon.",
+  "steps_to_repro": "- Create a new server, which would enable you to have \"Add a server icon\" model. - Click on it, and add a server icon of a screenshot from your phone. (Check the video, you will understand). - Then, it should lead you to \"Edit Photo\". Don't edit anything and press Save. - Now, you should be brought back to the server overview setting. Notice the server icon. - Save the changes. Notice the server icon again."
+ }
+}

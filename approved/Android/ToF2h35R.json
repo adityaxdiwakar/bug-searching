@@ -1,0 +1,24 @@
+{
+ "id": "59de87ed2410bdccde0b9557",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 807,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ToF2h35R",
+ "data": {
+  "system_settings": "android 6.0, huaweiP8Lite",
+  "client_settings": "Discord 5.3.3,",
+  "actual_result": "you cant do anything to remove them",
+  "expected_result": "clydes messages should have a delete option",
+  "short_description": "no delete button for clydes messages",
+  "steps_to_repro": "- send a message to a user who blocked you/hasnt shared a server with you, or has disable this for the server you share - try to delete the message with pressing on it a bit longer"
+ }
+}

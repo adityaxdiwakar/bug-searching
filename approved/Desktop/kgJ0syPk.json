@@ -1,0 +1,30 @@
+{
+ "id": "5bae9d315b15e21fdb227f04",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3059,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kgJ0syPk",
+ "data": {
+  "system_settings": "macOS 10.12.6",
+  "client_settings": "Canary Build 24972",
+  "actual_result": "You can't drag Discord around while it's on the loading screen",
+  "expected_result": "You should be able to drag Discord around",
+  "short_description": "You can't drag the main discord screen around when it's on the loading screen [macOS only]",
+  "steps_to_repro": "- Reload the client by pressing CMD + R - Wait until you see the spinning logo - Attempt to drag the window around"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5aa8be4133a8fe5249894469",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1194,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/19UQtbQt",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.3.6",
+  "actual_result": "The push notification remains and you have to remove it yourself",
+  "expected_result": "The push notification should be dismissed",
+  "short_description": "After recovering from a crash, Discord won't dismiss push notifications upon viewing channel",
+  "steps_to_repro": "- Close Discord - Get someone to DM you or mention you, in order to trigger a push notification - Open Discord, but don't open the channel you were mentionned in so the push notification is still here - Get Discord to crash (you can try to reproduce any crash bug reported recently since build 6.3.5, most of them are still valid in 6.3.6) - Re-open Discord, and open the channel you got mentionned in"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ae3c353f7b2eddd796c1701",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1896,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8RSmTk89",
+ "data": {
+  "system_settings": "iPhone 7 Plus, iOS 11.3.1",
+  "client_settings": "TestFlight 2.3.1 (4040)",
+  "actual_result": "The color doesn't show up with people's name and instead makes people's name white",
+  "expected_result": "The color from the role should appear with their name",
+  "short_description": "When you're looking at someones name in chat, their corresponding role color doesn't appear with their name (this happens very rarely)",
+  "steps_to_repro": "- Find someone in a random server in chat that has a role with a color attached to it (this doesn't apply to roles with the default color) - Obverse their name"
+ }
+}

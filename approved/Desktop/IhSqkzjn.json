@@ -1,0 +1,30 @@
+{
+ "id": "5a1b124fade4736aef3f0ce2",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1399,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IhSqkzjn",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS, Asus Netbook F551C, Intel Core i3 64bits",
+  "client_settings": "Discord Canary 7653",
+  "actual_result": "The channels are actually marked as read, but the unread indicators will stay until your refresh Discord with Ctrl+R",
+  "expected_result": "All channels in the server are marked as read and all unread indicators will go away instantly",
+  "short_description": "When you mark a whole server as read, the unread white dot indicators won't diseappear until you Ctrl+R Discord",
+  "steps_to_repro": "- Find a server with many unread channels - Right click on server icon and \"Mark as Read\". Only reproducable for servers, not for channels or categories"
+ }
+}

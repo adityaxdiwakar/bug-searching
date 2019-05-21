@@ -1,0 +1,16 @@
+{
+ "id": "58f8cf60937f8613a38e08a9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 508,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Qqsd6oeI",
+ "data": {
+  "system_settings": " Windows Home x64 Latest Discord Canary",
+  "actual_result": "Only text color changes",
+  "expected_result": "Background of role list items change background",
+  "short_description": "Role list items do not change background upon hover",
+  "steps_to_repro": "- Hover over items in the role list "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a31c242e9d43644bda66375",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 451,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KVSdLsDY",
+ "data": {
+  "system_settings": "iPhone 6s Plus, iOS 11.2 (15C114)",
+  "client_settings": "TestFlight 2.2.0 (1910)",
+  "actual_result": "Status bar stays",
+  "expected_result": "Status bar disappears",
+  "short_description": "Channel/Server selector shows status bar on top",
+  "steps_to_repro": "- Swipe right/open the channel/server selector"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a5fb7c178ba95c256f0ec33",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1043,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/V2J1fe0n",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.1.0",
+  "actual_result": "It only suggests you the system emote",
+  "expected_result": "It should suggest you both system and custom version of the emote",
+  "short_description": "Custom emojis that have the same name as native ones won't be suggested in autocompletion",
+  "steps_to_repro": "- In a server where you have manage emoji permissions, create a custom (non-animated) emoji called \\:potato\\: - in the chat box, type :potat"
+ }
+}

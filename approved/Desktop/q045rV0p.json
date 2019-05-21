@@ -1,0 +1,24 @@
+{
+ "id": "5973c5facaa4a6a79924b457",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 881,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/q045rV0p",
+ "data": {
+  "system_settings": "windows 7 ultimate x64 , firefox version: 54.0.1 (32-bit)",
+  "client_settings": "2479 (stable)",
+  "actual_result": "theres a row of white pixels",
+  "expected_result": "there wont be any rows of white pixels",
+  "short_description": "when u enter discord on the firefox browser and go to the friends tab/settings/channels theres a row of white pixels http://i.imgur.com/nWRvQuU.png",
+  "steps_to_repro": "- go to user settings - look at the tab thing u can see it in the image atleast -"
+ }
+}

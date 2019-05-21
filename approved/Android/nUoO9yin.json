@@ -1,0 +1,17 @@
+{
+ "id": "5943990cde66d38bca789d8e",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 508,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nUoO9yin",
+ "data": {
+  "system_settings": "Android Marshmallow 6.1, Samsung Galaxy J5 (2016) SM-J510FN.",
+  "client_settings": "Discord Alpha 3.9.1 (389)",
+  "actual_result": "When you paste the link, Discord toll you \"404: Not Found\"",
+  "expected_result": "You a server without problem",
+  "short_description": "Invitation doesn't work if me use a link (like <https://discord.gg>)",
+  "steps_to_repro": "- Go to one server where you can create invite. - Share it (your invite shall follow this format: <<https://discord.gg/THE_CODE>>). - Click on the `+`, \"Join the Server with an Invite Link\". - Paste the link."
+ }
+}

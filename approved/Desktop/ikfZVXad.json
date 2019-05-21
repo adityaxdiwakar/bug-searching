@@ -1,0 +1,30 @@
+{
+ "id": "5afb38e986831e713e11f163",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1995,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ikfZVXad",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS, Asus Netbook F551C, Intel Core i3 64bits",
+  "client_settings": "Discord Canary 15268",
+  "actual_result": "It's always highlighted/darkened",
+  "expected_result": "It should be darkened/highlighted only if hovered over like other users",
+  "short_description": "First user in the list for adding people to group DMs is always darkened/highlighted even if the mouse isn't hovering over it",
+  "steps_to_repro": "- Go to Friends tab - Click the square with pencil icon at top right - Observe the first user in the list"
+ }
+}

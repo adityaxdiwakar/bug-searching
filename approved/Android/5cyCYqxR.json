@@ -1,0 +1,30 @@
+{
+ "id": "5b626cf5908b6855d5d8c6d6",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1756,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5cyCYqxR",
+ "data": {
+  "system_settings": "Samsung Galaxy S7, Android 8.0",
+  "client_settings": "Discord 7.1.8 Stable",
+  "actual_result": "Glitches out and displays both the content of the NSFW channel and your friends list",
+  "expected_result": "Returns to the friends list just fine",
+  "short_description": "When clicking no on NSFW warnings, the client glitches out when returning to friends list",
+  "steps_to_repro": "- Go to a channel marked as NSFW - Say \"nope\" to the NSFW warning - observe"
+ }
+}

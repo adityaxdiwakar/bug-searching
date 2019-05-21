@@ -1,0 +1,36 @@
+{
+ "id": "5ab114df520147d9a625a768",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1745,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860c4568c30e25f1e54643",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "text chat",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cPncJb9E",
+ "data": {
+  "system_settings": "Win 7 x32, Win 7 x64, Win 10 x64, Chrome Dev 67.0.3371.0, Firefox 59.0.1, iOS 11.3.6b",
+  "client_settings": "Multiple - Canary 12324, PTB 12328, Stable 12336, iOS Testflight 2.2.5 (3054)",
+  "actual_result": "Text is stylized with an extra / before the port",
+  "expected_result": "Text should be stylized as sent",
+  "short_description": "URL text is mutated in a specific situation",
+  "steps_to_repro": "- Send text containing a URL with a non-numeric port"
+ }
+}

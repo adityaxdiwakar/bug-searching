@@ -1,0 +1,22 @@
+{
+ "id": "58640067a9ab5ca6d77a2040",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 144,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QhouuEd5",
+ "data": {
+  "actual_result": "The chat part is stuck in the middle and you can see half of the User status and Channel selection parts. You have to select a channel to return discord to normal.",
+  "expected_result": "Discord opens normally",
+  "short_description": "Discord chat gets stuck halfway across the screen when you come back to the app",
+  "steps_to_repro": "- Open any discord chat - Open any other app - Go back to the Discord App "
+ }
+}

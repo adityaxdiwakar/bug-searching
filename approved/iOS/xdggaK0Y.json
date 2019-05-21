@@ -1,0 +1,24 @@
+{
+ "id": "5bcc43e032687935e1082190",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1102,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xdggaK0Y",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.9 (8441)",
+  "actual_result": "The days at the end of the previous month count down",
+  "expected_result": "The days at the end of the previous month count up correctly",
+  "short_description": "Dates in calendar in search go backwards at the end of the previous month (iPhone/iPod only)",
+  "steps_to_repro": "- Go to a random server/DM - Tap on search and tap before/after/during - Go to a month that started later in the week - Observe the days of the previous month in the calendar"
+ }
+}

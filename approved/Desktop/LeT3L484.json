@@ -1,0 +1,30 @@
+{
+ "id": "5ac378b9e0778c46843325db",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1787,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LeT3L484",
+ "data": {
+  "system_settings": "iPhone 8 +, iOS 11.3 (PB6)",
+  "client_settings": "Discord TestFlight 2.2.7 (3519)",
+  "actual_result": "Friend A stays in the original position.",
+  "expected_result": "Friend A automatically gets moved to the new position.",
+  "short_description": "After an user changes their username, they are left in the current position that they were in previously instead of the new position.",
+  "steps_to_repro": "- Have a server with multiple people. - Have Friend A to change their username to be on top of the server list or the bottom of the server list. - Observe your server member list."
+ }
+}

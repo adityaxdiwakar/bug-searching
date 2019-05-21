@@ -1,0 +1,24 @@
+{
+ "id": "59904b1fa499af0ee87bc80e",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 986,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/K1leGqMd",
+ "data": {
+  "system_settings": "Windows, Firefox 54.0.1",
+  "client_settings": "Build Number: 3183",
+  "actual_result": "The bar by default is taller in Firefox compared to other browsers. There is no styling on the scrollbar in Firefox (compared to the message history scroll bar, or other panels)",
+  "expected_result": "The message bar height should be the same height on all browsers, and the scrollbars should have the proper styling to not be obscured by the Emoji picker.",
+  "short_description": "The message bar styling is broken",
+  "steps_to_repro": "- Open Discord in Chrome, observe the message bar height. - Open Discord in Firefox, observe the message bar height. Start typing until text reaches the Emoji picker right before it starts to flow into a new line. The bar height now changes to the proper height. - Open Discord in Chrome. Type some text, or paste a large amount of text until the scroll bar appears. Observe that the scroll bar is thin and is not obscured by the Emoji picker. - Open Discord in Firefox. Type some text, or paste a large amount of text until the scroll bar appears. Observe that the scroll bar obscured by the Emoji picker."
+ }
+}

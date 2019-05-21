@@ -1,0 +1,30 @@
+{
+ "id": "5b0f2c96289592b22557064d",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2067,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9QTtHKTA",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Release Channel: stable, Build Number: 16234, Version Hash: 7baf7542f6a7e89f350dd0ae187accdb88fc7a35",
+  "actual_result": "The box is clickable to give the role to the user but no text appears",
+  "expected_result": "The role on the top should have its text present so you can identify what it is",
+  "short_description": "On 200 zoom, when attempting to add a role to a user by clicking on their profile then the plus sign, the role on the top of the list has no text shown and only part of the box.",
+  "steps_to_repro": "- Set zoom to 200 - click on a user's profile - click the plus sign to add a role - move your mouse over the top of the list"
+ }
+}

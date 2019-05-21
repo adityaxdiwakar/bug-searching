@@ -1,0 +1,22 @@
+{
+ "id": "586dadffedb715703213493b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 165,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I0QxOSgt",
+ "data": {
+  "actual_result": "The role gets tagged instead. http://i.imgur.com/pXDVbgl.png",
+  "expected_result": "You tag the user.",
+  "short_description": "When trying to tag someone, if there's a tag-able role with the name as the user or a part of the user, it tags the role instead of the user",
+  "steps_to_repro": "- Create a role with the same name as a user (or the beginning part of his name) - Try to tag said user. "
+ }
+}

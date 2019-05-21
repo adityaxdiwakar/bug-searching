@@ -1,0 +1,30 @@
+{
+ "id": "5a0e8f37de91734c716dd505",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 905,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/55v0YfRO",
+ "data": {
+  "system_settings": "LG X Power, Android 6.0.1.",
+  "client_settings": "Android Alpha v5.6.9.",
+  "actual_result": "The Image gives Unable to load file, and you have to sometimes restart your device for it to work.",
+  "expected_result": "The image should upload",
+  "short_description": "Uploading a picture you just took IN-APP Gives Unable to load file (5.6.9. ONLY)",
+  "steps_to_repro": "- Take a picture in-app - Press send - Watch with your magical bug-seeking eyeballs"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "586b0cb3ddfef49548cbb4f4",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 300,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PSmrjF3O",
+ "data": {
+  "actual_result": "Redirect is treated as a static image",
+  "expected_result": "Identical embeds",
+  "short_description": "301 Redirected Embeds don't use redirected URL for creating embed",
+  "steps_to_repro": "- compare embed for http://khionu.net/ - to embed for http://i.imgur.com/w3S6QZ4.gif "
+ }
+}

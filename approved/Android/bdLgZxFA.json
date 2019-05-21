@@ -1,0 +1,17 @@
+{
+ "id": "599bf4bb6f78919646b3c7d2",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 641,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bdLgZxFA",
+ "data": {
+  "system_settings": "Android 5.1.1",
+  "client_settings": "Discord 4.0.8 (503)",
+  "actual_result": "the tab gets stuck and no matter what server you go it keeps with the same channels",
+  "expected_result": "you should be taken to your friends list",
+  "short_description": "After leaving a server you cant see other channels",
+  "steps_to_repro": "- Be in a server with the server list open in the left - Leave the server"
+ }
+}

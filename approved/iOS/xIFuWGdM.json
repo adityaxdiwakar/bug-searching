@@ -1,0 +1,24 @@
+{
+ "id": "5b9e883ea8baee396799b4cd",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1018,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xIFuWGdM",
+ "data": {
+  "system_settings": "iPhone X, iOS Developer Beta 12",
+  "client_settings": "TestFlight 2.3.7 (6968)",
+  "actual_result": "Bottom bar overlaps the bottom permission option",
+  "expected_result": "Bottom bar should not overlap any options on screen",
+  "short_description": "[iPhone X/XS/XS Max] Bottom bar overlaps permission option",
+  "steps_to_repro": "- Open Server Settings - Tap 'Roles', and then any role - Tap 'General Permissions' - Scroll down to the bottom - Observe the bar at the bottom"
+ }
+}

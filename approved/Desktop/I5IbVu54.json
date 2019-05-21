@@ -1,0 +1,42 @@
+{
+ "id": "5aaa380a90caa639a441b224",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 1739,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a860c47f5d021f87f1e5a36",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Images",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I5IbVu54",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.203, Build 12072",
+  "actual_result": "Discord throws a Uncaught (in promise) DOMException error in the console",
+  "expected_result": "No error is produced in the console",
+  "short_description": "Passing your mouse quickly over a gif (Tested with Imgur, Tenor, Giphy) throws a Uncaught (in promise) DOMException error in the console",
+  "steps_to_repro": "- Disable auto play gifs in User Settings > Text & Images - Post a gif from Imgur, Tenor, or Giphy - Open your console - Switch to another server or channel - Switch back to the channel and quickly pass your mouse over the gif (You will have to switch to another channel/server & back if you fail the first attempt)"
+ }
+}

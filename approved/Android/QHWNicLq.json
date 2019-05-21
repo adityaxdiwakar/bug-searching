@@ -1,0 +1,30 @@
+{
+ "id": "5adf14f8ae8d859366ed39ba",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1316,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QHWNicLq",
+ "data": {
+  "system_settings": "Samsung Note II Android 4.4.2",
+  "client_settings": "Discord Beta 6.5.6",
+  "actual_result": "It says \"Crap, we dropped the magnifying glass. Uh... can you try searching again?\", which implies something went wrong or it didn't match anything.",
+  "expected_result": "Shows the messages that were sent by `Zaem#0596`.",
+  "short_description": "Incorrect result of search feature  when repeating terms(has,  in,  and more)",
+  "steps_to_repro": "-Tap on search button in a channel.- Search for anything with repeated option(`from`), for example `from:Zaem#0596 from:Zaem0596`.- Start searching."
+ }
+}

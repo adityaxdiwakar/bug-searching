@@ -1,0 +1,17 @@
+{
+ "id": "5ac28d3b30842e7968367675",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1239,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/D06O0fOX",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 6.4.6",
+  "actual_result": "your able to access it",
+  "expected_result": "you shouldn't be able to access that screen or have that option",
+  "short_description": "Can access the Manage User on your profile without permissions",
+  "steps_to_repro": "- be in a server where you have no permission - open your mini profile - click Manage User - observe that you can view all the roles"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "580fe2bca2b520554221e4d4",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 45,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/oSa2u8zT",
+ "data": {
+  "system_settings": " iOS 9.1 iphone 5 ",
+  "actual_result": "It shows the old one. System Settings: iOS 9.1 iphone 5",
+  "expected_result": "Should show the new modal.",
+  "short_description": "When trying to ban through the member list in the server settings the new modal doesn't show up",
+  "steps_to_repro": "- open the server settings and go to the members tab - try to ban someone "
+ }
+}

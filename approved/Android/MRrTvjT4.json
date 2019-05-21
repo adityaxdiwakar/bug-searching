@@ -1,0 +1,23 @@
+{
+ "id": "5892910e997a8ec8f5003ebd",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 209,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MRrTvjT4",
+ "data": {
+  "system_settings": " Samsung Note 5 Android 6.0.1 Discord Alpha 3.3.1",
+  "actual_result": "Upload button overlaps the text you are typing",
+  "expected_result": "Upload Icon won't block text",
+  "short_description": "Image upload icon blocks text when typing",
+  "steps_to_repro": "- Upload an image - Type text in the box - make sure the text goes past the upload button "
+ }
+}

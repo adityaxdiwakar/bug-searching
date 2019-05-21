@@ -1,0 +1,24 @@
+{
+ "id": "5bbd6be136779433ed6c61ee",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3135,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/v6EjUDCR",
+ "data": {
+  "system_settings": "Windows 10, 1803",
+  "client_settings": "Release Channel: stable, Build Number: 25638, Version Hash: f15ca06af6585c4876517507b671eec2b4b70ddb",
+  "actual_result": "There is no audio output, the green circle appeared on others, but no voice. A Javascript error appeared on the console.",
+  "expected_result": "There should be an audio output from others' voice.",
+  "short_description": "No Voice Output on Chrome Canary",
+  "steps_to_repro": "- Update Chrome to latest (as now 71.0.3574.0) - Open Discord browser client - Join voice channel call in any server"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5a3c780575bf310d6e0a034b",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 985,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qCgqXbdk",
+ "data": {
+  "system_settings": "Moto E 2nd Generation, Android 5.1",
+  "client_settings": "Android Alpha 5.9.3",
+  "actual_result": "Gibberish appears",
+  "expected_result": "Username should appear in the kick dialog",
+  "short_description": "Username becomes Gibberish in Kick",
+  "steps_to_repro": "- Go to your server where you are an admin or have manage member role - click on someone, then kick - observe"
+ }
+}

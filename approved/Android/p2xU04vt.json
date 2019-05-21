@@ -1,0 +1,29 @@
+{
+ "id": "590d2be4074d8403deb42c4f",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 438,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "5b93137a3c317b364f402faf",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Split Screen Bugs",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/p2xU04vt",
+ "data": {
+  "system_settings": " Stock Android 7.1.2, Discord v3.8.2",
+  "actual_result": "The emoji box displays but the message box does not",
+  "expected_result": "The message box along with the keyboard toggle to switch back to keyboard mode and send messages would be active.",
+  "short_description": "When the Discord app is half split screen and the emoji picker is active, the message box does not appear at the top along with the toggle to return to keyboard mode",
+  "steps_to_repro": "- Using Android N's split screen feature put Discord at the top or bottom half of the screen - Open emoji picker "
+ }
+}

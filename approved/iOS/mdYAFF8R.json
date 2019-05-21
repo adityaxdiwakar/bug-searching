@@ -1,0 +1,30 @@
+{
+ "id": "5b9572b19117bc5a6c975282",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 992,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mdYAFF8R",
+ "data": {
+  "system_settings": "iPhone 8 Plus, iPad Air 2 - iOS 12 Public Beta 10",
+  "client_settings": "TestFlight 2.3.8 (7106)",
+  "actual_result": "The linebreak is not shown, the 2 lines are shown in one line without any space.",
+  "expected_result": "The linebreak between the different lines should be shown.",
+  "short_description": "Linebreaks not shown when there are at least 2 spaces before it",
+  "steps_to_repro": "- Write a message with the following conditions - First any text (e.g. `Test`) - Then at least 2 spaces in the same line - Now add a line break by clicking return - Add another text (e.g. `Test 2`) - Send the message"
+ }
+}

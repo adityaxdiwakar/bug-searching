@@ -1,0 +1,17 @@
+{
+ "id": "5bcec6efb1ee553757613362",
+ "closed": false,
+ "idList": "5bce5ef037eb6904d727c502",
+ "idShort": 2226,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1ypDRM4t",
+ "data": {
+  "system_settings": "OnePlus 5 Android 8.1",
+  "client_settings": "Discord Alpha 7.7.8",
+  "actual_result": "You get push notifications even though you are DND",
+  "expected_result": "You are not supposed to be able to get push notifications",
+  "short_description": "Changing status to do not disturb still gives you push notifications",
+  "steps_to_repro": "- Change status to do not disturb - Close the app - Observe how you still get push notifications"
+ }
+}

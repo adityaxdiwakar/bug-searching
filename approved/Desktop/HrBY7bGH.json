@@ -1,0 +1,17 @@
+{
+ "id": "5b4f7b6766dd0bad3aad3d53",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2303,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/HrBY7bGH",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (19091)",
+  "actual_result": "It does not jump to the message unless you click on the button itself",
+  "expected_result": "It's supposed to jump even if you don't directly click on jump like how it is on stable",
+  "short_description": "You can't jump to messages unless you click on the \"jump\" button itself compared to Stable/PTB",
+  "steps_to_repro": "- Go to pins - Attempt to click anywhere on the message to jump - Observe it not jumping unless you click on \"Jump\" like on stable"
+ }
+}

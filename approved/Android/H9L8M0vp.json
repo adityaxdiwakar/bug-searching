@@ -1,0 +1,30 @@
+{
+ "id": "5be6ef33f9c48c858de1e2d0",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2299,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/H9L8M0vp",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.8.8",
+  "actual_result": "Category names cross over notification info and touch the border of the screen",
+  "expected_result": "No overlaps and overflows",
+  "short_description": "Long category names cause horrible overlaps and overflows to happen in notification overrides",
+  "steps_to_repro": "- Create a category wity a very long name - Create a few channels in it - Change notification settings for some of these channels - Go to server notification settings - Scroll down to see the list of notification overrides"
+ }
+}

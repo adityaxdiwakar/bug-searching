@@ -1,0 +1,30 @@
+{
+ "id": "5a22b0315a0a80778b07d3b9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1420,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6lnfH3HE",
+ "data": {
+  "system_settings": "Windows 8 Pro",
+  "client_settings": "Stable, Build Number: 7889, Version Hash: cf800cf234d7c0d7baca06d44ac1681225e8e594",
+  "actual_result": "Picture zooms after saving changes ->",
+  "expected_result": "Picture should stay as it's displayed even after pressing save changes",
+  "short_description": "Splash art automatically zooms in on some servers",
+  "steps_to_repro": "- Upload a 1920x1080 picture as splash - Save changes"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5bd14d98a43d910babb449a4",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1109,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7074E161",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 4",
+  "client_settings": "TestFlight 2.4.0 (8616)",
+  "actual_result": "Audit log shows the user who did the action in both spots",
+  "expected_result": "Entry shows both usersA",
+  "short_description": "Users actions in audit logs show the same user for doing the action and receiving the action",
+  "steps_to_repro": "- Go to a server where you can view the audit log - Have a bot update roles for a user, or update roles for another user - Go into the audit log and view the entry about updating roles"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5972f693675df5dfbfdc3079",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 873,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QO4tWFpU",
+ "data": {
+  "system_settings": "Win 10 Pro x64 v1607",
+  "client_settings": "Desktop Canary 0.0.161",
+  "actual_result": "The markdown is parsed and the link is clickable, and upon being clicked will take you to the current channel in the browser version",
+  "expected_result": "The \"Search for\" dropdown shouldn't parse the markdown",
+  "short_description": "Link markdown in the search box leading to nothing opens the current channel in browser",
+  "steps_to_repro": "- Type the following in the search bar, without searching it: [Test]()"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5baa30ecc64d411a24d967fe",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3030,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DO29x6ba",
+ "data": {
+  "system_settings": "Windows 10 Home SL x64",
+  "client_settings": "Canary 24580",
+  "actual_result": "it resets every time you open the overlay",
+  "expected_result": "it should remember the opacity setting",
+  "short_description": "opacity resets every time you open overlay",
+  "steps_to_repro": "- open a game. open the overlay and check everything. - click show window in game. adjust the opacity. - close the overlay and the game. repeat step 1 and 2 but observe the opacity setting."
+ }
+}

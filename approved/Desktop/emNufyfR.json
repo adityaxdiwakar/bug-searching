@@ -1,0 +1,17 @@
+{
+ "id": "5b7ec02ccd6d7a3948073510",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2772,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/emNufyfR",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "N/A (cross-platform). Personally tested on Discord Alpha 7.4.0 (Android client)",
+  "actual_result": "ALL embeds will break, even those that aren't explicit",
+  "expected_result": "Only the embed detected as explicit shouldn't show up",
+  "short_description": "[Cross platform bug] If you post several links in the same message, if only ONE link has an embed detected as explicit, then ALL embeds will break",
+  "steps_to_repro": "- Be in a channel where you have Embed Links permissions, and where explicit content filter is enabled  - In the same message, post several links that produce an embed each, with ONE link that's gonna be detected as explicit - Send the message in chat"
+ }
+}

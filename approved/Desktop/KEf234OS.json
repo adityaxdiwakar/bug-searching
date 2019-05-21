@@ -1,0 +1,17 @@
+{
+ "id": "5b15b1fcdbfc5ddf4b71ae2b",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2095,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KEf234OS",
+ "data": {
+  "system_settings": "Windows 7 SP 1",
+  "client_settings": "Canary 16445",
+  "actual_result": "Edit menu opens and then closes after the changes you made before apply",
+  "expected_result": "Edit menu should open normally",
+  "short_description": "Edit menu closes if you open it after you finished editing a message and things you changed weren't applied yet",
+  "steps_to_repro": "- Write a message - Start editing it - Edit it - Press Enter - Open the edit menu fast before it becomes edited (press \u2191)"
+ }
+}

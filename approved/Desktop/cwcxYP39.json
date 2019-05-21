@@ -1,0 +1,17 @@
+{
+ "id": "5b08368353dc7465466ce7f9",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 2054,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cwcxYP39",
+ "data": {
+  "system_settings": "Macbook Air (Early 2015), macOS Sierra 10.12.6",
+  "client_settings": "Discord Canary (Build 16104)",
+  "actual_result": "It silently fails",
+  "expected_result": "It is supposed to display an error message",
+  "short_description": "No error message shown when trying to create channel over the channel limit in a category, it just silently fails",
+  "steps_to_repro": "- Go to a server - Create the maximum amount of channels in a category - Try to create over the limit - Observe"
+ }
+}

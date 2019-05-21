@@ -1,0 +1,30 @@
+{
+ "id": "5b783960c5b7035c41ac16f7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1848,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Rawlfoqc",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.3.8",
+  "actual_result": "The mini profile reopens unexpectedly. Depending on what you did at step 4, it may reopen anywhere: in  DMs, in DTesters, in your friends server, or even in your friend list!",
+  "expected_result": "You should get back to chat in the same state as you left off",
+  "short_description": "If you jump to a user's DM via his mini profile, minimizing and reopening Discord can reopen the mini profile anywhere in the app",
+  "steps_to_repro": "- Go to any channel - Open someone's mini profile - Tap \"Send a message\" option on the mini profile to jump to his DM - (optional) Continue using Discord normally: switch channels, etc- Minimize Discord using Home button - Reopen Discord using the shortcut icon (not via multi-tasking)"
+ }
+}

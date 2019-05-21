@@ -1,0 +1,30 @@
+{
+ "id": "5b5efeb4ac87e94d0b16ae29",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2505,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/r3FYMskc",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Canary 20174",
+  "actual_result": "It stays there and can't be clicked away from until clicked on the name again, and becomes again clickable away from anywhere after reloading your client. And also, if you click out of the games tab without closing the pop up, it will come with you anywhere.",
+  "expected_result": "You can click away from it",
+  "short_description": "You can't click away from game pop ups",
+  "steps_to_repro": "- Go to the Games tab - Click on someone's name - Open their profile - Click on any mutual friend in the mutual friends tab, to open their profile - Click out of the profile - Open a Game popup - Try to close it by clicking away"
+ }
+}

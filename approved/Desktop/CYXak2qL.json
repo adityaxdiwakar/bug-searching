@@ -1,0 +1,17 @@
+{
+ "id": "59e39d04445c9c9712b93275",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1262,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/CYXak2qL",
+ "data": {
+  "system_settings": "Windows 10 Home x64 Creators Update (1703)",
+  "client_settings": "Desktop Canary 0.0.165",
+  "actual_result": "It skips 100%",
+  "expected_result": "You can set to 100 %",
+  "short_description": "Cannot set volume for a user to exactly 100 %",
+  "steps_to_repro": "- Try set volume to 100% again."
+ }
+}

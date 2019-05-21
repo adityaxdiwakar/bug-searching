@@ -1,0 +1,30 @@
+{
+ "id": "5ae4cdf8c59356a2735f7623",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1902,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oEkwSwNP",
+ "data": {
+  "system_settings": "Windows 10 Home (Version 1709)",
+  "client_settings": "Discord Stable",
+  "actual_result": "Member list members \"disappear\" and and animation appears showing them loading",
+  "expected_result": "Member list members should stay visible",
+  "short_description": "Member list members vanish on rapidly muting channels",
+  "steps_to_repro": "- Go in a guild (worked on discord api guild)- Start muting channels - Keep muting them till the member list members vanish"
+ }
+}

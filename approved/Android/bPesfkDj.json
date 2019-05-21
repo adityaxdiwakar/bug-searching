@@ -1,0 +1,29 @@
+{
+ "id": "582cdca5d8e5196480184813",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 97,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bPesfkDj",
+ "data": {
+  "system_settings": " Discord Alpha",
+  "actual_result": "network error pops up",
+  "expected_result": "\"you dont have Permission to do that\"",
+  "short_description": "when viewing channel information, it gives the option to delete the channel. Also gives the warning message when you click delete channel. Once clicking accept, an error pops up saying \"unknown network error as occurred\"",
+  "steps_to_repro": "- Open up any channel info. (that you dont have perms to delete) - Click on the 3 dots. - click delete channel and Okay. "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a112ba12664563e558d7418",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 437,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6H2TJc1e",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.2 Public beta 3",
+  "client_settings": "TestFlight 2.0.1 (1610)",
+  "actual_result": "The keyboard doesn't hide.",
+  "expected_result": "The keyboard should hide.",
+  "short_description": "Performing a search via recent searches won't make the keyboard hide.",
+  "steps_to_repro": "- Make any search in a text channel/DM so it saves in the search history (skip this step if you have recent searches in the history) - Scroll down while in the search menu and tap on a recent search"
+ }
+}

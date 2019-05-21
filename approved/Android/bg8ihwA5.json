@@ -1,0 +1,30 @@
+{
+ "id": "59a1263854fa83cf5f63e7c3",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 657,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e9",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can still reproduce",
+   "color": "blue"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bg8ihwA5",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 4.1.0 (505)",
+  "actual_result": "You are unable to select them making it impossible to disable new member messages and AFK channels",
+  "expected_result": "You should be able to select the \"No New Member Messages\" and \"No AFK Channel\" options",
+  "short_description": "It is impossible to disable new member messages or AFK channels",
+  "steps_to_repro": "- Open a server that you have the Manage Server permission for - Go to Server Settings > Overview - Open the selection menu for New Member Messages Channel or AFK Channel and notice that the \"No New Member Messages\" and \"No AFK Channel\" options are not present"
+ }
+}

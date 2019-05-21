@@ -1,0 +1,17 @@
+{
+ "id": "5951c4f4aaf57a1a58ba692c",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 789,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9oCQVDyJ",
+ "data": {
+  "system_settings": "windows 8.1 x64",
+  "client_settings": "Discord Canary",
+  "actual_result": "It doesn't",
+  "expected_result": "Left/Right click menu appears",
+  "short_description": "Left/Right click menu on voice chat users not working",
+  "steps_to_repro": "- Enter voice chat - Left/Right click on a user"
+ }
+}

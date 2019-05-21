@@ -1,0 +1,17 @@
+{
+ "id": "5b580d092dc4b7ce40ecd919",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1675,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Q5BoYsvw",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "713",
+  "actual_result": "The channel name and any buttons that should be there are gone",
+  "expected_result": "Buttons and channels names are there off the get go (but they aren't)",
+  "short_description": "Channel headers, and other buttons are gone in 713",
+  "steps_to_repro": "- Have light theme enabled first (for immediate result) - install 713 - open Discord and notice that the \"friends\" tab doesn't say friends or have any visible buttons - if you swap to light theme, close Discord and leave it for 5 minutes or so you'll get the same result. Switching channels seems to fix this bug"
+ }
+}

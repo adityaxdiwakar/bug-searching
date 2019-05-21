@@ -1,0 +1,23 @@
+{
+ "id": "581bbf41fd7e78b0cb3aa133",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 109,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fP9PyEEj",
+ "data": {
+  "system_settings": " Latest Canary ",
+  "actual_result": "cuts off the bottom and you cant invite them",
+  "expected_result": "It rerenders up similiar to roles menu",
+  "short_description": "Invite to server on right click menu doesnt change to upwards direction if to close to the bottom causing cut offs",
+  "steps_to_repro": "- Have alot of servers - Right click user in botom right - Hover over the invite to server sub menu "
+ }
+}

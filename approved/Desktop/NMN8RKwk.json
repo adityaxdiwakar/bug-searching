@@ -1,0 +1,30 @@
+{
+ "id": "5b35f7b73bb7402e3570bc15",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2221,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NMN8RKwk",
+ "data": {
+  "system_settings": "Windows 10 Home Insiders - Version 10.0.17704",
+  "client_settings": "Desktop Canary, 17937",
+  "actual_result": "The floating menu is smaller than others,, the text is small and blurry.",
+  "expected_result": "The floating menu and text is the same size as all the others in the interface.",
+  "short_description": "\"Three dots\" menu is small and blurry in proportion to the interface on message option.",
+  "steps_to_repro": "- Set your application scaling to 90% - Send a message in any channel - Click on the three dots at the right of that message - Observe the smallness"
+ }
+}

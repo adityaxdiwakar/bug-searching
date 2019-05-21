@@ -1,0 +1,24 @@
+{
+ "id": "593300348e9167827b3f1f92",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 718,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MierrmfQ",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": " Canary 0.0.155",
+  "actual_result": "No text recurrence because there are no spaces in the name.",
+  "expected_result": "Text recurrence",
+  "short_description": "Reactions interface gets stretched out",
+  "steps_to_repro": "- Step 1 get long nickname or username without spaces - Step 2 add reaction emote - Step 3 open reactions menu"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a613fc153219f7b45ec671d",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 513,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oPt1BgaE",
+ "data": {
+  "system_settings": "iPhone X, iOS 11.2",
+  "client_settings": "Test Flight 2.2.1 (2193)",
+  "actual_result": "Text entry box goes away and on screen keyboard overlaps messages",
+  "expected_result": "The app should operate as normal, with text entry box on the screen and keyboard not overlapping with message.",
+  "short_description": "(iPhone X exclusive) Text entry box disappears and keyboard overlaps messages.",
+  "steps_to_repro": "- Have a text channel open with keyboard on the screen - Open App Switcher - Wait for another message to be sent in the text channel - Go back to the Discord App"
+ }
+}

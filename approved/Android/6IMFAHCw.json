@@ -1,0 +1,30 @@
+{
+ "id": "5a6cbd35abc9b6ca6a3d9571",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1072,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6IMFAHCw",
+ "data": {
+  "system_settings": "ZTE obsidian, Android 5.1",
+  "client_settings": "Discord alpha 6.1.3",
+  "actual_result": "the pictures are lower quality than normal",
+  "expected_result": "the pictures should be the original uploaded quality",
+  "short_description": "Looking at other users profile pictures and Server's icons are low quality (most likely 5.1 devices)",
+  "steps_to_repro": "- open user drawer or server drawer- just look at the pictures (don't click on them)"
+ }
+}

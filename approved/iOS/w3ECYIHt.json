@@ -1,0 +1,17 @@
+{
+ "id": "5b88550674836852d2e37d83",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 959,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/w3ECYIHt",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 11",
+  "client_settings": "TestFlight 2.3.7 (6968)",
+  "actual_result": "Save button does not disappear",
+  "expected_result": "Save button disappears since you removed your changes (happens on desktop)",
+  "short_description": "Save button doesn't disappear when you edit a channel topic and erase the changes",
+  "steps_to_repro": "- Create a channel or go to a channel with no channel topic - Type some text into the channel topic so the save button appears - Delete the text that you typed without saving and observe the save button"
+ }
+}

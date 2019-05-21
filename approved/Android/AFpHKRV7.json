@@ -1,0 +1,24 @@
+{
+ "id": "59e36f87f88ad8ba9347f614",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 813,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AFpHKRV7",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.3.9",
+  "actual_result": "the Send message button is locked and you have to type or erase 1 character to unlock it back",
+  "expected_result": "You should be able to immediately send the message you typed in",
+  "short_description": "Send message button disabled after minimizing/maximizing the app while there is text in the input box",
+  "steps_to_repro": "- In a channel you can type in, put any text in the chat box - minimize the app usokg the Home button of your Android device - Open the app back"
+ }
+}

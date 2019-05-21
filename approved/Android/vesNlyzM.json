@@ -1,0 +1,30 @@
+{
+ "id": "5b2640ca5546d7ae199fa659",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1553,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vesNlyzM",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "You can see that both Light and Dark theme are selected, and you cannot switch themes anymore, unless you close Appearance and open again",
+  "expected_result": "Both theme and sync options should switch normally",
+  "short_description": "If you change theme and toggle off the \"Sync across clients\" switch at the same time, both themes will be checked and you cannot switch themes anymore until settings is reopen",
+  "steps_to_repro": "- Go to Settings > Appearance - Make sure Sync across client is ON (won't work if it's already OFF) - Change the theme (aka the unselected option), and toggle OFF the switch at the exact same time"
+ }
+}

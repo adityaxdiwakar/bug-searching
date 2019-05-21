@@ -1,0 +1,17 @@
+{
+ "id": "59bd7f2147ea3818186f9d12",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 734,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XiAMUoXh",
+ "data": {
+  "system_settings": "Samsung Galaxy Tab 4, 5.1.1 and Windows 10",
+  "client_settings": "Alpha 5.1.7 and Canary 0.0.163",
+  "actual_result": "category is not collapsed on desktop",
+  "expected_result": "category is collapsed on desktop",
+  "short_description": "Collapsing category on android doesn't collapse on desktop",
+  "steps_to_repro": "- collapse a category on android - observe that category is not collapsed on desktop"
+ }
+}

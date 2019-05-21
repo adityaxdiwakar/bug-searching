@@ -1,0 +1,17 @@
+{
+ "id": "5bb0a22a1f9a7e19133be8e6",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2076,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7KuXDNFe",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 759",
+  "actual_result": "It has a highlight around it.",
+  "expected_result": "Like all other sliders, even this one shouldn't have a circular highlight around it.",
+  "short_description": "The slowmode timer slider is the only slider that has a circular highlight around it.",
+  "steps_to_repro": "- Open channel settings of a server in which you have manage channels permission. - Long press the slider and move it. - Observe the highlight around it."
+ }
+}

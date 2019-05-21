@@ -1,0 +1,30 @@
+{
+ "id": "5931e713d117952f23cd8138",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 715,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Q5UhudVk",
+ "data": {
+  "system_settings": "WIndows 10 x64bit",
+  "client_settings": "Latest Canary",
+  "actual_result": "The GIF does not update to the new user card.",
+  "expected_result": "The GIF will update to the current user avatar.",
+  "short_description": "If you go into DM's with a friend, then select mutual friends and open the profile (MUST HAVE A GIF), the GIF stays the same but the username does not.",
+  "steps_to_repro": "- Head into DM's with a friend that has a GIF + has mutual friends. - Open one of the mutual friends playercards up."
+ }
+}

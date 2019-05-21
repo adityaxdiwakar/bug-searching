@@ -1,0 +1,30 @@
+{
+ "id": "5b29d14fbf7d0c0725395b6a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1566,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VlkYQ0za",
+ "data": {
+  "system_settings": "Samsung Galaxy S9 (8.0)",
+  "client_settings": "Discord Beta 6.9.3",
+  "actual_result": "Typing cursor appears at the beginning of your username upon opening your My Account settings",
+  "expected_result": "Either the cursor is not shown initially until you actually go to change your username by opening the keyboard or the cursor is shown at the end of your username",
+  "short_description": "Typing cursor inserted at the beginning of your username in User Settings",
+  "steps_to_repro": "- Open your User Settings - Open your My Account settings and observe the typing cursor being placed in front of your username"
+ }
+}

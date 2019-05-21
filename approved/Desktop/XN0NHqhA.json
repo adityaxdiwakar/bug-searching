@@ -1,0 +1,30 @@
+{
+ "id": "5a5915cfc23b0f5d78dd735b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1538,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XN0NHqhA",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.2",
+  "client_settings": "Discord Canary 0.0.185 (Build: 9510)",
+  "actual_result": "Padding is missing for the profile picture of the webhook and the edit button.",
+  "expected_result": "Some padding for webhook profile picture and the edit button should be shown.",
+  "short_description": "Missing padding for webhook info in webhook settings",
+  "steps_to_repro": "- Go to \"Server Settings\" - Open \"Webhooks\" - Create any webhook or observe an existing one"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bdb642f27029f73be20679b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2281,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NCuJU2Hr",
+ "data": {
+  "system_settings": "Xiaomi Redmi 4X, Android 7.1.2",
+  "client_settings": "Discord Alpha 7.8.4",
+  "actual_result": "Russian text looks thinner than English text",
+  "expected_result": "the weight of the fonts should be the same",
+  "short_description": "[RESUBMITTING] Russian text looks thinner than English text",
+  "steps_to_repro": "- Type \\`sample text\\` - Type \\`\u043f\u0440\u0438\u043c\u0435\u0440 \u0442\u0435\u043a\u0441\\` - Observe"
+ }
+}

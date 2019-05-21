@@ -1,0 +1,17 @@
+{
+ "id": "5b611e2d4ba70a621ce2a302",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2555,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FpcHfQa8",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Canary Build Number 20386",
+  "actual_result": "It says they are streaming but no purple status streaming icon",
+  "expected_result": "Your friend's status icon should be purple and say they are streaming",
+  "short_description": "Streaming Status doesn't appear on Overlay DM list",
+  "steps_to_repro": "- Have a friend in your DM list - Have them stream/go live on Twitch - Launch a game with an enabled Discord Overlay - Turn on your overlay - Click the Friends/Start A Call button and scroll to where your friend is on the list"
+ }
+}

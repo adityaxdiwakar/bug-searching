@@ -1,0 +1,24 @@
+{
+ "id": "5bf9a08688ecb274c62683ec",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1169,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Yu58V93k",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (8921)",
+  "actual_result": "Some entries sometime close after a few seconds",
+  "expected_result": "Entries do not automatically close after a few seconds",
+  "short_description": "Swiped friends list entries sometimes automatically swipe closed",
+  "steps_to_repro": "- Open your friends list - Swipe multiple entries to the left"
+ }
+}

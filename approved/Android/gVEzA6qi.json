@@ -1,0 +1,22 @@
+{
+ "id": "5844eebb8a3416f245d79550",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 124,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gVEzA6qi",
+ "data": {
+  "actual_result": "List is scrolled down to where you left off on other server",
+  "expected_result": "To see top of the member list",
+  "short_description": "Scrolling down in one groups member list bugs the next list you look at by scrolling down the same amount",
+  "steps_to_repro": "- Goto a servers member list - exit list and goto an other server and scroll down there member list (all the way or just a bit) - exit out of list and go back to previous server's member list "
+ }
+}

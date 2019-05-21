@@ -1,0 +1,30 @@
+{
+ "id": "5b96504f3035f7777ebd5714",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1964,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dt9cBj9F",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 748",
+  "actual_result": "The text says \"Join <your username>\".",
+  "expected_result": "It says accept invite or something else.",
+  "short_description": "The join text of the invite page of a group DM I says \"Join <sender's name>\" (which looks and sounds weird) whereas it says \"Accept invite\" on desktop.",
+  "steps_to_repro": "- Create a nameless group DM. - Create an invite for it. - Click on the invite link. - Observe the join text."
+ }
+}

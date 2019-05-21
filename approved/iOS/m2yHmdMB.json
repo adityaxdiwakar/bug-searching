@@ -1,0 +1,30 @@
+{
+ "id": "5b43e96f84cb4b6932c2a97a",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 830,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/m2yHmdMB",
+ "data": {
+  "system_settings": "iPad 6, iOS 12.0",
+  "client_settings": "Stable 2.3.4",
+  "actual_result": "The file does not send, but the caption does.",
+  "expected_result": "The file should send with the caption.",
+  "short_description": "MP3 files shared using the Share Sheet do not send",
+  "steps_to_repro": "- Open the Files app - Share a file by long holding on a file and selecting Share - Select the Discord extension - Add a caption - Select Send and wait until the progress bar is finished - Open the Discord app"
+ }
+}

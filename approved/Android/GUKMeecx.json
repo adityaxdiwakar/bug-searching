@@ -1,0 +1,30 @@
+{
+ "id": "5a0dfe0586aa8bd4cf351b3d",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 903,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GUKMeecx",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.6.9",
+  "actual_result": "All channels are shown as read",
+  "expected_result": "Channels that you didn't read yet should still show unread messages indicator",
+  "short_description": "Restarting the app after joining a server that you never joined before will mark all channels in this server as read",
+  "steps_to_repro": "- Join a server that you never joined before - Restart the app"
+ }
+}

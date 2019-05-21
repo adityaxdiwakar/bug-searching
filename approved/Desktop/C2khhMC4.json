@@ -1,0 +1,22 @@
+{
+ "id": "587906fe7eacbd51f66b726e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 327,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/C2khhMC4",
+ "data": {
+  "actual_result": "The color spectrum selector is a solid color with the color gradient bar below it.",
+  "expected_result": "The color spectrum selector appears as normal.",
+  "short_description": "Custom color selector is malformed and not showing color gradient.",
+  "steps_to_repro": "- Progress to Server Settings > Roles - Select any custom role - Click on the custom color selector. "
+ }
+}

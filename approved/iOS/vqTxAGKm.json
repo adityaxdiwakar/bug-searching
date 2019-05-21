@@ -1,0 +1,17 @@
+{
+ "id": "5bda605ebbfc4b1142157b75",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1141,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vqTxAGKm",
+ "data": {
+  "system_settings": "iPhone 7 iOS 12",
+  "client_settings": "Discord TestFlight 2.4.0 (8841)",
+  "actual_result": "You can move the server up and down freely",
+  "expected_result": "The server move should cancel",
+  "short_description": "You can move servers while looking in server chat",
+  "steps_to_repro": "- Hold down server  - Swipe left in a server/dm  - Move your left finger up and down"
+ }
+}

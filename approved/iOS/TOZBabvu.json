@@ -1,0 +1,24 @@
+{
+ "id": "5b77236bf930df11eb00a91b",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 921,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TOZBabvu",
+ "data": {
+  "system_settings": "iPhone 7 11.2.5",
+  "client_settings": "Discord TestFlight 2.3.7 6817",
+  "actual_result": "The message is highlighted as if you were editing it, but the keyboard doesn\u2019t appear and the only way to get rid of it is to go into a different channel, then go back.",
+  "expected_result": "Either an error message would appear or nothing would happen.",
+  "short_description": "Broken highlight when trying to edit messages in blocked user DMs",
+  "steps_to_repro": "- Find a user you have messages with. - Block him/her. - Attempt to edit a message you\u2019ve sent."
+ }
+}

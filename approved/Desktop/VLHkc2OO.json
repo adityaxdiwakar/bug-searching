@@ -1,0 +1,17 @@
+{
+ "id": "5a100b5b5f6507bf5f426755",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1383,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VLHkc2OO",
+ "data": {
+  "system_settings": "Windows 8.1 2017-10 Security Update for Adobe Flash Player for Windows 8.1 for x64-based Systems (KB4049179)",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 7480, Version Hash: 42a930db39634150fe358e9c8d404643521cfb75",
+  "actual_result": "When looking at the online section using canary, for example says 8 friends online when there is more than 8 friends on.",
+  "expected_result": "Tells the user how many of his friends are online.",
+  "short_description": "Discord friend onlne on canary is wrong after update.",
+  "steps_to_repro": "- Load Up Discord Canary - Look at online - number of friends online is different to how many people is online."
+ }
+}

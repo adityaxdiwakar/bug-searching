@@ -1,0 +1,48 @@
+{
+ "id": "5a87c3e48da252358ea0972c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1665,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a860c4c7cb31e20a3d90bad",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Modals",
+   "color": null
+  },
+  {
+   "id": "5a8c8fdde4a9c5ff0566225c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "spellcheck",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/52IQ6KY7",
+ "data": {
+  "system_settings": "Windows 10 x64 1709",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 10876, Version Hash: 456a1c5b2aa844b0e0a5483f25da11324ebc1e6b",
+  "actual_result": "A prompt to copy/paste/spellcheck appears and the keybind is set to Mouse 1",
+  "expected_result": "Mouse3 bind should be set",
+  "short_description": "Spellcheck box pops up when Right clicking a keybind input",
+  "steps_to_repro": "- Open Settings - Go to Voice & Video or Keybinds or Overlay - Step Three Right click a Keybind input box such which looks like  and right click it."
+ }
+}

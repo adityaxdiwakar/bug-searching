@@ -1,0 +1,30 @@
+{
+ "id": "5a019249d3fa07f9841d0a90",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 877,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KkIfSq5I",
+ "data": {
+  "system_settings": "Android 7.0 Moto G4",
+  "client_settings": "Android Alpha 5.5.9",
+  "actual_result": "It \"pops up\" and does not slide",
+  "expected_result": "It should slide like everything else",
+  "short_description": "Notification tab doesn't slide in user Settings",
+  "steps_to_repro": "- Open User Settings - Tap any other tab and see the slide animation - Tap the \"Notifications\" tab"
+ }
+}

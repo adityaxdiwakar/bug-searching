@@ -1,0 +1,15 @@
+{
+ "id": "581be8dfc4572c384d2d0efa",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 113,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RAayhqJZ",
+ "data": {
+  "actual_result": "no reaction indicator",
+  "expected_result": "who reacted with emoji",
+  "short_description": "Reactions indicator doesn't work on custom emojis, twitch and bttv unless you react to them",
+  "steps_to_repro": "- have another account post a custom emoji. - Hover Over it  "
+ }
+}

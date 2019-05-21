@@ -1,0 +1,16 @@
+{
+ "id": "58bd09cd99b7a6e2693c1ee1",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 404,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kjb1k0c0",
+ "data": {
+  "system_settings": " macOS 10.12.3 Discord Canary",
+  "actual_result": "no indication appears on the icon",
+  "expected_result": "you get a red dot notification indicator on the client icon",
+  "short_description": "message notification indicator not functioning on mac",
+  "steps_to_repro": "- make sure you have an up to date canary client on MacOS - recieve a message in an unmuted channel (so you get the grey indicator dot)- observe the discord application icon on the dock "
+ }
+}

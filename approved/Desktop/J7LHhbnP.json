@@ -1,0 +1,30 @@
+{
+ "id": "5b0910640b83d30d21776659",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2057,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/J7LHhbnP",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Build 16139 (Regular Discord)",
+  "actual_result": "The system warns you as if you were properly doing @everyone.",
+  "expected_result": "It should just send the message, as mentions don't work in blockquotes",
+  "short_description": "When you do @everyone but in a blockquote, it still warns you",
+  "steps_to_repro": "- Go to any channel - Write `@everyone` into the box (Make sure you have permissions) - Press Enter"
+ }
+}

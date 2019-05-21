@@ -1,0 +1,30 @@
+{
+ "id": "5a2a69f2b2455d7f1a733741",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1433,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SuFi2TAV",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Discord Canary Build 8121",
+  "actual_result": "The user is not mentioned, retaining the username and discriminator",
+  "expected_result": "The user is mentioned as if a normal user",
+  "short_description": "Mentioning users whose username contains, but not begins with, . (dot) right after any characters, except whitespace, cannot be parsed",
+  "steps_to_repro": "- Change your testing account's username into name that containing, but not beginning with, dot (e.g. E.G) - Enter your testing server - Mention that user and make sure there are something right, except whitespace, before the at-sign (i.e. (at)E.G#0000 or Hi(at)E.G#0000)"
+ }
+}

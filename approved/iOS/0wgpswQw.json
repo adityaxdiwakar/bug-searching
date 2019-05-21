@@ -1,0 +1,24 @@
+{
+ "id": "5b80b3d95ec39e04c783413c",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 945,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0wgpswQw",
+ "data": {
+  "system_settings": "ipod touch 6 th generation, ios 11.4.1",
+  "client_settings": "TestFlight 2.3.7 (6930)",
+  "actual_result": "you get the \"\"please turn on Bluetooth and WiFi to activate Nearby\"  and it doesn't go away if you hit cancel and try aging either",
+  "expected_result": "It starts the find friends searching",
+  "short_description": "If you have Bluetooth off on nearby friends and turn it on through the prompt message, you are still hit with the \"please turn on Bluetooth and WiFi to activate Nearby\"",
+  "steps_to_repro": "- make sure Bluetooth is turned off in ios settings  - start discord up  - go up to the top and click on the three heads - click on friends and go all the way to the top right - click on the head with a +  - click on find friends  - get a prompt asking you to turn Bluetooth on  - select settings, turn on Bluetooth and then go back  - click on find friends and observe"
+ }
+}

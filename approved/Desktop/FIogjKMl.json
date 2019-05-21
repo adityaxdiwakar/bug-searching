@@ -1,0 +1,17 @@
+{
+ "id": "5b6d8de91b96cf30495f7fc3",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2659,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FIogjKMl",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (21569)",
+  "actual_result": "Says NaN",
+  "expected_result": "It should say the correct member count",
+  "short_description": "The invite beaming modal shows member count as \"NaN\" [English language specific bug]",
+  "steps_to_repro": "- Enter an invite in your browser to a server you are not part of (feature only works on Chrome) - Format is https:// discordapp com / invite / <invite code> (without spaces) - Observe the join modal and the total member/online count"
+ }
+}

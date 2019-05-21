@@ -1,0 +1,17 @@
+{
+ "id": "5927b485ac95f4f4645b3eea",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 480,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DfSxbyLP",
+ "data": {
+  "system_settings": "Note 3 with Android 5.0",
+  "client_settings": "Version 3.8.9",
+  "actual_result": "The server name shows as some code jargon in the text box",
+  "expected_result": "The server name shows correctly in the popup",
+  "short_description": "Server name in leave server popup is incorrect",
+  "steps_to_repro": "- Attempt to leave a server - Observe the confirmation popup that appears"
+ }
+}

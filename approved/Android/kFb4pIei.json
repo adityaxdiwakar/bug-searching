@@ -1,0 +1,24 @@
+{
+ "id": "59f0af2261da7a5f6a2a81b8",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 843,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kFb4pIei",
+ "data": {
+  "system_settings": "lg xpower 6.0.1",
+  "client_settings": "Android Alpha 5.4.7",
+  "actual_result": "there is no space which cause text to overlap",
+  "expected_result": "there should be small space between italised text and emoji",
+  "short_description": "twemoji overlap with italised text",
+  "steps_to_repro": "- write message formated: \" italised text:emoji: \" (no space between emoji and message) - send message, and look close at emoji"
+ }
+}

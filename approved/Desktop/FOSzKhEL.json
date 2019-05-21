@@ -1,0 +1,24 @@
+{
+ "id": "5b6043b9328bb54df21b131b",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2535,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FOSzKhEL",
+ "data": {
+  "system_settings": "Macbook Air, macOS Sierra 10.12.6",
+  "client_settings": "Google Chrome Version 68.0.3440.75",
+  "actual_result": "It gets cut off",
+  "expected_result": "It gets truncated",
+  "short_description": "[Website Bug] Applications with a long name get cut off in the list of applications",
+  "steps_to_repro": "- Go to (https://discordapp(dot)com/developers/applications/) - Click on one of your applications or create one - Name it with a long name, it can't have contain spaces or otherwise it won't overflow - If you've named it with a long name, open the dropdown menu on the left side under \"Selected App\" - Observe the long named app on that list"
+ }
+}

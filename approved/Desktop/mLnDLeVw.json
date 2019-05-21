@@ -1,0 +1,17 @@
+{
+ "id": "5a96da449cb4d9fcfc4dc0d4",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1694,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mLnDLeVw",
+ "data": {
+  "system_settings": "windows 10, Discord canary - Build number: 11323",
+  "client_settings": "Discord build : 11323",
+  "actual_result": "1 gif does not behave and escapes it's boundaries",
+  "expected_result": "all gifs should behave and should have a maximum size",
+  "short_description": "When using tenor and if there is a gif bigger than the rest the entire modal enlarges",
+  "steps_to_repro": "- Search for \"your mom\" in /tenor - see the enlarged modal because a gif escapes it's boundaries"
+ }
+}

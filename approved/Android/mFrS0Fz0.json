@@ -1,0 +1,17 @@
+{
+ "id": "5ae44f6214d751c6f7cf63a1",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1338,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/mFrS0Fz0",
+ "data": {
+  "system_settings": "Xiaomi Redmi Note 4 Global, MIUI 9.5 Android 7.0 (Snapdragon 625 3go/32go)",
+  "client_settings": "Discord alpha 6.5.8",
+  "actual_result": "The ping stay, you have the red number notification without message, the ping stay even if you close the DM",
+  "expected_result": "The ping should disappear",
+  "short_description": "Receiving a blocked user DM make a Ghost ping",
+  "steps_to_repro": "- Ask a friend to dm you - Talk in dm then block your friend while he is typing - Wait for him to send the message while he is blocked (You need a PERFECT TIMING, try with a friend who is with you to have the best timing, DON'T TRY ONE TIME AND DENY IT)"
+ }
+}

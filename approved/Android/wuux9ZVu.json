@@ -1,0 +1,24 @@
+{
+ "id": "5a03258ae6402ad1163e12d8",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 880,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wuux9ZVu",
+ "data": {
+  "system_settings": "Huawei P8Lite Android 6.0",
+  "client_settings": "Discord 5.5.9",
+  "actual_result": "it's white",
+  "expected_result": "The circle should be grey like before",
+  "short_description": "There is a grey circle around the online status (the red, green or yellow dot). Using white theme makes this circle white while rest of user list is still dark theme",
+  "steps_to_repro": "- Open the user list on any server"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "59fe6a0f4384b08366b8e5d7",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 873,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9m9vt3kS",
+ "data": {
+  "system_settings": "Xperia X Performance, Android 7.1.1. *Exclusive to Android 7 and certain phone models (beyond my own also some Samsung S7/S8 and possibly others)*",
+  "client_settings": "Discord Alpha 5.5.6",
+  "actual_result": "Flashlight won't start, camera says it's used by another application",
+  "expected_result": "It works like normal",
+  "short_description": "Camera process stays open in background when it should close, only on certain phones",
+  "steps_to_repro": "- Open the camera in discord in fullscreen mode - Take an image - Leave the image in the message bar - Switch to another app using the button on your phone - Try to use camera or flashlight"
+ }
+}

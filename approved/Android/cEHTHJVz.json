@@ -1,0 +1,30 @@
+{
+ "id": "5bbf4ccd91844a39c168c270",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2148,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cEHTHJVz",
+ "data": {
+  "system_settings": "Samsung Galaxy Tab A, Android 7.1.1",
+  "client_settings": "Alpha 7.6.7",
+  "actual_result": "Claim your account toast shows up.",
+  "expected_result": "Normal connection issue toast shows up.",
+  "short_description": "Claim Account toast pops up instead of the connection toast.",
+  "steps_to_repro": "- Log out of Discord, then log back in with some connection problem."
+ }
+}

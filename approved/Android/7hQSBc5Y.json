@@ -1,0 +1,30 @@
+{
+ "id": "5b7c1cb8a4def156cdb8537f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1865,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7hQSBc5Y",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.3.9",
+  "actual_result": "The channel is listed, and when selecting it it says \"Success\". On the Desktop app the channel isn't even listed",
+  "expected_result": "The channel the user is already in shouldn't be listed, or at least the operation should fail",
+  "short_description": "Can move a user in the same voice channel he's already in (not possible on Desktop)",
+  "steps_to_repro": "- Have move permissions in a server - Have a user (or yourself) join a VC - Open voice channel menu and find the administration options - Move To...  - Notice the current channel the user is in is listed. Tap on it"
+ }
+}

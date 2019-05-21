@@ -1,0 +1,30 @@
+{
+ "id": "5b63219ccc5d8a212f84998c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1762,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/K7CuZAPW",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 721",
+  "actual_result": "The whole screen loads like some changes were made and a toast appears saying \"Channel order updated\". Similar thing happens when you try the repro steps when sorting a server.",
+  "expected_result": "Nothing special happens.",
+  "short_description": "While sorting any list, if you try to move the last element to the bottom or the topmost element to the top, the whole list loads for no reason.",
+  "steps_to_repro": "- Long press on any server where you have manage channels permission. - Open server settings. - Click on \"Channels\". - Click on the three lines and select any option. - Try to move the channel at the bottom, down and lift your finger."
+ }
+}

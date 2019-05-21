@@ -1,0 +1,30 @@
+{
+ "id": "59eeffab1b35be1314496e3b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1309,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1bqVZP78",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (Build 1607)",
+  "client_settings": "DIscord Canary 0.0.167 (Build 6257)",
+  "actual_result": "The avatars are weirdly wide.",
+  "expected_result": "It should be a circle like in previous build",
+  "short_description": "In \"filter by user\" in the audit logs, the user avatars are weirdly wide",
+  "steps_to_repro": "- Go to server settings - Go to Audit logs - Click \"Filter by User\" - Observe"
+ }
+}

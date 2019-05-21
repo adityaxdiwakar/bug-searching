@@ -1,0 +1,24 @@
+{
+ "id": "59c150a863da2b0c964e5a65",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 748,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KfisYj73",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 5.1.9 (519)",
+  "actual_result": "It takes you straight to the My Account tab in User Settings",
+  "expected_result": "It should take you to User Settings menu",
+  "short_description": "The Settings button in the new user details on your own profile takes you straight to the My Account tab",
+  "steps_to_repro": "- Press hold on your own profile in the member list or a text channel - Tap Settings in the new user details"
+ }
+}

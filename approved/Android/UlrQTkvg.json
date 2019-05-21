@@ -1,0 +1,30 @@
+{
+ "id": "5af47c10eaada4530c2c47cd",
+ "closed": false,
+ "idList": "5a9b6544f30fa1c5bab3d011",
+ "idShort": 1396,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UlrQTkvg",
+ "data": {
+  "system_settings": "LG G2 D802 - Android 5.0.2",
+  "client_settings": "Discord Alpha 6.6.6",
+  "actual_result": "It spams \"This server has reached the maximum of invites\" and \"You are being rate limited\"",
+  "expected_result": "It shouldn't spam \"This serve has reached the maximum of invites\" and \"You are being rate limited\" after",
+  "short_description": "When trying to make a Invite for a server that has reached the maximum of invites it spams \"This server has reached the maximum of invites\" (**6.6.6 only**)",
+  "steps_to_repro": "- Go to a server that has reached the maximum of invites (I used the \"Project Blurple\" Server) - Click \"Create Instant Invite\" - Observe"
+ }
+}

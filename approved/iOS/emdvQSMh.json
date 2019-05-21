@@ -1,0 +1,17 @@
+{
+ "id": "5b729ad265423760e2596ef7",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 906,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/emdvQSMh",
+ "data": {
+  "system_settings": "Iphone SE IOS 12 Beta 5",
+  "client_settings": "Discord 2.3.6 (6755)",
+  "actual_result": "discord crashed and create server",
+  "expected_result": "discord create the server",
+  "short_description": "Create server result in crash",
+  "steps_to_repro": "- Click on the + on the server list - Click on create server - Fill in only the server name - hit return - discord gives a crash and restart - server created"
+ }
+}

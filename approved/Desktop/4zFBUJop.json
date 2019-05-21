@@ -1,0 +1,15 @@
+{
+ "id": "5823a01c83db921523ced6e6",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 124,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4zFBUJop",
+ "data": {
+  "actual_result": "PTT Activates.",
+  "expected_result": "PTT doesn't activate",
+  "short_description": "Controller Mappings are not specific to controller",
+  "steps_to_repro": "- Plug in two controllers - Bind a PTT key to Button 1 - Press Button 1 on another controller "
+ }
+}

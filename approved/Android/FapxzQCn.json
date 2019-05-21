@@ -1,0 +1,24 @@
+{
+ "id": "5bbec3d98f1b8243803c7fd3",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 2142,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FapxzQCn",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 7.6.7",
+  "actual_result": "Logs are completely gone, until you restart Discord (it fixes by itself sometimes).",
+  "expected_result": "Logs show.",
+  "short_description": "Filters by Action does not show any logs at times. (May require you to test it multiple times).",
+  "steps_to_repro": "- Go to audit log, then filter it to action that has logs. - Observe. If this doesn't happen the first time, restart discord, and go to another server's audit log (it helped me reproduce it when I went to other server's log)."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5930564476c4884754135332",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 700,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/E5gBQYZH",
+ "data": {
+  "system_settings": "potatoes",
+  "client_settings": "These things",
+  "actual_result": "NOPE",
+  "expected_result": "App starts",
+  "short_description": "This is a test report",
+  "steps_to_repro": "- Install app - Launch app - Observe"
+ }
+}

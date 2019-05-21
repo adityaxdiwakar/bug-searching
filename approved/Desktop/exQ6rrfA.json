@@ -1,0 +1,30 @@
+{
+ "id": "5a6c04d55b2d9b8cdabefffd",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1594,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/exQ6rrfA",
+ "data": {
+  "system_settings": "Windows 10 Fall CU x64",
+  "client_settings": "Canary 10011",
+  "actual_result": "nothing",
+  "expected_result": "U can see input from webcam",
+  "short_description": "Test Video button turns on webcam indicator light but shows no input",
+  "steps_to_repro": "- Settings - Voice and Video - Test Video"
+ }
+}

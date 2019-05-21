@@ -1,0 +1,16 @@
+{
+ "id": "58b1d40510410ee131e67925",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 199,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ujU7Lzp8",
+ "data": {
+  "system_settings": " iOS 10.2, iPhone 5c, Discord latest beta from Testflight",
+  "actual_result": "It gets switched",
+  "expected_result": "Nothing; the member drawer should be on its correct side and the chat drawer should be in its correct side.",
+  "short_description": "Member and Chat selectors are switched",
+  "steps_to_repro": "- Spam the channel selector button (the three bars) while spamming the member selector (the little person icon) "
+ }
+}

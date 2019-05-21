@@ -1,0 +1,30 @@
+{
+ "id": "5bd36d423041354e8fff7fe1",
+ "closed": false,
+ "idList": "5bd36c952694a17407444958",
+ "idShort": 3287,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EQskwni6",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 26991",
+  "actual_result": "The message is not vertically aligned for languages that have String with multiple lines",
+  "expected_result": "The ProTip message is vertically aligned, even if the String is longer than one line",
+  "short_description": "The \"ProTip\" in the Pin Modal is not vertically aligned if the String is wrapped in multiple lines",
+  "steps_to_repro": "- Set your language to German - Click on the Pin Button in a DM/Channel that you have no pins in - Observe"
+ }
+}

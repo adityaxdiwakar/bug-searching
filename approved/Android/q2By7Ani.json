@@ -1,0 +1,16 @@
+{
+ "id": "583359c0707275423be843e0",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 105,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/q2By7Ani",
+ "data": {
+  "system_settings": " Android 6.0.1 ",
+  "actual_result": "Shows that you're still deafend, but not muted (so you are able to talk) System Settings: Android 6.0.1",
+  "expected_result": "Should remove the deafen indicator",
+  "short_description": "Deafen then undefen using the button in the Discord notification in the notifications dropdown menu doesn't show that you're undefend, but you can hear other people",
+  "steps_to_repro": "- Join voice chat - Deafen - Undeafen using the Discord notification in the notifications dropdown - Get someone to sing you a song (or talk) "
+ }
+}

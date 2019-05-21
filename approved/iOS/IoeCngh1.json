@@ -1,0 +1,24 @@
+{
+ "id": "5b917b390122165178893841",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 972,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/IoeCngh1",
+ "data": {
+  "system_settings": "iPhone 6, iOS 12 (dev beta 12)",
+  "client_settings": "Stable 2.3.7",
+  "actual_result": "You have an editted duplicate of your first editted message",
+  "expected_result": "You should be able to edit your 2nd message and don\u2019t see your previous message",
+  "short_description": "When in edit mode if you edit the first message to your 2nd you have the same message in your chatbox instead of the actual message you want to edit",
+  "steps_to_repro": "- Go to a text channel  - Type as example: `hahayes` and send it - Now type as example: `hahano` and send it - Go to edit mode of `hahayes` - Now while in edit mode of your `hahayes` switch to your 2nd message so you edit that too - Observe the same message in your chatbox"
+ }
+}

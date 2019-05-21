@@ -1,0 +1,17 @@
+{
+ "id": "5a79184f7fde0c7f5bc3914a",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1631,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7sqoMHVJ",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Canary 0.0.202, Build 10301",
+  "actual_result": "It throws a 404: Not Found",
+  "expected_result": "I assume it's meant to enable the feature.",
+  "short_description": "Attempting to enable the new SMS Authentication method will throw a 404.",
+  "steps_to_repro": "- Have the new SMS Backup Authentication Feature - Attempt to enable it (Click enable, put in your password) - Watch"
+ }
+}

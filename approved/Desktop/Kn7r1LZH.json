@@ -1,0 +1,30 @@
+{
+ "id": "5ad45f3ecf30808bee6315d9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1853,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Kn7r1LZH",
+ "data": {
+  "system_settings": "Windows 7 Ultimate x64 with Service Pack 1 (Build 7601)",
+  "client_settings": "Release Channel: canary, Build Number: 13630 (Version Hash: ca0e86c67ea5eb61da2c425687e546b95496ea3c)",
+  "actual_result": "The text sent by the friend will bug out of the desktop notification",
+  "expected_result": "Shorten the name of the group so that it is visible part of the message sent by the friend.",
+  "short_description": "Text from a notification gets out of the desktop notification box if the DM group name is too long.",
+  "steps_to_repro": "- Enable desktop notifications - Create a DM group with a friend - Give the DM group a long name (tested with a 67 letters name) - Make your friend send a message - Look at the desktop notification"
+ }
+}

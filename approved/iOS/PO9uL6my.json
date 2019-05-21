@@ -1,0 +1,17 @@
+{
+ "id": "5b53eec383ddc97e1ca5d56b",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 837,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PO9uL6my",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.6 (6000)",
+  "actual_result": "Loading animation is visible behind the message bar",
+  "expected_result": "Message bar area is blank except for the typing a message message",
+  "short_description": "Loading animation blends into background of keyboard",
+  "steps_to_repro": "- Open a channel or DM that you haven\u2019t yet loaded - Bring up the keyboard before the channel fully loads in - Observe the message bar"
+ }
+}

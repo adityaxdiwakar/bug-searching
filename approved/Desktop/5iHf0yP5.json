@@ -1,0 +1,15 @@
+{
+ "id": "5863b45b0565684583bf908a",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 292,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5iHf0yP5",
+ "data": {
+  "actual_result": "Search bar overlaps with title bar buttons.",
+  "expected_result": "Elements are made smaller to give space",
+  "short_description": "Search Bar blocks title bar buttons when snapped in windows",
+  "steps_to_repro": "- Open search bar and type a term - Click and drag window to left side of screen until it snaps into place  "
+ }
+}

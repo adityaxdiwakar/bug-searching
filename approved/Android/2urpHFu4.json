@@ -1,0 +1,30 @@
+{
+ "id": "5b42393c727766695430adbd",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1636,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2urpHFu4",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.0.5",
+  "actual_result": "Only the modal closes but not the keyboard. Note that it doesn't happen when using the Kick and Ban option directly on mini profile, only happens in user management screen",
+  "expected_result": "Both modal and keyboard should close",
+  "short_description": "In the user management screen, and only on this screen, if you open Kick or Ban modal, focus the reason field and close the modal, the keyboard will stay open",
+  "steps_to_repro": "- Go to a server with kick or ban permission - Open someone's mini profile - Tap Manage User - Scroll down to below roles where Kick, Ban and Transfer Ownership options are located - Open either Kick or Ban modal - Focus Reason textfield - Tap outside the modal to close it"
+ }
+}

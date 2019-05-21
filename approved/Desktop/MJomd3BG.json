@@ -1,0 +1,30 @@
+{
+ "id": "5bf35b37f115aa68dd90d346",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3410,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MJomd3BG",
+ "data": {
+  "system_settings": "macOS 10.14",
+  "client_settings": "Release Channel: ptb, Build Number: 28197, Version Hash: e81207e8005dd9e0f9d12924053d92c315798e49",
+  "actual_result": "The mouse cursor is not displayed",
+  "expected_result": "The mouse cursor is displayed and mirrored in the screenshare result",
+  "short_description": "Mouse cursor does not appear in non-app specific screenshare on macOS",
+  "steps_to_repro": "- Begin a screenshare, selecting a desktop rather than a specific application - Move your mouse around"
+ }
+}

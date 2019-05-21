@@ -1,0 +1,30 @@
+{
+ "id": "5b6d8ee1ca63200c558dd066",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1810,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SD5Ewjvt",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 729",
+  "actual_result": "The search just stops. The stopped position in landscape mode isn't the same as the on in portrait mode i.e the binoculars is not on the eyes of the Wumpus. The screen isn't scrollable and the Wumpus isn't in the center of the screen in landscape mode.",
+  "expected_result": "Nothing special happens. The search just continues.",
+  "short_description": "Switching orientation in the nearby screen in the add friends screen causes weird things to happen.",
+  "steps_to_repro": "- Open the friends screen and click on Nearby. - Click on Find friends\". - Switch orientation."
+ }
+}

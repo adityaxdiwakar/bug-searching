@@ -1,0 +1,16 @@
+{
+ "id": "58a8642e246a98e62dbcefb9",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 231,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/L33xjNej",
+ "data": {
+  "system_settings": " Android 5.1 Discord 3.3.4",
+  "actual_result": "it flickers",
+  "expected_result": "it doesn't flickers",
+  "short_description": ":emoji screen flickers when typing",
+  "steps_to_repro": "- erase - start typing - "
+ }
+}

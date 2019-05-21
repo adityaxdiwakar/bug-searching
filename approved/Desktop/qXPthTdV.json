@@ -1,0 +1,17 @@
+{
+ "id": "59ec4229481cc064919a16ae",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1301,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/qXPthTdV",
+ "data": {
+  "system_settings": "Windows 10, x64",
+  "client_settings": "Canary 0.0.167",
+  "actual_result": "Upon clicking the play button within the embed it will refresh discord",
+  "expected_result": "Since it is a 3d model it should not be able to embed",
+  "short_description": "Clicking on certain play buttons in embeds will refresh discord",
+  "steps_to_repro": "- Click on the link belows play button within the embed attached -"
+ }
+}

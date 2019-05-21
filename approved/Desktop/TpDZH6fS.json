@@ -1,0 +1,36 @@
+{
+ "id": "5a583ee3d483a915e6bffd2c",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1533,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TpDZH6fS",
+ "data": {
+  "system_settings": "Mac OS X 10.13.2",
+  "client_settings": "Discord 0.0.249",
+  "actual_result": "Discord will try to install an update and quit. - By switching back to a user with administrator privileges, it is possible to open the software, which shows a dialogue box about updating Discord or installing a helper app. This is blocked from appearing for the standard user.",
+  "expected_result": "Discord asks for administrator privileges (preferred) OR Discord quits with an error message that the software needs to be updated under administrator privileges.",
+  "short_description": "When running as a standard user (ie without admin privileges), updates of Discord quietly fail and blocks the application from opening.",
+  "steps_to_repro": "-  Install a previous version of Discord on Mac OS X (this tested on 10.13.2). Do not open the application! - Create a standard user - Switch to the standard user - Open Discord"
+ }
+}

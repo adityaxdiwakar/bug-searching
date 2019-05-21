@@ -1,0 +1,16 @@
+{
+ "id": "58f84561b682c162c5d2e177",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 504,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/K5gpCN1s",
+ "data": {
+  "system_settings": " Win 10 x64,  latest Canary",
+  "actual_result": "Only the highest emoji will be selected",
+  "expected_result": "All image files that you selected would be submitted as custom emoji",
+  "short_description": "Cannot upload multiple custom emoji at once",
+  "steps_to_repro": "- Click `Upload Emoji` button - Select multiple files to upload "
+ }
+}

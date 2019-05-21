@@ -1,0 +1,30 @@
+{
+ "id": "5b30bd52cf37d191eb884d7f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1597,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CofMLbBg",
+ "data": {
+  "system_settings": "Xioami Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.9.9",
+  "actual_result": "White circle obviously can't be seen on white background which is because of incorrectly themed white circle.",
+  "expected_result": "Circle should be present/visible",
+  "short_description": "The white circle behind the # in the list of text channels is incorrectly themed hence invisible in white theme.",
+  "steps_to_repro": "- Go to any text channel and type #. Notice list of channels popping up. - See there's a white circle behind the \"#\" before channel name. - Switch to white theme, and type # in any text channel and try to notice that circle"
+ }
+}

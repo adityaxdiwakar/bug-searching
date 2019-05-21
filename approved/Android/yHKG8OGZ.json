@@ -1,0 +1,30 @@
+{
+ "id": "5b0eaf04e9c29416c8d996aa",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1482,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yHKG8OGZ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.7",
+  "actual_result": "The content of the message I wanted to edit is still in the textbox but I'm no longer in Edit mode",
+  "expected_result": "I should be able to continue editing my message in channel A",
+  "short_description": "If you edit a message while you were already editing another message in another channel, the Edit mode will be lost upon going back to that channel",
+  "steps_to_repro": "- Go to channel A - Send a message - Long press and Edit - While you're in Edit mode, switch to channel B - Send message - Long press and Edit - Go back to channel A"
+ }
+}

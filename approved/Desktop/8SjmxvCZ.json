@@ -1,0 +1,29 @@
+{
+ "id": "590bb5fa14186d14ac0a5742",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 595,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8SjmxvCZ",
+ "data": {
+  "system_settings": " Windows 8.1 and Canary",
+  "actual_result": "Uses system language",
+  "expected_result": "Should be in language I set on Discord",
+  "short_description": "Ban \"delete message history\" drop-down isnt in Discord language",
+  "steps_to_repro": "- Attempt to ban someone - click drop-down menu "
+ }
+}

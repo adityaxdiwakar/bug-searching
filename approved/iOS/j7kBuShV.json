@@ -1,0 +1,24 @@
+{
+ "id": "5a8365a6738825d537684a7d",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 586,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/j7kBuShV",
+ "data": {
+  "system_settings": "iPhone 6 iOS 10.3.2",
+  "client_settings": "TestFlight Build 2.2.3 (2572)",
+  "actual_result": "Nothing happens",
+  "expected_result": "A pop-up should come up, asking you were you want to share it",
+  "short_description": "New share extension doesn't work [iOS 10 and below only]",
+  "steps_to_repro": "- Open a website, image in etc in an app like Safari or Twitter - Tap on the share button - Enable the Discord share extension if it isn't enabled already - Tap on the Discord icon"
+ }
+}

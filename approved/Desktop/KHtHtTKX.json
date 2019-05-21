@@ -1,0 +1,15 @@
+{
+ "id": "5835f617e6fa04c64d409775",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 170,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/KHtHtTKX",
+ "data": {
+  "actual_result": "The icon appears to jump up momentarily",
+  "expected_result": "It moves normally when you click and drag",
+  "short_description": "Moving server icons up slightly causes them to jump up a few slots momentarily",
+  "steps_to_repro": "- Click and drag a server icon a tiny bit - It will jump up 5 or 6 slots momentarily for about 1 frame then return to its original location (Gif attached is low framerate and is hard to see it happening) - If you let go during the frame where it jumps up you will move the server icon up as far as it appears to jump (also in gif) - If it doesnt occur anymore try clicking onto another server and then back onto the server you are testing with "
+ }
+}

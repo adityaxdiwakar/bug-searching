@@ -1,0 +1,30 @@
+{
+ "id": "5b0ecb5dbea17961ff4c3d12",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1483,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SKHZHIy0",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~Android 7.0 SE 8.1",
+  "client_settings": "Discord Alpha 687",
+  "actual_result": "No space",
+  "expected_result": "The mention string and a space after it",
+  "short_description": "Quickmention doesn't add a space anymore",
+  "steps_to_repro": "- Click on someone's profile picture or name"
+ }
+}

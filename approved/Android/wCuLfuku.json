@@ -1,0 +1,30 @@
+{
+ "id": "5c2943835e4791476b3c7a0d",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2406,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wCuLfuku",
+ "data": {
+  "system_settings": "Pixel 3 XL, Android 9 PQ1A.181205.006, Discord 8.2.2",
+  "client_settings": "8.2.2",
+  "actual_result": "Discord continues to think it's scanning",
+  "expected_result": "Discord Nearby scanning should stop",
+  "short_description": "Nearby scanning doesn't stop after denying permission",
+  "steps_to_repro": "- Go to Android Settings > Google > Nearby > Settings cog, and make sure Discord is off - Restart Discord - Go to Friends > Add Friends, and tap the \"start nearby scanning\" button - When the Nearby permission modal opens (it might take a while for it to open), tap \"deny\" - Observe that Discord thinks it's still scanning, even though it doesn't have the permission to do so"
+ }
+}

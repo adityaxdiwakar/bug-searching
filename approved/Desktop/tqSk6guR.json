@@ -1,0 +1,24 @@
+{
+ "id": "59a23757abdae0fab21cb291",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1053,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tqSk6guR",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6 (16G29) (iMac Retina 5K, 27-inch, Late 2017)",
+  "client_settings": "Discord Canary 0.0.154 (Build 3661)",
+  "actual_result": "it says \"in this channel\" instead of \"in this server\", as if it's in the channel settings",
+  "expected_result": "Since it's Server Settings, it would say \"Members must use Push-to-talk in this channel if this permission is disallowed.\"",
+  "short_description": "In Server Settings > Roles, the description for Use Voice Activity says \"channel\" instead of \"server\".",
+  "steps_to_repro": "- Go to Server Settings on a server you own/are admin on/have the manage roles permission on - Go to the Roles tab - Scroll all the way down - Read the description for \"Use Voice Activity\""
+ }
+}

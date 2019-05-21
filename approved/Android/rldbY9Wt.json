@@ -1,0 +1,30 @@
+{
+ "id": "59a0a1cbd2af243720c48df9",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 656,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rldbY9Wt",
+ "data": {
+  "system_settings": "ASUS_ZENPHONE / ANDROID 5.1.1 / ASUS_X014D",
+  "client_settings": "Discord alpha 4.1.1(506) (latest alpha)",
+  "actual_result": "They dont.",
+  "expected_result": "They get sorted",
+  "short_description": "Sorting servers in latest alpha doesnt save",
+  "steps_to_repro": "- Go to sort servers - Sort a few servers"
+ }
+}

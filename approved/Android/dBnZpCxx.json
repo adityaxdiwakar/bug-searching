@@ -1,0 +1,30 @@
+{
+ "id": "5bb0bc694eac8c0fb88934e2",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2081,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dBnZpCxx",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 759",
+  "actual_result": "The timer goes all the way to the end and gets stuck there which causes the notification to not close at all.",
+  "expected_result": "The timer continues.",
+  "short_description": "Clicking on any of the links in the connection problems in app notification and then going back takes the timer to the end and the notification never slides away.",
+  "steps_to_repro": "- Get the connection problems in app notification. - Click on any of the links (server status or @discordapp). - Close the custom Chrome tab (or go back to the app if you're not using the custom Chrome tab). - Observe the timer on the notification."
+ }
+}

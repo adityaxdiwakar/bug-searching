@@ -1,0 +1,17 @@
+{
+ "id": "5a2f53de357fe3ef010945cf",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1442,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cBD1pSe4",
+ "data": {
+  "system_settings": "windows 10",
+  "client_settings": "stable, Build Number: 8433,",
+  "actual_result": "the code block get cut off in embeds and are hard to really work with in discord.",
+  "expected_result": "A horizontal scrollbar appears so all code block text can be read.",
+  "short_description": "Bot embed code blocks do not show a horizontal scrollbar but cut off text.",
+  "steps_to_repro": "- Have a bot create a code block in an embed with lots of text in the code block - observe how the code block gets cut off and you can not read the whole code block making it hard to work with"
+ }
+}

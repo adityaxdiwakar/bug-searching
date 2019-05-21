@@ -1,0 +1,15 @@
+{
+ "id": "587ea25bce83a7ec2f0d1368",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 180,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4nms8SCs",
+ "data": {
+  "actual_result": "Keeps on reconnecting again and again, for a while (up to 30 mins)",
+  "expected_result": "Works just fine, as you never even closed it",
+  "short_description": "Idle app reconnecting",
+  "steps_to_repro": "- Don't close the app, but lock your phone - Have the app idle for a while (may take 1 to 60 minutes, idk exactly) - Unlock the phone "
+ }
+}

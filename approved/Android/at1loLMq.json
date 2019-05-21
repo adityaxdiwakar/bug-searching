@@ -1,0 +1,30 @@
+{
+ "id": "5b33401ba1a46b7d13d5da61",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1607,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/at1loLMq",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 SE 8.1",
+  "client_settings": "Discord Alpha 689",
+  "actual_result": "It gives a toast saying \"Unknown User\" which is completely unrelated",
+  "expected_result": "It should do nothing as it's your own song",
+  "short_description": "Clicking on your own spotify rich presence image will refer to a toast saying \"Unknown User\"",
+  "steps_to_repro": "- Open up a desktop client - Play something on Spotify - Click on your spotify song image on Android"
+ }
+}

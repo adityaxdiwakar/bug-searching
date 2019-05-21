@@ -1,0 +1,17 @@
+{
+ "id": "59e48bcdbe302ed174bd98af",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 815,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wVPSRGex",
+ "data": {
+  "system_settings": "OnePlus 3 Android 7.1.1",
+  "client_settings": "alpha 5.3.9",
+  "actual_result": "It's there.",
+  "expected_result": "The icon shouldn't exist in the first place.",
+  "short_description": "``Add friend`` icon when you open your profile.",
+  "steps_to_repro": "- Open your profile, there will be the icon on the top right corner."
+ }
+}

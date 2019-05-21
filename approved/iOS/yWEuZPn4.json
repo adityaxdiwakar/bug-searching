@@ -1,0 +1,17 @@
+{
+ "id": "592917319bc4771c59b115e8",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 250,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yWEuZPn4",
+ "data": {
+  "system_settings": "Latest iOS",
+  "client_settings": "Latest Discord",
+  "actual_result": "After a bit, the channel is reset",
+  "expected_result": "It stays like how you changed it",
+  "short_description": "Creating an invite for a server and changing the channel for the invite and waiting changes back to the original channel (by this i mean if you change it for regeneration the invite to put in another channel will reset back to the channel you made the invite in originally)",
+  "steps_to_repro": "- Create an invite to a channel on a server - Change the location of it however don't regenerate the invite - Wait a few seconds on the invite main area"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a14f77f278e438c176c8f30",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 911,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/MzYLOpzQ",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.7.3",
+  "actual_result": "It appears as raw text with roleID, e.g `<@&364870197078786049>`",
+  "expected_result": "In the chat box, it's formatted as regular mentions, e.g `@role` in bold",
+  "short_description": "Editing a message containing a role mention will display the raw text with roleID in the chat box instead of the bolded @ role name",
+  "steps_to_repro": "- Send a message that contains a mentionnable role tag - Long press and edit this message"
+ }
+}

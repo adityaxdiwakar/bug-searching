@@ -1,0 +1,17 @@
+{
+ "id": "5bc0dd45f28cb15f7b629af7",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2162,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/d3pVOrCf",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Alpha 7.6.8",
+  "actual_result": "After you scroll down, it seems like you hit the end, and loading animation starts only when you attempt to scroll down more from that end.",
+  "expected_result": "Once you scroll down enough, loading animation should appear automatically and load more logs.",
+  "short_description": "Scrolling down through audit log doesn't give the loading animation before you hit the end.",
+  "steps_to_repro": "- Go to audit log, and scroll down until you have to load more. - As soon as it reaches the end, you should see that it just stops without any loading. From there, scroll down for more immediately (need to be fast)"
+ }
+}

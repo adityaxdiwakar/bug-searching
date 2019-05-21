@@ -1,0 +1,17 @@
+{
+ "id": "5b7bd6eba1e34e1461c06c25",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1863,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/aNv8nzqW",
+ "data": {
+  "system_settings": "Lenovo Vibe C, Android 5.1.1",
+  "client_settings": "Discord Alpha 7.3.8",
+  "actual_result": "Nothing happens at all",
+  "expected_result": "Discord opens a window where it says invite is expired or invalid",
+  "short_description": "No message about expired invite if you have \".\", \"!\", \"?\" etc. in your invite",
+  "steps_to_repro": "- Open new server window - Type any letters and add \".\",\"?\",\"!\" etc. to it - Try joining"
+ }
+}

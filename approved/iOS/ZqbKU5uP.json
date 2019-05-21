@@ -1,0 +1,30 @@
+{
+ "id": "5aa32e098ff177d6b3de7573",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 627,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZqbKU5uP",
+ "data": {
+  "system_settings": "iPhone X, iOS 11.2.6",
+  "client_settings": "Testflight 2.2.5 (3022)",
+  "actual_result": "Discord has a dead space border",
+  "expected_result": "Discord uses the entire screen per expectations",
+  "short_description": "Discord has a dead zone border of one pixel on the left and right sides",
+  "steps_to_repro": "- Observe the staggered appearance between the keyboard and chat edge - Alternatively you can take a screenshot and upload it before viewing the black border"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59a2ee8063f318d230cc01da",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 302,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4K9NAKWx",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 10.3.3",
+  "client_settings": "Discord TestFlight 1.9.1",
+  "actual_result": "It doesn't, it will only resize when the scroll bar is almost at the bottom",
+  "expected_result": "The scroll bar should resize to fit the 200+ text channels",
+  "short_description": "The scroll bar goes back up when it reaches the bottom with 200+ text channels",
+  "steps_to_repro": "- Restart Discord - Go to a server which has 200+ text channels - Scroll down and you will see the scroll bar go up and down when it reaches the bottom"
+ }
+}

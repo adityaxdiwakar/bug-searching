@@ -1,0 +1,30 @@
+{
+ "id": "5bb03a9124d47a6f5f978cc0",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2073,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AjAHBQfZ",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.5.9",
+  "actual_result": "The mini profile closes (the modal is still on screen though)",
+  "expected_result": "The \"kick 'member?'\" modal should not close the person's mini profile",
+  "short_description": "Pressing the kick button while in someone's mini profile causes the user's mini profile to close",
+  "steps_to_repro": "- Press the kick button in someone's mini profile so the \"kick 'member?'\" modal pops up - Observe"
+ }
+}

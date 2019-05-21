@@ -1,0 +1,30 @@
+{
+ "id": "5ad38f4982b3775692efd7c3",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1851,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ik6RnDqj",
+ "data": {
+  "system_settings": "Windows 10 home 64-bit.",
+  "client_settings": "Discord Canary Build 13622.",
+  "actual_result": "It's sending a blank text and a message by Clyde that the message was not delivered.",
+  "expected_result": "It should post the Spotify embed link and say that the party is over.",
+  "short_description": "Blank text after sharing a song while stopping it",
+  "steps_to_repro": "- Make sure to have \"Embed Links\" permission - Click on the green playing button that is found on the upload files button. - Invite to listen - While the window is opened, stop the song - Go back to the window, and Send Invite."
+ }
+}

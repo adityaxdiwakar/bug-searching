@@ -1,0 +1,17 @@
+{
+ "id": "5b91994f7f0c39480df96997",
+ "closed": true,
+ "idList": "5b916149a09108891cdbd74c",
+ "idShort": 975,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gj6RYtVl",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 12",
+  "client_settings": "TestFlight 2.3.8 (7049)",
+  "actual_result": "Emoji picker cuts off the third dot",
+  "expected_result": "Emoji picker doesn't overlap the ellipses",
+  "short_description": "Emoji picker button overlaps ellipses on long names in dms",
+  "steps_to_repro": "- Open a DM with someone who has a long enough name the emoji picker shortens it to ellipses - Observe the placement of the emoji picker with the third dot"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a6410ca43dd6b52b379df2e",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 534,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bUYfzUv7",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.2.5 beta 6",
+  "client_settings": "TestFlight 2.2.1 (2224)",
+  "actual_result": "Some emoji look slightly moved down/off-centered.",
+  "expected_result": "Emoji in reactions should be centered, or not slightly moved down.",
+  "short_description": "Emoji in reactions are slightly moved down/off-centered.",
+  "steps_to_repro": "- Find a message with reactions or react with some emoji to any message - Use your eyes and observe the reactions"
+ }
+}

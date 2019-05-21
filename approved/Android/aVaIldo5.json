@@ -1,0 +1,30 @@
+{
+ "id": "5beebcd188850b8816cde853",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2325,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aVaIldo5",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.9.4",
+  "actual_result": "Nothing, just a blank page",
+  "expected_result": "Whenever search gives no results, it should show an explicit visual saying nothing was found (as on the Desktop client)",
+  "short_description": "Blank page shown instead of \"No results found\" visual : currently affecting \"Add Channel or Category\" in server notification overrides, emoji search, and audit log filter selector",
+  "steps_to_repro": "- STR 1: Long press any server in your server list > \"Notifications\" > \"Add channel or category\", enter a nonexisting channel/category and observe - STR 2: In server settings, open Audit logs, tap Filter by user or action, and enter the name of a nonexisting filter - STR 3: Open Emoji picker, either in chat or in reactions, search emoji, enter a nonexisting emoji name and observe"
+ }
+}

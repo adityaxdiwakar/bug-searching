@@ -1,0 +1,17 @@
+{
+ "id": "5ad8029dcac182a171b61242",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1293,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Odd3ph5y",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 6.5.4",
+  "actual_result": "two emoji show",
+  "expected_result": "only one emoji should show",
+  "short_description": "Emoji duplicates when at the end of the first line of text and next character causes second line and dupes the emoji [5.x Only]",
+  "steps_to_repro": "- Send a message long enough and the emoji is the last character at the line - after the emoji have a character causes a second line (no space) - send message - observe the message"
+ }
+}

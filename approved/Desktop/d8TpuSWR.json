@@ -1,0 +1,24 @@
+{
+ "id": "59e56516708f87b7ab2e97a3",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1266,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/d8TpuSWR",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13",
+  "client_settings": "Discord Canary, 0.0.155, Build 5843",
+  "actual_result": "It changes automatically. Might be an issue that happens after some extended period time. There is nothing about it in the audit log. Note: I was also unable to change the filter from nothing to all members (must change it to members without roles first).",
+  "expected_result": "`Explicit Content Filter` shouldn't change automatically to nothing.",
+  "short_description": "Moderation: \"Explicit Content Filter\" changes automatically to \"Don't scan any messages\"",
+  "steps_to_repro": "- Have `Explicit Content Filter` activated (members without role or all members option) - Go to `Server settings` -> `Moderation` - Observe how `Explicit Content Filter` changed"
+ }
+}

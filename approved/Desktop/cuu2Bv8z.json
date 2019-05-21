@@ -1,0 +1,42 @@
+{
+ "id": "5a8807761a3dd92718aefe5b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1666,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a860c4ed6ea847898de1b7f",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Embeds",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cuu2Bv8z",
+ "data": {
+  "system_settings": "Ubuntu Linux 17.10",
+  "client_settings": "Release Channel: stable, Build Number: 10394, Version Hash: 7553b167d8f0276f19ff85cf3d50ee41b0e7b752",
+  "actual_result": "An embed does not appear. Note that the \",\" doesn't otherwise break the link.",
+  "expected_result": "An embed appears",
+  "short_description": "Links ending in numbers do not show embeds if there is a comma at the end.",
+  "steps_to_repro": "- Send this message: \"https ,\""
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "id": "584882026c611a4a2d3cdee6",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 223,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JsonY35V",
+ "data": {
+  "actual_result": "The reactions changed order",
+  "expected_result": "The reactions stay in the same order they were submitted in",
+  "short_description": "reactions get reordered",
+  "steps_to_repro": "- Be in a server with some custom emojis - Post a message - Put a custom reaction on it - After that put a non-custom reaction on it - Tell someone to click on reactions on your message in any order - Reload your Discord client and look at your message"
+ }
+}

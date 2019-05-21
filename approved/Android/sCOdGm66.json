@@ -1,0 +1,30 @@
+{
+ "id": "594dfd211088cd7bc52d4e82",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 520,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/sCOdGm66",
+ "data": {
+  "system_settings": "Moto G5+, Android 7.0",
+  "client_settings": "Discord 3.9.4 (392)",
+  "actual_result": "You can talk freely using Voice Activation when you shouldn't.",
+  "expected_result": "You get muted and a warning pops up saying that you can't talk until you enable PTT (or it force switches you to PTT mode)",
+  "short_description": "Users are not forced to use Push-to-Talk",
+  "steps_to_repro": "- Join a channel that has the \"Use Voice Activity\" permission denied - Talk"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a3415824da7a93dd09b89af",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 957,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wteXMvwe",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 5.8.6",
+  "actual_result": "it's off screen",
+  "expected_result": "image is normal",
+  "short_description": "Image goes off screen on phone verification",
+  "steps_to_repro": "- join a double tableflip server with an account with no phone verification - click verify phone - click back - click verify phone - observe the image of the phone"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b35be047e74c5efcd253d69",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1620,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RUxt0vEe",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.0.1",
+  "actual_result": "It's stuck to resolving state until you scroll the chat to bring the embed out of the viewport and scroll back to it",
+  "expected_result": "Invite embed should load when getting your connection back",
+  "short_description": "Invite stuck at resolving state when losing connection and getting it back",
+  "steps_to_repro": "- Switch to a channel to load the last 50 messages, and that you know one of these messages contains an invite. This message must be offscreen so that the invite won't load as soon as you switch to channel - Simulate a connection loss by disabling wifi and mobile data - Scroll up to where the invite embed is - Notice the embed is saying \"resolving\"  - Now enable your connection back and observe"
+ }
+}

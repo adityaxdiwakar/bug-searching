@@ -1,0 +1,17 @@
+{
+ "id": "5b66b8832ce77648930859b7",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1785,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5zXwfVvI",
+ "data": {
+  "system_settings": "Nexus 6 Android 8.1.1",
+  "client_settings": "Discord Alpha 7.2.5",
+  "actual_result": "Spotify shows up instead",
+  "expected_result": "Game name/info should show up",
+  "short_description": "Spotify has higher priority than mobile games for now playing",
+  "steps_to_repro": "- have Spotify linked to Discord - Give Discord on Android permissions to detect games - listen to Spotify (might only occur when Spotify is being used on Desktop) - play a game on phone while listening"
+ }
+}

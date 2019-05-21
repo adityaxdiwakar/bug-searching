@@ -1,0 +1,30 @@
+{
+ "id": "5b255adde68754d7648cd449",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1547,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7Bu4W4ws",
+ "data": {
+  "system_settings": "Moto G5 Plus Android 8.1",
+  "client_settings": "Discord Alpha 6.9.5",
+  "actual_result": "It shows a toast message with it capitalized.",
+  "expected_result": "It shows a toast message with \"updated\" not capitalized.",
+  "short_description": "When updating the language of Discord on Android the toast message has the word \"updated\" capitalized.",
+  "steps_to_repro": ""
+ }
+}

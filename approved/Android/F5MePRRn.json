@@ -1,0 +1,30 @@
+{
+ "id": "5b7cbddb3e390f07615424b0",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1866,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/F5MePRRn",
+ "data": {
+  "system_settings": "Honor 9, Android 8.0.0",
+  "client_settings": "Discord Alpha 7.3.9",
+  "actual_result": "The link immediately opens the \"Join Server\" screen. (Got confirmation from a Developer it's a bug)",
+  "expected_result": "The link should prompt you where it should be opened.",
+  "short_description": "Invite links at the bottom of a message will not show a prompt.",
+  "steps_to_repro": "- Write a message and put an invite link as last sentence. - Send the message and click on the invite link. (Make sure you don't have a default browser set)"
+ }
+}

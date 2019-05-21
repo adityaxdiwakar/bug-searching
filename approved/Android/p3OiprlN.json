@@ -1,0 +1,30 @@
+{
+ "id": "59bbf2d214fe4c6f6a522d0e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 718,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/p3OiprlN",
+ "data": {
+  "system_settings": "Google Pixel - Android 8.0.0",
+  "client_settings": "Android Alpha 5.1.6",
+  "actual_result": "Even after cache clear/force stop, language settings are not effective on android (not a dupe of neQCYvnp)",
+  "expected_result": "Language should change",
+  "short_description": "i18n COMPLETELY broken on Android",
+  "steps_to_repro": "- Change language to something other than English"
+ }
+}

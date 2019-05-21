@@ -1,0 +1,17 @@
+{
+ "id": "59c53400e897eddedcdeed7f",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 759,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/N0B4N05f",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 (SM-G900F), Android 6.0.1",
+  "client_settings": "Android Alpha 5.2.6",
+  "actual_result": "It allows you to deafen without muting and when looking at people in the voice channel your name has dissappeared and the deafened logo is on the left instead of the right.",
+  "expected_result": "You deafen and mute and it shows up normally in the channel.",
+  "short_description": "You can deafen without muting and when doing so your name appears to be blank and the deafened symbol is in the wrong place.",
+  "steps_to_repro": "- Join a voice channel - Deafen without muting - Note this works and look at the people in the voice channel"
+ }
+}

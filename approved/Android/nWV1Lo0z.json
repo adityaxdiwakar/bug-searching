@@ -1,0 +1,30 @@
+{
+ "id": "5bb0b865b3e01a1a8286b618",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2079,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nWV1Lo0z",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 759",
+  "actual_result": "After minutes of scrolling, you'll see that some results start to get duplicated. The more you scroll, the more the results get duplicated.",
+  "expected_result": "Nothing out of ordinary happens. You just keep going down.",
+  "short_description": "Some search results get duplicated as you scroll down.",
+  "steps_to_repro": "- Search something that gives too many results. - Start scrolling down the search results."
+ }
+}

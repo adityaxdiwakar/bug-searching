@@ -1,0 +1,30 @@
+{
+ "id": "59559e4a946ab69e5e3a146d",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 799,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/L1TnKk5G",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.5",
+  "client_settings": "Desktop Canary, 0.0.149",
+  "actual_result": "The message\\_id of the message in which the role was mentioned is copied to your clipboard",
+  "expected_result": "Selecting \"Copy ID\" when right clicking a role mention should copy the role\\_id to your clipboard",
+  "short_description": "Right click -> Copy ID on a role mention copies the message_id instead of the role_id",
+  "steps_to_repro": "- Enable developer mode - Mention a role in a chat channel with some text - Right click on the role mention and select \"Copy ID\" - Paste the copied text - Right click on the other text and select Copy ID - Paste the copied text (they are the same)"
+ }
+}

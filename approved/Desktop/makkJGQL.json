@@ -1,0 +1,30 @@
+{
+ "id": "5a9887ae4f1b234e66e57511",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1698,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/makkJGQL",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 1709",
+  "client_settings": "Discord Canary 11466",
+  "actual_result": "It says that the account is unclaimed.",
+  "expected_result": "The app shows the user information normally and doesn't show that the account is unclaimed.",
+  "short_description": "Changing the language of Discord on another device causes it the desktop app to think that the account is unclaimed.",
+  "steps_to_repro": "- Open User Settings on Desktop - On another device (in this case iOS) change your Discord language"
+ }
+}

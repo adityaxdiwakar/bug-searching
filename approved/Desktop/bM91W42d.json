@@ -1,0 +1,30 @@
+{
+ "id": "5be7b1110602ae5d819099bf",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3370,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bM91W42d",
+ "data": {
+  "system_settings": "Google Chrome    69.0.3497.100 (Official Build) (64-bit) (cohort: Stable), Windows 10 Pro 10.0.16299 (Build 16299) x64",
+  "client_settings": "Discord Canary, 27811 (Google Chrome)",
+  "actual_result": "The emoji is added with a reaction, along with another reaction with the 'character not found' symbol",
+  "expected_result": "The emoji should display properly as a reaction",
+  "short_description": "Unicode emojis display incorrectly in reactions",
+  "steps_to_repro": "- Open Discord Canary for web - Add a in-built emoji to a message (e.g. `:regional_indicator_a:`) - View the reaction (through the browser)"
+ }
+}

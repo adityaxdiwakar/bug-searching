@@ -1,0 +1,17 @@
+{
+ "id": "5afd9318b8ad4bf4ab45f4d6",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2010,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/y2eMLBrg",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "[BUILD INFO] Release Channel: ptb, Build Number: 15435, Version Hash: 132ad807c5cf2f8851c319e08943ea1e6ca33c4b",
+  "actual_result": "The badge disappears",
+  "expected_result": "Nothing Happens",
+  "short_description": "When you acces the profile of a person in Direct Messages and drag over his hypesquad badge with left click holded the badge disappears",
+  "steps_to_repro": "- Select a person from your **Direct Messages** - Open his profile - Hold left click and drag the cursor over the hypesquad badge"
+ }
+}

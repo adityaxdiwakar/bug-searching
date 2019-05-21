@@ -1,0 +1,30 @@
+{
+ "id": "5a7aa006eac0993f734141a2",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1636,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CTv0LhSU",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit",
+  "client_settings": "Discord Canary 0.0.201, Build 10328",
+  "actual_result": "File's size text appears to get pushed and go into separate lines due to the file's long name",
+  "expected_result": "File's name correctly cuts off into dots, allowing the file's size text to display properly and not in three separate lines",
+  "short_description": "Size text of the new file upload wraps weirdly when uploading a file with a lengthy name",
+  "steps_to_repro": "- Upload a file with a lengthy name - Observe the size text part of the file at the end, best if you use a large file so that you have more time to see it"
+ }
+}

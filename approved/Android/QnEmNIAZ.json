@@ -1,0 +1,24 @@
+{
+ "id": "59c552a2955b0e7bdbd09a55",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 760,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QnEmNIAZ",
+ "data": {
+  "system_settings": "Android 4.4.4, Tablet Allview Viva H8 LTE",
+  "client_settings": "Discord Alpha 5.2.6",
+  "actual_result": "The voice channels category is placed at the top",
+  "expected_result": "The text channels category should be placed at the top",
+  "short_description": "New servers are created with the default categories in the wrong order",
+  "steps_to_repro": "- Create a new server - Observe the default categories; The voice channels are placed at top"
+ }
+}

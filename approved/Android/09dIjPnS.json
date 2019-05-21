@@ -1,0 +1,30 @@
+{
+ "id": "5b8922f656b1e8894f6a5f80",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1905,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/09dIjPnS",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 742",
+  "actual_result": "The page scrolls up a little bit which can be observed by looking at the shadow that falls on the cloud. The page isn't even scrollable.",
+  "expected_result": "The image either stays in the same position or the page doesn't scroll.",
+  "short_description": "When you switch orientation in the invite creation screen and click on the settings gear, make a few changes and click on create invite, the invite creation page scrolls up a little bit and it is impossible to scroll down that bit.",
+  "steps_to_repro": "- Click on the create instant invite button of a server you have permission to create an instant invite. - Switch orientation. - Observe the place above the image. - Now, click on the settings gear, make a few changes in settings and click on create link. - Now, observe the place above the image."
+ }
+}

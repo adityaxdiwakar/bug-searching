@@ -1,0 +1,30 @@
+{
+ "id": "5b1e67f770dd15bb9051f466",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1526,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pBakH4iD",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.8.9",
+  "actual_result": "The message fails as intended, but you can retry infinite times, the only real thing you can do is delete the message",
+  "expected_result": "Of course it will fail to send, but it shouldn't ask you if you want to retry, because no matter how many times you retry, the message will always fail to send since it's invalid and you can't even edit it. A simple fix would be either to hide option to retry, or add an option to edit message before retrying (Edit Message is already a feature, so I don't think it's a feature request, would simply consist of enabling the Edit option on the failed message's action sheet)",
+  "short_description": "When a message fails to send because it's invalid (e.g above 2k characters), it still suggests you to resend it, though it will obviously never work",
+  "steps_to_repro": "- Write a message over 2k chars - Send it"
+ }
+}

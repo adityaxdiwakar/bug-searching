@@ -1,0 +1,15 @@
+{
+ "id": "5834b64afa564694f2bb3191",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 168,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XaYvCQE8",
+ "data": {
+  "actual_result": "The game just fits into the game area.",
+  "expected_result": "The game linebreaks",
+  "short_description": "Some games might not line-break fully",
+  "steps_to_repro": "- Play certain games (see attached picture) "
+ }
+}

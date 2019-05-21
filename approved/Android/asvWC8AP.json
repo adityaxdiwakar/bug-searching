@@ -1,0 +1,30 @@
+{
+ "id": "5b5dd7842445c877abfbc560",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1712,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/asvWC8AP",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.0",
+  "actual_result": "The Quick Switcher looks like closed for a split second and then comes back with a vertical sliding animation as if you just opened it",
+  "expected_result": "You get back to Quick Switcher without any animation as it is supposed to be already open",
+  "short_description": "The Quick Switcher re-does the vertical sliding animation everytime you press Home button and come back via multi-tasking",
+  "steps_to_repro": "- Open Quick Switcher - Press Home button of your phone - Come back using multi-tasking (not via homescreen icon as the QS will completely close due to another issue)"
+ }
+}

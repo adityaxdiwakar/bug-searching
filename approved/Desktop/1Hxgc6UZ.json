@@ -1,0 +1,30 @@
+{
+ "id": "5b4cfb8cdbfddd26ce40adce",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2270,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1Hxgc6UZ",
+ "data": {
+  "system_settings": "windows 10 home x64 v1803",
+  "client_settings": "canary 18866w",
+  "actual_result": "not full-width, looks like a scrollbar belongs there",
+  "expected_result": "full-width hover",
+  "short_description": "message drop-down menu not center / has right-hand side",
+  "steps_to_repro": "- update to 18866 - click the kebab menu on a message - observe"
+ }
+}

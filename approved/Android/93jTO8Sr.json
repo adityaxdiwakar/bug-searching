@@ -1,0 +1,30 @@
+{
+ "id": "5b96b060406eeb27df685659",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1965,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/93jTO8Sr",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.4.8",
+  "actual_result": "You stay in Search screen. The search results will vanish, but the search result count will stay, and the search bar is still present so you can still try to submit things. Clearly a state in which you're not supposed to be",
+  "expected_result": "Search panel should close",
+  "short_description": "Search panel doesn't close and gets in a weird state if you get kicked while viewing search results",
+  "steps_to_repro": "- Open Search in any server - Submit anything that gives results - Get kicked from the server"
+ }
+}

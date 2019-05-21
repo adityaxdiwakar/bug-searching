@@ -1,0 +1,30 @@
+{
+ "id": "5b2df32e4eb31accc2025247",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1584,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EKMnZ02O",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 698",
+  "actual_result": "The instant invite embed appears and says nothing but \"resolving instant invite\"",
+  "expected_result": "The resolving instant invite embed should not appear.",
+  "short_description": "The link for message sharing shows invite embed.",
+  "steps_to_repro": "- Update to 698 (get into a server as soon as possible to avoid the crash). - Turn on Developer mode. - Long press on a message. - Share it somewhere on Discord. - Observe."
+ }
+}

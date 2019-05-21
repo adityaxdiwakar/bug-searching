@@ -1,0 +1,24 @@
+{
+ "id": "594e98d46cda533ce7b16f86",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 522,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1xgz2icB",
+ "data": {
+  "system_settings": "LG Stylo 3, Android 7.0",
+  "client_settings": "Android Alpha 3.9.7",
+  "actual_result": "2 open. Holding down 3, 4, 5, ect. Will open more",
+  "expected_result": "One server settings menu opens",
+  "short_description": "You can open 2 server settings menus at the same time",
+  "steps_to_repro": "- Open the left server drawer - hold down on 2 server icons at the same time"
+ }
+}

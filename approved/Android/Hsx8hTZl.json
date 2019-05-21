@@ -1,0 +1,30 @@
+{
+ "id": "5ad1c249847f427b972d9016",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 1272,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Hsx8hTZl",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.9",
+  "actual_result": "The autocompletion list crushes/squeezes the textfield, and can even disappear if your keyboard is tall enough. If you can't reproduce, try with a taller keyboard (it really depends on the keyboard height)",
+  "expected_result": "The mention autocompletion list pops up above chat textfield without altering its height",
+  "short_description": "In Landscape mode, when including @ symbol, the mention autocompletion list will cause the chat textfield to squeeze, nay disappear, depending on your keyboard height",
+  "steps_to_repro": "- Switch to Landscape mode - Focus the chat textfield  - Insert @ symbol. The keyboard must be open to do that"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a31d4433192ded7403c3fa7",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 453,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/wmy6jYkO",
+ "data": {
+  "system_settings": "iOS 11.1, iPhone 7",
+  "client_settings": "TestFlight 2.2.0 (1910)",
+  "actual_result": "Text under 'Recent Mentions' stays with what you opened it as.",
+  "expected_result": "Text under 'Recent Mentions' changes to what set of mentions you're currently looking at.",
+  "short_description": "Recent mentions titlebar does not change depending on looking at specific server or all servers.",
+  "steps_to_repro": "- Open up any server you've been pinged on. - Swipe left and tap on the '@' at the bottom to bring up recent mentions. - Note if you are currently looking at mentions for all servers or a specific one. - Tap the top right button to change it to the option you aren't on."
+ }
+}

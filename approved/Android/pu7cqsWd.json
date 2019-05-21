@@ -1,0 +1,30 @@
+{
+ "id": "5ae074b8a1125288d124db23",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1320,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/pu7cqsWd",
+ "data": {
+  "system_settings": "Samsung Note II Android 4.4.2",
+  "client_settings": "Discord Beta 6.5.6",
+  "actual_result": "Custom emojis are shown in ID(<:emojiName:ID>).",
+  "expected_result": "Renders the emoji as on desktop version.",
+  "short_description": "Emoji is shown in unicode/ID in the title of an embed message (Read properly before denying, it's **title**, not author)",
+  "steps_to_repro": "- Create an embed message with any kind of emoji in its title. (Achieved using bot in this case)"
+ }
+}

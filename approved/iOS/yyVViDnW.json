@@ -1,0 +1,23 @@
+{
+ "id": "586d81cc033af994ae80d410",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 153,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yyVViDnW",
+ "data": {
+  "system_settings": " iPhone 7, iOS 10.2, 1.8.1",
+  "actual_result": "App crashes",
+  "expected_result": "You can't deny the permission like on desktop and only have the PASSTHROUGH and ALLOW options, or trying to deny will give you a message that you can't",
+  "short_description": "Denying voice channel permissions for any roles you own crashes app",
+  "steps_to_repro": "- Go to a server where you can manage channels, but don't have the Administrator permission and aren't the owner of - Edit a voice channel - Go to the channel permissions - Add/edit any roles you own (<@&259909937403133953> counts too) - Deny any of its permissions "
+ }
+}

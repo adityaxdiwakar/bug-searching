@@ -1,0 +1,17 @@
+{
+ "id": "5b68196abe6f3267a30908df",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2639,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2iGrUFdP",
+ "data": {
+  "system_settings": "MacBook Pro (13\"), macOS 10.13.6",
+  "client_settings": "Discord Canary 20849",
+  "actual_result": "The icon appears to be shifted to the top-left slightly",
+  "expected_result": "The icon should be centered",
+  "short_description": "\"Listen along with...\" button mis-aligned on 90% Zoom",
+  "steps_to_repro": "- In appearance settings, set your zoom to `90%` - Click on someone's profile who's listening to Spotify - Observe the icon mis-aligned"
+ }
+}

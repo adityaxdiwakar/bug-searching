@@ -1,0 +1,24 @@
+{
+ "id": "5972f6e2acdb528a30b98446",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 874,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kydZfQFM",
+ "data": {
+  "system_settings": "Win 10 Pro x64 v1607",
+  "client_settings": "Desktop Canary 0.0.161",
+  "actual_result": "The link is clickable",
+  "expected_result": "The link in the \"Search for\" dropdown shouldn't be clickable",
+  "short_description": "Links are clickable within the \"Search for\" box",
+  "steps_to_repro": "- Type a link in the search bar, but don't actually search (e.g. http://test)"
+ }
+}

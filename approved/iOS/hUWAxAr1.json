@@ -1,0 +1,17 @@
+{
+ "id": "5c1fefd36c98b053872c0355",
+ "closed": false,
+ "idList": "5b0609fc06bd61f148dc5293",
+ "idShort": 1243,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/hUWAxAr1",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.2 Dev Beta",
+  "client_settings": "TestFlight 2.4.1 (10225)",
+  "actual_result": "Embed allows you to try and accept the gift even though it fails",
+  "expected_result": "Embed should not let you accept the gift because you have Nitro",
+  "short_description": "Able to accept Nitro gift from mobile if you have Nitro already even though it fails",
+  "steps_to_repro": "- Make sure you have Nitro - Purchase Nitro as a gift - Send the link in a channel - View the embed on iOS and try to accept it"
+ }
+}

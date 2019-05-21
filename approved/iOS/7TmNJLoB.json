@@ -1,0 +1,30 @@
+{
+ "id": "5b5893941cc359c7d04625ca",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 844,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7TmNJLoB",
+ "data": {
+  "system_settings": "iPhone SE - ios 11.3.1",
+  "client_settings": "Testflight 2.3.6",
+  "actual_result": "it shows as transparent.",
+  "expected_result": "the small image shoud cut off the larger image",
+  "short_description": "[iOS] Small image isn't discord transparent (according to my last bug report that got denied (for desktop) it should be)",
+  "steps_to_repro": "- create a rich presence with a transparent small image - use the rich presence - view the presence on mobile"
+ }
+}

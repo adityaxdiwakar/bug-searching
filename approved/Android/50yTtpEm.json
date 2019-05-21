@@ -1,0 +1,30 @@
+{
+ "id": "5b803f933c54e41a3bc4fcfe",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1876,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/50yTtpEm",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 740",
+  "actual_result": "The poop and the button aren't aligned.",
+  "expected_result": "The poop and the button are aligned.",
+  "short_description": "The sad poop and the cancel button aren't aligned in the invalid invite screen.",
+  "steps_to_repro": "- Click on the add a server button in the bottom of your server list and click on join server with invite link. - Type in nonsense stuff in the text field. - Click on join. - Switch to landscape mode in the invalid invite screen."
+ }
+}

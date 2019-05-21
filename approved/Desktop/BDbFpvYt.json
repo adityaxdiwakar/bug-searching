@@ -1,0 +1,22 @@
+{
+ "id": "58a2680ec0fab6b72771f5b7",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 381,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BDbFpvYt",
+ "data": {
+  "actual_result": "Text is in system language",
+  "expected_result": "The text is in Discord language",
+  "short_description": "Indicator for new unseen mentions is not in Discord Language",
+  "steps_to_repro": "- Change Discord language - Get mentioned in a Text Channel that can be hidden - Hide channel - Read red indicator "
+ }
+}

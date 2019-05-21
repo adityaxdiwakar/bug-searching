@@ -1,0 +1,30 @@
+{
+ "id": "5ac8cccf99b466495d1a17f2",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 1806,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/d45qTbqQ",
+ "data": {
+  "system_settings": "Win 10 enterprise x64",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 13313, Version Hash: fa8d1a877bc13f374d4663d2932a7b6d1daab0f9",
+  "actual_result": "(I clicked twice, but it slid 4x)",
+  "expected_result": "It should properly slide back and forth",
+  "short_description": "Slider buttons \"lag out\" in some tabs when clicked too fast",
+  "steps_to_repro": "- Go to User Settings - Click on Connections tab (also happens in Privacy & Safety tab) - Click quickly on some buttons"
+ }
+}

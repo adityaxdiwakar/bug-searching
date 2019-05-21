@@ -1,0 +1,23 @@
+{
+ "id": "58f8fad051a499773d9195fe",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 517,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/evgUbztj",
+ "data": {
+  "system_settings": " MacOS Canary",
+  "actual_result": "role name is blank and causes some graphical errors",
+  "expected_result": "role name resets to it's old name or a default name",
+  "short_description": "Role names can be empty",
+  "steps_to_repro": "- Open server settings - create a role in the roles tab and save changes - rename the role to nothing and save changes "
+ }
+}

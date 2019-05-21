@@ -1,0 +1,29 @@
+{
+ "id": "588b621535c7fded7b9db688",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 354,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/46jfW9Wr",
+ "data": {
+  "system_settings": " Win10 Canary latest",
+  "actual_result": "Scroll breaks after few presses",
+  "expected_result": "Can scroll infinitely by pressing \"Home\"",
+  "short_description": "Scrolling chat by pressing \"Home\" button breaks \"home\" and \"end\" after a few presses",
+  "steps_to_repro": "- Scroll up the chat by pressing \"Home\" repeatedly - \"Home\" and \"End\" now don't scroll - Click on the chat area to reenable them "
+ }
+}

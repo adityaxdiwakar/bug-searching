@@ -1,0 +1,30 @@
+{
+ "id": "5b13b39ac620cddbec8edfbb",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1488,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7AbA3gaT",
+ "data": {
+  "system_settings": "Lenovo vibe K5+,5.1.1",
+  "client_settings": "Discord Alpha 6.8.7",
+  "actual_result": "Nothing happens when we Open the link (the link should look like the attached image) with Discord. If we open it with chrome, it says invalid invalid invite but nothing if we open with Discord",
+  "expected_result": "The invite should take you to the invite screen and a toast should appear saying invalid invite.",
+  "short_description": "Invalid invite links like https : // discord . gg / invitehttps : discord . gg / invite don't do anything.",
+  "steps_to_repro": "- Create an instant invite for a server. - Paste it in the above format (without space). - Click on the invite. - Open it with Discord."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59f2a330b56ab1b1e78c2d0c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 853,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RaHQutKn",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "Alpha 550",
+  "actual_result": "Tapping their rank does nothing.",
+  "expected_result": "Tapping the ranks should do something, open their member info.",
+  "short_description": "Tapping a members name down by their ranks does nothing (in server settings)",
+  "steps_to_repro": "- Have admin perms - go to server settings - Members - tap a member's card down by where their ranks are - notice it does nothing."
+ }
+}

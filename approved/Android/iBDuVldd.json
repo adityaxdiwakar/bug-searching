@@ -1,0 +1,17 @@
+{
+ "id": "5aa84a607bb6e40d50a55ff0",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1191,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/iBDuVldd",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, Android 7.0",
+  "client_settings": "Alpha 6.3.5",
+  "actual_result": "App crashes, you have to reboot to find them on your DM list to DM",
+  "expected_result": "App should not crash, you should be sent to the DMs",
+  "short_description": "App crashes if u send DM",
+  "steps_to_repro": "- Scroll through member-list, find someone - Click on profile, scroll down to send message - Once you click it, app crashes"
+ }
+}

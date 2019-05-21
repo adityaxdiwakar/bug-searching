@@ -1,0 +1,30 @@
+{
+ "id": "5afc2ef94cdb946415c76f00",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1426,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KdGIn6bh",
+ "data": {
+  "system_settings": "HTC Desire 526 Android 6.0.1",
+  "client_settings": "Android Alpha 6.6.1(dont ask... my phone has problems with updates)",
+  "actual_result": "It sends part bolded and entire thing normal and between 2 * \"***like this** for example*\"",
+  "expected_result": "The bolded part is bolded and all of it is italicized",
+  "short_description": "Cant italicize when half is bolded",
+  "steps_to_repro": "- send an italicized msg with part (not all of it) of it bolded"
+ }
+}

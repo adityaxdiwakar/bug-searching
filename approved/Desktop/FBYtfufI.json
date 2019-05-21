@@ -1,0 +1,17 @@
+{
+ "id": "5974b53d7e1450a7c002a00e",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 885,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/FBYtfufI",
+ "data": {
+  "system_settings": "Arch Linux x86\\_64, kernel 4.11.9 + pulseaudio 10.0",
+  "client_settings": "Linux Canary 0.0.21",
+  "actual_result": "Audio is output as mono",
+  "expected_result": "Audio should be output as stereo",
+  "short_description": "Bot audio output is always mono, even if transmitting in stereo",
+  "steps_to_repro": "- Get a bot to play stereo audio (like a YouTube music video or etc.) in a 96kbps voice channel"
+ }
+}

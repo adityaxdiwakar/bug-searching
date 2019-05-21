@@ -1,0 +1,30 @@
+{
+ "id": "5b11e7ca80dd6aa484abde68",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1487,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QCPiyY8I",
+ "data": {
+  "system_settings": "Samsung Galaxy Grand Prime SM-G531F, Android 5.1.1",
+  "client_settings": "Alpha 6.8.7",
+  "actual_result": "Client automatically reconnects to this VC, but mic is muted/unmuted",
+  "expected_result": "Not auto-reconnecting to this VC",
+  "short_description": "Automatically reconnects to VC after pressing mute microphone and instantly pressing leave voice channel",
+  "steps_to_repro": "- Join VC - Press mute or unmute mic button - Instantly press leave VC button"
+ }
+}

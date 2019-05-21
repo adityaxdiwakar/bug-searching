@@ -1,0 +1,30 @@
+{
+ "id": "5b97f628a4737a02dbb2bb41",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1972,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/lABrc8l3",
+ "data": {
+  "system_settings": "Honor 9, Android 8.0.0",
+  "client_settings": "Discord Alpha 7.4.8",
+  "actual_result": "The window is moved to the left, the left edges are cut and there is a space on the bottom and right side of the pop-up.",
+  "expected_result": "The pop-up window is properly opened with no issues.",
+  "short_description": "Mini screen view moves every pop-up window in the app, cutting all the edges and adding random spaces. (EMUI exclusive)",
+  "steps_to_repro": "- Enable Mini Screen View from your phone settings. - Go to Discord and activate the Mini Screen. - Click on anything that opens a pop-up window (User Profile, Server Settings, Channel Settings, etc). - Obverse."
+ }
+}

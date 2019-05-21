@@ -1,0 +1,36 @@
+{
+ "id": "5a319f6d5bc90b33882fc925",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1451,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XYcgb6EZ",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "stable, 8543",
+  "actual_result": "when clicked the overlay goes transparent, no longer able to click on the game. when using bind to close overlay game become responsive again",
+  "expected_result": "instant invite created - resume as normal",
+  "short_description": "Clicking on create instant invite button through the ingame overlay causes overlay to disappear and cannot ever be seen again",
+  "steps_to_repro": "- Open up a game - Open overlay with keybind - click on Create Instant Invite"
+ }
+}

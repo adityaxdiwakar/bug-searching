@@ -1,0 +1,24 @@
+{
+ "id": "5a6104ab1ed0d970a00223d7",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 505,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qCm3j16M",
+ "data": {
+  "system_settings": "iOS 11.2.1, iPhone 7",
+  "client_settings": "TestFlight 2.2.1 (2147)",
+  "actual_result": "It does not show up.",
+  "expected_result": "The menu with options for settings/mention/reaction etc should show up.",
+  "short_description": "Can no longer interact with a blocked message.",
+  "steps_to_repro": "- Find a blocked message. - Open the 'x blocked message' box. - Try to interact with the message."
+ }
+}

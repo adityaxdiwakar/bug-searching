@@ -1,0 +1,17 @@
+{
+ "id": "5b2c3221e2133dcd1e0d4fc6",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 799,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ltNkuU9o",
+ "data": {
+  "system_settings": "iPhone X, 11.3",
+  "client_settings": "TestFlight 2.3.4 (5330)",
+  "actual_result": "The keyboard goes white for a split second before returning the correct colour.",
+  "expected_result": "The keyboard should stay dark/ grey",
+  "short_description": "After exiting the undo menu which can be triggered by shaking the device, the keyboard goes white on dark mode",
+  "steps_to_repro": "- Open the text box - Start typing - Shake your device to trigger undo feature.- Close the undo menu - Observe the keyboard and keyboard colour"
+ }
+}

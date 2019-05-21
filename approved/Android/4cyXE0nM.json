@@ -1,0 +1,36 @@
+{
+ "id": "5a8d71df7b20aa4679082421",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1136,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860cfc8dde10262a3bb6cd",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Client side",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4cyXE0nM",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.2.7",
+  "actual_result": "The list jumps to the top",
+  "expected_result": "The list should still show the last server",
+  "short_description": "The server list jumps to the top after changing screen orientation",
+  "steps_to_repro": "- Be member in some servers such that you have to scroll a bit to reach the last server - Scroll down to the last server - With the channel drawer still open change your screen orientation from portrait to landscape (or vice versa) - Observe the server list"
+ }
+}

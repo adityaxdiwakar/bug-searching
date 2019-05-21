@@ -1,0 +1,15 @@
+{
+ "id": "585e24b891ebe802225ac1fc",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 274,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/DYNW5lXj",
+ "data": {
+  "actual_result": "The account on the linked accounts page on your profile doesn't change",
+  "expected_result": "Account name on the linked accounts page should change",
+  "short_description": "When you change a linked account name on Steam the linked accounts name doesn't update",
+  "steps_to_repro": "- Link account - Change that account name "
+ }
+}

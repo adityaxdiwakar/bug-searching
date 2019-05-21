@@ -1,0 +1,17 @@
+{
+ "id": "5c389e6e2f7c685bb5cbab8a",
+ "closed": false,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2422,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yeU92Ezd",
+ "data": {
+  "system_settings": "Xiaomi redmi 5 plus 8.1 MIUI 10 global",
+  "client_settings": "Android 8.2.5",
+  "actual_result": "picker closes but opens keyboard",
+  "expected_result": "picker should close without opening keyboard",
+  "short_description": "Closing image picker by tapping over it shows keyboard while it shouldn't",
+  "steps_to_repro": "- press \"+\" button to open image picker - press over picker to close it - if it don't work, try again it happens one in few times"
+ }
+}

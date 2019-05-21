@@ -1,0 +1,30 @@
+{
+ "id": "5affbeaab995176b3ba69a31",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2016,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ek3QCk9x",
+ "data": {
+  "system_settings": "Windows 10 Home x64 v1803; Android 6.0.1",
+  "client_settings": "Android Stable 6.7.2; Canary 15598",
+  "actual_result": "Crashed; Uncaught TypeError: Can not read property 'mfaEnabled' of undefined",
+  "expected_result": "Should just log out fine",
+  "short_description": "When changing password on android client, desktop client (windows) crashes",
+  "steps_to_repro": "- Have 2fa enabled - Change password on android client - See desktop client"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "5a967b30cab3b8bf729904b4",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1692,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a860c4c7cb31e20a3d90bad",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Modals",
+   "color": null
+  },
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/c5QpAnxC",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.203, Build 11323",
+  "actual_result": "Mentions modal appears above the button inside the title bar",
+  "expected_result": "Mentions modal drops-down from the button as normally",
+  "short_description": "After opening and closing the Mentions modal for the first time, it appears above the button",
+  "steps_to_repro": "- Open the Mentions modal - Close & re-open it"
+ }
+}

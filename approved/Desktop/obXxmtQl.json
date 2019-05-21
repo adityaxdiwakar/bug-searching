@@ -1,0 +1,23 @@
+{
+ "id": "590a631831e04b8532e2bb81",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 589,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/obXxmtQl",
+ "data": {
+  "system_settings": " Win 10 x64, latest Discord Canary build",
+  "actual_result": "Only \"Default\" appears and cannot be changed.",
+  "expected_result": "Being able to change output devices however you want.",
+  "short_description": "Discord removing all audio output devices except default",
+  "steps_to_repro": "- Go to Windows audio settings - Select any other playback / recording device - Set it as default - (optional) Change it back to what it was before - Go to Discord Client Settings - Go to voice - Open Dropdown menu \"Output Device\" "
+ }
+}

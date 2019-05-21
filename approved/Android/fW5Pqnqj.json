@@ -1,0 +1,30 @@
+{
+ "id": "5b2cf24cb2006f8b0e5e4f79",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1577,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/fW5Pqnqj",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.6",
+  "actual_result": "it's invisible",
+  "expected_result": "Icon should be visible",
+  "short_description": "has:link search filter icon is invisible on Light theme",
+  "steps_to_repro": "- Switch to Light theme - Go to search - input has: and look at options available (link, video, images, etc), particularly the link option"
+ }
+}

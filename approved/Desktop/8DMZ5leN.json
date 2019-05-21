@@ -1,0 +1,24 @@
+{
+ "id": "598a696311724d7d3142af76",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 953,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8DMZ5leN",
+ "data": {
+  "system_settings": "macOS Sierra Version 10.12.3 & iPhone 6 iOS 10.3.3",
+  "client_settings": "PC - Discord Stable 0.0.297 & iOS Device - Discord 1.8.8",
+  "actual_result": "The voice channel name stays white.",
+  "expected_result": "The voice channel name you were connected to on your iOS device should turn back to gray.",
+  "short_description": "If you try to connect to a voice channel on PC and a different vc on iOS, it'll say \"Reconnect\" on PC. If you press it, the channel you were connected on iOS will turn white.",
+  "steps_to_repro": "- Get on a PC and an iOS device - Go to a server with several voice channels - Connect to one voice channel on Desktop, and one voice channel on iOS at the same exact time - Then press \"Reconnect\" on Desktop"
+ }
+}

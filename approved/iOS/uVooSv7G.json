@@ -1,0 +1,17 @@
+{
+ "id": "5af71fbcc4c3c85d05c5dcd0",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 744,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/uVooSv7G",
+ "data": {
+  "system_settings": "iPhone 6 iOS 10.3.2",
+  "client_settings": "TestFlight Build 2.3.2",
+  "actual_result": "The copy, open, share doesn't appear",
+  "expected_result": "The copy, open, share popup should appear like it does when you hold down other links or fields",
+  "short_description": "Copy link popup doesn't show up when holding down the title in an embed or webhook",
+  "steps_to_repro": "- Post or find a YouTube or Reddit link - Hold the title - Observe"
+ }
+}

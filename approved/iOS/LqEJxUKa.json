@@ -1,0 +1,17 @@
+{
+ "id": "5b2fbb6f9effa06157795e62",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 810,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LqEJxUKa",
+ "data": {
+  "system_settings": "iPhone 6s - iOS 11.4.1 Public Beta 2",
+  "client_settings": "TestFlight 2.3.4 (5330)",
+  "actual_result": "Discord crashes after tapping \"Use Photo\"",
+  "expected_result": "Discord allows you to use the photo and add a message",
+  "short_description": "Discord crashes after trying to use a picture taken with the camera from Discord",
+  "steps_to_repro": "- Open up the Upload tab - Tap \"Take Photo or Video\" - Take a picture - Tap \"Use Photo\" - Watch Discord"
+ }
+}

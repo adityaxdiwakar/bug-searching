@@ -1,0 +1,30 @@
+{
+ "id": "5b997e841eade90339332132",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1978,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/kWmJGZm7",
+ "data": {
+  "system_settings": "Samsung Galaxy Note 8, Android 8.0",
+  "client_settings": "Discord Alpha 7.4.8",
+  "actual_result": "The \"Start Nearby Scanning\" button is selected even though you havent pressed it",
+  "expected_result": "The \"Start Nearby Scanning\" button should still be turned off",
+  "short_description": "(Edge Panel/Phones with an infinity display specific) Enabling then disabling the Nearby Scanning feature in the Add Friends page then opening Smart Select from your Edge Panel causes the Nearby Scanning button to re-enable even though you haven't pressed the \"Start Nearby Scanning\" button",
+  "steps_to_repro": "- Press the \"Add Friend\" button in the top right - Press \"Start Nearby Scanning\" - Turn off Nearby Scanning - Open your Edge Panel and press \"Smart Select\" (doesn't matter which one you press; Also if you dont have the Smart Select feature in your Edge Panel, make sure to download it from the store/enable it in the settings) - Observe"
+ }
+}

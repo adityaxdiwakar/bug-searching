@@ -1,0 +1,24 @@
+{
+ "id": "59282b1b4786a23fad37dfde",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 249,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafa",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Y5aWigty",
+ "data": {
+  "system_settings": "IOS 10.2, iPad Air 2",
+  "client_settings": "Discord 1.8.6",
+  "actual_result": "The cursor will show",
+  "expected_result": "The cursor should not show",
+  "short_description": "Cursor is able to show in read-only channels",
+  "steps_to_repro": "- Open Discord - Go to a read-only text channel - on the area where you would write a message, hold for a very short time and then tap twice (this step can be hard but eventually it will show)"
+ }
+}

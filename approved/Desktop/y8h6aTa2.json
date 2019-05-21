@@ -1,0 +1,42 @@
+{
+ "id": "5a8db72e1db72d68adf1c7c3",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1678,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a8f3702183e18a705d27c61",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "voice",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/y8h6aTa2",
+ "data": {
+  "system_settings": "Windows 10 Pro, Fall Creators Update",
+  "client_settings": "Release Channel: canary, Build Number: 10978, Version Hash: 2a9b86cbc2710122dff6ced3e6145beac91d07b9",
+  "actual_result": "Although slider shows user volume as where you left it, it'll play at 100% anyways",
+  "expected_result": "User volume should be the same as the slider",
+  "short_description": "Discord User Volume not persistent on reload, although slider shows it is",
+  "steps_to_repro": "- Get either somebody talking constantly at a constant volume or a music bot (music bot preferred) - Join same voice channel as that person/bot - Make them start making a constant noise at constant volume - Right click name and adjust user volume lower, for example, 5% (not tested on higher percents) - Reload/restart Discord (CTRL+R) - Rejoin voice channel if you aren't in it - Observe that user volume slider is where you left it, but the user/bot sounds as if they're at 100%"
+ }
+}

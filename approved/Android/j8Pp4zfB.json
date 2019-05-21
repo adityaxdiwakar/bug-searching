@@ -1,0 +1,30 @@
+{
+ "id": "5bae2d024cbc832e47cf055c",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2064,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/j8Pp4zfB",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.7",
+  "actual_result": "The button doesn't show the Slowmode enabled toast anymore and actually attempts to upload the file",
+  "expected_result": "The button should still be locked and show the toast",
+  "short_description": "When you're in slowmode cooldown, the Send button works if a file is attached",
+  "steps_to_repro": "- Go to a channel with slowmode - Send a random message so the cooldown starts - If you try to send another message, notice how the Send button is locked with a toast \"Slowmode enabled\"  - Now attach a file to the message and try sending again"
+ }
+}

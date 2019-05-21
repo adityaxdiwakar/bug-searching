@@ -1,0 +1,24 @@
+{
+ "id": "5bb7626999add889a16e2988",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1055,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/GswV3YRp",
+ "data": {
+  "system_settings": "iPhone 7, iOS 12.0",
+  "client_settings": "iOS Testflight 2.3.9 (8023)",
+  "actual_result": "Text triggers the suggested mentions menu as if there was @ preceding it, selected letters dont work, shift is selected",
+  "expected_result": "Typing would trigger no response from the app, and text would appear as it does when typing any message",
+  "short_description": "When mentioning someone and editing text/typing before the @, tags of other users will pop up as if making a new mention",
+  "steps_to_repro": "- mention someone - move cursor to space before the @ - start typing"
+ }
+}

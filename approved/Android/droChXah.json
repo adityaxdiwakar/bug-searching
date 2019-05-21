@@ -1,0 +1,24 @@
+{
+ "id": "59f34ddf8b99ba6b7ba914dd",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 855,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/droChXah",
+ "data": {
+  "system_settings": "Android 7.0 Samsung S7 edge (SM-G935F)",
+  "client_settings": "Alpha 5.5.1",
+  "actual_result": "The emote list appears above the keyboard for a split second.",
+  "expected_result": "The emote list should appear smoothly.",
+  "short_description": "Tapping the emote button while the virtual keyboard is up makes the emote drawer glitch for a split second.",
+  "steps_to_repro": "- Go to any server. - Pull up your virtual keyboard. - Press the emote button."
+ }
+}

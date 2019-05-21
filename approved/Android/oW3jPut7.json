@@ -1,0 +1,24 @@
+{
+ "id": "59ed91a373f37b909322f536",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 833,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oW3jPut7",
+ "data": {
+  "system_settings": "Android 7.0 Nonmodded nonrooted",
+  "client_settings": "discord version 543",
+  "actual_result": "Embed is cut off at 25 lines",
+  "expected_result": "Embed is not cut off at 25 lines.",
+  "short_description": "android embed are cut off at 25 lines (resubmission with different wording and evidence) https://sera.s-ul.eu/SG2Qaatr https://sera.s-ul.eu/oGsVuP8i",
+  "steps_to_repro": "- Send an ambed that has more than 25 lines \u2013 open discord on android \u2013 notice that it is cropped at 25 lines \u2013 notice that it shows the whole embed on other OS\u2019s (linux canary is verified to work correctly)"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5c30e4b9aa8a2a2e8d6ff8fc",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 3572,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gpAxzP9w",
+ "data": {
+  "system_settings": "macOS Mojave 10.14.1",
+  "client_settings": "Desktop Canary 30441",
+  "actual_result": "Window controls are non-functional unless the client is the active window",
+  "expected_result": "Window controls should be actionable even if Discord is not the active window (this is the behavior with other programs--tested and verified with the Safari window controls)",
+  "short_description": "[macOS Specific] Window control buttons (close, minimize, full screen) are not actionable when Discord is behind another window",
+  "steps_to_repro": "- Run Discord in windowed mode - Prioritize another window and leave the Discord window controls visible - Attempt to use Discord's window controls while Discord is not the actively selected program"
+ }
+}

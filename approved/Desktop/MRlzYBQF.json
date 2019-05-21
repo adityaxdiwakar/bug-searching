@@ -1,0 +1,15 @@
+{
+ "id": "58128fac54aa82b05e0dc76d",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 79,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/MRlzYBQF",
+ "data": {
+  "actual_result": "Other people's emojis are considered",
+  "expected_result": "Only your used emojis show in frequently used",
+  "short_description": "Frequently used emojis considering emojis that you didn't post",
+  "steps_to_repro": "- be in servers where people are using reactions - other people's reactions will start to show as your frequently used "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b87d8b93dead18109313b8b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1902,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0w4anXvD",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 742",
+  "actual_result": "The border doesn't change size. It remains in the same ratio.",
+  "expected_result": "Like all other elements, the border also changes it's size in the same ratio as the others.",
+  "short_description": "The border around the statuses of people is doesn't adjust size in the autocomplete menu.",
+  "steps_to_repro": "-  Type @ in a channel you have permission to type in. - Observe the statuses of people in the autocomplete menu."
+ }
+}

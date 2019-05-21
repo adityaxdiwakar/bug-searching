@@ -1,0 +1,24 @@
+{
+ "id": "59a7f5c0a34c64cd3a137ae7",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1072,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0jSVJU97",
+ "data": {
+  "system_settings": "Win 10 x64 (creators update)",
+  "client_settings": "Discord Canary 0.0.163",
+  "actual_result": "No alert is shown in settings, both actions occur when using CTRL+, (mute and open settings)",
+  "expected_result": "Should give the \"keybinding conflicts\" alert (as happens if you try to bind CTRL+K) and override the default action (opening settings).",
+  "short_description": "CTRL+, shortcut does not conflict in keybindings settings",
+  "steps_to_repro": "- in settings create a new keybinding - set the action to toggle mute and the keybind to CTRL+, - exit settings and press CTRL+,"
+ }
+}

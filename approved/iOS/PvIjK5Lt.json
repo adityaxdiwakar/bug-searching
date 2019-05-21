@@ -1,0 +1,24 @@
+{
+ "id": "59e0294152362ecba784d407",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 364,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PvIjK5Lt",
+ "data": {
+  "system_settings": "iPhone 6+, iOS 10.2.1",
+  "client_settings": "Testflight 1.9.2, build 953",
+  "actual_result": "Friends list is empty",
+  "expected_result": "Friends list to be populated",
+  "short_description": "In a server or DM, rotating the image viewer then going to respective channel/friends list causes it to appear empty",
+  "steps_to_repro": "- Open any image preview - Rotate screen to view sideways - Exit viewer and look at friends list"
+ }
+}

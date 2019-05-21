@@ -1,0 +1,30 @@
+{
+ "id": "5b5b997c5d4dc1db4edb488a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1687,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BtWDRA2V",
+ "data": {
+  "system_settings": "K20 V Android 7.0",
+  "client_settings": "Discord Alpha 7.1.3",
+  "actual_result": "users name over laps the SEND button",
+  "expected_result": "The name should stop before it hits the SEND button",
+  "short_description": "If a users name is really long on the new \"add a friend\" screen, the name will over lap the SEND button (keep in mind the new model is only available for certain people)",
+  "steps_to_repro": "- Go to your friends tab\u00a0 - Click the \"suggestions\" button\u00a0 - click the wumpus or click the ADD A FRIEND button - you can either scroll until you find someone or look them up"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59f1f8db8eb91ba5533031f8",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1324,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5NR5m34U",
+ "data": {
+  "system_settings": "Ubuntu 16.04 LTS, Asus Netbook F551C, Intel Core i3 64bits",
+  "client_settings": "Discord Canary build 6420",
+  "actual_result": "You are still jumped to the old message you selected previously, like if it didn't remember that you clicked \"Jump to present\".",
+  "expected_result": "You should be placed at the recent messages in the channel you were in",
+  "short_description": "App doesn't remember the \"Jump to present\" action after switching language",
+  "steps_to_repro": "- Search for a message, or open recent mentions in the current server. - Pick any old message and click \"Jump\" - After you have successfully jumped, click \"Jump to present\" to return to recent messages - Open Settings and then switch to any other language - Wait for Discord to reload and look at the chat"
+ }
+}

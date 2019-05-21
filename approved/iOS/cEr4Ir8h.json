@@ -1,0 +1,16 @@
+{
+ "id": "586686a68d67027a17e9896a",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 147,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cEr4Ir8h",
+ "data": {
+  "system_settings": " iOS 9.3.5 on latest TestFlight",
+  "actual_result": "Unless the gif is stupidly simplistic, the app just crashes after showing the progress counter.",
+  "expected_result": "the gif is played.",
+  "short_description": "Trying to view any gif at all just crashes the app",
+  "steps_to_repro": "- Tap any gif to load it. "
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "59a55751f2bf185e075010ef",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1063,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0AVPYRLN",
+ "data": {
+  "system_settings": "Windows 10 creators update, bug happens on two different pcs",
+  "client_settings": "Desktop app-0.0.298 on windows 10 but its been there for a few updates already",
+  "actual_result": "The cursor does not stay in the message, you have to tab once or click on it",
+  "expected_result": "The cursor is supposed to stay in the message bar",
+  "short_description": "discord loses position on message bar when alt-tab or clicking on another application",
+  "steps_to_repro": "- Click on message bar - atl-tab / click on another application - alt-tab / click on discord"
+ }
+}

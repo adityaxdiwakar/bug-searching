@@ -1,0 +1,17 @@
+{
+ "id": "596119deaed6b6548d6e138d",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 541,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/JqeRMbrg",
+ "data": {
+  "system_settings": "Android 6.0.1 Mrshmallow",
+  "client_settings": "3.9.8 (397)",
+  "actual_result": "You can react infinite times.  Client side",
+  "expected_result": "You can only react once.",
+  "short_description": "Reaction goes up and down by client side",
+  "steps_to_repro": "- React to something or remove it - Any emoji"
+ }
+}

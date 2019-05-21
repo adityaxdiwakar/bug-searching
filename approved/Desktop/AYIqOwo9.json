@@ -1,0 +1,17 @@
+{
+ "id": "5b763135766ebc2d5f979e57",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2726,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/AYIqOwo9",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 22083",
+  "actual_result": "The overlay doesn't appear but the game acts like it's visible (can't interact with the game)",
+  "expected_result": "The overlay presents itself in all its glory",
+  "short_description": "The overlay doesn't appear when the keybind is pressed",
+  "steps_to_repro": "- Open a game - Ensure the overlay is enabled and the overlay is running for the game - Open the overlay with the keybind"
+ }
+}

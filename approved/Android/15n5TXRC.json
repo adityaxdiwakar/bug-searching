@@ -1,0 +1,16 @@
+{
+ "id": "58cf260c4e93e91a5c876501",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 308,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/15n5TXRC",
+ "data": {
+  "system_settings": " Android 6, Discord 3.5.2",
+  "actual_result": "Stays old time",
+  "expected_result": "Time changes with current time",
+  "short_description": "Message time doesn't update with systime",
+  "steps_to_repro": "- Go into a dm - move to a different timezone or change systime - "
+ }
+}

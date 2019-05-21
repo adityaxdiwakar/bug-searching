@@ -1,0 +1,17 @@
+{
+ "id": "5abfed795a9a27a03690d7ef",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1776,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/lWNr1YdP",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Canary 0.0.204 Build 12952",
+  "actual_result": "it only does @ someone",
+  "expected_result": "user should get picked",
+  "short_description": "someone doesn't pick someone in group dms",
+  "steps_to_repro": "- have a group dm with more than 2 people - send a message with @ someone (no space) - observe message"
+ }
+}

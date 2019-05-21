@@ -1,0 +1,17 @@
+{
+ "id": "5b3763d6f3c957bf7558653b",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 825,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pk5u3MPF",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Public Beta",
+  "client_settings": "TestFlight 2.3.4 (5548)",
+  "actual_result": "The previous emote previews stay for several seconds before switching",
+  "expected_result": "Emote previews switch to the new emote choices that appear",
+  "short_description": "Emote previews display as different emote when typing an emote (Works best with access to multiple emotes, for example through Nitro)",
+  "steps_to_repro": "- Close out of Discord entirely - Open up Discord - Type the first part of several emotes (for example, \"blob\" or \"meow\" because of the amount of emotes with that in the name) - Wait for the emote previews to load in - After the previews load in, type one more letter - Observe the emote previews"
+ }
+}

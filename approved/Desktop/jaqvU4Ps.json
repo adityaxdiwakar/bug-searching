@@ -1,0 +1,30 @@
+{
+ "id": "5bbd440be94de15e1c2995bb",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3126,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/jaqvU4Ps",
+ "data": {
+  "system_settings": "macOS Mojave 10.14",
+  "client_settings": "Desktop Canary 25825, 0.0.195",
+  "actual_result": "The message does not delete, and the file does not upload/send",
+  "expected_result": "The message is supposed to delete, or the file is supposed to send",
+  "short_description": "Using 'ENTER' to delete a message via editing and clearing the text, or sending a file with no text doesn't work.",
+  "steps_to_repro": "- Edit a previously sent message - clear the text - hit 'ENTER - OR - Drag a file, or click '+' - leave the text blank - hit 'ENTER' to send"
+ }
+}

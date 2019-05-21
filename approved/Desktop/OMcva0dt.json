@@ -1,0 +1,30 @@
+{
+ "id": "5ab445d8ef985ae9b1f8e50d",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1750,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OMcva0dt",
+ "data": {
+  "system_settings": "macOS 10.12.6",
+  "client_settings": "Canary Build 12458",
+  "actual_result": "The typing cursor moves to the end",
+  "expected_result": "The typing cursor shouldn't move to the end",
+  "short_description": "Typing cursor moves to the end when deleting a character or editing a word in Quick Switcher/TAYNE",
+  "steps_to_repro": "- Open the Quick Switcher by pressing CMD+K/CTRL+K - Type something in the box - Click on a letter so that the typing cursor moves - Either attempt to add a character/word or press the backspace/delete key to delete the character - Observe"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b32b3fef184229c8fe3c8f2",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2204,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TxEAl6mm",
+ "data": {
+  "system_settings": "Windows 8.1 x64",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 17576, Version Hash d68f92d7da04ff99",
+  "actual_result": "All the channels except the one that has the default welcome messages enabled are unread.",
+  "expected_result": "All channels should be marked unread.",
+  "short_description": "When you join a server (that has the deafault welcome messages enabled) through an invite created from a channel other than that of the welcome message channel, the welcome message channel is marked read.",
+  "steps_to_repro": "- Ask someone to create an invite link for a server that has the default welcome messages enabled (make sure that they create the invite for a channel other than the channel that has the messages enabled). - Join the server. - Observe the channel list."
+ }
+}

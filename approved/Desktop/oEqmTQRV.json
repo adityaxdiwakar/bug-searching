@@ -1,0 +1,24 @@
+{
+ "id": "59e55b2b4bde313db850e9c6",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1265,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oEqmTQRV",
+ "data": {
+  "system_settings": "Windows 7 x64",
+  "client_settings": "Discord Web Stable Build 5837",
+  "actual_result": "The verification email appears and so does the username spelling",
+  "expected_result": "The message saying about the spelling shouldn't popup",
+  "short_description": "If you don't have a verified email and try to add a friend, the error says about the name",
+  "steps_to_repro": "- Log out of Discord Web - Go to the homepage - Click open and generate an account - Try to add someone as a friend"
+ }
+}

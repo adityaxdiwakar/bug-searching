@@ -1,0 +1,30 @@
+{
+ "id": "5a403f869bdf8ebfd81c5f3b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 999,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5iSn5f0S",
+ "data": {
+  "system_settings": "lg Xpower 6.0.1",
+  "client_settings": "alpha 5.9.7",
+  "actual_result": "app crash",
+  "expected_result": "Picture should send without issue",
+  "short_description": "crash when sending picture from camera [most likely LG specific]",
+  "steps_to_repro": "- press \"+\" button on typing field - go to camera option to take picture live - take picture and attemp to send it"
+ }
+}

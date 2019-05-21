@@ -1,0 +1,15 @@
+{
+ "id": "5827d5869ba80cadbb3caa26",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 138,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/9OmDpl2V",
+ "data": {
+  "actual_result": "Discord keeps bumping up slightly from bottom",
+  "expected_result": "Discord allows the user to scroll to the bottom of the users. This only happens on some servers, very infrequently.",
+  "short_description": "Users list not allowing scroll to bottom",
+  "steps_to_repro": "- Go to server with offline users - Attempt to scroll to the bottom (right side panel) "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5c2b066cbb77952efeb92e8a",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3557,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/eTyFZcO2",
+ "data": {
+  "system_settings": "Windows Home 1809",
+  "client_settings": "Discord Canary 30302",
+  "actual_result": "You are not focused on the message compose input",
+  "expected_result": "You should be able to edit your message after pressing [ESC]",
+  "short_description": "Exiting out of @ everyone confirmation doesn't put keyboard focus on message compose input",
+  "steps_to_repro": "- Go to a server with more than 30 people, and make sure you have permission to mention @ everyone - Write \"@ everyone\" (without the space), and tap enter - When the \"hold up!\" modal opens, press [ESC] - Try to type to edit your message"
+ }
+}

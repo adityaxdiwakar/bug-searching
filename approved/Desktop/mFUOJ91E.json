@@ -1,0 +1,30 @@
+{
+ "id": "5bf0da671f299b6dd938feee",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3404,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mFUOJ91E",
+ "data": {
+  "system_settings": "Windows 10 1809 x64",
+  "client_settings": "Discord Canary 28197",
+  "actual_result": "There's something flying to the left of modal",
+  "expected_result": "There's nothing outside of modal just like when you do it first time",
+  "short_description": "There's something \"flying\" to the left when you press next button on Add payment method window",
+  "steps_to_repro": "- Go to Add Payment Method on Settings > Billing, select Credit Card - Fill the first section correctly and press 'next', observe the surrounding modal - Fill the second section. After all fields filled, press 'back' - Press 'next' again, observe the surrounding modal"
+ }
+}

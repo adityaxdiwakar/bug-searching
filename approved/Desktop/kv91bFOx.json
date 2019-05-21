@@ -1,0 +1,17 @@
+{
+ "id": "5af335035ba011623b6bd331",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 1957,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/kv91bFOx",
+ "data": {
+  "system_settings": "MacOS 10.13.3, Canary 14905, rMBP 2015",
+  "client_settings": "Canary 14905",
+  "actual_result": "No space",
+  "expected_result": "A space between \"Delete\" and the role name",
+  "short_description": "Space missing between \"Delete\" and role name",
+  "steps_to_repro": "- Navigate to role list in server settings - Scroll to bottom of a role - Observe delete button"
+ }
+}

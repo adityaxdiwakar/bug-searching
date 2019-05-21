@@ -1,0 +1,24 @@
+{
+ "id": "5bdb4b22c8c2898cade6abbc",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1145,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0rrkoWTo",
+ "data": {
+  "system_settings": "iPhone XS Max, iOS 12.2 Dev Beta 5",
+  "client_settings": "TestFlight 2.4.0 (8841)",
+  "actual_result": "Tapping on option doesn't work",
+  "expected_result": "Tapping on option should work",
+  "short_description": "When filtering by user/action in the audit log, tapping options doesn't work when the keyboard is open",
+  "steps_to_repro": "- View the list of users/actions by filtering in the audit log  - Open the keyboard - Tap a user/action"
+ }
+}

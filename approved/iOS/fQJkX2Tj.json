@@ -1,0 +1,15 @@
+{
+ "id": "584205f58c674fb2c7c1e779",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 101,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/fQJkX2Tj",
+ "data": {
+  "actual_result": "The in-app browser opens, and the top bar is either too low, messing with the loading statusbar and other elements",
+  "expected_result": "The browser doesn't open since you're already sliding to another view",
+  "short_description": "In app browser is unaligned if triggered while sliding",
+  "steps_to_repro": "- Find/Send a link in chat - Hold on the URL, and start sliding either left or right - Make sure the darkened border (that indicates a link has been tapped is still visible) - Stop tapping "
+ }
+}

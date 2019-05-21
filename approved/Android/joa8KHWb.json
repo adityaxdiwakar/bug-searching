@@ -1,0 +1,17 @@
+{
+ "id": "5c24e9558747e03b184e4a42",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2403,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/joa8KHWb",
+ "data": {
+  "system_settings": "Google Pixel 3, Android 9.0",
+  "client_settings": "Alpha 8.2.2",
+  "actual_result": "It appears that you are playing both of the songs at the same time and all the text is glitched",
+  "expected_result": "It should skip the song on discord as well",
+  "short_description": "The Spotify status bugs out when you skip the song from the notification bar.",
+  "steps_to_repro": "- Open discord - Play a song on Spotify - Skip the song from the notification bar"
+ }
+}

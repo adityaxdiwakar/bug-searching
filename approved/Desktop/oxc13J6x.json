@@ -1,0 +1,22 @@
+{
+ "id": "58523c294c634d20dba34cbd",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 245,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oxc13J6x",
+ "data": {
+  "actual_result": "It's not",
+  "expected_result": "The color is the same as the background.",
+  "short_description": "Spinny logo thing's color is off",
+  "steps_to_repro": "- Open discord on mac - "
+ }
+}

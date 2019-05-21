@@ -1,0 +1,30 @@
+{
+ "id": "5a6e17b43e79cacbc0c73aa0",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1077,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xtmJ6soi",
+ "data": {
+  "system_settings": "Xperia ZL, Android 5.0.1",
+  "client_settings": "Discord Alpha 6.1.3",
+  "actual_result": "nick name stuck together with the mute icon",
+  "expected_result": "a nice user list",
+  "short_description": "VC Nick name showing bug",
+  "steps_to_repro": "- join a server that with voice channel - set your nick to long as possible - join the voice channel"
+ }
+}

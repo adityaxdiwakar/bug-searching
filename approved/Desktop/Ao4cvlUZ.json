@@ -1,0 +1,30 @@
+{
+ "id": "59eb462c49704feec9bc69c8",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 1299,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Ao4cvlUZ",
+ "data": {
+  "system_settings": "Dell Latitude E5540 - Windows 10 Professional x64 (Build 1703)",
+  "client_settings": "Discord Canary 0.0.167 (Build 6168)",
+  "actual_result": "Video goes full screen, and goes all pitch-black as if it disappeared.",
+  "expected_result": "Video goes to full-screen and continues to show.",
+  "short_description": "Video in Log Changes Disappears after Double-Clicking",
+  "steps_to_repro": "-Go to your settings-Click on Change Logs-Click on play for the video-Double-click the video"
+ }
+}

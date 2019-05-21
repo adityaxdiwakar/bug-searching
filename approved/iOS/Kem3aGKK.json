@@ -1,0 +1,17 @@
+{
+ "id": "5b5deeda53b7017feda4fabc",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 858,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Kem3aGKK",
+ "data": {
+  "system_settings": "iPhone 6s iOS 11.4",
+  "client_settings": "iOS Discord 2.3.5",
+  "actual_result": "There is mutual servers/friends unlike desktop.",
+  "expected_result": "There shouldn't be mutual servers/friends tabs like desktop and browser clients.",
+  "short_description": "You can see mutual servers with yourself unlike on desktop",
+  "steps_to_repro": "- Go to a servers member list - Tap on yourself - Look at the mutual servers/friends tab - Observe."
+ }
+}

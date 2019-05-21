@@ -1,0 +1,30 @@
+{
+ "id": "5a61583aa2943c030f8df360",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 515,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7WuwGhug",
+ "data": {
+  "system_settings": "Iphone 6, iOS 11.2.1",
+  "client_settings": "iOS TestFlight 2.2.1 (2202)",
+  "actual_result": "The text is covered up the the emoji list",
+  "expected_result": "Text is pushed upwards so you can still view what was said",
+  "short_description": "Emoji Tray does not push text up anymore, covers it up",
+  "steps_to_repro": "- Go to a text channel - Enter the key : - Watch as emoji list doesn't push text upwards"
+ }
+}

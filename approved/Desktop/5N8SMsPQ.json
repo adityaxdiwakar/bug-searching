@@ -1,0 +1,22 @@
+{
+ "id": "5842788de6a86e07c0410b98",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 203,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5N8SMsPQ",
+ "data": {
+  "actual_result": "You can click on the link bringing you to an invalid URL.",
+  "expected_result": "It is not clickable.",
+  "short_description": "When clicking on the author of an embed with no link, it will link to \"!!!!\" which then errors on windows.",
+  "steps_to_repro": "- Send a message with an embed - Set the author of the embed to url \"\" or do not set the url at all - Click on the author's name "
+ }
+}

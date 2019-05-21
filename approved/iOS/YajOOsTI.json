@@ -1,0 +1,30 @@
+{
+ "id": "5adccb952b745f94bcab89e7",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 688,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YajOOsTI",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.3 & iPad Air 2, iOS 11.4 PB 2",
+  "client_settings": "TestFlight 2.3.0 (3817)",
+  "actual_result": "It won't get closed automatically. It looks like you have no permission to edit it. Also opening the notification settings shows nothing.",
+  "expected_result": "The overview/menu should automatically get closed after deleting.",
+  "short_description": "Deleting channel/category while having its overview opened won't close this menu",
+  "steps_to_repro": "- Open any channel or a category - Go to its setting overview (with channel topic, etc.) by editing the channel or category - Keep this section opened and go to a second device - Delete the channel or the category (that you have opened with your first device) with the second device - Go back to your first device and observe the channel or category overview"
+ }
+}

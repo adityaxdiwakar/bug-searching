@@ -1,0 +1,16 @@
+{
+ "id": "58f8cb950fb64eb44b4e62c9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 505,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5AR6Vv05",
+ "data": {
+  "system_settings": " Ubuntu 16.04 LTS    Latest Canary (Unsure of version #)",
+  "actual_result": "The user count stays as the \"@ everyone\" user count",
+  "expected_result": "It should only display the total number of users with the role being filtered",
+  "short_description": "Filtering users by role in the member list of server settings still displays the \"@ everyone\" user count",
+  "steps_to_repro": "- Go into the member list of a server - Filter members by role (Check user count before filtering) - Compare current user count to the \"@ everyone\" user count "
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "5a6e96be6c7804b82480c738",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1079,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5ySwU6Pr",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 6.1.9",
+  "actual_result": "it appears",
+  "expected_result": "No hidden channel should appear",
+  "short_description": "can look up names of hidden channels",
+  "steps_to_repro": "- open up quick switcher - have a channel that you have no access to - look up the name of it in the quick switcher"
+ }
+}

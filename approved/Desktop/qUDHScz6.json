@@ -1,0 +1,30 @@
+{
+ "id": "5b0bcdc2b3dd410cb298fd65",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2063,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qUDHScz6",
+ "data": {
+  "system_settings": "Windows 7 SP 1",
+  "client_settings": "Discord Canary 16167",
+  "actual_result": "Friend goes offline",
+  "expected_result": "Nothing",
+  "short_description": "After blocking and unblocking your friend he goes offline untill restart discord",
+  "steps_to_repro": "- Start talking with your friend (i don't know if it's necessary, but while doing the action I was talking) - Open his profile - Block him - Unblock him"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b6e2571cace330f5a24cce8",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 891,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/n4pUQ8bm",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 6",
+  "client_settings": "TestFlight 2.3.6 (6691)",
+  "actual_result": "Shift key will change to lowercase and not capslock",
+  "expected_result": "Shift key will change to capslock",
+  "short_description": "Switching to capslock from shift on poor connection will change to lowercase",
+  "steps_to_repro": "- Make sure you're on poor connection - Start typing something - From lowercase, double tap the shift key to switch to capslock and observe the key - Switch to shift and double tap the shift key to switch to capslock - Observe the shift key after that"
+ }
+}

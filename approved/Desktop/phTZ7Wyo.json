@@ -1,0 +1,17 @@
+{
+ "id": "5b4ffb66be4fac053a5644eb",
+ "closed": false,
+ "idList": "5a8af8346373f3bcbc184db6",
+ "idShort": 2321,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/phTZ7Wyo",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 v1803",
+  "client_settings": "Discord Canary 19154",
+  "actual_result": "The bot tag is not aligned correctly.",
+  "expected_result": "The bot tag is aligned correctly.",
+  "short_description": "Bot tag off-center on messages when using cozy mode",
+  "steps_to_repro": "- View a message by a bot using cozy mode- Observe the tag alignment"
+ }
+}

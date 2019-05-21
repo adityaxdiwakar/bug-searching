@@ -1,0 +1,30 @@
+{
+ "id": "5aa38d263e288d151af71e41",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1725,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oOjsP6uM",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.203, Build 11882",
+  "actual_result": "None of the modals can be closed with the esc key",
+  "expected_result": "Modals close when the esc key is pressed",
+  "short_description": "Opening two modals over each other makes them unable to be closed with the esc key",
+  "steps_to_repro": "- Open the Reaction modal on a message - Right-click on a user and open their Profile - Attempt to close either modal with the esc key"
+ }
+}

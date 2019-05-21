@@ -1,0 +1,36 @@
+{
+ "id": "5b5c504392efabbc8d006d53",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2467,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5b8876495b10eb2013654345",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Firefox",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZcjnsTMU",
+ "data": {
+  "system_settings": "macOS Sierra 10.12.6, Firefox Quantum 61.0.1 (64-bit)",
+  "client_settings": "Canary 20174",
+  "actual_result": "They get distorted",
+  "expected_result": "The highlight and text stays at one place",
+  "short_description": "When clicking channels at 90% zoom some weird highlight distortion and channel name movement happens on click [Firefox]",
+  "steps_to_repro": "- Open Discord on Firefox - Set zoom to 90% - Start repetitively clicking on channels (can also be only same channel) and observe what happens with the channel name and highlight on click"
+ }
+}

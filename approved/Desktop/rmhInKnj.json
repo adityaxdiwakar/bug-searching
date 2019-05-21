@@ -1,0 +1,15 @@
+{
+ "id": "5812a072b5da25a722897618",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 80,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/rmhInKnj",
+ "data": {
+  "actual_result": "It doesn't work System Specs: Windows 8.1 x64, Canary, Screenshot: http://i.imgur.com/eh9Fzht.gifv",
+  "expected_result": "The BTTV/Twitch emoji works",
+  "short_description": "BTTV/Twitch emojis cannot be used as reactions in a read only channel",
+  "steps_to_repro": "- Use a BTTV/Twitch emoji reaction on a read-only channel message "
+ }
+}

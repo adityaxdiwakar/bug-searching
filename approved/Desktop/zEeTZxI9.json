@@ -1,0 +1,15 @@
+{
+ "id": "583b7e19fce9e0bc18e1514f",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 180,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zEeTZxI9",
+ "data": {
+  "actual_result": "You are scrolled up [Submitted for Joe#0816]",
+  "expected_result": "The friend (or you) should be scrolled to the bottom (unless they have unread messages)",
+  "short_description": "User message area scrolls up after a deleted message",
+  "steps_to_repro": "- Ask a friend to look at another channel/server - Post a message - Delete the message you just posted - Ask your friend to go back into the channel "
+ }
+}

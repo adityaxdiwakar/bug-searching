@@ -1,0 +1,30 @@
+{
+ "id": "5a4ddb52256db3ebcfa1cb19",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 481,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ecVzViUC",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.1 & iPad Air 2, iOS 11.2.5 Public Beta 2",
+  "client_settings": "TestFlight 2.2.0 (2042)",
+  "actual_result": "You can click on the edit button next to category and delete a category you shouldn't have access.",
+  "expected_result": "The edit button next to the category shouldn't be clickable.",
+  "short_description": "[Visual bug] Categories with no access can be edited and deleted",
+  "steps_to_repro": "- Create a category - Make this category private and only give an admin role permission to access it - Give any other role the manage channels permission - Assign this role to a user - Open the server settings with this user - Go to `Channels` - Click on the edit button next to the category the user shouldn't access"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b9045a19c9a7e33549f9414",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1930,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Z1bY2Qlh",
+ "data": {
+  "system_settings": "Google Pixel, Android Pie (August 5th patch, build PPR1.180610.009)",
+  "client_settings": "Android alpha 746",
+  "actual_result": "happens maybe 20% of the time",
+  "expected_result": "A notification should appear in the notif tray for any mention / DM received with notifications enabled",
+  "short_description": "Most @ mentions do not create a notification on Android 8/9",
+  "steps_to_repro": "- Ensure discord is running latest alpha build on Android, and phone is up to date - Confirm all notification settings are enabled - Receive a mention (by name, role or everyone) - Not receive notification in notification area - Check your discord a few hours later to see someone was trying to reply to your messages - PLEASE NOTE This is not a five minute thing to find, Quite often I don't see I missed a message until a few hours later, Even though power saving is disabled for discord on my phone, I suspect it has something to do with background processing, as it's most obvious when I've been doing other things, not necessarily with the phone."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bface771135517ee0cc3049",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3433,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yrvI0Xgi",
+ "data": {
+  "system_settings": "Windows 10 Pro, x64 (v1803)",
+  "client_settings": "Discord Canary 28393",
+  "actual_result": "Your screenshare doesn't end, and you automatically start screensharing in the new channel.",
+  "expected_result": "Your screenshare should end when you are moved to a new voice channel.",
+  "short_description": "When you are automatically moved to a new voice channel while screensharing, you continue to screenshare.",
+  "steps_to_repro": "- Join a Voice channel, and start screensharing (or, join a voice channel and start screensharing with your alt).- Get moved to a different voice channel (or, move your alt to a different voice channel with your main).- Observe how you automatically screenshare when you are moved to a new channel."
+ }
+}

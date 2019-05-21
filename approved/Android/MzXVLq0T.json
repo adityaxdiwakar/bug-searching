@@ -1,0 +1,17 @@
+{
+ "id": "59cd8445c1c6c21c70710932",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 770,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/MzXVLq0T",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Android Alpha 5.2.6",
+  "actual_result": "The suggestion won't show up, until you press Space again. Then if you pick a suggestion, the first `:` or `@` symbol will be duplicated.",
+  "expected_result": "Suggestions should show up and writes it between the two spaces when you select one",
+  "short_description": "Emoji/Username suggestions won't show up when you're typing in the middle of your message",
+  "steps_to_repro": "-\u00a01) Go to any channel where you can type in - 2) In the text area, write two words separated by 2 spaces - 3) Place your cursor between the two spaces, and write either a `:` to insert an emoji or `@` to mention someone"
+ }
+}

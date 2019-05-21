@@ -1,0 +1,16 @@
+{
+ "id": "58c0add1388274dec99c104f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 406,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2jZGVWxu",
+ "data": {
+  "system_settings": " Win10 x64, Canary 0.0.153",
+  "actual_result": "It's not",
+  "expected_result": "Voice attentuation control is present",
+  "short_description": "Voice Attenuation Missing",
+  "steps_to_repro": "- Open voice settings - Click the Advanced tab "
+ }
+}

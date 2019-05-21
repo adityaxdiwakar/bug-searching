@@ -1,0 +1,30 @@
+{
+ "id": "59d342ebfa091192098bce48",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 774,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bO9tTscw",
+ "data": {
+  "system_settings": "Samsung Galaxy S8 (SM-G950F), Android Nougat 7.0",
+  "client_settings": "Discord Alpha 5.2.7",
+  "actual_result": "It's white, it doesn't adapt theme",
+  "expected_result": "Copy User ID button should be light gray",
+  "short_description": "Copy user ID button doesn't adapt theme",
+  "steps_to_repro": "- Switch to light theme from User Settings > Appearance - Attempt to copy a user's ID by long pressing on their avatar"
+ }
+}

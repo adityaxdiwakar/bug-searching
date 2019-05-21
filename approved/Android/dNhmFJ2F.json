@@ -1,0 +1,22 @@
+{
+ "id": "5855258103bc2de630e6ffd5",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 143,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dNhmFJ2F",
+ "data": {
+  "actual_result": "Nothing shows up until you restart the app.",
+  "expected_result": "The person shows up as \"x is typing\"",
+  "short_description": "Moving servers a few times break the typing message",
+  "steps_to_repro": "- Move around to a few other servers and back  - Hav someone type in a channel "
+ }
+}

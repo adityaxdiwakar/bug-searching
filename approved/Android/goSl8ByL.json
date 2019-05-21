@@ -1,0 +1,23 @@
+{
+ "id": "5859c650f54c04c26da70fb5",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 152,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/goSl8ByL",
+ "data": {
+  "system_settings": " Android 4.1.2, Samsung Galaxy S2 ",
+  "actual_result": "When clicked, the button says the request has been sent when it hasn't System Settings: Android 4.1.2, Samsung Galaxy S2",
+  "expected_result": "The button shouldn't even be there",
+  "short_description": "You can send friend requests to bots",
+  "steps_to_repro": "- Go to a bot's profile page - Click on the friend request button in the top right "
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "5a78d3bbfdc6e68600d10c61",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 565,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dpi17X3g",
+ "data": {
+  "system_settings": "iPad Mini 2, iOS 11.0.3",
+  "client_settings": "TestFlight 2.2.2 (2352)",
+  "actual_result": "You are moved to the top channel and no messages are there",
+  "expected_result": "You should be moved to the top channel and see messages",
+  "short_description": "When you delete a channel and are moved to the top channel in the list, if you haven't looked at the channel you're moved to since loading the app, no messages will be shown",
+  "steps_to_repro": "- Look at a channel that isn't at the top of the channel list, in a server where you can delete channels - Double tap the home button and swipe up on Discord to close it - Open Discord and go to the server you were just in - Without opening the top channel, delete the channel you're looking at"
+ }
+}

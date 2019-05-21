@@ -1,0 +1,30 @@
+{
+ "id": "5af5ff58a90a66372c12f476",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1971,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/k0n2OdB8",
+ "data": {
+  "system_settings": "Windows pro x64",
+  "client_settings": "Discord canary 15032",
+  "actual_result": "You can press the emojis on the menu and nothing will happen",
+  "expected_result": "You should be able to choose the emoji on the last one",
+  "short_description": "Can't select an emoji when input form is loaded up (Over char limit)",
+  "steps_to_repro": "- Spam emojis in an input form like `:smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile:` but couple of times (the higher the better) - leave the last one to be like `:smi`"
+ }
+}

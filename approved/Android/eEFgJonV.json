@@ -1,0 +1,16 @@
+{
+ "id": "590c5468d58ab0172ed6a3f7",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 429,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/eEFgJonV",
+ "data": {
+  "system_settings": " Android 6.0.1 Discord 3.8.2",
+  "actual_result": "a big box appears with no back button and no messages",
+  "expected_result": "pins show normally",
+  "short_description": "pinned messages not showing anything",
+  "steps_to_repro": "- open pinned messages "
+ }
+}

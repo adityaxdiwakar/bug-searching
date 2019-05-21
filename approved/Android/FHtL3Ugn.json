@@ -1,0 +1,23 @@
+{
+ "id": "58ccd373aeb8c144a684ad5d",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 302,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FHtL3Ugn",
+ "data": {
+  "system_settings": " android KitKat Discord 3.5.2",
+  "actual_result": "weird error message saying that i don't share any common servers",
+  "expected_result": "don't show myself in the search because i cant create a DM with myself or allow me to create a DM with myself",
+  "short_description": "can search myself in the user search in the friends section and when i tap on it i get a weird message saying that the user doesn't have any mutual servers",
+  "steps_to_repro": "- go to the user search in friends - type your name - click on yourself\u200b in the search results "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59d5d318e002c173c2dd6be9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1222,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SLMvbYoC",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Canary, 0.0.164 5342",
+  "actual_result": "Client crashes",
+  "expected_result": "Data should show",
+  "short_description": "Attempting to view an audit-logged invite for a deleted channel crashes the client.",
+  "steps_to_repro": "- Create an invite to a guild channel - Delete the channel - Open the audit log - Attempt to view the invite metadata in the log"
+ }
+}

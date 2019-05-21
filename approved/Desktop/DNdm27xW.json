@@ -1,0 +1,24 @@
+{
+ "id": "595cf99cf6acc1579868db6e",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 808,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DNdm27xW",
+ "data": {
+  "system_settings": "Win 10 Pro x64 v1607",
+  "client_settings": "Desktop Canary 0.0.157 (Build 2012)",
+  "actual_result": "It stays blank, implying nothing is wrong, allowing you to be ratelimited if you end up spamming it.",
+  "expected_result": "A popup error should appear saying \"This field is required\", as is the case with the main login screen.",
+  "short_description": "No error message when hitting login on the 2FA code screen without entering a 2FA code",
+  "steps_to_repro": "- Make sure you have 2FA enabled on your account - Logout of the client via User Settings - Log in with your email and password - Press login on the 2FA screen without typing in a 2FA code"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5bbdebd73cfd5d4feb3b9372",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2138,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/CvErsaFu",
+ "data": {
+  "system_settings": "Samsung Galaxy S5 mini, Android 6.0.1",
+  "client_settings": "Alpha 766",
+  "actual_result": "it doesn't show the # in any of the entrys anymore after deletion",
+  "expected_result": "after deletion it should show the \"#\" in front of the channel name as is was the case before the deletion",
+  "short_description": "[Audit Log] deleting a text channel removes \"#\" of create / update / delete entrys",
+  "steps_to_repro": "- create a text channel - update it (for example change it's nane) - observe audit log - delete channel - observe audit log"
+ }
+}

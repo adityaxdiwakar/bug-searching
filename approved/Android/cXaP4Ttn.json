@@ -1,0 +1,30 @@
+{
+ "id": "5b1c72a5f6370923913b8b80",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1517,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cXaP4Ttn",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 SE 8.1",
+  "client_settings": "Discord Alpha 689",
+  "actual_result": "It only updates if you aren't scrolling anymore",
+  "expected_result": "The bar updates dynamically when you are scrolling",
+  "short_description": "Unread Indicator does not update dynamically while you are scrolling",
+  "steps_to_repro": "- Find a server that has a new unreads bar - Click on the bar - Note where it jumps you to - Scroll back to the top - Now scroll back down without releasing - Notice the bar is still there - Release - It's gone"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "59fbc2233963caaa4b6be2dc",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 413,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ulKk8b7F",
+ "data": {
+  "system_settings": "IOS 11.1, iPhone 5s",
+  "client_settings": "Discord Canary 1340",
+  "actual_result": "You can enter text but you cant, see the text you enter because it's under the keyboard",
+  "expected_result": "You can enter text and see the text you enter",
+  "short_description": "text entry field can be hidden by switching keyboards",
+  "steps_to_repro": "- Click the chat bar to bring up a keyboard - Switch keyboards from english > Japan kana > emoji > English"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "59bb5fad1b46554721f0ff5e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 717,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OK9DuQDy",
+ "data": {
+  "system_settings": "Motorolla Droid Ultra XT1080 Android 4.4 KitKat",
+  "client_settings": "Android Alpha v5.1.6",
+  "actual_result": "The Voice Channel fails to connect, And gives me a redial button that won't work",
+  "expected_result": "The Voice Chat should show who is in the channel",
+  "short_description": "When trying to connect to Voice Chat, The Redial button appears and will not go away.",
+  "steps_to_repro": "- Create a Voice Channel - Tap on the channel"
+ }
+}

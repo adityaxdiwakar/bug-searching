@@ -1,0 +1,16 @@
+{
+ "id": "58cee78364588b5754bb78af",
+ "closed": true,
+ "idList": "580e8083de3bfbcd4de2ecb9",
+ "idShort": 218,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/cJmP0af6",
+ "data": {
+  "system_settings": " iOS 10.2, iPhone 6, latest TestFlight beta",
+  "actual_result": "User list takes an extremely long time to load",
+  "expected_result": "User list should load",
+  "short_description": "User list occassionally hangs on loading",
+  "steps_to_repro": "- Swipe to open user list once, should load - Swipe closed - Swipe to open it again, repeat until bug occurs - etc "
+ }
+}

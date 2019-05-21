@@ -1,0 +1,30 @@
+{
+ "id": "5a77198da4c3efbc59a77a8a",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1627,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DxyJWAwO",
+ "data": {
+  "system_settings": "MacBook Air macOS Sierra 10.12.4",
+  "client_settings": "Discord Canary 0.0.185 Build 10189",
+  "actual_result": "Only some animate, the others are frozen (see attachment)",
+  "expected_result": "All the emojis animate",
+  "short_description": "When there is a wall of animated emoji, only some animate",
+  "steps_to_repro": "- Put a wall of animated emojis into chat (or have a bot do it)"
+ }
+}

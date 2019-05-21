@@ -1,0 +1,24 @@
+{
+ "id": "59b66d3ee0f137bffba044db",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1115,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tOTltNhm",
+ "data": {
+  "system_settings": "Macbook Pro 2015 Screen resolution: 15,4-inch (2880 x 1800), MacOS Sierra: Version 10.12.6",
+  "client_settings": "Discord Canary, 0.0.154",
+  "actual_result": "The slider goes out of place",
+  "expected_result": "The slider stays in place",
+  "short_description": "Slider goes out of place",
+  "steps_to_repro": "- Go to settings - Go to the tab Games - Press the slider so it goes to the on mode - Press escape at the same time - See the button go out of place"
+ }
+}

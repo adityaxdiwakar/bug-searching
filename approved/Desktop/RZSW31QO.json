@@ -1,0 +1,30 @@
+{
+ "id": "5a96e753adbdbc738e349e69",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1695,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RZSW31QO",
+ "data": {
+  "system_settings": "Win 10 Pro x64",
+  "client_settings": "Stable, 10097",
+  "actual_result": "It starts removing from what you've typed in before autocompleting and doesn't remove the autocomplete portion up until there is nothing else behind it to remove.",
+  "expected_result": "Doing `ctrl + z` removes the whole emoji name.",
+  "short_description": "With autocomplete suggestions, after you've clicked on a suggestion to complete your `:emojiname:` for an example, and do `ctrl + z`, it will start removing from what you've typed in before you've clicked on a suggestion instead of removing the whole `:emojiname:`. Same with all autocomplete suggestions.",
+  "steps_to_repro": "- Use emoji matching to complete an emoji name - Do `ctrl + z`"
+ }
+}

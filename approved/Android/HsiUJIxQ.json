@@ -1,0 +1,30 @@
+{
+ "id": "5b2e0f258a92ad5c126b47ef",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1586,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HsiUJIxQ",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 running Android 7.0",
+  "client_settings": "Discord Alpha 6.9.9",
+  "actual_result": "It is not visible every other time you enter settings",
+  "expected_result": "\"Acknowledgements\" should be there every time",
+  "short_description": "Entering settings once and going back and entering again causes the \"Acknowledgements\" at the bottom not to show up every other time",
+  "steps_to_repro": "- Enter settings and scroll to the bottom and observe that Acknowledgements is gone - Exit settings - Go back to settings and scroll to the bottom and observe that Acknowledgements is there"
+ }
+}

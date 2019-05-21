@@ -1,0 +1,16 @@
+{
+ "id": "58b434353725e826cd34cbb6",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 207,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Qj04tpoJ",
+ "data": {
+  "system_settings": " iOS 10.2.1 TestFlight 1.8.3 (70)",
+  "actual_result": "It does nothing (autocomplete or highlighting if you type them manually)",
+  "expected_result": "Selectors can complete by tapping them and show highlighted",
+  "short_description": "Tapping selectors in search doesn't fill them in and the selectors don't highlight in black",
+  "steps_to_repro": "- goto any channel and open search "
+ }
+}

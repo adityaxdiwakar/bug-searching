@@ -1,0 +1,24 @@
+{
+ "id": "59205fe56a34ca00010c755c",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 247,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I4z30tiG",
+ "data": {
+  "system_settings": "iOS 10.3.2, iPhone 6",
+  "client_settings": "Discord 1.8.5",
+  "actual_result": "The app crashes",
+  "expected_result": "The settings menu should open",
+  "short_description": "Crash when accessing settings with language set to English UK",
+  "steps_to_repro": "- Set language to 'English UK' on Desktop (Canary) - Open Discord on iOS - Tap the settings cog"
+ }
+}

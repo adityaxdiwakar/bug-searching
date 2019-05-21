@@ -1,0 +1,30 @@
+{
+ "id": "5af79f9f3a2f133bdbf5f665",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1406,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/uXusOplr",
+ "data": {
+  "system_settings": "Xiaomi Mi A1, Android 8.0.0",
+  "client_settings": "Discord Alpha 6.6.7",
+  "actual_result": "Numbers aren't shown accurately even when the tab shows little loading circle (refreshing) at the bottom. You can notice the change in a server with many members. (Having no role - prunable)",
+  "expected_result": "Number of members should appear constant and accurate even after switching from landscape to portrait mode and vice versa.",
+  "short_description": "Number of members to be pruned don't get refreshed and shows incorrectly when switching from landscape to portrait mode even after it shows refreshed.",
+  "steps_to_repro": "- Turn on the auto rotation of your device. - Go to any server in which you have ban and kick members permissions (a large server would be better). - Go to settings, members then prune members at the top right. - It will show you the options to prune members who are inactive for 1 day, 7 day or 30 days. Note the number of members it shows that would be pruned who are inactive for 1 day.  - Rotate your device to switch to landscape mode. Notice the number of members are not the same. - Come back to portrait mode, still number of members are not accurate unless you click on the first tab (1 day) and manually refresh the tab."
+ }
+}

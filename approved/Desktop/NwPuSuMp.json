@@ -1,0 +1,30 @@
+{
+ "id": "5a5fa74b7023eed4d3d894e1",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1555,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/NwPuSuMp",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit, v1709",
+  "client_settings": "Discord Canary, Build 9591",
+  "actual_result": "Discord ignores the few plural form and displays the other plural form instead",
+  "expected_result": "Discord should display the few plural form",
+  "short_description": "Discord fails to display few plural forms",
+  "steps_to_repro": "- Find a crowdin translation that uses the few plural argument  - View the translation on Discord in a case in which the few plural form should be displayed"
+ }
+}

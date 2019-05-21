@@ -1,0 +1,24 @@
+{
+ "id": "59f97c624f794ac6ff5f08a9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1339,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/rNKKrEyS",
+ "data": {
+  "system_settings": "Windows 10 x64",
+  "client_settings": "Release Channel: stable, Build Number: 6444, Version Hash: cd8708231e3e29807f70ec077b27598a4df9013e",
+  "actual_result": "I continue to stay \"keyed up\" and people can still hear me speaking.",
+  "expected_result": "My PTT should \"deactivate\" (I should stop being \"keyed up\"/speaking).",
+  "short_description": "When I am using PTT bound to a numpad key, and hold down shift, then let go of the PTT button, I continue to speak.",
+  "steps_to_repro": "- Use a key on your numpad (num 3). - Press down on the PTT key. - Hold down shift. - Let go of PTT key while still holding shift."
+ }
+}

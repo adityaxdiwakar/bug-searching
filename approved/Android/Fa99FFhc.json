@@ -1,0 +1,24 @@
+{
+ "id": "5ad87bccfb047c09dc9efffb",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1295,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Fa99FFhc",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 2015, Android 5.1 lollipop",
+  "client_settings": "latest Discord built",
+  "actual_result": "The sending process is being interrupted and the file won't send",
+  "expected_result": "The sending process won't be interrupted",
+  "short_description": "When using the \"new\" share option on Android and sending it to a channel / someone and tilting the screen the sending process will stop",
+  "steps_to_repro": "- Go to your gallery - pick an image or a video - hold press the image or the video - choose share - pick discord - send it to a channel - tilt your screen"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a71d8759644f8ec6c0cde99",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 553,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7J5myTIE",
+ "data": {
+  "system_settings": "iPhone 6s, iOS 11.2.5 & iPad Air 2, iOS 11.3 PB 1",
+  "client_settings": "TestFlight 2.2.2 (2352)",
+  "actual_result": "You can't edit the owner's roles.",
+  "expected_result": "You should be able to edit the owner's roles like it is possible with the Desktop Client",
+  "short_description": "Owner's roles can't be edited via server settings",
+  "steps_to_repro": "- Be on a server where you have admin or manage roles permission but you are not the owner - Go to server settings - Open members - Search for the owner - Observe how you can't change anything"
+ }
+}

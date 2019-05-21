@@ -1,0 +1,24 @@
+{
+ "id": "5bff4476c0c74c5fe26939d5",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1181,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5lg77PmN",
+ "data": {
+  "system_settings": "iPad mini 2/iOS 12",
+  "client_settings": "TestFlight 2.4.0",
+  "actual_result": "The emoji replace the #",
+  "expected_result": "The emoji appear and the # stay.",
+  "short_description": "When add friend, Discord take #\ufe0f\u20e3 for #",
+  "steps_to_repro": "- Add a friend - Type #\ufe0f\u20e3"
+ }
+}

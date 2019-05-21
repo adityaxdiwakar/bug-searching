@@ -1,0 +1,22 @@
+{
+ "id": "58f8cf41918554d64b850bd8",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 507,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/olTsHgyp",
+ "data": {
+  "actual_result": "It stays glued to the screen until you close it Settings: Windows 10 Home x64, Latest Canary",
+  "expected_result": "The color picker goes offscreen or disappears when you scroll to far",
+  "short_description": "Color picker in Role editor weirdly affixed to screen until dismissed",
+  "steps_to_repro": "- Open the color picker - Scroll "
+ }
+}

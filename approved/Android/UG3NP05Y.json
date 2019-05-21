@@ -1,0 +1,30 @@
+{
+ "id": "5a6da58394f61bb8d01d0860",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1076,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UG3NP05Y",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.1.5",
+  "actual_result": "It doesn't. Instead the focus on the search bar is lost, preventing you from typing anything else until you tap on search bar again (at least with GBoard). To submit your search, you have no other choice than using the submit button on the UI",
+  "expected_result": "The search should be submitted",
+  "short_description": "The Enter key doesn't work to submit search. Some people are not affected, see below",
+  "steps_to_repro": "- Go to any channel - Tap Search - Write some keywords - Now let's see whether you are affected by this bug or not. Look at the Enter button of your keyboard. If it looks like a \"Next\" or arrow button, then you're good to go. If it looks like a Validate/Submit \\\u2714\ufe0f button, then you are most likely not concerned by this bug. Don't need to CNR in this case, you have been warned. - Press that button"
+ }
+}

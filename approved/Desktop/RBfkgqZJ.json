@@ -1,0 +1,30 @@
+{
+ "id": "5b616d6b4174fb22d0ba5477",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2567,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RBfkgqZJ",
+ "data": {
+  "system_settings": "Windows 10 Home x64 1803",
+  "client_settings": "Discord Canary 20433",
+  "actual_result": "POSTCODE gets cut in the end and it stays as POSTCOD",
+  "expected_result": "Everything would be fine (in the boxes)",
+  "short_description": "Postcode gets cut in the Nitro Payment screen",
+  "steps_to_repro": "- Go to the nitro buying screen \u2013 Go into buying nitro \u2013 Get to the 3rd screen."
+ }
+}

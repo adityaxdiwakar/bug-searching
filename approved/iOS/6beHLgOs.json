@@ -1,0 +1,24 @@
+{
+ "id": "5bb34ba4bccbdd09eae9c2d4",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1047,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafe",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P0 - Need an immediate fix",
+   "color": "red"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6beHLgOs",
+ "data": {
+  "system_settings": "iPhone Xs Max, iOS 12.0",
+  "client_settings": "TestFlight 2.3.9(7731)",
+  "actual_result": "Discord is crashed when clicking invitation link instead",
+  "expected_result": "It should show \"You have been invited to the channel",
+  "short_description": "Discord crashed when opening invitation link on Safari",
+  "steps_to_repro": "- Make sure Discord is running - Open Safari find a website that contain channel invitation link - Click on the link it should be redirect to Discord"
+ }
+}

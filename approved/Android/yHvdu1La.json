@@ -1,0 +1,24 @@
+{
+ "id": "59bb006fd5bbc673f16c6915",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 712,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/yHvdu1La",
+ "data": {
+  "system_settings": "Moto G4 Android 7.0",
+  "client_settings": "Alpha 5.1.5",
+  "actual_result": "The option pops up",
+  "expected_result": "Leave Server option shouldn't show",
+  "short_description": "You have the option to leave servers you own",
+  "steps_to_repro": "- Create a server - Click the three dots (overflow icon)"
+ }
+}

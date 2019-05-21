@@ -1,0 +1,17 @@
+{
+ "id": "5ab6f724bf74ca9c75b34ea8",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 1227,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/HnzdUxEw",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 6.4.4",
+  "actual_result": "They go away",
+  "expected_result": "Comlent and selected channel should stay",
+  "short_description": "Minimizing and maximizing Discord will erase the comment box and the selected channel in incoming share screen",
+  "steps_to_repro": "- Share something to Discord - Write a comment - Select a channel - Press Home button  - Reopen Discord via multi-tasking"
+ }
+}

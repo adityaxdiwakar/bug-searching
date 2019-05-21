@@ -1,0 +1,17 @@
+{
+ "id": "599c747207e51ee93cf2bd9c",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 1031,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yv0ID8wt",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, 0.0.163",
+  "actual_result": "The \"zip\" placeholder disappears before entering the first character in the zip field, after entering the card's CVV code).",
+  "expected_result": "The grey placeholder text \"zip\" for the zipcode is shown before entering any characters in the zip field, like the behaviour of the other placeholder fields (Credit Card Number, MM/YY, CVV).",
+  "short_description": "ZIP placeholder disappears before entering first character of ZIP code",
+  "steps_to_repro": "- Fill in Discord Nitro signup form up to the point where a ZIP code has to be entered."
+ }
+}

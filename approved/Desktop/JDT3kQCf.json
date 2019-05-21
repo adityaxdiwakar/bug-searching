@@ -1,0 +1,24 @@
+{
+ "id": "59534ee304e7cab0a8a6c710",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 795,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JDT3kQCf",
+ "data": {
+  "system_settings": "Windows 10 x64 (1703)",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "The \"Light\" checkbox is missing a checkmark.",
+  "expected_result": "The \"Light\" checkbox has a checkmark in it when selected.",
+  "short_description": "Light theme checkbox doesn't have a checkmark",
+  "steps_to_repro": "- Switch your theme to Light, or if you're already using Light, look at the checkbox in the Appearance settings menu."
+ }
+}

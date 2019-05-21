@@ -1,0 +1,17 @@
+{
+ "id": "59b4e079459e0d2bdb29a1ee",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1111,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yHMzVfzc",
+ "data": {
+  "system_settings": "MacBook Air 13\" Early 2013 macOS Sierra 10.12.6",
+  "client_settings": "Discord Canary 0.0.154 (still)",
+  "actual_result": "It's blurple. Make up your mind. You can't be blurple and black.",
+  "expected_result": "The verified hover thing is black like every other thing because consistency is key\u2122",
+  "short_description": "The verified hover things are blurple, but all the other hover things are black",
+  "steps_to_repro": "- Get the most recent build (verified update) - Go to a verified server (official servers) - Hover over the verified icon"
+ }
+}

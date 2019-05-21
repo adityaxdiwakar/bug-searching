@@ -1,0 +1,36 @@
+{
+ "id": "5993be778f3ae6f2dc1c60b0",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1000,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zkyOqPsL",
+ "data": {
+  "system_settings": "Windows 10, Build 1703",
+  "client_settings": "Desktop Canary, 0.0.163",
+  "actual_result": "Atom editor pane appears solid black, and top bar appears in the Windows 7 format.",
+  "expected_result": "The pane should appear correctly, and the top bar should appear as a Windows 10 bar.",
+  "short_description": "Starting a screenshare with another user, and selecting \"Application window\", causes a blank screen",
+  "steps_to_repro": "- Start a voice call with another user. - Start a screenshare and select application window. - Select an open Atom Editor window. - Top bar appears as a windows 7 bar, instead of windows 10 (already reported bug). - Actual Atom pane appears as a solid black color"
+ }
+}

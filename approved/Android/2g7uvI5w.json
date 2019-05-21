@@ -1,0 +1,30 @@
+{
+ "id": "5b64b5dad5c408808a7c32d0",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1771,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/2g7uvI5w",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1 and Sharp Crystal Aquos Android 4.4.2",
+  "client_settings": "Discord 723",
+  "actual_result": "it's gone, and you can lose a bit of emojis if you have the recommendations pop up",
+  "expected_result": "the emoji picker bottom bar shouldnt disappear",
+  "short_description": "Emoji pickers bottom bar disappears [Small Screen Size Only]",
+  "steps_to_repro": "- Rotate to landscape - open emoji picker - click a lot of emojis (if you can't repro here, use the next step) - hold down on the emoji picker back space until emoji suggestions pop up"
+ }
+}

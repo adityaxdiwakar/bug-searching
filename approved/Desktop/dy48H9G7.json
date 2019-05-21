@@ -1,0 +1,23 @@
+{
+ "id": "58dac46463c26fcbf2a1b495",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 464,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7223",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P1: Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/dy48H9G7",
+ "data": {
+  "system_settings": " Windows x64, Latest Canary",
+  "actual_result": "Can't select the input",
+  "expected_result": "Getting focus on the input",
+  "short_description": "Unable to change custom emoji name",
+  "steps_to_repro": "- Open server settings - Go to Emojis - Try to change the name of an emoji "
+ }
+}

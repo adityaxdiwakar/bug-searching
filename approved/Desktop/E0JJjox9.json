@@ -1,0 +1,30 @@
+{
+ "id": "5a4cf7c6981fb3b6ce78004a",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1505,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/E0JJjox9",
+ "data": {
+  "system_settings": "Windows 10 Falls Creator Update, x64",
+  "client_settings": "Discord Canary Build Number: 9198, Version Hash: 52dbb2276f7eaa3e243cbc5d29aaac4bbfd0060c",
+  "actual_result": "There is a massive space where the title should be (like if the title would actually be there) (First image)",
+  "expected_result": "There is a tiny space where the title should be (Like in the second image)",
+  "short_description": "There is a massive blank space in embeds that have a description but not a title",
+  "steps_to_repro": "- Send an embed with a description and no title - Observe the embed"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5ad0bb764cdddcac9e96e556",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 1263,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/T8MKmwdj",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime on Android 7.0 Nougat",
+  "client_settings": "Discord 6.4.7 (647)",
+  "actual_result": "A invisible(grey) badge appears besides your profile picture in the list",
+  "expected_result": "You see yourself as if you were any other offline member in the list",
+  "short_description": "You can see a badge in the mention menu after going invisible",
+  "steps_to_repro": "- Set your status to invisible - Go to a server - Type @ followed by your name to get the mention menu to come up - Observe yourself in the list"
+ }
+}

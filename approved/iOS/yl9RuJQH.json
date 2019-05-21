@@ -1,0 +1,17 @@
+{
+ "id": "5b745ecb6e36da8487b244a3",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 912,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yl9RuJQH",
+ "data": {
+  "system_settings": "iOS 12 DB 6",
+  "client_settings": "Discord TestFlight 2.3.7",
+  "actual_result": "The header doesn\u2019t have a background and you can see emotes through it",
+  "expected_result": "The background of the header should have a background",
+  "short_description": "Headers in the emote drawer have no background",
+  "steps_to_repro": "- Open the emotes drawer by long tapping a message and pressing \u201cAdd Reaction\u201d - Scroll down in the drawer"
+ }
+}

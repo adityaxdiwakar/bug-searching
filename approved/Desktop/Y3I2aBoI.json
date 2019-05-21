@@ -1,0 +1,17 @@
+{
+ "id": "59730d16acebbd8a3ecf60a3",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 875,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Y3I2aBoI",
+ "data": {
+  "system_settings": "Windows 8.1 x64",
+  "client_settings": "Discord Canary 0.0.161 (happens since the Canary crash loop fix) - Works on stable and PTB",
+  "actual_result": "Everything is mute, and the voice indicators are all grey",
+  "expected_result": "You can hear people talk and you can talk and they hear you",
+  "short_description": "Can't hear audio and people can't hear me",
+  "steps_to_repro": "- Join a voice channel or DM voice chat"
+ }
+}

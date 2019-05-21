@@ -1,0 +1,30 @@
+{
+ "id": "5b7e6d8aefb489488ba1da93",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2769,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ZOrBwf9q",
+ "data": {
+  "system_settings": "MacBook Pro (13\"), macOS 10.13.6",
+  "client_settings": "Web Stable 22333 - Firefox Nightly v63.0a1(2018-08-22, 64bit)",
+  "actual_result": "The button does nothing",
+  "expected_result": "The button should take you to /app",
+  "short_description": "Clicking \"Continue to Discord\" after verifying your email does nothing",
+  "steps_to_repro": "- Create a new Discord account (or use one not verified) - Send the verification email - Open the email from Discord - Click \"Verify Email\" - Solve the captcha if necessary - Click \"Continue to Discord\""
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b380a5c12c3d65f651b691f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2227,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ntrSZUFE",
+ "data": {
+  "system_settings": "Win10 Home v1803",
+  "client_settings": "Canary 18027",
+  "actual_result": "you cant see it because the new color that is used it too similar to the scrollbar color",
+  "expected_result": "you should see scrollbar",
+  "short_description": "Scrollbar not visible due to new right-click modal color",
+  "steps_to_repro": "- find server you own or make a new server - right click it in server list - hover over sever settings - observe"
+ }
+}

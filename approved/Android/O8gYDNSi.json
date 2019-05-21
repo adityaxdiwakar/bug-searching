@@ -1,0 +1,30 @@
+{
+ "id": "59bd0b0b4dd59c5b95551bb4",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 726,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/O8gYDNSi",
+ "data": {
+  "system_settings": "Android 4.4.4, Allview VivaH8LTE",
+  "client_settings": "Discord Alpha 5.1.7",
+  "actual_result": "When you change the screen mode (portrait/landscape) the roles list disappear",
+  "expected_result": "The roles list should stay",
+  "short_description": "Roles list disappear when switching from landscape mode to portrait mode (or vice versa) on the create a category/channel screen",
+  "steps_to_repro": "- Go to a server where you're admin/owner and create a few roles  - Try to create a new category or a new channel - On the creation screen, press the \"Private category/channel\" button (enable the option) - Switch your device from landscape mode to portrait mode or vice versa - Observe: the roles list to that you can restrict the channel is gone"
+ }
+}

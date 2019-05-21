@@ -1,0 +1,30 @@
+{
+ "id": "5ae1b6385c8e164ea9bf6ff8",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1326,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/n57cH3IS",
+ "data": {
+  "system_settings": "Sony Xperia G3311, Android 7.0",
+  "client_settings": "Beta(?) 6.5.6",
+  "actual_result": "The other remains in the same status they were in when Discord was closed.",
+  "expected_result": "The other will appear as offline.",
+  "short_description": "Users appear as online, despite them actually being offline or invisible",
+  "steps_to_repro": "- You'll need either a friend or an alt accont to do this.  - Have the other set to online, idle or in dnd.   - Exit Discord, but do not close it. (As in do not force close or swipe close.)  - Have the other go offline.  (Invisible might work too, although I can't confirm.)  - Open Discord again and check the other's status."
+ }
+}

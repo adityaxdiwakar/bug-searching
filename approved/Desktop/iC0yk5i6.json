@@ -1,0 +1,17 @@
+{
+ "id": "5b62d755c0fe7007a803277f",
+ "closed": true,
+ "idList": "5952c5a696b4349f964d3cbd",
+ "idShort": 2601,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/iC0yk5i6",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 20535",
+  "actual_result": "The overlay's frequently used emotes and desktop frequently used emotes don't match",
+  "expected_result": "The overlay shows your frequently used emojis under \"Frequently used\"",
+  "short_description": "Incorrect \"Frequently Used\" emotes on the overlay",
+  "steps_to_repro": "- Open the emoji picker on the overlay - Observe the emotes under \"Frequently used\""
+ }
+}

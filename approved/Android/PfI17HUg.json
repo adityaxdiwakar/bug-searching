@@ -1,0 +1,30 @@
+{
+ "id": "5ba447fbb333446ca2283696",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1997,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/PfI17HUg",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 running Android 8.1.0",
+  "client_settings": "Discord Alpha 7.5.4 (754)",
+  "actual_result": "You return to the channel, but the message menu is open, as is the keyboard",
+  "expected_result": "You should be taken back to the channel with the message menu closed and keyboard not open",
+  "short_description": "Holding down on a message and clicking add reaction and adding a global emoji in a server with External Emojis disabled causes the keyboard to stay open when the toast pops up \"Unknown Emoji\"",
+  "steps_to_repro": "- Hold down on a message - Click \"Add Reaction\" - Ensure that the owner (or moderator) has External Emojis disabled.  - Attempt to add a global emoji from an outside server (nitro is NOT required) - Do not tap anything on the screen after you have clicked an emote - Observe"
+ }
+}

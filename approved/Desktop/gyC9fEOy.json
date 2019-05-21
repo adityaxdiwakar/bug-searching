@@ -1,0 +1,30 @@
+{
+ "id": "5bb6041961f08c203204a2f5",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3087,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gyC9fEOy",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.214 (25434)",
+  "actual_result": "The action type and keybind gets messed up, and make its impossible to remove",
+  "expected_result": "It should carry over keybind settings",
+  "short_description": "On the new Electron update, keybinds gets messed up with different actions/keybinds than set",
+  "steps_to_repro": "- Have a keybind before the update (I had Press to mute set on mouse 4) - Observe how it changed to something random, and is not delete-able (It changed to \"PRESS TO TALK\" and to control 4, and pressing both buttons did nothing besides making the sound when unmuting)"
+ }
+}

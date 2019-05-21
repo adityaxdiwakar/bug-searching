@@ -1,0 +1,17 @@
+{
+ "id": "5a3caa4ee74dbb3a000b3dac",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 988,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/iARSeI5Y",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 5.9.3",
+  "actual_result": "there's an extra space above the pop out menu",
+  "expected_result": "Kick, Ban, or Transfer Ownership should lock normal",
+  "short_description": "kick/ban/transfer ownership/status picker/change password pop out menus have extra title space [5.x Specific]",
+  "steps_to_repro": "- have the ability to ban or kick people or be the owner - go to kick/ban/transfer ownership to someone - or go to change your status or password - observe the pop out menu"
+ }
+}

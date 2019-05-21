@@ -1,0 +1,24 @@
+{
+ "id": "5bb7eef2cf0a4b793552961f",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1060,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XCx94wqW",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1 Dev Beta 2",
+  "client_settings": "TestFlight 2.3.9 (8055)",
+  "actual_result": "You are unable to copy the User ID",
+  "expected_result": "You should be able to copy the User ID from bans/member settings like on Desktop",
+  "short_description": "Unable to copy user ID from bans/member settings in server settings",
+  "steps_to_repro": "- Make sure you have Developer Mode turned on - Go into server settings in a server you can manage bans and members - Go into the member settings and tap on a user - Notice the lack of a copy ID option anywhere - Go into the bans page, and select a random banned user - Tap the three dots, and look for a copy ID option"
+ }
+}

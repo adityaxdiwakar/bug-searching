@@ -1,0 +1,17 @@
+{
+ "id": "5bb498ac0c81876f7551f032",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2092,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/aNsLZr5l",
+ "data": {
+  "system_settings": "Galaxy S5 Android 8.1.0",
+  "client_settings": "Discord Alpha 7.6.2",
+  "actual_result": "When click on radio buttons of the specific option nothing happens, it stucks until you press the option label itself",
+  "expected_result": "It should work like clicking the label itself we shouldn't able to select multiple option when \"all actions\" or \"all users\" selected.",
+  "short_description": "Audit Log Sort Radio Button Bug",
+  "steps_to_repro": "- Go to audit logs - Click filter by user or filter by action (they both have the bug) - Click on radio button itself to select (not the label)"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b1e443fba237aba4425131b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1525,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UZs3o7fp",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 689",
+  "actual_result": "- The highlight is cut off a little in the bottom line.",
+  "expected_result": "The bottom highlight of the invite in the lower line should be equal to the bottom highlight of the invite in the lower line.",
+  "short_description": "Instant invite links' highlight is cut off a little from the bottom when it is taken to the next line.",
+  "steps_to_repro": "- Write something in the text box (don't fill the line). - Copy an instant invite. - Paste it in the text box. - Send the message ( make sure a part of the invite in on the top line and the other is in the bottom line). - Observe carefully."
+ }
+}

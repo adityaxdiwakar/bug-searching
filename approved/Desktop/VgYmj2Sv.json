@@ -1,0 +1,23 @@
+{
+ "id": "5830dacca74b1d55255df7d1",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 162,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/VgYmj2Sv",
+ "data": {
+  "system_settings": " Win 10, Latest canary.",
+  "actual_result": "Clicking on one of the settings seems to do nothing, but actually shows up when closting the profile tab.",
+  "expected_result": "the menu shouldn't open at all or open on click instead of open when closing the profile tab.",
+  "short_description": "when clicking on a user profile, then going into mutal servers and right clicking a server makes the option menu for the server pop up, but most options are broken and will not open until you close the profile tab",
+  "steps_to_repro": "- Go to somones menu (preferably someone with a mutual server you have admin perms in). - right click on said mutual server - click on one of the settings option (Something like server settings, Notif settings, or Privacy settings). "
+ }
+}

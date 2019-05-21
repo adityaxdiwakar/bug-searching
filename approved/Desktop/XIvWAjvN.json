@@ -1,0 +1,30 @@
+{
+ "id": "5b4660476e753bf93e49216d",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2258,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XIvWAjvN",
+ "data": {
+  "system_settings": "default",
+  "client_settings": "default",
+  "actual_result": "I have not joined the server/channel",
+  "expected_result": "Redirected to server/channel after registration",
+  "short_description": "Invite link does not redirect if user registers instead of logging in",
+  "steps_to_repro": "- Step 1: Generate invite link for server/channel - Step 2 - attempt to use invite link as a new user (register instead of login)"
+ }
+}

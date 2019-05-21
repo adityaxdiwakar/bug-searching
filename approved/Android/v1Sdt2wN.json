@@ -1,0 +1,17 @@
+{
+ "id": "5ae8596a367a382cfc41a3d8",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1351,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/v1Sdt2wN",
+ "data": {
+  "system_settings": "OPPO f1 Android 5.1.1",
+  "client_settings": "6.6.0 (660)",
+  "actual_result": "You will not see all roles you will need to scroll up for all roles and other options and other options",
+  "expected_result": "Should able to see all roles and other options without scrolling up.",
+  "short_description": "Profile tab not shows all role of your own profile until you scroll up  in Landscape mode",
+  "steps_to_repro": "- Switch landscape mode - Get on any server  - Open online members tab - Click on your profile"
+ }
+}

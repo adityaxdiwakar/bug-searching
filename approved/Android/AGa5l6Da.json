@@ -1,0 +1,24 @@
+{
+ "id": "59b46158d733028fe0edd90d",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 697,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/AGa5l6Da",
+ "data": {
+  "system_settings": "Android 4.4.4, Tablet Allview VIVAH8LTE",
+  "client_settings": "Alpha 5.1.4",
+  "actual_result": "The top bar some permissions from the permissions tab, makes reference to channel settings. And also some permissions are missing. For example you cannot set as a role to can't see a category (can't make the category private)",
+  "expected_result": "The top bar and the permissions from the permissions tab should make reference to category/category settings. Also there should be the same permissions as on desktop (when adding a role/member and trying to manage the perms).",
+  "short_description": "In the permissions tab for a category, the top bar and some of permissions will say \"channel settings\" / be about channel settings.",
+  "steps_to_repro": "- Make a server with a few categories and channels - Edit a category  - Go to the permissions tab - Observe the top bar saying \"channel settings\" instead of \"category settings\" - Press add a role/a member - Observe the permissions that you can manage. Some are missing. For example you cannot the category private (don't let a role see it) - Optional see attachments"
+ }
+}

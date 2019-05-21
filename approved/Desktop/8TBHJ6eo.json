@@ -1,0 +1,15 @@
+{
+ "id": "5825f1755d5656e4ad14a7fe",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 128,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/8TBHJ6eo",
+ "data": {
+  "actual_result": "Grey screen, only Ctrl+R or close/reopen the app works.",
+  "expected_result": "Connecting section appears",
+  "short_description": "Disconnecting your computer from the internet between the Updater closing and the main app loading causes a grey screen",
+  "steps_to_repro": "- Load the app - Just before the Update part concludes, kill your internet connection "
+ }
+}

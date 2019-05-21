@@ -1,0 +1,30 @@
+{
+ "id": "5a233736675d57779c5679aa",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1421,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/FUPHzNWQ",
+ "data": {
+  "system_settings": "Windows 10 64 bit",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 7889",
+  "actual_result": "Doesn't show that you're streaming and has spectate feature only",
+  "expected_result": "Have the purple status when you stream",
+  "short_description": "When streaming osu!, spectate feature overlaps and cancels out purple streaming status",
+  "steps_to_repro": "- start stream using OBS - observe your discord status"
+ }
+}

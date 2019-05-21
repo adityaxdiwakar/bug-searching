@@ -1,0 +1,17 @@
+{
+ "id": "5b8eefee23f1513f7a6e1414",
+ "closed": false,
+ "idList": "5b8ddcce4e372525b89c73ca",
+ "idShort": 1927,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/gKdEN9zm",
+ "data": {
+  "system_settings": "Pixel 2 Android P",
+  "client_settings": "Alpha 746",
+  "actual_result": "Nothin",
+  "expected_result": "Goes to DM",
+  "short_description": "New UI: While in QS clicking on the \"last channel\" while it is a group dm it wont do anything",
+  "steps_to_repro": "- Select group dm - select channel - Click QS down the bottom - click on dm in last channel section"
+ }
+}

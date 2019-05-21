@@ -1,0 +1,30 @@
+{
+ "id": "5bb318a053edf63111af8993",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3069,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/iju5L8Q0",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 25088, Version Hash: 328e8c54cc848650426eeef731f33b9ddcd12a42",
+  "actual_result": "the reason says ' no reason provided'",
+  "expected_result": "the reason should be properly shown",
+  "short_description": "having the ban menu open when someone gets banned, clicking on their ban info incorrectly says theres no reason provided",
+  "steps_to_repro": "- open bans menu - have someone ban someone - click on the ban info for the person banned - look at the reason"
+ }
+}

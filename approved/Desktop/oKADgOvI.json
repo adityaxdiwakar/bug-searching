@@ -1,0 +1,24 @@
+{
+ "id": "596728c328b858a72f8e06a6",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 846,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/oKADgOvI",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 0.0.158",
+  "actual_result": "Message textbox is not cleared",
+  "expected_result": "Message textbox is cleared",
+  "short_description": "Message entry box does not clear when sending a message from a user's profile view in voice chat",
+  "steps_to_repro": "- Select a user in a voice channel - Enter a message into the textbox - Send the message"
+ }
+}

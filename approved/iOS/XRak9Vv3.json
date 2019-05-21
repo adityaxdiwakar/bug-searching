@@ -1,0 +1,17 @@
+{
+ "id": "5bda39927d28817b0ccab763",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1136,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/XRak9Vv3",
+ "data": {
+  "system_settings": "iPhone 7 Plus, iOS 12.0.1",
+  "client_settings": "TestFlight 2.4.0 8841",
+  "actual_result": "The server icon becomes stuck and untappable until you hold down and reorder it again",
+  "expected_result": "Server should pop back into place",
+  "short_description": "Quitting and reopening Discord while reordering servers will cause the server that is currently being reordered to become stuck then unstuck",
+  "steps_to_repro": "- Hold down a server in the server list (reordering guilds) - Quit discord while holding down - Reopen discord - Observe and interact with said server icon"
+ }
+}

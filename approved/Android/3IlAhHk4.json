@@ -1,0 +1,16 @@
+{
+ "id": "5909dbd6a22a3d6634611c5e",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 424,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3IlAhHk4",
+ "data": {
+  "system_settings": " Android 6.0.1 Discord 3.7.9",
+  "actual_result": "you get notified",
+  "expected_result": "Notifications dont show up",
+  "short_description": "DND giving notifications",
+  "steps_to_repro": "- Set your status to DND - get notified "
+ }
+}

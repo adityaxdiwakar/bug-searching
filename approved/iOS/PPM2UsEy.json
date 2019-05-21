@@ -1,0 +1,15 @@
+{
+ "id": "58300564ffd5c1b48d408713",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 82,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/PPM2UsEy",
+ "data": {
+  "actual_result": "It only reduces a bit",
+  "expected_result": "The cache is 0",
+  "short_description": "Cache clearing has minimal effect",
+  "steps_to_repro": "- Build up a good cache - Check the usage in settings>general>usage - Note that - Clear the cache - Note the new size "
+ }
+}

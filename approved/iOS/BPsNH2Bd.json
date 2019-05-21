@@ -1,0 +1,30 @@
+{
+ "id": "5a54abf4058e0315c58d2d10",
+ "closed": false,
+ "idList": "5a9b65585ec5c0515e974e49",
+ "idShort": 489,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/BPsNH2Bd",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.2.5 beta 3",
+  "client_settings": "TestFlight 2080",
+  "actual_result": "Not all of the override changes save.",
+  "expected_result": "All permission overrides done should save.",
+  "short_description": "Overriding channel permissions (at least 2) in a very quick succession won\u2019t make all of the overrides done to save.",
+  "steps_to_repro": "- Have permissions to edit/manage channels in a channel - Open any role/member permission overrides in a channel - Override at least two permissions in a very quick succession"
+ }
+}

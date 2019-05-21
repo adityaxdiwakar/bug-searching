@@ -1,0 +1,17 @@
+{
+ "id": "5b772c824ecba78ccd6d99d9",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 2733,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/0967wHkh",
+ "data": {
+  "system_settings": "Win 10 Pro x64",
+  "client_settings": "Discord, 22066",
+  "actual_result": "window fills the current screen and then overflows onto contiguous screens",
+  "expected_result": "window will fill the current screen",
+  "short_description": "[Electron issue, not a Discord issue] Fullscreen application overlaps by a few pixels onto connected monitors in a multi-monitor setup",
+  "steps_to_repro": "- open Discord on a screen where additional screens are connected - Maximize the window into full screen using either the on screen button or Windows keyboard commands"
+ }
+}

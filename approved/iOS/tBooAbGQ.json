@@ -1,0 +1,17 @@
+{
+ "id": "5bda3a1ae069f1111f58ff94",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1137,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tBooAbGQ",
+ "data": {
+  "system_settings": "iOS 12.1 iPhone 7+",
+  "client_settings": "iOS tf 8841",
+  "actual_result": "Shows the selected guild bar on the guild you have moved but not selected",
+  "expected_result": "Shows no bar or unread messages bar to the left of server icon",
+  "short_description": "Guild shows as selected after you have moved it on iOS",
+  "steps_to_repro": "- Open a guild - Open the guild scroller - Move the guild you were LAST in"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5c360b331c88606412e754ef",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3607,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/f8aYFd35",
+ "data": {
+  "system_settings": "Windows 10 Home",
+  "client_settings": "Canary 30591",
+  "actual_result": "Triple clicking your name also highlights your note.",
+  "expected_result": "It should only highlight your name and number,**like it does when you don't have a connection visible on your profile**",
+  "short_description": "When triple clicking your profile while having a note, it copies that also.",
+  "steps_to_repro": "- Have atleast one connection visible in your profile(In Settings) - Click on your profile - Give yourself a note - Triple click your name and discriminators - See how it also highlights your note."
+ }
+}

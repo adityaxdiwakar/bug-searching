@@ -1,0 +1,24 @@
+{
+ "id": "5c07c2d4b279930d6d8b00d2",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 1214,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/56PS75cJ",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 3",
+  "client_settings": "TestFlight 2.4.0 (9595)",
+  "actual_result": "An invite gets sent to the person you tapped and search bar doesn\u2019t defocus",
+  "expected_result": "Search bar defocuses",
+  "short_description": "Attempting to defocus the search bar by tapoing the screen when inviting members just sends an invite",
+  "steps_to_repro": "- Go to a server where you have invite perms - Select the invite members option - Focus the search bar - Try to defocus the search bar by tapping outside the keyboard - Observe the invite screen"
+ }
+}

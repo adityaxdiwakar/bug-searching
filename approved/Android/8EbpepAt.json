@@ -1,0 +1,30 @@
+{
+ "id": "5a159d2ef19d122510cd6237",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 913,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d85a09084a39fefced",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/8EbpepAt",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 5.7.5",
+  "actual_result": "the paste option pops up",
+  "expected_result": "nothing should happen except you holding the option down",
+  "short_description": "change password option acts like a text input field and let's you paste stuff in it",
+  "steps_to_repro": "- open user settings - open my account - hold down on the end of password and observe the paste option"
+ }
+}

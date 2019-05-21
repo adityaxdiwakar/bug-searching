@@ -1,0 +1,22 @@
+{
+ "id": "5878c33e460e5be073546048",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 326,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/siP1iRYO",
+ "data": {
+  "actual_result": "The help articles fail to load on the first time, and will only show once trying for the second time.",
+  "expected_result": "The help articles load fine",
+  "short_description": "when opening the help tag on a new session it will fail to load the articles, Only works on second time opening.",
+  "steps_to_repro": "- Open a new session - press the help tab "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5c203e030742a91b2fae9058",
+ "closed": false,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 3539,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/e7mSjVpu",
+ "data": {
+  "system_settings": "Windows 7 Home Premium x64 v7601",
+  "client_settings": "Canary 30291",
+  "actual_result": "The cursor remains in the text box.",
+  "expected_result": "The cursor should no longer be in the text box.",
+  "short_description": "Cursor stays in the text box after \"Slow Down\" popup appears when sending friend requests too quickly.",
+  "steps_to_repro": "- Go to the add friends tab - Search/send friend requests until the popup appears - Observe how the cursor remains in the textbox and you can type - Observe how when you hit enter, it not only closes the popup, but resubmits the friend request resulting in yet another popup"
+ }
+}

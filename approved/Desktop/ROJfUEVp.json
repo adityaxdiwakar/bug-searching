@@ -1,0 +1,17 @@
+{
+ "id": "5b8000e941684a2e352027c8",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 2787,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ROJfUEVp",
+ "data": {
+  "system_settings": "Windows 10 x64 Professionnal 1803",
+  "client_settings": "Discord Canary (Web) 22496",
+  "actual_result": "It never goes below 50% ~ (on a Intel Celeron N3350)",
+  "expected_result": "The CPU usage shouldn't become crazy",
+  "short_description": "The Wumpus animation (+ moving background) on the Discord Nitro payment and redeem code dialogs uses A LOT of CPU",
+  "steps_to_repro": "- Open Discord (Stable, PTB or Canary) on web or desktop - Look at the CPU usage - Go in your User Settings - Either go to the payment dialog or redeem code dialog - Look once again at the CPU usage"
+ }
+}

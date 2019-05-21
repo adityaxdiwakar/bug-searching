@@ -1,0 +1,30 @@
+{
+ "id": "5a27bfbfea03da94f9fbcb2b",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 937,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/4KUHccQ3",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 7.0",
+  "client_settings": "Discord Alpha 5.8.3",
+  "actual_result": "The filename of the downloaded image is set as the title of the embed and without file extension.",
+  "expected_result": "The downloaded image should have a correctly formatted name with the appropriate extension (. jpg, . png, . gif, etc)",
+  "short_description": "When downloading an image that is from a bot embed, the filename will take the title of the embed and erases file extension",
+  "steps_to_repro": "- Find a bot that can send an embed with at least a title and an image - Make the bot send the embed - On your Android device, tap on the image and hit Download"
+ }
+}

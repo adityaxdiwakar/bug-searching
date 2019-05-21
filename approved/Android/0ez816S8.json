@@ -1,0 +1,24 @@
+{
+ "id": "59f69845234176fe0e43d06f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 859,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0ez816S8",
+ "data": {
+  "system_settings": "lg Xpower 6.0.1",
+  "client_settings": "alpha 5.5.1",
+  "actual_result": "auto-complete emoji list shows up",
+  "expected_result": "message should simply move to new line",
+  "short_description": "emoji list show when you go to new line after emoji code in middle of message",
+  "steps_to_repro": "- write message with emoji in middle - move coursor after emoji code and add new line (enter)"
+ }
+}

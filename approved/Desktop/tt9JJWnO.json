@@ -1,0 +1,15 @@
+{
+ "id": "5818caece04dee1136c22423",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 96,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/tt9JJWnO",
+ "data": {
+  "actual_result": "Client is idle.",
+  "expected_result": "Client catches GET request and changes status.",
+  "short_description": "Client not recording external game changes to self account",
+  "steps_to_repro": "- Change client status on another client (game). "
+ }
+}

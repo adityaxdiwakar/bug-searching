@@ -1,0 +1,23 @@
+{
+ "id": "58c9c1f77c5f3f3e331cda54",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 429,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3XaDgxEt",
+ "data": {
+  "system_settings": " win10 x64 canary-latest",
+  "actual_result": "Channel shows in Quick Switcher",
+  "expected_result": "Channel doesn't show in quick switcher",
+  "short_description": "Quick Switcher may suggest a channel you no longer have permission to view",
+  "steps_to_repro": "- Recently view or leave a channel unread - Remove your permission to view said channel - Open Quick Switcher "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b917f2cb7bd2e5fa9957ce8",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1936,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/I9fMsvxn",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 746",
+  "actual_result": "The page cannot be scrolled up. The server icon moves up (and even gets cut off for small screens).",
+  "expected_result": "The page can be scrolled up.",
+  "short_description": "When you create a server with a name that has 100 \"fat\" characters, create an invite for the server, click on the link, the server icon is moved towards the top You can scroll down in the screen but not up. Small screened devices specific",
+  "steps_to_repro": "- Create a server with a name that is 100 characters long (preferably, use fat characters). - Create an invite for the server. - Click on the invite. - Enjoy Observe the page."
+ }
+}

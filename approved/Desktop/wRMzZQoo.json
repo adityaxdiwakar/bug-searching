@@ -1,0 +1,15 @@
+{
+ "id": "587177214e077e734bd7e859",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 317,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wRMzZQoo",
+ "data": {
+  "actual_result": "The search filters become completely disabled. Even manually typing them does not work.",
+  "expected_result": "Search behaves like normal mentions do in streamer mode, and shows a list of usernames and avatars, just without the discrims.",
+  "short_description": "Streamer Mode completely disables the from: and mentions: filters in search, as opposed to just hiding the User Discrims",
+  "steps_to_repro": "- Start streamer mode - Attempt to search using a from: filter or a mentions: filter "
+ }
+}

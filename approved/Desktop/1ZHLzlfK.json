@@ -1,0 +1,15 @@
+{
+ "id": "5810c1f5530d2a9827dd3f33",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 65,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1ZHLzlfK",
+ "data": {
+  "actual_result": "Standard status circle shows",
+  "expected_result": "A typing indicator for yourself shows",
+  "short_description": "No typing indicator for self in group DM's",
+  "steps_to_repro": "- Go into a group DM - Start typing - Look at yourself in the member list "
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "585a276bf7f8ce7d77eb0c04",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 264,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wGIMX2nF",
+ "data": {
+  "actual_result": "The user shows up as Online until a status change happens again for that user.",
+  "expected_result": "The user should show up as being offline.",
+  "short_description": "Firefox does not show correct status for DnD users upon first open. Rereporting for a supported browser.",
+  "steps_to_repro": "- Open Firefox to the friends page on an alternate account. - Set your main account as Invisible in Canary. - Change to a mutual server between the alternate account being used in Firefox and the main account being used in Canary "
+ }
+}

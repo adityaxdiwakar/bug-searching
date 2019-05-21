@@ -1,0 +1,17 @@
+{
+ "id": "596bb0c9ad2979eae4a0370d",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 558,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yqJwu88K",
+ "data": {
+  "system_settings": "Android 5.1 Lollipop (rooted), Archos Alba 7\"",
+  "client_settings": "Discord Stable 3.9.7",
+  "actual_result": "Mentions webhook with syntax @[NAME]#0000",
+  "expected_result": "Nothing.",
+  "short_description": "When using quick mention with webhooks, Discord attempts to mention the webhook",
+  "steps_to_repro": "- Open Discord - Create a webhook and send a message with it \\*\\*OR\\*\\* find a message made by an existing webhook - Touch the webhook's avatar, which will use quick mention - \\*\\*[OPTIONAL]\\*\\* Attempt to post the message (will not mention)"
+ }
+}

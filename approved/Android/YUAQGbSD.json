@@ -1,0 +1,22 @@
+{
+ "id": "5845f88ca6af35c17887b483",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 126,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YUAQGbSD",
+ "data": {
+  "actual_result": "Nothing opens. Reported by <@72677296246370304>",
+  "expected_result": "Dialog box opens showing emotes",
+  "short_description": "Colon doesnt show the dialog box after a mention",
+  "steps_to_repro": "- Step 1 Mention someone - Step 2 add a colon and dialog box doesnt show "
+ }
+}

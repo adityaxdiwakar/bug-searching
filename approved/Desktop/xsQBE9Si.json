@@ -1,0 +1,30 @@
+{
+ "id": "5c0993e7685bff8bd957dc21",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3471,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xsQBE9Si",
+ "data": {
+  "system_settings": "Windows 10 home x64 v.1803",
+  "client_settings": "Canary 28970",
+  "actual_result": "it scrolls up a tiny bit that is noticeable if you do it multiple times",
+  "expected_result": "it shouldn't scroll up",
+  "short_description": "every time you expand and collapse a search result it scrolls you up a bit",
+  "steps_to_repro": "- search for something that shows enough amount of results (i searched for \"1\" in DTesters - scroll down and find a long message that isn't too close to the top search result - click on it multiple times - observe"
+ }
+}

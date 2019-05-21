@@ -1,0 +1,30 @@
+{
+ "id": "5a3d42a01e4e9eae6b4ca02b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1488,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ExBZnOIp",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (Build 1709) OnePlus 5 Android 7.1.1",
+  "client_settings": "Discord Canary 0.0.194 (9052) Android Alpha 5.9.3",
+  "actual_result": "It's cropped",
+  "expected_result": "It shouldn't be cropped",
+  "short_description": "Random emojis are cropped across every platform (iOS, Desktop and Android) for different people",
+  "steps_to_repro": "- Find cropped emoji, (I personally have issues with the partner badge from HS, blobokhand and blobsweatbutfast from blobs) - Post it then look at it across different platforms"
+ }
+}

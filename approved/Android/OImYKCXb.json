@@ -1,0 +1,23 @@
+{
+ "id": "5904dede2ac0a1d783e85fcf",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 422,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OImYKCXb",
+ "data": {
+  "system_settings": " Huawei Mate 7 / Android 6.0 / Discord 3.7.9 ALPHA",
+  "actual_result": "The first message has the old profile picture/username and the second message has the updated profile picture/username. I also get this, when someone else is sending me messages via DM",
+  "expected_result": "The first message should have the updated profile picture/username",
+  "short_description": "Changing profile picture/username doesn't display the updated picture/usernsme after sending messages",
+  "steps_to_repro": "- Send a message - Change your profile picture or username - send an internet link "
+ }
+}

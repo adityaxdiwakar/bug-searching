@@ -1,0 +1,30 @@
+{
+ "id": "5b0f701558050f3f25a0e97c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2070,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WckzIHeQ",
+ "data": {
+  "system_settings": "Windows 10 Home x64 v1803",
+  "client_settings": "Canary 16275",
+  "actual_result": "There are 2 invites",
+  "expected_result": "There should only be one invite because the owner of the 1st invite left",
+  "short_description": "Can make 2 working invites to a group dm even if the owner of the original one leaves",
+  "steps_to_repro": "- have owner paste group dm invite into group chat - make them leave - have new owner add them back via the \"Add friends to group dm\" modal - Have new owner check the Instant Invites section of the group dm"
+ }
+}

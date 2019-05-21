@@ -1,0 +1,36 @@
+{
+ "id": "59ee4d3a91ec68b958825bdb",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 380,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RP5aWqUp",
+ "data": {
+  "system_settings": "iPhone 6s with iOS 11.0.3",
+  "client_settings": "TestFlight 1.9.3 (1165)",
+  "actual_result": "The field with nickname and server is bigger than the field behind it.",
+  "expected_result": "Field with the nickname shouldn't go beyond the edge.",
+  "short_description": "[iPhone only] Mutual servers: Long server nicknames let the field go beyond the edge",
+  "steps_to_repro": "- Have or a give a user a very long server nickname like `WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW` - Open the profile of this user - Go to `Mutual servers` - Observe the field with the nickname"
+ }
+}

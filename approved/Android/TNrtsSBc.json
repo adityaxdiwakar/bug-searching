@@ -1,0 +1,30 @@
+{
+ "id": "5a9beff110f9e6e341d6c1f1",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1167,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/TNrtsSBc",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.3.1",
+  "actual_result": "It has a channel icon (#) for unloaded profile pictures#)",
+  "expected_result": "Not entirely sure if it it supposed to show the official blurple discord logo or nothing there but a channel icon seems unintended",
+  "short_description": "Channel icon shown for unloaded profile pictures in quick switcher",
+  "steps_to_repro": "- Open the quick switcher. - Using users as the filter option search something that returns a lot of results (like @a). - Scroll down a bit and notice user's pfp"
+ }
+}

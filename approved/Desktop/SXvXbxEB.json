@@ -1,0 +1,17 @@
+{
+ "id": "5b6ea744c17fbf3f97025bad",
+ "closed": true,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 2668,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/SXvXbxEB",
+ "data": {
+  "system_settings": "Win 10 x86",
+  "client_settings": "Discord Stable",
+  "actual_result": "the message becomes auto read on client",
+  "expected_result": "the message would be a ping in client",
+  "short_description": "Discord Overlay making messages auto read",
+  "steps_to_repro": "- open a game with discord overlay enabled - open the overlay and select a direct message convo - have the person from that dm message you - close overlay but keep game open"
+ }
+}

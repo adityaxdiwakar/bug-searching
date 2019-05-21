@@ -1,0 +1,17 @@
+{
+ "id": "5bb02eaa73849422ad7ca5a7",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2071,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Dk42LhXj",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Edge 8.0.0",
+  "client_settings": "Alpha 7.5.9",
+  "actual_result": "The first letter of the group name is grey",
+  "expected_result": "The group name should be all white",
+  "short_description": "The first letter inside group DMs are grey",
+  "steps_to_repro": "- Go to direct messages - Open a group DM - Observe the name"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b5b3dd86fb8d3abfbd4dae7",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1684,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/9NcGMHxN",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 719",
+  "actual_result": "The default icon is bigger than other server icons.",
+  "expected_result": "The default icon is of the same size as other icons.",
+  "short_description": "In the mutual friends tab in a profile, the icon of a server having the default icon is larger compared to other icons.",
+  "steps_to_repro": "- Find a person who has a mutual friend with whom you share at least one server with the default icon. - Open their profile. - Click on mutual friends. - Observe the mutual friend."
+ }
+}

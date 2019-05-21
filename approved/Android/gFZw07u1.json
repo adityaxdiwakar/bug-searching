@@ -1,0 +1,29 @@
+{
+ "id": "58e523387f32ebaf4273aaf0",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 332,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/gFZw07u1",
+ "data": {
+  "system_settings": " Android 6.0.1 / Discord 3.5.7",
+  "actual_result": "Message with \"*\"",
+  "expected_result": "Normal message",
+  "short_description": "Markdown not reconized in toast when forgot password clicked",
+  "steps_to_repro": "- Enter discord app in android - Log out - FIll your email - Click forgot password "
+ }
+}

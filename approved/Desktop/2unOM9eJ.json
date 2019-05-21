@@ -1,0 +1,17 @@
+{
+ "id": "5a34bf48e1c815c5054e5ef9",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1463,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/2unOM9eJ",
+ "data": {
+  "system_settings": "Windows 10 Developers Edition, Fall Creator's Update",
+  "client_settings": "Canary 0.0.186",
+  "actual_result": "Button simply displays no text and is green.",
+  "expected_result": "Button should display text saying \"Join Call\"",
+  "short_description": "When in a group call, before joining the call the \"Join Call\" button does not display text, but just the green button.",
+  "steps_to_repro": "- Create new group DM - Add two or more people - Create a call - Have the other users join the call - Leave the call"
+ }
+}

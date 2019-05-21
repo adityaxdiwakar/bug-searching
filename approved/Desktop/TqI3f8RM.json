@@ -1,0 +1,17 @@
+{
+ "id": "5af80e57dda433251b9466b2",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 1982,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/TqI3f8RM",
+ "data": {
+  "system_settings": "Windows 10 April Update 2018",
+  "client_settings": "Desktop Canary 15123",
+  "actual_result": "A white bar appear",
+  "expected_result": "A white bar appear",
+  "short_description": "White bar appear when maximizing the window",
+  "steps_to_repro": "- Maximize the window few times"
+ }
+}

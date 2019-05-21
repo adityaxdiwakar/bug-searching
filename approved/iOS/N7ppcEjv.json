@@ -1,0 +1,24 @@
+{
+ "id": "5bdcd6be00cf396ac8024a17",
+ "closed": false,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 1147,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/N7ppcEjv",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12.1.1 Dev Beta 1",
+  "client_settings": "TestFlight 2.4.0 (8900)",
+  "actual_result": "Entry extends past the bottom of the screen",
+  "expected_result": "Entry doesn't extend past the bottom of the screen",
+  "short_description": "After scrolling to the very last entry in the audit log, the entry hides behind the bottom of the screen a little bit",
+  "steps_to_repro": "- Go to a server that has multiple audit logs and you can view the audit logs - Scroll all the way to the bottom of the audit log - Observe the bottom entry - Slide the bottom entry up slowly, observing the bottom of the entry at the bottom of the screen"
+ }
+}

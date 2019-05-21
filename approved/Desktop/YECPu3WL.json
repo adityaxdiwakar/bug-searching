@@ -1,0 +1,30 @@
+{
+ "id": "5bdcc67e5ac5b34e32bb135d",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3344,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YECPu3WL",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit 1809 October 2018 Update Build 17763.55",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 26151, Version Hash: 7703492d8438d217c4f7a907b2e7e33bf6137d95",
+  "actual_result": "Each Text Channel has at least two buttons that get flagged up on top of each other",
+  "expected_result": "In both cases, each Text Channel that gets flagged up should only have one Number and Button assigned in the results",
+  "short_description": "[a11y] Windows Speech Recognition gets confused by Discord when a Voice Command is used to switch Channels",
+  "steps_to_repro": "- Setup and train Windows Speech Recognition to allow it to understand your voice - Go into any Discord Server with multiple Text Channels - use the Wake Word \"Start Listening\" - use the Voice Command \"Show Numbers\" - Say the number of the Text Channel you want followed by \"OK\" to confirm (such as \"6\", \"OK\") - Say the name of another Text Channel - Say the Number that appears followed by \"OK\" - Say \"Stop Listening\" when you are done to disable the tool"
+ }
+}

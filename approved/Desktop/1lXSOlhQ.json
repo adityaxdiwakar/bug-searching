@@ -1,0 +1,30 @@
+{
+ "id": "59fbcf0bc92359b84e8670e1",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1348,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1lXSOlhQ",
+ "data": {
+  "system_settings": "Win10 x64",
+  "client_settings": "Desktop Canary",
+  "actual_result": "Discord tells you that you're still using another language (alias a language you manually set) while you're using your system language (here: german) and this can't be undone",
+  "expected_result": "You should still have the language you set manually as your discord language",
+  "short_description": "Discord keeps using the language of your system - even if set to another language",
+  "steps_to_repro": "- Have another system language (I used german) - Have the discord setting set to another language - Restart Canary / Update it"
+ }
+}

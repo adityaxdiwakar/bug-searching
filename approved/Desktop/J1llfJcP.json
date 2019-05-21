@@ -1,0 +1,30 @@
+{
+ "id": "5c006b5ce432fb22f07d60b9",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3451,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/J1llfJcP",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1803)",
+  "client_settings": "Discord Canary 0.0.224, Build 28603",
+  "actual_result": "The descriptions remain in your previous language, requiring you to refresh for the change to properly apply",
+  "expected_result": "The descriptions should be in your newly chosen language",
+  "short_description": "Chat commands description don't adapt initially after changing your client language",
+  "steps_to_repro": "- Change your client language to something other than your currently chosen one - Go into a Server/DM and type a slash to bring up the chat commands list and observe"
+ }
+}

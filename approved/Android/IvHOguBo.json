@@ -1,0 +1,17 @@
+{
+ "id": "5bacb5ab53261a0cb1ab4826",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2055,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IvHOguBo",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 756",
+  "actual_result": "There's just a 0 beside the hyphen of 02.",
+  "expected_result": "The text beside 02 is something like \"Set slowmode to 1 second\".",
+  "short_description": "When you expand an audit log entry that talks about a channel being created, the 02 number just has 0 beside it's hyphen rather than something like \"Set slowmode to 1 second\" like on desktop.",
+  "steps_to_repro": "- Create a new channel. - Open Audit log and expand the Audit log entry that talks about the channel being created."
+ }
+}

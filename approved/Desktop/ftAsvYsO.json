@@ -1,0 +1,22 @@
+{
+ "id": "58cf4ecef60da84d25e1b0b1",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 439,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ftAsvYsO",
+ "data": {
+  "actual_result": "you get not found",
+  "expected_result": "shows result",
+  "short_description": "search ignores special characters",
+  "steps_to_repro": "- open search - type only special characters like ? Which is commonly used "
+ }
+}

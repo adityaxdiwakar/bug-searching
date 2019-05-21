@@ -1,0 +1,48 @@
+{
+ "id": "5a905382cdcc01269657290c",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 603,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a860d37f5189454d85132cf",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a860d3b81b52b25b1046954",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Images",
+   "color": null
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6RybItnt",
+ "data": {
+  "system_settings": "IOS 11.3 on Iphone7",
+  "client_settings": "IOS 2.2.3",
+  "actual_result": "discord fill the transparent part w/ light blue making the server icon look ugly",
+  "expected_result": "the transparent part will stay transparent",
+  "short_description": "When selecting a server with a round icon, Discord will fill the transparent parts w/ blue",
+  "steps_to_repro": "- Select a server w/ round and some transparent icon"
+ }
+}

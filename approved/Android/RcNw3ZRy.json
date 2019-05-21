@@ -1,0 +1,30 @@
+{
+ "id": "5c1e032dee0e263b62d3e1a7",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 2394,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RcNw3ZRy",
+ "data": {
+  "system_settings": "ASUS Zenfone max pro m1 Android 8.1.0",
+  "client_settings": "Alpha 8.2.2",
+  "actual_result": "The track bar resets back to 0:00 making it seem like you're playing the song from the beginning",
+  "expected_result": "The songs trackbar should not reset and should continue according to the song",
+  "short_description": "Spotify track bar resets after exiting and entering dicord",
+  "steps_to_repro": "- Play a song on Spotify and wait for discord to detect it - Exit discord a wait a few seconds - Re enter discord"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bda0d687cac6d7294ecde7a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2270,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/SM7ESBPT",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.8.3",
+  "actual_result": "Android does not re-assign position indexes of channels when moving categories, resulting in having the channel ordering in an inconsistent state. After following the steps above I'm seeing `a, b, c, d, e, f` in dropdown menus while the actual order in server list is `d, e, f, a, b, c`",
+  "expected_result": "Android client should re-assign channel position indexes properly when sorting categories. If the bug didn't occur, I should have seen `d, e, f, a, b, c` after following steps above",
+  "short_description": "Moving whole categories on Android does not update channel indexes",
+  "steps_to_repro": "- Create a new server with the channel configuration given in the attached screenshot - On Android, go to Create Instant Invite and expand the dropdown menu where you can select a channel. Make sure that the channels are ordered as the following in the dropdown: `a, b, c, d, e, f` - On Desktop, move the category 2 above the category 1 - Repeat step 2 on Android, the order should be now: `d, e, f, a, b, c` - On Desktop, revert the category order as it was before step 3 - On Android, go to Server Settings > Channels, enter Category sort mode and move Category 2 above Category 1 again - Return to Create Instant Invite and now observe the order"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5b5d47e03ccc18df20a05661",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1703,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1fjSVSbl",
+ "data": {
+  "system_settings": "K20 V, Android 7.0",
+  "client_settings": "Android Alpha 7.2.0",
+  "actual_result": "The group name is blank",
+  "expected_result": "The group displays as \"Unnamed\" (or more of a mobile standard, \"Group\")",
+  "short_description": "Groups with 1 member show up as blank in quick switcher",
+  "steps_to_repro": "- Create an empty group DM on desktop -  Open quick switcher on Android - Observe"
+ }
+}

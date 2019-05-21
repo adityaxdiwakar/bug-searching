@@ -1,0 +1,30 @@
+{
+ "id": "5acd359e43e756257f8a00b4",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1830,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/s3VyCSwo",
+ "data": {
+  "system_settings": "Win 10 Home x64",
+  "client_settings": "Canary, Build Number: 13373",
+  "actual_result": "Image shrinks for a second",
+  "expected_result": "Image stays the same size",
+  "short_description": "Images in embeds shrink when hovering hover user avatars @ 75% zoom",
+  "steps_to_repro": "- Set client zoom to 75% - Hover over a user avatar with an embedded image on screen (not uploaded)"
+ }
+}

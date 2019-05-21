@@ -1,0 +1,30 @@
+{
+ "id": "5c252ab18fa64f49c8f71983",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3549,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vW5sA9KG",
+ "data": {
+  "system_settings": "Linux Mint 19.1; Windows 10 Home, 10.0.17763 build 17763; macOS Mojave 10.14.2",
+  "client_settings": "Desktop stable and canary build 30302",
+  "actual_result": "The server image does not reappear until you hover your mouse over the icon",
+  "expected_result": "The server image should immediately reappear",
+  "short_description": "When you drag a server image, there is a delay",
+  "steps_to_repro": "- Drag a server image away from a window. - This was previously reported on , but was marked as resolved. Problems are still happening."
+ }
+}

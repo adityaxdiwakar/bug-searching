@@ -1,0 +1,16 @@
+{
+ "id": "58f9ffaa14f77d6eef613b49",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 532,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LIrfLg7U",
+ "data": {
+  "system_settings": " macOS 10.12.4 Discord Canary",
+  "actual_result": "the woman or man emoji (depending on which pilot you tested with) and the airplane emoji both paste into the box instead of the pilot emoji",
+  "expected_result": "the selected pilot emoji pastes correctly into the message box",
+  "short_description": "pilot emojis dont paste correctly into message box from Emoji & Symbols menu on MacOS",
+  "steps_to_repro": "- open Discord on **MacOS** - begin typing a message - goto edit --> emoji & symbols - click on the male or female pilot emoji "
+ }
+}

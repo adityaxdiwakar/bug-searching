@@ -1,0 +1,15 @@
+{
+ "id": "5835efdce935b4b0420e6b1a",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 90,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/k9jZOarE",
+ "data": {
+  "actual_result": "it doesn't",
+  "expected_result": "the link opens in your chosen browser",
+  "short_description": "clicking on links in embeds  opens the link in safari rather than your chosen browser",
+  "steps_to_repro": "- change settings to open with in app browser - paste a link with a embedded link, like this https://www.google.co.uk/amp/amp.crackberry.com/rare-blackberry-passport-silver-edition-running-android-goes-sale-kijiji - click the embedded link "
+ }
+}

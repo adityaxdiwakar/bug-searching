@@ -1,0 +1,30 @@
+{
+ "id": "5aeab8afc3fe58927fd43775",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1361,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EsKIPGf5",
+ "data": {
+  "system_settings": "Samsung Galaxy J7 Prime ~ Android 7.0 Nougat",
+  "client_settings": "Discord Alpha 6.6.1",
+  "actual_result": "The list is sorted by nicknames but the members are displayed as usernames and not nicknames",
+  "expected_result": "The list is sorted by usernames",
+  "short_description": "Member list in a channel's permission override menu is sorted by nickname, but names are displayed as usernames",
+  "steps_to_repro": "- Find a channel you can manage permissions on - Edit that channel - Go to User Management -> Permissions - Click on Add a Member - Observe the list"
+ }
+}

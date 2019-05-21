@@ -1,0 +1,15 @@
+{
+ "id": "5849c16cc2253fea345f0ce4",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 231,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xInopUTL",
+ "data": {
+  "actual_result": "get pinged",
+  "expected_result": "Not to be pinged -",
+  "short_description": "sending an escaped ID mention still pings",
+  "steps_to_repro": "- 1. send a message: `\\<@ID>` - 2. get mentioned - "
+ }
+}

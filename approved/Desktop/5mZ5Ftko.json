@@ -1,0 +1,22 @@
+{
+ "id": "582a127951949975872c95f5",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 142,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/5mZ5Ftko",
+ "data": {
+  "actual_result": "No date for the first message http://i.imgur.com/sH677L4.png",
+  "expected_result": "You see a date for the very first message posted",
+  "short_description": "No date at the very top of text channels in Compact mode",
+  "steps_to_repro": "- Scroll up - Open your eyes if they haven't been closed already "
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "58f57e6b4a1f281256f2da68",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 499,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/Bq82aWIp",
+ "data": {
+  "system_settings": " Win 10 x64, latest Canary",
+  "actual_result": "The message gets posted",
+  "expected_result": "Nothing happens / an error message shows",
+  "short_description": "You can post messages while in the settings menu",
+  "steps_to_repro": "- Step 1: Open the settings menu using the gear icon in the bottom left - Step 2: Type a message - Step 3: Press enter "
+ }
+}

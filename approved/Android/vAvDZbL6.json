@@ -1,0 +1,16 @@
+{
+ "id": "58ec6db7690454c208cd039e",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 337,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/vAvDZbL6",
+ "data": {
+  "system_settings": " Android 5.1 Discord 3.5.9",
+  "actual_result": "it's not and sometimes it doesn't even update and stays frozen",
+  "expected_result": "it's synced",
+  "short_description": "message connection issues",
+  "steps_to_repro": "- watch chat send messages - look at Discord on your PC - notice it's not synced "
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "5b5f1123ad72044ff6f6d66f",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2510,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xVdUMKSM",
+ "data": {
+  "system_settings": "Windows 10 Pro x64 1803",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 20174",
+  "actual_result": "you can submit something empty in those boxes and have to wait to get submitted",
+  "expected_result": "Spectate and Ask To Join should disable you from submitting nothing and for you to wait",
+  "short_description": "[Website bug] discordapp.com/developers/applications/[YOURAPPID]/rich-presence/settings You can submit an empty \u201cAsk to join\u201d submission, same goes for Spectate https://i.imgur.com/7Va3HIY.png",
+  "steps_to_repro": "- Make an app - Go to [YOURAPPID]/rich-presence/settings and replacd [YOURAPPID] to your App's client ID - Just connect via Simple Presence, that's what I did, connect it if you can, if you don't know how to, leave it up for someone else to approve - Don't put anything in the boxes and submit it"
+ }
+}

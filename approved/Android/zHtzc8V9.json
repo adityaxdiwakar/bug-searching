@@ -1,0 +1,30 @@
+{
+ "id": "5a6c84263c7ab2238f69822a",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1071,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "57f2a30684e677fd36ab30e6",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P1 - Severe",
+   "color": "orange"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zHtzc8V9",
+ "data": {
+  "system_settings": "Xiaomi Redmi 3, Android 5.1.1",
+  "client_settings": "Android Alpha 6.1.2",
+  "actual_result": "The link shows without the # and anything after it. Opening the link or editing the message uses the full link.",
+  "expected_result": "The full link should be visible.",
+  "short_description": "The part after # isn't visible in links",
+  "steps_to_repro": "- Post a link containing #"
+ }
+}

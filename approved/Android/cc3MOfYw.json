@@ -1,0 +1,30 @@
+{
+ "id": "5bd75f4eeb610578a827499f",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2256,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cc3MOfYw",
+ "data": {
+  "system_settings": "Galaxy Note 2, 4.4.2",
+  "client_settings": "Discord Android Version 7.7.9",
+  "actual_result": "Animated emojis are desynced and uneasy for the eye. Changing tab manually fixes it.",
+  "expected_result": "Animated emojis should be synced like the Browser/PC Client.",
+  "short_description": "Animated Emojis on Android are not synced like the PC client and requires changing tab.",
+  "steps_to_repro": "- Post an animated emoji - Post same animated emoji"
+ }
+}

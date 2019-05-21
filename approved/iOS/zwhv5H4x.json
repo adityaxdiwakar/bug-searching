@@ -1,0 +1,24 @@
+{
+ "id": "5bfeec89f4db0321a1a0f798",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1175,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zwhv5H4x",
+ "data": {
+  "system_settings": "iPhone 7, iOS 12.1 (16B92)",
+  "client_settings": "Discord TestFlight 2.4.0 (9349)",
+  "actual_result": "You don't get the notification (Developer confirmed this is a bug).",
+  "expected_result": "You should get an In-App Notification saying the image name, as it does for normal notifications.",
+  "short_description": "In-app Notifications not working with images.",
+  "steps_to_repro": "- Get someone to send you an image while you are in another chat. - Observe."
+ }
+}

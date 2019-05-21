@@ -1,0 +1,24 @@
+{
+ "id": "5a3c631413455dc01dda3216",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 981,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e8",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "Mod can no longer reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/bbSpzYXG",
+ "data": {
+  "system_settings": "Moto E 2nd Generation, Android 5.1",
+  "client_settings": "Android Alpha 5.9.3",
+  "actual_result": "The text is in the left side",
+  "expected_result": "The text should be in center",
+  "short_description": "Text in Blank Server is on Left Side Instead of Center",
+  "steps_to_repro": "- Go to your server without an icon - Go to Server Settings - Observe the icon"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "59fe53f37afdbdfae4f0fc78",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 872,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/03lOceDm",
+ "data": {
+  "system_settings": "Android\u200b 5.1",
+  "client_settings": "Discord 5.5.6",
+  "actual_result": "they appear even though they're not in voice chat",
+  "expected_result": "options shouldn't appear",
+  "short_description": "Admin Voice permission show even though the user isn't in vc",
+  "steps_to_repro": "- have the ability to server mute/server deafened/Move to Voice Channel - have someone not in voice chat - open profile preview - observe administration option"
+ }
+}

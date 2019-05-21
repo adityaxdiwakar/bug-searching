@@ -1,0 +1,16 @@
+{
+ "id": "5835ef6ddc18ba0f422a3e4a",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 89,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/scY5u0GL",
+ "data": {
+  "system_settings": " iPhone 7, iOS 10.2 beta 3, latest TestFlight",
+  "actual_result": "Status bar text colour is white and not the most readable",
+  "expected_result": "Status bar text colour to be black or another readable colour",
+  "short_description": "In-app browser status text colour white",
+  "steps_to_repro": "- Change browser setting to open the in-app browser - Post a link - Open link - Notice the status bar text colour "
+ }
+}

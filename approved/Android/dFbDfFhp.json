@@ -1,0 +1,16 @@
+{
+ "id": "58b19f40170d3479cd6a6f9e",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 258,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dFbDfFhp",
+ "data": {
+  "system_settings": " Huawei P8 Lite, Android 6.0, v Alpha 3.3.8",
+  "actual_result": "It gets a small visual bug were it doesnt show the server as selected but shows the chat",
+  "expected_result": "Everything shows as it should",
+  "short_description": "When you leave a server and rejoin it, the server wont be selected",
+  "steps_to_repro": "- Create an instant invite to a server (You will need it) - Leave the server you have created the instant invite - Joint it again "
+ }
+}

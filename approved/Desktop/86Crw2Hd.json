@@ -1,0 +1,23 @@
+{
+ "id": "588bd2e07bc534be3b5aa697",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 359,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/86Crw2Hd",
+ "data": {
+  "system_settings": " Win10 AU, Latest Canary (Overwatch as game)",
+  "actual_result": "Opens a context menu with souce and print options, which work",
+  "expected_result": "Discord styled context menu, or nothing happens",
+  "short_description": "Can right click on in-game overlay",
+  "steps_to_repro": "- Open up your favourite game with overlay enabled - open the overlay panel with the shortcut - right click on the overlay "
+ }
+}

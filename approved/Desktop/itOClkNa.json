@@ -1,0 +1,23 @@
+{
+ "id": "58c88cd86638fe6edae1ef1b",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 425,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/itOClkNa",
+ "data": {
+  "system_settings": " Windows 8.1 PRO, Latest Canary",
+  "actual_result": "It does *not*",
+  "expected_result": "Client displays the little mute thing by your name in the voice channel",
+  "short_description": "Push to Mute keybind doesn't show the mute indicator clientside",
+  "steps_to_repro": "- Have Push to Mute as a keybind (Settings, Keybinds, Push to Mute) - Use your new Push to Mute keybind "
+ }
+}

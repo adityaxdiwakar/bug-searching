@@ -1,0 +1,24 @@
+{
+ "id": "5b568f1ddbee81dd079f86dd",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2409,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hvdXZb89",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary 0.0.211 (19560)",
+  "actual_result": "The emoji is floating",
+  "expected_result": "It shouldn't float",
+  "short_description": "On 90 font. Emojis will start floating if they are in a sentence",
+  "steps_to_repro": "- Set your text font on 90 - Send a message with an emoji - Observe"
+ }
+}

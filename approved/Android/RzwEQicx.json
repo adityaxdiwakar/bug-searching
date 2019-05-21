@@ -1,0 +1,30 @@
+{
+ "id": "5bce585b3f124b540d649028",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2222,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/RzwEQicx",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.7.8",
+  "actual_result": "You can notice that the Profile icon is a bit lighter than other icons like Mark as Read for example",
+  "expected_result": "Icons should have exact same color as each other, it is the case on Dark theme",
+  "short_description": "Profile icon is slightly lighter than the others icons on Light theme",
+  "steps_to_repro": "- Switch to Light theme - Long press a DM channel, or a message in chat - Compare the icon of the Profile option with others"
+ }
+}

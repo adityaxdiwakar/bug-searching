@@ -1,0 +1,24 @@
+{
+ "id": "59d6ff3fdc3b4aca2a736fdd",
+ "closed": false,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 788,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/St5MA6Pe",
+ "data": {
+  "system_settings": "Samsung Galaxy S8, Android 7.0",
+  "client_settings": "Discord Alpha  5.2.7",
+  "actual_result": "they display in a random order",
+  "expected_result": "The roles should display in order",
+  "short_description": "Roles are not ordered correctly",
+  "steps_to_repro": "-Make sure one of them is higher in permission than the others-Organise them and maybe colour them-Give yourself and a friend some roles, in different orders. E.g: Give them Mod, then Admin, then Member.-Notice one of the roles goes to the front of the list when it's not at the top of the roles"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ae39068165a04fe6e97f089",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 702,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/UvrFkTJP",
+ "data": {
+  "system_settings": "iPhone 6s+, iOS 11.3.1",
+  "client_settings": "TestFlight 2.3.1",
+  "actual_result": "Text breaks",
+  "expected_result": "Text of description of items does not break",
+  "short_description": "Text breaks in descriptions of items in Overview and Moderation sections of Server Setting",
+  "steps_to_repro": "- Server Settings - Overview or Moderation"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5be6d3b0ad49475ddd7d10fd",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3368,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/JrE1ShhI",
+ "data": {
+  "system_settings": "Windows 10 Pro x64",
+  "client_settings": "Discord Canary 27804",
+  "actual_result": "THe tooltip gets out of bounds and you are unable to read what it says",
+  "expected_result": "The tooltip is moved to the left to fit into the client (as e.g. the Help tooltip does)",
+  "short_description": "In languages where \"Server Owner\" was translated into one word, the tooltip goes out of the client if the Owner has a lengthy name",
+  "steps_to_repro": "- Be the Owner of a Server that shows the Owner Crown and change the length of your name to get truncated in the member list - Change your language to German (and restart your client) - Hover over the Server Owner Crown and observe the tooltip"
+ }
+}

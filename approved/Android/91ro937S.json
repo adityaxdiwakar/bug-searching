@@ -1,0 +1,30 @@
+{
+ "id": "5a368064b8544c9f41874663",
+ "closed": true,
+ "idList": "58064b37e4c51a85d6d0b68e",
+ "idShort": 969,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/91ro937S",
+ "data": {
+  "system_settings": "Lenovo P2, Android 7.0",
+  "client_settings": "Discord Alpha 5.8.3",
+  "actual_result": "Group name is an empty string and welcome message uses that empty string",
+  "expected_result": "Group name should be \"Unnamed\" and welcome message should be \"Welcome to the beginning of the Unnamed group\"",
+  "short_description": "Welcome message for group DMs with default name will use an empty string as a group name",
+  "steps_to_repro": "- Create a new new group DM - Kick everyone but yourself from it"
+ }
+}

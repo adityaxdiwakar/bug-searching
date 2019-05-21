@@ -1,0 +1,16 @@
+{
+ "id": "58b2eb2d7ca467cf81d03ac1",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 206,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/5RKYqAfx",
+ "data": {
+  "system_settings": " iOS 10.2, iPhone 5c, latest Discord TestFlight",
+  "actual_result": "It looks exactly how you typed it; it isn't in italics.",
+  "expected_result": "The text  will be italicized.",
+  "short_description": "formatting issue",
+  "steps_to_repro": "- Type anything with one asterisk around it. - Leave a space after the last character and before the second asterisk - Observe "
+ }
+}

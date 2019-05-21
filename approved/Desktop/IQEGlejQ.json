@@ -1,0 +1,17 @@
+{
+ "id": "5b4d3a7aa52b6d91abab2963",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 2279,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IQEGlejQ",
+ "data": {
+  "system_settings": "Windows 10 Home x64",
+  "client_settings": "Canary 18911",
+  "actual_result": "The newlines aren't shown",
+  "expected_result": "The newlines show correctly as they do on stable",
+  "short_description": "New lines don't show in embed fields on Canary 18911",
+  "steps_to_repro": "- Send an embed with new lines in a field- e.g. trello"
+ }
+}

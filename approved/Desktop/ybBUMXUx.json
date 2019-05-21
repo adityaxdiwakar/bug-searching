@@ -1,0 +1,36 @@
+{
+ "id": "5937151da9b3c350654c0a51",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 724,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ybBUMXUx",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Desktop Canary, 0.0.155",
+  "actual_result": "A message from Clyde appears informing the user that they have to share a server with the user to send the message.",
+  "expected_result": "The \"You cannot send messages over 2k characters\" pop up should appear.",
+  "short_description": "Sending text that is over the 2k limit with custom emojis or mentions shows an incorrect error from Clyde.",
+  "steps_to_repro": "- Copy the Lorem Ipsum text from below - Change the channel mentions to any valid channels in your server - Send the message"
+ }
+}

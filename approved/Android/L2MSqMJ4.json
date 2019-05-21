@@ -1,0 +1,30 @@
+{
+ "id": "5b380cc6b18224386485e9f7",
+ "closed": false,
+ "idList": "57f581ee03d9a5860ecf0e06",
+ "idShort": 1630,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e5",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P2 - Can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/L2MSqMJ4",
+ "data": {
+  "system_settings": "LG Stylo 3, Android version 7.0",
+  "client_settings": "Android 7.0.1",
+  "actual_result": "Going directly to my phone's downloads, the link has been downloaded there instead of the photo",
+  "expected_result": "Photo should appear in a \"Downloads\" folder in gallery",
+  "short_description": "Tapping the download button on an embedded photo downloads the link instead of the photo",
+  "steps_to_repro": "- click on a photo embedded from a link - tap download"
+ }
+}

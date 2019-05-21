@@ -1,0 +1,16 @@
+{
+ "id": "58118e392a65986770c4d798",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 70,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/R2Pbd9Gr",
+ "data": {
+  "system_settings": " Canary ",
+  "actual_result": "is accepted and ends up looking like the following - http://i.imgur.com/yUEE8dJ.png",
+  "expected_result": "nicknames, server names, and usernames are denied becuase of use of this character (like zwsp names are)",
+  "short_description": "User can add whitespace as a name.",
+  "steps_to_repro": "- Copy the character in between the accents `\u115f` (supposed character http://www.fileformat.info/info/unicode/char/115f/index.htm) - Paste an near unlimited time in username or nickname or server name "
+ }
+}

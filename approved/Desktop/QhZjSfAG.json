@@ -1,0 +1,30 @@
+{
+ "id": "5a960dcc1039f6acb1cf6109",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1690,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/QhZjSfAG",
+ "data": {
+  "system_settings": "win10 x64 version 1709",
+  "client_settings": "Discord Canary 11294",
+  "actual_result": "the image is opened multiple times and you'll have to click several times out of the image to close every image preview",
+  "expected_result": "shouldn't do anything, just keep the image open",
+  "short_description": "You can open the same image multiples times using enter key",
+  "steps_to_repro": "- click on an image to see the preview then press enter once or multiple times"
+ }
+}

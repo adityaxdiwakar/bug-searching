@@ -1,0 +1,17 @@
+{
+ "id": "5986995fa1fea38e5f408c40",
+ "closed": true,
+ "idList": "5771677fda45a436c5b8d255",
+ "idShort": 935,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/4Tmw5ejg",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Desktop latest build at this time. I dont know..",
+  "actual_result": "The preview is enlarged.",
+  "expected_result": "I think that the preview should have been the same size as normal",
+  "short_description": "The emoji preview is bugged out when previewing thin emojis, in this case the emoji preview is enlarged.",
+  "steps_to_repro": ""
+ }
+}

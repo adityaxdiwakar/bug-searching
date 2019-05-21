@@ -1,0 +1,17 @@
+{
+ "id": "5b5a97707c46cd9d0e88a22b",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 1681,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/WWdR0CDd",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "716",
+  "actual_result": "they're too light, not gone but super light",
+  "expected_result": "the header is dark when you use light theme",
+  "short_description": "User role management header is too light on light theme.",
+  "steps_to_repro": "- have light theme and Discord ver. 716 - go into server settings then user management and into role management - notice the in app back button, screen name, etc are super light to almost a point of being unable to see them"
+ }
+}

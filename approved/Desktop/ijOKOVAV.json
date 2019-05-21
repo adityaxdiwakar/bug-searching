@@ -1,0 +1,24 @@
+{
+ "id": "59a06629f7f63d85b66a83a4",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1047,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/ijOKOVAV",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit v1703",
+  "client_settings": "Discord Canary 0.0.163 (Build 3624)",
+  "actual_result": "There's no error message",
+  "expected_result": "There should be an error message saying: \"Maximum number of guild channels reached (500)\" like on the Android version",
+  "short_description": "No error message when attempting to create the 501st channel in a server",
+  "steps_to_repro": "- Have Manage Channels permission in a server with 500 channels (please DM me for an invite) - Try creating the 501st channel and notice how there's no error message"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "5babc3da1eab3c4948ce19e4",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 2043,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/v0Pjsqqa",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 755",
+  "actual_result": "The clicked entry first expands under the entry next to it and then all entries get pushed.",
+  "expected_result": "Like on desktop, all the entries below the one you clicked get pushed down and then the entry expands.",
+  "short_description": "Long entries when expanded overlap the entries below them for a split second when expanded.",
+  "steps_to_repro": "- Open Audit log of any server. - Click on a (preferably long) expandable entry. [Keep on doing this again and again (expand and collapse) with almost no intervals to observe the bug most clearly]."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5a636335a835513f0ea48fa6",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1049,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WAVkledA",
+ "data": {
+  "system_settings": "OnePlus 5, Android 8.0",
+  "client_settings": "Android alpha 6.1.0",
+  "actual_result": "It appears",
+  "expected_result": "No \"You're viewing older messages\" should appear as you're already on the one of the last messages sent",
+  "short_description": "\"You're viewing older messages\" message appears even when you jump to the latest message using search",
+  "steps_to_repro": "- Go to a server and click on the magnifying glass - Give some parameters so that you see some recently sent results - Jump to a message in a channel you haven't been into since you started discord"
+ }
+}

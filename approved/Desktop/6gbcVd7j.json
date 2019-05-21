@@ -1,0 +1,15 @@
+{
+ "id": "5864db35552425d2c6ff8171",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 296,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/6gbcVd7j",
+ "data": {
+  "actual_result": "Discord closes and quits, and does not remain running in the background.",
+  "expected_result": "The window should close, and Discord should continue running in the background (i.e. same behaviour as clicking the close button)",
+  "short_description": "Alt-F4 completely quits Discord",
+  "steps_to_repro": "- Press Alt-F4 "
+ }
+}

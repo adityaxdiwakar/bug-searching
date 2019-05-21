@@ -1,0 +1,30 @@
+{
+ "id": "5b75e1807d8ef8192e44fdca",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 2719,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0iWQ0jTX",
+ "data": {
+  "system_settings": "Win 10",
+  "client_settings": "stable, Build Number: 22036",
+  "actual_result": "The name now shows the verified check and you are no longer able to change it for what was added.",
+  "expected_result": "The name of the game should still be able to be changed.",
+  "short_description": "Change name in Now Playing to verified game and can not change again.",
+  "steps_to_repro": "- User Settings > Games - Click 'Add it!' and add a game. - Change the name of the added program to a verified game (Ex: Starcraft) - Game will now appear as verified game and you can not change it."
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "583b25091d51400888a2e5e5",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 177,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bz1ADQG7",
+ "data": {
+  "system_settings": " Win 10, Latest Canary.",
+  "actual_result": "The emoji is used for a few seconds and then quickly disappears without a warning message.",
+  "expected_result": "There would be message telling you that you cannot react with external emojis.",
+  "short_description": "When trying to react to a message when you don't have the use external emojis permission will try to use the emote but instantly delete it without a warning.",
+  "steps_to_repro": "- Be in a server/channel where you do not have the External emojis permission but have the reaction permission. - Try to use a super cool external emoji as a reaction to a message. "
+ }
+}

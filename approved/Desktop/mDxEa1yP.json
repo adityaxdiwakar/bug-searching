@@ -1,0 +1,30 @@
+{
+ "id": "5c12fa2d22986c5d10bf7359",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3485,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/mDxEa1yP",
+ "data": {
+  "system_settings": "Windows 10 Education (1809) x64",
+  "client_settings": "Desktop Canary 29619",
+  "actual_result": "The word \"BOT\" is misaligned at the top instead",
+  "expected_result": "The bot tag should look alright with the word \"BOT\" aligned correctly in the center",
+  "short_description": "Regression of misaligned bot tags (w/missing rounded corners)",
+  "steps_to_repro": "- Click on a bot's profile"
+ }
+}

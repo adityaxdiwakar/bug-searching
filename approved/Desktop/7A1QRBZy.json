@@ -1,0 +1,24 @@
+{
+ "id": "5bda37ace702868b89472016",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3322,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5bd3724565f4570ad2d714ba",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "MOJAVE!",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/7A1QRBZy",
+ "data": {
+  "system_settings": "MacBook Pro (13\", Mid-2012), macOS v10.14 (Mojave)",
+  "client_settings": "Firefox v63.0 (64-bit)",
+  "actual_result": "The Client ID is in a black font.",
+  "expected_result": "The Client ID isn't in a black font.",
+  "short_description": "[macOS Mojave Specific] [Firefox Specific] Client IDs and Client Secrets are colored black in the developer applications page.",
+  "steps_to_repro": "- Open the Developer Applications page. (/developers/applications/) - Open, or create an application"
+ }
+}

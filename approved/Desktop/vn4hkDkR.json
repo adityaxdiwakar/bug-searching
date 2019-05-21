@@ -1,0 +1,30 @@
+{
+ "id": "5a8c3a77a4364bd26628a506",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1674,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/vn4hkDkR",
+ "data": {
+  "system_settings": "Windows 10, 64-bit",
+  "client_settings": "Release Channel: canary, Build Number: 10912",
+  "actual_result": "It is not formatted",
+  "expected_result": "It should be formatted",
+  "short_description": "One line code blocks are not parsed in channel topics",
+  "steps_to_repro": "- Edit the channel topic of a channel to have a word in a codeblock - Save the changes and observe the topic"
+ }
+}

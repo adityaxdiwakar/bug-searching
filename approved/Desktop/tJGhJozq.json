@@ -1,0 +1,29 @@
+{
+ "id": "5811dd430f8d147a8eae3538",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 74,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "5a5e4e52a98b2a3803ca5454",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Q1",
+   "color": null
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tJGhJozq",
+ "data": {
+  "system_settings": " Regular, PTB, and Canary ",
+  "actual_result": "Because it thinks it's established a connection, it doesn't know what to do and freezes.",
+  "expected_result": "Discord would keep trying to reconnect",
+  "short_description": "Disconnecting from internet between the updating and connecting will completely freeze Discord",
+  "steps_to_repro": "- Start Discord up, wait for it to stop looking for updates - Just as it begins to say \"STARTING\", disable your wifi - Instead of attempting to reconnect, the entire client will just blank out and freeze. (see here: https://i.gyazo.com/bb14e5dd357d3315f77d147418dd7f7c.gif ). ####Additional steps:- Load the app - Just before the Update part concludes, kill your internet connection "
+ }
+}

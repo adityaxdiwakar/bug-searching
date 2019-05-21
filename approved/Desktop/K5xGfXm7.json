@@ -1,0 +1,48 @@
+{
+ "id": "5a94f4a7d35578a1c1429192",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1688,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5a8c933b1ce1cddeb01e7110",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Crash",
+   "color": null
+  },
+  {
+   "id": "5a860c43a1c27f86fd2c4cfc",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Client side",
+   "color": null
+  },
+  {
+   "id": "5a860c46371185be111abd67",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Voice",
+   "color": null
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/K5xGfXm7",
+ "data": {
+  "system_settings": "Windows 10 HOME; Version 1709 (OS Build 16299.64)",
+  "client_settings": "[BUILD INFO] Release Channel: stable, Build Number: 10906, Version Hash: 3c144be67111a692bdc6f459ab98e235b53699b6",
+  "actual_result": "Crashes (or reloads) your discord.",
+  "expected_result": "It should disconnect you like normal, and it SHOULDN'T crash your discord.",
+  "short_description": "If you disconnect quick enough whilst on the RTC Connecting status on Discord's Voice Chat, your discord can crash.",
+  "steps_to_repro": "- Connect to any voice chat you want. - When RTC Connecting shows, disconnect as soon as possible. - If you did it fast enough, discord should crash (or restart.)"
+ }
+}

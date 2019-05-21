@@ -1,0 +1,24 @@
+{
+ "id": "596123f80d4b1d272e367d09",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 831,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/0P2sF3Mr",
+ "data": {
+  "system_settings": "Windows 10",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "The X is not centered and is a bit down to the right.",
+  "expected_result": "The X should be centered",
+  "short_description": "Invite Expired not centered",
+  "steps_to_repro": "- Write any kind of random expired invite - See that the X is not centered."
+ }
+}

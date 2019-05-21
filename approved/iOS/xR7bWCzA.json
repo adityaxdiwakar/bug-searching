@@ -1,0 +1,17 @@
+{
+ "id": "5b6d9ee2e04c120171e6a84b",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 889,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xR7bWCzA",
+ "data": {
+  "system_settings": "iPhone 8 Plus - iOS 11.4.1, iPad Air 2 - iOS 12 Public Beta 5",
+  "client_settings": "TestFlight 2.3.6 (6691)",
+  "actual_result": "Discord crashes after closing server settings.",
+  "expected_result": "The link should be removed or replaced because there are no keybind settings for iOS.",
+  "short_description": "Discord crashes when clicking on the priority speaker description link",
+  "steps_to_repro": "- Go to your server settings - Open roles - Click on any role - Select voice permission - Click on the link in the description of the priority speaker permission - Close the server settings"
+ }
+}

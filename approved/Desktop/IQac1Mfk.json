@@ -1,0 +1,15 @@
+{
+ "id": "585985503e0f038a7fabe8fe",
+ "closed": true,
+ "idList": "57d19c9d9c34060a61b95f57",
+ "idShort": 262,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/IQac1Mfk",
+ "data": {
+  "actual_result": "User is shown as available (green)",
+  "expected_result": "The users status should show up as streaming (Purple)",
+  "short_description": "Users status is shown as available when left clicking on the name, even though the user is in streamer mode",
+  "steps_to_repro": "- enable streamer mode / find person that is shown as streaming  - left click on you / the streaming user - etc "
+ }
+}

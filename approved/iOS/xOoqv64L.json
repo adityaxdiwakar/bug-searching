@@ -1,0 +1,17 @@
+{
+ "id": "5b2c365d339d04d237153f66",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 800,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/xOoqv64L",
+ "data": {
+  "system_settings": "iPhone 6 - iOS 12 {dev beta 2}",
+  "client_settings": "TestFlight 2.3.4 (5330)",
+  "actual_result": "Mention button doesn\u2019t mention the person",
+  "expected_result": "U should be able to mention the person without problems",
+  "short_description": "Mentioning a user when holding down the mention doesn\u2019t work",
+  "steps_to_repro": "- Hold on a user till you see \u201cmention\u201d - click mention and notice it won\u2019t mention"
+ }
+}

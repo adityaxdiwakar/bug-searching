@@ -1,0 +1,17 @@
+{
+ "id": "5951e348345dc234f3c68548",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 791,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/RTHQZUi6",
+ "data": {
+  "system_settings": "Windows 10 Home x64, Creators Update",
+  "client_settings": "Canary 0.0.157",
+  "actual_result": "The first user stays bolded even when mouse is pulled away",
+  "expected_result": "Their name only bolds when moused over",
+  "short_description": "When mousing over the first person in a voice channel, their name stays bold even when moused off",
+  "steps_to_repro": "- Mouse over a voice channel with users in it"
+ }
+}

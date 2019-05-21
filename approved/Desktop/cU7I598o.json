@@ -1,0 +1,30 @@
+{
+ "id": "5b60dc1a9492c3c7179433f4",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2548,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/cU7I598o",
+ "data": {
+  "system_settings": "MacBook Pro 13\" (2016), macOS High Sierra 10.13.6",
+  "client_settings": "Canary Build 20386",
+  "actual_result": "It is blue now.",
+  "expected_result": "The prune button should be red like it used to be.",
+  "short_description": "Prune members button is blue instead of red",
+  "steps_to_repro": "- Make sure you have kick members permission - Open server settings - Go to Members - Observe the prune button"
+ }
+}

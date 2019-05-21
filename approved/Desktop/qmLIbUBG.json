@@ -1,0 +1,30 @@
+{
+ "id": "59eff97b3c1d2c73a8dd6feb",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1316,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  },
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qmLIbUBG",
+ "data": {
+  "system_settings": "Windows10 x32",
+  "client_settings": "Canary 0.0.167",
+  "actual_result": "it saves it",
+  "expected_result": "it shouldn\u00b4t save",
+  "short_description": "changing user (logout and login with another user) saves the custom playing status",
+  "steps_to_repro": "- set a custom \"playing status for a application(example chrome) and set it to \"nothing\" or something else - logout and login with another account"
+ }
+}

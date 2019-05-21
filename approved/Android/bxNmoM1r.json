@@ -1,0 +1,17 @@
+{
+ "id": "5bfce1adaa4f3a50ba87d1a8",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2359,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/bxNmoM1r",
+ "data": {
+  "system_settings": "LG Fortune, Android 6.0.1",
+  "client_settings": "Discord Alpha 8.0.0",
+  "actual_result": "It generates a blank",
+  "expected_result": "If it fails to generate an invite, it shouldn't even generate one.",
+  "short_description": "When clicking \"instant invite\" from an invalid invite, it actually leads you to the invite screen and posts a blank discord.gg when you select someone.",
+  "steps_to_repro": "- Create a quick server, and send an invite to someone's DM. - Delete that server, and go back to the DM. - Then, you will see an invalid invite with \"Create instant invite\". Press it. - It should lead you to the invite screen. Select someone and send it. - Go to the DMs of that user you just selected."
+ }
+}

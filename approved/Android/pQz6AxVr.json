@@ -1,0 +1,16 @@
+{
+ "id": "58f2a34c301464154b2834b9",
+ "closed": true,
+ "idList": "57f2a75720700abeabcc305f",
+ "idShort": 377,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/pQz6AxVr",
+ "data": {
+  "system_settings": " Android 6.0.1 Discord 3.6.5",
+  "actual_result": "The picker stacks and can be used (but with a short timing)",
+  "expected_result": "Nothing happens when switching",
+  "short_description": "Emojis picker stacks when switching between keyboard for a short amount of time",
+  "steps_to_repro": " - Switch between keyboard and the picker (happens the 2nd time)\r \r"
+ }
+}

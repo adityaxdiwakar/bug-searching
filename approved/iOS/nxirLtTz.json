@@ -1,0 +1,30 @@
+{
+ "id": "5b2c2685bd9a2693f6048e92",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 792,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28aa3fdfc0326b2b2223",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nxirLtTz",
+ "data": {
+  "system_settings": "iPhone 6 - iOS 12 {dev beta 2}",
+  "client_settings": "TestFlight 2.3.4 (5330)",
+  "actual_result": "User shows offline in @",
+  "expected_result": "User should shown online when typing @",
+  "short_description": "Online indicator showing offline while user is online",
+  "steps_to_repro": "- Type @ in chatbox - Notice person is offline - Go to their profile  - Notice they\u2019re online"
+ }
+}

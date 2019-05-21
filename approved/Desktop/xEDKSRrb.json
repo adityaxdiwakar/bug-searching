@@ -1,0 +1,23 @@
+{
+ "id": "59139161275195cd2c0c9f70",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 623,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/xEDKSRrb",
+ "data": {
+  "system_settings": " Win 10 x64, discord canary",
+  "actual_result": "Gaping emptieness where my soul should be.",
+  "expected_result": "Reasonable amount of whitespace below",
+  "short_description": "Chill zone popup has too much white space",
+  "steps_to_repro": "- Send a lot of messages in a short amount of time - Marvel at the wonders of whitespace "
+ }
+}

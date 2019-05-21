@@ -1,0 +1,30 @@
+{
+ "id": "5b700b37ba9ed929bfe99394",
+ "closed": true,
+ "idList": "5b47dde20d51e9100dd6c0f0",
+ "idShort": 2683,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/tz1yn2ik",
+ "data": {
+  "system_settings": "Windows 10 Pro (1803) (17134.191) x64-bit",
+  "client_settings": "Discord Stable 21425, Discord Canary 21440",
+  "actual_result": "Discord Overlay shows in Top-Right corner, all keyboard input to the game will not work. Alt-Tab and Alt-F4 work.",
+  "expected_result": "Discord Overlay should work as intended using the hotkeys and seeing any Discord users in voice chat.",
+  "short_description": "Discord In-game Overlay disables keyboard input in Battlefield 4",
+  "steps_to_repro": "- Enable Discord in-game Overlay (Stable or Canary) - Join any Battlefield 4 server - Attempt to use any keys such as Enter or Escape"
+ }
+}

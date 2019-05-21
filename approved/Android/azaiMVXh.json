@@ -1,0 +1,30 @@
+{
+ "id": "5b61eededb281486ae633583",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1752,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/azaiMVXh",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.2.1",
+  "actual_result": "The chat shifts up right after the app changes orientation. It doesn't happen with website embeds, only invites.",
+  "expected_result": "Nothing noticeable should happen",
+  "short_description": "Rotating screen in chat when invite embeds are in sight causes the chat to make a sort of sliding animation towards the top",
+  "steps_to_repro": "- Post a few invite links in chat. Works with only one, but effect is more noticeable when there are several invite embeds - Scroll to a point in chat where many invite embeds are visible - Rotate screen. You may need to do it repeatedly to notice it. Also you can disable transition animations in your Android developer options, it may help"
+ }
+}

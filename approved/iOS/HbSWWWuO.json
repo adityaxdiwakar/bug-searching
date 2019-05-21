@@ -1,0 +1,30 @@
+{
+ "id": "5b5b487dfb53d43facd80fb1",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 854,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/HbSWWWuO",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 4",
+  "client_settings": "TestFlight 2.3.6 (6095)",
+  "actual_result": "Emoji overlaps the mention highlight",
+  "expected_result": "Emoji does not overlap the mention highlight",
+  "short_description": "Emoji overlaps mention highlight when there is no space inbetween",
+  "steps_to_repro": "- Mention someone and put an emoji right next to the mention, making sure to delete the space inbetween - Make sure the emoji you choose extends out to the left a bit - Send the message and observe where the mention highlight and emoji meet"
+ }
+}

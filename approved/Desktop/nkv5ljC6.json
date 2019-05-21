@@ -1,0 +1,23 @@
+{
+ "id": "5916c5fcf008c2fa5bc92593",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 637,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nkv5ljC6",
+ "data": {
+  "system_settings": " Ubuntu 17.04, Discord Canary",
+  "actual_result": "Resets to standard/no zoom, but user settings still show you as having the value you set",
+  "expected_result": "Screen zoom stays at what you set it to",
+  "short_description": "Playing an embedded video (tested with YouTube) resets zoom level",
+  "steps_to_repro": "- Find/post a YouTube video - Play the embed "
+ }
+}

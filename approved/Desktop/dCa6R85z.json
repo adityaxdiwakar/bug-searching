@@ -1,0 +1,17 @@
+{
+ "id": "5b4d38e0a64fdb1032be0df7",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 2278,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/dCa6R85z",
+ "data": {
+  "system_settings": "macOS 10.12.6",
+  "client_settings": "Canary Build 18911",
+  "actual_result": "The tooltip icon is no longer there",
+  "expected_result": "There should be the tooltip icon that gives you the option to copy ID, delete etc",
+  "short_description": "Tooltip icon not showing on images",
+  "steps_to_repro": "- Find or upload an image - Put your cursor on the message of the image - Look at the right hand side"
+ }
+}

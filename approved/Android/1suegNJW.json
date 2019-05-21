@@ -1,0 +1,17 @@
+{
+ "id": "5bfeda7c8462d9738df7e579",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 2365,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/1suegNJW",
+ "data": {
+  "system_settings": "Xiaomi Mi A2 Lite, Android 8.1.0",
+  "client_settings": "Alpha 8.0.2",
+  "actual_result": "It shows the option being selected and very quickly reverts to the previous option.",
+  "expected_result": "It should choose the option",
+  "short_description": "Cannot use \"Let my Operating System decide\" in Voice & Video settings for OpenSL",
+  "steps_to_repro": "- Tap on user settings - Tap on Voice & Video - Tap Let my Operating System decide"
+ }
+}

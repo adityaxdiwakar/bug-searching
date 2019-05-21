@@ -1,0 +1,30 @@
+{
+ "id": "5b2da16d104feffd5275e1e3",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1580,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/clqlLblB",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 6.9.6",
+  "actual_result": "The client tries to do everything at the same time and may produce conflicts, causing weird toasts to appear such as \"only one channel can have a parent_id modified at a time\". Usually when those errors show up your channels won't be sorted properly at the end",
+  "expected_result": "The client should queue your actions properly, so everything is sorted fine at the end, even if you have to wait for quite a while since your internet is slow",
+  "short_description": "Sorting multiple channels by moving them to different categories while you have a weak connection may cause weird errors to show up",
+  "steps_to_repro": "- Go to your mobile data settings of your Android device and select option to force 2G. This is the best way to simulate a weak connection.  - Open Server Settings > Channels - Select either text or voice sorting mode (personally it occured more often when sorting voice channels, but that might be just me)  - Try to sort several channels successively by moving them into different categories. Try to be as quick as possible (without making it a destructive behavior either) : move another channel as soon as you released your finger to move a channel"
+ }
+}

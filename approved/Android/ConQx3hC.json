@@ -1,0 +1,16 @@
+{
+ "id": "58ef3827ae639f970dfd0679",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 361,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/ConQx3hC",
+ "data": {
+  "system_settings": " Android 6.0 3.6.4",
+  "actual_result": "Reaction can be added",
+  "expected_result": "Not being able to add a reaction",
+  "short_description": "Being able to react on pin alert",
+  "steps_to_repro": "- Pin a message - Hold on the pin alert message - Add a reaction "
+ }
+}

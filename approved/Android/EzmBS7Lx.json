@@ -1,0 +1,30 @@
+{
+ "id": "5b6ee5b31394976800d12b46",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1822,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/EzmBS7Lx",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 729",
+  "actual_result": "The place where the red text sat, goes empty and the place isn't covered by the email or the password field.",
+  "expected_result": "There's no padding below the text.",
+  "short_description": "When login fails because of any reason such as \"New login location detected\", no email entered, etc., and when the login is successfully completed, there's a padding below the email field.",
+  "steps_to_repro": "- Logout. - Clear your email. - Hit login. - Now, enter your correct email and password. - Hit login."
+ }
+}

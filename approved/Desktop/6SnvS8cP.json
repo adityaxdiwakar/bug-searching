@@ -1,0 +1,30 @@
+{
+ "id": "5baa97dc8884d820baf7230a",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3034,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6SnvS8cP",
+ "data": {
+  "system_settings": "Win 10 Pro 64x",
+  "client_settings": "Desktop Canary Build 24611",
+  "actual_result": "New message comes but Discord does not scroll down (I am going to add a GIF so you'll understand better)",
+  "expected_result": "Discord auto scrolls to the bottom so the user can see the new message",
+  "short_description": "[Canary Build 24611 only] New messages don't show up untill you scroll down",
+  "steps_to_repro": "- Wait for a message while being at the bottom of the channel - observe"
+ }
+}

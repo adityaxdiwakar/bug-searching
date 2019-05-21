@@ -1,0 +1,15 @@
+{
+ "id": "5828629f2dab55bffc2ba0c3",
+ "closed": true,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 93,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/7IjS5mxC",
+ "data": {
+  "actual_result": "The username is shown -",
+  "expected_result": "The nickname is shown -",
+  "short_description": "Android displays usernames instead of nicknames in mentions",
+  "steps_to_repro": "- "
+ }
+}

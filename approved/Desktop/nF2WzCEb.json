@@ -1,0 +1,30 @@
+{
+ "id": "5acc5083aefa801da80fb527",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1822,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a0baa85872762cbe186c",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "high",
+   "color": "pink"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/nF2WzCEb",
+ "data": {
+  "system_settings": "Win10 x64",
+  "client_settings": "Release Channel: stable, Build Number: 13315, Version Hash: fa8d1a877bc13f374d4663d2932a7b6d1daab0f9",
+  "actual_result": "The screen sharing is interrupted and loads endlessly for all users in the call",
+  "expected_result": "The third user sees the screens shared by the users",
+  "short_description": "When joining a screen sharing call, the screen sharing ends and an endless loading screen appears",
+  "steps_to_repro": "- Two users are in screen share call - Third user is added to the call"
+ }
+}

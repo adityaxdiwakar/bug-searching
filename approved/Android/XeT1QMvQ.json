@@ -1,0 +1,23 @@
+{
+ "id": "58a88355704633b3508be74a",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 236,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/XeT1QMvQ",
+ "data": {
+  "system_settings": " Google Nexus 5x Discord 3.3.4 Alpha",
+  "actual_result": "Occasionally the keyboard will not show up",
+  "expected_result": "Keyboard should show up at all times",
+  "short_description": "Keyboard will occasionally not show up when tapping the keyboard icon with or without choosing another option",
+  "steps_to_repro": "- Step 1 - Press the plus sign Step 2.1 - Press the keyboard icon Step 2.2 - Press a different icon that isn't the keyboard Step 3.2 - Press the keyboard icon "
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5bd713e46f4afa574a505903",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3303,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/LyHhK9tF",
+ "data": {
+  "system_settings": "Windows 10 familly, version 10.0.17134 number 17134",
+  "client_settings": "stable, Build Number: 27050, Version Hash: 554093f0e731de0a82dafe3fb51493ad4c06aed8",
+  "actual_result": "Settings overlay fade in weird ways",
+  "expected_result": "Settings overlay should fade completely",
+  "short_description": "Incall settings overlay fade not correctly",
+  "steps_to_repro": "- Call - Click on settings bouton - instantly press escape"
+ }
+}

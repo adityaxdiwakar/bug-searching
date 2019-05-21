@@ -1,0 +1,15 @@
+{
+ "id": "581952c07c5f61ef395694c6",
+ "closed": true,
+ "idList": "57f3de4c7074898c49b0b36e",
+ "idShort": 58,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/yoeOkCd6",
+ "data": {
+  "actual_result": "Question mark",
+  "expected_result": "The  emoji displays a question mark if it isn't supported by system",
+  "short_description": "emojis that aren't built in to the OS display a question mark: you could add those in the way you add custom emotes though",
+  "steps_to_repro": "- Use the facepalm emoji on iOS "
+ }
+}

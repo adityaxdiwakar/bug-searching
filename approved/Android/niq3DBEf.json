@@ -1,0 +1,17 @@
+{
+ "id": "5ba97f81a264170a40fa794f",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2012,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/niq3DBEf",
+ "data": {
+  "system_settings": "Android 7.0.0",
+  "client_settings": "Android Alpha 7.5.5",
+  "actual_result": "'null' is displayed as the invite code",
+  "expected_result": "The invite code is displayed",
+  "short_description": "Deleted invite code display as null in audit logs",
+  "steps_to_repro": "- Create an invite - Delete the invite - Observe the invite in the audit log"
+ }
+}

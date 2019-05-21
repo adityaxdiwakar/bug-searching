@@ -1,0 +1,17 @@
+{
+ "id": "5a31866ed41a4cf37fd1f0fe",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 1450,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/iSP9Zcz9",
+ "data": {
+  "system_settings": "Windows 8.1",
+  "client_settings": "[BUILD INFO] Release Channel: canary, Build Number: 8541, Version Hash: 85213f26118124ca302640e43d16f48d4f4da918",
+  "actual_result": "JavaScript error is popping up",
+  "expected_result": "Desktop notification should be triggered",
+  "short_description": "JavaScript error on notification",
+  "steps_to_repro": " - Get a message in a chat that triggers a desktop notification"
+ }
+}

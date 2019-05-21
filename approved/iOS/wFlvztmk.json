@@ -1,0 +1,17 @@
+{
+ "id": "5ae2a171e4df594a409f8adf",
+ "closed": true,
+ "idList": "57fd4af58042f56c271d46b3",
+ "idShort": 700,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/wFlvztmk",
+ "data": {
+  "system_settings": "iPhone 6, iOS 11.3",
+  "client_settings": "TestFlight 2.3.1",
+  "actual_result": "If you try to move the cursor from right to left it will be open the guild member list",
+  "expected_result": "Moving the cursor should be able without problems",
+  "short_description": "Move the cursor in text area is not possible without borders",
+  "steps_to_repro": "- Type some text in your chat area of a guild - Than hold the text to move the curser - Move the curser from right to left"
+ }
+}

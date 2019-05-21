@@ -1,0 +1,30 @@
+{
+ "id": "595cc60ed02d8a1ef446b285",
+ "closed": true,
+ "idList": "581286a2c1e6cd4831c862ca",
+ "idShort": 806,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  },
+  {
+   "id": "5771673884e677fd364b7222",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P2: Fix can wait a while",
+   "color": "yellow"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/zWFMFG5e",
+ "data": {
+  "system_settings": "MacBook Air Early 2014 - macOS Sierra 10.12.5",
+  "client_settings": "Desktop Canary - Build 0.0.149",
+  "actual_result": "The dialog box closes and reopens, and for everytime you press enter, once you've stopped pressing enter and start clicking OKAY it doesn't work. E.g. 3x Enter = 6x dialog (3x enter causing another box + 3x clicking open another box) before it'll work.",
+  "expected_result": "The role is deleted.",
+  "short_description": "When deleting a role, pressing <enter> closes and reopens the dialog, but doesn't delete the role.",
+  "steps_to_repro": "- Find a role that you want/can delete with Administrator privelages - Click on Delete - Press Enter on the dialog"
+ }
+}

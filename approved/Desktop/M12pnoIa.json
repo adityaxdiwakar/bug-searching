@@ -1,0 +1,17 @@
+{
+ "id": "5b5c70a715ed9e1bfb43b579",
+ "closed": true,
+ "idList": "5771678de6092759049c939f",
+ "idShort": 2469,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/M12pnoIa",
+ "data": {
+  "system_settings": "iPhone 8 64GB - iOS 12.0 Public Beta 3 (16A5327f) - Discord TestFlight 2.3.6 (6095)",
+  "client_settings": "Discord Developer Portal",
+  "actual_result": "The fixed header scrolls",
+  "expected_result": "The \"Developer Portal\" header should stay fixed as it does when this menu is not open",
+  "short_description": "Scrolling on new dev portal",
+  "steps_to_repro": "- Open new dev portal - Open hamburger menu in top left - Scroll the page down (not the hamburger menu)"
+ }
+}

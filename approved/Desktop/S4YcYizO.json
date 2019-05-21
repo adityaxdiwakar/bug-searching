@@ -1,0 +1,30 @@
+{
+ "id": "5aa12c1c2426a720170559a5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1714,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/S4YcYizO",
+ "data": {
+  "system_settings": "[Desktop] Windows 7, [Android] Samsung Galaxy J7 Prime",
+  "client_settings": "[Desktop App] Release Channel: stable, Build Number: 11724; [Android App] 6.3.2 (632)",
+  "actual_result": "Theme of Scroll Bar (in the Pinned Section, on Desktop App) does not change",
+  "expected_result": "The desktop app's theme completely changes",
+  "short_description": "Scroll Bar in pinned section doesn't change colour",
+  "steps_to_repro": "- Open Discord Android App and Desktop App - Use the same theme (Light or Dark) on both apps - Enable \"Sync across clients\" in the Appearance section in Android app - On the desktop app, go to a text channel which has a lot of pinned messages - Open \"Pinned Messages\" section (Desktop App) - If you were using Dark theme till now, click on \"Light\" in the mobile app; if you were using Light theme till now, click on \"Dark\" in the mobile app"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ad04fac5f49662de3fa299c",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 1839,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/aWNPMD7u",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Discord Canary 0.0.204, Build 13532",
+  "actual_result": "Search drop-down menu opens further left than when initially opened",
+  "expected_result": "Search drop-down menu opens in the same placement",
+  "short_description": "Search drop-down menu opens in the wrong placement when re-opened",
+  "steps_to_repro": "- Open Search and input a character or select one of the options - Click out of it and then re-open it"
+ }
+}

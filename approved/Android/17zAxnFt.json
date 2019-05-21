@@ -1,0 +1,30 @@
+{
+ "id": "5b4d03deff98b97952069bad",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1651,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/17zAxnFt",
+ "data": {
+  "system_settings": "Galaxy J7 8.0.0",
+  "client_settings": "Discord Stable 693",
+  "actual_result": "The user still has the color of the lower role.",
+  "expected_result": "The user's name color should change to the color of the higher role.",
+  "short_description": "On Android, name color of user doesn't change after editing role colors (Edit: Does fix eventually, just not right away).",
+  "steps_to_repro": "- (Might not work for invisible users) Give an offline user two roles, one without color and one with color.  Assign the one without color higher. - While the user is still offline, change the color of the higher one."
+ }
+}

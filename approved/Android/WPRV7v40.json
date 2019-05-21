@@ -1,0 +1,30 @@
+{
+ "id": "5b8d4a14940f0c5696815153",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1921,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/WPRV7v40",
+ "data": {
+  "system_settings": "Lenovo vibe K5+, 5.1.1",
+  "client_settings": "Discord Alpha 746",
+  "actual_result": "On long pressing, the text goes invisible as the highlight moves onto it.",
+  "expected_result": "The text is in a colour that can be seen.",
+  "short_description": "When you send a friend request to someone using the nearby feature and long press on the person's name, the sent text goes completely invisible. [Light theme only].",
+  "steps_to_repro": "- Switch to light theme (I should not be telling this. You should already be using it). - Open nearby friends and start the Bluetooth search and have a friend with you do the same thing. - Send the person a friend request (tell them not to accept). - Long press on the person's username and observe the sent text."
+ }
+}

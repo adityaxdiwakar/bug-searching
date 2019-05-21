@@ -1,0 +1,30 @@
+{
+ "id": "592a26155de533293e08e6d5",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 687,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/daDgHfFI",
+ "data": {
+  "system_settings": "Windows 10 x64Bit",
+  "client_settings": "Latest Canary",
+  "actual_result": "The role cannot be found in the roles list when attempting to add a role to either yourself or someone else. It won't show up until you put a name to it.",
+  "expected_result": "The role will be visible and can be added to anyone.",
+  "short_description": "You can set spaces in a role name",
+  "steps_to_repro": "- Create a role and put at least 5 spaces in the name - Save changes and proceed to add the role to yourself or someone else."
+ }
+}

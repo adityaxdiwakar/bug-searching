@@ -1,0 +1,30 @@
+{
+ "id": "5c0074c04d83660df1a2f92b",
+ "closed": true,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3453,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/hFCUjXsj",
+ "data": {
+  "system_settings": "Windows 10 Home x64 v1803 & iOS 12.1 (tested on iPhone 5s and iPad mini 3 which both worked)",
+  "client_settings": "Canary 28567 & Testflight 2.4.0 (9370)",
+  "actual_result": "The red 1 icon temporarily displays next to the server icon you were mentioned on on device 2.",
+  "expected_result": "Since you immediately see the mention on device 1, the mention shouldn't show up on device 2 at all.",
+  "short_description": "When mentioned in a channel you are already looking at, the mention shows up next to the server icon on another device.",
+  "steps_to_repro": "- Open a channel in any server on device 1 - Have device 2 in front of you logged into the same Discord account, but not selected on the same channel - Have someone mention you in the channel you are observing with device 1 - Observe the server icon on device 2 - Notice how the mention appears for ~1-2 seconds and then disappears again"
+ }
+}

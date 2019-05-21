@@ -1,0 +1,30 @@
+{
+ "id": "59a707787b020333e939ca03",
+ "closed": true,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 310,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea28a555f6db8b2eeda3dc",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/YcTg7kGO",
+ "data": {
+  "system_settings": "iPad Air 2, iOS 11 PB 7",
+  "client_settings": "TestFlight 1.9.1",
+  "actual_result": "The search icon and text overlaps with the textfield above",
+  "expected_result": "The search icon/image for no result should be shown below the textfield",
+  "short_description": "Search icon overlapping with search text field for server members when they are no results",
+  "steps_to_repro": "- Go to server settings -> members - Use the search there - Use any search keyword that results in a no results message - Make sure that your virtual keyboard is shown and you are using an iPad with landscape mode"
+ }
+}

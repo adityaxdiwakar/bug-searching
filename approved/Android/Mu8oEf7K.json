@@ -1,0 +1,22 @@
+{
+ "id": "5833284c7f7d88c07257eb99",
+ "closed": false,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 103,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/Mu8oEf7K",
+ "data": {
+  "actual_result": "A blank message",
+  "expected_result": "An embed saying \"Today at <time>\"",
+  "short_description": "Embeds won't show timestamp field if no footer with text",
+  "steps_to_repro": "- Send an embed with just a timestamp field  "
+ }
+}

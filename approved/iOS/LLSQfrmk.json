@@ -1,0 +1,17 @@
+{
+ "id": "5bd16c3595bfbf62cd599dbd",
+ "closed": false,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 1113,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/LLSQfrmk",
+ "data": {
+  "system_settings": "Phone 6s iOS 12.1 Dev Beta 4",
+  "client_settings": "TestFlight 2.4.0 (8616)i",
+  "actual_result": "Entry does not show what permissions were granted",
+  "expected_result": "Entry shows what permissions were granted",
+  "short_description": "Creating  a role doesn't show what permissions were granted",
+  "steps_to_repro": "- Go to a server where you can manage roles and view the audit log - Create a role - Go into the audit log and view the entry"
+ }
+}

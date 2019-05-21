@@ -1,0 +1,15 @@
+{
+ "id": "5817a43e676f7391cd014b3e",
+ "closed": true,
+ "idList": "57f2a30d861fa9b5816c9717",
+ "idShort": 81,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/X9Ej221D",
+ "data": {
+  "actual_result": "Get logged out (but changes take affect)",
+  "expected_result": "Not get logged out",
+  "short_description": "On ProfileUpdate, app logs out of Discord",
+  "steps_to_repro": "- Update Avatar and/or Username - Hit Save "
+ }
+}

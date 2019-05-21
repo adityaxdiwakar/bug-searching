@@ -1,0 +1,16 @@
+{
+ "id": "58f8cf9204342cb48628fbfe",
+ "closed": true,
+ "idList": "580e822c24ce2ffdd624a43c",
+ "idShort": 509,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/INjEhkrw",
+ "data": {
+  "system_settings": " arch 0.15 canary",
+  "actual_result": "all the user's  roles are listed again",
+  "expected_result": "only the extra roles are shown",
+  "short_description": "roles are listed twice when using the overflow menu",
+  "steps_to_repro": "- open the new settings's member list - click on the +1 button to show more roles "
+ }
+}

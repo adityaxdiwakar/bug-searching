@@ -1,0 +1,30 @@
+{
+ "id": "5aed59a9d3c50cd386620f4c",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1370,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/qL1SwZQK",
+ "data": {
+  "system_settings": "Kyocera Hydro Wave Android 5.1",
+  "client_settings": "Discord 661",
+  "actual_result": "Nothing",
+  "expected_result": "A Pop Up saying you've been invited to join this server",
+  "short_description": "tapping on a invite link in a sentence does nothing",
+  "steps_to_repro": "- have a invite link, capitalize any letter in the word discord - put a space after the link and some letters - send this as a message and attempt to click on the link"
+ }
+}

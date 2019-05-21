@@ -1,0 +1,30 @@
+{
+ "id": "5bae5b691b5e0a6edf9b5a16",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2066,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59f264d4ee5609aa15d9f5c4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/KhOqAy0S",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.7",
+  "actual_result": "The slider returns to initial position",
+  "expected_result": "The slowmode slider should stay at its position",
+  "short_description": "Toggling NSFW in channel settings resets the slowmode slider",
+  "steps_to_repro": "- Go to channel settings - Move the slowmode slider so the unsaved changes icon appears. Don't click Save yet - Toggle NSFW (or change notification settings, does it as well)"
+ }
+}

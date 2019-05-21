@@ -1,0 +1,17 @@
+{
+ "id": "5c351313f8a54c570d5ca122",
+ "closed": false,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3596,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/nU1xkYOe",
+ "data": {
+  "system_settings": "Edge 44.17763.1.0 on Windows 10 Pro x64",
+  "client_settings": "Canary 30591",
+  "actual_result": "Reaction button doesn't have color, it's invisible",
+  "expected_result": "Reaction button will have color",
+  "short_description": "Reaction buttons are invisible",
+  "steps_to_repro": "- Go to channel where you have permission to write messages - Write message and react on it"
+ }
+}

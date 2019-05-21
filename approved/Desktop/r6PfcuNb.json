@@ -1,0 +1,30 @@
+{
+ "id": "5ba36e388218451ca5cb4e90",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 3010,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/r6PfcuNb",
+ "data": {
+  "system_settings": "Windows 10 Pro 64-bit (1803)",
+  "client_settings": "Discord Canary web (24227)",
+  "actual_result": "It takes me to the library tab on a new browser tab instead of opening the link",
+  "expected_result": "The web client should open the link and take you to the website",
+  "short_description": "The \"Yep\" button on the spoopy link modal does not work on Discord web and throws you into the activity tab [PTB/Stable web only]",
+  "steps_to_repro": "- Use Discord Web (PTB or Stable) - Find a spoopy link, like from a Trello embed title or a GitHub webhook - Click \"Yep\" on the modal - Observe how you for some reason gets put into a channel as /{server_id}/{channel_id}/null then into the activity tab"
+ }
+}

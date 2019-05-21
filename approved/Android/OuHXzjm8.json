@@ -1,0 +1,30 @@
+{
+ "id": "5bce9dc2124ef1689071b448",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 2224,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/OuHXzjm8",
+ "data": {
+  "system_settings": "Samsung Galaxy S7 Edge, Android 8.0",
+  "client_settings": "Discord Alpha 7.7.8",
+  "actual_result": "The code block gets overlapped by the name of the person who mentioned you.",
+  "expected_result": "The code block appears a line under the name, to prevent the mentioner's name from overlapping the code block.",
+  "short_description": "Sending a Code Block and ending the message with a mention causes the code block to underlap the mentioner's name.",
+  "steps_to_repro": "- Send a message with a code block (specifically 3 backticks) - Exit the code block and mention the user at the bottom of the message."
+ }
+}

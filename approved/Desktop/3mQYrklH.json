@@ -1,0 +1,15 @@
+{
+ "id": "58118f09c4e805d2986a0ecb",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 71,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/3mQYrklH",
+ "data": {
+  "actual_result": "Reacts twice instantly, with the non ~'d emote and the ~'d emote. - http://i.imgur.com/7BQxDIQ.png http://i.imgur.com/9coJWS9.png http://i.imgur.com/Ww8C43q.gifv",
+  "expected_result": "One reaction",
+  "short_description": "Emotes that have a ~<number> at the end react twice",
+  "steps_to_repro": "- Get an emote that you have two in your emoji picker with the same name - React using it "
+ }
+}

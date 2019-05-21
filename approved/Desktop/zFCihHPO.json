@@ -1,0 +1,17 @@
+{
+ "id": "59345ffff96e9d895c7f53b7",
+ "closed": true,
+ "idList": "577167f59d3739f090f8fab2",
+ "idShort": 721,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/zFCihHPO",
+ "data": {
+  "system_settings": "Win 10 x64",
+  "client_settings": "Discord Canary, 0.0.155 Build 1169",
+  "actual_result": "The file browser opens",
+  "expected_result": "The file browser does not open",
+  "short_description": "Upload Image option, despite being greyed out, still opens the file browser",
+  "steps_to_repro": "- Have any permission that allows you to view the server overview section in server settings - Press the upload image button"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "5ab21a9b8ab7027e3c1265f3",
+ "closed": false,
+ "idList": "57fe7f909aa7fe383d56406b",
+ "idShort": 635,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfaf9",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59ea289ff1ea9fc4b1173f7e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/6tamzE3x",
+ "data": {
+  "system_settings": "iPhone 7 Plus iOS 10.1.1",
+  "client_settings": "App Store Version 2.2.5",
+  "actual_result": "On iOS, it displays a USA, China, and Korea flag on a single line.",
+  "expected_result": "You should see small block emojis for U,S,C,N,K,R with each on separate lines.",
+  "short_description": "Regional indicator emoji turns into country flags in a multi-line message",
+  "steps_to_repro": "- Type a new message (preferably on PC) by doing the following: - Enter \"\ud83c\uddfa \" (must have 2+ spaces after the last colon) - Line break with SHIFT+ENTER - Enter \"\ud83c\uddf8 \" (2+ spaces after it) - Line break - Enter \"\ud83c\udde8 \" (2+ spaces after it) - Line break - Enter \"\ud83c\uddf3 \" (2+ spaces after it) - Line break - Enter \"\ud83c\uddf0 \" (2+ spaces after it) - Line break - Enter \"\ud83c\uddf7 \" (2+ spaces after it) - Line break - Send the message - View it on an iOS device"
+ }
+}

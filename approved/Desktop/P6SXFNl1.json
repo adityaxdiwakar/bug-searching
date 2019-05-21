@@ -1,0 +1,30 @@
+{
+ "id": "5b63b595469e5f1ddc8d4d99",
+ "closed": false,
+ "idList": "5b1874f39c86d88c1b6bf801",
+ "idShort": 2611,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e5a2e56fd14f3240ea3389",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/P6SXFNl1",
+ "data": {
+  "system_settings": "Windows 10 Home 64-bit (v1709)",
+  "client_settings": "Google Chrome 68.0.3440.84 (64-bit)",
+  "actual_result": "The minimum size warning does not go away unless you leave & re-enter the page",
+  "expected_result": "Minimum size warning should disappear and be replaced with the Remove option",
+  "short_description": "[Website Bug] Image minimum size warning doesn't go away",
+  "steps_to_repro": "- Create an application - Go into the Bot settings panel and create a bot user - Go into Art Assets - Set a cover image under 512x512 in size to trigger the warning - Set another image that does meet the size requirement and observe"
+ }
+}

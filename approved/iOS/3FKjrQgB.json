@@ -1,0 +1,28 @@
+{
+ "id": "58693c2dca3f904adc23ef29",
+ "closed": true,
+ "idList": "5858412042dabceed89d7d83",
+ "idShort": 149,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2d33384e677fd36abfafb",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "P1 - Severe",
+   "color": "orange"
+  },
+  {
+   "id": "59ea28db79bc10932ead618e",
+   "idBoard": "57f2d333b99965a6ba8cd7e0",
+   "name": "Mod cannot reproduce",
+   "color": "black"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/3FKjrQgB",
+ "data": {
+  "actual_result": "the client crashes",
+  "expected_result": "it displays as -\\_\\_- (that\u2019s what all other clients do)",
+  "short_description": "iOS client crashes when too many unescaped formatting characters are in a message",
+  "steps_to_repro": "- Open Discord - Send the message in <https://hastebin.com/raw/liceqoyido> (it\u2019s just a dash, 1998 underscores, and another dash at the end) - Your client should crash within a second of sending the message. "
+ }
+}

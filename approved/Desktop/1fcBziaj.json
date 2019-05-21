@@ -1,0 +1,30 @@
+{
+ "id": "5c1a9ea0f3868888d18cf56b",
+ "closed": false,
+ "idList": "57716787a06d09cf7e0dd1ca",
+ "idShort": 3522,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "5771673884e677fd364b7221",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "P3: Will get fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59e63698ba5129f6b9a75d0b",
+   "idBoard": "5771673855f47b547f2decc3",
+   "name": "Mid",
+   "color": "lime"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/1fcBziaj",
+ "data": {
+  "system_settings": "Im using 64bit Windows 10 Home",
+  "client_settings": "Im using Oct 18 2018 Changelog [BUILD INFO] Release Channel: stable, Build Number: 30033, Version Hash: 9d25a52474116409",
+  "actual_result": "It crashes the Server or Discord Client or it makes Discord lag like hell",
+  "expected_result": "If it doesn't exist then.. Great someone has fixed it.",
+  "short_description": "When spamming some emojis as example \ud83d\udc4c multiple times in the same message, Discord Crashes",
+  "steps_to_repro": "- Hold shift and spam as many emojis (Works best with the same one i use \ud83d\udc4c) untill you almost have 2000 character limit (doesn't have to be the limit as long its a lot of emojis) - Copy & Paste - Now Paste Send Paste Send Pase Send (in a server) and so on...."
+ }
+}

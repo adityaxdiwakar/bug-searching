@@ -1,0 +1,17 @@
+{
+ "id": "5b7460818b74795efd25cd70",
+ "closed": true,
+ "idList": "57f3de4a5e37d8142fde0313",
+ "idShort": 913,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/11YZUAJm",
+ "data": {
+  "system_settings": "iPhone 6s iOS 12 Dev Beta 6",
+  "client_settings": "TestFlight 2.3.7 (6784)",
+  "actual_result": "Current server shows in it's position on the server list",
+  "expected_result": "Current server shows at the top like on 2.3.6 (6771) or right under \"Frequently Used\" like on desktop",
+  "short_description": "Emoji drawer doesn't show the emojis of the server you're in at the top",
+  "steps_to_repro": "- Update to 2.3.7 (6784) - Open the emoji drawer by trying to add a reaction - Observe the section at the top"
+ }
+}

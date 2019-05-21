@@ -1,0 +1,30 @@
+{
+ "id": "5aa0dee6b9bc32ca183ec176",
+ "closed": true,
+ "idList": "57fe7f78ddde6b37323bd670",
+ "idShort": 1172,
+ "idChecklists": [],
+ "labels": [
+  {
+   "id": "57f2a30684e677fd36ab30e4",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "P3 - Will be fixed eventually",
+   "color": "green"
+  },
+  {
+   "id": "59d7e3881aa56dbcc6da1d7b",
+   "idBoard": "57f2a306ca14741151990900",
+   "name": "low",
+   "color": "sky"
+  }
+ ],
+ "shortUrl": "https://trello.com/c/DRYPr3wF",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "633",
+  "actual_result": "it shows all",
+  "expected_result": "Shows only the 5 most recent servers at the top bar of the switcher",
+  "short_description": "Quick switcher isn't showing the 5 most recent servers it instead shows all servers.",
+  "steps_to_repro": "- activate quick switcher - as of 633's patch notes it should only show the top 5 servers, it shows all"
+ }
+}

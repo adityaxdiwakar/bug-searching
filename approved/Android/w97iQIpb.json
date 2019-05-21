@@ -1,0 +1,17 @@
+{
+ "id": "5ab0712270412530a665c4fe",
+ "closed": true,
+ "idList": "58d178ec961e15df2e742cb7",
+ "idShort": 1215,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/w97iQIpb",
+ "data": {
+  "system_settings": "Samsung Galaxy S6, 7.0,",
+  "client_settings": "639",
+  "actual_result": "it's only a code :emote:",
+  "expected_result": "emoji resolves into an emote",
+  "short_description": "Emoji are broken on 639 they display as their emoji code instead of an emoji",
+  "steps_to_repro": "- select an emoji - post it - notice it is displayed as :emoji:"
+ }
+}

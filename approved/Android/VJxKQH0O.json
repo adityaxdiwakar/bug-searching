@@ -1,0 +1,17 @@
+{
+ "id": "5ba983a741666853d9dfd965",
+ "closed": false,
+ "idList": "57f2a37248089a5e6a0bf9b6",
+ "idShort": 2015,
+ "idChecklists": [],
+ "labels": [],
+ "shortUrl": "https://trello.com/c/VJxKQH0O",
+ "data": {
+  "system_settings": "Huawei Mate 9 Android 8.0",
+  "client_settings": "Discord Alpha 7.5.5",
+  "actual_result": "When you tap it the box changes color and stays in this color until you tap it again",
+  "expected_result": "It shouldn't do anything, at most just a hint on press",
+  "short_description": "[Audit Logs] Tapping a non-expandable entry will still change the color of the box",
+  "steps_to_repro": "- Access Audit logs - Find an entry that isn't expandable (e.g message deleted) - Tap on it"
+ }
+}
